@@ -1,0 +1,64 @@
+{
+  "module": 1,
+  "title": "Fassade, Wände und Säulen",
+  "subtitle": "Bautüte 1: romanische Fassade, Außenwände, grüne Säulen mit Rundbögen",
+  "icon": "🏛️",
+  "parts": {
+    "fassade": {
+      "title": "Fassade zur Piazza del Limbo",
+      "description": "Die Fassade ist 2 Blöcke dick und etwa 20 Blöcke breit; der Mittelteil über dem Mittelschiff steigt zu einem Giebel auf Lage 24 (Y 83), die Seitenteile enden bei Lage 15. Außen liegt rauer Bruchstein, am Sockel und um das Portal Pietra serena; das Portal ist 5 Blöcke breit und 7 hoch.",
+      "tip": "Zuerst Sockel und Portalrahmen, dann der Giebel.",
+      "caution": "Lass das Portal bis zum Boden offen. Die romanische Fassade mit einem Portal des 16. Jahrhunderts ist belegt (Stufe A); Maße und Material sind erfunden (Stufe C). Die Platte an der Fassade, die eine Gründung im Jahr 800 behauptet, ist nicht dargestellt. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Fassade ist romanisch, das Portal des 16. Jahrhunderts wird Benedetto da Rovezzano zugeschrieben; eine Platte nennt Karl den Großen und Roland als Gründer im Jahr 800, doch die Forschung datiert den Bau auf das späte 11. Jahrhundert (it.wikipedia, en.wikipedia)."
+    },
+    "lunette_taube": {
+      "title": "Lünette mit der Taube",
+      "description": "Über dem Portal füllt ein blauer Halbkreis von 5 Blöcken Breite das Bogenfeld; in der Mitte sitzt ein weißer Fleck, die Taube.",
+      "tip": "Nur die Außenlage der Fassade wird gefärbt.",
+      "caution": "In der Lünette sitzt eine Taube als Sinnbild des Heiligen Geistes (it.wikipedia, Stufe A); Form und Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Lünette des Portals zeigt die Taube des Heiligen Geistes (it.wikipedia)."
+    },
+    "seitenwaende": {
+      "title": "Außenwände und Apsis",
+      "description": "Die Außenwände sind 2 Blöcke dick, außen Pietra forte mit Sockel und Gesims aus Pietra serena, innen Putz. Die halbrunde Apsis am Ostende besteht außen aus rauem Bruchstein ohne Schmuck.",
+      "tip": "Die Wandstärke bleibt überall 2; die Apsis folgt dem Rund des Umrisses.",
+      "caution": "Die Apsis bewahrt eine schlichte romanische Struktur aus grob behauenem, sichtbarem Stein (it.wikipedia, Stufe A); die Höhen sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Apsis hat ihre schlichte romanische Struktur mit unverputztem Stein behalten (it.wikipedia)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "In den Außenwänden der Seitenschiffe, des Chors und der Kapelle sitzen schmale verglaste Rundbogenfenster von 2 Blöcken Breite.",
+      "tip": "Die Fenster liegen im Abstand von etwa 6 Blöcken.",
+      "caution": "Zahl und Form der Fenster sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Bögen im Inneren der Kirche sind rund (it.wikipedia)."
+    },
+    "arkaden": {
+      "title": "Rundbogenarkaden",
+      "description": "Zwei Reihen von je sechs Rundbögen trennen das Mittelschiff (6 Blöcke breit) von den Seitenschiffen; jeder Bogen ist gut 3 Blöcke weit und knapp 8 hoch. Über den Bögen steigt eine Wand aus Putz bis zum Dachansatz. Eine siebte, größere Öffnung führt vom südlichen Seitenschiff in die Kapelle.",
+      "tip": "Die Bögen bleiben offen; die Wand über ihnen steigt bis Y 76.",
+      "caution": "Die Rundbögen auf Säulen sind belegt (Stufe A); die Zahl von sechs Jochen und alle Maße sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Rundbögen springen aus den Säulen; die Schlichtheit soll Brunelleschis klassische Wiederbelebung angeregt haben (it.wikipedia)."
+    },
+    "saeulen": {
+      "title": "Säulen aus Prato-Marmor",
+      "description": "Zwischen den Bögen stehen 14 Säulenschäfte aus grünem Marmor, 8 Blöcke hoch und knapp 2 Blöcke stark; sie tragen die Rundbögen.",
+      "tip": "Die Schäfte stehen zwischen den Jochen.",
+      "caution": "Säulen aus grünem Marmor von Prato mit verschiedenartigen Kapitellen sind belegt (Stufe A); Zahl und Stärke sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Säulen bestehen aus grünem Marmor von Prato (it.wikipedia, en.wikipedia)."
+    },
+    "kapitelle": {
+      "title": "Kapitelle",
+      "description": "Auf jedem Säulenschaft sitzt ein Kapitell, ein Block hoch: die ersten sind aus Ornamentmarmor, die übrigen aus weißem Marmor, verschieden wie die wiederverwendeten antiken Stücke.",
+      "tip": "Jede Säule bekommt ein eigenes Kapitell.",
+      "caution": "Die Kapitelle sind aus römischen Bauten wiederverwendet und uneinheitlich; die beiden ersten sind korinthisch (it.wikipedia, Stufe A). Die Verteilung im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die ersten beiden korinthischen Kapitelle stammen wohl aus nahen Thermen des 1. Jahrhunderts v. Chr. (it.wikipedia)."
+    },
+    "triumphbogen": {
+      "title": "Triumphwand zum Chor",
+      "description": "Zwischen Langhaus und Chor steht eine Wand von 2 Blöcken Dicke mit einem Rundbogen von 10 Blöcken Breite; ihr Giebel steigt über dem Mittelschiff bis Lage 24.",
+      "tip": "Der Bogen reicht bis zum Boden.",
+      "caution": "Die Trennung von Langhaus und Chor ist erfunden (Stufe C); belegt ist die Apsis am Ende der Basilika. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Basilika endet in einer halbrunden Apsis (en.wikipedia)."
+    }
+  }
+}

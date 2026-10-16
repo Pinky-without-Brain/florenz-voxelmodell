@@ -2,115 +2,113 @@
 
 # Bauanleitung Modul 1: Isolato I0399 – Borgo Santi Apostoli
 
-*Quartier Lungarni: 20 Häuser*
+*Quartier Lungarni: 19 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 278.059 |
-| Bauschritte | 175 |
-| Y-Bereich | 58 bis 122 |
+| Blöcke | 266.287 |
+| Bauschritte | 168 |
+| Y-Bereich | 59 bis 122 |
 | X-Ausdehnung | -870 bis -549 (322 Blöcke) |
 | Z-Ausdehnung | 813 bis 1016 (204 Blöcke) |
-| Kleinster Schritt | 413 Blöcke (Schritt 1.175) |
-| Mittlerer Schritt | 1.589 Blöcke |
-| Größter Schritt | 2.075 Blöcke (Schritt 1.170) |
+| Kleinster Schritt | 411 Blöcke (Schritt 1.168) |
+| Mittlerer Schritt | 1.585 Blöcke |
+| Größter Schritt | 2.075 Blöcke (Schritt 1.163) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 91.436 | 32,9 % |
-| Polierter Tuffstein | `polished_tuff` | 27.472 | 9,9 % |
-| Orange Keramik | `orange_terracotta` | 22.005 | 7,9 % |
-| Weißer Beton | `white_concrete` | 18.663 | 6,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 17.944 | 6,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 17.629 | 6,3 % |
-| Glatter Stein | `smooth_stone` | 14.037 | 5,0 % |
-| Glatter Sandstein | `smooth_sandstone` | 13.339 | 4,8 % |
-| Tuffstein | `tuff` | 12.943 | 4,7 % |
-| Endsteinziegel | `end_stone_bricks` | 11.365 | 4,1 % |
-| Polierter Andesit | `polished_andesite` | 9.369 | 3,4 % |
-| Graues Buntglas | `gray_stained_glass` | 7.162 | 2,6 % |
-| Rosa Keramik | `pink_terracotta` | 5.866 | 2,1 % |
+| Terrakotta | `terracotta` | 88.267 | 33,1 % |
+| Polierter Tuffstein | `polished_tuff` | 26.419 | 9,9 % |
+| Orange Keramik | `orange_terracotta` | 22.005 | 8,3 % |
+| Weißer Beton | `white_concrete` | 18.663 | 7,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 17.926 | 6,7 % |
+| Glatter Stein | `smooth_stone` | 13.981 | 5,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 13.339 | 5,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 13.001 | 4,9 % |
+| Tuffstein | `tuff` | 12.742 | 4,8 % |
+| Endsteinziegel | `end_stone_bricks` | 9.157 | 3,4 % |
+| Polierter Andesit | `polished_andesite` | 9.153 | 3,4 % |
+| Graues Buntglas | `gray_stained_glass` | 7.074 | 2,7 % |
+| Rosa Keramik | `pink_terracotta` | 5.866 | 2,2 % |
 | Grüner Beton | `green_concrete` | 2.726 | 1,0 % |
-| Ziegelsteine | `bricks` | 1.355 | 0,5 % |
+| Ziegelsteine | `bricks` | 1.290 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.196 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.147 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 648 | 0,2 % |
-| Seelaterne | `sea_lantern` | 519 | 0,2 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 220 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 210 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 128 | 0,0 % |
+| Seelaterne | `sea_lantern` | 501 | 0,2 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 144 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 142 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 126 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 126 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 126 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 120 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 120 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 118 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 119 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 118 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 117 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 74 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 66 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 9 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 9 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 486 |
-| Steintreppe | `stone_stairs` | 470 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 480 |
+| Steintreppe | `stone_stairs` | 426 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r7267945` | Palazzo des Ottocento an Lungarno degli Acciaioli | 19.011 | 1.1–1.13 |
-| 2 | `r7267945_innen` | Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau | 4.674 | 1.14–1.17 |
-| 3 | `r7267946` | Palazzo des Cinquecento an Lungarno degli Acciaioli | 39.747 | 1.18–1.40 |
-| 4 | `r7267946_innen` | Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau | 14.241 | 1.41–1.50 |
-| 5 | `w451785463` | Chiesa dei Santi Apostoli | 7.526 | 1.51–1.54 |
-| 6 | `w451785463_innen` | Chiesa dei Santi Apostoli: Innenausbau | 2.020 | 1.55 |
-| 7 | `w495057050` | Renaissance-Palazzo an Borgo Santi Apostoli | 10.446 | 1.56–1.62 |
-| 8 | `w495057050_innen` | Renaissance-Palazzo an Borgo Santi Apostoli: Innenausbau | 2.866 | 1.63–1.64 |
-| 9 | `w495057053` | Reihenhaus an Borgo Santi Apostoli | 5.450 | 1.65–1.67 |
-| 10 | `w495057053_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 2.116 | 1.68–1.69 |
-| 11 | `w495057054` | Reihenhaus an Chiasso Borgherini | 6.668 | 1.70–1.73 |
-| 12 | `w495057054_innen` | Reihenhaus an Chiasso Borgherini: Innenausbau | 2.557 | 1.74–1.75 |
-| 13 | `w495057058` | Reihenhaus an Vicolo dell'Oro | 14.913 | 1.76–1.83 |
-| 14 | `w495057058_innen` | Reihenhaus an Vicolo dell'Oro: Innenausbau | 4.423 | 1.84–1.86 |
-| 15 | `w495057059` | Reihenhaus an Borgo Santi Apostoli | 13.112 | 1.87–1.95 |
-| 16 | `w495057059_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 3.716 | 1.96–1.98 |
-| 17 | `w495057068` | Palazzo des Cinquecento an Borgo Santi Apostoli | 10.140 | 1.99–1.104 |
-| 18 | `w495057068_innen` | Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau | 2.210 | 1.105–1.106 |
-| 19 | `w495057072` | Reihenhaus an Chiasso dei Del Bene | 8.831 | 1.107–1.111 |
-| 20 | `w495057072_innen` | Reihenhaus an Chiasso dei Del Bene: Innenausbau | 3.396 | 1.112–1.114 |
-| 21 | `w495057073` | Palazzo des Cinquecento an Chiasso Altoviti | 9.249 | 1.115–1.119 |
-| 22 | `w495057073_innen` | Palazzo des Cinquecento an Chiasso Altoviti: Innenausbau | 3.105 | 1.120–1.121 |
-| 23 | `w495057081` | Wohnturm an Lungarno degli Acciaioli | 1.650 | 1.122 |
-| 24 | `w495057081_innen` | Wohnturm an Lungarno degli Acciaioli: Innenausbau | 4 | 1.123 |
-| 25 | `w495057083` | Renaissance-Palazzo an Lungarno degli Acciaioli | 21.668 | 1.123–1.134 |
-| 26 | `w495057083_innen` | Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau | 7.566 | 1.135–1.138 |
-| 27 | `w495057085` | Nebengebäude an Chiasso Altoviti | 1.996 | 1.139 |
-| 28 | `w495057085_innen` | Nebengebäude an Chiasso Altoviti: Innenausbau | 1 | 1.140 |
-| 29 | `w495057093` | Reihenhaus an Chiasso Altoviti | 6.447 | 1.140–1.143 |
-| 30 | `w495057093_innen` | Reihenhaus an Chiasso Altoviti: Innenausbau | 1.433 | 1.144 |
-| 31 | `w495057095` | Reihenhaus an Lungarno degli Acciaioli | 1.049 | 1.145 |
-| 32 | `w495057095_innen` | Reihenhaus an Lungarno degli Acciaioli: Innenausbau | 614 | 1.146 |
-| 33 | `w495057096` | Palazzo des Cinquecento an Chiasso dei Del Bene | 10.768 | 1.147–1.152 |
-| 34 | `w495057096_innen` | Palazzo des Cinquecento an Chiasso dei Del Bene: Innenausbau | 2.345 | 1.153–1.154 |
-| 35 | `w495057098` | Palazzo des Cinquecento an Borgo Santi Apostoli | 13.662 | 1.155–1.162 |
-| 36 | `w495057098_innen` | Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau | 2.935 | 1.163–1.164 |
-| 37 | `w495057121` | Reihenhaus an Vicolo dell'Oro | 10.794 | 1.165–1.170 |
-| 38 | `w495057121_innen` | Reihenhaus an Vicolo dell'Oro: Innenausbau | 3.718 | 1.171–1.173 |
-| 39 | `w681735449` | Nebengebäude an Chiasso Altoviti | 579 | 1.174 |
-| 40 | `w681735449_innen` | Nebengebäude an Chiasso Altoviti: Innenausbau | 383 | 1.175 |
-| 41 | `strassenschilder` | Straßenschilder | 30 | 1.175 |
+| 1 | `r7267945` | Palazzo des Ottocento an Lungarno degli Acciaioli | 16.870 | 1.1–1.12 |
+| 2 | `r7267945_innen` | Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau | 4.810 | 1.13–1.16 |
+| 3 | `r7267946` | Palazzo des Cinquecento an Lungarno degli Acciaioli | 39.747 | 1.17–1.39 |
+| 4 | `r7267946_innen` | Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau | 14.241 | 1.40–1.49 |
+| 5 | `w495057050` | Renaissance-Palazzo an Borgo Santi Apostoli | 10.245 | 1.50–1.55 |
+| 6 | `w495057050_innen` | Renaissance-Palazzo an Borgo Santi Apostoli: Innenausbau | 2.866 | 1.56–1.57 |
+| 7 | `w495057053` | Reihenhaus an Borgo Santi Apostoli | 5.432 | 1.58–1.60 |
+| 8 | `w495057053_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 2.116 | 1.61–1.62 |
+| 9 | `w495057054` | Reihenhaus an Chiasso Borgherini | 6.668 | 1.63–1.66 |
+| 10 | `w495057054_innen` | Reihenhaus an Chiasso Borgherini: Innenausbau | 2.557 | 1.67–1.68 |
+| 11 | `w495057058` | Reihenhaus an Vicolo dell'Oro | 14.913 | 1.69–1.76 |
+| 12 | `w495057058_innen` | Reihenhaus an Vicolo dell'Oro: Innenausbau | 4.423 | 1.77–1.79 |
+| 13 | `w495057059` | Reihenhaus an Borgo Santi Apostoli | 13.112 | 1.80–1.88 |
+| 14 | `w495057059_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 3.716 | 1.89–1.91 |
+| 15 | `w495057068` | Palazzo des Cinquecento an Borgo Santi Apostoli | 10.140 | 1.92–1.97 |
+| 16 | `w495057068_innen` | Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau | 2.210 | 1.98–1.99 |
+| 17 | `w495057072` | Reihenhaus an Chiasso dei Del Bene | 8.831 | 1.100–1.104 |
+| 18 | `w495057072_innen` | Reihenhaus an Chiasso dei Del Bene: Innenausbau | 3.396 | 1.105–1.107 |
+| 19 | `w495057073` | Palazzo des Cinquecento an Chiasso Altoviti | 9.249 | 1.108–1.112 |
+| 20 | `w495057073_innen` | Palazzo des Cinquecento an Chiasso Altoviti: Innenausbau | 3.105 | 1.113–1.114 |
+| 21 | `w495057081` | Wohnturm an Lungarno degli Acciaioli | 1.650 | 1.115 |
+| 22 | `w495057081_innen` | Wohnturm an Lungarno degli Acciaioli: Innenausbau | 4 | 1.116 |
+| 23 | `w495057083` | Renaissance-Palazzo an Lungarno degli Acciaioli | 21.668 | 1.116–1.127 |
+| 24 | `w495057083_innen` | Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau | 7.566 | 1.128–1.131 |
+| 25 | `w495057085` | Nebengebäude an Chiasso Altoviti | 1.996 | 1.132 |
+| 26 | `w495057085_innen` | Nebengebäude an Chiasso Altoviti: Innenausbau | 1 | 1.133 |
+| 27 | `w495057093` | Reihenhaus an Chiasso Altoviti | 6.447 | 1.133–1.136 |
+| 28 | `w495057093_innen` | Reihenhaus an Chiasso Altoviti: Innenausbau | 1.433 | 1.137 |
+| 29 | `w495057095` | Reihenhaus an Lungarno degli Acciaioli | 1.049 | 1.138 |
+| 30 | `w495057095_innen` | Reihenhaus an Lungarno degli Acciaioli: Innenausbau | 614 | 1.139 |
+| 31 | `w495057096` | Palazzo des Cinquecento an Chiasso dei Del Bene | 10.768 | 1.140–1.145 |
+| 32 | `w495057096_innen` | Palazzo des Cinquecento an Chiasso dei Del Bene: Innenausbau | 2.345 | 1.146–1.147 |
+| 33 | `w495057098` | Palazzo des Cinquecento an Borgo Santi Apostoli | 13.662 | 1.148–1.155 |
+| 34 | `w495057098_innen` | Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau | 2.935 | 1.156–1.157 |
+| 35 | `w495057121` | Reihenhaus an Vicolo dell'Oro | 10.794 | 1.158–1.163 |
+| 36 | `w495057121_innen` | Reihenhaus an Vicolo dell'Oro: Innenausbau | 3.718 | 1.164–1.166 |
+| 37 | `w681735449` | Nebengebäude an Chiasso Altoviti | 579 | 1.167 |
+| 38 | `w681735449_innen` | Nebengebäude an Chiasso Altoviti: Innenausbau | 383 | 1.168 |
+| 39 | `strassenschilder` | Straßenschilder | 28 | 1.168 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 1/13 (Y 59–60)
+### Schritt 1.1 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 1/12 (Y 59–60)
 
 - **Y-Bereich:** 59 bis 60
 - **Blöcke:** 1.705
@@ -139,17 +137,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 2/13 (Y 60–60)
+### Schritt 1.2 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 2/12 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.321
+- **Blöcke:** 1.320
 - **Bauteile:** `r7267945`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.321 |
+| Polierter Tuffstein | `polished_tuff` | 1.320 |
 
 **Beschreibung**
 
@@ -167,17 +165,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 3/13 (Y 61–63)
+### Schritt 1.3 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 3/12 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.272
+- **Blöcke:** 1.065
 - **Bauteile:** `r7267945`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 986 |
 | Weißer Beton | `white_concrete` | 64 |
 | Glatter Stein | `smooth_stone` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
@@ -199,57 +197,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 4/13 (Y 64–67)
+### Schritt 1.4 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 4/12 (Y 64–68)
 
-- **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.607
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.672
 - **Bauteile:** `r7267945`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.234 |
-| Weißer Beton | `white_concrete` | 136 |
-| Grüner Beton | `green_concrete` | 96 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
-| Polierter Andesit | `polished_andesite` | 36 |
-| Glatter Stein | `smooth_stone` | 9 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.5 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 5/13 (Y 68–70)
-
-- **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.276
-- **Bauteile:** `r7267945`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.105 |
-| Weißer Beton | `white_concrete` | 98 |
-| Graues Buntglas | `gray_stained_glass` | 30 |
-| Grüner Beton | `green_concrete` | 24 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Endsteinziegel | `end_stone_bricks` | 1.201 |
+| Weißer Beton | `white_concrete` | 170 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Grüner Beton | `green_concrete` | 120 |
+| Polierter Andesit | `polished_andesite` | 38 |
+| Glatter Stein | `smooth_stone` | 16 |
 | Tuffsteinziegel | `tuff_bricks` | 7 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
@@ -267,21 +231,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 6/13 (Y 71–74)
+### Schritt 1.5 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 5/12 (Y 69–71)
 
-- **Y-Bereich:** 71 bis 74
-- **Blöcke:** 1.705
+- **Y-Bereich:** 69 bis 71
+- **Blöcke:** 1.092
 - **Bauteile:** `r7267945`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.372 |
+| Endsteinziegel | `end_stone_bricks` | 864 |
 | Glatter Stein | `smooth_stone` | 155 |
-| Weißer Beton | `white_concrete` | 112 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Grüner Beton | `green_concrete` | 30 |
+| Weißer Beton | `white_concrete` | 64 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
@@ -299,109 +263,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 7/13 (Y 75–77)
+### Schritt 1.6 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 6/12 (Y 72–76)
 
-- **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.218
+- **Y-Bereich:** 72 bis 76
+- **Blöcke:** 1.739
 - **Bauteile:** `r7267945`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 906 |
-| Weißer Beton | `white_concrete` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Grüner Beton | `green_concrete` | 90 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.8 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 8/13 (Y 78–81)
-
-- **Y-Bereich:** 78 bis 81
-- **Blöcke:** 1.732
-- **Bauteile:** `r7267945`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.393 |
-| Weißer Beton | `white_concrete` | 184 |
-| Glatter Stein | `smooth_stone` | 155 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.9 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 9/13 (Y 82–84)
-
-- **Y-Bereich:** 82 bis 84
-- **Blöcke:** 1.245
-- **Bauteile:** `r7267945`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 963 |
-| Weißer Beton | `white_concrete` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Grüner Beton | `green_concrete` | 60 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.10 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 10/13 (Y 85–88)
-
-- **Y-Bereich:** 85 bis 88
-- **Blöcke:** 1.651
-- **Bauteile:** `r7267945`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.265 |
+| Endsteinziegel | `end_stone_bricks` | 1.353 |
 | Weißer Beton | `white_concrete` | 188 |
 | Graues Buntglas | `gray_stained_glass` | 108 |
 | Grüner Beton | `green_concrete` | 90 |
@@ -422,18 +294,112 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 11/13 (Y 89–90)
+### Schritt 1.7 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 7/12 (Y 77–80)
 
-- **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.951
+- **Y-Bereich:** 77 bis 80
+- **Blöcke:** 1.429
 - **Bauteile:** `r7267945`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.110 |
-| Endsteinziegel | `end_stone_bricks` | 525 |
+| Endsteinziegel | `end_stone_bricks` | 986 |
+| Weißer Beton | `white_concrete` | 222 |
+| Glatter Stein | `smooth_stone` | 155 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
+| Grüner Beton | `green_concrete` | 30 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.8 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 8/12 (Y 81–83)
+
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 1.065
+- **Bauteile:** `r7267945`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 887 |
+| Weißer Beton | `white_concrete` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
+| Grüner Beton | `green_concrete` | 30 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.9 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 9/12 (Y 84–88)
+
+- **Y-Bereich:** 84 bis 88
+- **Blöcke:** 1.712
+- **Bauteile:** `r7267945`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.222 |
+| Weißer Beton | `white_concrete` | 226 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+| Grüner Beton | `green_concrete` | 120 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.10 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 10/12 (Y 89–90)
+
+- **Y-Bereich:** 89 bis 90
+- **Blöcke:** 1.882
+- **Bauteile:** `r7267945`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.117 |
+| Endsteinziegel | `end_stone_bricks` | 449 |
 | Glatter Stein | `smooth_stone` | 206 |
 | Weißer Beton | `white_concrete` | 110 |
 
@@ -453,18 +419,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 12/13 (Y 90–90)
+### Schritt 1.11 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 11/12 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.462
+- **Blöcke:** 1.461
 - **Bauteile:** `r7267945`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.142 |
-| Endsteinziegel | `end_stone_bricks` | 231 |
+| Polierter Tuffstein | `polished_tuff` | 1.203 |
+| Endsteinziegel | `end_stone_bricks` | 169 |
 | Glatter Stein | `smooth_stone` | 89 |
 
 **Beschreibung**
@@ -483,17 +449,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 13/13 (Y 91–92)
+### Schritt 1.12 – Palazzo des Ottocento an Lungarno degli Acciaioli – Teil 12/12 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
-- **Blöcke:** 866
+- **Blöcke:** 728
 - **Bauteile:** `r7267945`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 866 |
+| Endsteinziegel | `end_stone_bricks` | 728 |
 
 **Beschreibung**
 
@@ -511,69 +477,30 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau – Teil 1/4 (Y 60–71)
+### Schritt 1.13 – Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau – Teil 1/4 (Y 60–71)
 
 - **Y-Bereich:** 60 bis 71
-- **Blöcke:** 1.174
+- **Blöcke:** 1.223
 - **Bauteile:** `r7267945_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.105 |
+| Terrakotta | `terracotta` | 1.149 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 19 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Seelaterne | `sea_lantern` | 21 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 22 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 1.15 – Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau – Teil 2/4 (Y 71–74)
-
-- **Y-Bereich:** 71 bis 74
-- **Blöcke:** 1.163
-- **Bauteile:** `r7267945_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.133 |
-| Seelaterne | `sea_lantern` | 9 |
-| Glatter Stein | `smooth_stone` | 6 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 6 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -592,59 +519,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.16 – Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau – Teil 3/4 (Y 75–80)
+### Schritt 1.14 – Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau – Teil 2/4 (Y 71–73)
 
-- **Y-Bereich:** 75 bis 80
-- **Blöcke:** 1.140
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.181
 - **Bauteile:** `r7267945_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.105 |
-| Glatter Stein | `smooth_stone` | 18 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 5 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 12 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 1.17 – Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau – Teil 4/4 (Y 80–90)
-
-- **Y-Bereich:** 80 bis 90
-- **Blöcke:** 1.197
-- **Bauteile:** `r7267945_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.133 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
+| Terrakotta | `terracotta` | 1.157 |
+| Seelaterne | `sea_lantern` | 7 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 4 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -655,7 +543,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 4 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -674,7 +562,85 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.18 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 1/23 (Y 60–60)
+### Schritt 1.15 – Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau – Teil 3/4 (Y 74–80)
+
+- **Y-Bereich:** 74 bis 80
+- **Blöcke:** 1.190
+- **Bauteile:** `r7267945_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.149 |
+| Glatter Stein | `smooth_stone` | 20 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 14 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.16 – Palazzo des Ottocento an Lungarno degli Acciaioli: Innenausbau – Teil 4/4 (Y 80–90)
+
+- **Y-Bereich:** 80 bis 90
+- **Blöcke:** 1.216
+- **Bauteile:** `r7267945_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.157 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.17 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 1/23 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.711
@@ -702,7 +668,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 2/23 (Y 60–60)
+### Schritt 1.18 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 2/23 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.695
@@ -730,7 +696,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 3/23 (Y 61–63)
+### Schritt 1.19 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 3/23 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.929
@@ -761,7 +727,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 4/23 (Y 64–66)
+### Schritt 1.20 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 4/23 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.668
@@ -794,7 +760,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.22 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 5/23 (Y 67–69)
+### Schritt 1.21 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 5/23 (Y 67–69)
 
 - **Y-Bereich:** 67 bis 69
 - **Blöcke:** 1.785
@@ -827,7 +793,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.23 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 6/23 (Y 70–72)
+### Schritt 1.22 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 6/23 (Y 70–72)
 
 - **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.880
@@ -857,7 +823,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.24 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 7/23 (Y 73–75)
+### Schritt 1.23 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 7/23 (Y 73–75)
 
 - **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.689
@@ -889,7 +855,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 8/23 (Y 76–77)
+### Schritt 1.24 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 8/23 (Y 76–77)
 
 - **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.226
@@ -919,7 +885,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.26 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 9/23 (Y 78–80)
+### Schritt 1.25 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 9/23 (Y 78–80)
 
 - **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.880
@@ -949,7 +915,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.27 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 10/23 (Y 81–83)
+### Schritt 1.26 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 10/23 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.689
@@ -981,7 +947,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.28 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 11/23 (Y 84–86)
+### Schritt 1.27 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 11/23 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.839
@@ -1011,7 +977,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.29 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 12/23 (Y 87–89)
+### Schritt 1.28 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 12/23 (Y 87–89)
 
 - **Y-Bereich:** 87 bis 89
 - **Blöcke:** 1.830
@@ -1043,7 +1009,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.30 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 13/23 (Y 90–92)
+### Schritt 1.29 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 13/23 (Y 90–92)
 
 - **Y-Bereich:** 90 bis 92
 - **Blöcke:** 1.765
@@ -1075,7 +1041,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.31 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 14/23 (Y 93–95)
+### Schritt 1.30 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 14/23 (Y 93–95)
 
 - **Y-Bereich:** 93 bis 95
 - **Blöcke:** 1.878
@@ -1105,7 +1071,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.32 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 15/23 (Y 96–97)
+### Schritt 1.31 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 15/23 (Y 96–97)
 
 - **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.243
@@ -1137,7 +1103,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.33 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 16/23 (Y 98–100)
+### Schritt 1.32 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 16/23 (Y 98–100)
 
 - **Y-Bereich:** 98 bis 100
 - **Blöcke:** 1.778
@@ -1169,7 +1135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.34 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 17/23 (Y 101–103)
+### Schritt 1.33 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 17/23 (Y 101–103)
 
 - **Y-Bereich:** 101 bis 103
 - **Blöcke:** 1.878
@@ -1199,7 +1165,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.35 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 18/23 (Y 104–106)
+### Schritt 1.34 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 18/23 (Y 104–106)
 
 - **Y-Bereich:** 104 bis 106
 - **Blöcke:** 1.819
@@ -1231,7 +1197,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.36 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 19/23 (Y 107–109)
+### Schritt 1.35 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 19/23 (Y 107–109)
 
 - **Y-Bereich:** 107 bis 109
 - **Blöcke:** 1.778
@@ -1263,7 +1229,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.37 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 20/23 (Y 110–111)
+### Schritt 1.36 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 20/23 (Y 110–111)
 
 - **Y-Bereich:** 110 bis 111
 - **Blöcke:** 1.741
@@ -1294,7 +1260,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.38 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 21/23 (Y 112–112)
+### Schritt 1.37 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 21/23 (Y 112–112)
 
 - **Y-Bereich:** 112 bis 112
 - **Blöcke:** 1.760
@@ -1322,7 +1288,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.39 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 22/23 (Y 113–114)
+### Schritt 1.38 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 22/23 (Y 113–114)
 
 - **Y-Bereich:** 113 bis 114
 - **Blöcke:** 1.792
@@ -1350,7 +1316,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.40 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 23/23 (Y 115–121)
+### Schritt 1.39 – Palazzo des Cinquecento an Lungarno degli Acciaioli – Teil 23/23 (Y 115–121)
 
 - **Y-Bereich:** 115 bis 121
 - **Blöcke:** 1.494
@@ -1379,7 +1345,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.41 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 1/10 (Y 60–70)
+### Schritt 1.40 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 1/10 (Y 60–70)
 
 - **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.451
@@ -1417,7 +1383,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.42 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 2/10 (Y 70–70)
+### Schritt 1.41 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 2/10 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.414
@@ -1446,7 +1412,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.43 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 3/10 (Y 71–78)
+### Schritt 1.42 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 3/10 (Y 71–78)
 
 - **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.435
@@ -1490,7 +1456,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.44 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 4/10 (Y 78–78)
+### Schritt 1.43 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 4/10 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.414
@@ -1519,7 +1485,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.45 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 5/10 (Y 79–86)
+### Schritt 1.44 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 5/10 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.435
@@ -1563,7 +1529,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.46 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 6/10 (Y 86–86)
+### Schritt 1.45 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 6/10 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.414
@@ -1592,7 +1558,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.47 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 7/10 (Y 87–94)
+### Schritt 1.46 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 7/10 (Y 87–94)
 
 - **Y-Bereich:** 87 bis 94
 - **Blöcke:** 1.422
@@ -1636,7 +1602,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.48 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 8/10 (Y 94–94)
+### Schritt 1.47 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 8/10 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.414
@@ -1665,7 +1631,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.49 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 9/10 (Y 95–102)
+### Schritt 1.48 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 9/10 (Y 95–102)
 
 - **Y-Bereich:** 95 bis 102
 - **Blöcke:** 1.422
@@ -1709,7 +1675,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.50 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 10/10 (Y 102–103)
+### Schritt 1.49 – Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau – Teil 10/10 (Y 102–103)
 
 - **Y-Bereich:** 102 bis 103
 - **Blöcke:** 1.420
@@ -1740,174 +1706,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.51 – Chiesa dei Santi Apostoli – Teil 1/4 (Y 58–62)
-
-- **Y-Bereich:** 58 bis 62
-- **Blöcke:** 1.872
-- **Bauteile:** `w451785463`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.120 |
-| Gelbe Keramik | `yellow_terracotta` | 734 |
-| Polierter Andesit | `polished_andesite` | 16 |
-| Graues Buntglas | `gray_stained_glass` | 2 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.52 – Chiesa dei Santi Apostoli – Teil 2/4 (Y 63–74)
-
-- **Y-Bereich:** 63 bis 74
-- **Blöcke:** 1.938
-- **Bauteile:** `w451785463`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.853 |
-| Polierter Andesit | `polished_andesite` | 69 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.53 – Chiesa dei Santi Apostoli – Teil 3/4 (Y 75–85)
-
-- **Y-Bereich:** 75 bis 85
-- **Blöcke:** 1.762
-- **Bauteile:** `w451785463`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.606 |
-| Polierter Andesit | `polished_andesite` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.54 – Chiesa dei Santi Apostoli – Teil 4/4 (Y 86–94)
-
-- **Y-Bereich:** 86 bis 94
-- **Blöcke:** 1.954
-- **Bauteile:** `w451785463`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.409 |
-| Gelbe Keramik | `yellow_terracotta` | 435 |
-| Ziegelsteine | `bricks` | 65 |
-| Polierter Andesit | `polished_andesite` | 31 |
-| Graues Buntglas | `gray_stained_glass` | 14 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.55 – Chiesa dei Santi Apostoli: Innenausbau
-
-- **Y-Bereich:** 58 bis 81
-- **Blöcke:** 2.020
-- **Bauteile:** `w451785463_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.896 |
-| Glatter Stein | `smooth_stone` | 56 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 |
-| Seelaterne | `sea_lantern` | 18 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 44 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 1.56 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 1/7 (Y 60–61)
+### Schritt 1.50 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 1/6 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
 - **Blöcke:** 1.626
@@ -1936,21 +1735,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.57 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 2/7 (Y 62–68)
+### Schritt 1.51 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 2/6 (Y 62–70)
 
-- **Y-Bereich:** 62 bis 68
-- **Blöcke:** 1.388
+- **Y-Bereich:** 62 bis 70
+- **Blöcke:** 1.796
 - **Bauteile:** `w495057050`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 736 |
-| Glatter Stein | `smooth_stone` | 193 |
-| Polierter Andesit | `polished_andesite` | 185 |
-| Tuffsteinziegel | `tuff_bricks` | 174 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
+| Tuffstein | `tuff` | 953 |
+| Glatter Stein | `smooth_stone` | 283 |
+| Polierter Andesit | `polished_andesite` | 224 |
+| Tuffsteinziegel | `tuff_bricks` | 211 |
+| Graues Buntglas | `gray_stained_glass` | 125 |
 
 **Beschreibung**
 
@@ -1968,21 +1767,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.58 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 3/7 (Y 69–75)
+### Schritt 1.52 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 3/6 (Y 71–78)
 
-- **Y-Bereich:** 69 bis 75
-- **Blöcke:** 1.550
+- **Y-Bereich:** 71 bis 78
+- **Blöcke:** 1.730
 - **Bauteile:** `w495057050`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 795 |
+| Tuffstein | `tuff` | 872 |
 | Glatter Stein | `smooth_stone` | 352 |
-| Polierter Andesit | `polished_andesite` | 263 |
-| Tuffsteinziegel | `tuff_bricks` | 86 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
+| Polierter Andesit | `polished_andesite` | 341 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
+| Tuffsteinziegel | `tuff_bricks` | 49 |
 
 **Beschreibung**
 
@@ -2000,19 +1799,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.59 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 4/7 (Y 76–82)
+### Schritt 1.53 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 4/6 (Y 79–86)
 
-- **Y-Bereich:** 76 bis 82
-- **Blöcke:** 1.495
+- **Y-Bereich:** 79 bis 86
+- **Blöcke:** 1.730
 - **Bauteile:** `w495057050`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 752 |
-| Glatter Stein | `smooth_stone` | 337 |
-| Polierter Andesit | `polished_andesite` | 290 |
+| Tuffstein | `tuff` | 872 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Polierter Andesit | `polished_andesite` | 331 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
 
 **Beschreibung**
@@ -2031,41 +1830,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.60 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 5/7 (Y 83–89)
+### Schritt 1.54 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 5/6 (Y 87–92)
 
-- **Y-Bereich:** 83 bis 89
-- **Blöcke:** 1.500
-- **Bauteile:** `w495057050`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 797 |
-| Glatter Stein | `smooth_stone` | 280 |
-| Polierter Andesit | `polished_andesite` | 278 |
-| Graues Buntglas | `gray_stained_glass` | 145 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.61 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 6/7 (Y 90–92)
-
-- **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.431
+- **Y-Bereich:** 87 bis 92
+- **Blöcke:** 1.907
 - **Bauteile:** `w495057050`
 
 **Teileliste**
@@ -2073,10 +1841,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 745 |
-| Tuffstein | `tuff` | 374 |
-| Polierter Andesit | `polished_andesite` | 191 |
+| Tuffstein | `tuff` | 556 |
+| Polierter Andesit | `polished_andesite` | 311 |
+| Glatter Stein | `smooth_stone` | 121 |
 | Endsteinziegel | `end_stone_bricks` | 116 |
-| Glatter Stein | `smooth_stone` | 5 |
+| Graues Buntglas | `gray_stained_glass` | 58 |
 
 **Beschreibung**
 
@@ -2094,7 +1863,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.62 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 7/7 (Y 93–100)
+### Schritt 1.55 – Renaissance-Palazzo an Borgo Santi Apostoli – Teil 6/6 (Y 93–100)
 
 - **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.456
@@ -2123,7 +1892,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.63 – Renaissance-Palazzo an Borgo Santi Apostoli: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 1.56 – Renaissance-Palazzo an Borgo Santi Apostoli: Innenausbau – Teil 1/2 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.435
@@ -2136,8 +1905,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.369 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2161,7 +1930,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.64 – Renaissance-Palazzo an Borgo Santi Apostoli: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 1.57 – Renaissance-Palazzo an Borgo Santi Apostoli: Innenausbau – Teil 2/2 (Y 73–82)
 
 - **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.431
@@ -2173,9 +1942,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.369 |
 | Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 
@@ -2201,7 +1970,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.65 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 61–70)
+### Schritt 1.58 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.816
@@ -2233,7 +2002,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.66 – Reihenhaus an Borgo Santi Apostoli – Teil 2/3 (Y 71–85)
+### Schritt 1.59 – Reihenhaus an Borgo Santi Apostoli – Teil 2/3 (Y 71–85)
 
 - **Y-Bereich:** 71 bis 85
 - **Blöcke:** 1.788
@@ -2264,10 +2033,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.67 – Reihenhaus an Borgo Santi Apostoli – Teil 3/3 (Y 86–97)
+### Schritt 1.60 – Reihenhaus an Borgo Santi Apostoli – Teil 3/3 (Y 86–97)
 
 - **Y-Bereich:** 86 bis 97
-- **Blöcke:** 1.846
+- **Blöcke:** 1.828
 - **Bauteile:** `w495057053`
 
 **Teileliste**
@@ -2275,7 +2044,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.014 |
-| Hellgrauer Beton | `light_gray_concrete` | 658 |
+| Hellgrauer Beton | `light_gray_concrete` | 640 |
 | Weißer Beton | `white_concrete` | 100 |
 | Ziegelsteine | `bricks` | 44 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
@@ -2297,7 +2066,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.68 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 1.61 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 748
@@ -2308,20 +2077,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 655 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 47 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
 | Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
 
 **Beschreibung**
 
@@ -2339,7 +2106,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.69 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 2/2 (Y 77–85)
+### Schritt 1.62 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 2/2 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.368
@@ -2379,7 +2146,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.70 – Reihenhaus an Chiasso Borgherini – Teil 1/4 (Y 60–65)
+### Schritt 1.63 – Reihenhaus an Chiasso Borgherini – Teil 1/4 (Y 60–65)
 
 - **Y-Bereich:** 60 bis 65
 - **Blöcke:** 1.670
@@ -2410,7 +2177,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.71 – Reihenhaus an Chiasso Borgherini – Teil 2/4 (Y 66–76)
+### Schritt 1.64 – Reihenhaus an Chiasso Borgherini – Teil 2/4 (Y 66–76)
 
 - **Y-Bereich:** 66 bis 76
 - **Blöcke:** 1.645
@@ -2440,7 +2207,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.72 – Reihenhaus an Chiasso Borgherini – Teil 3/4 (Y 77–87)
+### Schritt 1.65 – Reihenhaus an Chiasso Borgherini – Teil 3/4 (Y 77–87)
 
 - **Y-Bereich:** 77 bis 87
 - **Blöcke:** 1.633
@@ -2470,7 +2237,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.73 – Reihenhaus an Chiasso Borgherini – Teil 4/4 (Y 88–98)
+### Schritt 1.66 – Reihenhaus an Chiasso Borgherini – Teil 4/4 (Y 88–98)
 
 - **Y-Bereich:** 88 bis 98
 - **Blöcke:** 1.720
@@ -2502,7 +2269,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.74 – Reihenhaus an Chiasso Borgherini: Innenausbau – Teil 1/2 (Y 60–75)
+### Schritt 1.67 – Reihenhaus an Chiasso Borgherini: Innenausbau – Teil 1/2 (Y 60–75)
 
 - **Y-Bereich:** 60 bis 75
 - **Blöcke:** 893
@@ -2542,7 +2309,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.75 – Reihenhaus an Chiasso Borgherini: Innenausbau – Teil 2/2 (Y 76–84)
+### Schritt 1.68 – Reihenhaus an Chiasso Borgherini: Innenausbau – Teil 2/2 (Y 76–84)
 
 - **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.664
@@ -2582,7 +2349,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.76 – Reihenhaus an Vicolo dell'Oro – Teil 1/8 (Y 61–64)
+### Schritt 1.69 – Reihenhaus an Vicolo dell'Oro – Teil 1/8 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.794
@@ -2614,7 +2381,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.77 – Reihenhaus an Vicolo dell'Oro – Teil 2/8 (Y 65–72)
+### Schritt 1.70 – Reihenhaus an Vicolo dell'Oro – Teil 2/8 (Y 65–72)
 
 - **Y-Bereich:** 65 bis 72
 - **Blöcke:** 1.936
@@ -2646,7 +2413,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.78 – Reihenhaus an Vicolo dell'Oro – Teil 3/8 (Y 73–80)
+### Schritt 1.71 – Reihenhaus an Vicolo dell'Oro – Teil 3/8 (Y 73–80)
 
 - **Y-Bereich:** 73 bis 80
 - **Blöcke:** 1.954
@@ -2676,7 +2443,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.79 – Reihenhaus an Vicolo dell'Oro – Teil 4/8 (Y 81–87)
+### Schritt 1.72 – Reihenhaus an Vicolo dell'Oro – Teil 4/8 (Y 81–87)
 
 - **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.700
@@ -2706,7 +2473,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.80 – Reihenhaus an Vicolo dell'Oro – Teil 5/8 (Y 88–95)
+### Schritt 1.73 – Reihenhaus an Vicolo dell'Oro – Teil 5/8 (Y 88–95)
 
 - **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.954
@@ -2736,7 +2503,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.81 – Reihenhaus an Vicolo dell'Oro – Teil 6/8 (Y 96–103)
+### Schritt 1.74 – Reihenhaus an Vicolo dell'Oro – Teil 6/8 (Y 96–103)
 
 - **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.928
@@ -2766,7 +2533,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.82 – Reihenhaus an Vicolo dell'Oro – Teil 7/8 (Y 104–110)
+### Schritt 1.75 – Reihenhaus an Vicolo dell'Oro – Teil 7/8 (Y 104–110)
 
 - **Y-Bereich:** 104 bis 110
 - **Blöcke:** 1.674
@@ -2796,7 +2563,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.83 – Reihenhaus an Vicolo dell'Oro – Teil 8/8 (Y 111–121)
+### Schritt 1.76 – Reihenhaus an Vicolo dell'Oro – Teil 8/8 (Y 111–121)
 
 - **Y-Bereich:** 111 bis 121
 - **Blöcke:** 1.973
@@ -2827,7 +2594,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.84 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 1/3 (Y 61–78)
+### Schritt 1.77 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 1/3 (Y 61–78)
 
 - **Y-Bereich:** 61 bis 78
 - **Blöcke:** 1.767
@@ -2867,7 +2634,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.85 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 2/3 (Y 79–93)
+### Schritt 1.78 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 2/3 (Y 79–93)
 
 - **Y-Bereich:** 79 bis 93
 - **Blöcke:** 924
@@ -2907,7 +2674,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.86 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 3/3 (Y 94–104)
+### Schritt 1.79 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 3/3 (Y 94–104)
 
 - **Y-Bereich:** 94 bis 104
 - **Blöcke:** 1.732
@@ -2947,7 +2714,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.87 – Reihenhaus an Borgo Santi Apostoli – Teil 1/9 (Y 60–60)
+### Schritt 1.80 – Reihenhaus an Borgo Santi Apostoli – Teil 1/9 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.512
@@ -2975,7 +2742,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.88 – Reihenhaus an Borgo Santi Apostoli – Teil 2/9 (Y 61–65)
+### Schritt 1.81 – Reihenhaus an Borgo Santi Apostoli – Teil 2/9 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.461
@@ -3008,7 +2775,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.89 – Reihenhaus an Borgo Santi Apostoli – Teil 3/9 (Y 66–69)
+### Schritt 1.82 – Reihenhaus an Borgo Santi Apostoli – Teil 3/9 (Y 66–69)
 
 - **Y-Bereich:** 66 bis 69
 - **Blöcke:** 1.255
@@ -3040,7 +2807,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.90 – Reihenhaus an Borgo Santi Apostoli – Teil 4/9 (Y 70–74)
+### Schritt 1.83 – Reihenhaus an Borgo Santi Apostoli – Teil 4/9 (Y 70–74)
 
 - **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.534
@@ -3071,7 +2838,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.91 – Reihenhaus an Borgo Santi Apostoli – Teil 5/9 (Y 75–79)
+### Schritt 1.84 – Reihenhaus an Borgo Santi Apostoli – Teil 5/9 (Y 75–79)
 
 - **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.556
@@ -3102,7 +2869,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.92 – Reihenhaus an Borgo Santi Apostoli – Teil 6/9 (Y 80–84)
+### Schritt 1.85 – Reihenhaus an Borgo Santi Apostoli – Teil 6/9 (Y 80–84)
 
 - **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.578
@@ -3133,7 +2900,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.93 – Reihenhaus an Borgo Santi Apostoli – Teil 7/9 (Y 85–88)
+### Schritt 1.86 – Reihenhaus an Borgo Santi Apostoli – Teil 7/9 (Y 85–88)
 
 - **Y-Bereich:** 85 bis 88
 - **Blöcke:** 1.214
@@ -3164,7 +2931,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.94 – Reihenhaus an Borgo Santi Apostoli – Teil 8/9 (Y 89–91)
+### Schritt 1.87 – Reihenhaus an Borgo Santi Apostoli – Teil 8/9 (Y 89–91)
 
 - **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.781
@@ -3195,7 +2962,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.95 – Reihenhaus an Borgo Santi Apostoli – Teil 9/9 (Y 92–97)
+### Schritt 1.88 – Reihenhaus an Borgo Santi Apostoli – Teil 9/9 (Y 92–97)
 
 - **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.221
@@ -3224,7 +2991,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.96 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 1/3 (Y 60–69)
+### Schritt 1.89 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 1/3 (Y 60–69)
 
 - **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.245
@@ -3262,7 +3029,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.97 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 2/3 (Y 70–76)
+### Schritt 1.90 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 2/3 (Y 70–76)
 
 - **Y-Bereich:** 70 bis 76
 - **Blöcke:** 1.232
@@ -3302,7 +3069,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.98 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 3/3 (Y 77–84)
+### Schritt 1.91 – Reihenhaus an Borgo Santi Apostoli: Innenausbau – Teil 3/3 (Y 77–84)
 
 - **Y-Bereich:** 77 bis 84
 - **Blöcke:** 1.239
@@ -3344,7 +3111,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.99 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 1/6 (Y 62–64)
+### Schritt 1.92 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 1/6 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.755
@@ -3375,7 +3142,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.100 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 2/6 (Y 65–71)
+### Schritt 1.93 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 2/6 (Y 65–71)
 
 - **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.590
@@ -3407,7 +3174,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.101 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 3/6 (Y 72–78)
+### Schritt 1.94 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 3/6 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.619
@@ -3439,7 +3206,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.102 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 4/6 (Y 79–86)
+### Schritt 1.95 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 4/6 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.868
@@ -3471,7 +3238,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.103 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 5/6 (Y 87–92)
+### Schritt 1.96 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 5/6 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.524
@@ -3503,7 +3270,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.104 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 6/6 (Y 93–101)
+### Schritt 1.97 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 6/6 (Y 93–101)
 
 - **Y-Bereich:** 93 bis 101
 - **Blöcke:** 1.784
@@ -3532,7 +3299,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.105 – Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau – Teil 1/2 (Y 62–72)
+### Schritt 1.98 – Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau – Teil 1/2 (Y 62–72)
 
 - **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.102
@@ -3570,7 +3337,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.106 – Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau – Teil 2/2 (Y 73–83)
+### Schritt 1.99 – Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau – Teil 2/2 (Y 73–83)
 
 - **Y-Bereich:** 73 bis 83
 - **Blöcke:** 1.108
@@ -3610,7 +3377,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.107 – Reihenhaus an Chiasso dei Del Bene – Teil 1/5 (Y 62–65)
+### Schritt 1.100 – Reihenhaus an Chiasso dei Del Bene – Teil 1/5 (Y 62–65)
 
 - **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.845
@@ -3640,7 +3407,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.108 – Reihenhaus an Chiasso dei Del Bene – Teil 2/5 (Y 66–74)
+### Schritt 1.101 – Reihenhaus an Chiasso dei Del Bene – Teil 2/5 (Y 66–74)
 
 - **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.650
@@ -3672,7 +3439,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.109 – Reihenhaus an Chiasso dei Del Bene – Teil 3/5 (Y 75–84)
+### Schritt 1.102 – Reihenhaus an Chiasso dei Del Bene – Teil 3/5 (Y 75–84)
 
 - **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.857
@@ -3703,7 +3470,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.110 – Reihenhaus an Chiasso dei Del Bene – Teil 4/5 (Y 85–92)
+### Schritt 1.103 – Reihenhaus an Chiasso dei Del Bene – Teil 4/5 (Y 85–92)
 
 - **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.683
@@ -3734,7 +3501,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.111 – Reihenhaus an Chiasso dei Del Bene – Teil 5/5 (Y 93–101)
+### Schritt 1.104 – Reihenhaus an Chiasso dei Del Bene – Teil 5/5 (Y 93–101)
 
 - **Y-Bereich:** 93 bis 101
 - **Blöcke:** 1.796
@@ -3763,7 +3530,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.112 – Reihenhaus an Chiasso dei Del Bene: Innenausbau – Teil 1/3 (Y 62–71)
+### Schritt 1.105 – Reihenhaus an Chiasso dei Del Bene: Innenausbau – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.136
@@ -3801,7 +3568,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.113 – Reihenhaus an Chiasso dei Del Bene: Innenausbau – Teil 2/3 (Y 72–78)
+### Schritt 1.106 – Reihenhaus an Chiasso dei Del Bene: Innenausbau – Teil 2/3 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.127
@@ -3841,7 +3608,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.114 – Reihenhaus an Chiasso dei Del Bene: Innenausbau – Teil 3/3 (Y 79–86)
+### Schritt 1.107 – Reihenhaus an Chiasso dei Del Bene: Innenausbau – Teil 3/3 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.133
@@ -3881,7 +3648,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.115 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 1/5 (Y 59–60)
+### Schritt 1.108 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 1/5 (Y 59–60)
 
 - **Y-Bereich:** 59 bis 60
 - **Blöcke:** 1.942
@@ -3913,7 +3680,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.116 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 2/5 (Y 61–70)
+### Schritt 1.109 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 2/5 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.676
@@ -3946,7 +3713,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.117 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 3/5 (Y 71–82)
+### Schritt 1.110 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 3/5 (Y 71–82)
 
 - **Y-Bereich:** 71 bis 82
 - **Blöcke:** 2.004
@@ -3977,7 +3744,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.118 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 4/5 (Y 83–90)
+### Schritt 1.111 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 4/5 (Y 83–90)
 
 - **Y-Bereich:** 83 bis 90
 - **Blöcke:** 2.046
@@ -4009,7 +3776,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.119 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 5/5 (Y 91–99)
+### Schritt 1.112 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 5/5 (Y 91–99)
 
 - **Y-Bereich:** 91 bis 99
 - **Blöcke:** 1.581
@@ -4038,7 +3805,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.120 – Palazzo des Cinquecento an Chiasso Altoviti: Innenausbau – Teil 1/2 (Y 59–69)
+### Schritt 1.113 – Palazzo des Cinquecento an Chiasso Altoviti: Innenausbau – Teil 1/2 (Y 59–69)
 
 - **Y-Bereich:** 59 bis 69
 - **Blöcke:** 1.553
@@ -4076,7 +3843,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.121 – Palazzo des Cinquecento an Chiasso Altoviti: Innenausbau – Teil 2/2 (Y 70–80)
+### Schritt 1.114 – Palazzo des Cinquecento an Chiasso Altoviti: Innenausbau – Teil 2/2 (Y 70–80)
 
 - **Y-Bereich:** 70 bis 80
 - **Blöcke:** 1.552
@@ -4120,7 +3887,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.122 – Wohnturm an Lungarno degli Acciaioli
+### Schritt 1.115 – Wohnturm an Lungarno degli Acciaioli
 
 - **Y-Bereich:** 61 bis 93
 - **Blöcke:** 1.650
@@ -4153,7 +3920,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.123 – Wohnturm an Lungarno degli Acciaioli: Innenausbau & Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 1/12 (Y 61–61)
+### Schritt 1.116 – Wohnturm an Lungarno degli Acciaioli: Innenausbau & Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 1/12 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.066
@@ -4191,7 +3958,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.124 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 2/12 (Y 61–64)
+### Schritt 1.117 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 2/12 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.916
@@ -4222,7 +3989,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.125 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 3/12 (Y 65–71)
+### Schritt 1.118 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 3/12 (Y 65–71)
 
 - **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.950
@@ -4253,7 +4020,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.126 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 4/12 (Y 72–77)
+### Schritt 1.119 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 4/12 (Y 72–77)
 
 - **Y-Bereich:** 72 bis 77
 - **Blöcke:** 2.008
@@ -4285,7 +4052,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.127 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 5/12 (Y 78–83)
+### Schritt 1.120 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 5/12 (Y 78–83)
 
 - **Y-Bereich:** 78 bis 83
 - **Blöcke:** 2.011
@@ -4317,7 +4084,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.128 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 6/12 (Y 84–89)
+### Schritt 1.121 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 6/12 (Y 84–89)
 
 - **Y-Bereich:** 84 bis 89
 - **Blöcke:** 1.885
@@ -4347,7 +4114,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.129 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 7/12 (Y 90–94)
+### Schritt 1.122 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 7/12 (Y 90–94)
 
 - **Y-Bereich:** 90 bis 94
 - **Blöcke:** 1.747
@@ -4377,7 +4144,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.130 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 8/12 (Y 95–100)
+### Schritt 1.123 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 8/12 (Y 95–100)
 
 - **Y-Bereich:** 95 bis 100
 - **Blöcke:** 1.865
@@ -4407,7 +4174,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.131 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 9/12 (Y 101–105)
+### Schritt 1.124 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 9/12 (Y 101–105)
 
 - **Y-Bereich:** 101 bis 105
 - **Blöcke:** 1.747
@@ -4437,7 +4204,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.132 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 10/12 (Y 106–111)
+### Schritt 1.125 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 10/12 (Y 106–111)
 
 - **Y-Bereich:** 106 bis 111
 - **Blöcke:** 2.009
@@ -4468,7 +4235,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.133 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 11/12 (Y 112–114)
+### Schritt 1.126 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 11/12 (Y 112–114)
 
 - **Y-Bereich:** 112 bis 114
 - **Blöcke:** 1.898
@@ -4499,7 +4266,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.134 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 12/12 (Y 115–122)
+### Schritt 1.127 – Renaissance-Palazzo an Lungarno degli Acciaioli – Teil 12/12 (Y 115–122)
 
 - **Y-Bereich:** 115 bis 122
 - **Blöcke:** 1.570
@@ -4528,7 +4295,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.135 – Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau – Teil 1/4 (Y 61–72)
+### Schritt 1.128 – Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau – Teil 1/4 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.896
@@ -4566,7 +4333,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.136 – Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau – Teil 2/4 (Y 73–82)
+### Schritt 1.129 – Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau – Teil 2/4 (Y 73–82)
 
 - **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.887
@@ -4606,7 +4373,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.137 – Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau – Teil 3/4 (Y 83–92)
+### Schritt 1.130 – Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau – Teil 3/4 (Y 83–92)
 
 - **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.887
@@ -4646,7 +4413,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.138 – Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau – Teil 4/4 (Y 93–103)
+### Schritt 1.131 – Renaissance-Palazzo an Lungarno degli Acciaioli: Innenausbau – Teil 4/4 (Y 93–103)
 
 - **Y-Bereich:** 93 bis 103
 - **Blöcke:** 1.896
@@ -4690,7 +4457,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.139 – Nebengebäude an Chiasso Altoviti
+### Schritt 1.132 – Nebengebäude an Chiasso Altoviti
 
 - **Y-Bereich:** 60 bis 95
 - **Blöcke:** 1.996
@@ -4724,7 +4491,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.140 – Nebengebäude an Chiasso Altoviti: Innenausbau & Reihenhaus an Chiasso Altoviti – Teil 1/4 (Y 60–66)
+### Schritt 1.133 – Nebengebäude an Chiasso Altoviti: Innenausbau & Reihenhaus an Chiasso Altoviti – Teil 1/4 (Y 60–66)
 
 - **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.569
@@ -4757,7 +4524,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.141 – Reihenhaus an Chiasso Altoviti – Teil 2/4 (Y 67–76)
+### Schritt 1.134 – Reihenhaus an Chiasso Altoviti – Teil 2/4 (Y 67–76)
 
 - **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.647
@@ -4788,7 +4555,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.142 – Reihenhaus an Chiasso Altoviti – Teil 3/4 (Y 77–86)
+### Schritt 1.135 – Reihenhaus an Chiasso Altoviti – Teil 3/4 (Y 77–86)
 
 - **Y-Bereich:** 77 bis 86
 - **Blöcke:** 1.638
@@ -4819,7 +4586,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.143 – Reihenhaus an Chiasso Altoviti – Teil 4/4 (Y 87–97)
+### Schritt 1.136 – Reihenhaus an Chiasso Altoviti – Teil 4/4 (Y 87–97)
 
 - **Y-Bereich:** 87 bis 97
 - **Blöcke:** 1.594
@@ -4852,7 +4619,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.144 – Reihenhaus an Chiasso Altoviti: Innenausbau
+### Schritt 1.137 – Reihenhaus an Chiasso Altoviti: Innenausbau
 
 - **Y-Bereich:** 60 bis 83
 - **Blöcke:** 1.433
@@ -4892,7 +4659,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.145 – Reihenhaus an Lungarno degli Acciaioli
+### Schritt 1.138 – Reihenhaus an Lungarno degli Acciaioli
 
 - **Y-Bereich:** 60 bis 95
 - **Blöcke:** 1.049
@@ -4927,7 +4694,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.146 – Reihenhaus an Lungarno degli Acciaioli: Innenausbau
+### Schritt 1.139 – Reihenhaus an Lungarno degli Acciaioli: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 614
@@ -4969,7 +4736,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.147 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 1/6 (Y 62–64)
+### Schritt 1.140 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 1/6 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.890
@@ -5002,7 +4769,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.148 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 2/6 (Y 65–71)
+### Schritt 1.141 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 2/6 (Y 65–71)
 
 - **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.680
@@ -5036,7 +4803,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.149 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 3/6 (Y 72–79)
+### Schritt 1.142 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 3/6 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.914
@@ -5069,7 +4836,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.150 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 4/6 (Y 80–86)
+### Schritt 1.143 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 4/6 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
 - **Blöcke:** 1.716
@@ -5102,7 +4869,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.151 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 5/6 (Y 87–92)
+### Schritt 1.144 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 5/6 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.626
@@ -5134,7 +4901,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.152 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 6/6 (Y 93–101)
+### Schritt 1.145 – Palazzo des Cinquecento an Chiasso dei Del Bene – Teil 6/6 (Y 93–101)
 
 - **Y-Bereich:** 93 bis 101
 - **Blöcke:** 1.942
@@ -5163,7 +4930,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.153 – Palazzo des Cinquecento an Chiasso dei Del Bene: Innenausbau – Teil 1/2 (Y 62–72)
+### Schritt 1.146 – Palazzo des Cinquecento an Chiasso dei Del Bene: Innenausbau – Teil 1/2 (Y 62–72)
 
 - **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.170
@@ -5201,7 +4968,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.154 – Palazzo des Cinquecento an Chiasso dei Del Bene: Innenausbau – Teil 2/2 (Y 73–83)
+### Schritt 1.147 – Palazzo des Cinquecento an Chiasso dei Del Bene: Innenausbau – Teil 2/2 (Y 73–83)
 
 - **Y-Bereich:** 73 bis 83
 - **Blöcke:** 1.175
@@ -5241,7 +5008,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.155 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 1/8 (Y 62–63)
+### Schritt 1.148 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 1/8 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.736
@@ -5270,7 +5037,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.156 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 2/8 (Y 64–69)
+### Schritt 1.149 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 2/8 (Y 64–69)
 
 - **Y-Bereich:** 64 bis 69
 - **Blöcke:** 1.803
@@ -5303,7 +5070,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.157 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 3/8 (Y 70–74)
+### Schritt 1.150 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 3/8 (Y 70–74)
 
 - **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.560
@@ -5336,7 +5103,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.158 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 4/8 (Y 75–80)
+### Schritt 1.151 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 4/8 (Y 75–80)
 
 - **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.792
@@ -5368,7 +5135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.159 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 5/8 (Y 81–85)
+### Schritt 1.152 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 5/8 (Y 81–85)
 
 - **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.623
@@ -5398,7 +5165,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.160 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 6/8 (Y 86–91)
+### Schritt 1.153 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 6/8 (Y 86–91)
 
 - **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.764
@@ -5430,7 +5197,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.161 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 7/8 (Y 92–94)
+### Schritt 1.154 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 7/8 (Y 92–94)
 
 - **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.819
@@ -5461,7 +5228,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.162 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 8/8 (Y 95–103)
+### Schritt 1.155 – Palazzo des Cinquecento an Borgo Santi Apostoli – Teil 8/8 (Y 95–103)
 
 - **Y-Bereich:** 95 bis 103
 - **Blöcke:** 1.565
@@ -5490,7 +5257,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.163 – Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 1.156 – Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau – Teil 1/2 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
 - **Blöcke:** 1.466
@@ -5528,7 +5295,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.164 – Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 1.157 – Palazzo des Cinquecento an Borgo Santi Apostoli: Innenausbau – Teil 2/2 (Y 74–84)
 
 - **Y-Bereich:** 74 bis 84
 - **Blöcke:** 1.469
@@ -5568,7 +5335,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.165 – Reihenhaus an Vicolo dell'Oro – Teil 1/6 (Y 61–62)
+### Schritt 1.158 – Reihenhaus an Vicolo dell'Oro – Teil 1/6 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.747
@@ -5598,7 +5365,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.166 – Reihenhaus an Vicolo dell'Oro – Teil 2/6 (Y 63–70)
+### Schritt 1.159 – Reihenhaus an Vicolo dell'Oro – Teil 2/6 (Y 63–70)
 
 - **Y-Bereich:** 63 bis 70
 - **Blöcke:** 1.884
@@ -5629,7 +5396,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.167 – Reihenhaus an Vicolo dell'Oro – Teil 3/6 (Y 71–78)
+### Schritt 1.160 – Reihenhaus an Vicolo dell'Oro – Teil 3/6 (Y 71–78)
 
 - **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.864
@@ -5659,7 +5426,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.168 – Reihenhaus an Vicolo dell'Oro – Teil 4/6 (Y 79–85)
+### Schritt 1.161 – Reihenhaus an Vicolo dell'Oro – Teil 4/6 (Y 79–85)
 
 - **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.621
@@ -5689,7 +5456,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.169 – Reihenhaus an Vicolo dell'Oro – Teil 5/6 (Y 86–91)
+### Schritt 1.162 – Reihenhaus an Vicolo dell'Oro – Teil 5/6 (Y 86–91)
 
 - **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.603
@@ -5719,7 +5486,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.170 – Reihenhaus an Vicolo dell'Oro – Teil 6/6 (Y 92–98)
+### Schritt 1.163 – Reihenhaus an Vicolo dell'Oro – Teil 6/6 (Y 92–98)
 
 - **Y-Bereich:** 92 bis 98
 - **Blöcke:** 2.075
@@ -5748,7 +5515,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.171 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 1/3 (Y 61–70)
+### Schritt 1.164 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.241
@@ -5786,7 +5553,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.172 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 2/3 (Y 71–77)
+### Schritt 1.165 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 2/3 (Y 71–77)
 
 - **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.234
@@ -5828,7 +5595,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.173 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 3/3 (Y 78–85)
+### Schritt 1.166 – Reihenhaus an Vicolo dell'Oro: Innenausbau – Teil 3/3 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.243
@@ -5870,7 +5637,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.174 – Nebengebäude an Chiasso Altoviti
+### Schritt 1.167 – Nebengebäude an Chiasso Altoviti
 
 - **Y-Bereich:** 60 bis 94
 - **Blöcke:** 579
@@ -5903,10 +5670,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.175 – Nebengebäude an Chiasso Altoviti: Innenausbau & Straßenschilder
+### Schritt 1.168 – Nebengebäude an Chiasso Altoviti: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 60 bis 82
-- **Blöcke:** 413
+- **Blöcke:** 411
 - **Bauteile:** `w681735449_innen`, `strassenschilder`
 
 **Teileliste**
@@ -5918,9 +5685,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 20 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 9 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 9 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 8 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 |
 | Seelaterne | `sea_lantern` | 4 |
 
 **Treppen je Material** (alle Richtungen)

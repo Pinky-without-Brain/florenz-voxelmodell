@@ -17,7 +17,7 @@ Ausdehnung des Modells: X -909 bis -78, Y 60 bis 130, Z -942 bis 103.
 | 5 | Isolato I0401 – Via dell'Alloro | 223.839 | 138 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
 | 6 | Isolato I0408 – Via Faenza | 238.387 | 148 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
 | 7 | Isolato I0418 – Via dei Cerretani | 60.574 | 40 | [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md) |
-| 8 | Isolato I0419 – Piazza dell'Olio | 212.417 | 130 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
+| 8 | Isolato I0419 – Piazza dell'Olio | 191.010 | 116 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
 | 9 | Isolato I0428 – Via del Gomitolo dell'Oro | 176.968 | 111 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
 | 10 | Isolato I0433 – Via dei Conti | 120.266 | 78 | [BAUANLEITUNG_MODUL_10.md](BAUANLEITUNG_MODUL_10.md) |
 | 11 | Isolato I0434 – Piazza del Mercato Centrale | 169.615 | 113 | [BAUANLEITUNG_MODUL_11.md](BAUANLEITUNG_MODUL_11.md) |

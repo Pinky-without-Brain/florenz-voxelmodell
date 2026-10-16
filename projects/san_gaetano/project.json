@@ -1,0 +1,10 @@
+{
+  "id": "san_gaetano",
+  "title": "Chiesa dei Santi Michele e Gaetano",
+  "type": "wahrzeichen",
+  "gebaeude": ["w234429578"],
+  "bodenY": 64,
+  "rahmen": { "ox": -774, "oz": 193, "thetaDeg": 179.04 },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Boden auf Y 64",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Das Gelände steigt von der Piazza degli Antinori (Y 63) zur Rückseite hin auf Y 66 an. Im Umriss trägst du es bis Y 63 ab; nur an wenigen Stellen vor der Fassade füllst du mit Bruchstein auf.",
+      "tip": "Nach dem Abtragen liegt die ganze Fläche auf Y 63, der Boden folgt darüber.",
+      "caution": "Nicht über Y 63 füllen, sonst sitzt der Fußboden zu hoch. Die Höhen stammen aus dem Geländemodell der Stadt.",
+      "fact": "Der Bau begann am 22. August 1604; die Kirche wurde 1649 geweiht, die Freitreppe auf der Piazza Antinori 1701 vollendet (it.wikipedia, Chiesa dei Santi Michele e Gaetano)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 64 legst du den Boden. Im Schiff und in der Vierung wechseln Felder aus Pietra serena und weißem Marmor im Dreierraster, unter dem Chor liegen Ringe aus Weiß und Rot um eine goldene Mitte, in der Apsis kleine Felder aus Ornamentmarmor und Weiß, in den Kapellen und Querhausarmen rosa Terrakotta und Weiß, im Turm Pflaster.",
+      "tip": "Die Lichtfelder setzt erst Bautüte 4.",
+      "caution": "Der Boden geht auch unter allen Wänden durch. Das Muster ist erfunden (Stufe C); die Quellen beschreiben den Belag nicht. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Hochaltar zeigt Rosso di Francia, Lapislazuli, Verde Greco, Giallo di Siena und Giallo antico (it.wikipedia)."
+    }
+  }
+}

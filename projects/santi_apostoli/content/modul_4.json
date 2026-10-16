@@ -1,0 +1,141 @@
+{
+  "module": 4,
+  "title": "Ausstattung der Kirche",
+  "subtitle": "Bautüte 4: Kapellen, Grabmäler, Tabernakel, Polyptychon",
+  "icon": "🖼️",
+  "parts": {
+    "seitenaltaere": {
+      "title": "Kapellenaltäre",
+      "description": "An den Außenwänden der beiden Seitenschiffe und in der Kapelle stehen acht Altäre aus weißem Marmor, gut 3 Blöcke breit und 2 hoch, mit einem goldenen Aufsatz.",
+      "tip": "Die Altäre stehen dicht an der Wand.",
+      "caution": "Quelle: Seitenkapellen des 16. Jahrhunderts, klein (it.wikipedia, Stufe A); Zahl, Form und Maße der Altäre sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Seitenkapellen aus dem 16. Jahrhundert verändern den mittelalterlichen Raumeindruck kaum (it.wikipedia)."
+    },
+    "martin_gamberucci": {
+      "title": "Erste Kapelle rechts: Almosen des heiligen Martin",
+      "description": "Die Südwand der ersten Kapelle trägt ein Farbfeld von 5 Blöcken Breite und 7 Höhe: eine Gruppe in Rot, Weiß und Braun vor Hellblau, im Goldrahmen.",
+      "tip": "Die Unterkante liegt bei Y 63.",
+      "caution": "Bild: Cosimo Gamberucci zugeschrieben, spätes 16. Jahrhundert (it.wikipedia, Stufe B). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Bild zeigt das Almosen des heiligen Martin (it.wikipedia)."
+    },
+    "delbene_roncalli": {
+      "title": "Zweite Kapelle rechts (Del Bene): Heilung des Lahmen",
+      "description": "Die Südwand der zweiten Kapelle trägt ein Farbfeld von 5 Blöcken Breite und 7 Höhe auf gelbem Grund mit Gestalten in Blau, Rot und Weiß.",
+      "tip": "Die Unterkante liegt bei Y 63.",
+      "caution": "Bild: Cristoforo Roncalli, Petrus heilt den Lahmen an der Tempeltür (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle gehört der Familie Del Bene (it.wikipedia)."
+    },
+    "delbene_grabmal": {
+      "title": "Dritte Kapelle rechts: Grabmal des Piero Del Bene",
+      "description": "Am Fuß der Südwand steht ein niedriger Sarkophag aus Ornamentmarmor, darüber hängt ein goldgerahmtes Marmorfeld von 3 Blöcken Breite und 6 Höhe.",
+      "tip": "Der Sarkophag ist einen Block hoch.",
+      "caution": "Grabmal des Piero Del Bene, 1530, der Kopf möglicherweise von Benedetto da Rovezzano; gegenüber ein Stuckrelief des heiligen Paulus aus dem 18. Jahrhundert (it.wikipedia, Stufe A). Das Relief ist nicht dargestellt. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Grabmal stammt von 1530 (it.wikipedia, en.wikipedia)."
+    },
+    "altoviti_vasari": {
+      "title": "Vierte Kapelle rechts (Altoviti): Vasaris Immacolata",
+      "description": "In der Kapelle der Südseite hängt ein Farbfeld von 5 Blöcken Breite und 8 Höhe: eine Gestalt in Blau, Weiß und Rot vor Hellblau, im Goldrahmen.",
+      "tip": "Die Unterkante liegt bei Y 62.",
+      "caution": "Bild: Giorgio Vasari, Immacolata Concezione, 1540 bestellt und 1541 aufgestellt, sein erstes Altarbild für eine Florentiner Kirche; Kapelle 1533 von Bindo Altoviti gegründet; der Originalrahmen ist verloren (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Vasaris Immacolata war sein erstes Altarbild für eine Florentiner Kirche (it.wikipedia)."
+    },
+    "altoviti_ammannati": {
+      "title": "Grabmal des Bindo Altoviti",
+      "description": "Am Ende des südlichen Seitenschiffs hängt über der Tür ein Marmorfeld von 2 Blöcken Breite und 6 Höhe im Goldrahmen: oben weißer Marmor, die Caritas.",
+      "tip": "Die Unterkante liegt bei Y 66.",
+      "caution": "Grabmal mit der Caritas von Bartolomeo Ammannati, 1570, ein Kenotaph, da Altoviti in Trinità dei Monti begraben ist (it.wikipedia, Stufe A); die Tür dort zur Sakristei bzw. Domherrensaal ist im Modell nicht gebaut. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Putten stammen von Nachfolgern Ammannatis (en.wikipedia)."
+    },
+    "schiavo_madonna": {
+      "title": "Erste Kapelle links: Madonna mit Engeln",
+      "description": "Die Nordwand der ersten Kapelle links trägt ein Farbfeld von 5 Blöcken Breite und 7 Höhe: eine Gestalt in Blau und Rot vor Hellblau.",
+      "tip": "Die Unterkante liegt bei Y 63.",
+      "caution": "Kopie nach einem Werk von Paolo Schiavo, das ursprünglich an der Fassade hing (en.wikipedia, Stufe B). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Madonna mit dem Kind und Engeln ist eine Kopie nach Paolo Schiavo (en.wikipedia)."
+    },
+    "gabbiani_franz": {
+      "title": "Zweite Kapelle links: Glorie des heiligen Franz von Sales",
+      "description": "Die Nordwand der zweiten Kapelle links trägt ein Farbfeld von 5 Blöcken Breite und 7 Höhe: ein goldener Kreis in gelbem Himmel mit weißen Wolken.",
+      "tip": "Die Unterkante liegt bei Y 63.",
+      "caution": "Bild: Anton Domenico Gabbiani, Gloria di San Francesco di Sales, 1685 bis 1686, 2011 in die Kapelle zurückgekehrt (it.wikipedia, Stufe A). Das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "en.wikipedia nennt für die zweite Kapelle links dagegen Fresken von Matteo Bonechi mit der Glorie des heiligen Giovanni di Chantal; die beiden Quellen weichen voneinander ab."
+    },
+    "fei_michael": {
+      "title": "Dritte Kapelle links: Erzengel Michael",
+      "description": "Die Nordwand der dritten Kapelle links trägt ein Farbfeld von 5 Blöcken Breite und 7 Höhe auf orangem Grund: eine Gestalt in Rot, Blau und Weiß.",
+      "tip": "Die Unterkante liegt bei Y 63.",
+      "caution": "Bild: Alessandro Fei, Der Erzengel Michael besiegt Luzifer, um 1575 bis 1576 (it.wikipedia, en.wikipedia; Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle stand unter dem Patronat der Bonciani (it.wikipedia)."
+    },
+    "maso_triptychon": {
+      "title": "Vierte Kapelle links: Tafeln des Maso da San Friano",
+      "description": "Die Nordwand der vierten Kapelle links trägt ein Farbfeld von 8 Blöcken Breite und 7 Höhe: drei Tafeln mit Gestalten in Blau, Rot und Weiß vor Hellblau.",
+      "tip": "Die Unterkante liegt bei Y 63.",
+      "caution": "Drei Tafeln von Maso da San Friano, um 1565, ursprünglich ein Altarbild (Anbetung der Hirten, Erzengel Raphael mit Tobias und Andreas) (it.wikipedia, en.wikipedia; Stufe A). Die Motive im Modell sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle wurde im 18. Jahrhundert erneuert (it.wikipedia)."
+    },
+    "pazzi_feuersteine": {
+      "title": "Nische mit den Feuersteinen der Pazzi",
+      "description": "In der Nordwand des linken Seitenschiffs sitzt eine kleine Nische von 2 mal 3 Blöcken: unten ein dunkler Stein, darüber ein orange Fleck, der die Flamme andeutet.",
+      "tip": "Die Nische ist nur Farbe in der Wandlage.",
+      "caution": "Drei Feuersteine, die Pazzino de’ Pazzi 1101 vom Heiligen Grab mitgebracht haben soll; mit ihnen wird das Feuer für den Scoppio del Carro entzündet (it.wikipedia, en.wikipedia; Stufe A). Die Lage der Nische im ersten Teil des linken Schiffs folgt der Quelle, ihre Form ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Feuer vom Heiligen Stein entzündet den Karren beim Osterfest auf der Piazza del Duomo (it.wikipedia)."
+    },
+    "altoviti_rovezzano": {
+      "title": "Grabmal der Altoviti",
+      "description": "Am Anfang des linken Seitenschiffs steht ein niedriger Marmorsockel, darüber hängt ein Marmorfeld von 3 Blöcken Breite und 7 Höhe im Goldrahmen.",
+      "tip": "Der Sockel ist einen Block hoch.",
+      "caution": "Grabmal des Antonio und Oddone Altoviti von Benedetto da Rovezzano, 1507 bis 1508 (it.wikipedia, Stufe A). Form und Lage im Seitenschiff sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Quelle datiert das Grabmal des Oddone Altoviti auch auf 1507 bis 1510 (en.wikipedia)."
+    },
+    "chor_altar": {
+      "title": "Altar im Chor",
+      "description": "Im Chor steht ein schlichter Altartisch aus weißem Marmor, einen Block hoch, mit einem goldenen Kreuz darauf.",
+      "tip": "Das Kreuz ist 3 Blöcke hoch.",
+      "caution": "Der Altar ist modern (it.wikipedia: Polyptychon hinter dem modernen Altar, Stufe A); Form und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Hinter dem modernen Altar hängt das Polyptychon (it.wikipedia)."
+    },
+    "polyptychon": {
+      "title": "Polyptychon in der Apsis",
+      "description": "An der Wand der Apsis hängt ein Farbfeld von 9 Blöcken Breite und 10 Höhe im Goldrahmen: vier Tafeln in Rot, Blau, Weiß und Grün über einer goldenen Predella.",
+      "tip": "Die Unterkante liegt bei Y 63.",
+      "caution": "Polyptychon von Jacopo di Cione und Niccolò Gerini, 1383, aus dem Konvent Monticelli (it.wikipedia, Stufe A). Zahl der Tafeln und Motive sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Polyptychon stammt von 1383 (it.wikipedia)."
+    },
+    "della_robbia_tabernakel": {
+      "title": "Tabernakel der Della Robbia",
+      "description": "Links der Apsis hängt an der Nordwand ein Tabernakel aus glasierter Terrakotta, 3 Blöcke breit und 7 hoch: Weiß, Gelb und Hellblau, oben blau abgeschlossen; darunter ein niedriger Marmorsockel.",
+      "tip": "Der Sockel ist einen Block hoch.",
+      "caution": "Eucharistisches Tabernakel in farbig glasierter Terrakotta von Andrea Della Robbia, Zahlung 28. April 1512, auf den Resten des Sarkophags von Donato Acciaiuoli von 1333; en.wikipedia nennt Giovanni della Robbia (it.wikipedia, Stufe A). Form und Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Tabernakel wurde von Giovanni di Piero Acciaiuoli in Auftrag gegeben (it.wikipedia)."
+    },
+    "kenotaph_altoviti": {
+      "title": "Kenotaph des Antonio Altoviti",
+      "description": "Links der Apsis hängt ein Marmorfeld von 3 Blöcken Breite und 8 Höhe im Goldrahmen, oben bronzefarben: die Büsten.",
+      "tip": "Die Unterkante liegt bei Y 61.",
+      "caution": "Kenotaph für Erzbischof Antonio Altoviti von Giovanni Antonio Dosio (1573 bis 1583) mit Büsten Karls des Großen und Altovitis von Giovanni Caccini (it.wikipedia, Stufe A). Form und Lage im Chor sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Büsten stammen von Giovanni Caccini (it.wikipedia, en.wikipedia)."
+    },
+    "schiavo_sinopia": {
+      "title": "Sinopia über dem Portal",
+      "description": "An der Gegenfassade über dem Portal hängt ein braunes Farbfeld von 6 Blöcken Breite und 3 Höhe im Rahmen aus Eichenholz: die Vorzeichnung.",
+      "tip": "Die Unterkante liegt bei Y 71.",
+      "caution": "Sinopia für ein verlorenes Fresko der Madonna mit Engeln von Paolo Schiavo, einst über dem Eingangsportal (it.wikipedia, Stufe A). Form und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Sinopia ist die einzige Spur des Freskos (it.wikipedia)."
+    },
+    "weihwasserbecken": {
+      "title": "Weihwasserbecken",
+      "description": "Neben dem Portal an der Gegenfassade steht ein Becken aus weißem Marmor, einen Block hoch.",
+      "tip": "Das Becken steht rechts vom Eingang.",
+      "caution": "Weihwasserbecken von Benedetto da Rovezzano (it.wikipedia, Stufe A); Form und Lage sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Becken stammt von Benedetto da Rovezzano (it.wikipedia)."
+    },
+    "kirchenbaenke": {
+      "title": "Kirchenbänke",
+      "description": "Im Mittelschiff stehen Bänke aus Eichenholz in Paaren zu beiden Seiten des Mittelgangs, jede 1 Block hoch.",
+      "tip": "Der Mittelgang bleibt frei.",
+      "caution": "Die Bänke sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Mittelschiff ist schlicht (it.wikipedia)."
+    }
+  }
+}

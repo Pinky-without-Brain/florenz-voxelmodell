@@ -1,0 +1,78 @@
+{
+  "module": 2,
+  "title": "Gewölbe, Kuppeln und Dächer",
+  "subtitle": "Bautüte 2: Tonne, Chorkuppel, Apsiskuppel, Dächer",
+  "icon": "⛪",
+  "parts": {
+    "tonnengewoelbe": {
+      "title": "Tonnengewölbe von Schiff und Vierung",
+      "description": "Über dem Mittelschiff und der Vierung spannt sich ein Tonnengewölbe aus Putz von 11 Blöcken Breite. Es springt an den Wandbändern bei Lage 24 an und erreicht in der Mitte Lage 30 (Y 94). Gurtbögen aus Pietra serena liegen etwa alle 2,5 Blöcke in den Wölbungen.",
+      "tip": "Von den Rändern zur Mitte hin bauen, jede Lage ein Ring weiter.",
+      "caution": "Das Tonnengewölbe mit Gurtbögen ist belegt (Stufe A); Höhe und Spannweite sind erfunden (Stufe C). Die Stichkappen sind als glatte Wölbung vereinfacht. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Schiff hat ein Tonnengewölbe mit Stichkappen, durch Gurtbögen unterteilt (it.wikipedia)."
+    },
+    "gewoelbe": {
+      "title": "Gewölbe der Kapellen, des Querhauses, des Chors und der Nebenräume",
+      "description": "Die Kapellen (Lage 14), die Querhausarme (19 bis 24), der Chor (Lage 26), die Apsis (22) und die Nebenräume (12) haben Decken und Gewölbe aus Putz; die Kapellengewölbe tragen Goldrippen.",
+      "tip": "Die Kapellengewölbe tragen alle 4 Blöcke eine Rippe aus Gold.",
+      "caution": "Höhen und Formen sind Stufe C; belegt sind einfache Tonnengewölbe in den Querhausarmen. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Querhausarme haben einfache Tonnengewölbe (it.wikipedia)."
+    },
+    "tambour": {
+      "title": "Tambour der Chorkuppel",
+      "description": "Über dem quadratischen Chor erhebt sich ein runder Tambour von 23 Blöcken Außendurchmesser und 2,5 Blöcken Wandstärke, von Lage 27 bis 34 (Y 91 bis 98), mit acht Fenstern.",
+      "tip": "Ring für Ring nach oben; die Fenster liegen auf 22,5 Grad zu den Achsen.",
+      "caution": "Der quadratische Chor mit Kuppel ist belegt (Stufe A, vollendet 1630); Durchmesser und Höhen sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Chor hat quadratischen Grundriss und ist von einer 1630 vollendeten Kuppel überwölbt (it.wikipedia)."
+    },
+    "tambour_fenster": {
+      "title": "Tambourfenster",
+      "description": "Acht verglaste Fenster von 4 Blöcken Breite und 5 Höhe sitzen im Tambour.",
+      "tip": "Glas bis in den Bogen hinein.",
+      "caution": "Abmessungen und Zahl sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kuppel wurde 1630 fertiggestellt (it.wikipedia)."
+    },
+    "kuppel": {
+      "title": "Chorkuppel",
+      "description": "Auf dem Tambour sitzt eine Halbkugel von 11,5 Blöcken Radius, 2,5 Blöcke dick: außen rote Ziegelkuppel, innen Putz. Der innere Scheitel liegt bei Lage 44, der äußere bei Lage 46 (Y 110).",
+      "tip": "Ring für Ring mit abnehmendem Durchmesser; von innen glatt.",
+      "caution": "Die Form als Halbkugel ist eine Vereinfachung. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kuppel über dem Chor trägt ein Fresko von Filippo Maria Galletti (it.wikipedia)."
+    },
+    "kuppel_apsis": {
+      "title": "Kleine Kuppel der Apsis",
+      "description": "Über der Apsis sitzt eine flache Kuppel von 8,5 Blöcken Radius, 2 Blöcke dick, direkt auf dem Gewölbe bei Lage 22.",
+      "tip": "Ring für Ring bis zum Scheitel auf Lage 31.",
+      "caution": "Die kleine Apsiskuppel ist belegt (Stufe A); Radius und Höhe sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Apsis ist von einem Triumphbogen gerahmt und von einer kleinen Kuppel bedeckt (it.wikipedia)."
+    },
+    "laterne": {
+      "title": "Laterne",
+      "description": "Auf dem Scheitel der Chorkuppel steht eine Laterne von 5 Blöcken Durchmesser und 6 Höhe: weiße Wand, ein verglaster Ring, goldene Spitze.",
+      "tip": "Die Laterne ist massiv und nicht betretbar.",
+      "caution": "Die Laterne ist eine Annahme (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die geprüften Quellen beschreiben keine Laterne."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo ein höheres Dach an ein niedrigeres stößt, schließen Mauerstreifen die Lücke zwischen den Dachflächen.",
+      "tip": "Immer bis zur Dachhaut des niedrigeren Nachbarn.",
+      "caution": "Reine Vereinfachung des Dachanschlusses.",
+      "fact": "Im Dachraum über dem Gewölbe gibt es keinen Zugang."
+    },
+    "dach_langhaus": {
+      "title": "Dach des Schiffs und der Vierung",
+      "description": "Über Schiff und Vierung liegt ein Satteldach aus roten Ziegeln mit dem First auf Lage 38 (Y 102). Der Dachraum darunter ist nicht zugänglich.",
+      "tip": "Vom Rand zum First, jede Lage ein Block höher.",
+      "caution": "Neigung und First sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kirche ist ein lateinisches Kreuz mit einem Schiff und einem Querhaus (it.wikipedia)."
+    },
+    "dach_seiten": {
+      "title": "Dächer der Kapellen, des Querhauses und der Nebenräume",
+      "description": "Die Kapellen, die Querhausarme, der Chor, die Apsis und die Nebenräume tragen Pultdächer und Satteldächer aus Ziegeln.",
+      "tip": "Die Dächer steigen zur Mitte hin.",
+      "caution": "Neigung und Höhe sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Dachräume sind als unzugänglich deklariert."
+    }
+  }
+}
