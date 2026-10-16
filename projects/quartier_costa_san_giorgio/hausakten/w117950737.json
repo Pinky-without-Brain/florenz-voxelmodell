@@ -1,34 +1,38 @@
 {
   "id": "w117950737",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "um 1640 (Bernardino Radi); drittes Geschoss 1709",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
       "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "bifora",
@@ -39,15 +43,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "portal_mit_salvator_medici_della_rovere",
+      "ovale_nischen_mit_buesten",
+      "mezzaninfenster_klein"
+    ],
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_della_Missione",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Umbau um 1640 nach Bernardino Radi (Finanzierung Ferdinando II.), Platzfront mit flachen Eckbossen und großem Mittelportal mit Salvator und Medici-Rovere-Emblemen, senkrechte Folge Rechteckfenster, Mezzaninfenster, ovale Nische, Nischen mit Büsten, 1709 um ein drittes Geschoss erhöht. Annahme: Putzfarbe, Fensterrahmen.",
   "name": "Palazzo della Missione"
 }

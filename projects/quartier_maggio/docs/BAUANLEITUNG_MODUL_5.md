@@ -8,45 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 59.170 |
+| Blöcke | 58.739 |
 | Bauschritte | 36 |
 | Y-Bereich | 63 bis 105 |
 | X-Ausdehnung | -1369 bis -1260 (110 Blöcke) |
 | Z-Ausdehnung | 1672 bis 1794 (123 Blöcke) |
 | Kleinster Schritt | 886 Blöcke (Schritt 5.28) |
-| Mittlerer Schritt | 1.644 Blöcke |
+| Mittlerer Schritt | 1.632 Blöcke |
 | Größter Schritt | 2.048 Blöcke (Schritt 5.34) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.905 | 30,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 8.959 | 15,1 % |
-| Endsteinziegel | `end_stone_bricks` | 8.806 | 14,9 % |
+| Terrakotta | `terracotta` | 17.453 | 29,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 8.959 | 15,3 % |
+| Endsteinziegel | `end_stone_bricks` | 8.806 | 15,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 6.065 | 10,3 % |
 | Polierter Tuffstein | `polished_tuff` | 5.841 | 9,9 % |
-| Glatter Stein | `smooth_stone` | 2.789 | 4,7 % |
-| Weißer Beton | `white_concrete` | 2.332 | 3,9 % |
-| Orange Keramik | `orange_terracotta` | 1.837 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 2.767 | 4,7 % |
+| Weißer Beton | `white_concrete` | 1.983 | 3,4 % |
+| Polierter Andesit | `polished_andesite` | 1.526 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.378 | 2,3 % |
 | Rosa Keramik | `pink_terracotta` | 1.373 | 2,3 % |
-| Graues Buntglas | `gray_stained_glass` | 1.307 | 2,2 % |
-| Polierter Andesit | `polished_andesite` | 394 | 0,7 % |
+| Tuffstein | `tuff` | 952 | 1,6 % |
 | Ziegelsteine | `bricks` | 375 | 0,6 % |
-| Grüner Beton | `green_concrete` | 302 | 0,5 % |
+| Grüner Beton | `green_concrete` | 260 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 254 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 199 | 0,3 % |
-| Seelaterne | `sea_lantern` | 95 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 193 | 0,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 161 | 0,3 % |
+| Seelaterne | `sea_lantern` | 92 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 62 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 58 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 50 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 46 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 27 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 50 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 48 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 13 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 13 | 0,0 % |
-| Tuffstein | `tuff` | 11 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
@@ -56,7 +55,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 146 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 148 |
 | Steintreppe | `stone_stairs` | 120 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -69,8 +68,8 @@
 | 4 | `w118129803_innen` | Reihenhaus an Via Maggio: Innenausbau | 1.180 | 5.15 |
 | 5 | `w306811225` | Palazzo des Cinquecento an Piazza dei Pitti | 10.158 | 5.16–5.21 |
 | 6 | `w306811225_innen` | Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau | 1.864 | 5.22 |
-| 7 | `w306811227` | Casa Ridolfi | 3.719 | 5.23–5.24 |
-| 8 | `w306811227_innen` | Casa Ridolfi: Innenausbau | 1.488 | 5.25 |
+| 7 | `w306811227` | Casa Ridolfi | 3.747 | 5.23–5.24 |
+| 8 | `w306811227_innen` | Casa Ridolfi: Innenausbau | 1.029 | 5.25 |
 | 9 | `w306811236` | Reihenhaus an Piazza dei Pitti | 2.433 | 5.26–5.27 |
 | 10 | `w306811236_innen` | Reihenhaus an Piazza dei Pitti: Innenausbau | 886 | 5.28 |
 | 11 | `w306811251` | Palazzo des Cinquecento an Via dei Marsili | 10.323 | 5.29–5.34 |
@@ -816,23 +815,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.23 – Casa Ridolfi – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.841
+- **Blöcke:** 1.872
 - **Bauteile:** `w306811227`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.055 |
+| Polierter Andesit | `polished_andesite` | 561 |
+| Tuffstein | `tuff` | 557 |
 | Polierter Tuffstein | `polished_tuff` | 540 |
-| Weißer Beton | `white_concrete` | 149 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Grüner Beton | `green_concrete` | 18 |
+| Tuffsteinziegel | `tuff_bricks` | 134 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (spätmittelalterlich bis Quattrocento (Annahme)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ridolfi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -844,29 +842,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.24 – Casa Ridolfi – Teil 2/2 (Y 80–99)
 
 - **Y-Bereich:** 80 bis 99
-- **Blöcke:** 1.878
+- **Blöcke:** 1.875
 - **Bauteile:** `w306811227`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 782 |
 | Terrakotta | `terracotta` | 700 |
-| Weißer Beton | `white_concrete` | 200 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
+| Polierter Andesit | `polished_andesite` | 571 |
+| Tuffstein | `tuff` | 384 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
 | Fichtenholz-Bretter | `spruce_planks` | 64 |
 | Ziegelsteine | `bricks` | 36 |
-| Grüner Beton | `green_concrete` | 24 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (spätmittelalterlich bis Quattrocento (Annahme)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ridolfi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -878,23 +875,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.25 – Casa Ridolfi: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.488
+- **Y-Bereich:** 63 bis 86
+- **Blöcke:** 1.029
 - **Bauteile:** `w306811227_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.356 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
+| Terrakotta | `terracotta` | 904 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 58 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 |
+| Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 5 |
 | Weiße Keramik | `white_terracotta` | 5 |
 
@@ -902,11 +899,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

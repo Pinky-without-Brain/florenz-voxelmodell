@@ -1,7 +1,7 @@
 {
   "id": "w306694385",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Renaissance; Terrakotta-Lunette 1510-20",
   "geschosse": [
     {
       "art": "eg",
@@ -20,7 +20,7 @@
     "kanten": "strasse",
     "achsen": 2,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
@@ -35,15 +35,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "sgraffito_fugenband_fassade",
+      "lunette_buglioni",
+      "rosette_und_zwei_monofore",
+      "glockenaufsatz_hinten"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Lucia_dei_Magnoli",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Giebelfassade über die ganze Fläche mit Sgraffito-Scheinbossen, Renaissanceportal mit glasierter Terrakotta-Lunette von Buglioni (1510-20), oben ein Rundfenster und zwei große Rundbogenmonofore, Dachreiter auf der Rückseite. Annahme: Putzfarbe.",
   "name": "Chiesa di Santa Lucia dei Magnoli"
 }

@@ -1,15 +1,15 @@
 {
   "id": "w306811237",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "um 1500 (Ridolfi/Medici); Graffiti 1904 erneuert",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "nobile",
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -36,18 +36,23 @@
       "laeden": "gruen"
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "graffito_falsche_quader",
+      "graffito_laubwerk",
+      "wappen_ridolfi_medici_am_portal",
+      "gedenktafel_mitte"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_di_Cosimo_Ridolfi",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Obere Geschosse mit Graffito-Quadern und Laubwerk (1904 erneuert), Gronda 1901 restauriert, Wappen Ridolfi-Medici am Portal, lange Gedenktafel mittig. Annahme: Geschosszahl, Achsen und Gesimsform.",
   "name": "Palazzo di Cosimo Ridolfi"
 }

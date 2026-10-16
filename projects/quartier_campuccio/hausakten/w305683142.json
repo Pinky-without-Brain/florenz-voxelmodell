@@ -1,7 +1,7 @@
 {
   "id": "w305683142",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
@@ -19,8 +19,8 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 3,
-    "material": "putz",
-    "putzfarbe": "sand",
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
@@ -32,18 +32,24 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "giebelfassade_pietraforte",
+      "oculus_im_giebel",
+      "zahnschnittgesims_auf_konsolen",
+      "wappen_dinozzi_de_lippi",
+      "glockenaufsatz"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Giebelfassade (1457-60) aus glatten Pietraforte-Quadern mit reich verziertem Portal zwischen Pilastern, Dreiecksgiebel mit kleinem Oculus und Zahnschnittgesims auf Konsolen, zwei Wappen auf leicht vorspringenden Seitenpfeilern, Dachreiter. Annahme: Gesimstiefe.",
   "name": "Chiesa di San Felice in Piazza"
 }

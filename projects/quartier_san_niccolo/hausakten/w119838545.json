@@ -1,7 +1,7 @@
 {
   "id": "w119838545",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,48 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 7,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "rechteck",
       "rahmen": "putz",
       "laeden": "gruen"
     },
     "gesims": {
       "art": "gronda_holz",
-      "tiefeBl": 2
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "portal_strahlenfoermig_pietraforte",
+      "wappen_serristori",
+      "rote_putzfassade",
+      "sieben_kniefenster"
+    ],
+    "marcapiano": "vor",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Alte Front nur an der Ecke Via de' Renai: Portal mit strahlenförmig versetzten Pietraforte-Blöcken und Serristori-Wappen, sieben Kniefenster im EG, auskragendes Gurtgesims, Rechteckfenster mit gebrochenen Profilen im 1. OG, schlichtere im 2. OG, Gronda, Eckbossen bis zum 1. OG, seltene rote Putzfarbe. Annahme: Achsenzahl auf der Hauptkante.",
   "name": "Palazzo Serristori"
 }

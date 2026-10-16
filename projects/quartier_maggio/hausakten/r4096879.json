@@ -1,52 +1,58 @@
 {
   "id": "r4096879",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh. (Renaissance, Cinquecento-Manier)",
   "geschosse": [
     {
       "art": "eg",
       "hoeheBl": 9
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "mezzanin",
+      "hoeheBl": 4
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 2,
+    "achsen": 6,
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "bottega_arcata",
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 5,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rundbogen",
-      "rahmen": "putz",
+      "rahmen": "pietra_forte",
       "laeden": "holz"
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "zwillingsportale_bossen_strahlenfoermig",
+      "fondaco_oeffnung_mitte",
+      "wappen_corsini_mitte",
+      "dachloggia_verglast"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Zwei gleiche Rundbogenportale mit Strahlenbossen seitlich im EG, zwei Gitterfenster und eine mittlere Fondaco-Öffnung, Mezzanin, sechs Achsen von Rundbogenfenstern mit Pietraforte-Rahmen auf Steingurten, Corsini-Wappen mittig, Loggia auf dem Dach (heute verglast). Annahme: Putzfarbe, Gesimsart.",
   "name": "Palazzo Corsini-Rosselli del Turco"
 }

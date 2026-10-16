@@ -1,19 +1,27 @@
 {
   "id": "r4095210",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh.; Eingriff Parigi d. J. 17. Jh.; 1834 Martelli",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 3
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 8
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 3
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -35,15 +43,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "bossenrahmen_portal",
+      "mezzanin_je_geschoss"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Demidoff-Amici",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Alte Front zur Via San Niccolo in den Formen des Seicento (Alfonso Parigi d. J.), drei hohe Geschosse jeweils mit Mezzanin auf sieben Achsen, breites Portal mit Bossenrahmen. Annahme: Putzfarbe, Gesims, Fensterrahmen.",
   "name": "Palazzo Demidoff-Amici"
 }

@@ -1,32 +1,36 @@
 {
   "id": "w306811235",
   "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "epoche": "17./18. Jh. (Wohnhaus des Hofarchitekten Foggini)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
-    },
-    {
-      "art": "og",
       "hoeheBl": 7
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "mezzanin",
+      "hoeheBl": 3
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 2,
+    "achsen": 4,
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 5,
       "fenster": "rechteck_vergittert"
     },
@@ -39,15 +43,17 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_rest_zwischen_2_und_3og"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_di_Giovan_Battista_Foggini",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Vier Achsen auf vier Geschosse plus Mezzanin, im EG vier Bogen hintereinander, darüber verputzte Fassade mit architravierten Fenstern in Steinprofilen, Wappenrest mittig zwischen 2. und 3. OG. Annahme: Epoche des Baus, Putzfarbe, Gesims.",
   "name": "Casa di Giovan Battista Foggini"
 }

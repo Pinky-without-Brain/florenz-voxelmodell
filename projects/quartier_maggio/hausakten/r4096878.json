@@ -1,49 +1,54 @@
 {
   "id": "r4096878",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "15. Jh.; Umbau Buontalenti 1573-78, Graffiti Poccetti",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "weiss",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 5,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_serena",
+      "typ": "rechteck",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "graffito_fassade",
+      "wappen_cappello",
+      "fledermaus_reliefs",
+      "kniefenster_ausser_achse"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_di_Bianca_Cappello",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Haus des Quattrocento, 1573-78 von Buontalenti umgebaut: zwei Kniefenster im EG außerhalb der Achsen der alten Obergeschossfenster, Portal mit Bossenrahmen und Wappen Cappello, Fledermausreliefs, Graffito-Fassade von Poccetti mit weißen Rahmen. Annahme: Geschosszahl 3, Achsenzahl, Gesims und Dachform.",
   "name": "Palazzo di Bianca Cappello"
 }

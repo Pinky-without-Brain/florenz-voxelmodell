@@ -1,49 +1,57 @@
 {
   "id": "w306798514",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "2. Hälfte 16. Jh.; oberstes Geschoss später (19. Jh.?)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 3,
     "material": "putz",
     "putzfarbe": "weiss",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
+      "portalBreiteBl": 5,
       "fenster": "rundbogen"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "putz",
+      "rahmen": "pietra_serena",
       "laeden": "gruen"
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "seitliche_durchfahrten",
+      "wappen_pitti_zweifach",
+      "fresken_poccetti_abgenommen"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_Pitti",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Dreiachsige Front mit Portal samt Pietra-serena-Rahmen und -Sturz zwischen zwei Durchfahrten, zwei Pitti-Wappen oben, Fresken Poccettis abgenommen, oberstes Geschoss spätere Aufstockung. Annahme: Geschosszahl 4, Putzfarbe, Gesims.",
   "name": "Casa Pitti"
 }

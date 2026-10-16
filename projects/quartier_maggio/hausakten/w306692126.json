@@ -1,15 +1,15 @@
 {
   "id": "w306692126",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh. (Pitti); Fassade 2. Hälfte 18. Jh.; Altana 19. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -18,32 +18,36 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 7,
+    "achsen": 9,
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "fuenf_grosse_portale_bossen_pietraforte",
+      "altana_zwei_seiten_offen"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Temple_Leader",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Schlichte Fassade mit fünf großen Portalen in Pietraforte-Bossen im EG (plus eine sechste, unterbrochene Arkade), zwei dicht gereihte Fensterreihen mit neun Fenstern und Gurtgesimsen, Rundbogen am Piano nobile, Rechteckfenster darüber, Altana mit Pietra-serena-Säulchen. Annahme: Putzfarbe, Rahmenmaterial der Fenster.",
   "name": "Palazzo Temple Leader"
 }

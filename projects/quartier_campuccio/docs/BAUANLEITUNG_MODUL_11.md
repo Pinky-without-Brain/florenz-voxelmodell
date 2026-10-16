@@ -8,36 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 157.303 |
+| Blöcke | 157.414 |
 | Bauschritte | 106 |
 | Y-Bereich | 62 bis 103 |
-| X-Ausdehnung | -1639 bis -1423 (217 Blöcke) |
+| X-Ausdehnung | -1639 bis -1422 (218 Blöcke) |
 | Z-Ausdehnung | 1714 bis 1975 (262 Blöcke) |
 | Kleinster Schritt | 642 Blöcke (Schritt 11.93) |
-| Mittlerer Schritt | 1.484 Blöcke |
+| Mittlerer Schritt | 1.485 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 11.45) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 51.708 | 32,9 % |
-| Tuffstein | `tuff` | 24.859 | 15,8 % |
+| Terrakotta | `terracotta` | 51.708 | 32,8 % |
+| Tuffstein | `tuff` | 29.475 | 18,7 % |
 | Polierter Tuffstein | `polished_tuff` | 16.876 | 10,7 % |
 | Weißer Beton | `white_concrete` | 14.695 | 9,3 % |
-| Endsteinziegel | `end_stone_bricks` | 9.938 | 6,3 % |
+| Polierter Andesit | `polished_andesite` | 10.967 | 7,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 9.348 | 5,9 % |
-| Polierter Andesit | `polished_andesite` | 8.264 | 5,3 % |
 | Rosa Keramik | `pink_terracotta` | 8.003 | 5,1 % |
-| Glatter Stein | `smooth_stone` | 4.846 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 5.127 | 3,3 % |
 | Graues Buntglas | `gray_stained_glass` | 2.570 | 1,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 2.078 | 1,3 % |
+| Endsteinziegel | `end_stone_bricks` | 1.619 | 1,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.370 | 0,9 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.248 | 0,8 % |
 | Ziegelsteine | `bricks` | 904 | 0,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 695 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 598 | 0,4 % |
 | Seelaterne | `sea_lantern` | 306 | 0,2 % |
-| Grüner Beton | `green_concrete` | 236 | 0,2 % |
+| Grüner Beton | `green_concrete` | 236 | 0,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 174 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 122 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 116 | 0,1 % |
@@ -68,7 +68,7 @@
 | 2 | `r4096919_innen` | Renaissance-Palazzo an Borgo Tegolaio: Innenausbau | 12.413 | 11.42–11.48 |
 | 3 | `r7116224` | Palazzo des Cinquecento an Via Romana | 15.845 | 11.49–11.57 |
 | 4 | `r7116224_innen` | Palazzo des Cinquecento an Via Romana: Innenausbau | 2.963 | 11.58–11.59 |
-| 5 | `w305683142` | Chiesa di San Felice in Piazza | 18.403 | 11.60–11.70 |
+| 5 | `w305683142` | Chiesa di San Felice in Piazza | 18.514 | 11.60–11.70 |
 | 6 | `w305683142_innen` | Chiesa di San Felice in Piazza: Innenausbau | 6.497 | 11.71–11.74 |
 | 7 | `w305683145` | Reihenhaus an Via Mazzetta | 2.057 | 11.75 |
 | 8 | `w305683145_innen` | Reihenhaus an Via Mazzetta: Innenausbau | 5 | 11.76 |
@@ -1983,7 +1983,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1995,7 +1995,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.61 – Chiesa di San Felice in Piazza – Teil 2/11 (Y 63–63)
 
@@ -2011,7 +2011,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2023,7 +2023,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.62 – Chiesa di San Felice in Piazza – Teil 3/11 (Y 64–67)
 
@@ -2035,13 +2035,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.300 |
-| Polierter Andesit | `polished_andesite` | 148 |
+| Tuffstein | `tuff` | 778 |
+| Polierter Andesit | `polished_andesite` | 430 |
+| Tuffsteinziegel | `tuff_bricks` | 240 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2053,7 +2054,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.63 – Chiesa di San Felice in Piazza – Teil 4/11 (Y 68–72)
 
@@ -2065,13 +2066,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.201 |
-| Polierter Andesit | `polished_andesite` | 247 |
+| Tuffstein | `tuff` | 713 |
+| Polierter Andesit | `polished_andesite` | 542 |
+| Tuffsteinziegel | `tuff_bricks` | 193 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2083,7 +2085,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.64 – Chiesa di San Felice in Piazza – Teil 5/11 (Y 73–77)
 
@@ -2095,13 +2097,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.656 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Tuffstein | `tuff` | 799 |
+| Polierter Andesit | `polished_andesite` | 470 |
+| Tuffsteinziegel | `tuff_bricks` | 397 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2113,85 +2116,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.65 – Chiesa di San Felice in Piazza – Teil 6/11 (Y 78–82)
+### Schritt 11.65 – Chiesa di San Felice in Piazza – Teil 6/11 (Y 78–83)
 
-- **Y-Bereich:** 78 bis 82
-- **Blöcke:** 1.628
+- **Y-Bereich:** 78 bis 83
+- **Blöcke:** 1.939
 - **Bauteile:** `w305683142`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.281 |
-| Polierter Andesit | `polished_andesite` | 236 |
-| Graues Buntglas | `gray_stained_glass` | 111 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 11.66 – Chiesa di San Felice in Piazza – Teil 7/11 (Y 83–88)
-
-- **Y-Bereich:** 83 bis 88
-- **Blöcke:** 1.964
-- **Bauteile:** `w305683142`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.536 |
-| Polierter Andesit | `polished_andesite` | 317 |
-| Graues Buntglas | `gray_stained_glass` | 111 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 11.67 – Chiesa di San Felice in Piazza – Teil 8/11 (Y 89–92)
-
-- **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.329
-- **Bauteile:** `w305683142`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.005 |
-| Polierter Andesit | `polished_andesite` | 176 |
+| Polierter Andesit | `polished_andesite` | 925 |
+| Tuffstein | `tuff` | 866 |
 | Graues Buntglas | `gray_stained_glass` | 148 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2203,12 +2146,73 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.68 – Chiesa di San Felice in Piazza – Teil 9/11 (Y 93–94)
+### Schritt 11.66 – Chiesa di San Felice in Piazza – Teil 7/11 (Y 84–88)
 
-- **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.731
+- **Y-Bereich:** 84 bis 88
+- **Blöcke:** 1.653
+- **Bauteile:** `w305683142`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 824 |
+| Tuffstein | `tuff` | 755 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
+
+**Beschreibung**
+
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 11.67 – Chiesa di San Felice in Piazza – Teil 8/11 (Y 89–93)
+
+- **Y-Bereich:** 89 bis 93
+- **Blöcke:** 1.861
+- **Bauteile:** `w305683142`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 727 |
+| Tuffstein | `tuff` | 705 |
+| Glatter Stein | `smooth_stone` | 281 |
+| Graues Buntglas | `gray_stained_glass` | 148 |
+
+**Beschreibung**
+
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 11.68 – Chiesa di San Felice in Piazza – Teil 9/11 (Y 94–94)
+
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 1.310
 - **Bauteile:** `w305683142`
 
 **Teileliste**
@@ -2216,12 +2220,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.310 |
-| Endsteinziegel | `end_stone_bricks` | 340 |
-| Polierter Andesit | `polished_andesite` | 81 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2233,7 +2235,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.69 – Chiesa di San Felice in Piazza – Teil 10/11 (Y 95–96)
 
@@ -2249,7 +2251,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2261,7 +2263,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.70 – Chiesa di San Felice in Piazza – Teil 11/11 (Y 97–103)
 
@@ -2278,7 +2280,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Bau; Fassade 1457-60 (Michelozzo zugeschrieben)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2290,7 +2292,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.71 – Chiesa di San Felice in Piazza: Innenausbau – Teil 1/4 (Y 63–77)
 

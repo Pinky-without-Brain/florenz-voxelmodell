@@ -1,19 +1,23 @@
 {
   "id": "w306811244",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh. (Annahme)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -22,28 +26,32 @@
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": "gruen"
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_calimala_adler",
+      "bossen_rahmen_nobile",
+      "vier_quadratfenster_eg"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Agostini_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Vier Geschosse auf vier Achsen, ungewöhnlich hohes EG mit Portal rechts (Bossenrahmen) und vier kleinen quadratischen Fenstern in Steinrahmen, Piano nobile mit vier großen Rundbogenfenstern, durchlaufender Steingurt, oben dasselbe Motiv in glatten Quadern, großes Wappen mit Adler und Wollballen (Arte di Calimala). Annahme: Epoche, Putzfarbe, Gesims.",
   "name": "Palazzo Agostini"
 }

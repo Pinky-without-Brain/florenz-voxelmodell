@@ -1,7 +1,7 @@
 {
   "id": "w306222200",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "13. Jh. (Umiliati); später umgebaut",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "holzbussola_im_portal",
+      "kubischer_baukoerper"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Lucia_sul_Prato",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Schlichte Kirche mit Portal und hölzerner Windfangtür, der Baukörper ist nahezu kubisch (Breite, Tiefe und Höhe etwa gleich), Kreuzgrundriss durch zwei Seitenkapellen. Annahme: Fassadenmaterial und Fensterform.",
   "name": "Chiesa di Santa Lucia sul Prato"
 }

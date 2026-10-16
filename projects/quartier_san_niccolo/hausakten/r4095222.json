@@ -1,19 +1,23 @@
 {
   "id": "r4095222",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "ab 1543 (Baccio d'Agnolo / Nasi); Teil Del Nero ab 1552 (Domenico di Baccio)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -35,15 +39,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "altana_terrasse_ueber_dem_arno",
+      "alter_kern_fuenf_achsen",
+      "del_nero_teil_sechs_achsen_drei_geschosse"
+    ],
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Torrigiani_Del_Nero",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Kern der Nasi auf den ersten fünf Achsen zur Via de' Bardi, anschliessend sechs Achsen der Del Nero über nur drei Geschosse zum Arno, Eckausbildungen am Brückenkopf, große Altana (Terrasse) am Fluss. Annahme: Gesamtgeschosszahl 4, Putzfarbe und Fensterrahmen.",
   "name": "Palazzo Torrigiani Del Nero"
 }

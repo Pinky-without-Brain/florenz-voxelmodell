@@ -1,7 +1,7 @@
 {
   "id": "w306378164",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "um Mitte 17. Jh. (Gherardo Silvani)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,16 +9,16 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 4,
+    "achsen": 5,
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
@@ -27,7 +27,7 @@
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "tabernakel",
       "rahmen": "putz",
       "laeden": "gruen"
     },
@@ -35,15 +35,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "balkon_balustrade_ueber_portal",
+      "bogenfoermige_kniefenster",
+      "schmiedeeiserne_gitter"
+    ],
+    "marcapiano": "vor"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pallavicini_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Drei Geschosse auf fünf Achsen, Mittelportal mit Balkon und Fenster mit geschwungenem Giebel, flankierend je zwei Fenster mit Dreiecksgiebel, im EG zwei Kniefenster mit Bogenform und Gitter und zwei kleine Fenster, skulptiertes Gurtgesims. Annahme: Putzfarbe und Gesims.",
   "name": "Palazzo Pallavicini"
 }

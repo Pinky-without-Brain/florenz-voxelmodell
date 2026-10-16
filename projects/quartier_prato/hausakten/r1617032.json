@@ -1,19 +1,23 @@
 {
   "id": "r1617032",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -22,7 +26,7 @@
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
@@ -35,15 +39,19 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "balkon_ueber_portal",
+      "tabernakel_an_der_ecke",
+      "neue_konsolen_poggi"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: 1498 für Bernardo Rucellai erbaut, in der Grösse verdoppelt mit neuer neunachsiger Fassade zur Via della Scala (1679) mit Balkon über dem Portal, später von Poggi neu geordnet, Tabernakel an der Ecke zur Via degli Orti Oricellari. Annahme: Geschosse, Putzfarbe, Gesims.",
   "name": "Palazzo Venturi Ginori"
 }

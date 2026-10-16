@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 597.945 |
+| Blöcke | 597.988 |
 | Bauschritte | 336 |
 | Y-Bereich | 56 bis 101 |
 | X-Ausdehnung | -1703 bis -1239 (465 Blöcke) |
@@ -24,32 +24,32 @@
 | Terrakotta | `terracotta` | 256.385 | 42,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 104.865 | 17,5 % |
 | Polierter Tuffstein | `polished_tuff` | 75.793 | 12,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 40.597 | 6,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 40.662 | 6,8 % |
 | Orange Keramik | `orange_terracotta` | 25.114 | 4,2 % |
 | Rosa Keramik | `pink_terracotta` | 16.202 | 2,7 % |
-| Weißer Beton | `white_concrete` | 15.877 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 15.107 | 2,5 % |
+| Weißer Beton | `white_concrete` | 15.988 | 2,7 % |
+| Glatter Stein | `smooth_stone` | 14.999 | 2,5 % |
 | Endsteinziegel | `end_stone_bricks` | 8.674 | 1,5 % |
-| Graues Buntglas | `gray_stained_glass` | 8.397 | 1,4 % |
+| Graues Buntglas | `gray_stained_glass` | 8.317 | 1,4 % |
 | Tuffstein | `tuff` | 7.944 | 1,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.192 | 1,2 % |
 | Ziegelsteine | `bricks` | 4.544 | 0,8 % |
-| Grüner Beton | `green_concrete` | 3.584 | 0,6 % |
-| Polierter Andesit | `polished_andesite` | 3.444 | 0,6 % |
+| Grüner Beton | `green_concrete` | 3.620 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 3.456 | 0,6 % |
 | Seelaterne | `sea_lantern` | 1.219 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.127 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 831 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 199 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 183 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 137 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 127 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 90 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 90 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 64 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 56 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 40 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 832 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 201 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 185 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 136 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 126 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 86 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 86 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 52 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
@@ -60,7 +60,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 646 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 648 |
 | Steintreppe | `stone_stairs` | 160 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
 
@@ -76,8 +76,8 @@
 | 6 | `r7108697_innen` | Palazzo des Cinquecento an Via della Scala: Innenausbau | 5.685 | 8.220–8.223 |
 | 7 | `w204143229` | Reihenhaus an Via della Scala | 5.468 | 8.224–8.226 |
 | 8 | `w204143229_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.058 | 8.227 |
-| 9 | `w306398156` | Palazzo Dal Borgo | 13.615 | 8.228–8.234 |
-| 10 | `w306398156_innen` | Palazzo Dal Borgo: Innenausbau | 2.484 | 8.235–8.236 |
+| 9 | `w306398156` | Palazzo Dal Borgo | 13.663 | 8.228–8.234 |
+| 10 | `w306398156_innen` | Palazzo Dal Borgo: Innenausbau | 2.479 | 8.235–8.236 |
 | 11 | `w449369044` | Reihenhaus an Piazza della Stazione | 5.634 | 8.237–8.239 |
 | 12 | `w449369044_innen` | Reihenhaus an Piazza della Stazione: Innenausbau | 2.257 | 8.240–8.241 |
 | 13 | `w449369045` | Convento dei frati domenicani di S. Maria Novella | 35.046 | 8.242–8.269 |
@@ -6940,7 +6940,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.228 – Palazzo Dal Borgo – Teil 1/7 (Y 59–60)
 
 - **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.839
+- **Blöcke:** 1.850
 - **Bauteile:** `w306398156`
 
 **Teileliste**
@@ -6948,13 +6948,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.520 |
-| Hellgrauer Beton | `light_gray_concrete` | 290 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
-| Glatter Stein | `smooth_stone` | 13 |
+| Hellgrauer Beton | `light_gray_concrete` | 324 |
+| Glatter Stein | `smooth_stone` | 3 |
+| Polierter Andesit | `polished_andesite` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1. Hälfte 16. Jh.; Fassade 1550-60 (Piero dal Borgo)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dal_Borgo, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -6966,26 +6967,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.229 – Palazzo Dal Borgo – Teil 2/7 (Y 61–66)
 
 - **Y-Bereich:** 61 bis 66
-- **Blöcke:** 1.879
+- **Blöcke:** 1.914
 - **Bauteile:** `w306398156`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.445 |
-| Weißer Beton | `white_concrete` | 184 |
-| Graues Buntglas | `gray_stained_glass` | 172 |
-| Glatter Stein | `smooth_stone` | 78 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.466 |
+| Weißer Beton | `white_concrete` | 259 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
+| Grüner Beton | `green_concrete` | 36 |
+| Glatter Stein | `smooth_stone` | 16 |
+| Tuffsteinziegel | `tuff_bricks` | 11 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1. Hälfte 16. Jh.; Fassade 1550-60 (Piero dal Borgo)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dal_Borgo, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -6997,26 +7001,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.230 – Palazzo Dal Borgo – Teil 3/7 (Y 67–72)
 
 - **Y-Bereich:** 67 bis 72
-- **Blöcke:** 2.000
+- **Blöcke:** 2.002
 - **Bauteile:** `w306398156`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.590 |
-| Glatter Stein | `smooth_stone` | 211 |
-| Weißer Beton | `white_concrete` | 167 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.600 |
+| Weißer Beton | `white_concrete` | 203 |
+| Glatter Stein | `smooth_stone` | 175 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1. Hälfte 16. Jh.; Fassade 1550-60 (Piero dal Borgo)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dal_Borgo, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -7028,7 +7032,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.231 – Palazzo Dal Borgo – Teil 4/7 (Y 73–78)
 
@@ -7047,7 +7051,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1. Hälfte 16. Jh.; Fassade 1550-60 (Piero dal Borgo)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dal_Borgo, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -7059,7 +7063,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.232 – Palazzo Dal Borgo – Teil 5/7 (Y 79–84)
 
@@ -7079,7 +7083,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1. Hälfte 16. Jh.; Fassade 1550-60 (Piero dal Borgo)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dal_Borgo, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -7091,7 +7095,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.233 – Palazzo Dal Borgo – Teil 6/7 (Y 85–89)
 
@@ -7111,7 +7115,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1. Hälfte 16. Jh.; Fassade 1550-60 (Piero dal Borgo)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dal_Borgo, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -7123,7 +7127,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.234 – Palazzo Dal Borgo – Teil 7/7 (Y 90–96)
 
@@ -7140,7 +7144,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1. Hälfte 16. Jh.; Fassade 1550-60 (Piero dal Borgo)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dal_Borgo, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -7152,7 +7156,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.235 – Palazzo Dal Borgo: Innenausbau – Teil 1/2 (Y 59–70)
 
@@ -7167,8 +7171,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.175 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -7178,7 +7182,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -7195,7 +7199,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.236 – Palazzo Dal Borgo: Innenausbau – Teil 2/2 (Y 71–80)
 
 - **Y-Bereich:** 71 bis 80
-- **Blöcke:** 1.241
+- **Blöcke:** 1.236
 - **Bauteile:** `w306398156_innen`
 
 **Teileliste**
@@ -7204,25 +7208,25 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.175 |
 | Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 18 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

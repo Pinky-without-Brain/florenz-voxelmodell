@@ -8,37 +8,37 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 676.434 |
+| Blöcke | 677.016 |
 | Bauschritte | 427 |
 | Y-Bereich | 62 bis 133 |
 | X-Ausdehnung | -41 bis 755 (797 Blöcke) |
 | Z-Ausdehnung | 1760 bis 2025 (266 Blöcke) |
 | Kleinster Schritt | 474 Blöcke (Schritt 9.45) |
-| Mittlerer Schritt | 1.584 Blöcke |
+| Mittlerer Schritt | 1.586 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 9.289) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 196.845 | 29,1 % |
+| Tuffstein | `tuff` | 219.452 | 32,4 % |
 | Terrakotta | `terracotta` | 161.249 | 23,8 % |
 | Rosa Keramik | `pink_terracotta` | 74.243 | 11,0 % |
 | Polierter Tuffstein | `polished_tuff` | 48.805 | 7,2 % |
 | Hellgrauer Beton | `light_gray_concrete` | 46.701 | 6,9 % |
-| Weißer Beton | `white_concrete` | 34.502 | 5,1 % |
 | Endsteinziegel | `end_stone_bricks` | 18.231 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 16.442 | 2,4 % |
-| Polierter Andesit | `polished_andesite` | 16.099 | 2,4 % |
+| Glatter Stein | `smooth_stone` | 16.966 | 2,5 % |
+| Polierter Andesit | `polished_andesite` | 16.047 | 2,4 % |
 | Orange Keramik | `orange_terracotta` | 13.368 | 2,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 12.299 | 1,8 % |
-| Graues Buntglas | `gray_stained_glass` | 11.748 | 1,7 % |
+| Weißer Beton | `white_concrete` | 11.739 | 1,7 % |
+| Graues Buntglas | `gray_stained_glass` | 11.662 | 1,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 8.892 | 1,3 % |
-| Grüner Beton | `green_concrete` | 3.903 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 3.471 | 0,5 % |
 | Ziegelsteine | `bricks` | 3.341 | 0,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 3.031 | 0,4 % |
+| Grüner Beton | `green_concrete` | 2.801 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.712 | 0,3 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.577 | 0,2 % |
 | Seelaterne | `sea_lantern` | 894 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 393 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 365 | 0,1 % |
@@ -72,7 +72,7 @@
 | 2 | `r4095206_innen` | Palazzo Stiozzi Ridolfi: Innenausbau | 5.395 | 9.13–9.16 |
 | 3 | `r4095212` | Palazzo Gianni-Lucchesini-Vegni | 34.639 | 9.17–9.38 |
 | 4 | `r4095212_innen` | Palazzo Gianni-Lucchesini-Vegni: Innenausbau | 9.104 | 9.39–9.44 |
-| 5 | `r4095220` | Palazzo dei Mozzi | 162.406 | 9.45–9.150 |
+| 5 | `r4095220` | Palazzo dei Mozzi | 162.988 | 9.45–9.150 |
 | 6 | `r4095220_innen` | Palazzo dei Mozzi: Innenausbau | 12.181 | 9.151–9.156 |
 | 7 | `r7161814` | Renaissance-Palazzo an Via di San Niccolò | 24.065 | 9.157–9.170 |
 | 8 | `r7161814_innen` | Renaissance-Palazzo an Via di San Niccolò: Innenausbau | 5.927 | 9.171–9.174 |
@@ -1555,7 +1555,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1567,7 +1567,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.46 – Palazzo dei Mozzi – Teil 2/106 (Y 68–68)
 
@@ -1583,7 +1583,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1595,7 +1595,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.47 – Palazzo dei Mozzi – Teil 3/106 (Y 69–69)
 
@@ -1611,7 +1611,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1623,7 +1623,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.48 – Palazzo dei Mozzi – Teil 4/106 (Y 69–69)
 
@@ -1639,7 +1639,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1651,7 +1651,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.49 – Palazzo dei Mozzi – Teil 5/106 (Y 70–70)
 
@@ -1667,7 +1667,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1679,7 +1679,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.50 – Palazzo dei Mozzi – Teil 6/106 (Y 70–70)
 
@@ -1695,7 +1695,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1707,7 +1707,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.51 – Palazzo dei Mozzi – Teil 7/106 (Y 71–71)
 
@@ -1723,7 +1723,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1735,7 +1735,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.52 – Palazzo dei Mozzi – Teil 8/106 (Y 71–71)
 
@@ -1751,7 +1751,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1763,7 +1763,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.53 – Palazzo dei Mozzi – Teil 9/106 (Y 72–72)
 
@@ -1779,7 +1779,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1791,7 +1791,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.54 – Palazzo dei Mozzi – Teil 10/106 (Y 72–72)
 
@@ -1807,7 +1807,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1819,7 +1819,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.55 – Palazzo dei Mozzi – Teil 11/106 (Y 73–73)
 
@@ -1835,7 +1835,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1847,7 +1847,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.56 – Palazzo dei Mozzi – Teil 12/106 (Y 73–73)
 
@@ -1863,7 +1863,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1875,7 +1875,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.57 – Palazzo dei Mozzi – Teil 13/106 (Y 73–73)
 
@@ -1891,7 +1891,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1903,7 +1903,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.58 – Palazzo dei Mozzi – Teil 14/106 (Y 74–74)
 
@@ -1919,7 +1919,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1931,7 +1931,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.59 – Palazzo dei Mozzi – Teil 15/106 (Y 74–74)
 
@@ -1947,7 +1947,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1959,7 +1959,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.60 – Palazzo dei Mozzi – Teil 16/106 (Y 74–74)
 
@@ -1975,7 +1975,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1987,7 +1987,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.61 – Palazzo dei Mozzi – Teil 17/106 (Y 75–75)
 
@@ -2003,7 +2003,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2015,7 +2015,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.62 – Palazzo dei Mozzi – Teil 18/106 (Y 75–75)
 
@@ -2031,7 +2031,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2043,7 +2043,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.63 – Palazzo dei Mozzi – Teil 19/106 (Y 75–75)
 
@@ -2059,7 +2059,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2071,7 +2071,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.64 – Palazzo dei Mozzi – Teil 20/106 (Y 76–76)
 
@@ -2087,7 +2087,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2099,7 +2099,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.65 – Palazzo dei Mozzi – Teil 21/106 (Y 76–76)
 
@@ -2115,7 +2115,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2127,7 +2127,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.66 – Palazzo dei Mozzi – Teil 22/106 (Y 76–76)
 
@@ -2143,7 +2143,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2155,7 +2155,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.67 – Palazzo dei Mozzi – Teil 23/106 (Y 77–77)
 
@@ -2171,7 +2171,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2183,7 +2183,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.68 – Palazzo dei Mozzi – Teil 24/106 (Y 77–77)
 
@@ -2199,7 +2199,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2211,7 +2211,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.69 – Palazzo dei Mozzi – Teil 25/106 (Y 77–77)
 
@@ -2227,7 +2227,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2239,7 +2239,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.70 – Palazzo dei Mozzi – Teil 26/106 (Y 78–78)
 
@@ -2255,7 +2255,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2267,7 +2267,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.71 – Palazzo dei Mozzi – Teil 27/106 (Y 78–78)
 
@@ -2283,7 +2283,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2295,7 +2295,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.72 – Palazzo dei Mozzi – Teil 28/106 (Y 78–78)
 
@@ -2311,7 +2311,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2323,7 +2323,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.73 – Palazzo dei Mozzi – Teil 29/106 (Y 79–79)
 
@@ -2339,7 +2339,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2351,7 +2351,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.74 – Palazzo dei Mozzi – Teil 30/106 (Y 79–79)
 
@@ -2367,7 +2367,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2379,7 +2379,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.75 – Palazzo dei Mozzi – Teil 31/106 (Y 79–79)
 
@@ -2395,7 +2395,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2407,7 +2407,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.76 – Palazzo dei Mozzi – Teil 32/106 (Y 80–80)
 
@@ -2423,7 +2423,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2435,7 +2435,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.77 – Palazzo dei Mozzi – Teil 33/106 (Y 80–80)
 
@@ -2451,7 +2451,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2463,7 +2463,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.78 – Palazzo dei Mozzi – Teil 34/106 (Y 80–80)
 
@@ -2479,7 +2479,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2491,7 +2491,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.79 – Palazzo dei Mozzi – Teil 35/106 (Y 81–81)
 
@@ -2507,7 +2507,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2519,7 +2519,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.80 – Palazzo dei Mozzi – Teil 36/106 (Y 81–81)
 
@@ -2535,7 +2535,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2547,7 +2547,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.81 – Palazzo dei Mozzi – Teil 37/106 (Y 81–81)
 
@@ -2563,7 +2563,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2575,7 +2575,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.82 – Palazzo dei Mozzi – Teil 38/106 (Y 82–82)
 
@@ -2591,7 +2591,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2603,7 +2603,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.83 – Palazzo dei Mozzi – Teil 39/106 (Y 82–82)
 
@@ -2619,7 +2619,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2631,7 +2631,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.84 – Palazzo dei Mozzi – Teil 40/106 (Y 82–82)
 
@@ -2647,7 +2647,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2659,7 +2659,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.85 – Palazzo dei Mozzi – Teil 41/106 (Y 83–83)
 
@@ -2675,7 +2675,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2687,7 +2687,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.86 – Palazzo dei Mozzi – Teil 42/106 (Y 83–83)
 
@@ -2703,7 +2703,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2715,7 +2715,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.87 – Palazzo dei Mozzi – Teil 43/106 (Y 83–83)
 
@@ -2731,7 +2731,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2743,7 +2743,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.88 – Palazzo dei Mozzi – Teil 44/106 (Y 84–84)
 
@@ -2759,7 +2759,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2771,7 +2771,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.89 – Palazzo dei Mozzi – Teil 45/106 (Y 84–84)
 
@@ -2787,7 +2787,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2799,7 +2799,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.90 – Palazzo dei Mozzi – Teil 46/106 (Y 84–84)
 
@@ -2815,7 +2815,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2827,7 +2827,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.91 – Palazzo dei Mozzi – Teil 47/106 (Y 85–85)
 
@@ -2843,7 +2843,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2855,7 +2855,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.92 – Palazzo dei Mozzi – Teil 48/106 (Y 85–85)
 
@@ -2871,7 +2871,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2883,7 +2883,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.93 – Palazzo dei Mozzi – Teil 49/106 (Y 85–85)
 
@@ -2899,7 +2899,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2911,7 +2911,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.94 – Palazzo dei Mozzi – Teil 50/106 (Y 86–86)
 
@@ -2927,7 +2927,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2939,7 +2939,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.95 – Palazzo dei Mozzi – Teil 51/106 (Y 86–86)
 
@@ -2955,7 +2955,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2967,7 +2967,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.96 – Palazzo dei Mozzi – Teil 52/106 (Y 86–86)
 
@@ -2983,7 +2983,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2995,7 +2995,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.97 – Palazzo dei Mozzi – Teil 53/106 (Y 87–87)
 
@@ -3011,7 +3011,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3023,7 +3023,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.98 – Palazzo dei Mozzi – Teil 54/106 (Y 87–87)
 
@@ -3039,7 +3039,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3051,7 +3051,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.99 – Palazzo dei Mozzi – Teil 55/106 (Y 87–87)
 
@@ -3067,7 +3067,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3079,7 +3079,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.100 – Palazzo dei Mozzi – Teil 56/106 (Y 88–88)
 
@@ -3095,7 +3095,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3107,7 +3107,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.101 – Palazzo dei Mozzi – Teil 57/106 (Y 88–88)
 
@@ -3123,7 +3123,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3135,7 +3135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.102 – Palazzo dei Mozzi – Teil 58/106 (Y 88–88)
 
@@ -3151,7 +3151,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3163,7 +3163,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.103 – Palazzo dei Mozzi – Teil 59/106 (Y 89–89)
 
@@ -3179,7 +3179,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3191,7 +3191,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.104 – Palazzo dei Mozzi – Teil 60/106 (Y 89–89)
 
@@ -3207,7 +3207,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3219,7 +3219,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.105 – Palazzo dei Mozzi – Teil 61/106 (Y 89–89)
 
@@ -3235,7 +3235,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3247,7 +3247,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.106 – Palazzo dei Mozzi – Teil 62/106 (Y 90–90)
 
@@ -3263,7 +3263,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3275,7 +3275,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.107 – Palazzo dei Mozzi – Teil 63/106 (Y 90–90)
 
@@ -3291,7 +3291,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3303,7 +3303,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.108 – Palazzo dei Mozzi – Teil 64/106 (Y 90–90)
 
@@ -3319,7 +3319,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3331,7 +3331,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.109 – Palazzo dei Mozzi – Teil 65/106 (Y 90–90)
 
@@ -3347,7 +3347,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3359,7 +3359,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.110 – Palazzo dei Mozzi – Teil 66/106 (Y 91–91)
 
@@ -3375,7 +3375,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3387,7 +3387,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.111 – Palazzo dei Mozzi – Teil 67/106 (Y 91–91)
 
@@ -3403,7 +3403,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3415,7 +3415,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.112 – Palazzo dei Mozzi – Teil 68/106 (Y 91–91)
 
@@ -3431,7 +3431,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3443,7 +3443,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.113 – Palazzo dei Mozzi – Teil 69/106 (Y 91–91)
 
@@ -3459,7 +3459,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3471,7 +3471,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.114 – Palazzo dei Mozzi – Teil 70/106 (Y 92–92)
 
@@ -3483,13 +3483,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.012 |
+| Tuffstein | `tuff` | 936 |
+| Tuffsteinziegel | `tuff_bricks` | 78 |
 | Polierter Andesit | `polished_andesite` | 36 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3501,7 +3501,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.115 – Palazzo dei Mozzi – Teil 71/106 (Y 93–93)
 
@@ -3513,13 +3513,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.033 |
+| Tuffstein | `tuff` | 963 |
+| Tuffsteinziegel | `tuff_bricks` | 71 |
 | Polierter Andesit | `polished_andesite` | 16 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3531,7 +3531,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.116 – Palazzo dei Mozzi – Teil 72/106 (Y 94–94)
 
@@ -3543,13 +3543,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 783 |
+| Tuffstein | `tuff` | 748 |
 | Polierter Andesit | `polished_andesite` | 343 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 37 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3561,7 +3561,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.117 – Palazzo dei Mozzi – Teil 73/106 (Y 95–95)
 
@@ -3573,15 +3573,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 653 |
+| Tuffstein | `tuff` | 685 |
 | Polierter Andesit | `polished_andesite` | 128 |
 | Graues Buntglas | `gray_stained_glass` | 118 |
-| Grüner Beton | `green_concrete` | 72 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
+| Tuffsteinziegel | `tuff_bricks` | 41 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3593,7 +3592,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.118 – Palazzo dei Mozzi – Teil 74/106 (Y 96–96)
 
@@ -3605,15 +3604,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 634 |
+| Tuffstein | `tuff` | 664 |
 | Polierter Andesit | `polished_andesite` | 152 |
 | Graues Buntglas | `gray_stained_glass` | 118 |
-| Grüner Beton | `green_concrete` | 72 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 44 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3625,7 +3623,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.119 – Palazzo dei Mozzi – Teil 75/106 (Y 97–97)
 
@@ -3637,14 +3635,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 656 |
+| Tuffstein | `tuff` | 678 |
 | Polierter Andesit | `polished_andesite` | 245 |
-| Grüner Beton | `green_concrete` | 72 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Tuffsteinziegel | `tuff_bricks` | 55 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3656,7 +3653,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.120 – Palazzo dei Mozzi – Teil 76/106 (Y 98–98)
 
@@ -3668,14 +3665,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 644 |
+| Tuffstein | `tuff` | 670 |
 | Polierter Andesit | `polished_andesite` | 144 |
 | Graues Buntglas | `gray_stained_glass` | 118 |
-| Grüner Beton | `green_concrete` | 72 |
+| Tuffsteinziegel | `tuff_bricks` | 46 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3687,7 +3684,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.121 – Palazzo dei Mozzi – Teil 77/106 (Y 99–99)
 
@@ -3699,12 +3696,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 816 |
+| Tuffstein | `tuff` | 780 |
 | Polierter Andesit | `polished_andesite` | 241 |
+| Tuffsteinziegel | `tuff_bricks` | 36 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3716,7 +3714,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.122 – Palazzo dei Mozzi – Teil 78/106 (Y 100–100)
 
@@ -3728,12 +3726,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.024 |
+| Tuffstein | `tuff` | 946 |
+| Tuffsteinziegel | `tuff_bricks` | 78 |
 | Polierter Andesit | `polished_andesite` | 33 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3745,24 +3744,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.123 – Palazzo dei Mozzi – Teil 79/106 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.057
+- **Blöcke:** 1.319
 - **Bauteile:** `r4095220`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 539 |
-| Glatter Stein | `smooth_stone` | 518 |
+| Glatter Stein | `smooth_stone` | 780 |
+| Tuffstein | `tuff` | 539 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3774,7 +3773,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.124 – Palazzo dei Mozzi – Teil 80/106 (Y 102–102)
 
@@ -3786,12 +3785,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.024 |
+| Tuffstein | `tuff` | 963 |
+| Tuffsteinziegel | `tuff_bricks` | 61 |
 | Polierter Andesit | `polished_andesite` | 33 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3803,7 +3803,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.125 – Palazzo dei Mozzi – Teil 81/106 (Y 103–103)
 
@@ -3815,12 +3815,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 811 |
+| Tuffstein | `tuff` | 768 |
 | Polierter Andesit | `polished_andesite` | 325 |
+| Tuffsteinziegel | `tuff_bricks` | 43 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3832,7 +3833,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.126 – Palazzo dei Mozzi – Teil 82/106 (Y 104–104)
 
@@ -3844,14 +3845,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 635 |
+| Tuffstein | `tuff` | 672 |
 | Polierter Andesit | `polished_andesite` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 37 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3863,7 +3864,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.127 – Palazzo dei Mozzi – Teil 83/106 (Y 105–105)
 
@@ -3875,14 +3876,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 656 |
+| Tuffstein | `tuff` | 685 |
 | Polierter Andesit | `polished_andesite` | 125 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 45 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3894,7 +3895,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.128 – Palazzo dei Mozzi – Teil 84/106 (Y 106–106)
 
@@ -3906,14 +3907,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 635 |
+| Tuffstein | `tuff` | 669 |
 | Polierter Andesit | `polished_andesite` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 40 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3925,7 +3926,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.129 – Palazzo dei Mozzi – Teil 85/106 (Y 107–107)
 
@@ -3937,14 +3938,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 656 |
+| Tuffstein | `tuff` | 686 |
 | Polierter Andesit | `polished_andesite` | 125 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 44 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3956,26 +3957,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.130 – Palazzo dei Mozzi – Teil 86/106 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
-- **Blöcke:** 976
+- **Blöcke:** 978
 - **Bauteile:** `r4095220`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 635 |
-| Polierter Andesit | `polished_andesite` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffstein | `tuff` | 679 |
+| Polierter Andesit | `polished_andesite` | 148 |
+| Graues Buntglas | `gray_stained_glass` | 119 |
+| Tuffsteinziegel | `tuff_bricks` | 32 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3987,26 +3988,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.131 – Palazzo dei Mozzi – Teil 87/106 (Y 109–109)
 
 - **Y-Bereich:** 109 bis 109
-- **Blöcke:** 976
+- **Blöcke:** 1.003
 - **Bauteile:** `r4095220`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 656 |
-| Polierter Andesit | `polished_andesite` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffstein | `tuff` | 711 |
+| Polierter Andesit | `polished_andesite` | 165 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Tuffsteinziegel | `tuff_bricks` | 47 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4018,7 +4019,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.132 – Palazzo dei Mozzi – Teil 88/106 (Y 110–110)
 
@@ -4030,12 +4031,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 790 |
-| Polierter Andesit | `polished_andesite` | 267 |
+| Tuffstein | `tuff` | 808 |
+| Polierter Andesit | `polished_andesite` | 199 |
+| Tuffsteinziegel | `tuff_bricks` | 50 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4047,24 +4049,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.133 – Palazzo dei Mozzi – Teil 89/106 (Y 111–111)
 
 - **Y-Bereich:** 111 bis 111
-- **Blöcke:** 1.057
+- **Blöcke:** 1.319
 - **Bauteile:** `r4095220`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 539 |
-| Glatter Stein | `smooth_stone` | 518 |
+| Glatter Stein | `smooth_stone` | 780 |
+| Tuffstein | `tuff` | 539 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4076,7 +4078,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.134 – Palazzo dei Mozzi – Teil 90/106 (Y 112–112)
 
@@ -4088,12 +4090,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.024 |
+| Tuffstein | `tuff` | 933 |
+| Tuffsteinziegel | `tuff_bricks` | 91 |
 | Polierter Andesit | `polished_andesite` | 33 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4105,7 +4108,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.135 – Palazzo dei Mozzi – Teil 91/106 (Y 113–113)
 
@@ -4117,12 +4120,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 811 |
+| Tuffstein | `tuff` | 746 |
 | Polierter Andesit | `polished_andesite` | 325 |
+| Tuffsteinziegel | `tuff_bricks` | 65 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4134,7 +4138,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.136 – Palazzo dei Mozzi – Teil 92/106 (Y 114–114)
 
@@ -4146,14 +4150,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 635 |
+| Tuffstein | `tuff` | 682 |
 | Polierter Andesit | `polished_andesite` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 27 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4165,7 +4169,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.137 – Palazzo dei Mozzi – Teil 93/106 (Y 115–115)
 
@@ -4177,14 +4181,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 656 |
+| Tuffstein | `tuff` | 690 |
 | Polierter Andesit | `polished_andesite` | 125 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 40 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4196,7 +4200,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.138 – Palazzo dei Mozzi – Teil 94/106 (Y 116–116)
 
@@ -4208,14 +4212,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 635 |
+| Tuffstein | `tuff` | 671 |
 | Polierter Andesit | `polished_andesite` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 38 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4227,26 +4231,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.139 – Palazzo dei Mozzi – Teil 95/106 (Y 117–117)
 
 - **Y-Bereich:** 117 bis 117
-- **Blöcke:** 976
+- **Blöcke:** 978
 - **Bauteile:** `r4095220`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 656 |
-| Polierter Andesit | `polished_andesite` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffstein | `tuff` | 685 |
+| Polierter Andesit | `polished_andesite` | 127 |
+| Graues Buntglas | `gray_stained_glass` | 119 |
+| Tuffsteinziegel | `tuff_bricks` | 47 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4258,26 +4262,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.140 – Palazzo dei Mozzi – Teil 96/106 (Y 118–118)
 
 - **Y-Bereich:** 118 bis 118
-- **Blöcke:** 976
+- **Blöcke:** 1.003
 - **Bauteile:** `r4095220`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 635 |
-| Polierter Andesit | `polished_andesite` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Grüner Beton | `green_concrete` | 74 |
+| Tuffstein | `tuff` | 692 |
+| Polierter Andesit | `polished_andesite` | 186 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Tuffsteinziegel | `tuff_bricks` | 45 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4289,7 +4293,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.141 – Palazzo dei Mozzi – Teil 97/106 (Y 119–119)
 
@@ -4301,12 +4305,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 811 |
-| Polierter Andesit | `polished_andesite` | 246 |
+| Tuffstein | `tuff` | 824 |
+| Polierter Andesit | `polished_andesite` | 178 |
+| Tuffsteinziegel | `tuff_bricks` | 55 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4318,7 +4323,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.142 – Palazzo dei Mozzi – Teil 98/106 (Y 120–120)
 
@@ -4330,13 +4335,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.024 |
+| Tuffstein | `tuff` | 929 |
 | Fichtenholz-Bretter | `spruce_planks` | 144 |
+| Tuffsteinziegel | `tuff_bricks` | 95 |
 | Polierter Andesit | `polished_andesite` | 33 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4348,7 +4354,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.143 – Palazzo dei Mozzi – Teil 99/106 (Y 121–121)
 
@@ -4360,13 +4366,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.045 |
+| Tuffstein | `tuff` | 966 |
 | Fichtenholz-Bretter | `spruce_planks` | 638 |
+| Tuffsteinziegel | `tuff_bricks` | 79 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4378,7 +4385,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.144 – Palazzo dei Mozzi – Teil 100/106 (Y 122–122)
 
@@ -4394,7 +4401,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4406,7 +4413,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.145 – Palazzo dei Mozzi – Teil 101/106 (Y 122–122)
 
@@ -4422,7 +4429,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4434,7 +4441,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.146 – Palazzo dei Mozzi – Teil 102/106 (Y 123–123)
 
@@ -4450,7 +4457,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4462,7 +4469,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.147 – Palazzo dei Mozzi – Teil 103/106 (Y 124–124)
 
@@ -4478,7 +4485,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4490,7 +4497,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.148 – Palazzo dei Mozzi – Teil 104/106 (Y 125–125)
 
@@ -4507,7 +4514,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4519,7 +4526,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.149 – Palazzo dei Mozzi – Teil 105/106 (Y 126–127)
 
@@ -4536,7 +4543,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4548,7 +4555,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.150 – Palazzo dei Mozzi – Teil 106/106 (Y 128–133)
 
@@ -4565,7 +4572,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4577,7 +4584,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.151 – Palazzo dei Mozzi: Innenausbau – Teil 1/6 (Y 91–101)
 

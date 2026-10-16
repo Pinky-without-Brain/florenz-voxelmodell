@@ -1,7 +1,7 @@
 {
   "id": "w306798525",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -9,22 +9,22 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 12
     },
     {
-      "art": "og",
-      "hoeheBl": 10
+      "art": "attika",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -32,18 +32,23 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
+      "art": "cornicione_stein",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "rundfenster_im_dachgeschoss",
+      "portal_zwischen_pilastern",
+      "seitliche_sporti_via_dei_preti"
+    ],
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Settimanni",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Breites Portal zwischen Pilastern, Rechteckfenster im EG, Rundbogenfenster am Piano nobile mit doppelter Gurtlinie, Rundfenster im Dachgeschoss, verstärkte Flanken aus Sichtstein und auskragende Gronda mit kleinem Steinkranz, Sporti auf der Seite. Annahme: Putzfarbe, Achsenzahl.",
   "name": "Palazzo Settimanni"
 }
