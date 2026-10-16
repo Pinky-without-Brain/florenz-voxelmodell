@@ -1,0 +1,43 @@
+{
+  "module": 6,
+  "title": "Obere Räume, Altana und Eingangshalle",
+  "subtitle": "Bautüte 6: Castellana, Impannate, Küche, Altana, Androne",
+  "icon": "🏰",
+  "parts": {
+    "camera_castellana": {
+      "title": "Camera della Castellana di Vergy",
+      "description": "Das Schlafzimmer im zweiten Stock trägt einen Bildfries (5 Blöcke hoch) mit Bildfeldern von 6 × 3 Blöcken: Burg, Ritter und Dame vor Himmel und Wiese, durch Goldrahmen getrennt. Dazu ein Bett, eine Truhe und ein Geburtsteller-Bild (Desco da parto).",
+      "tip": "Setze die Rahmen zuerst, dann die Felder.",
+      "caution": "Fenster und Türen bleiben frei.",
+      "fact": "Der einzige Raum mit durchgehendem Freskenzyklus, um 1350, nach der Sage der Castellana di Vergy; ein Desco da parto von Scheggia (it.wikipedia, en.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "camera_impannate": {
+      "title": "Camera delle Impannate",
+      "description": "Im dritten Stock zeigt der Raum gemalte Draperie in Rot und Weiß mit Goldborte über einem Holzsockel, dazu Bett, Truhe und Tisch.",
+      "tip": "Male die Streifen von unten nach oben.",
+      "caution": "Halte die Türen frei.",
+      "fact": "Im obersten Geschoss liegt die Camera delle Impannate mit Wandmalereien (it.wikipedia, Palazzo Davanzati). (vereinfacht, nicht nach Vorbild)."
+    },
+    "kueche": {
+      "title": "Küche im obersten Geschoss",
+      "description": "Ein gemauerter Herd aus Pietra forte mit Rauchfang bis zur Decke, Kupfergerät, ein Arbeitstisch, ein Teigtrog und Regale mit Kupfertöpfen. Der Boden ist ein Schachbrett aus Pflaster und Pietra forte.",
+      "tip": "Baue den Herd zuerst, dann Rauchfang und Regale.",
+      "caution": "Kein Möbel vor die Türen.",
+      "fact": "Die Küche liegt ganz oben, damit Hitze und Brandgefahr von den Wohnräumen fernbleiben; sie hat Kamin, Blasebalg, Bratspieße und eine Brotknetmaschine (en.wikipedia, it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "altana_ausstattung": {
+      "title": "Einrichtung der Altana",
+      "description": "Zwischen den Stützen stehen Holzbänke an der Rückwand, drei Pflanzkübel mit Grün und zwei Wappenfelder (Gold und Rot) an der Rückwand.",
+      "tip": "Halte den Zugang vom Hof frei.",
+      "caution": "Stelle nichts vor die Tür zur Hofplattform.",
+      "fact": "Die Altana ist eine Loggia unter dem Dach; die Einrichtung ist frei entworfen (Stufe C). (vereinfacht, nicht nach Vorbild)."
+    },
+    "androne": {
+      "title": "Eingangshalle",
+      "description": "Unter der Fassade stehen Steinbänke aus Pietra serena zwischen den Bögen; die Halle öffnet sich zum Hof.",
+      "tip": "Setze die Bänke an die Fassadenwand.",
+      "caution": "Halte die Wege zu den Bögen und zum Hof frei.",
+      "fact": "Drei Tore führen von der Straße in die Eingangshalle und den Hof (it.wikipedia, Palazzo Davanzati). (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "module": 2,
+  "title": "Mauern und Geschossböden",
+  "subtitle": "Bautüte 2: Außenmauern, Hofwand, Innenwände, Böden",
+  "icon": "🧱",
+  "parts": {
+    "aussenwaende": {
+      "title": "Außenmauern",
+      "description": "Die Seiten- und Rückwände sind 2 Blöcke dick und gehen bis zur Dachkante; innen sind sie verputzt (weiß), außen Mauerwerk. Sie stoßen auf die Nachbarhäuser und haben keine Fenster. Der Anbau im Süden ist eingeschossig.",
+      "tip": "Arbeite lagenweise rund um den Grundriss.",
+      "caution": "In den Außenwänden gibt es keine Türen; der Zugang ist die Fassade.",
+      "fact": "Das Haus steht dicht zwischen Nachbarhäusern (OpenStreetMap-Umriss); die Mauerstärke ist ein Entwurfswert. (vereinfacht, nicht nach Vorbild)."
+    },
+    "hofwaende": {
+      "title": "Hofwände mit Portikus",
+      "description": "Der Innenhof von 12 × 14 Blöcken ist von einer 2 Blöcke dicken Wand umgeben. Im Erdgeschoss öffnen sich im Norden und Osten je zwei Bögen als Portikus mit Pfeilern aus Pietra serena; darüber haben die Geschosse Glasfenster und an den Treppenplattformen Türen.",
+      "tip": "Setze zuerst die Pfeiler, dann die Mauer über den Bögen.",
+      "caution": "Die Türen an den Plattformen müssen 3 Blöcke breit und 5 hoch bleiben.",
+      "fact": "Der Hof hat einen Portikus an zwei Seiten mit Bögen, Gewölben und achteckigen Pfeilern (it.wikipedia, Palazzo Davanzati); Maße frei. (vereinfacht, nicht nach Vorbild)."
+    },
+    "innenwaende": {
+      "title": "Innenwände und Türen",
+      "description": "Ein Ring aus sechs Räumen umgibt den Hof (Straßensaal, zwei Westräume, Rückraum, zwei Osträume); die 2 Blöcke dicken Trennwände haben Türen von 3 × 5 Blöcken. Die Rückwand trennt vom Anbau.",
+      "tip": "Lass die Türöffnungen frei, bevor du die Wand baust.",
+      "caution": "Prüfe, dass jeder Raum über Türen mit dem nächsten verbunden ist.",
+      "fact": "Die Räume öffnen sich auf Gänge und Hof; die Raumteilung ist frei entworfen (Stufe C). (vereinfacht, nicht nach Vorbild)."
+    },
+    "boden_1": {
+      "title": "Boden des ersten Stocks",
+      "description": "Boden aus Cotto (Terrakotta) in 1 Block Dicke; in der Sala Madornale laufen Streifen aus Pietra serena. Der Hof bleibt offen.",
+      "tip": "Lege den Boden von Wand zu Wand.",
+      "caution": "Spare den Hof aus.",
+      "fact": "Das Piano nobile enthält Sala Madornale, Sala dei Pappagalli, Studiolo und Sala dei Pavoni (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "boden_2": {
+      "title": "Boden des zweiten Stocks",
+      "description": "Boden aus Cotto in 1 Block Dicke über allen Räumen.",
+      "tip": "Lege den Boden von Wand zu Wand.",
+      "caution": "Spare den Hof aus.",
+      "fact": "Im zweiten Stock liegt das Schlafzimmer mit dem Freskenzyklus der Dame von Vergy (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "boden_3": {
+      "title": "Boden des dritten Stocks",
+      "description": "Boden aus Cotto; im Rückraum (Küche) ein Schachbrett aus Pflaster und Pietra forte.",
+      "tip": "Lege den Boden von Wand zu Wand.",
+      "caution": "Spare den Hof aus.",
+      "fact": "Im obersten Geschoss liegen Camera delle Impannate, ein weiteres Schlafzimmer und die Küche (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "boden_4": {
+      "title": "Boden der Altana",
+      "description": "Boden aus Cotto über dem dritten Stock; im Straßenteil ist er der Boden der Dachloggia, über den übrigen Räumen die Decke unter dem Dach.",
+      "tip": "Lege ihn auf die Mauerkronen.",
+      "caution": "Lass den Hof offen.",
+      "fact": "Die Altana ist eine Dachloggia des 16. Jahrhunderts (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "anbau_dach": {
+      "title": "Dach des Anbaus",
+      "description": "Der eingeschossige Anbau im Süden (Remise) hat ein flaches Dach aus Terrakotta, 2 Blöcke dick.",
+      "tip": "Lege das Dach auf die Mauerkronen.",
+      "caution": "Das Dach ist nicht begehbar vorgesehen.",
+      "fact": "Der Umriss im Süden läuft keilförmig aus (OpenStreetMap); der Anbau ist ein Entwurf (Stufe C). (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}

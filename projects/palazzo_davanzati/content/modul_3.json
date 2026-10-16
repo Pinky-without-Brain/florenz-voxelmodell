@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Hof, Treppe, Altana und Dach",
+  "subtitle": "Bautüte 3: Brunnen, Treppe auf Kragsteinen, Dachloggia, Dach",
+  "icon": "⛲",
+  "parts": {
+    "brunnen": {
+      "title": "Ziehbrunnen im Hof",
+      "description": "Ein Brunnenkranz von 3 × 3 Blöcken aus Pietra serena umgibt das Wasser; zwei Holzpfosten tragen einen Querbalken mit Kupferrolle. Am Südende der Hofwand sitzt in jedem Geschoss ein Kupferblock als Seilrolle des Ziehschachts.",
+      "tip": "Setze zuerst den Kranz, dann Pfosten und Balken.",
+      "caution": "Lass um den Brunnen einen Weg frei.",
+      "fact": "Ein Brunnen mit Seilrolle hebt das Wasser in alle Stockwerke; darunter liegt eine Zisterne (it.wikipedia, Palazzo Davanzati). (vereinfacht, nicht nach Vorbild)."
+    },
+    "hoftreppe": {
+      "title": "Hoftreppe auf Kragsteinen",
+      "description": "An der Westwand des Hofs steigen vier Läufe von 11, 10, 10 und 10 Stufen (Breite 2) aus Treppenblöcken bis zur Dachebene; die unteren zwei aus Stein, die oberen aus Holz. Plattformen von 4 × 2 Blöcken wechseln zwischen Süd- und Nordende; unter jeder Stufe sitzt ein Kragstein aus Pietra serena.",
+      "tip": "Baue Lauf und Plattform nacheinander von unten nach oben.",
+      "caution": "Über jeder Stufe müssen 3 Blöcke Luft bleiben.",
+      "fact": "Eine steile Steintreppe auf Konsolen und Strebebögen führt vom Hof nach oben, erst aus Stein, dann aus Holz (it.wikipedia, limen.org). (vereinfacht, nicht nach Vorbild)."
+    },
+    "altana": {
+      "title": "Altana (Dachloggia)",
+      "description": "Auf dem Dachboden steht die Loggia: sechs Stützen (vier Säulen, zwei Pilaster) tragen Bögen zur Straße, Seitenwände und eine Holzdecke; 5 Blöcke lichte Höhe, über die ganze Hausbreite.",
+      "tip": "Setze zuerst die Stützen, dann die Seitenwände, zuletzt die Decke.",
+      "caution": "Die Bögen zwischen den Stützen bleiben offen.",
+      "fact": "Die Loggia des 16. Jahrhunderts ersetzt die mittelalterliche Zinnenkrone und wird von vier Säulen und zwei Pilastern getragen (it.wikipedia, en.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "dach": {
+      "title": "Dach und Dachvorsprung",
+      "description": "Über den Flügeln liegt ein massives Dach aus Terrakotta, zum Hof und zu den Rändern abfallend. Über der Altana ragt es als weit vorspringendes Dach zwei Blöcke über die Fassade hinaus, mit Konsolen aus Pietra serena darunter.",
+      "tip": "Arbeite von den Rändern zur Mitte.",
+      "caution": "Der Vorsprung hängt über der Straße; baue die Konsolen zuerst.",
+      "fact": "Die Loggia liegt unter einem weit vorspringenden Dach (it.wikipedia, Palazzo Davanzati). (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}

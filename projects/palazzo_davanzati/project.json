@@ -1,0 +1,11 @@
+{
+  "id": "palazzo_davanzati",
+  "title": "Palazzo Davanzati",
+  "type": "wahrzeichen",
+  "gebaeude": ["w307153268"],
+  "bodenY": 63,
+  "rahmen": { "ox": -659, "oz": 668.5, "thetaDeg": 0 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

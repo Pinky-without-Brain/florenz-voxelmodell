@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Licht",
+  "subtitle": "Bautüte 4: Seelaternen im Boden",
+  "icon": "💡",
+  "parts": {
+    "licht": {
+      "title": "Seelaternen im Boden",
+      "description": "In jedem Raum und im Hof sitzen Seelaternen im Boden, höchstens 9 Blöcke voneinander entfernt, damit die Räume in Minecraft hell sind.",
+      "tip": "Ersetze nur Bodenblöcke, über denen nichts steht.",
+      "caution": "Stelle keine Möbel auf die Laternen.",
+      "fact": "Licht ist eine Entwurfsentscheidung für das Spiel, kein Befund aus den Quellen. (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}
