@@ -1,19 +1,23 @@
 {
   "id": "w307295772",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -22,12 +26,12 @@
     "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "tabernakel",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -35,15 +39,22 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "steinbank",
+      "wappen_ecke",
+      "fries_motto_mihi_labor_decus",
+      "dreiecksgiebelportal"
+    ],
+    "marcapiano": "vor",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Da_Magnale",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Cinquecento-Palazzo mit Steinband im EG bis zum Sohlbankgesims, Portal mit Dreiecksgiebel, Kniefenster mit gleichen Giebeln, Steinbank, 1. OG mit Zahnschnittgesims (Motto Mihi Labor Decus) und fünf Fenstern mit Segmentgiebel, darüber einfachere Fenster, Ecken mit Bossen bis zum Piano nobile, Eckwappen. Annahme: Putzfarbe, Geschosszahl.",
   "name": "Palazzo Da Magnale"
 }

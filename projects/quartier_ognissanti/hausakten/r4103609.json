@@ -1,15 +1,15 @@
 {
   "id": "r4103609",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "ab 1480 (Ricasoli, Meleto); Lungarno um zwei Achsen im 19. Jh. erweitert",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -18,7 +18,7 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 10,
     "material": "putz",
     "putzfarbe": "terrakotta",
     "erdgeschoss": {
@@ -35,15 +35,19 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "sporti_auf_steinmensolen_via_del_parione",
+      "wappen_ricasoli_doppelt_an_den_ecken",
+      "schlichte_dekoration"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Drei Fronten, Lungarno zehn Achsen (acht historisch plus zwei im 19. Jh. im alten Stil ergänzt), Via del Parione neun Achsen mit den ersten fünf auf kräftigen Steinkonsolen als Sporti, Ricasoli-Wappen an den Ecken. Annahme: Putzfarbe, Gesims.",
   "name": "Palazzo Ricasoli"
 }

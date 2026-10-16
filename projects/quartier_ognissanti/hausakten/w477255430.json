@@ -1,7 +1,7 @@
 {
   "id": "w477255430",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "16./17. Jh. (Annahme)",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "balkonkonsolen_umgekehrt",
+      "balustraden_umgekehrt"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_alla_Rovescia",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Berühmt als Casa alla Rovescia, weil die Konsolen der Terrasse und die Balustraden umgekehrt aufgesetzt sind. Annahme: Alles übrige bleibt typologisch, Bauzeit nicht belegt.",
   "name": "Casa alla Rovescia"
 }

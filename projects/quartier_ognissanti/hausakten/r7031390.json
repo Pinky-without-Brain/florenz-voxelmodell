@@ -1,7 +1,7 @@
 {
   "id": "r7031390",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "17. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -22,7 +22,7 @@
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
@@ -35,15 +35,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "portal_zwischen_halbsaeulen_mit_balkon",
+      "wappen_vier_kettenglieder"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Portal zwischen Halbsäulen, die einen Balkon tragen, steinreiche Fassade im Stil des florentiner Seicento mit barockem Einfluss, Wappen mit vier Kettengliedern. Annahme: Achsen, Putzfarbe, Gesims.",
   "name": "Palazzo della Marescialla"
 }

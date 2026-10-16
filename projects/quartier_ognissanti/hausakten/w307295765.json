@@ -1,7 +1,7 @@
 {
   "id": "w307295765",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "17. Jh. (Farinola)",
   "geschosse": [
     {
       "art": "eg",
@@ -22,11 +22,11 @@
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rechteck_vergittert"
+      "art": "portal_mittig",
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": "gruen"
     },
@@ -34,15 +34,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "portal_mit_gebrochenem_giebel",
+      "buste_cosimo_ii_am_architrav",
+      "zwei_laden_oeffnungen_flankierend"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Farinola",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Schlichte Struktur: Portal mit gebrochenem Giebel zwischen zwei Öffnungen für Läden, regelmässige Reihen architravierter Fenster auf Gurtgesimsen, im 1. OG vorstehende Sohlbänke und Stürze, darüber einfachere Pietra-serena-Rahmen, Büste Cosimos II. am Portalarchitrav. Annahme: Putzfarbe, Achsenzahl.",
   "name": "Palazzo Farinola"
 }
