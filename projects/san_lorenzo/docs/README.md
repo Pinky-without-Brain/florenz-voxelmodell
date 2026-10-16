@@ -29,7 +29,7 @@ Ausdehnung des Modells: X -634 bis -382, Y 61 bis 179, Z -473 bis -322.
 | Weißer Beton | `white_concrete` | 62.163 | 19,4 % |
 | Tuffstein | `tuff` | 54.990 | 17,2 % |
 | Glatter Stein | `smooth_stone` | 29.931 | 9,3 % |
-| Polierter Andesit | `polished_andesite` | 28.935 | 9,0 % |
+| Polierter Andesit | `polished_andesite` | 28.931 | 9,0 % |
 | Ziegelsteine | `bricks` | 17.583 | 5,5 % |
 | Terrakotta | `terracotta` | 15.914 | 5,0 % |
 | Polierter Tiefenschiefer | `polished_deepslate` | 12.383 | 3,9 % |
@@ -47,7 +47,7 @@ Ausdehnung des Modells: X -634 bis -382, Y 61 bis 179, Z -473 bis -322.
 | Goldblock | `gold_block` | 503 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 354 | 0,1 % |
 | Geschnittener Kupferblock | `cut_copper` | 258 | 0,1 % |
-| Seelaterne | `sea_lantern` | 143 | 0,0 % |
+| Seelaterne | `sea_lantern` | 147 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 52 | 0,0 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 47 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |

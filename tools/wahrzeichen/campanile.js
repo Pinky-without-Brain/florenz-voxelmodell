@@ -97,6 +97,7 @@ function baueCampanile(env, o) {
   // 4. Glocken und Joche: 2 × 2 an der Wand (r = 2, 3), Unterkante 4 Lagen über dem Stubenboden (Kopffreiheit), Joch darüber
   const cu = (R.u0 + R.u1) / 2, cw = (R.w0 + R.w1) / 2;
   const ziele = [[R.u0 + 3, cw], [R.u1 - 3, cw], [cu, R.w0 + 3], [cu, R.w1 - 3]];
+  if ((o.kleineGlocken || 0) > 0) ziele.push([R.u1 - 3, R.w1 - 3]);                // fünfter Platz in der Ecke für die kleinen Glocken
   const frei2 = (x, z) => { const c = byK.get(P.ck(x, z)); return c && c.r >= 2 && c.r <= 3 && Math.max(Math.abs(x - mitte.x), Math.abs(z - mitte.z)) >= 3; };
   const yb = Y(o.glocke0) + 4;
   const plaetze = [];
@@ -118,16 +119,14 @@ function baueCampanile(env, o) {
   plaetze.forEach((c, i) => {
     const fuss = [[0, 0], [1, 0], [0, 1], [1, 1]].map(([dx, dz]) => byK.get(P.ck(c.x + dx, c.z + dz)));
     const oben = fuss.filter((q) => q.r === 2);
-    const klein = i === plaetze.length - 1 && nKlein > 0;
+    const klein = i >= plaetze.length - nKlein;
     if (!klein) {
       for (const q of fuss) { set(q.x, yb, q.z, T.glocke, 'glocken'); set(q.x, yb + 1, q.z, T.glocke, 'glocken'); }
       set(oben[0].x, yb + 2, oben[0].z, T.glocke, 'glocken');
       info.glocken++;
-    } else {
-      for (let k = 0; k < Math.min(nKlein, oben.length); k++) {
-        set(oben[k].x, yb + 1, oben[k].z, T.glocke, 'glocken'); set(oben[k].x, yb + 2, oben[k].z, T.glocke, 'glocken');
-        info.glocken++; info.kleine++;
-      }
+    } else {                                                        // kleine Glocke: eine Zelle, 2 Lagen hoch, direkt unter dem Joch
+      set(oben[0].x, yb + 1, oben[0].z, T.glocke, 'glocken'); set(oben[0].x, yb + 2, oben[0].z, T.glocke, 'glocken');
+      info.glocken++; info.kleine++;
     }
   });
 
@@ -148,6 +147,19 @@ function baueCampanile(env, o) {
       if (!e || (e.p !== 'campanile_schaft' && e.p !== 'glockenstube')) continue;
       teile.set(e.p, teile.get(e.p).filter((q) => q !== k)); e.t = T.licht; e.p = 'campanile_licht'; lt.push(k);
     }
+  }
+  // Glockenstube: Licht in den Mauerecken (die Seitenmitten sind Bogenöffnungen)
+  for (const [zu, zw] of [[R.u0 + 1.5, R.w0 + 1.5], [R.u1 - 1.5, R.w0 + 1.5], [R.u0 + 1.5, R.w1 - 1.5], [R.u1 - 1.5, R.w1 - 1.5]]) {
+    let bc = null, bd = Infinity;
+    for (const c of cells) {
+      if (c.r !== 1) continue;
+      const d = Math.hypot(c.u - zu, c.w - zw);
+      if (d < bd) { bd = d; bc = c; }
+    }
+    if (!bc) continue;
+    const k = key(bc.x, Y(o.glocke0 + 6), bc.z), e = zellen.get(k);
+    if (!e || (e.p !== 'glockenstube')) continue;
+    teile.set(e.p, teile.get(e.p).filter((q) => q !== k)); e.t = T.licht; e.p = 'campanile_licht'; lt.push(k);
   }
   teile.set('campanile_licht', (teile.get('campanile_licht') || []).concat(lt));
   info.lichter = lt.length;

@@ -195,7 +195,7 @@ Wie man zum Glockengiebel gelangt, ist nicht überliefert; die Treppe ist angeno
 
 **Beschreibung**
 
-Eine drei Blöcke dicke Mauer aus Steinziegeln mit gestufter Krone steht quer zur Tribuna-Achse über der Plattform. Fünf Rundbogenöffnungen, je zweieinhalb Blöcke breit, geben die Glocken frei. Die Giebelkrone steigt zur Mitte bis Lage 58. In jeder Öffnung liegt in Lage 49 ein Balken aus Dunkler Eiche quer zur Wand; an ihm hängen die Glocken. In jeder der fünf Öffnungen hängt eine Glocke aus Geschnittenem Kupfer, drei Lagen hoch, unter dem Balken. In der Mauer des Treppenturms sitzen Seelaternen, alle acht Lagen auf vier Seiten, und zwei im Boden der Plattform.
+Eine drei Blöcke dicke Mauer aus Steinziegeln mit gestufter Krone steht quer zur Tribuna-Achse über der Plattform. Fünf Rundbogenöffnungen, je zweieinhalb Blöcke breit, geben die Glocken frei. Die Giebelkrone steigt zur Mitte bis Lage 57. In jeder Öffnung liegt in Lage 49 ein Balken aus Dunkler Eiche quer zur Wand; an ihm hängen die Glocken. In jeder der fünf Öffnungen hängt eine Glocke aus Geschnittenem Kupfer, drei Lagen hoch, unter dem Balken. In der Mauer des Treppenturms sitzen Seelaternen, alle acht Lagen auf vier Seiten, und zwei im Boden der Plattform.
 
 **Tipp**
 

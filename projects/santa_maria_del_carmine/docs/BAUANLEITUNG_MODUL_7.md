@@ -21,14 +21,14 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Steinziegel | `stone_bricks` | 5.085 | 68,1 % |
+| Steinziegel | `stone_bricks` | 5.082 | 68,1 % |
 | Glatter Stein | `smooth_stone` | 875 | 11,7 % |
 | Terrakotta | `terracotta` | 717 | 9,6 % |
 | Tuffstein | `tuff` | 284 | 3,8 % |
 | Graues Buntglas | `gray_stained_glass` | 216 | 2,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 97 | 1,3 % |
 | Geschnittener Kupferblock | `cut_copper` | 64 | 0,9 % |
-| Seelaterne | `sea_lantern` | 28 | 0,4 % |
+| Seelaterne | `sea_lantern` | 31 | 0,4 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 | 0,3 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 | 0,3 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 24 | 0,3 % |
@@ -46,11 +46,11 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `campanile_schaft` | Turmschaft | 5.122 | 7.1–7.3 |
 | 2 | `campanile_treppe` | Wendeltreppe | 336 | 7.4 |
-| 3 | `glockenstube` | Glockenstube | 1.158 | 7.5 |
+| 3 | `glockenstube` | Glockenstube | 1.155 | 7.5 |
 | 4 | `glockenjoch` | Glockenjoch | 37 | 7.6 |
 | 5 | `glocken` | Glocken | 36 | 7.6 |
 | 6 | `campanile_spitze` | Pyramidenhelm | 745 | 7.6 |
-| 7 | `campanile_licht` | Turmlicht | 28 | 7.6 |
+| 7 | `campanile_licht` | Turmlicht | 31 | 7.6 |
 
 ## Bauschritte
 
@@ -185,14 +185,14 @@ Das Innere des Turms ist nicht überliefert; die Treppe ist eine Modellannahme (
 ### Schritt 7.5 – Glockenstube
 
 - **Y-Bereich:** 107 bis 119
-- **Blöcke:** 1.158
+- **Blöcke:** 1.155
 - **Bauteile:** `glockenstube`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 793 |
+| Steinziegel | `stone_bricks` | 790 |
 | Glatter Stein | `smooth_stone` | 305 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 60 |
 
@@ -215,7 +215,7 @@ Zahl und Form der Öffnungen sind angenommen (Stufe C).
 ### Schritt 7.6 – Glockenjoch & Glocken & Pyramidenhelm & Turmlicht
 
 - **Y-Bereich:** 64 bis 131
-- **Blöcke:** 846
+- **Blöcke:** 849
 - **Bauteile:** `glockenjoch`, `glocken`, `campanile_spitze`, `campanile_licht`
 
 **Teileliste**
@@ -225,7 +225,7 @@ Zahl und Form der Öffnungen sind angenommen (Stufe C).
 | Terrakotta | `terracotta` | 717 |
 | Geschnittener Kupferblock | `cut_copper` | 64 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 37 |
-| Seelaterne | `sea_lantern` | 28 |
+| Seelaterne | `sea_lantern` | 31 |
 
 **Beschreibung**
 

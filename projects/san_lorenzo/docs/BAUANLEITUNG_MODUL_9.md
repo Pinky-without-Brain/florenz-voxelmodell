@@ -21,14 +21,14 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit | `polished_andesite` | 8.515 | 71,7 % |
+| Polierter Andesit | `polished_andesite` | 8.511 | 71,7 % |
 | Glatter Stein | `smooth_stone` | 1.147 | 9,7 % |
 | Ziegelsteine | `bricks` | 1.055 | 8,9 % |
 | Tuffsteinziegel | `tuff_bricks` | 354 | 3,0 % |
 | Geschnittener Kupferblock | `cut_copper` | 258 | 2,2 % |
 | Graues Buntglas | `gray_stained_glass` | 248 | 2,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 104 | 0,9 % |
-| Seelaterne | `sea_lantern` | 40 | 0,3 % |
+| Seelaterne | `sea_lantern` | 44 | 0,4 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,3 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,3 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 38 | 0,3 % |
@@ -46,11 +46,11 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `campanile_schaft` | Turmschaft | 8.556 | 9.1–9.5 |
 | 2 | `campanile_treppe` | Wendeltreppe | 546 | 9.6 |
-| 3 | `glockenstube` | Glockenstube | 1.382 | 9.7 |
+| 3 | `glockenstube` | Glockenstube | 1.378 | 9.7 |
 | 4 | `glockenjoch` | Glockenjoch | 40 | 9.8 |
 | 5 | `glocken` | Glocken | 31 | 9.8 |
 | 6 | `campanile_spitze` | Kuppelhelm | 1.282 | 9.8 |
-| 7 | `campanile_licht` | Turmlicht | 40 | 9.8 |
+| 7 | `campanile_licht` | Turmlicht | 44 | 9.8 |
 
 ## Bauschritte
 
@@ -244,14 +244,14 @@ Die Treppe ist eine Modellannahme: Pläne des Turminneren sind nicht überliefer
 ### Schritt 9.7 – Glockenstube
 
 - **Y-Bereich:** 145 bis 159
-- **Blöcke:** 1.382
+- **Blöcke:** 1.378
 - **Bauteile:** `glockenstube`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.005 |
+| Polierter Andesit | `polished_andesite` | 1.001 |
 | Glatter Stein | `smooth_stone` | 313 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 
@@ -274,7 +274,7 @@ Im Turm hängen fünf Glocken: drei große, die Gian Gastone de’ Medici 1740 s
 ### Schritt 9.8 – Glockenjoch & Glocken & Kuppelhelm & Turmlicht
 
 - **Y-Bereich:** 72 bis 171
-- **Blöcke:** 1.393
+- **Blöcke:** 1.397
 - **Bauteile:** `glockenjoch`, `glocken`, `campanile_spitze`, `campanile_licht`
 
 **Teileliste**
@@ -283,8 +283,8 @@ Im Turm hängen fünf Glocken: drei große, die Gian Gastone de’ Medici 1740 s
 | :--- | :--- | ---: |
 | Ziegelsteine | `bricks` | 1.055 |
 | Geschnittener Kupferblock | `cut_copper` | 258 |
+| Seelaterne | `sea_lantern` | 44 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 40 |
-| Seelaterne | `sea_lantern` | 40 |
 
 **Beschreibung**
 

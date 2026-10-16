@@ -36,3 +36,50 @@ test('Badia: Portal offen, alles erreichbar, dicht', () => {
   assert.equal(laufe(ctx, 'r13').einheiten[0].komponenten.filter((k) => !k.unzugaenglich).length, 0);
   assert.equal(laufe(ctx, 'r14').einheiten[0].cluster.length, 0);
 });
+
+// ------------------------------------------------------------------ V5b: Ausstattung nach Quellen (Modul 6)
+const fs = require('node:fs');
+const H = require('./campanile_helfer.js');
+
+test('Badia V5b: Ausstattungsteile vorhanden, am richtigen Ort, mit Content und Quelle', () => {
+  const teile = ['lippi_tafel', 'giugni_grabmal', 'ugo_grabmal', 'cantoria_vasari', 'orgel_zeffirini', 'hochaltar_aufbau', 'chorgestuehl_lehnen', 'chorgestuehl_sitze', 'kassettendecke'];
+  const content = JSON.parse(fs.readFileSync(path.join(ROOT, 'projects', 'badia_fiorentina', 'content', 'modul_6.json'), 'utf8'));
+  for (const id of teile) {
+    const z = H.zellen(world, id);
+    assert.ok(z.length >= 15, id + ': ' + z.length);
+    const p = content.parts[id];
+    assert.ok(p && p.description.length > 40 && p.tip && p.caution && p.fact, id + ' Content');
+    assert.match(p.caution + ' ' + p.fact, /it\.wikipedia|Del Tasso|Segaloni|Gamberai|Lippi|Vasari|Zeffirini|Mino/, id + ' Quelle');
+    assert.match(p.caution, /Vereinfacht, nicht nach Vorbild/, id + ' Hinweis');
+  }
+  const zone = (id) => new Set(H.zellen(world, id).map((c) => S.zelleBei(c.x, c.z).zone));
+  assert.deepEqual([...zone('lippi_tafel')], ['nord']);                       // Nordarm, links hinter dem Nordportal (Ostwand u = 52)
+  assert.deepEqual([...zone('giugni_grabmal')], ['nord']);                    // nahe dem Eingang
+  assert.deepEqual([...zone('ugo_grabmal')], ['saal']);                       // Ostwand des Saals
+  assert.deepEqual([...zone('hochaltar_aufbau')], ['sued']);                  // Presbyterium im Süden
+  assert.ok(H.zellen(world, 'lippi_tafel').every((c) => S.zelleBei(c.x, c.z).u === 52));
+  assert.ok(H.zellen(world, 'ugo_grabmal').every((c) => S.zelleBei(c.x, c.z).u >= 63));
+  // Bilder in Augenhöhe: Unterkante der Lippi-Tafel eine Lage über dem Boden (Lage 2), Farbfelder in mindestens drei Farben
+  const lippi = H.zellen(world, 'lippi_tafel');
+  assert.equal(Math.min(...lippi.map((c) => c.y)), S.Y(2));
+  assert.ok(new Set(lippi.map((c) => c.type)).size >= 5);
+  // Kassettendecke: hängende Rippen und Rosetten unter der Decke des Saals
+  const kass = H.zellen(world, 'kassettendecke');
+  assert.ok(kass.every((c) => c.y === S.Y(S.SAAL.decke - 1)));
+  assert.ok(kass.some((c) => c.type === 'gold_block') && kass.some((c) => c.type === 'dark_oak_planks'));
+});
+
+test('Badia V5b: Ausstattung erreichbar und begehbar, Chorgestühl mit Treppenblock-Sitzen', () => {
+  const ctx = { project, world, grid: world.grid, ground: loadSpecs(project).ground, root: ROOT };
+  const e = laufe(ctx, 'r13').einheiten[0];
+  assert.equal(e.komponenten.filter((k) => !k.unzugaenglich).length, 0);
+  const vor = (u, w) => e.erreicht(77 + u, S.Y(1), 580 + w);
+  assert.ok(vor(51, -22), 'vor der Lippi-Tafel');
+  assert.ok(vor(43, -23), 'vor dem Grabmal Giugni');
+  assert.ok(vor(62, 0), 'vor dem Grabmal des Markgrafen Hugo');
+  assert.ok(vor(7, 0), 'vor der Orgel');
+  assert.ok(vor(42, 13), 'vor dem Hochaltar');
+  const sitze = H.zellen(world, 'chorgestuehl_sitze');
+  assert.ok(sitze.length > 30 && sitze.every((c) => /_stairs@/.test(c.type)));
+  assert.equal(laufe(ctx, 'r14').einheiten[0].cluster.length, 0);
+});

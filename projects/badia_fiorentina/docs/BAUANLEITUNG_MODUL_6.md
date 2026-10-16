@@ -173,7 +173,7 @@ Der Aufstieg zeigt zur Rückwand. Die Rippen hängen in Lage 37 unter der Decke 
 
 **Achtung**
 
-Der Gang vor den Sitzen bleibt frei. Vereinfacht, nicht nach Vorbild. Felice Gamberai schnitzte die Decke bis 1631 (it.wikipedia, Stufe A); sie verdeckt die gotischen Dachbinder. Maße der Kassetten sind angenommen. Vereinfacht, nicht nach Vorbild.
+Das Chorgestühl der Del Tasso nennt it.wikipedia (Stufe A); die Sitzform ist erfunden. Der Gang vor den Sitzen bleibt frei. Vereinfacht, nicht nach Vorbild. Felice Gamberai schnitzte die Decke bis 1631 (it.wikipedia, Stufe A); sie verdeckt die gotischen Dachbinder. Maße der Kassetten sind angenommen. Vereinfacht, nicht nach Vorbild.
 
 **Fakt**
 

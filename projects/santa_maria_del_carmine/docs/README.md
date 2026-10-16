@@ -27,7 +27,7 @@ Ausdehnung des Modells: X -2125 bis -2017, Y 59 bis 138, Z 1130 bis 1311.
 | Tuffstein | `tuff` | 27.827 | 19,2 % |
 | Glatter Stein | `smooth_stone` | 15.649 | 10,8 % |
 | Terrakotta | `terracotta` | 10.858 | 7,5 % |
-| Steinziegel | `stone_bricks` | 9.606 | 6,6 % |
+| Steinziegel | `stone_bricks` | 9.603 | 6,6 % |
 | Ziegelsteine | `bricks` | 5.440 | 3,7 % |
 | Glatter Quarzblock | `smooth_quartz` | 3.479 | 2,4 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 2.408 | 1,7 % |
@@ -48,7 +48,7 @@ Ausdehnung des Modells: X -2125 bis -2017, Y 59 bis 138, Z 1130 bis 1311.
 | Braune Keramik | `brown_terracotta` | 491 | 0,3 % |
 | Geschnittener Kupferblock | `cut_copper` | 106 | 0,1 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 100 | 0,1 % |
-| Seelaterne | `sea_lantern` | 71 | 0,0 % |
+| Seelaterne | `sea_lantern` | 74 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 24 | 0,0 % |
