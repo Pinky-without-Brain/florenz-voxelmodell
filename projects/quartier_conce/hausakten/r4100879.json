@@ -1,24 +1,28 @@
 {
   "id": "r4100879",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "19. Jh. (Neugestaltung)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 7,
+    "material": "putz",
+    "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
@@ -31,15 +35,17 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "balkon_volutenkonsolen_akanthus"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Gargiolli",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: Umbau des 19. Jh., drei Geschosse, sieben Achsen, vermutlich Kunststein-Fassade (heute gestrichen), Haupttor durch einen Balkon auf kräftigen Volutenkonsolen mit Akanthusblättern geschützt. Annahme: Putzfarbe, Fensterform, Gesims, Dach.",
   "name": "Palazzo Gargiolli"
 }
