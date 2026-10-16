@@ -10,6 +10,7 @@ const patterns = require('../geom/patterns.js');
 const vaults = require('../geom/vaults.js');
 const roofs = require('../geom/roofs.js');
 const { inOctagon, box, octagonPrism } = require('../geom/shapes.js');
+const treppeLib = require('../wahrzeichen/treppe.js');
 
 const B = D.BAPTISTERY;
 const CX = B.centerX, CZ = B.centerZ;
@@ -82,6 +83,75 @@ function info(dx, dz) {
 
 const cellSet = (gen) => { const s = new Set(); for (const c of gen) s.add(ab(c.u) + ',' + c.v); return s; };
 
+// --- Matroneum (V5c) --------------------------------------------------------------------
+// Emporengang im Obergeschoss: ein Ring in der Wandstärke (d 5..7) zwischen dem Boden auf Y 89 (Binderlage) und der
+// Decke auf Y 101, innen zum Raum geöffnet durch eine Biforien-Kolonnade (d 8), außen hinter den Fenstern (Glas bei d 4).
+// Zugang: vier Wendeltreppen (5 x 5, Kern 1 x 1) in den diagonalen Flächen, Zentren (±20 | ±20) zum Mittelpunkt.
+const GAL_FLOOR = 89, GAL_Y0 = 90, GAL_Y1 = 100, RING_D0 = 5, RING_D1 = 7;
+const ZC = 20, ZR = 2;                          // Zonenzentrum, Radius (5 x 5)
+const STAIR_ROLE = 'stone_brick_stairs';
+const POCKET_Y1 = 92;                           // Kopffreiheit über der obersten Stufe
+const canon = treppeLib.wendeltreppe({ mitte: { x: 0, z: 0 }, radiusInnen: 0, radiusAussen: ZR, yVon: WALK - 1, yBis: GAL_FLOOR,
+  rolle: STAIR_ROLE, drehsinn: 'rechts' });
+const MIRROR_DIR = (dir, sx, sz) => {
+  if (sx < 0) dir = { o: 'w', w: 'o' }[dir] || dir;
+  if (sz < 0) dir = { n: 's', s: 'n' }[dir] || dir;
+  return dir;
+};
+const key3 = (x, y, z) => x + ',' + y + ',' + z;
+const SPIRAL = new Map();       // Schlüssel -> Typ (Matroneum-Bauteil setzt diese Zellen)
+const CARVE = new Set();        // Luftzellen der Treppenzonen (Wand lässt sie leer)
+const ZONE_COLS = new Set();    // Säulen der Zonen
+const ZONE_HALO = new Set();    // Säulen der Zonen plus 1 Rand (kein Hohlkern daneben)
+const ZONES = [];
+const CORNER_COLS = new Set();   // Säulen über dem Startpodest (innerste Ecke der Zone): dort keine Mittelsäule der Kolonnade
+for (const [sx, sz] of [[1, 1], [-1, 1], [1, -1], [-1, -1]]) {
+  const T = (ox, oz) => [CX + sx * (ZC + ox), CZ + sz * (ZC + oz)];
+  ZONES.push({ sx, sz, T });
+  CORNER_COLS.add(T(-ZR, -ZR).join(','));
+  for (let ox = -ZR - 1; ox <= ZR + 1; ox++) for (let oz = -ZR - 1; oz <= ZR + 1; oz++) {
+    const [x, z] = T(ox, oz);
+    ZONE_HALO.add(x + ',' + z);
+    if (ab(ox) <= ZR && ab(oz) <= ZR) {
+      ZONE_COLS.add(x + ',' + z);
+      for (let y = GAL_Y0; y <= POCKET_Y1; y++) CARVE.add(key3(x, y, z));
+    }
+  }
+  for (const b of canon) {
+    const [x, z] = T(b.x, b.z);
+    if (b.y >= WALK) {
+      let typ = b.typ;
+      const m = /^(.*)@([nosw])(_oben)?$/.exec(typ);
+      if (m) typ = m[1] + '@' + MIRROR_DIR(m[2], sx, sz) + (m[3] || '');
+      if (b.x === 0 && b.z === 0 && b.y === GAL_FLOOR) typ = 'sea_lantern';   // Licht auf dem Kern
+      SPIRAL.set(key3(x, b.y, z), typ);
+    }
+    if (!(b.x === 0 && b.z === 0)) for (let h = 1; h <= 3; h++) CARVE.add(key3(x, b.y + h, z));
+  }
+  // Tür vom Innenraum zum Startpodest (Ecke nächst der Mitte): 2 breit, 3 hoch, in x-Richtung zur Mitte
+  for (let ox = -ZR - 3; ox <= -ZR - 1; ox++) for (const oz of [-ZR, -ZR + 1]) {
+    const [x, z] = T(ox, oz);
+    for (let y = WALK; y < WALK + 3; y++) CARVE.add(key3(x, y, z));
+  }
+}
+for (const k of SPIRAL.keys()) CARVE.delete(k);
+const claimed = (x, y, z) => { const k = key3(x, y, z); return SPIRAL.has(k) || CARVE.has(k); };
+
+// Kolonnade der Innenfläche (d = 8): Brüstung 2 hoch, Biforien (ua 1..3 und 5..8), Mittelsäule ua 0, Pfeiler bei ua 4 und ab 9
+function colonnade(ua, y) {
+  if (y <= GAL_Y0 + 1) return 'smooth_quartz';
+  if (y <= GAL_Y0 + 6) return ua === 0 ? 'quartz_pillar' : (ua === PIL_MID || ua >= 9) ? 'dark_prismarine' : null;
+  if (y === GAL_Y0 + 7) return 'chiseled_quartz';
+  return 'smooth_stone';
+}
+// Zelle im Emporenbereich: undefined = nicht betroffen
+function galerie(ua, d, y) {
+  if (y < GAL_Y0 || y > GAL_Y1) return undefined;
+  if (d >= RING_D0 && d <= RING_D1) return null;
+  if (d === DEPTH_IN) return colonnade(ua, y);
+  return undefined;
+}
+
 // --- Öffnungen und Rahmen ---------------------------------------------------
 const WEST_OPEN = cellSet(arches.archOpeningRise(WEST_W, WEST_RISE, { springV: WEST_SPRING_V }));
 const WEST_RING = cellSet(arches.archRingRise(WEST_W, WEST_RISE, PORTAL_FRAME, { springV: WEST_SPRING_V, jambs: true }));
@@ -142,7 +212,14 @@ const STRIPES = patterns.bands({ types: ['dark_prismarine', 'smooth_quartz'], pe
 
 // Wandzelle ohne Hohlkern: null = leer
 function wallType(k, ua, d, y) {
-  if (windowOpen(ua, y)) return d === WIN_GLASS_D ? GLASS : null;
+  const g = galerie(ua, d, y);
+  if (g !== undefined) return g;
+  if (y === GAL_FLOOR && d === 6 && (ua === 0 || ua === 8)) return 'sea_lantern';  // Licht im Emporenboden
+  if (windowOpen(ua, y)) {
+    if (d === WIN_GLASS_D) return GLASS;
+    if (d > WIN_GLASS_D && y > GAL_Y1) return 'stone_bricks';  // über der Empore bleibt die Wand innen geschlossen
+    return null;
+  }
   if (through(k, ua, y)) return null;
   if (portalFrame(k, ua, y) || westFrame(k, ua, y)) return d <= 1 ? 'chiseled_quartz' : 'smooth_quartz';
   const inner = d >= DEPTH_IN ? 'smooth_stone' : 'stone_bricks';
@@ -167,6 +244,8 @@ const inScarsellaZone = (dx, dz) => dx <= -(A_OUT + 1) && ab(dz) <= SC.halfZ;
 // Diagonalen), Binderlage alle 12 Lagen, oberste 3 Lagen voll, Laibungen massiv.
 const SHELL = 2, BINDER = 12, TOP_FULL = 3;
 function isHollow(x, y, z) {
+  if (y >= GAL_Y0 && y <= GAL_Y1) return false;                 // Emporenkammer zwischen den Binderlagen
+  if (y <= POCKET_Y1 && ZONE_HALO.has(x + ',' + z)) return false; // Treppenzonen: massiv
   if ((y - WALK) % BINDER === 0 || y > SHELL_TOP - TOP_FULL || y < WALK + SHELL) return false;
   const dx = x - CX, dz = z - CZ;
   if (!inWall(dx, dz)) return false;
@@ -177,6 +256,8 @@ function isHollow(x, y, z) {
 
 // Zelle der Wand (Schale + Gesimsring) auf Höhe y
 function wallCell(x, y, z) {
+  if (claimed(x, y, z)) return null;
+  if (y > GAL_Y0 + 1 && y <= GAL_Y0 + 6 && CORNER_COLS.has(x + ',' + z)) return null;
   const dx = x - CX, dz = z - CZ;
   if (inWall(dx, dz)) {
     const f = info(dx, dz);
@@ -200,7 +281,7 @@ function fillWall(w, y0, y1, ctx) {
     for (let x = CX - A_OUT; x <= CX + A_OUT; x++) {
       for (let z = CZ - A_OUT; z <= CZ + A_OUT; z++) {
         const dx = x - CX, dz = z - CZ;
-        if (!inWall(dx, dz)) continue;
+        if (!inWall(dx, dz) || claimed(x, y, z)) continue;
         const f = info(dx, dz);
         const t = wallType(f.k, f.ua, f.d, y);
         if (t !== null && t !== GLASS && isHollow(x, y, z)) hohl.push({ x, y, z });
@@ -340,6 +421,10 @@ function build(ctx) {
   fillWall(ctx.part('obergeschoss', SYM), OG[0], OG[1], ctx);
   fillWall(ctx.part('attika', SYM), AT[0], AT[1], ctx);
 
+  // 5b Matroneum: vier Wendeltreppen (Zugang vom Raum zur Empore)
+  const mat = ctx.part('matroneum');
+  for (const [k, t] of SPIRAL) { const [x, y, z] = k.split(',').map(Number); mat.set(x, y, z, t); }
+
   // 6 Innenkuppel (liegt auf der Wand), 7 Pyramidendach (liegt auf Attika und Kuppel), 8 Laterne
   const dome = ctx.part('innenkuppel', SYM);
   for (const c of domeCells()) dome.set(c.x, c.y, c.z, c.t);
@@ -380,5 +465,5 @@ function build(ctx) {
 module.exports = {
   module: 8,
   build,
-  _internal: { info, wallType, wallCell, domeCells, roofCells, lanternCells, scarsellaCells, portalLeafCells, through, inWall },
+  _internal: { SPIRAL, CARVE, ZONES, info, wallType, wallCell, domeCells, roofCells, lanternCells, scarsellaCells, portalLeafCells, through, inWall },
 };

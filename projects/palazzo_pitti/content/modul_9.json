@@ -101,6 +101,13 @@
       "tip": "Auf der Gangmitte.",
       "caution": "Nie über Stufen.",
       "fact": "Bis 2016 hing im Korridor die Sammlung der Selbstbildnisse der Uffizien."
+    },
+    "korridor_bilder": {
+      "title": "Bilderfelder im Korridor",
+      "description": "Auf der Innenseite beider Gangwände hängen Bilderfelder, 6 Blöcke breit und 4 hoch, mit der Unterkante 2 Blöcke über dem Boden. Der Rahmen besteht aus Gold, das Feld aus farbiger Keramik (Fresko-Farben Rot, Blau, Gelb, Grün, Braun im Wechsel). Je eine Lücke zwischen zwei Fenstern bekommt ein Feld.",
+      "tip": "Setze zuerst die Rahmenzellen und fülle dann das Feld; die Fensterspalten bleiben frei.",
+      "caution": "Die Bilder sitzen in der inneren Wandlage; die Außenlage bleibt geschlossen.",
+      "fact": "Im Vasarikorridor hängt heute die Sammlung der Selbstbildnisse; die Felder hier sind eine Vereinfachung und zeigen kein bestimmtes Bild (Katalog §10, vereinfacht, nicht nach Vorbild)."
     }
   }
 }

@@ -24,7 +24,7 @@ const has = (x, y, z) => grid.has(x, y, z);
 test('Modul 8 baut ohne Fehler, Bauteile in der geplanten Reihenfolge', () => {
   assert.deepEqual(world.errors, []);
   assert.deepEqual(mod8.parts.map((p) => p.id), [
-    'sockel_und_untergeschoss', 'portale', 'scarsella', 'obergeschoss', 'attika',
+    'sockel_und_untergeschoss', 'portale', 'scarsella', 'obergeschoss', 'attika', 'matroneum',
     'innenkuppel', 'pyramidendach', 'laterne']);
 });
 
@@ -120,4 +120,20 @@ test('Ganze Pipeline: Planer und alle Prüfregeln ohne Fehler (R3 ohne verletzen
   for (const r of res) assert.deepEqual(r.errors, [], r.rule);
   assert.equal(res.find((r) => r.rule === 'R3').total, 0);
   for (const s of stepsByModule[8]) assert.ok(s.count <= 2500);
+});
+
+test('Matroneum (V5c): vier Wendeltreppen aus Treppenblöcken, Emporenring frei, Kolonnade zum Raum', () => {
+  const m8 = require('../model/m8_baptisterium.js')._internal;
+  const mat = part('matroneum');
+  const cells = cellsOf('matroneum');
+  assert.equal(cells.length, m8.SPIRAL.size);
+  const stairs = cells.filter((c) => /stairs@/.test(c.type));
+  assert.ok(stairs.length >= 4 * 20, `Treppenblöcke: ${stairs.length}`);
+  assert.equal(cells.filter((c) => c.type === 'sea_lantern').length, 4);
+  assert.equal(m8.ZONES.length, 4);
+  // Emporenring: auf der Mittellinie einer Achsfläche (Ost, d 6) Luft von Y 90 bis 100, Boden und Decke fest
+  const x = CX + 33 - 6;
+  for (let y = 90; y <= 100; y++) assert.ok(!has(x, y, CZ + 3), `Emporenluft Y ${y}`);
+  assert.ok(has(x, 89, CZ + 3) && has(x, 101, CZ + 3), 'Boden und Decke der Empore');
+  assert.ok(mat);
 });

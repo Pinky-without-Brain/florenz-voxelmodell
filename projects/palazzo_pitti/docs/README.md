@@ -28,22 +28,22 @@ Ausdehnung des Modells: X -1306 bis -631, Y 64 bis 166, Z 1312 bis 1954.
 | Tuffsteinziegel | `tuff_bricks` | 721.903 | 52,3 % |
 | Terrakotta | `terracotta` | 193.093 | 14,0 % |
 | Glatter Stein | `smooth_stone` | 175.586 | 12,7 % |
-| Endsteinziegel | `end_stone_bricks` | 87.306 | 6,3 % |
+| Endsteinziegel | `end_stone_bricks` | 82.694 | 6,0 % |
 | Graues Buntglas | `gray_stained_glass` | 74.639 | 5,4 % |
 | Polierter Andesit | `polished_andesite` | 64.723 | 4,7 % |
 | Tuffstein | `tuff` | 26.997 | 2,0 % |
 | Steinziegel | `stone_bricks` | 8.258 | 0,6 % |
+| Goldblock | `gold_block` | 8.105 | 0,6 % |
 | Polierter Tuffstein | `polished_tuff` | 8.024 | 0,6 % |
 | Glatter Quarzblock | `smooth_quartz` | 6.602 | 0,5 % |
-| Goldblock | `gold_block` | 5.017 | 0,4 % |
 | Polierter Granit | `polished_granite` | 2.832 | 0,2 % |
-| Blaue Keramik | `blue_terracotta` | 1.772 | 0,1 % |
-| Grüne Keramik | `green_terracotta` | 850 | 0,1 % |
+| Blaue Keramik | `blue_terracotta` | 2.118 | 0,2 % |
+| Grüne Keramik | `green_terracotta` | 1.158 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 857 | 0,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 845 | 0,1 % |
 | Seelaterne | `sea_lantern` | 574 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 557 | 0,0 % |
 | Orange Keramik | `orange_terracotta` | 554 | 0,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 545 | 0,0 % |
-| Braune Keramik | `brown_terracotta` | 282 | 0,0 % |
+| Braune Keramik | `brown_terracotta` | 552 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Westen | `polished_andesite_stairs@w` | 164 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 130 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 117 | 0,0 % |

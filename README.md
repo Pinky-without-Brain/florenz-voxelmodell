@@ -17,7 +17,7 @@ Dieses Projekt vereint die Faszination eines der berühmtesten Bauwerke der Rena
 ---
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 908.560 Blöcke in 584 Bauschritten, 10 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 910.236 Blöcke in 585 Bauschritten, 10 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -347 bis 96, Y 56 bis 293, Z -96 bis 96.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -30,9 +30,9 @@ Ausdehnung des Modells: X -347 bis 96, Y 56 bis 293, Z -96 bis 96.
 | 5 | Brunelleschis Doppelkuppel | 112.856 | 77 | [BAUANLEITUNG_MODUL_5.md](07_Modul_5_Brunelleschis_Kuppel/BAUANLEITUNG_MODUL_5.md) |
 | 6 | Die Laterne | 7.429 | 5 | [BAUANLEITUNG_MODUL_6.md](08_Modul_6_Laterne_und_Kugel/BAUANLEITUNG_MODUL_6.md) |
 | 7 | Campanile di Giotto | 69.447 | 43 | [BAUANLEITUNG_MODUL_7.md](09_Modul_7_Campanile_di_Giotto/BAUANLEITUNG_MODUL_7.md) |
-| 8 | Baptisterium San Giovanni | 62.413 | 43 | [BAUANLEITUNG_MODUL_8.md](10_Modul_8_Baptisterium_San_Giovanni/BAUANLEITUNG_MODUL_8.md) |
+| 8 | Baptisterium San Giovanni | 64.089 | 44 | [BAUANLEITUNG_MODUL_8.md](10_Modul_8_Baptisterium_San_Giovanni/BAUANLEITUNG_MODUL_8.md) |
 | 9 | Innenraum & Krypta | 6.468 | 4 | [BAUANLEITUNG_MODUL_9.md](11_Modul_9_Innenraum_und_Krypta/BAUANLEITUNG_MODUL_9.md) |
-| | **Summe** | **908.560** | **584** | |
+| | **Summe** | **910.236** | **585** | |
 <!-- STATISTIK:END -->
 
 ---

@@ -39,6 +39,13 @@
       "caution": "Die oberste Lage Y 116 muss rundum ganz geschlossen sein. Sie trägt gleich das Pyramidendach und die Innenkuppel.",
       "fact": "Der grüne Marmor kommt aus Prato und der weiße aus Carrara. Aus diesen beiden Steinen bestehen die Streifen vieler Kirchen in der Toskana."
     },
+    "matroneum": {
+      "title": "Matroneum: Empore mit Wendeltreppen",
+      "description": "Im zweiten Innengeschoss liegt der Emporengang, das Matroneum. Du lässt in der Wandstärke (Abstand 5 bis 7 von außen) einen Gang von Y 90 bis 100 frei; sein Boden ist die Binderlage auf Y 89. Zum Innenraum öffnet er sich in Biforien: eine Brüstung aus 2 Blöcken, darüber Doppelbögen auf einer Mittelsäule, getrennt durch Pfeiler. Außen sitzen die Fenster mit ihrem Glas hinter dem Gang. Erreicht wird die Empore über vier Wendeltreppen aus Steinziegel-Treppenblöcken (5 × 5 Blöcke, Kern 1 × 1) in den diagonalen Flächen, die über eine Tür (2 × 3) vom Raum aus beginnen; auf jedem Kern sitzt eine Seelaterne, im Emporenboden weitere.",
+      "tip": "Baue je Treppe zuerst den Kern und das Startpodest, dann Viertelumlauf für Viertelumlauf: Jeder Umlauf steigt 4 Blöcke, darüber bleiben 3 Blöcke Luft.",
+      "caution": "Über jeder Stufe müssen 3 Blöcke frei bleiben, sonst stößt man sich den Kopf. Die Treppe liegt ganz in der Wand; die äußeren zwei Lagen bleiben geschlossen.",
+      "fact": "Das Matroneum (Frauenempore) liegt im mittleren Band des Innenraums, die Biforien tragen Marmoreinlagen und darüber Mosaiken des 14. Jahrhunderts (it.wikipedia, Battistero di San Giovanni). Das Modell vereinfacht: Treppenlage und Gangmaße sind frei gewählt, nicht nach Vorbild."
+    },
     "innenkuppel": {
       "title": "Innenkuppel mit Mosaik",
       "description": "Im Inneren wölbst du die Kuppel von der Wand bis zum Auge. Sie ist 2 Blöcke dick und steigt von Y 106 an der Wand bis Y 125 an. In der Mitte bleibt das Auge offen (Abstand zur Mitte kleiner als 3). Die Unterseite trägt das Mosaik: Gold als Grund, dazu Ringe aus blauer und gelber Keramik. Die Grate zu den acht Ecken sind golden. Oben endet die Kuppel flach unter dem Dach.",
