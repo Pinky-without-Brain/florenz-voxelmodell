@@ -1,0 +1,15 @@
+{
+  "module": 2,
+  "title": "Innenwände",
+  "subtitle": "Bautüte 2: Trennwände des Erdgeschosses",
+  "icon": "🧱",
+  "parts": {
+    "trennwaende": {
+      "title": "Trennwände mit Türen",
+      "description": "Vier Trennwände teilen das Erdgeschoss in die Westhalle (Nord und Süd) und drei Säle im Osten; die Türen sind 3 Blöcke breit und 5 hoch.",
+      "tip": "Setze die Wände vor den Böden.",
+      "caution": "Die Aufteilung ist ein Entwurf.",
+      "fact": "Raumaufteilung Stufe C (Quellen nennen keinen Grundriss)."
+    }
+  }
+}

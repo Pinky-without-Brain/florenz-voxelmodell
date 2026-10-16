@@ -1,0 +1,43 @@
+{
+  "module": 5,
+  "title": "Ausstattung",
+  "subtitle": "Bautüte 5: Altäre, Bilder und Tafeln",
+  "icon": "🖼️",
+  "parts": {
+    "hochaltar": {
+      "title": "Hochaltar mit Altarbild",
+      "description": "Der steinerne Hochaltar hat eine Mensa auf kleinen Säulen. Darüber hängt das Altarbild „Madonna in trono con le sante Lucia, Margherita, Agnese e Caterina d’Alessandria“ von Neri di Bicci (15. Jh.) als Farbfeld 6 × 7. Zwei Predellen darunter: links Stefano d’Antonio di Vanni, rechts Domenico di Michelino mit Szenen der heiligen Margherita.",
+      "tip": "Die Unterkante des Bildes liegt 2 Blöcke über dem Boden.",
+      "caution": "Die Predella Neri di Biccis ist heute in Cortona; hier hängt eine Fotokopie, im Modell sind beide Predellen Farbfelder.",
+      "fact": "Belegt: Bild, Künstler, Altarform (it.wikipedia). Die Farben sind vereinfacht."
+    },
+    "seitenaltaere": {
+      "title": "Seitenaltäre",
+      "description": "Zwei steinerne Seitenaltäre im Schiff. Rechts (Süd) das Altarbild „Invenzione della Croce“ von Francesco Mati mit der Lünette der Maddalena (um 1620–1625); der linke Altar hat kein belegtes Bild und bleibt eine leere Rahmung.",
+      "tip": "Die Pilaster sind Marmorsäulen in der Wandlage.",
+      "caution": "Das Bild des linken Altars ist unbekannt und wurde nicht erfunden.",
+      "fact": "Belegt: zwei Seitenaltäre, rechtes Bild (it.wikipedia)."
+    },
+    "wandbilder": {
+      "title": "Dante und Beatrice",
+      "description": "Rechts nach dem Eingang hängt ein präraffaelitisch inspiriertes Gemälde einer englischen Malerin, das die Begegnung von Dante und Beatrice zeigt (Farbfeld 4 × 5).",
+      "tip": "Die Unterkante liegt 3 Blöcke über dem Boden.",
+      "caution": "Das Gemälde ist sehr stark vereinfacht.",
+      "fact": "Belegt: Motiv und Lage (it.wikipedia)."
+    },
+    "gedenktafeln": {
+      "title": "Gedenktafeln",
+      "description": "An der Nordwand die angebliche Grabplatte Beatrices („presunta lapide“), an der Querwand die Tafel für den Gründer Enrico Michelassi.",
+      "tip": "Beide Tafeln sind kleine Marmorfelder mit Goldrand.",
+      "caution": "Die Zuschreibung der Grabplatte ist unsicher; die Inschriften sind nicht bekannt.",
+      "fact": "Belegt: Existenz und ungefähre Lage (it.wikipedia). Ein Portinari-Grabmal ist in der Quelle nicht beschrieben und fehlt."
+    },
+    "wappen": {
+      "title": "Wappen am Portal",
+      "description": "Zwei kleine Wappentafeln neben dem Portal in Goldrahmen.",
+      "tip": "Sie liegen in der äußeren Wandlage.",
+      "caution": "Wappen über dem Portal sind belegt, ihre Gestalt nicht: die Tafeln sind neutral.",
+      "fact": "Lage und Form Stufe C."
+    }
+  }
+}

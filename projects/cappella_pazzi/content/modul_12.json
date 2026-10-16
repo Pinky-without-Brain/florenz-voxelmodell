@@ -1,0 +1,36 @@
+{
+  "module": 12,
+  "title": "Primo Chiostro: Ausstattung",
+  "subtitle": "Bautüte 12: Grabplatten, Zypressen, Statuen, Licht",
+  "icon": "🌲",
+  "parts": {
+    "chiostro_grabplatten": {
+      "title": "Grabplatten",
+      "description": "Im Gang der Nordseite liegen im Boden Platten aus dunklem Stein und Marmor im Schachbrettmuster, wo die Grabmäler des Kreuzgangs stehen.",
+      "tip": "Die Platten ersetzen Pflasterblöcke.",
+      "caution": "Die Inschriften sind nicht dargestellt.",
+      "fact": "Die Grabmäler, die den ersten Kreuzgang füllten, wurden 1964 bis 1986 an die Nordseite unter das Portikus verlegt; Boden und Wände sind mit Grabmälern belegt (it.wikipedia)."
+    },
+    "chiostro_zypressen": {
+      "title": "Zehn Zypressen",
+      "description": "Zehn schlanke Zypressen (plusförmig, 9 Blöcke hoch) stehen im Westarm des Gartens rund um die beiden Statuen.",
+      "tip": "Stamm unten, Laub darüber.",
+      "caution": "Die Zypressen umgeben nach der Quelle die Statuen in der Nische rechts der Fassade; ob diese Nische zum Kreuzgang gehört, sagt sie nicht. Die Lage im Modell ist Stufe C.",
+      "fact": "Zehn Zypressen umgeben die Statuen (it.wikipedia)."
+    },
+    "chiostro_statuen": {
+      "title": "Dio Padre und Krieger",
+      "description": "Zwei Statuen auf Sockeln aus Pietra serena: der sitzende Gottvater (Baccio Bandinelli, 1556) aus weißem Marmor auf einem Thron, und der bronzene Krieger von Henry Moore. Beide sind Blockfiguren ohne ausgestreckte Arme.",
+      "tip": "Sockel zuerst, dann die Figur.",
+      "caution": "Die Figuren sind sehr stark vereinfacht; der Standort ist Stufe C.",
+      "fact": "Statuen laut it.wikipedia: „Dio Padre seduto“ von Baccio Bandinelli (1556) und der „Guerriero bronzeo“ von Henry Moore."
+    },
+    "chiostro_licht": {
+      "title": "Licht im Gang",
+      "description": "Seelaternen im Pflaster des Arkadengangs, höchstens 9 Blöcke voneinander entfernt.",
+      "tip": "Sie liegen unter den Bodenplatten und bleiben unsichtbar.",
+      "caution": "Ohne Licht sind die überdachten Gänge in Minecraft nachts dunkel.",
+      "fact": "Technische Ergänzung (Standard „Begehbar und ausgestaltet“)."
+    }
+  }
+}

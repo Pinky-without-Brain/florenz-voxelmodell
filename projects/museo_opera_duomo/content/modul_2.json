@@ -1,0 +1,15 @@
+{
+  "module": 2,
+  "title": "Innenwände",
+  "subtitle": "Bautüte 2: Trennwände des Erdgeschosses",
+  "icon": "🧱",
+  "parts": {
+    "trennwaende": {
+      "title": "Trennwände mit Türen",
+      "description": "Vier Trennwandlinien teilen das Erdgeschoss in acht Säle; die Türen sind 4,5 Blöcke breit und 5 hoch. Die Sala del Paradiso ist der größte Saal.",
+      "tip": "Setze die Wände vor den Böden. Die Wandfelder der Säle gehören zu diesen Wänden.",
+      "caution": "Die Aufteilung ist ein Entwurf: Die Quelle nennt 28 Säle auf drei Ebenen, aber keinen Grundriss.",
+      "fact": "6.000 m² Ausstellungsfläche auf drei Ebenen, 28 Säle, über 700 Werke (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“; Umriss aus OpenStreetMap (Way 456578419).)."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "module": 10,
+  "title": "Primo Chiostro: Hof",
+  "subtitle": "Bautüte 10: Gartenhof des ersten Kreuzgangs",
+  "icon": "🌳",
+  "parts": {
+    "chiostro_fundament": {
+      "title": "Fundament des Hofs",
+      "description": "Wo das Gelände unter Y 61 liegt, füllst du es mit Bruchstein auf.",
+      "tip": "Der Hof ist eben, fast überall ist nichts aufzufüllen.",
+      "caution": "Der Hof gehört zur freien Fläche des Stadtgrunds; dort baut der Stadtgrund nur bis Y 60.",
+      "fact": "Fläche: it.wikipedia „Basilica di Santa Croce (Firenze)“ (Abschnitt Chiostri); Fläche aus den Stadtdaten (OSM), als Maske `primo_chiostro` im Rahmen der Basilika."
+    },
+    "chiostro_boden": {
+      "title": "Hofboden und Wege",
+      "description": "Du legst auf Y 61 den Boden des Primo Chiostro: Rasen im Garten, ein Wegekreuz aus Kies (je 2 Blöcke breit) und Pflaster im umlaufenden Gang. Der Hof hat die Form eines P: ein langer Arm (Hof des abgerissenen Inquisitionspalasts) und ein quadratischer Hof darunter.",
+      "tip": "Beginne mit dem Pflaster der Gänge, dann Wege und Rasen.",
+      "caution": "Wege und Pflaster sind frei entworfen.",
+      "fact": "Der erste Kreuzgang war ursprünglich zwei Höfe, ein rechteckiger vor der Cappella de’ Pazzi und ein quadratischer; heute ergeben sie einen P-förmigen Hof (Quelle: it.wikipedia „Basilica di Santa Croce (Firenze)“)."
+    }
+  }
+}

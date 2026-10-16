@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossböden, oberste Decke, Trennwände der Obergeschosse",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Vier Böden aus Holz und Terrakotta trennen die fünf Geschosse (Höhen 7, 7, 7, 7 und 6 Blöcke); der Boden des vierten Obergeschosses liegt auf Höhe der Brücke nach Orsanmichele. Das Treppenloch bleibt frei.",
+      "tip": "Die Böden gehen über den ganzen Grundriss.",
+      "caution": "Die Geschosshöhen sind aus OSM abgeleitet (5 Ebenen, 37 Blöcke).",
+      "fact": "OSM: building:levels = 5, Höhe 37 Blöcke."
+    },
+    "decke": {
+      "title": "Oberste Decke",
+      "description": "Die Decke über dem fünften Geschoss ist aus Putz.",
+      "tip": "Sie trägt die Dachterrasse mit den Zinnen.",
+      "caution": "Das Dach ist flach.",
+      "fact": "Flachdach mit Zinnen: Stufe C."
+    },
+    "trennwaende_og": {
+      "title": "Trennwände der Obergeschosse",
+      "description": "In allen vier Obergeschossen stehen dieselben Trennwände wie im Erdgeschoss, mit Türen 3 × 5.",
+      "tip": "Setze die Wände nach den Böden.",
+      "caution": "Alle Geschosse sind über die Wendeltreppe verbunden.",
+      "fact": "Raumaufteilung Stufe C."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Dachziegeln (Coppi) deckt das Haus; der Raum darunter ist nicht zugänglich.",
+      "tip": "Setze das Dach lagenweise von der Traufe zum First.",
+      "caution": "Der Dachraum ist als unzugänglich deklariert.",
+      "fact": "Dachform nach der Hausakte (Walmdach, Coppi), Stufe C."
+    }
+  }
+}

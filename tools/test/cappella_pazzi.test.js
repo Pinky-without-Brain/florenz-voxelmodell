@@ -119,3 +119,53 @@ test('Cappella Pazzi: keine gemeinsame Zelle mit der Basilika santa_croce, Conte
   for (const id of RAUM.TEILE) assert.ok(j6.parts[id], id);
   assert.ok(!new RegExp(String.fromCharCode(76, 101, 103, 111), "i").test(JSON.stringify(j6)));
 });
+
+// ---------------------------------------------------------------- Primo Chiostro (W7c)
+const PC = require('../../projects/cappella_pazzi/model/_pc.js');
+
+test('Primo Chiostro: Zusatzmaske aus Rechtecken ohne Überlappung mit Konvent, Kapelle und Basilika', () => {
+  const M = WZ.ladeMasken(project.json, { dir: path.join(ROOT, 'projects', 'cappella_pazzi') });
+  const pc = M.masken.primo_chiostro;
+  assert.ok(pc && pc.size > 6400 && pc.size < 6700, String(pc && pc.size));
+  assert.equal(project.json.masken.primo_chiostro.rechtecke.length, 3);
+  assert.equal(project.json.masken.primo_chiostro.gelaendeBis, 'boden');
+  assert.equal([...pc.cells].filter(([x, z]) => M.haupt.has(x, z) || M.masken.kapelle.has(x, z)).length, 0);
+  const S = WZ.ladeMasken(getProject('santa_croce', { root: ROOT }).json, { dir: path.join(ROOT, 'projects', 'santa_croce') });
+  assert.equal([...pc.cells].filter(([x, z]) => S.alle.has(x, z)).length, 0);
+});
+
+test('Primo Chiostro: Bauteile, Pfeiler, Bögen als Arkade deklariert, zehn Zypressen, zwei Statuen', () => {
+  const n = {};
+  grid.forEach((x, y, z, e) => { n[e.part] = (n[e.part] || 0) + 1; });
+  for (const p of ['chiostro_boden', 'chiostro_pfeiler', 'chiostro_bogen', 'chiostro_dach', 'chiostro_grabplatten', 'chiostro_zypressen', 'chiostro_statuen', 'chiostro_licht']) assert.ok(n[p] > 0, p);
+  assert.ok(n.chiostro_boden > 5000, String(n.chiostro_boden));
+  const ark = world.oeffnungen.filter((o) => o.art === 'arkade' && o.part === 'chiostro_bogen').reduce((s, o) => s + o.keys.length, 0);
+  assert.ok(ark > 3000, `Arkade ${ark}`);
+  let kap = 0, bronze = 0, dach = 0;
+  grid.forEach((x, y, z, e) => {
+    if (e.part === 'chiostro_pfeiler' && y === PC.Y(5)) kap++;
+    if (e.part === 'chiostro_statuen' && e.type === 'cut_copper') bronze++;
+    if (e.part === 'chiostro_dach') { dach++; assert.equal(y, PC.Y(PC.DACH)); }
+  });
+  assert.ok(kap > 40, `Kapitelle ${kap}`);
+  assert.ok(bronze > 0);
+  assert.ok(dach > 1500, `Dach ${dach}`);
+  assert.equal(PC.ZYPRESSEN.length, 10);
+  assert.equal(PC.STATUEN.length, 2);
+});
+
+test('Primo Chiostro: Gänge, Garten und Lobus erreichbar; Licht im Gang höchstens 12 Blöcke', () => {
+  const r = laufe(ctx, 'r13').einheiten[0];
+  for (const [name, u, w] of [['Nordgang', 60, 60.5], ['Garten Westarm', 40, 78], ['Südgang Arm', 40, 95], ['Westgang', 15, 78], ['Lobus Garten', 110, 112], ['Lobus Südgang', 110, 125.5], ['Lobus Ostgang', 136, 112]]) {
+    const s = steh(u, w, 1, 2);
+    assert.ok(s, `keine Stehzelle: ${name}`);
+    assert.ok(r.erreicht(s.x, s.y, s.z), `nicht erreichbar: ${name}`);
+  }
+  const lichter = [];
+  grid.forEach((x, y, z, e) => { if (e.part === 'chiostro_licht') lichter.push([x, z]); });
+  assert.ok(lichter.length >= 20, String(lichter.length));
+  for (const c of PC.lade().alle) {
+    if (!c.gang || !grid.has(c.x, BODEN_Y, c.z) || grid.has(c.x, BODEN_Y + 1, c.z) || grid.has(c.x, BODEN_Y + 2, c.z) || grid.has(c.x, BODEN_Y + 3, c.z)) continue;
+    assert.ok(lichter.some(([x, z]) => Math.hypot(x - c.x, z - c.z) <= 12.5), `Gang ohne Licht bei ${c.x},${c.z}`);
+  }
+});

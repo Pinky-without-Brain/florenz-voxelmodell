@@ -1,0 +1,15 @@
+{
+  "module": 5,
+  "title": "Licht",
+  "subtitle": "Bautüte 5: Seelaternen im Boden",
+  "icon": "💡",
+  "parts": {
+    "licht": {
+      "title": "Seelaternen",
+      "description": "Seelaternen im Boden aller Geschosse, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Sie liegen unter den Bodenplatten und bleiben unsichtbar.",
+      "caution": "Ohne Licht sind Innenräume in Minecraft dunkel.",
+      "fact": "Technische Ergänzung (Standard „Begehbar und ausgestaltet“)."
+    }
+  }
+}

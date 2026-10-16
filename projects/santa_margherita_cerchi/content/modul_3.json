@@ -1,0 +1,15 @@
+{
+  "module": 3,
+  "title": "Dach",
+  "subtitle": "Bautüte 3: Satteldach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Satteldach",
+      "description": "Das Satteldach aus Dachziegeln hat seinen First in Längsrichtung; der Raum zwischen Decke und Dachhaut ist massiv gefüllt (kein Dachboden).",
+      "tip": "Die Giebel von Fassade und Ostwand bleiben Stein.",
+      "caution": "Die Dachneigung ist geschätzt.",
+      "fact": "Vereinfacht, Stufe C."
+    }
+  }
+}
