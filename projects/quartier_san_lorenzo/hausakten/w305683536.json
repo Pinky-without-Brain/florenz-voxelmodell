@@ -1,7 +1,7 @@
 {
   "id": "w305683536",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,17 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "doppelordnung_fassade_1836"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia belegt: Entwurf Bartolomeo Ammannati ab 1579, weitergeführt von Giulio und Alfonso Parigi dem Jüngeren und 1661 vollendet, Fassade 1836 von Leopoldo Pasqui mit doppelter Ordnung neu errichtet. Annahme: Material, Portalform, Putzfarbe und Dachform.",
   "name": "Chiesa di San Giovannino degli Scolopi"
 }

@@ -1,49 +1,56 @@
 {
   "id": "w306395982",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "1516-1520 (Baccio d Agnolo zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 6,
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_serena",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": "gruen"
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_ginori_mitte",
+      "nagelbeschlag_tuer",
+      "loggetta_oben",
+      "strebepfeiler_ecken"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: Bau 1516-20 für Carlo Ginori (Baccio d Agnolo nach Konsens, Urkunde verloren), drei große Geschosse, sechs Achsen, über dem vorstehenden Gesims verputzte Wände, Fensterrahmen aus Pietra-forte-Rustika, Erdgeschoss mit fünf Rechteckfenstern und Portal auf der vierten Achse, Rundbogenfenster mit Bossenrahmen in den beiden Obergeschossen, Gurtgesims, Ginori-Wappen in der Mitte, sichtbare Eckstrebepfeiler, geräumige Altana mit offener Loggetta. Annahme: Putzfarbe, Dachform.",
   "name": "Palazzo Ginori"
 }

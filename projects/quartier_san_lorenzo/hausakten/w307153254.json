@@ -1,7 +1,7 @@
 {
   "id": "w307153254",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh. (Fassadenmalerei 1575), Erweiterung der Cattani Ende 17./Anfang 18. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -26,7 +26,7 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 7,
+    "achsen": 5,
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
@@ -43,15 +43,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "fassadenmalerei_allegorien_1575",
+      "buste_francesco_i_portal",
+      "widderkoepfe_konsole",
+      "wappen_benci_mitte"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Benci",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Bau des 16. Jh. mit gemalten allegorischen Fresken (1575) vom ersten Geschoss bis zum Gesims, Mittelteil mit fünf Achsen (die seitlichen Achsen später angefügt), Marmorbüste Francescos I. de Medici von Giovanni Bandini über dem Portal auf Konsole mit zwei Widderköpfen, zentrales Benci-Wappen, Restaurierungen 1954 und 1989-90. Annahme: Geschosszahl (OSM-Höhe), Putzfarbe, Fensterform, Gesims, Dach.",
   "name": "Palazzo Benci"
 }

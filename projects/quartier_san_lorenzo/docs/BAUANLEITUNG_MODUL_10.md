@@ -95,7 +95,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -107,7 +107,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.2 – Palazzo Martelli – Teil 2/24 (Y 62–62)
 
@@ -123,7 +123,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -135,7 +135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.3 – Palazzo Martelli – Teil 3/24 (Y 62–62)
 
@@ -151,7 +151,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -163,7 +163,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.4 – Palazzo Martelli – Teil 4/24 (Y 63–63)
 
@@ -182,7 +182,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -194,7 +194,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.5 – Palazzo Martelli – Teil 5/24 (Y 64–64)
 
@@ -213,7 +213,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -225,7 +225,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.6 – Palazzo Martelli – Teil 6/24 (Y 65–65)
 
@@ -245,7 +245,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -257,7 +257,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.7 – Palazzo Martelli – Teil 7/24 (Y 66–67)
 
@@ -279,7 +279,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -291,7 +291,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.8 – Palazzo Martelli – Teil 8/24 (Y 68–69)
 
@@ -312,7 +312,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -324,7 +324,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.9 – Palazzo Martelli – Teil 9/24 (Y 70–70)
 
@@ -342,7 +342,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -354,7 +354,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.10 – Palazzo Martelli – Teil 10/24 (Y 71–72)
 
@@ -372,7 +372,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -384,7 +384,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.11 – Palazzo Martelli – Teil 11/24 (Y 73–74)
 
@@ -404,7 +404,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -416,7 +416,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.12 – Palazzo Martelli – Teil 12/24 (Y 75–75)
 
@@ -436,7 +436,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -448,7 +448,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.13 – Palazzo Martelli – Teil 13/24 (Y 76–77)
 
@@ -466,7 +466,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -478,7 +478,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.14 – Palazzo Martelli – Teil 14/24 (Y 78–79)
 
@@ -497,7 +497,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -509,7 +509,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.15 – Palazzo Martelli – Teil 15/24 (Y 80–80)
 
@@ -529,7 +529,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -541,7 +541,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.16 – Palazzo Martelli – Teil 16/24 (Y 81–82)
 
@@ -561,7 +561,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -573,7 +573,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.17 – Palazzo Martelli – Teil 17/24 (Y 83–84)
 
@@ -592,7 +592,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -604,7 +604,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.18 – Palazzo Martelli – Teil 18/24 (Y 85–85)
 
@@ -622,7 +622,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -634,7 +634,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.19 – Palazzo Martelli – Teil 19/24 (Y 86–86)
 
@@ -650,7 +650,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -662,7 +662,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.20 – Palazzo Martelli – Teil 20/24 (Y 86–86)
 
@@ -678,7 +678,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -690,7 +690,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.21 – Palazzo Martelli – Teil 21/24 (Y 87–87)
 
@@ -706,7 +706,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -718,7 +718,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.22 – Palazzo Martelli – Teil 22/24 (Y 88–88)
 
@@ -734,7 +734,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -746,7 +746,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.23 – Palazzo Martelli – Teil 23/24 (Y 89–89)
 
@@ -763,7 +763,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -775,7 +775,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.24 – Palazzo Martelli – Teil 24/24 (Y 90–94)
 
@@ -792,7 +792,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -804,7 +804,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.25 – Palazzo Martelli: Innenausbau – Teil 1/6 (Y 62–72)
 

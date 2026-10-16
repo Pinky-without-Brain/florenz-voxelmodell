@@ -1,19 +1,23 @@
 {
   "id": "w307153301",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -22,28 +26,31 @@
     "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "pietra_forte",
+      "typ": "tabernakel",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "balkon_ueber_portal",
+      "gedeckter_verbindungsgang_via_teatina"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: Adelspalast wohl ab 1720, Außenseite nach 1868 von Giuseppe Poggi überarbeitet, vier Geschosse, knapp hundert Öffnungen an den vier Seiten, ursprüngliche Kniefenster im Erdgeschoss um 1875 durch Schaufenster ersetzt, Giebelverdachungen (Timpani) an den Piano-nobile-Fenstern, Balkon über dem Portal, erhöhter Verbindungsgang über die Via Teatina zu den Stallungen. Annahme: Achsen, Putzfarbe, Gesims, Dach.",
   "name": "Palazzo delle Cento Finestre"
 }

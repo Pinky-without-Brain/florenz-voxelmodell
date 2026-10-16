@@ -1,61 +1,58 @@
 {
   "id": "w307153315",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 16
     },
     {
       "art": "nobile",
-      "hoeheBl": 8
+      "hoeheBl": 16
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 12
     },
     {
-      "art": "og",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
+      "art": "attika",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
+    "achsen": 11,
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "balkone_ueber_portalen",
+      "terrasse_via_vecchietti",
+      "scheinquader_erdgeschoss"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Umbau um 1679 durch Antonio Maria Ferri für die Orlandini del Beccuto, elf Achsen an der Via de Pecori und sechs an der Via de Vecchietti, lange Reihe niedriger Kniefenster im Erdgeschoss mit außermittigen Portalen und Balkonen darüber, Piano-nobile-Fenster mit Segmentgiebeln und Balustraden, Rechteckfenster mit Steinrahmung im zweiten Geschoss, oben quadratische Fenster, Gurtgesims über dem Piano nobile, Terrasse an der Via de Vecchietti, Obergeschosse im späten 19. Jh. verputzt. Annahme: Putzfarbe, Traufgesims, Dach.",
   "name": "Palazzo Orlandini del Beccuto"
 }
