@@ -1,0 +1,71 @@
+{
+  "module": 2,
+  "title": "Gewölbe, Kuppel und Dächer",
+  "subtitle": "Bautüte 2: Tonne, Tambour, Kuppel mit Laterne, Dächer",
+  "icon": "⛪",
+  "parts": {
+    "tonnengewoelbe": {
+      "title": "Tonnengewölbe",
+      "description": "Über dem Schiff und den Pendentif-Ecken der Vierung spannt sich ein Tonnengewölbe aus Putz von 30 Blöcken Breite. Es springt an den Wandbändern bei Lage 24 an und erreicht in der Mitte Lage 31 (Y 89); über der Vierung liegt es flach auf Lage 31. Eine Rippe aus Pietra serena liegt alle 6 Blöcke, dazwischen hellblaue Felder.",
+      "tip": "Von den Rändern zur Mitte hin bauen, jede Lage ein Ring weiter.",
+      "caution": "Die Höhe ist erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Schiff ist in zarten Farben des 18. Jahrhunderts gehalten (it.wikipedia)."
+    },
+    "gewoelbe": {
+      "title": "Gewölbe der Kapellen, des Querhauses, des Presbyteriums",
+      "description": "Die Kapellen (Lage 14), die Querhausarme (22), das Presbyterium und der Chor (um 20 bis 26) und die Nebenräume (11) haben Decken und Gewölbe aus Putz.",
+      "tip": "Die Gewölbe der Kapellen tragen Goldrippen im Abstand von 5 Blöcken.",
+      "caution": "Höhen und Formen sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapellen sind mit Stuck und Fresken reich ausgestattet (it.wikipedia)."
+    },
+    "tambour": {
+      "title": "Tambour",
+      "description": "Über der Vierung erhebt sich ein runder Tambour von 30 Blöcken Außendurchmesser und 2,5 Blöcken Wandstärke, von Lage 32 bis 43 (Y 90 bis 101). Acht Fenster tragen abwechselnd Dreiecks- und Segmentgiebel aus Pietra serena.",
+      "tip": "Ring für Ring nach oben; die Fenster liegen auf 22,5 Grad zu den Achsen.",
+      "caution": "Der Durchmesser stammt aus dem OSM-Teil w673464756 (Stufe A); die Höhe des Tambours ist Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der hohe Tambour hat große klassizierende Fenster mit abwechselnd dreieckigen und runden Giebeln; Antonio Maria Ferri vollendete die Kuppel 1689 (it.wikipedia)."
+    },
+    "tambour_fenster": {
+      "title": "Tambourfenster",
+      "description": "Acht verglaste Fenster von 4 Blöcken Breite und 7 Höhe sitzen im Tambour.",
+      "tip": "Glas bis in die Giebel hinein.",
+      "caution": "Abmessungen sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Fenster sind groß und klassizierend (it.wikipedia)."
+    },
+    "kuppel": {
+      "title": "Kuppel",
+      "description": "Auf dem Tambour sitzt eine Halbkugel von 15 Blöcken Radius, 2,5 Blöcke dick: außen rote Ziegelkuppel, innen Putz. Der innere Scheitel liegt bei Lage 56 (Y 114), der äußere bei Lage 59.",
+      "tip": "Ring für Ring mit abnehmendem Durchmesser; von innen glatt.",
+      "caution": "Die Form als Halbkugel ist eine Vereinfachung. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Antonio Maria Ferri baute die Kuppel 1689 (it.wikipedia, en.wikipedia)."
+    },
+    "laterne": {
+      "title": "Laterne",
+      "description": "Auf dem Scheitel steht eine Laterne von 5 Blöcken Durchmesser und 7 Höhe: weiße Wand, ein verglaster Ring, goldene Spitze.",
+      "tip": "Die Laterne ist massiv und nicht betretbar.",
+      "caution": "Die Laterne ist eine Annahme (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kuppel ist das Werk Antonio Maria Ferris von 1689 (it.wikipedia); eine Laterne wird in den geprüften Quellen nicht beschrieben."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo ein höheres Dach an ein niedrigeres stößt, schließen Mauerstreifen die Lücke zwischen den Dachflächen.",
+      "tip": "Immer bis zur Dachhaut des niedrigeren Nachbarn.",
+      "caution": "Reine Vereinfachung des Dachanschlusses.",
+      "fact": "Im Dachraum über dem Gewölbe gibt es keinen Zugang."
+    },
+    "dach_langhaus": {
+      "title": "Dach des Schiffs und der Vierung",
+      "description": "Über Schiff, Querhaus-Mitte und Vierung liegt ein Satteldach aus roten Ziegeln mit dem First auf Lage 43 (Y 101). Der Dachraum darunter ist nicht zugänglich.",
+      "tip": "Vom Rand zum First, jede Lage ein Block höher.",
+      "caution": "Neigung und First sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kirche ist ein lateinisches Kreuz mit einem Schiff (it.wikipedia)."
+    },
+    "dach_seiten": {
+      "title": "Dächer der Kapellen, des Querhauses und der Nebenräume",
+      "description": "Die Kapellen, die Querhausarme, das Presbyterium, der Chor und die Nebenräume tragen Pultdächer und Satteldächer aus Ziegeln.",
+      "tip": "Die Dächer steigen zur Mitte hin.",
+      "caution": "Neigung und Höhe sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Dachräume sind als unzugänglich deklariert."
+    }
+  }
+}

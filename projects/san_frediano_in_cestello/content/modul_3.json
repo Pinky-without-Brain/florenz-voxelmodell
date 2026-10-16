@@ -1,0 +1,57 @@
+{
+  "module": 3,
+  "title": "Campanile",
+  "subtitle": "Bautüte 3: der Glockenturm am Chor",
+  "icon": "🔔",
+  "parts": {
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der Turm steht 12 mal 11 Blöcke groß am Chor, östlich des Presbyteriums. Seine Wände sind zwei Blöcke dick aus Mauerwerk, unten mit einem Sockel aus Pietra forte und in Bändern aus Pietra serena gegliedert; schmale Fensterschlitze sitzen alle 16 Lagen. Aus dem Presbyterium führt eine Tür, 2 Blöcke breit und 4 hoch, durch die Westwand in den Turm.",
+      "tip": "Der Schaft reicht bis Lage 41; die Tür liegt in der Westwand.",
+      "caution": "Lass Tür und Fensterschlitze frei. Lage, Größe und Höhe des Turms sind Annahmen (Stufe C): OSM hat keinen eigenen Umriss für ihn. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Antonio Maria Ferri baute 1689 Kuppel und Glockenturm (en.wikipedia, San Frediano in Cestello). Maße des Turms nennt keine geprüfte Quelle."
+    },
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Innen windet sich eine Wendeltreppe aus Treppenblöcken um einen Kern bis zum Boden der Glockenstube auf Lage 42; in den Ecken liegen Podeste. Über allen Stufen und Podesten bleiben drei Blöcke Luft.",
+      "tip": "Die Treppe dreht im Uhrzeigersinn nach oben.",
+      "caution": "Der Kern darf nicht durchbrochen werden. Die Wendeltreppe ist eine Annahme (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Quellen beschreiben das Innere des Turms nicht."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Die Stube liegt auf Lage 42 bis 51: auf jeder Seite eine Rundbogenöffnung von 4 Blöcken Breite, der Boden aus Eichenholz, oben ein Gesims.",
+      "tip": "Die Öffnungen auf allen vier Seiten.",
+      "caution": "Die Bögen bleiben offen. Form und Höhe sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Turm gehört zur Anlage von 1689 (en.wikipedia)."
+    },
+    "glockenjoch": {
+      "title": "Glockenjoch",
+      "description": "Ein umlaufender Balken aus Eichenholz in der Innenlage der Stube trägt die Glocken.",
+      "tip": "Die Balken liegen an den Mauern auf.",
+      "caution": "Die Oberseite ist unzugänglich. Das Joch ist eine Vereinfachung.",
+      "fact": "Das Joch ist ein Gestaltungsmittel des Modells."
+    },
+    "glocken": {
+      "title": "Glocken",
+      "description": "Vier Glocken aus Bronze hängen unter dem Joch, jede 2 mal 2 Blöcke groß, mit 4 Blöcken Platz darunter.",
+      "tip": "Die Unterkante liegt 4 Lagen über dem Stubenboden.",
+      "caution": "Nicht in die Gehfläche bauen. Die Zahl der Glocken ist erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die geprüften Quellen nennen keine Glocken."
+    },
+    "campanile_spitze": {
+      "title": "Turmspitze",
+      "description": "Eine gestufte Pyramide aus Ziegeln schließt den Turm ab, an der Spitze ein Block Bronze; der Hohlraum darunter ist unzugänglich.",
+      "tip": "Ring für Ring nach innen.",
+      "caution": "Die Spitze ist nicht begehbar. Der Abschluss ist eine Vereinfachung.",
+      "fact": "Die Form des Turmhelms ist in den Quellen nicht beschrieben."
+    },
+    "campanile_licht": {
+      "title": "Licht im Turm",
+      "description": "In der Innenschale des Turms sitzen Seelaternen, alle 8 Lagen auf jeder Seite, und vier in den Ecken der Glockenstube.",
+      "tip": "Die Laternen ersetzen einen Wandblock.",
+      "caution": "Sie dürfen nicht höher als 12 Blöcke auseinander liegen.",
+      "fact": "Die Beleuchtung ist eine Spielhilfe des Modells."
+    }
+  }
+}

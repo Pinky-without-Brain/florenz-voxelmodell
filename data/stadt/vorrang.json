@@ -1,5 +1,5 @@
 {
-  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) , UEBERSICHT_WELLE2.md §2 (Welle 2) und UEBERSICHT_WELLE3.md (Welle 3)",
+  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) , UEBERSICHT_WELLE2.md §2 (Welle 2) , UEBERSICHT_WELLE3.md (Welle 3) und UEBERSICHT_WELLE6.md (Welle 6)",
   "ids": {
     "r1461712": "palazzo_vecchio",
     "w43284457": "loggia_dei_lanzi",
@@ -47,6 +47,8 @@
     "r1575764": "san_marco",
     "w167273908": "ognissanti",
     "w159394659": "santa_felicita",
-    "w119180019": "santa_felicita"
+    "w119180019": "santa_felicita",
+    "w118416085": "san_frediano_in_cestello",
+    "w673464782": "san_frediano_in_cestello"
   }
 }
