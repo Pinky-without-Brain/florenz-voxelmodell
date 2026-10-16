@@ -8,41 +8,41 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 287.834 |
+| Blöcke | 288.056 |
 | Bauschritte | 189 |
 | Y-Bereich | 65 bis 109 |
 | X-Ausdehnung | 1226 bis 1493 (268 Blöcke) |
 | Z-Ausdehnung | -729 bis -339 (391 Blöcke) |
 | Kleinster Schritt | 756 Blöcke (Schritt 25.102) |
-| Mittlerer Schritt | 1.523 Blöcke |
+| Mittlerer Schritt | 1.524 Blöcke |
 | Größter Schritt | 2.080 Blöcke (Schritt 25.20) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 90.342 | 31,4 % |
+| Terrakotta | `terracotta` | 90.340 | 31,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 49.415 | 17,2 % |
-| Polierter Tuffstein | `polished_tuff` | 34.495 | 12,0 % |
-| Rosa Keramik | `pink_terracotta` | 25.615 | 8,9 % |
-| Glatter Stein | `smooth_stone` | 16.264 | 5,7 % |
-| Polierter Andesit | `polished_andesite` | 10.352 | 3,6 % |
+| Polierter Tuffstein | `polished_tuff` | 34.494 | 12,0 % |
+| Rosa Keramik | `pink_terracotta` | 26.077 | 9,1 % |
+| Glatter Stein | `smooth_stone` | 18.211 | 6,3 % |
 | Weißer Beton | `white_concrete` | 9.526 | 3,3 % |
 | Tuffstein | `tuff` | 9.436 | 3,3 % |
 | Endsteinziegel | `end_stone_bricks` | 9.140 | 3,2 % |
-| Graues Buntglas | `gray_stained_glass` | 8.543 | 3,0 % |
+| Polierter Andesit | `polished_andesite` | 8.554 | 3,0 % |
+| Graues Buntglas | `gray_stained_glass` | 8.336 | 2,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 8.315 | 2,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 7.319 | 2,5 % |
-| Grüner Beton | `green_concrete` | 4.774 | 1,7 % |
+| Grüner Beton | `green_concrete` | 4.582 | 1,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.591 | 0,6 % |
 | Ziegelsteine | `bricks` | 1.489 | 0,5 % |
-| Seelaterne | `sea_lantern` | 452 | 0,2 % |
+| Seelaterne | `sea_lantern` | 455 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 179 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 150 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 130 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 79 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 62 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 68 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 62 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 18 | 0,0 % |
@@ -56,15 +56,15 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 400 |
+| Steintreppe | `stone_stairs` | 410 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 70 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1588169` | Palazzo Ximenes da Sangallo | 35.869 | 25.1–25.24 |
-| 2 | `r1588169_innen` | Palazzo Ximenes da Sangallo: Innenausbau | 9.339 | 25.25–25.30 |
+| 1 | `r1588169` | Palazzo Ximenes da Sangallo | 36.070 | 25.1–25.24 |
+| 2 | `r1588169_innen` | Palazzo Ximenes da Sangallo: Innenausbau | 9.360 | 25.25–25.30 |
 | 3 | `r4090629` | Renaissance-Palazzo an Via Giuseppe Giusti | 17.657 | 25.31–25.40 |
 | 4 | `r4090629_innen` | Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau | 4.549 | 25.41–25.44 |
 | 5 | `w306486059` | Palazzo des Ottocento an Borgo Pinti | 19.118 | 25.45–25.55 |
@@ -102,7 +102,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -114,7 +114,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.2 – Palazzo Ximenes da Sangallo – Teil 2/24 (Y 66–66)
 
@@ -130,7 +130,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -142,23 +142,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.3 – Palazzo Ximenes da Sangallo – Teil 3/24 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.804
+- **Blöcke:** 1.803
 - **Bauteile:** `r1588169`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.804 |
+| Polierter Tuffstein | `polished_tuff` | 1.803 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -170,7 +170,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.4 – Palazzo Ximenes da Sangallo – Teil 4/24 (Y 67–67)
 
@@ -183,12 +183,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 741 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Polierter Andesit | `polished_andesite` | 15 |
+| Glatter Stein | `smooth_stone` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -200,25 +201,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.5 – Palazzo Ximenes da Sangallo – Teil 5/24 (Y 68–69)
+### Schritt 25.5 – Palazzo Ximenes da Sangallo – Teil 5/24 (Y 68–68)
 
-- **Y-Bereich:** 68 bis 69
-- **Blöcke:** 1.559
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 804
 - **Bauteile:** `r1588169`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.378 |
-| Polierter Andesit | `polished_andesite` | 178 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Rosa Keramik | `pink_terracotta` | 692 |
+| Glatter Stein | `smooth_stone` | 104 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -230,27 +232,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.6 – Palazzo Ximenes da Sangallo – Teil 6/24 (Y 70–71)
+### Schritt 25.6 – Palazzo Ximenes da Sangallo – Teil 6/24 (Y 69–70)
 
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.452
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.556
 - **Bauteile:** `r1588169`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.085 |
-| Polierter Andesit | `polished_andesite` | 144 |
-| Graues Buntglas | `gray_stained_glass` | 112 |
-| Grüner Beton | `green_concrete` | 108 |
+| Rosa Keramik | `pink_terracotta` | 1.173 |
+| Glatter Stein | `smooth_stone` | 249 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Grüner Beton | `green_concrete` | 55 |
+| Polierter Andesit | `polished_andesite` | 20 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -262,11 +265,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.7 – Palazzo Ximenes da Sangallo – Teil 7/24 (Y 72–73)
+### Schritt 25.7 – Palazzo Ximenes da Sangallo – Teil 7/24 (Y 71–72)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.458
 - **Bauteile:** `r1588169`
 
@@ -274,15 +277,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.097 |
-| Polierter Andesit | `polished_andesite` | 136 |
+| Rosa Keramik | `pink_terracotta` | 1.085 |
+| Glatter Stein | `smooth_stone` | 120 |
 | Graues Buntglas | `gray_stained_glass` | 112 |
-| Grüner Beton | `green_concrete` | 108 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Grüner Beton | `green_concrete` | 110 |
+| Polierter Andesit | `polished_andesite` | 25 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -294,11 +298,43 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.8 – Palazzo Ximenes da Sangallo – Teil 8/24 (Y 74–75)
+### Schritt 25.8 – Palazzo Ximenes da Sangallo – Teil 8/24 (Y 73–74)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 73 bis 74
+- **Blöcke:** 1.495
+- **Bauteile:** `r1588169`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.197 |
+| Glatter Stein | `smooth_stone` | 170 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Grüner Beton | `green_concrete` | 55 |
+| Polierter Andesit | `polished_andesite` | 17 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 25.9 – Palazzo Ximenes da Sangallo – Teil 9/24 (Y 75–76)
+
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.532
 - **Bauteile:** `r1588169`
 
@@ -306,41 +342,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.401 |
-| Polierter Andesit | `polished_andesite` | 131 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.9 – Palazzo Ximenes da Sangallo – Teil 9/24 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 766
-- **Bauteile:** `r1588169`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 509 |
+| Rosa Keramik | `pink_terracotta` | 1.262 |
 | Glatter Stein | `smooth_stone` | 257 |
+| Polierter Andesit | `polished_andesite` | 13 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -352,133 +360,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.10 – Palazzo Ximenes da Sangallo – Teil 10/24 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.575
-- **Bauteile:** `r1588169`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.390 |
-| Polierter Andesit | `polished_andesite` | 185 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.11 – Palazzo Ximenes da Sangallo – Teil 11/24 (Y 79–80)
-
-- **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.452
-- **Bauteile:** `r1588169`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.067 |
-| Polierter Andesit | `polished_andesite` | 143 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
-| Grüner Beton | `green_concrete` | 120 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.12 – Palazzo Ximenes da Sangallo – Teil 12/24 (Y 81–82)
-
-- **Y-Bereich:** 81 bis 82
-- **Blöcke:** 1.452
-- **Bauteile:** `r1588169`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.067 |
-| Polierter Andesit | `polished_andesite` | 143 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
-| Grüner Beton | `green_concrete` | 120 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.13 – Palazzo Ximenes da Sangallo – Teil 13/24 (Y 83–84)
-
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.452
-- **Bauteile:** `r1588169`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.067 |
-| Polierter Andesit | `polished_andesite` | 143 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
-| Grüner Beton | `green_concrete` | 120 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.14 – Palazzo Ximenes da Sangallo – Teil 14/24 (Y 85–86)
-
-- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.532
 - **Bauteile:** `r1588169`
 
@@ -486,13 +372,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.139 |
-| Glatter Stein | `smooth_stone` | 257 |
-| Polierter Andesit | `polished_andesite` | 136 |
+| Rosa Keramik | `pink_terracotta` | 1.514 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -504,24 +389,151 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 25.11 – Palazzo Ximenes da Sangallo – Teil 11/24 (Y 79–80)
+
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.532
+- **Bauteile:** `r1588169`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.262 |
+| Glatter Stein | `smooth_stone` | 257 |
+| Polierter Andesit | `polished_andesite` | 13 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 25.12 – Palazzo Ximenes da Sangallo – Teil 12/24 (Y 81–82)
+
+- **Y-Bereich:** 81 bis 82
+- **Blöcke:** 1.573
+- **Bauteile:** `r1588169`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.396 |
+| Glatter Stein | `smooth_stone` | 159 |
+| Polierter Andesit | `polished_andesite` | 18 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 25.13 – Palazzo Ximenes da Sangallo – Teil 13/24 (Y 83–84)
+
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 1.454
+- **Bauteile:** `r1588169`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.085 |
+| Glatter Stein | `smooth_stone` | 120 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
+| Grüner Beton | `green_concrete` | 116 |
+| Polierter Andesit | `polished_andesite` | 17 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 25.14 – Palazzo Ximenes da Sangallo – Teil 14/24 (Y 85–86)
+
+- **Y-Bereich:** 85 bis 86
+- **Blöcke:** 1.454
+- **Bauteile:** `r1588169`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.085 |
+| Glatter Stein | `smooth_stone` | 120 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
+| Grüner Beton | `green_concrete` | 116 |
+| Polierter Andesit | `polished_andesite` | 17 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.15 – Palazzo Ximenes da Sangallo – Teil 15/24 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.575
+- **Blöcke:** 1.454
 - **Bauteile:** `r1588169`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.390 |
-| Polierter Andesit | `polished_andesite` | 185 |
+| Rosa Keramik | `pink_terracotta` | 1.085 |
+| Glatter Stein | `smooth_stone` | 120 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
+| Grüner Beton | `green_concrete` | 116 |
+| Polierter Andesit | `polished_andesite` | 17 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -533,26 +545,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.16 – Palazzo Ximenes da Sangallo – Teil 16/24 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.452
+- **Blöcke:** 1.532
 - **Bauteile:** `r1588169`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.067 |
-| Polierter Andesit | `polished_andesite` | 143 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
-| Grüner Beton | `green_concrete` | 120 |
+| Rosa Keramik | `pink_terracotta` | 1.397 |
+| Glatter Stein | `smooth_stone` | 118 |
+| Polierter Andesit | `polished_andesite` | 17 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -564,26 +575,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.17 – Palazzo Ximenes da Sangallo – Teil 17/24 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.452
+- **Blöcke:** 1.573
 - **Bauteile:** `r1588169`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.067 |
-| Polierter Andesit | `polished_andesite` | 143 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
-| Grüner Beton | `green_concrete` | 120 |
+| Rosa Keramik | `pink_terracotta` | 1.152 |
+| Glatter Stein | `smooth_stone` | 416 |
+| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -595,26 +605,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.18 – Palazzo Ximenes da Sangallo – Teil 18/24 (Y 93–94)
 
 - **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.492
+- **Blöcke:** 1.454
 - **Bauteile:** `r1588169`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.167 |
-| Polierter Andesit | `polished_andesite` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 61 |
-| Grüner Beton | `green_concrete` | 60 |
+| Rosa Keramik | `pink_terracotta` | 1.085 |
+| Glatter Stein | `smooth_stone` | 120 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
+| Grüner Beton | `green_concrete` | 116 |
+| Polierter Andesit | `polished_andesite` | 17 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -626,7 +637,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.19 – Palazzo Ximenes da Sangallo – Teil 19/24 (Y 95–96)
 
@@ -638,13 +649,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.514 |
-| Glatter Stein | `smooth_stone` | 463 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Rosa Keramik | `pink_terracotta` | 1.397 |
+| Glatter Stein | `smooth_stone` | 581 |
+| Polierter Andesit | `polished_andesite` | 17 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -656,7 +667,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.20 – Palazzo Ximenes da Sangallo – Teil 20/24 (Y 97–97)
 
@@ -672,7 +683,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -684,7 +695,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.21 – Palazzo Ximenes da Sangallo – Teil 21/24 (Y 98–98)
 
@@ -700,7 +711,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -712,7 +723,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.22 – Palazzo Ximenes da Sangallo – Teil 22/24 (Y 99–99)
 
@@ -728,7 +739,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -740,7 +751,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.23 – Palazzo Ximenes da Sangallo – Teil 23/24 (Y 100–100)
 
@@ -757,7 +768,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -769,7 +780,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.24 – Palazzo Ximenes da Sangallo – Teil 24/24 (Y 101–109)
 
@@ -786,7 +797,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -798,12 +809,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.25 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 1/6 (Y 66–76)
+### Schritt 25.25 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 1/6 (Y 66–80)
 
-- **Y-Bereich:** 66 bis 76
-- **Blöcke:** 1.632
+- **Y-Bereich:** 66 bis 80
+- **Blöcke:** 1.649
 - **Bauteile:** `r1588169_innen`
 
 **Teileliste**
@@ -811,16 +822,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.557 |
-| Seelaterne | `sea_lantern` | 31 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Glatter Stein | `smooth_stone` | 34 |
+| Seelaterne | `sea_lantern` | 32 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 14 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 26 |
 
 **Beschreibung**
 
@@ -838,9 +849,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.26 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 2/6 (Y 76–76)
+### Schritt 25.26 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 2/6 (Y 80–80)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.494
 - **Bauteile:** `r1588169_innen`
 
@@ -867,9 +878,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.27 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 3/6 (Y 76–76)
+### Schritt 25.27 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 3/6 (Y 80–80)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.550
 - **Bauteile:** `r1588169_innen`
 
@@ -877,8 +888,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.540 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 1.539 |
+| Seelaterne | `sea_lantern` | 9 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
@@ -903,10 +914,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.28 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 4/6 (Y 77–86)
+### Schritt 25.28 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 4/6 (Y 81–91)
 
-- **Y-Bereich:** 77 bis 86
-- **Blöcke:** 1.612
+- **Y-Bereich:** 81 bis 91
+- **Blöcke:** 1.616
 - **Bauteile:** `r1588169_innen`
 
 **Teileliste**
@@ -914,8 +925,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.557 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Seelaterne | `sea_lantern` | 8 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -926,7 +937,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -945,9 +956,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.29 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 5/6 (Y 86–86)
+### Schritt 25.29 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 5/6 (Y 91–91)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.494
 - **Bauteile:** `r1588169_innen`
 
@@ -974,9 +985,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.30 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 6/6 (Y 86–87)
+### Schritt 25.30 – Palazzo Ximenes da Sangallo: Innenausbau – Teil 6/6 (Y 91–92)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.557
 - **Bauteile:** `r1588169_innen`
 
@@ -984,8 +995,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.540 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 1.539 |
+| Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |

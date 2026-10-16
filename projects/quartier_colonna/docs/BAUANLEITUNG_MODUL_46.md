@@ -8,59 +8,59 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 55.638 |
-| Bauschritte | 34 |
+| Blöcke | 57.462 |
+| Bauschritte | 35 |
 | Y-Bereich | 68 bis 107 |
 | X-Ausdehnung | 1539 bis 1654 (116 Blöcke) |
 | Z-Ausdehnung | -1031 bis -917 (115 Blöcke) |
 | Kleinster Schritt | 1.087 Blöcke (Schritt 46.1) |
-| Mittlerer Schritt | 1.636 Blöcke |
-| Größter Schritt | 2.055 Blöcke (Schritt 46.4) |
+| Mittlerer Schritt | 1.642 Blöcke |
+| Größter Schritt | 2.034 Blöcke (Schritt 46.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 18.099 | 32,5 % |
-| Weißer Beton | `white_concrete` | 13.344 | 24,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 10.007 | 18,0 % |
-| Polierter Tuffstein | `polished_tuff` | 5.390 | 9,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 4.457 | 8,0 % |
-| Graues Buntglas | `gray_stained_glass` | 1.357 | 2,4 % |
-| Grüner Beton | `green_concrete` | 1.134 | 2,0 % |
-| Glatter Stein | `smooth_stone` | 475 | 0,9 % |
+| Terrakotta | `terracotta` | 19.894 | 34,6 % |
+| Weißer Beton | `white_concrete` | 14.472 | 25,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 9.260 | 16,1 % |
+| Polierter Tuffstein | `polished_tuff` | 5.390 | 9,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 4.457 | 7,8 % |
+| Graues Buntglas | `gray_stained_glass` | 1.475 | 2,6 % |
+| Glatter Stein | `smooth_stone` | 689 | 1,2 % |
+| Grüner Beton | `green_concrete` | 446 | 0,8 % |
 | Ziegelsteine | `bricks` | 351 | 0,6 % |
-| Polierter Andesit | `polished_andesite` | 322 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 306 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 287 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 137 | 0,2 % |
-| Seelaterne | `sea_lantern` | 94 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 138 | 0,2 % |
+| Seelaterne | `sea_lantern` | 104 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 30 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 24 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 12 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 12 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 10 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 11 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 110 |
-| Steintreppe | `stone_stairs` | 40 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 112 |
+| Steintreppe | `stone_stairs` | 46 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4090626` | Casino Salviati | 17.670 | 46.1–46.10 |
-| 2 | `r4090626_innen` | Casino Salviati: Innenausbau | 3.727 | 46.11–46.12 |
-| 3 | `r7298413` | Reihenhaus an Borgo Pinti | 17.201 | 46.13–46.23 |
-| 4 | `r7298413_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 3.686 | 46.24–46.26 |
-| 5 | `w497256023` | Reihenhaus an Borgo Pinti | 9.202 | 46.27–46.31 |
-| 6 | `w497256023_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 4.152 | 46.32–46.34 |
+| 1 | `r4090626` | Casino Salviati | 17.668 | 46.1–46.10 |
+| 2 | `r4090626_innen` | Casino Salviati: Innenausbau | 5.553 | 46.11–46.13 |
+| 3 | `r7298413` | Reihenhaus an Borgo Pinti | 17.201 | 46.14–46.24 |
+| 4 | `r7298413_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 3.686 | 46.25–46.27 |
+| 5 | `w497256023` | Reihenhaus an Borgo Pinti | 9.202 | 46.28–46.32 |
+| 6 | `w497256023_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 4.152 | 46.33–46.35 |
 
 ## Bauschritte
 
@@ -78,7 +78,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -90,12 +90,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 46.2 – Casino Salviati – Teil 2/10 (Y 68–70)
 
 - **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.959
+- **Blöcke:** 1.978
 - **Bauteile:** `r4090626`
 
 **Teileliste**
@@ -103,14 +103,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.127 |
-| Hellgrauer Beton | `light_gray_concrete` | 742 |
-| Weißer Beton | `white_concrete` | 64 |
-| Polierter Andesit | `polished_andesite` | 24 |
+| Hellgrauer Beton | `light_gray_concrete` | 713 |
+| Weißer Beton | `white_concrete` | 110 |
+| Polierter Andesit | `polished_andesite` | 26 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -122,28 +122,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 46.3 – Casino Salviati – Teil 3/10 (Y 71–75)
 
 - **Y-Bereich:** 71 bis 75
-- **Blöcke:** 1.976
+- **Blöcke:** 2.034
 - **Bauteile:** `r4090626`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.250 |
-| Weißer Beton | `white_concrete` | 287 |
-| Grüner Beton | `green_concrete` | 188 |
-| Graues Buntglas | `gray_stained_glass` | 176 |
-| Polierter Andesit | `polished_andesite` | 67 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.350 |
+| Weißer Beton | `white_concrete` | 473 |
+| Graues Buntglas | `gray_stained_glass` | 134 |
+| Polierter Andesit | `polished_andesite` | 68 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -155,26 +154,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 46.4 – Casino Salviati – Teil 4/10 (Y 76–80)
 
 - **Y-Bereich:** 76 bis 80
-- **Blöcke:** 2.055
+- **Blöcke:** 1.973
 - **Bauteile:** `r4090626`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.644 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.315 |
+| Weißer Beton | `white_concrete` | 280 |
 | Glatter Stein | `smooth_stone` | 202 |
-| Weißer Beton | `white_concrete` | 173 |
+| Graues Buntglas | `gray_stained_glass` | 140 |
 | Polierter Andesit | `polished_andesite` | 36 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -186,27 +186,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 46.5 – Casino Salviati – Teil 5/10 (Y 81–85)
+### Schritt 46.5 – Casino Salviati – Teil 5/10 (Y 81–84)
 
-- **Y-Bereich:** 81 bis 85
-- **Blöcke:** 1.910
+- **Y-Bereich:** 81 bis 84
+- **Blöcke:** 1.603
 - **Bauteile:** `r4090626`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.166 |
-| Grüner Beton | `green_concrete` | 250 |
-| Graues Buntglas | `gray_stained_glass` | 235 |
-| Weißer Beton | `white_concrete` | 210 |
-| Polierter Andesit | `polished_andesite` | 49 |
+| Hellgrauer Beton | `light_gray_concrete` | 905 |
+| Weißer Beton | `white_concrete` | 398 |
+| Glatter Stein | `smooth_stone` | 202 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -218,12 +218,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 46.6 – Casino Salviati – Teil 6/10 (Y 86–89)
+### Schritt 46.6 – Casino Salviati – Teil 6/10 (Y 85–89)
 
-- **Y-Bereich:** 86 bis 89
-- **Blöcke:** 1.644
+- **Y-Bereich:** 85 bis 89
+- **Blöcke:** 1.932
 - **Bauteile:** `r4090626`
 
 **Teileliste**
@@ -231,13 +231,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.183 |
-| Weißer Beton | `white_concrete` | 228 |
-| Glatter Stein | `smooth_stone` | 202 |
-| Polierter Andesit | `polished_andesite` | 31 |
+| Weißer Beton | `white_concrete` | 490 |
+| Graues Buntglas | `gray_stained_glass` | 210 |
+| Polierter Andesit | `polished_andesite` | 49 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -249,27 +249,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 46.7 – Casino Salviati – Teil 7/10 (Y 90–93)
 
 - **Y-Bereich:** 90 bis 93
-- **Blöcke:** 1.557
+- **Blöcke:** 1.603
 - **Bauteile:** `r4090626`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.015 |
-| Weißer Beton | `white_concrete` | 215 |
-| Grüner Beton | `green_concrete` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 141 |
-| Polierter Andesit | `polished_andesite` | 36 |
+| Hellgrauer Beton | `light_gray_concrete` | 910 |
+| Weißer Beton | `white_concrete` | 398 |
+| Glatter Stein | `smooth_stone` | 202 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Polierter Andesit | `polished_andesite` | 23 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -281,28 +281,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 46.8 – Casino Salviati – Teil 8/10 (Y 94–97)
 
 - **Y-Bereich:** 94 bis 97
-- **Blöcke:** 1.638
+- **Blöcke:** 1.614
 - **Bauteile:** `r4090626`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.044 |
-| Weißer Beton | `white_concrete` | 312 |
-| Grüner Beton | `green_concrete` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 94 |
+| Hellgrauer Beton | `light_gray_concrete` | 921 |
+| Weißer Beton | `white_concrete` | 468 |
+| Graues Buntglas | `gray_stained_glass` | 140 |
 | Fichtenholz-Bretter | `spruce_planks` | 52 |
-| Polierter Andesit | `polished_andesite` | 36 |
+| Polierter Andesit | `polished_andesite` | 33 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -314,7 +313,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 46.9 – Casino Salviati – Teil 9/10 (Y 98–99)
 
@@ -333,7 +332,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -345,7 +344,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 46.10 – Casino Salviati – Teil 10/10 (Y 100–107)
 
@@ -362,7 +361,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1653 (Silvani), Eingang 1834 (Baccani)), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casino_Salviati, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -374,12 +373,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 46.11 – Casino Salviati: Innenausbau – Teil 1/2 (Y 68–78)
+### Schritt 46.11 – Casino Salviati: Innenausbau – Teil 1/3 (Y 68–76)
 
-- **Y-Bereich:** 68 bis 78
-- **Blöcke:** 1.864
+- **Y-Bereich:** 68 bis 76
+- **Blöcke:** 1.856
 - **Bauteile:** `r4090626_innen`
 
 **Teileliste**
@@ -387,10 +386,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.795 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 20 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -399,7 +398,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -418,10 +417,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 46.12 – Casino Salviati: Innenausbau – Teil 2/2 (Y 79–89)
+### Schritt 46.12 – Casino Salviati: Innenausbau – Teil 2/3 (Y 77–84)
 
-- **Y-Bereich:** 79 bis 89
-- **Blöcke:** 1.863
+- **Y-Bereich:** 77 bis 84
+- **Blöcke:** 1.848
 - **Bauteile:** `r4090626_innen`
 
 **Teileliste**
@@ -429,21 +428,67 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.795 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 46.13 – Casino Salviati: Innenausbau – Teil 3/3 (Y 85–92)
+
+- **Y-Bereich:** 85 bis 92
+- **Blöcke:** 1.849
+- **Bauteile:** `r4090626_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.795 |
+| Glatter Stein | `smooth_stone` | 20 |
+| Seelaterne | `sea_lantern` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 14 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
@@ -462,7 +507,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 46.13 – Reihenhaus an Borgo Pinti – Teil 1/11 (Y 69–69)
+### Schritt 46.14 – Reihenhaus an Borgo Pinti – Teil 1/11 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.643
@@ -490,7 +535,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.14 – Reihenhaus an Borgo Pinti – Teil 2/11 (Y 70–72)
+### Schritt 46.15 – Reihenhaus an Borgo Pinti – Teil 2/11 (Y 70–72)
 
 - **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.353
@@ -520,7 +565,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.15 – Reihenhaus an Borgo Pinti – Teil 3/11 (Y 73–76)
+### Schritt 46.16 – Reihenhaus an Borgo Pinti – Teil 3/11 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.753
@@ -552,7 +597,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.16 – Reihenhaus an Borgo Pinti – Teil 4/11 (Y 77–79)
+### Schritt 46.17 – Reihenhaus an Borgo Pinti – Teil 4/11 (Y 77–79)
 
 - **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.374
@@ -581,7 +626,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.17 – Reihenhaus an Borgo Pinti – Teil 5/11 (Y 80–83)
+### Schritt 46.18 – Reihenhaus an Borgo Pinti – Teil 5/11 (Y 80–83)
 
 - **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.754
@@ -612,7 +657,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.18 – Reihenhaus an Borgo Pinti – Teil 6/11 (Y 84–86)
+### Schritt 46.19 – Reihenhaus an Borgo Pinti – Teil 6/11 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.374
@@ -641,7 +686,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.19 – Reihenhaus an Borgo Pinti – Teil 7/11 (Y 87–90)
+### Schritt 46.20 – Reihenhaus an Borgo Pinti – Teil 7/11 (Y 87–90)
 
 - **Y-Bereich:** 87 bis 90
 - **Blöcke:** 1.754
@@ -672,7 +717,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.20 – Reihenhaus an Borgo Pinti – Teil 8/11 (Y 91–93)
+### Schritt 46.21 – Reihenhaus an Borgo Pinti – Teil 8/11 (Y 91–93)
 
 - **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.374
@@ -701,7 +746,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.21 – Reihenhaus an Borgo Pinti – Teil 9/11 (Y 94–97)
+### Schritt 46.22 – Reihenhaus an Borgo Pinti – Teil 9/11 (Y 94–97)
 
 - **Y-Bereich:** 94 bis 97
 - **Blöcke:** 1.780
@@ -732,7 +777,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.22 – Reihenhaus an Borgo Pinti – Teil 10/11 (Y 98–100)
+### Schritt 46.23 – Reihenhaus an Borgo Pinti – Teil 10/11 (Y 98–100)
 
 - **Y-Bereich:** 98 bis 100
 - **Blöcke:** 1.915
@@ -762,7 +807,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.23 – Reihenhaus an Borgo Pinti – Teil 11/11 (Y 101–104)
+### Schritt 46.24 – Reihenhaus an Borgo Pinti – Teil 11/11 (Y 101–104)
 
 - **Y-Bereich:** 101 bis 104
 - **Blöcke:** 1.127
@@ -791,7 +836,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.24 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 1/3 (Y 69–78)
+### Schritt 46.25 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 1/3 (Y 69–78)
 
 - **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.233
@@ -829,7 +874,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 46.25 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 2/3 (Y 79–85)
+### Schritt 46.26 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 2/3 (Y 79–85)
 
 - **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.223
@@ -871,7 +916,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 46.26 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 3/3 (Y 86–93)
+### Schritt 46.27 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 3/3 (Y 86–93)
 
 - **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.230
@@ -913,7 +958,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 46.27 – Reihenhaus an Borgo Pinti – Teil 1/5 (Y 68–69)
+### Schritt 46.28 – Reihenhaus an Borgo Pinti – Teil 1/5 (Y 68–69)
 
 - **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.795
@@ -943,7 +988,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.28 – Reihenhaus an Borgo Pinti – Teil 2/5 (Y 70–79)
+### Schritt 46.29 – Reihenhaus an Borgo Pinti – Teil 2/5 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.848
@@ -976,7 +1021,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.29 – Reihenhaus an Borgo Pinti – Teil 3/5 (Y 80–89)
+### Schritt 46.30 – Reihenhaus an Borgo Pinti – Teil 3/5 (Y 80–89)
 
 - **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.855
@@ -1007,7 +1052,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.30 – Reihenhaus an Borgo Pinti – Teil 4/5 (Y 90–98)
+### Schritt 46.31 – Reihenhaus an Borgo Pinti – Teil 4/5 (Y 90–98)
 
 - **Y-Bereich:** 90 bis 98
 - **Blöcke:** 1.686
@@ -1038,7 +1083,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.31 – Reihenhaus an Borgo Pinti – Teil 5/5 (Y 99–106)
+### Schritt 46.32 – Reihenhaus an Borgo Pinti – Teil 5/5 (Y 99–106)
 
 - **Y-Bereich:** 99 bis 106
 - **Blöcke:** 2.018
@@ -1067,7 +1112,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.32 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 1/3 (Y 68–77)
+### Schritt 46.33 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 1/3 (Y 68–77)
 
 - **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.395
@@ -1105,7 +1150,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 46.33 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 2/3 (Y 78–84)
+### Schritt 46.34 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 2/3 (Y 78–84)
 
 - **Y-Bereich:** 78 bis 84
 - **Blöcke:** 1.379
@@ -1143,7 +1188,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 46.34 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 3/3 (Y 85–91)
+### Schritt 46.35 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 3/3 (Y 85–91)
 
 - **Y-Bereich:** 85 bis 91
 - **Blöcke:** 1.378

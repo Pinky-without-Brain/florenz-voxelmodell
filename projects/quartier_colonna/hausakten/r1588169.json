@@ -1,49 +1,59 @@
 {
   "id": "r1588169",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "15. Jh. (Sangallo), Fassade 17. Jh. (Silvani zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
       "hoeheBl": 10
     },
     {
-      "art": "nobile",
-      "hoeheBl": 10
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
-      "art": "og",
-      "hoeheBl": 10
+      "art": "nobile",
+      "hoeheBl": 11
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 5,
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_forte",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "terrasse_ueber_portal",
+      "wappen_ximenes_schwerter",
+      "laternen_zwei",
+      "bugnato_portalrahmen"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Ximenes_da_Sangallo",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: ursprünglich von Giuliano und Antonio da Sangallo, Straßenfassade dem Gherardo Silvani im 17. Jh. zugeschrieben, fünf Achsen, mittiges Portal mit Pietra-serena-Rustikarahmen zwischen zwei Paaren Kniefenster mit gesprengten Giebeln, einfache Mezzaninfenster, vier Fenster mit vorstehenden Stürzen am Hauptgeschoss, Sohlbankgesims, Terrasse über der Tür mit großem Ximenes-Wappen, zwei große Laternen. Annahme: Putzfarbe, Material, Gesims und Dach.",
   "name": "Palazzo Ximenes da Sangallo"
 }
