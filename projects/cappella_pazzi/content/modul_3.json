@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Konvent: Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossboden des Obergeschosses und oberste Decke",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossboden des Obergeschosses",
+      "description": "Der Boden des Obergeschosses auf Lage 10 besteht aus Holzbrettern und Terrakotta im Wechsel. Er hat ein Loch für die Wendeltreppe und liegt auf den Innenwänden und Außenwänden auf.",
+      "tip": "Das Treppenloch bleibt frei.",
+      "caution": "Die Hofwände bekommen keinen Boden, sie sind selbst Wand.",
+      "fact": "Die Obergeschosse nutzen heute Museum und Biblioteca Nazionale (it.wikipedia, Basilica di Santa Croce (Firenze)); die Nutzung im Modell ist Stufe C."
+    },
+    "decke": {
+      "title": "Oberste Decke",
+      "description": "Unter dem Dach schließt eine Decke aus weißem Putz den Raum des Obergeschosses ab.",
+      "tip": "Eine Lage auf Lage 19.",
+      "caution": "Der Dachraum darüber ist massiv, nicht begehbar.",
+      "fact": "Die Geschosshöhen (10 und 9 Blöcke) sind Stufe C."
+    },
+    "innenwaende_og": {
+      "title": "Innenwände im Obergeschoss",
+      "description": "Die Wand um den Umgang des Secondo Chiostro setzt sich im Obergeschoss fort, mit Türen alle 14 Blöcke.",
+      "tip": "Die Türen sind drei Blöcke breit.",
+      "caution": "Lass die Türen frei.",
+      "fact": "Der Ring um den Kreuzgang läuft auf beiden Geschossen, wie bei den Palazzi der Stadt."
+    }
+  }
+}

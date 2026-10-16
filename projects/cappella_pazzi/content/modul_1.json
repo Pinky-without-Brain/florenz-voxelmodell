@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Konvent: Außenwände",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände aus hellem Putz sind zwei Blöcke dick, unten ein Sockel aus Pietra forte. Fünf Portale sind bis zum Boden offen (6 bis 7 Blöcke breit, 10 hoch): zwei am Cenacolo im Westarm, eines zu den Museumssälen und je eines zum Süd- und Osttrakt am Primo Chiostro.",
+      "tip": "Zuerst die Wand Schicht für Schicht, dann die Gesimse.",
+      "caution": "Lass die Portale frei.",
+      "fact": "Der Primo Chiostro liegt rechts der Fassade und führt zur Cappella Pazzi; der Besuch führt von dort in den Konvent (it.wikipedia, Basilica di Santa Croce (Firenze)). Die Lage der Portale im Grundriss ist Stufe C."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster im Abstand von neun Blöcken, im Erdgeschoss ab Lage 4, im Obergeschoss ab Lage 13. Alle Fenster sind mit Glas gefüllt.",
+      "tip": "Das Glas liegt in beiden Wandlagen.",
+      "caution": "Auf die Höfe zu sind die Fenster eigene Bauteile (Modul 2). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Fensterrhythmus ist Stufe C: die Quellen nennen keine Fensterzahlen."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Unter dem Dach schließt ein Band aus Pietra serena die Fassade ab.",
+      "tip": "Die zwei obersten Lagen unter dem Dach.",
+      "caution": "Es ragt nicht über die Wand hinaus.",
+      "fact": "Pietra serena ist der graue Sandstein, den Brunelleschi und seine Nachfolger für Gliederungen nutzten (it.wikipedia, Cappella dei Pazzi)."
+    }
+  }
+}

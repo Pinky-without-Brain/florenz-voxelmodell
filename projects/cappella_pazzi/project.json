@@ -1,0 +1,14 @@
+{
+  "id": "cappella_pazzi",
+  "title": "Cappella de' Pazzi und Kreuzgänge von Santa Croce",
+  "type": "wahrzeichen",
+  "gebaeude": ["r10782536"],
+  "bodenY": 61,
+  "rahmen": { "ox": 873.25, "oz": 975, "thetaDeg": 28.4 },
+  "hauptGrenzen": { "abzugProjekte": ["santa_croce"], "abzugAlle": true },
+  "masken": {
+    "kapelle": { "gebaeude": ["w307539790"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

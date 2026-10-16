@@ -1,0 +1,50 @@
+{
+  "module": 7,
+  "title": "Cappella de’ Pazzi: Portikus und Wände",
+  "subtitle": "Bautüte 7: Fundament, Boden, Portikus mit sechs Säulen, Attika, Wände und Scarsella",
+  "icon": "⛪",
+  "parts": {
+    "kap_fundament": {
+      "title": "Fundament der Kapelle",
+      "description": "Unter der Kapelle füllst du das Gelände (Y 61) mit Bruchstein bis Y 60 auf. Der Boden von Portikus, Saal und Scarsella liegt auf Y 61, bündig mit dem Primo Chiostro.",
+      "tip": "Spaltenweise, die Fläche ist 39 mal 37 Blöcke plus Scarsella.",
+      "caution": "Nur innerhalb des Umrisses (OSM w307539790).",
+      "fact": "Die Kapelle steht im Primo Chiostro und diente als Kapitelsaal; Baubeginn war 1442 (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_boden": {
+      "title": "Boden",
+      "description": "Im Saal liegt ein Bodenmuster aus Pietra serena und Terrakotta in Feldern von drei Blöcken, in der Mitte eine Rosette aus Gold, Ornamentmarmor und weißem Ring. Portikus und Scarsella haben Pietra serena bzw. Marmor.",
+      "tip": "Von der Mitte nach außen.",
+      "caution": "Vereinfacht, nicht nach Vorbild: das Muster ist frei gewählt (Stufe C). Die Lichtfelder setzt Modul 9.",
+      "fact": "Das Innere ist eine Gliederung aus Pietra serena auf weißem Putz (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "portikus_saeulen": {
+      "title": "Portikus: sechs korinthische Säulen",
+      "description": "Sechs Säulen aus Marmor (Basis aus Pietra serena, Schaft zwölf Blöcke, zweilagiges Kapitell) tragen die Front, das mittlere Joch ist weiter. Zwischen den Säulen ist die Front offen (Arkade); dahinter liegt der Portikus, 9 Blöcke tief.",
+      "tip": "Je Säule von unten nach oben; die Lücken dazwischen bleiben frei.",
+      "caution": "Lass die Lücken (Intercolumnien) frei; zwei Blöcke an den Enden sind Pfeiler. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Portikus hat sechs korinthische Säulen und in der Attika einen Bogen; vollendet wurde er 1461 (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "portikus_gebaelk": {
+      "title": "Gebälk, Attika und Bogen",
+      "description": "Über den Säulen liegt das Gebälk (Architrav aus Pietra serena, Fries aus Putz), darüber die Attika bis Lage 21 mit einem Rundbogen über dem mittleren Joch (Radius 4,5, Bogen aus Pietra serena).",
+      "tip": "Gebälk zuerst, dann die Attika; der Bogen ist ein Ring aus Pietra serena.",
+      "caution": "Der Bogen bleibt offen; dahinter sieht man die kleine Kuppel. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Bogen sitzt in der Attika; die oberen Teile des Portikus waren 1478 noch unvollendet (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_aussenwaende": {
+      "title": "Wände von Portikus, Saal und Scarsella",
+      "description": "Die Außenwände aus Putz sind zwei Blöcke dick, unten ein Sockel aus Pietra serena. Die Eingangswand zwischen Portikus und Saal hat ein Portal von 6 Blöcken Breite, bis zum Boden offen, die Ostwand eine Öffnung zur Scarsella (5 breit).",
+      "tip": "Wand Schicht für Schicht, die Öffnungen zuletzt freilassen.",
+      "caution": "Die Wände steigen neben dem Mittelquadrat bis Lage 24 (Würfelwände über den Flügeldächern). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Saal ist ein Würfel von 20 Braccia (11,66 m) mit je einem Flügel von einem Fünftel der Seitenlänge, die Scarsella ist ebenso breit wie der Eingangsbogen (it.wikipedia, Cappella dei Pazzi). Der Plan folgt dem OSM-Umriss."
+    },
+    "kap_fenster": {
+      "title": "Fenster der Scarsella",
+      "description": "In der Ostwand der Scarsella sitzt ein Glasfenster aus farbigen Gläsern (fünf mal drei Blöcke).",
+      "tip": "Das Glas liegt in der Wandlage.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Fenster der Scarsella sind von Alesso Baldovinetti (it.wikipedia, Cappella dei Pazzi)."
+    }
+  }
+}

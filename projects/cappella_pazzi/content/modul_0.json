@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Konvent: Fundament, Boden, Höfe und Treppe",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 61, die beiden Höfe und die Treppe ins Obergeschoss",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Unter dem Konvent füllst du das Gelände mit Bruchstein bis Y 60 auf. Das Gelände liegt hier fast überall auf Y 61 (zwischen Y 59 und Y 64); wo es höher steigt, ist es im Umriss bis Y 60 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte; wo das Gelände schon Y 60 erreicht, bleibt die Spalte leer.",
+      "caution": "Die Höfe bekommen nur Pflaster oder Rasen auf Y 61, kein Fundament darüber.",
+      "fact": "Der Boden liegt auf Y 61, weil das Gelände im Umriss des Konvents und der Primo Chiostro davor auf diesem Niveau liegen; so führen die Portale ohne Stufe ins Haus (Messung am Stadtgelände)."
+    },
+    "boden": {
+      "title": "Boden des Erdgeschosses",
+      "description": "Auf Y 61 legst du den Boden des Erdgeschosses: ein Schachbrett aus Terrakotta und hellem Marmor, unter den Arkaden des Secondo Chiostro Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Muster der Räume (Modul 6) ersetzen später einzelne Felder; die Lichtfelder setzt Modul 5.",
+      "fact": "Der Konvent von Santa Croce ist heute Teil des Museums der Basilika; der Besuch führt durch Kreuzgänge und Museumsräume (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "hof": {
+      "title": "Secondo Chiostro und Innenhof",
+      "description": "Die zwei Höfe bleiben offen: der Secondo Chiostro (30 mal 37 m, das große Loch des Umrisses) und ein schmaler Innenhof im Ostflügel (30 mal 7,5 m). Beide haben Rasen; der Secondo Chiostro bekommt in Modul 6 sein Wegekreuz und den Brunnen.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Der Primo Chiostro liegt nicht im Umriss: er ist freie Fläche des Stadtgrunds und gehört nicht zu diesem Projekt.",
+      "fact": "Der Secondo Chiostro stammt von 1453 und hat einen quadratischen Grundriss mit Brunnen in der Mitte (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "treppe": {
+      "title": "Treppe ins Obergeschoss",
+      "description": "In der dritten Museumshalle führt eine Wendeltreppe aus Treppenblöcken aus Pietra serena um einen Kern ins Obergeschoss. Über jeder Stufe bleiben drei Blöcke Luft, das Treppenloch in der Decke bleibt frei.",
+      "tip": "Zuerst die Podeste und den Kern, dann die Stufen von unten nach oben.",
+      "caution": "Vereinfacht, nicht nach Vorbild: die Lage der Treppe ist Stufe C.",
+      "fact": "Die Obergeschosse am Secondo Chiostro nutzt heute zum Teil die Biblioteca Nazionale Centrale (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    }
+  }
+}
