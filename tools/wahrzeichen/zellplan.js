@@ -7,6 +7,7 @@
 //   P.oeffnung(art, teil, x, y, z)  Luftzelle als Öffnung deklarieren (ctx.oeffnung), bleibt Luft
 //   P.set(x, y, z, typ, teil)       setzt eine freie Zelle (erste Setzung gewinnt), false bei belegt/Luft
 //   P.ersetze(x, y, z, typ, teil)   ersetzt eine vorhandene Zelle (Typ und Teil), false wenn leer
+//   P.frei(x, y, z)                 hebt P.luft auf (Zelle darf wieder belegt werden)
 //   P.hat(x, y, z), P.get(x, y, z)  Abfragen
 //   P.modul(n, ids, planFn)         Moduldatei { module, build(ctx) } mit den Bauteilen ids (in dieser Reihenfolge)
 // Teile ohne Zellen werden nicht registriert.
@@ -22,6 +23,7 @@ function neuerPlan() {
     zellen, teile, oeff, key,
     luft(x, y, z) { luftSet.add(key(x, y, z)); },
     istLuft(x, y, z) { return luftSet.has(key(x, y, z)); },
+    frei(x, y, z) { luftSet.delete(key(x, y, z)); },
     oeffnung(art, teil, x, y, z) {
       const k = art + '|' + teil;
       let a = oeff.get(k); if (!a) oeff.set(k, a = []);
