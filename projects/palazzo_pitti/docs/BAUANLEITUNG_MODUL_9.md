@@ -13,9 +13,9 @@
 | Y-Bereich | 64 bis 92 |
 | X-Ausdehnung | -954 bis -631 (324 Blöcke) |
 | Z-Ausdehnung | 1312 bis 1640 (329 Blöcke) |
-| Kleinster Schritt | 765 Blöcke (Schritt 9.47) |
+| Kleinster Schritt | 792 Blöcke (Schritt 9.56) |
 | Mittlerer Schritt | 1.537 Blöcke |
-| Größter Schritt | 2.068 Blöcke (Schritt 9.54) |
+| Größter Schritt | 2.058 Blöcke (Schritt 9.7) |
 
 ## Gesamt-Stückliste
 
@@ -24,9 +24,15 @@
 | Tuffsteinziegel | `tuff_bricks` | 59.017 | 45,7 % |
 | Polierter Andesit | `polished_andesite` | 27.341 | 21,2 % |
 | Glatter Stein | `smooth_stone` | 17.448 | 13,5 % |
-| Endsteinziegel | `end_stone_bricks` | 14.582 | 11,3 % |
+| Endsteinziegel | `end_stone_bricks` | 9.970 | 7,7 % |
 | Steinziegel | `stone_bricks` | 8.258 | 6,4 % |
+| Goldblock | `gold_block` | 3.088 | 2,4 % |
 | Graues Buntglas | `gray_stained_glass` | 2.430 | 1,9 % |
+| Blaue Keramik | `blue_terracotta` | 346 | 0,3 % |
+| Grüne Keramik | `green_terracotta` | 308 | 0,2 % |
+| Rote Keramik | `red_terracotta` | 300 | 0,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 300 | 0,2 % |
+| Braune Keramik | `brown_terracotta` | 270 | 0,2 % |
 | Seelaterne | `sea_lantern` | 56 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 | 0,0 % |
@@ -44,18 +50,19 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `korridor_unterbau` | Unterbau des Korridors | 72.178 | 9.1–9.43 |
 | 2 | `korridor_0_boden` | Boden, Nordabschnitt (Via de' Bardi) | 3.108 | 9.44–9.45 |
-| 3 | `korridor_0_waende` | Wände, Nordabschnitt (Via de' Bardi) | 5.355 | 9.46–9.49 |
-| 4 | `korridor_0_decke` | Decke, Nordabschnitt (Via de' Bardi) | 3.097 | 9.50–9.51 |
-| 5 | `korridor_1_boden` | Boden, Abschnitt Santa Felicita | 2.134 | 9.52–9.53 |
-| 6 | `korridor_1_waende` | Wände, Abschnitt Santa Felicita | 5.124 | 9.54–9.56 |
-| 7 | `korridor_1_decke` | Decke, Abschnitt Santa Felicita | 2.125 | 9.57–9.58 |
-| 8 | `korridor_2_boden` | Boden, Abschnitt Boboli | 3.342 | 9.59–9.61 |
-| 9 | `korridor_2_waende` | Wände, Abschnitt Boboli | 5.978 | 9.62–9.65 |
-| 10 | `korridor_2_decke` | Decke, Abschnitt Boboli | 3.332 | 9.66–9.68 |
-| 11 | `korridor_3_boden` | Boden, Südabschnitt bis zum Ostflügel | 8.879 | 9.69–9.74 |
-| 12 | `korridor_3_waende` | Wände, Südabschnitt bis zum Ostflügel | 5.565 | 9.75–9.78 |
-| 13 | `korridor_3_decke` | Decke, Südabschnitt bis zum Ostflügel | 8.874 | 9.79–9.84 |
-| 14 | `korridor_licht_olt` | Licht im Korridor | 56 | 9.84 |
+| 3 | `korridor_0_waende` | Wände, Nordabschnitt (Via de' Bardi) | 4.227 | 9.46–9.48 |
+| 4 | `korridor_0_decke` | Decke, Nordabschnitt (Via de' Bardi) | 3.097 | 9.49–9.50 |
+| 5 | `korridor_1_boden` | Boden, Abschnitt Santa Felicita | 2.134 | 9.51–9.52 |
+| 6 | `korridor_1_waende` | Wände, Abschnitt Santa Felicita | 4.052 | 9.53–9.55 |
+| 7 | `korridor_1_decke` | Decke, Abschnitt Santa Felicita | 2.125 | 9.56–9.57 |
+| 8 | `korridor_2_boden` | Boden, Abschnitt Boboli | 3.342 | 9.58–9.60 |
+| 9 | `korridor_2_waende` | Wände, Abschnitt Boboli | 4.746 | 9.61–9.63 |
+| 10 | `korridor_2_decke` | Decke, Abschnitt Boboli | 3.332 | 9.64–9.66 |
+| 11 | `korridor_3_boden` | Boden, Südabschnitt bis zum Ostflügel | 8.879 | 9.67–9.72 |
+| 12 | `korridor_3_waende` | Wände, Südabschnitt bis zum Ostflügel | 4.385 | 9.73–9.75 |
+| 13 | `korridor_3_decke` | Decke, Südabschnitt bis zum Ostflügel | 8.874 | 9.76–9.81 |
+| 14 | `korridor_licht_olt` | Licht im Korridor | 56 | 9.82 |
+| 15 | `korridor_bilder` | Bilderfelder im Korridor | 4.612 | 9.82–9.84 |
 
 ## Bauschritte
 
@@ -1357,7 +1364,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.46 – Wände, Nordabschnitt (Via de' Bardi) – Teil 1/4 (Y 79–80)
+### Schritt 9.46 – Wände, Nordabschnitt (Via de' Bardi) – Teil 1/3 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.530
@@ -1386,19 +1393,18 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.47 – Wände, Nordabschnitt (Via de' Bardi) – Teil 2/4 (Y 81–81)
+### Schritt 9.47 – Wände, Nordabschnitt (Via de' Bardi) – Teil 2/3 (Y 81–83)
 
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 765
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 1.449
 - **Bauteile:** `korridor_0_waende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 282 |
-| Polierter Andesit | `polished_andesite` | 281 |
-| Graues Buntglas | `gray_stained_glass` | 202 |
+| Polierter Andesit | `polished_andesite` | 843 |
+| Graues Buntglas | `gray_stained_glass` | 606 |
 
 **Beschreibung**
 
@@ -1416,40 +1422,10 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.48 – Wände, Nordabschnitt (Via de' Bardi) – Teil 3/4 (Y 82–83)
-
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.530
-- **Bauteile:** `korridor_0_waende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 564 |
-| Polierter Andesit | `polished_andesite` | 562 |
-| Graues Buntglas | `gray_stained_glass` | 404 |
-
-**Beschreibung**
-
-Wände 2 dick, kleine Fenster 2 × 3 alle 8 Zellen (Glas durch beide Lagen); an der Flügelwand ist die Palastwand die Gangwand.
-
-**Tipp**
-
-Fenster mit der Wand Lage für Lage.
-
-**Achtung**
-
-An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
-
-**Fakt**
-
-Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
-
-### Schritt 9.49 – Wände, Nordabschnitt (Via de' Bardi) – Teil 4/4 (Y 84–85)
+### Schritt 9.48 – Wände, Nordabschnitt (Via de' Bardi) – Teil 3/3 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
-- **Blöcke:** 1.530
+- **Blöcke:** 1.248
 - **Bauteile:** `korridor_0_waende`
 
 **Teileliste**
@@ -1457,7 +1433,7 @@ Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 768 |
-| Endsteinziegel | `end_stone_bricks` | 762 |
+| Endsteinziegel | `end_stone_bricks` | 480 |
 
 **Beschreibung**
 
@@ -1475,7 +1451,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.50 – Decke, Nordabschnitt (Via de' Bardi) – Teil 1/2 (Y 86–86)
+### Schritt 9.49 – Decke, Nordabschnitt (Via de' Bardi) – Teil 1/2 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.543
@@ -1503,7 +1479,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.51 – Decke, Nordabschnitt (Via de' Bardi) – Teil 2/2 (Y 87–87)
+### Schritt 9.50 – Decke, Nordabschnitt (Via de' Bardi) – Teil 2/2 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.554
@@ -1531,7 +1507,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.52 – Boden, Abschnitt Santa Felicita – Teil 1/2 (Y 77–77)
+### Schritt 9.51 – Boden, Abschnitt Santa Felicita – Teil 1/2 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 798
@@ -1559,7 +1535,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.53 – Boden, Abschnitt Santa Felicita – Teil 2/2 (Y 78–79)
+### Schritt 9.52 – Boden, Abschnitt Santa Felicita – Teil 2/2 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.336
@@ -1594,19 +1570,18 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.54 – Wände, Abschnitt Santa Felicita – Teil 1/3 (Y 79–81)
+### Schritt 9.53 – Wände, Abschnitt Santa Felicita – Teil 1/3 (Y 79–80)
 
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 2.068
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.336
 - **Bauteile:** `korridor_1_waende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 981 |
-| Endsteinziegel | `end_stone_bricks` | 931 |
-| Graues Buntglas | `gray_stained_glass` | 156 |
+| Polierter Andesit | `polished_andesite` | 685 |
+| Endsteinziegel | `end_stone_bricks` | 651 |
 
 **Beschreibung**
 
@@ -1624,19 +1599,19 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.55 – Wände, Abschnitt Santa Felicita – Teil 2/3 (Y 82–83)
+### Schritt 9.54 – Wände, Abschnitt Santa Felicita – Teil 2/3 (Y 81–83)
 
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.464
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 1.441
 - **Bauteile:** `korridor_1_waende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 568 |
-| Endsteinziegel | `end_stone_bricks` | 536 |
-| Graues Buntglas | `gray_stained_glass` | 360 |
+| Polierter Andesit | `polished_andesite` | 864 |
+| Graues Buntglas | `gray_stained_glass` | 516 |
+| Endsteinziegel | `end_stone_bricks` | 61 |
 
 **Beschreibung**
 
@@ -1654,10 +1629,10 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.56 – Wände, Abschnitt Santa Felicita – Teil 3/3 (Y 84–86)
+### Schritt 9.55 – Wände, Abschnitt Santa Felicita – Teil 3/3 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.592
+- **Blöcke:** 1.274
 - **Bauteile:** `korridor_1_waende`
 
 **Teileliste**
@@ -1665,7 +1640,7 @@ Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 807 |
-| Endsteinziegel | `end_stone_bricks` | 761 |
+| Endsteinziegel | `end_stone_bricks` | 443 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
 **Beschreibung**
@@ -1684,10 +1659,10 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.57 – Decke, Abschnitt Santa Felicita – Teil 1/2 (Y 86–86)
+### Schritt 9.56 – Decke, Abschnitt Santa Felicita – Teil 1/2 (Y 86–86)
 
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 791
+- **Y-Bereich:** 85 bis 86
+- **Blöcke:** 792
 - **Bauteile:** `korridor_1_decke`
 
 **Teileliste**
@@ -1695,6 +1670,7 @@ Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 791 |
+| Endsteinziegel | `end_stone_bricks` | 1 |
 
 **Beschreibung**
 
@@ -1712,7 +1688,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.58 – Decke, Abschnitt Santa Felicita – Teil 2/2 (Y 87–88)
+### Schritt 9.57 – Decke, Abschnitt Santa Felicita – Teil 2/2 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.334
@@ -1740,7 +1716,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.59 – Boden, Abschnitt Boboli – Teil 1/3 (Y 78–79)
+### Schritt 9.58 – Boden, Abschnitt Boboli – Teil 1/3 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.228
@@ -1768,7 +1744,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.60 – Boden, Abschnitt Boboli – Teil 2/3 (Y 80–80)
+### Schritt 9.59 – Boden, Abschnitt Boboli – Teil 2/3 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.275
@@ -1804,7 +1780,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.61 – Boden, Abschnitt Boboli – Teil 3/3 (Y 81–83)
+### Schritt 9.60 – Boden, Abschnitt Boboli – Teil 3/3 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
 - **Blöcke:** 839
@@ -1839,19 +1815,19 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.62 – Wände, Abschnitt Boboli – Teil 1/4 (Y 80–82)
+### Schritt 9.61 – Wände, Abschnitt Boboli – Teil 1/3 (Y 80–83)
 
-- **Y-Bereich:** 80 bis 82
-- **Blöcke:** 1.232
+- **Y-Bereich:** 80 bis 83
+- **Blöcke:** 1.870
 - **Bauteile:** `korridor_2_waende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 616 |
-| Endsteinziegel | `end_stone_bricks` | 600 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
+| Polierter Andesit | `polished_andesite` | 970 |
+| Endsteinziegel | `end_stone_bricks` | 746 |
+| Graues Buntglas | `gray_stained_glass` | 154 |
 
 **Beschreibung**
 
@@ -1869,19 +1845,19 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.63 – Wände, Abschnitt Boboli – Teil 2/4 (Y 83–84)
+### Schritt 9.62 – Wände, Abschnitt Boboli – Teil 2/3 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.688
+- **Y-Bereich:** 84 bis 85
+- **Blöcke:** 1.164
 - **Bauteile:** `korridor_2_waende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 698 |
-| Endsteinziegel | `end_stone_bricks` | 674 |
-| Graues Buntglas | `gray_stained_glass` | 316 |
+| Polierter Andesit | `polished_andesite` | 676 |
+| Graues Buntglas | `gray_stained_glass` | 380 |
+| Endsteinziegel | `end_stone_bricks` | 108 |
 
 **Beschreibung**
 
@@ -1899,19 +1875,19 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.64 – Wände, Abschnitt Boboli – Teil 3/4 (Y 85–86)
+### Schritt 9.63 – Wände, Abschnitt Boboli – Teil 3/3 (Y 86–90)
 
-- **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.708
+- **Y-Bereich:** 86 bis 90
+- **Blöcke:** 1.712
 - **Bauteile:** `korridor_2_waende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 719 |
-| Endsteinziegel | `end_stone_bricks` | 699 |
-| Graues Buntglas | `gray_stained_glass` | 290 |
+| Polierter Andesit | `polished_andesite` | 1.038 |
+| Endsteinziegel | `end_stone_bricks` | 530 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
 
 **Beschreibung**
 
@@ -1929,37 +1905,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.65 – Wände, Abschnitt Boboli – Teil 4/4 (Y 87–90)
-
-- **Y-Bereich:** 87 bis 90
-- **Blöcke:** 1.350
-- **Bauteile:** `korridor_2_waende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 651 |
-| Endsteinziegel | `end_stone_bricks` | 643 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
-
-**Beschreibung**
-
-Wände 2 dick, kleine Fenster 2 × 3 alle 8 Zellen (Glas durch beide Lagen); an der Flügelwand ist die Palastwand die Gangwand.
-
-**Tipp**
-
-Fenster mit der Wand Lage für Lage.
-
-**Achtung**
-
-An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
-
-**Fakt**
-
-Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
-
-### Schritt 9.66 – Decke, Abschnitt Boboli – Teil 1/3 (Y 87–88)
+### Schritt 9.64 – Decke, Abschnitt Boboli – Teil 1/3 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.222
@@ -1987,7 +1933,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.67 – Decke, Abschnitt Boboli – Teil 2/3 (Y 89–89)
+### Schritt 9.65 – Decke, Abschnitt Boboli – Teil 2/3 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.273
@@ -2015,7 +1961,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.68 – Decke, Abschnitt Boboli – Teil 3/3 (Y 90–92)
+### Schritt 9.66 – Decke, Abschnitt Boboli – Teil 3/3 (Y 90–92)
 
 - **Y-Bereich:** 90 bis 92
 - **Blöcke:** 837
@@ -2043,7 +1989,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.69 – Boden, Südabschnitt bis zum Ostflügel – Teil 1/6 (Y 82–82)
+### Schritt 9.67 – Boden, Südabschnitt bis zum Ostflügel – Teil 1/6 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.472
@@ -2071,7 +2017,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.70 – Boden, Südabschnitt bis zum Ostflügel – Teil 2/6 (Y 82–82)
+### Schritt 9.68 – Boden, Südabschnitt bis zum Ostflügel – Teil 2/6 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.466
@@ -2099,7 +2045,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.71 – Boden, Südabschnitt bis zum Ostflügel – Teil 3/6 (Y 82–82)
+### Schritt 9.69 – Boden, Südabschnitt bis zum Ostflügel – Teil 3/6 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.498
@@ -2127,7 +2073,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.72 – Boden, Südabschnitt bis zum Ostflügel – Teil 4/6 (Y 83–83)
+### Schritt 9.70 – Boden, Südabschnitt bis zum Ostflügel – Teil 4/6 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.479
@@ -2155,7 +2101,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.73 – Boden, Südabschnitt bis zum Ostflügel – Teil 5/6 (Y 83–83)
+### Schritt 9.71 – Boden, Südabschnitt bis zum Ostflügel – Teil 5/6 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.466
@@ -2183,7 +2129,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.74 – Boden, Südabschnitt bis zum Ostflügel – Teil 6/6 (Y 83–83)
+### Schritt 9.72 – Boden, Südabschnitt bis zum Ostflügel – Teil 6/6 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.498
@@ -2211,7 +2157,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.75 – Wände, Südabschnitt bis zum Ostflügel – Teil 1/4 (Y 84–85)
+### Schritt 9.73 – Wände, Südabschnitt bis zum Ostflügel – Teil 1/3 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.590
@@ -2240,19 +2186,18 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.76 – Wände, Südabschnitt bis zum Ostflügel – Teil 2/4 (Y 86–86)
+### Schritt 9.74 – Wände, Südabschnitt bis zum Ostflügel – Teil 2/3 (Y 86–88)
 
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 795
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.500
 - **Bauteile:** `korridor_3_waende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 298 |
-| Endsteinziegel | `end_stone_bricks` | 295 |
-| Graues Buntglas | `gray_stained_glass` | 202 |
+| Polierter Andesit | `polished_andesite` | 894 |
+| Graues Buntglas | `gray_stained_glass` | 606 |
 
 **Beschreibung**
 
@@ -2270,40 +2215,10 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.77 – Wände, Südabschnitt bis zum Ostflügel – Teil 3/4 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.590
-- **Bauteile:** `korridor_3_waende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 596 |
-| Endsteinziegel | `end_stone_bricks` | 590 |
-| Graues Buntglas | `gray_stained_glass` | 404 |
-
-**Beschreibung**
-
-Wände 2 dick, kleine Fenster 2 × 3 alle 8 Zellen (Glas durch beide Lagen); an der Flügelwand ist die Palastwand die Gangwand.
-
-**Tipp**
-
-Fenster mit der Wand Lage für Lage.
-
-**Achtung**
-
-An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
-
-**Fakt**
-
-Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
-
-### Schritt 9.78 – Wände, Südabschnitt bis zum Ostflügel – Teil 4/4 (Y 89–90)
+### Schritt 9.75 – Wände, Südabschnitt bis zum Ostflügel – Teil 3/3 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.590
+- **Blöcke:** 1.295
 - **Bauteile:** `korridor_3_waende`
 
 **Teileliste**
@@ -2311,7 +2226,7 @@ Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 800 |
-| Endsteinziegel | `end_stone_bricks` | 790 |
+| Endsteinziegel | `end_stone_bricks` | 495 |
 
 **Beschreibung**
 
@@ -2329,7 +2244,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.79 – Decke, Südabschnitt bis zum Ostflügel – Teil 1/6 (Y 91–91)
+### Schritt 9.76 – Decke, Südabschnitt bis zum Ostflügel – Teil 1/6 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.477
@@ -2357,7 +2272,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.80 – Decke, Südabschnitt bis zum Ostflügel – Teil 2/6 (Y 91–91)
+### Schritt 9.77 – Decke, Südabschnitt bis zum Ostflügel – Teil 2/6 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.458
@@ -2385,7 +2300,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.81 – Decke, Südabschnitt bis zum Ostflügel – Teil 3/6 (Y 91–91)
+### Schritt 9.78 – Decke, Südabschnitt bis zum Ostflügel – Teil 3/6 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.489
@@ -2413,7 +2328,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.82 – Decke, Südabschnitt bis zum Ostflügel – Teil 4/6 (Y 92–92)
+### Schritt 9.79 – Decke, Südabschnitt bis zum Ostflügel – Teil 4/6 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.486
@@ -2441,7 +2356,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.83 – Decke, Südabschnitt bis zum Ostflügel – Teil 5/6 (Y 92–92)
+### Schritt 9.80 – Decke, Südabschnitt bis zum Ostflügel – Teil 5/6 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.466
@@ -2469,31 +2384,130 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.84 – Decke, Südabschnitt bis zum Ostflügel – Teil 6/6 (Y 92–92) & Licht im Korridor
+### Schritt 9.81 – Decke, Südabschnitt bis zum Ostflügel – Teil 6/6 (Y 92–92)
 
-- **Y-Bereich:** 86 bis 92
-- **Blöcke:** 1.554
-- **Bauteile:** `korridor_3_decke`, `korridor_licht_olt`
+- **Y-Bereich:** 92 bis 92
+- **Blöcke:** 1.498
+- **Bauteile:** `korridor_3_decke`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.498 |
+
+**Beschreibung**
+
+Zwei Lagen Pietra forte über dem Gang (Gang 7 hoch).
+
+**Tipp**
+
+Lichter in der unteren Lage aussparen.
+
+**Achtung**
+
+Ohne Stirnwand am Schnitt zum Ponte Vecchio.
+
+**Fakt**
+
+Vasari baute den Korridor 1565 in nur fünf Monaten.
+
+### Schritt 9.82 – Licht im Korridor & Bilderfelder im Korridor – Teil 1/3 (Y 81–83)
+
+- **Y-Bereich:** 81 bis 91
+- **Blöcke:** 1.853
+- **Bauteile:** `korridor_licht_olt`, `korridor_bilder`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Goldblock | `gold_block` | 1.090 |
+| Rote Keramik | `red_terracotta` | 160 |
+| Grüne Keramik | `green_terracotta` | 140 |
+| Blaue Keramik | `blue_terracotta` | 139 |
+| Gelbe Keramik | `yellow_terracotta` | 138 |
+| Braune Keramik | `brown_terracotta` | 130 |
 | Seelaterne | `sea_lantern` | 56 |
 
 **Beschreibung**
 
-Zwei Lagen Pietra forte über dem Gang (Gang 7 hoch). Seelaternen in der Decke, höchstens 10 Zellen Abstand.
+Seelaternen in der Decke, höchstens 10 Zellen Abstand. Auf der Innenseite beider Gangwände hängen Bilderfelder, 6 Blöcke breit und 4 hoch, mit der Unterkante 2 Blöcke über dem Boden. Der Rahmen besteht aus Gold, das Feld aus farbiger Keramik (Fresko-Farben Rot, Blau, Gelb, Grün, Braun im Wechsel). Je eine Lücke zwischen zwei Fenstern bekommt ein Feld.
 
 **Tipp**
 
-Lichter in der unteren Lage aussparen. Auf der Gangmitte.
+Auf der Gangmitte. Setze zuerst die Rahmenzellen und fülle dann das Feld; die Fensterspalten bleiben frei.
 
 **Achtung**
 
-Ohne Stirnwand am Schnitt zum Ponte Vecchio. Nie über Stufen.
+Nie über Stufen. Die Bilder sitzen in der inneren Wandlage; die Außenlage bleibt geschlossen.
 
 **Fakt**
 
-Vasari baute den Korridor 1565 in nur fünf Monaten. Bis 2016 hing im Korridor die Sammlung der Selbstbildnisse der Uffizien.
+Bis 2016 hing im Korridor die Sammlung der Selbstbildnisse der Uffizien. Im Vasarikorridor hängt heute die Sammlung der Selbstbildnisse; die Felder hier sind eine Vereinfachung und zeigen kein bestimmtes Bild (Katalog §10, vereinfacht, nicht nach Vorbild).
+
+### Schritt 9.83 – Bilderfelder im Korridor – Teil 2/3 (Y 84–85)
+
+- **Y-Bereich:** 84 bis 85
+- **Blöcke:** 1.143
+- **Bauteile:** `korridor_bilder`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Goldblock | `gold_block` | 842 |
+| Blaue Keramik | `blue_terracotta` | 97 |
+| Braune Keramik | `brown_terracotta` | 52 |
+| Rote Keramik | `red_terracotta` | 52 |
+| Gelbe Keramik | `yellow_terracotta` | 52 |
+| Grüne Keramik | `green_terracotta` | 48 |
+
+**Beschreibung**
+
+Auf der Innenseite beider Gangwände hängen Bilderfelder, 6 Blöcke breit und 4 hoch, mit der Unterkante 2 Blöcke über dem Boden. Der Rahmen besteht aus Gold, das Feld aus farbiger Keramik (Fresko-Farben Rot, Blau, Gelb, Grün, Braun im Wechsel). Je eine Lücke zwischen zwei Fenstern bekommt ein Feld.
+
+**Tipp**
+
+Setze zuerst die Rahmenzellen und fülle dann das Feld; die Fensterspalten bleiben frei.
+
+**Achtung**
+
+Die Bilder sitzen in der inneren Wandlage; die Außenlage bleibt geschlossen.
+
+**Fakt**
+
+Im Vasarikorridor hängt heute die Sammlung der Selbstbildnisse; die Felder hier sind eine Vereinfachung und zeigen kein bestimmtes Bild (Katalog §10, vereinfacht, nicht nach Vorbild).
+
+### Schritt 9.84 – Bilderfelder im Korridor – Teil 3/3 (Y 86–89)
+
+- **Y-Bereich:** 86 bis 89
+- **Blöcke:** 1.672
+- **Bauteile:** `korridor_bilder`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Goldblock | `gold_block` | 1.156 |
+| Grüne Keramik | `green_terracotta` | 120 |
+| Blaue Keramik | `blue_terracotta` | 110 |
+| Gelbe Keramik | `yellow_terracotta` | 110 |
+| Braune Keramik | `brown_terracotta` | 88 |
+| Rote Keramik | `red_terracotta` | 88 |
+
+**Beschreibung**
+
+Auf der Innenseite beider Gangwände hängen Bilderfelder, 6 Blöcke breit und 4 hoch, mit der Unterkante 2 Blöcke über dem Boden. Der Rahmen besteht aus Gold, das Feld aus farbiger Keramik (Fresko-Farben Rot, Blau, Gelb, Grün, Braun im Wechsel). Je eine Lücke zwischen zwei Fenstern bekommt ein Feld.
+
+**Tipp**
+
+Setze zuerst die Rahmenzellen und fülle dann das Feld; die Fensterspalten bleiben frei.
+
+**Achtung**
+
+Die Bilder sitzen in der inneren Wandlage; die Außenlage bleibt geschlossen.
+
+**Fakt**
+
+Im Vasarikorridor hängt heute die Sammlung der Selbstbildnisse; die Felder hier sind eine Vereinfachung und zeigen kein bestimmtes Bild (Katalog §10, vereinfacht, nicht nach Vorbild).
