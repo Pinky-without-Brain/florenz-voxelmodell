@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 86.528 |
+| Blöcke | 86.488 |
 | Bauschritte | 56 |
 | Y-Bereich | 61 bis 102 |
 | X-Ausdehnung | 922 bis 1083 (162 Blöcke) |
 | Z-Ausdehnung | 679 bis 799 (121 Blöcke) |
 | Kleinster Schritt | 771 Blöcke (Schritt 6.23) |
-| Mittlerer Schritt | 1.545 Blöcke |
+| Mittlerer Schritt | 1.544 Blöcke |
 | Größter Schritt | 2.027 Blöcke (Schritt 6.39) |
 
 ## Gesamt-Stückliste
@@ -22,31 +22,31 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 32.536 | 37,6 % |
-| Rosa Keramik | `pink_terracotta` | 17.348 | 20,0 % |
+| Rosa Keramik | `pink_terracotta` | 17.822 | 20,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 11.588 | 13,4 % |
 | Polierter Tuffstein | `polished_tuff` | 10.123 | 11,7 % |
-| Tuffstein | `tuff` | 8.821 | 10,2 % |
-| Polierter Andesit | `polished_andesite` | 6.770 | 7,8 % |
-| Graues Buntglas | `gray_stained_glass` | 2.333 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 2.312 | 2,7 % |
+| Glatter Stein | `smooth_stone` | 3.515 | 4,1 % |
+| Polierter Andesit | `polished_andesite` | 3.067 | 3,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 1.833 | 2,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.745 | 2,0 % |
+| Grüner Beton | `green_concrete` | 1.352 | 1,6 % |
 | Orange Keramik | `orange_terracotta` | 1.164 | 1,3 % |
-| Grüner Beton | `green_concrete` | 1.033 | 1,2 % |
 | Ziegelsteine | `bricks` | 787 | 0,9 % |
-| Tuffsteinziegel | `tuff_bricks` | 547 | 0,6 % |
 | Weißer Beton | `white_concrete` | 301 | 0,3 % |
 | Seelaterne | `sea_lantern` | 158 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 134 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 78 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 33 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 30 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 30 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 28 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 26 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
@@ -56,16 +56,16 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 104 |
-| Steintreppe | `stone_stairs` | 80 |
+| Steintreppe | `stone_stairs` | 82 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4098973` | Palazzo Salvetti Sebregondi | 23.374 | 6.1–6.15 |
-| 2 | `r4098973_innen` | Palazzo Salvetti Sebregondi: Innenausbau | 5.334 | 6.16–6.19 |
-| 3 | `r10837675` | Palazzo Guicciardini Corsi Salviati | 36.274 | 6.20–6.43 |
-| 4 | `r10837675_innen` | Palazzo Guicciardini Corsi Salviati: Innenausbau | 9.455 | 6.44–6.49 |
+| 1 | `r4098973` | Palazzo Salvetti Sebregondi | 23.162 | 6.1–6.15 |
+| 2 | `r4098973_innen` | Palazzo Salvetti Sebregondi: Innenausbau | 5.342 | 6.16–6.19 |
+| 3 | `r10837675` | Palazzo Guicciardini Corsi Salviati | 36.442 | 6.20–6.43 |
+| 4 | `r10837675_innen` | Palazzo Guicciardini Corsi Salviati: Innenausbau | 9.451 | 6.44–6.49 |
 | 5 | `w781515669` | Reihenhaus an Via del Fico | 3.474 | 6.50–6.51 |
 | 6 | `w781515669_innen` | Reihenhaus an Via del Fico: Innenausbau | 1.557 | 6.52 |
 | 7 | `w781515670` | Reihenhaus an Via Ghibellina | 3.970 | 6.53–6.54 |
@@ -88,7 +88,7 @@
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -100,7 +100,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.2 – Palazzo Salvetti Sebregondi – Teil 2/15 (Y 61–61)
 
@@ -116,7 +116,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -128,26 +128,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.3 – Palazzo Salvetti Sebregondi – Teil 3/15 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
-- **Blöcke:** 1.541
+- **Blöcke:** 1.538
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 933 |
-| Polierter Andesit | `polished_andesite` | 374 |
-| Tuffsteinziegel | `tuff_bricks` | 220 |
-| Glatter Stein | `smooth_stone` | 14 |
+| Gelbe Keramik | `yellow_terracotta` | 1.381 |
+| Glatter Stein | `smooth_stone` | 132 |
+| Polierter Andesit | `polished_andesite` | 21 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -159,27 +159,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.4 – Palazzo Salvetti Sebregondi – Teil 4/15 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.386
+- **Blöcke:** 1.383
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 813 |
-| Polierter Andesit | `polished_andesite` | 348 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Tuffsteinziegel | `tuff_bricks` | 107 |
-| Glatter Stein | `smooth_stone` | 10 |
+| Gelbe Keramik | `yellow_terracotta` | 934 |
+| Grüner Beton | `green_concrete` | 141 |
+| Glatter Stein | `smooth_stone` | 141 |
+| Graues Buntglas | `gray_stained_glass` | 98 |
+| Polierter Andesit | `polished_andesite` | 64 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -191,27 +192,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.5 – Palazzo Salvetti Sebregondi – Teil 5/15 (Y 68–71)
+### Schritt 6.5 – Palazzo Salvetti Sebregondi – Teil 5/15 (Y 68–70)
 
-- **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.952
+- **Y-Bereich:** 68 bis 70
+- **Blöcke:** 1.437
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.175 |
-| Polierter Andesit | `polished_andesite` | 443 |
-| Tuffsteinziegel | `tuff_bricks` | 210 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Gelbe Keramik | `yellow_terracotta` | 1.021 |
+| Glatter Stein | `smooth_stone` | 197 |
+| Graues Buntglas | `gray_stained_glass` | 98 |
+| Grüner Beton | `green_concrete` | 94 |
+| Polierter Andesit | `polished_andesite` | 21 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -223,25 +225,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.6 – Palazzo Salvetti Sebregondi – Teil 6/15 (Y 72–73)
+### Schritt 6.6 – Palazzo Salvetti Sebregondi – Teil 6/15 (Y 71–73)
 
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.143
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.539
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 632 |
-| Glatter Stein | `smooth_stone` | 316 |
-| Polierter Andesit | `polished_andesite` | 195 |
+| Gelbe Keramik | `yellow_terracotta` | 1.328 |
+| Glatter Stein | `smooth_stone` | 197 |
+| Polierter Andesit | `polished_andesite` | 9 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -253,26 +256,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.7 – Palazzo Salvetti Sebregondi – Teil 7/15 (Y 74–77)
 
 - **Y-Bereich:** 74 bis 77
-- **Blöcke:** 1.963
+- **Blöcke:** 1.954
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.138 |
-| Polierter Andesit | `polished_andesite` | 636 |
-| Graues Buntglas | `gray_stained_glass` | 171 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Gelbe Keramik | `yellow_terracotta` | 1.351 |
+| Glatter Stein | `smooth_stone` | 279 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
+| Grüner Beton | `green_concrete` | 147 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -284,26 +288,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.8 – Palazzo Salvetti Sebregondi – Teil 8/15 (Y 78–80)
 
 - **Y-Bereich:** 78 bis 80
-- **Blöcke:** 1.455
+- **Blöcke:** 1.435
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 864 |
-| Polierter Andesit | `polished_andesite` | 461 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Gelbe Keramik | `yellow_terracotta` | 1.041 |
+| Glatter Stein | `smooth_stone` | 175 |
+| Graues Buntglas | `gray_stained_glass` | 125 |
+| Grüner Beton | `green_concrete` | 78 |
+| Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -315,25 +320,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.9 – Palazzo Salvetti Sebregondi – Teil 9/15 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
-- **Blöcke:** 1.693
+- **Blöcke:** 1.539
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 948 |
-| Polierter Andesit | `polished_andesite` | 422 |
-| Glatter Stein | `smooth_stone` | 323 |
+| Gelbe Keramik | `yellow_terracotta` | 1.287 |
+| Glatter Stein | `smooth_stone` | 243 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -345,26 +350,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.10 – Palazzo Salvetti Sebregondi – Teil 10/15 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.413
+- **Blöcke:** 1.529
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 822 |
-| Polierter Andesit | `polished_andesite` | 404 |
-| Graues Buntglas | `gray_stained_glass` | 171 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Gelbe Keramik | `yellow_terracotta` | 1.228 |
+| Glatter Stein | `smooth_stone` | 183 |
+| Graues Buntglas | `gray_stained_glass` | 53 |
+| Grüner Beton | `green_concrete` | 49 |
+| Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -376,26 +382,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.11 – Palazzo Salvetti Sebregondi – Teil 11/15 (Y 87–89)
 
 - **Y-Bereich:** 87 bis 89
-- **Blöcke:** 1.572
+- **Blöcke:** 1.552
 - **Bauteile:** `r4098973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 864 |
-| Polierter Andesit | `polished_andesite` | 466 |
-| Glatter Stein | `smooth_stone` | 128 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
+| Gelbe Keramik | `yellow_terracotta` | 1.046 |
+| Glatter Stein | `smooth_stone` | 292 |
+| Graues Buntglas | `gray_stained_glass` | 125 |
+| Grüner Beton | `green_concrete` | 78 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -407,7 +414,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.12 – Palazzo Salvetti Sebregondi – Teil 12/15 (Y 90–91)
 
@@ -419,13 +426,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 632 |
-| Glatter Stein | `smooth_stone` | 585 |
-| Polierter Andesit | `polished_andesite` | 385 |
+| Gelbe Keramik | `yellow_terracotta` | 971 |
+| Glatter Stein | `smooth_stone` | 622 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -437,7 +444,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.13 – Palazzo Salvetti Sebregondi – Teil 13/15 (Y 92–92)
 
@@ -453,7 +460,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -465,7 +472,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.14 – Palazzo Salvetti Sebregondi – Teil 14/15 (Y 93–94)
 
@@ -481,7 +488,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -493,7 +500,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.15 – Palazzo Salvetti Sebregondi – Teil 15/15 (Y 95–101)
 
@@ -510,7 +517,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -522,7 +529,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.16 – Palazzo Salvetti Sebregondi: Innenausbau – Teil 1/4 (Y 61–72)
 
@@ -602,10 +609,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.18 – Palazzo Salvetti Sebregondi: Innenausbau – Teil 3/4 (Y 73–81)
+### Schritt 6.18 – Palazzo Salvetti Sebregondi: Innenausbau – Teil 3/4 (Y 73–83)
 
-- **Y-Bereich:** 73 bis 81
-- **Blöcke:** 1.382
+- **Y-Bereich:** 73 bis 83
+- **Blöcke:** 1.390
 - **Bauteile:** `r4098973_innen`
 
 **Teileliste**
@@ -613,10 +620,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.326 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -627,7 +634,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -646,9 +653,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.19 – Palazzo Salvetti Sebregondi: Innenausbau – Teil 4/4 (Y 81–82)
+### Schritt 6.19 – Palazzo Salvetti Sebregondi: Innenausbau – Teil 4/4 (Y 83–84)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.280
 - **Bauteile:** `r4098973_innen`
 
@@ -698,7 +705,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -710,7 +717,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.21 – Palazzo Guicciardini Corsi Salviati – Teil 2/24 (Y 61–61)
 
@@ -726,7 +733,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -738,7 +745,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.22 – Palazzo Guicciardini Corsi Salviati – Teil 3/24 (Y 61–61)
 
@@ -754,7 +761,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -766,7 +773,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.23 – Palazzo Guicciardini Corsi Salviati – Teil 4/24 (Y 62–62)
 
@@ -778,13 +785,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 762 |
+| Rosa Keramik | `pink_terracotta` | 761 |
 | Polierter Andesit | `polished_andesite` | 8 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -796,25 +803,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.24 – Palazzo Guicciardini Corsi Salviati – Teil 5/24 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.699
+- **Blöcke:** 1.603
 - **Bauteile:** `r10837675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.288 |
-| Polierter Andesit | `polished_andesite` | 409 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Rosa Keramik | `pink_terracotta` | 1.368 |
+| Polierter Andesit | `polished_andesite` | 232 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -826,27 +833,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.25 – Palazzo Guicciardini Corsi Salviati – Teil 6/24 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.423
+- **Blöcke:** 1.427
 - **Bauteile:** `r10837675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 947 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Polierter Andesit | `polished_andesite` | 168 |
-| Grüner Beton | `green_concrete` | 128 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Rosa Keramik | `pink_terracotta` | 968 |
+| Polierter Andesit | `polished_andesite` | 246 |
+| Grüner Beton | `green_concrete` | 124 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -858,27 +865,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.26 – Palazzo Guicciardini Corsi Salviati – Teil 7/24 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.430
+- **Blöcke:** 1.495
 - **Bauteile:** `r10837675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 958 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Polierter Andesit | `polished_andesite` | 161 |
-| Grüner Beton | `green_concrete` | 128 |
+| Rosa Keramik | `pink_terracotta` | 1.103 |
+| Polierter Andesit | `polished_andesite` | 239 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Grüner Beton | `green_concrete` | 62 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -890,7 +897,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.27 – Palazzo Guicciardini Corsi Salviati – Teil 8/24 (Y 69–70)
 
@@ -902,12 +909,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.385 |
-| Polierter Andesit | `polished_andesite` | 171 |
+| Rosa Keramik | `pink_terracotta` | 1.203 |
+| Glatter Stein | `smooth_stone` | 351 |
+| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -919,25 +927,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.28 – Palazzo Guicciardini Corsi Salviati – Teil 9/24 (Y 71–72)
 
 - **Y-Bereich:** 71 bis 72
-- **Blöcke:** 1.556
+- **Blöcke:** 1.619
 - **Bauteile:** `r10837675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.200 |
-| Glatter Stein | `smooth_stone` | 351 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Rosa Keramik | `pink_terracotta` | 1.380 |
+| Polierter Andesit | `polished_andesite` | 239 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -949,26 +956,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.29 – Palazzo Guicciardini Corsi Salviati – Teil 10/24 (Y 73–74)
 
 - **Y-Bereich:** 73 bis 74
-- **Blöcke:** 1.554
+- **Blöcke:** 1.426
 - **Bauteile:** `r10837675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.080 |
-| Polierter Andesit | `polished_andesite` | 316 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
-| Grüner Beton | `green_concrete` | 66 |
+| Rosa Keramik | `pink_terracotta` | 949 |
+| Graues Buntglas | `gray_stained_glass` | 184 |
+| Polierter Andesit | `polished_andesite` | 161 |
+| Grüner Beton | `green_concrete` | 132 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -980,7 +987,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.30 – Palazzo Guicciardini Corsi Salviati – Teil 11/24 (Y 75–76)
 
@@ -999,7 +1006,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1011,42 +1018,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.31 – Palazzo Guicciardini Corsi Salviati – Teil 12/24 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.426
-- **Bauteile:** `r10837675`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 949 |
-| Graues Buntglas | `gray_stained_glass` | 184 |
-| Polierter Andesit | `polished_andesite` | 161 |
-| Grüner Beton | `green_concrete` | 132 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.32 – Palazzo Guicciardini Corsi Salviati – Teil 13/24 (Y 79–80)
-
-- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.491
 - **Bauteile:** `r10837675`
 
@@ -1061,7 +1037,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1073,11 +1049,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.33 – Palazzo Guicciardini Corsi Salviati – Teil 14/24 (Y 81–82)
+### Schritt 6.32 – Palazzo Guicciardini Corsi Salviati – Teil 13/24 (Y 79–80)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.556
 - **Bauteile:** `r10837675`
 
@@ -1085,13 +1061,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.200 |
-| Glatter Stein | `smooth_stone` | 351 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Rosa Keramik | `pink_terracotta` | 957 |
+| Polierter Andesit | `polished_andesite` | 417 |
+| Glatter Stein | `smooth_stone` | 182 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1103,11 +1079,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.34 – Palazzo Guicciardini Corsi Salviati – Teil 15/24 (Y 83–84)
+### Schritt 6.33 – Palazzo Guicciardini Corsi Salviati – Teil 14/24 (Y 81–82)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.554
 - **Bauteile:** `r10837675`
 
@@ -1122,7 +1098,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1134,26 +1110,55 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.34 – Palazzo Guicciardini Corsi Salviati – Teil 15/24 (Y 83–84)
+
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 1.426
+- **Bauteile:** `r10837675`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 949 |
+| Graues Buntglas | `gray_stained_glass` | 184 |
+| Polierter Andesit | `polished_andesite` | 161 |
+| Grüner Beton | `green_concrete` | 132 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.35 – Palazzo Guicciardini Corsi Salviati – Teil 16/24 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.426
+- **Blöcke:** 1.556
 - **Bauteile:** `r10837675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 949 |
-| Graues Buntglas | `gray_stained_glass` | 184 |
-| Polierter Andesit | `polished_andesite` | 161 |
-| Grüner Beton | `green_concrete` | 132 |
+| Rosa Keramik | `pink_terracotta` | 1.134 |
+| Polierter Andesit | `polished_andesite` | 422 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1165,26 +1170,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.36 – Palazzo Guicciardini Corsi Salviati – Teil 17/24 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.426
+- **Blöcke:** 1.556
 - **Bauteile:** `r10837675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 949 |
-| Graues Buntglas | `gray_stained_glass` | 184 |
-| Polierter Andesit | `polished_andesite` | 161 |
-| Grüner Beton | `green_concrete` | 132 |
+| Rosa Keramik | `pink_terracotta` | 1.200 |
+| Glatter Stein | `smooth_stone` | 351 |
+| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1196,7 +1200,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.37 – Palazzo Guicciardini Corsi Salviati – Teil 18/24 (Y 89–90)
 
@@ -1208,12 +1212,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.588 |
-| Polierter Andesit | `polished_andesite` | 176 |
+| Rosa Keramik | `pink_terracotta` | 1.757 |
+| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1225,7 +1229,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.38 – Palazzo Guicciardini Corsi Salviati – Teil 19/24 (Y 91–91)
 
@@ -1242,7 +1246,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1254,7 +1258,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.39 – Palazzo Guicciardini Corsi Salviati – Teil 20/24 (Y 92–92)
 
@@ -1270,7 +1274,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1282,7 +1286,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.40 – Palazzo Guicciardini Corsi Salviati – Teil 21/24 (Y 93–93)
 
@@ -1298,7 +1302,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1310,7 +1314,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.41 – Palazzo Guicciardini Corsi Salviati – Teil 22/24 (Y 94–94)
 
@@ -1326,7 +1330,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1338,7 +1342,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.42 – Palazzo Guicciardini Corsi Salviati – Teil 23/24 (Y 95–96)
 
@@ -1355,7 +1359,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1367,7 +1371,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.43 – Palazzo Guicciardini Corsi Salviati – Teil 24/24 (Y 97–102)
 
@@ -1384,7 +1388,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ende 17. Jh., vollendet 1697 (Giovannozzi)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1396,12 +1400,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.44 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 1/6 (Y 61–71)
+### Schritt 6.44 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 1/6 (Y 61–70)
 
-- **Y-Bereich:** 61 bis 71
-- **Blöcke:** 1.602
+- **Y-Bereich:** 61 bis 70
+- **Blöcke:** 1.598
 - **Bauteile:** `r10837675_innen`
 
 **Teileliste**
@@ -1410,9 +1414,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.521 |
 | Seelaterne | `sea_lantern` | 32 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 24 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -1421,7 +1425,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 18 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1440,9 +1444,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.45 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 2/6 (Y 71–71)
+### Schritt 6.45 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 2/6 (Y 70–70)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.588
 - **Bauteile:** `r10837675_innen`
 
@@ -1469,9 +1473,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.46 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 3/6 (Y 71–71)
+### Schritt 6.46 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 3/6 (Y 70–70)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.542
 - **Bauteile:** `r10837675_innen`
 
@@ -1498,9 +1502,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.47 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 4/6 (Y 72–81)
+### Schritt 6.47 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 4/6 (Y 71–80)
 
-- **Y-Bereich:** 72 bis 81
+- **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.584
 - **Bauteile:** `r10837675_innen`
 
@@ -1542,9 +1546,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.48 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 5/6 (Y 81–81)
+### Schritt 6.48 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 5/6 (Y 80–80)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.588
 - **Bauteile:** `r10837675_innen`
 
@@ -1571,9 +1575,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.49 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 6/6 (Y 81–82)
+### Schritt 6.49 – Palazzo Guicciardini Corsi Salviati: Innenausbau – Teil 6/6 (Y 80–81)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.551
 - **Bauteile:** `r10837675_innen`
 

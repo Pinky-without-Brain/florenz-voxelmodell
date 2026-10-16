@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 178.979 |
+| Blöcke | 179.060 |
 | Bauschritte | 114 |
 | Y-Bereich | 61 bis 100 |
 | X-Ausdehnung | 954 bis 1143 (190 Blöcke) |
 | Z-Ausdehnung | 566 bis 714 (149 Blöcke) |
 | Kleinster Schritt | 601 Blöcke (Schritt 8.77) |
-| Mittlerer Schritt | 1.570 Blöcke |
+| Mittlerer Schritt | 1.571 Blöcke |
 | Größter Schritt | 2.079 Blöcke (Schritt 8.24) |
 
 ## Gesamt-Stückliste
@@ -23,21 +23,19 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 51.399 | 28,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 20.390 | 11,4 % |
+| Endsteinziegel | `end_stone_bricks` | 18.099 | 10,1 % |
 | Orange Keramik | `orange_terracotta` | 15.995 | 8,9 % |
 | Polierter Tuffstein | `polished_tuff` | 15.627 | 8,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 14.406 | 8,0 % |
 | Weißer Beton | `white_concrete` | 13.561 | 7,6 % |
 | Rosa Keramik | `pink_terracotta` | 13.303 | 7,4 % |
-| Endsteinziegel | `end_stone_bricks` | 11.145 | 6,2 % |
-| Tuffstein | `tuff` | 5.510 | 3,1 % |
-| Glatter Stein | `smooth_stone` | 3.940 | 2,2 % |
-| Graues Buntglas | `gray_stained_glass` | 3.116 | 1,7 % |
-| Polierter Andesit | `polished_andesite` | 2.073 | 1,2 % |
+| Glatter Stein | `smooth_stone` | 3.883 | 2,2 % |
+| Graues Buntglas | `gray_stained_glass` | 3.164 | 1,8 % |
 | Gelbe Keramik | `yellow_terracotta` | 1.892 | 1,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.718 | 1,0 % |
-| Grüner Beton | `green_concrete` | 1.157 | 0,6 % |
+| Grüner Beton | `green_concrete` | 1.187 | 0,7 % |
+| Polierter Andesit | `polished_andesite` | 1.107 | 0,6 % |
 | Ziegelsteine | `bricks` | 639 | 0,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 479 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 405 | 0,2 % |
 | Seelaterne | `sea_lantern` | 349 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 347 | 0,2 % |
@@ -46,10 +44,12 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 302 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 222 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 222 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 44 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Tuffstein | `tuff` | 13 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 7 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
@@ -61,7 +61,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 1.298 |
-| Steintreppe | `stone_stairs` | 120 |
+| Steintreppe | `stone_stairs` | 124 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 7 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -70,8 +70,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7116218` | Reihenhaus an Via Ghibellina | 7.270 | 8.1–8.4 |
 | 2 | `r7116218_innen` | Reihenhaus an Via Ghibellina: Innenausbau | 1.373 | 8.5 |
-| 3 | `w204144329` | Casa Buonarroti | 13.263 | 8.6–8.13 |
-| 4 | `w204144329_innen` | Casa Buonarroti: Innenausbau | 2.482 | 8.14–8.15 |
+| 3 | `w204144329` | Casa Buonarroti | 13.336 | 8.6–8.13 |
+| 4 | `w204144329_innen` | Casa Buonarroti: Innenausbau | 2.490 | 8.14–8.15 |
 | 5 | `w483268320` | Reihenhaus an Via dell'Agnolo | 4.574 | 8.16–8.18 |
 | 6 | `w483268320_innen` | Reihenhaus an Via dell'Agnolo: Innenausbau | 904 | 8.19 |
 | 7 | `w483268321` | Reihenhaus an Via Ghibellina | 9.804 | 8.20–8.24 |
@@ -299,7 +299,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.6 – Casa Buonarroti – Teil 1/8 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.784
+- **Blöcke:** 1.810
 - **Bauteile:** `w204144329`
 
 **Teileliste**
@@ -307,14 +307,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.502 |
-| Tuffstein | `tuff` | 227 |
-| Tuffsteinziegel | `tuff_bricks` | 47 |
-| Glatter Stein | `smooth_stone` | 7 |
-| Polierter Andesit | `polished_andesite` | 1 |
+| Endsteinziegel | `end_stone_bricks` | 298 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Glatter Stein | `smooth_stone` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1612 (Michelangelo der Jüngere), 1964 restauriert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -326,27 +326,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.7 – Casa Buonarroti – Teil 2/8 (Y 63–68)
+### Schritt 8.7 – Casa Buonarroti – Teil 2/8 (Y 63–67)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.627
+- **Y-Bereich:** 63 bis 67
+- **Blöcke:** 1.484
 - **Bauteile:** `w204144329`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.124 |
-| Glatter Stein | `smooth_stone` | 227 |
-| Tuffsteinziegel | `tuff_bricks` | 126 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Polierter Andesit | `polished_andesite` | 42 |
+| Endsteinziegel | `end_stone_bricks` | 1.132 |
+| Glatter Stein | `smooth_stone` | 209 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
+| Polierter Andesit | `polished_andesite` | 56 |
+| Grüner Beton | `green_concrete` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1612 (Michelangelo der Jüngere), 1964 restauriert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -358,27 +359,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.8 – Casa Buonarroti – Teil 3/8 (Y 69–73)
+### Schritt 8.8 – Casa Buonarroti – Teil 3/8 (Y 68–73)
 
-- **Y-Bereich:** 69 bis 73
-- **Blöcke:** 1.577
+- **Y-Bereich:** 68 bis 73
+- **Blöcke:** 1.840
 - **Bauteile:** `w204144329`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.026 |
-| Glatter Stein | `smooth_stone` | 308 |
-| Tuffsteinziegel | `tuff_bricks` | 134 |
-| Polierter Andesit | `polished_andesite` | 73 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
+| Endsteinziegel | `end_stone_bricks` | 1.462 |
+| Glatter Stein | `smooth_stone` | 271 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
+| Polierter Andesit | `polished_andesite` | 21 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1612 (Michelangelo der Jüngere), 1964 restauriert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -390,27 +392,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.9 – Casa Buonarroti – Teil 4/8 (Y 74–79)
+### Schritt 8.9 – Casa Buonarroti – Teil 4/8 (Y 74–78)
 
-- **Y-Bereich:** 74 bis 79
-- **Blöcke:** 1.775
+- **Y-Bereich:** 74 bis 78
+- **Blöcke:** 1.491
 - **Bauteile:** `w204144329`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 990 |
-| Glatter Stein | `smooth_stone` | 266 |
-| Polierter Andesit | `polished_andesite` | 206 |
-| Graues Buntglas | `gray_stained_glass` | 195 |
-| Tuffsteinziegel | `tuff_bricks` | 118 |
+| Endsteinziegel | `end_stone_bricks` | 1.031 |
+| Glatter Stein | `smooth_stone` | 263 |
+| Graues Buntglas | `gray_stained_glass` | 172 |
+| Polierter Andesit | `polished_andesite` | 17 |
+| Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1612 (Michelangelo der Jüngere), 1964 restauriert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -422,27 +424,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.10 – Casa Buonarroti – Teil 5/8 (Y 80–84)
+### Schritt 8.10 – Casa Buonarroti – Teil 5/8 (Y 79–84)
 
-- **Y-Bereich:** 80 bis 84
-- **Blöcke:** 1.655
+- **Y-Bereich:** 79 bis 84
+- **Blöcke:** 1.840
 - **Bauteile:** `w204144329`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 920 |
-| Glatter Stein | `smooth_stone` | 414 |
-| Polierter Andesit | `polished_andesite` | 260 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
-| Tuffsteinziegel | `tuff_bricks` | 22 |
+| Endsteinziegel | `end_stone_bricks` | 1.449 |
+| Glatter Stein | `smooth_stone` | 284 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Polierter Andesit | `polished_andesite` | 17 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1612 (Michelangelo der Jüngere), 1964 restauriert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -454,26 +456,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.11 – Casa Buonarroti – Teil 6/8 (Y 85–89)
 
 - **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.542
+- **Blöcke:** 1.568
 - **Bauteile:** `w204144329`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 830 |
-| Glatter Stein | `smooth_stone` | 284 |
-| Polierter Andesit | `polished_andesite` | 272 |
-| Graues Buntglas | `gray_stained_glass` | 156 |
+| Endsteinziegel | `end_stone_bricks` | 1.035 |
+| Glatter Stein | `smooth_stone` | 340 |
+| Graues Buntglas | `gray_stained_glass` | 172 |
+| Polierter Andesit | `polished_andesite` | 13 |
+| Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1612 (Michelangelo der Jüngere), 1964 restauriert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -485,7 +488,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.12 – Casa Buonarroti – Teil 7/8 (Y 90–92)
 
@@ -498,13 +501,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 906 |
-| Glatter Stein | `smooth_stone` | 455 |
-| Tuffstein | `tuff` | 380 |
-| Polierter Andesit | `polished_andesite` | 248 |
+| Endsteinziegel | `end_stone_bricks` | 547 |
+| Glatter Stein | `smooth_stone` | 530 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1612 (Michelangelo der Jüngere), 1964 restauriert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -516,7 +519,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.13 – Casa Buonarroti – Teil 8/8 (Y 93–98)
 
@@ -533,7 +536,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1612 (Michelangelo der Jüngere), 1964 restauriert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -545,7 +548,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.14 – Casa Buonarroti: Innenausbau – Teil 1/2 (Y 61–72)
 
@@ -560,8 +563,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.177 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -585,10 +588,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.15 – Casa Buonarroti: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 8.15 – Casa Buonarroti: Innenausbau – Teil 2/2 (Y 73–84)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.239
+- **Y-Bereich:** 73 bis 84
+- **Blöcke:** 1.247
 - **Bauteile:** `w204144329_innen`
 
 **Teileliste**
@@ -596,10 +599,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.177 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 
@@ -607,7 +610,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 22 |
 
 **Beschreibung**
 
