@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 96.810 |
+| Blöcke | 96.198 |
 | Bauschritte | 71 |
 | Y-Bereich | 67 bis 100 |
 | X-Ausdehnung | 570 bis 825 (256 Blöcke) |
 | Z-Ausdehnung | -771 bis -549 (223 Blöcke) |
 | Kleinster Schritt | 952 Blöcke (Schritt 1.65) |
-| Mittlerer Schritt | 1.364 Blöcke |
-| Größter Schritt | 1.522 Blöcke (Schritt 1.42) |
+| Mittlerer Schritt | 1.355 Blöcke |
+| Größter Schritt | 1.522 Blöcke (Schritt 1.69) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 50.021 | 51,7 % |
-| Orange Keramik | `orange_terracotta` | 32.904 | 34,0 % |
+| Weißer Beton | `white_concrete` | 49.409 | 51,4 % |
+| Orange Keramik | `orange_terracotta` | 32.904 | 34,2 % |
 | Tuffstein | `tuff` | 6.184 | 6,4 % |
 | Glatter Stein | `smooth_stone` | 5.424 | 5,6 % |
 | Gelbes Buntglas | `yellow_stained_glass` | 406 | 0,4 % |
@@ -36,7 +36,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `aussenwand` | Außenwände | 87.527 | 1.1–1.64 |
+| 1 | `aussenwand` | Außenwände | 86.915 | 1.1–1.64 |
 | 2 | `portikus` | Loggia | 952 | 1.65 |
 | 3 | `fenster` | Fenster | 2.277 | 1.66–1.67 |
 | 4 | `kranzgesims` | Kranzgesims | 6.054 | 1.68–1.71 |
@@ -1208,15 +1208,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.41 – Außenwände – Teil 41/64 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.505
+- **Blöcke:** 1.485
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 943 |
-| Orange Keramik | `orange_terracotta` | 562 |
+| Weißer Beton | `white_concrete` | 900 |
+| Orange Keramik | `orange_terracotta` | 585 |
 
 **Beschreibung**
 
@@ -1237,15 +1237,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.42 – Außenwände – Teil 42/64 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.522
+- **Blöcke:** 1.476
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 771 |
-| Weißer Beton | `white_concrete` | 751 |
+| Orange Keramik | `orange_terracotta` | 748 |
+| Weißer Beton | `white_concrete` | 728 |
 
 **Beschreibung**
 
@@ -1266,15 +1266,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.43 – Außenwände – Teil 43/64 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.505
+- **Blöcke:** 1.485
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 943 |
-| Orange Keramik | `orange_terracotta` | 562 |
+| Weißer Beton | `white_concrete` | 900 |
+| Orange Keramik | `orange_terracotta` | 585 |
 
 **Beschreibung**
 
@@ -1295,15 +1295,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.44 – Außenwände – Teil 44/64 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.522
+- **Blöcke:** 1.476
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 771 |
-| Weißer Beton | `white_concrete` | 751 |
+| Orange Keramik | `orange_terracotta` | 748 |
+| Weißer Beton | `white_concrete` | 728 |
 
 **Beschreibung**
 
@@ -1324,15 +1324,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.45 – Außenwände – Teil 45/64 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.505
+- **Blöcke:** 1.481
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 943 |
-| Orange Keramik | `orange_terracotta` | 562 |
+| Weißer Beton | `white_concrete` | 896 |
+| Orange Keramik | `orange_terracotta` | 585 |
 
 **Beschreibung**
 
@@ -1353,15 +1353,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.46 – Außenwände – Teil 46/64 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.522
+- **Blöcke:** 1.476
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 771 |
-| Weißer Beton | `white_concrete` | 751 |
+| Orange Keramik | `orange_terracotta` | 748 |
+| Weißer Beton | `white_concrete` | 728 |
 
 **Beschreibung**
 
@@ -1382,15 +1382,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.47 – Außenwände – Teil 47/64 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.411
+- **Blöcke:** 1.382
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 918 |
-| Tuffstein | `tuff` | 493 |
+| Weißer Beton | `white_concrete` | 871 |
+| Tuffstein | `tuff` | 511 |
 
 **Beschreibung**
 
@@ -1411,15 +1411,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.48 – Außenwände – Teil 48/64 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.424
+- **Blöcke:** 1.383
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 751 |
-| Tuffstein | `tuff` | 673 |
+| Weißer Beton | `white_concrete` | 728 |
+| Tuffstein | `tuff` | 655 |
 
 **Beschreibung**
 
@@ -1440,15 +1440,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.49 – Außenwände – Teil 49/64 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.411
+- **Blöcke:** 1.382
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 918 |
-| Orange Keramik | `orange_terracotta` | 493 |
+| Weißer Beton | `white_concrete` | 871 |
+| Orange Keramik | `orange_terracotta` | 511 |
 
 **Beschreibung**
 
@@ -1469,15 +1469,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.50 – Außenwände – Teil 50/64 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.424
+- **Blöcke:** 1.383
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 751 |
-| Orange Keramik | `orange_terracotta` | 673 |
+| Weißer Beton | `white_concrete` | 728 |
+| Orange Keramik | `orange_terracotta` | 655 |
 
 **Beschreibung**
 
@@ -1498,15 +1498,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.51 – Außenwände – Teil 51/64 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.411
+- **Blöcke:** 1.382
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 918 |
-| Orange Keramik | `orange_terracotta` | 493 |
+| Weißer Beton | `white_concrete` | 871 |
+| Orange Keramik | `orange_terracotta` | 511 |
 
 **Beschreibung**
 
@@ -1527,15 +1527,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.52 – Außenwände – Teil 52/64 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.424
+- **Blöcke:** 1.383
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 751 |
-| Orange Keramik | `orange_terracotta` | 673 |
+| Weißer Beton | `white_concrete` | 728 |
+| Orange Keramik | `orange_terracotta` | 655 |
 
 **Beschreibung**
 
@@ -1556,15 +1556,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.53 – Außenwände – Teil 53/64 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.411
+- **Blöcke:** 1.382
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 918 |
-| Orange Keramik | `orange_terracotta` | 493 |
+| Weißer Beton | `white_concrete` | 871 |
+| Orange Keramik | `orange_terracotta` | 511 |
 
 **Beschreibung**
 
@@ -1585,15 +1585,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.54 – Außenwände – Teil 54/64 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.424
+- **Blöcke:** 1.383
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 751 |
-| Orange Keramik | `orange_terracotta` | 673 |
+| Weißer Beton | `white_concrete` | 728 |
+| Orange Keramik | `orange_terracotta` | 655 |
 
 **Beschreibung**
 
@@ -1614,15 +1614,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.55 – Außenwände – Teil 55/64 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.411
+- **Blöcke:** 1.382
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 918 |
-| Orange Keramik | `orange_terracotta` | 493 |
+| Weißer Beton | `white_concrete` | 871 |
+| Orange Keramik | `orange_terracotta` | 511 |
 
 **Beschreibung**
 
@@ -1643,15 +1643,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.56 – Außenwände – Teil 56/64 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.424
+- **Blöcke:** 1.383
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 751 |
-| Orange Keramik | `orange_terracotta` | 673 |
+| Weißer Beton | `white_concrete` | 728 |
+| Orange Keramik | `orange_terracotta` | 655 |
 
 **Beschreibung**
 
@@ -1672,15 +1672,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.57 – Außenwände – Teil 57/64 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.411
+- **Blöcke:** 1.419
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 918 |
-| Orange Keramik | `orange_terracotta` | 493 |
+| Weißer Beton | `white_concrete` | 916 |
+| Orange Keramik | `orange_terracotta` | 503 |
 
 **Beschreibung**
 
@@ -1701,15 +1701,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.58 – Außenwände – Teil 58/64 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.424
+- **Blöcke:** 1.401
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 751 |
-| Orange Keramik | `orange_terracotta` | 673 |
+| Weißer Beton | `white_concrete` | 738 |
+| Orange Keramik | `orange_terracotta` | 663 |
 
 **Beschreibung**
 
@@ -1730,14 +1730,14 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.59 – Außenwände – Teil 59/64 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.453
+- **Blöcke:** 1.438
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 936 |
+| Weißer Beton | `white_concrete` | 921 |
 | Tuffstein | `tuff` | 517 |
 
 **Beschreibung**
@@ -1788,15 +1788,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.61 – Außenwände – Teil 61/64 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.505
+- **Blöcke:** 1.514
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 943 |
-| Orange Keramik | `orange_terracotta` | 562 |
+| Weißer Beton | `white_concrete` | 941 |
+| Orange Keramik | `orange_terracotta` | 573 |
 
 **Beschreibung**
 
@@ -1817,15 +1817,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.62 – Außenwände – Teil 62/64 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.522
+- **Blöcke:** 1.498
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 771 |
-| Weißer Beton | `white_concrete` | 751 |
+| Orange Keramik | `orange_terracotta` | 760 |
+| Weißer Beton | `white_concrete` | 738 |
 
 **Beschreibung**
 
@@ -1846,15 +1846,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.63 – Außenwände – Teil 63/64 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
-- **Blöcke:** 1.505
+- **Blöcke:** 1.514
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 943 |
-| Orange Keramik | `orange_terracotta` | 562 |
+| Weißer Beton | `white_concrete` | 941 |
+| Orange Keramik | `orange_terracotta` | 573 |
 
 **Beschreibung**
 
@@ -1875,15 +1875,15 @@ Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissa
 ### Schritt 1.64 – Außenwände – Teil 64/64 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
-- **Blöcke:** 1.522
+- **Blöcke:** 1.498
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 771 |
-| Weißer Beton | `white_concrete` | 751 |
+| Orange Keramik | `orange_terracotta` | 760 |
+| Weißer Beton | `white_concrete` | 738 |
 
 **Beschreibung**
 

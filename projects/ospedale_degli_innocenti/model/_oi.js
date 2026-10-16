@@ -6,6 +6,7 @@
 const path = require('node:path');
 const WZ = require('../../../tools/wahrzeichen');
 const { palazzo } = require('../../../tools/wahrzeichen/palazzo.js');
+const RAUM = require('./_raeume.js');
 
 const JOCH = 14, BOEGEN = 9, W0 = 7;                          // neun Bögen zwischen w 7 und 133
 const PUTZ = WZ.typ('putz_weiss'), SERENA = WZ.typ('pietra_serena'), BRUCH = WZ.typ('pietra_forte_bruch'), TERRA = WZ.typ('putz_terrakotta');
@@ -20,6 +21,7 @@ const PZ = palazzo({
   hofMaterial: (s) => (s === 0 ? SERENA : PUTZ),
   portale: [],
   treppe: { u: 25, w: 80 },
+  raeume: { waende: RAUM.WAENDE, ausstatten: RAUM.ausstatten },
   extra: {
     // Tondi mit Wickelkindern (Andrea della Robbia, 1487) zwischen den Bögen: blau-weiße Scheiben über den Säulen
     nachher(api) {

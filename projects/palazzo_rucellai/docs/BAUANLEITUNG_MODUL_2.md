@@ -8,51 +8,52 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.321 |
-| Bauschritte | 8 |
+| Blöcke | 14.545 |
+| Bauschritte | 10 |
 | Y-Bereich | 61 bis 112 |
-| X-Ausdehnung | -1212 bis -1185 (28 Blöcke) |
-| Z-Ausdehnung | 385 bis 418 (34 Blöcke) |
-| Kleinster Schritt | 591 Blöcke (Schritt 2.6) |
-| Mittlerer Schritt | 1.290 Blöcke |
-| Größter Schritt | 1.625 Blöcke (Schritt 2.5) |
+| X-Ausdehnung | -1212 bis -1160 (53 Blöcke) |
+| Z-Ausdehnung | 385 bis 450 (66 Blöcke) |
+| Kleinster Schritt | 1.033 Blöcke (Schritt 2.1) |
+| Mittlerer Schritt | 1.455 Blöcke |
+| Größter Schritt | 2.056 Blöcke (Schritt 2.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 8.209 | 79,5 % |
-| Glatter Stein | `smooth_stone` | 1.708 | 16,5 % |
-| Rotes Buntglas | `red_stained_glass` | 79 | 0,8 % |
-| Hellblaues Buntglas | `light_blue_stained_glass` | 76 | 0,7 % |
-| Blaues Buntglas | `blue_stained_glass` | 64 | 0,6 % |
-| Weißes Buntglas | `white_stained_glass` | 63 | 0,6 % |
-| Oranges Buntglas | `orange_stained_glass` | 62 | 0,6 % |
-| Gelbes Buntglas | `yellow_stained_glass` | 60 | 0,6 % |
+| Weißer Beton | `white_concrete` | 12.253 | 84,2 % |
+| Glatter Stein | `smooth_stone` | 1.337 | 9,2 % |
+| Rotes Buntglas | `red_stained_glass` | 185 | 1,3 % |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 182 | 1,3 % |
+| Weißes Buntglas | `white_stained_glass` | 149 | 1,0 % |
+| Blaues Buntglas | `blue_stained_glass` | 147 | 1,0 % |
+| Oranges Buntglas | `orange_stained_glass` | 146 | 1,0 % |
+| Gelbes Buntglas | `yellow_stained_glass` | 146 | 1,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `hofarkaden` | Hofarkaden | 2.815 | 2.1–2.2 |
-| 2 | `hofwaende` | Hofwände | 4.785 | 2.3–2.5 |
-| 3 | `hoffenster` | Hoffenster | 591 | 2.6 |
-| 4 | `innenwaende` | Innenwände | 2.130 | 2.7–2.8 |
+| 1 | `hofarkaden` | Hofarkaden | 2.209 | 2.1–2.2 |
+| 2 | `hofwaende` | Hofwände | 4.047 | 2.3–2.4 |
+| 3 | `hoffenster` | Hoffenster | 1.329 | 2.5 |
+| 4 | `innenwaende` | Innenwände | 2.130 | 2.6–2.7 |
+| 5 | `trennwaende` | Trennwände | 4.830 | 2.8–2.10 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Hofarkaden – Teil 1/2 (Y 61–72)
+### Schritt 2.1 – Hofarkaden – Teil 1/2 (Y 61–73)
 
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.471
+- **Y-Bereich:** 61 bis 73
+- **Blöcke:** 1.033
 - **Bauteile:** `hofarkaden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.017 |
-| Weißer Beton | `white_concrete` | 454 |
+| Weißer Beton | `white_concrete` | 574 |
+| Glatter Stein | `smooth_stone` | 459 |
 
 **Beschreibung**
 
@@ -70,17 +71,17 @@ Die Bögen bleiben offen.
 
 Gegenüber steht die Loggia Rucellai, ebenfalls nach Alberti.
 
-### Schritt 2.2 – Hofarkaden – Teil 2/2 (Y 73–80)
+### Schritt 2.2 – Hofarkaden – Teil 2/2 (Y 74–80)
 
-- **Y-Bereich:** 73 bis 80
-- **Blöcke:** 1.344
+- **Y-Bereich:** 74 bis 80
+- **Blöcke:** 1.176
 - **Bauteile:** `hofarkaden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.176 |
+| Weißer Beton | `white_concrete` | 1.008 |
 | Glatter Stein | `smooth_stone` | 168 |
 
 **Beschreibung**
@@ -99,17 +100,17 @@ Die Bögen bleiben offen.
 
 Gegenüber steht die Loggia Rucellai, ebenfalls nach Alberti.
 
-### Schritt 2.3 – Hofwände – Teil 1/3 (Y 81–91)
+### Schritt 2.3 – Hofwände – Teil 1/2 (Y 81–96)
 
-- **Y-Bereich:** 81 bis 91
-- **Blöcke:** 1.587
+- **Y-Bereich:** 81 bis 96
+- **Blöcke:** 1.991
 - **Bauteile:** `hofwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.587 |
+| Weißer Beton | `white_concrete` | 1.991 |
 
 **Beschreibung**
 
@@ -127,18 +128,18 @@ Fenster frei lassen.
 
 Die Fassade war ursprünglich auf fünf Achsen angelegt und wurde später erweitert.
 
-### Schritt 2.4 – Hofwände – Teil 2/3 (Y 92–101)
+### Schritt 2.4 – Hofwände – Teil 2/2 (Y 97–112)
 
-- **Y-Bereich:** 92 bis 101
-- **Blöcke:** 1.573
+- **Y-Bereich:** 97 bis 112
+- **Blöcke:** 2.056
 - **Bauteile:** `hofwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.405 |
-| Glatter Stein | `smooth_stone` | 168 |
+| Weißer Beton | `white_concrete` | 1.720 |
+| Glatter Stein | `smooth_stone` | 336 |
 
 **Beschreibung**
 
@@ -156,52 +157,23 @@ Fenster frei lassen.
 
 Die Fassade war ursprünglich auf fünf Achsen angelegt und wurde später erweitert.
 
-### Schritt 2.5 – Hofwände – Teil 3/3 (Y 102–112)
-
-- **Y-Bereich:** 102 bis 112
-- **Blöcke:** 1.625
-- **Bauteile:** `hofwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.457 |
-| Glatter Stein | `smooth_stone` | 168 |
-
-**Beschreibung**
-
-Über den Arkaden steigen die Hofwände bis Y 112, weiß verputzt, mit Gesimsen auf Höhe der Geschossböden.
-
-**Tipp**
-
-Gesimse aus Pietra serena.
-
-**Achtung**
-
-Fenster frei lassen.
-
-**Fakt**
-
-Die Fassade war ursprünglich auf fünf Achsen angelegt und wurde später erweitert.
-
-### Schritt 2.6 – Hoffenster
+### Schritt 2.5 – Hoffenster
 
 - **Y-Bereich:** 83 bis 109
-- **Blöcke:** 591
+- **Blöcke:** 1.329
 - **Bauteile:** `hoffenster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 187 |
-| Rotes Buntglas | `red_stained_glass` | 79 |
-| Hellblaues Buntglas | `light_blue_stained_glass` | 76 |
-| Blaues Buntglas | `blue_stained_glass` | 64 |
-| Weißes Buntglas | `white_stained_glass` | 63 |
-| Oranges Buntglas | `orange_stained_glass` | 62 |
-| Gelbes Buntglas | `yellow_stained_glass` | 60 |
+| Glatter Stein | `smooth_stone` | 374 |
+| Rotes Buntglas | `red_stained_glass` | 185 |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 182 |
+| Weißes Buntglas | `white_stained_glass` | 149 |
+| Blaues Buntglas | `blue_stained_glass` | 147 |
+| Oranges Buntglas | `orange_stained_glass` | 146 |
+| Gelbes Buntglas | `yellow_stained_glass` | 146 |
 
 **Beschreibung**
 
@@ -219,7 +191,7 @@ Glas in die ganze Wandtiefe.
 
 Hinter der prachtvollen Fassade liegt ein bescheidener Hof.
 
-### Schritt 2.7 – Innenwände – Teil 1/2 (Y 61–70)
+### Schritt 2.6 – Innenwände – Teil 1/2 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.050
@@ -247,7 +219,7 @@ Türen frei lassen.
 
 Die Sitzbank am Sockel lud Besucher und Passanten ein.
 
-### Schritt 2.8 – Innenwände – Teil 2/2 (Y 71–79)
+### Schritt 2.7 – Innenwände – Teil 2/2 (Y 71–79)
 
 - **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.080
@@ -274,3 +246,87 @@ Türen frei lassen.
 **Fakt**
 
 Die Sitzbank am Sockel lud Besucher und Passanten ein.
+
+### Schritt 2.8 – Trennwände – Teil 1/3 (Y 61–67)
+
+- **Y-Bereich:** 61 bis 67
+- **Blöcke:** 1.590
+- **Bauteile:** `trennwaende`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.590 |
+
+**Beschreibung**
+
+Trennwände teilen den Saalring im Erdgeschoss in einzelne Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Türen beim Bauen frei lassen.
+
+**Achtung**
+
+Die Wände stehen auf dem Boden des Erdgeschosses.
+
+**Fakt**
+
+Raumfolgen (Enfiladen) verbinden die Säle der Palazzi untereinander.
+
+### Schritt 2.9 – Trennwände – Teil 2/3 (Y 68–73)
+
+- **Y-Bereich:** 68 bis 73
+- **Blöcke:** 1.620
+- **Bauteile:** `trennwaende`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.620 |
+
+**Beschreibung**
+
+Trennwände teilen den Saalring im Erdgeschoss in einzelne Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Türen beim Bauen frei lassen.
+
+**Achtung**
+
+Die Wände stehen auf dem Boden des Erdgeschosses.
+
+**Fakt**
+
+Raumfolgen (Enfiladen) verbinden die Säle der Palazzi untereinander.
+
+### Schritt 2.10 – Trennwände – Teil 3/3 (Y 74–79)
+
+- **Y-Bereich:** 74 bis 79
+- **Blöcke:** 1.620
+- **Bauteile:** `trennwaende`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.620 |
+
+**Beschreibung**
+
+Trennwände teilen den Saalring im Erdgeschoss in einzelne Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Türen beim Bauen frei lassen.
+
+**Achtung**
+
+Die Wände stehen auf dem Boden des Erdgeschosses.
+
+**Fakt**
+
+Raumfolgen (Enfiladen) verbinden die Säle der Palazzi untereinander.

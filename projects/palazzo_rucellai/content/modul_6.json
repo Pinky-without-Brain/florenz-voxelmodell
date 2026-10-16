@@ -1,0 +1,43 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Innenräume",
+  "subtitle": "Bautüte 6: Saalfolge im Piano nobile und Hof",
+  "icon": "🏛️",
+  "parts": {
+    "sala_prima": {
+      "title": "Erster Saal",
+      "description": "Saal im Piano nobile an der Fassade: Boden im Schachmuster aus Terrakotta und Marmor, Wandfelder in Gelb und Weiß mit Pilastern und Holzsockel, Kassettendecke aus dunkler Eiche und Gold, Kamin an der Hinterwand, Tisch und Bänke.",
+      "tip": "Boden, Wandfelder, Decke, dann Kamin und Möbel.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Schlicht, Stufe C.",
+      "fact": "Der Palast entstand um 1446 bis 1451 nach Plänen Leon Battista Albertis (Quelle: it.wikipedia, Palazzo Rucellai)."
+    },
+    "sala_seconda": {
+      "title": "Zweiter Saal",
+      "description": "Saal im Piano nobile an der Fassade: Boden im Schachmuster aus Terrakotta und Marmor, Wandfelder in Hellblau und Weiß mit Pilastern und Holzsockel, Kassettendecke aus dunkler Eiche und Gold, Kamin an der Hinterwand, Tisch und Bänke.",
+      "tip": "Die Tür zum Nachbarsaal bleibt frei.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Bernardo Rossellino führte den Bau aus (Quelle: it.wikipedia, Palazzo Rucellai)."
+    },
+    "sala_terza": {
+      "title": "Dritter Saal",
+      "description": "Saal im Piano nobile an der Fassade: Boden im Schachmuster aus Terrakotta und Marmor, Wandfelder in Grün und Weiß mit Pilastern und Holzsockel, Kassettendecke aus dunkler Eiche und Gold, Kamin an der Hinterwand, Tisch und Bänke.",
+      "tip": "Alle drei Säle liegen hintereinander an der Fassade.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Fassade zeigt dorisch, ionisch und korinthisch übereinander (Quelle: it.wikipedia, Palazzo Rucellai)."
+    },
+    "hof_rucellai": {
+      "title": "Hof",
+      "description": "Hofpflaster im Schachmuster, ein Brunnenbecken mit Mittelsäule und vier Kübel mit Bäumchen an den Ecken.",
+      "tip": "Erst das Pflaster, dann Brunnen und Kübel.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Form und Lage des Brunnens sind Stufe C.",
+      "fact": "Der Hof des Palazzo Rucellai ist von Arkaden umgeben (Quelle: it.wikipedia, Palazzo Rucellai)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

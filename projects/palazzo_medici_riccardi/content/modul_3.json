@@ -24,6 +24,13 @@
       "tip": "Erst den Boden, dann die Wand darauf.",
       "caution": "Türen frei lassen.",
       "fact": "Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse."
+    },
+    "trennwaende_og": {
+      "title": "Trennwände der Obergeschosse",
+      "description": "Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Erst den Boden, dann die Wand darauf.",
+      "caution": "Türen frei lassen.",
+      "fact": "Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße."
     }
   }
 }

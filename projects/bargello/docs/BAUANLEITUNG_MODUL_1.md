@@ -8,35 +8,35 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.395 |
+| Blöcke | 44.860 |
 | Bauschritte | 28 |
 | Y-Bereich | 65 bis 118 |
 | X-Ausdehnung | 154 bis 290 (137 Blöcke) |
 | Z-Ausdehnung | 560 bis 643 (84 Blöcke) |
-| Kleinster Schritt | 1.584 Blöcke (Schritt 1.7) |
-| Mittlerer Schritt | 1.657 Blöcke |
+| Kleinster Schritt | 1.414 Blöcke (Schritt 1.14) |
+| Mittlerer Schritt | 1.602 Blöcke |
 | Größter Schritt | 1.728 Blöcke (Schritt 1.9) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 22.901 | 49,4 % |
-| Tuffstein | `tuff` | 15.228 | 32,8 % |
-| Polierter Andesit | `polished_andesite` | 4.790 | 10,3 % |
-| Glatter Stein | `smooth_stone` | 1.928 | 4,2 % |
+| Weißer Beton | `white_concrete` | 21.394 | 47,7 % |
+| Tuffstein | `tuff` | 15.210 | 33,9 % |
+| Polierter Andesit | `polished_andesite` | 4.780 | 10,7 % |
+| Glatter Stein | `smooth_stone` | 1.928 | 4,3 % |
 | Weißes Buntglas | `white_stained_glass` | 280 | 0,6 % |
 | Gelbes Buntglas | `yellow_stained_glass` | 269 | 0,6 % |
 | Rotes Buntglas | `red_stained_glass` | 260 | 0,6 % |
-| Oranges Buntglas | `orange_stained_glass` | 250 | 0,5 % |
-| Hellblaues Buntglas | `light_blue_stained_glass` | 247 | 0,5 % |
+| Oranges Buntglas | `orange_stained_glass` | 250 | 0,6 % |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 247 | 0,6 % |
 | Blaues Buntglas | `blue_stained_glass` | 242 | 0,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `aussenwand` | Außenwände | 42.939 | 1.1–1.26 |
+| 1 | `aussenwand` | Außenwände | 41.404 | 1.1–1.26 |
 | 2 | `fenster` | Fenster | 1.728 | 1.27 |
 | 3 | `kranzgesims` | Kranzgesims | 1.728 | 1.28 |
 
@@ -45,15 +45,15 @@
 ### Schritt 1.1 – Außenwände – Teil 1/26 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.676
+- **Blöcke:** 1.582
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 854 |
-| Weißer Beton | `white_concrete` | 822 |
+| Tuffstein | `tuff` | 850 |
+| Weißer Beton | `white_concrete` | 732 |
 
 **Beschreibung**
 
@@ -74,16 +74,16 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.2 – Außenwände – Teil 2/26 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.676
+- **Blöcke:** 1.582
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 822 |
-| Polierter Andesit | `polished_andesite` | 427 |
-| Tuffstein | `tuff` | 427 |
+| Weißer Beton | `white_concrete` | 732 |
+| Polierter Andesit | `polished_andesite` | 425 |
+| Tuffstein | `tuff` | 425 |
 
 **Beschreibung**
 
@@ -104,15 +104,15 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.3 – Außenwände – Teil 3/26 (Y 69–70)
 
 - **Y-Bereich:** 69 bis 70
-- **Blöcke:** 1.676
+- **Blöcke:** 1.582
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 854 |
-| Weißer Beton | `white_concrete` | 822 |
+| Tuffstein | `tuff` | 850 |
+| Weißer Beton | `white_concrete` | 732 |
 
 **Beschreibung**
 
@@ -133,16 +133,16 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.4 – Außenwände – Teil 4/26 (Y 71–72)
 
 - **Y-Bereich:** 71 bis 72
-- **Blöcke:** 1.676
+- **Blöcke:** 1.582
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 822 |
-| Polierter Andesit | `polished_andesite` | 427 |
-| Tuffstein | `tuff` | 427 |
+| Weißer Beton | `white_concrete` | 732 |
+| Polierter Andesit | `polished_andesite` | 425 |
+| Tuffstein | `tuff` | 425 |
 
 **Beschreibung**
 
@@ -163,15 +163,15 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.5 – Außenwände – Teil 5/26 (Y 73–74)
 
 - **Y-Bereich:** 73 bis 74
-- **Blöcke:** 1.690
+- **Blöcke:** 1.596
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 858 |
-| Weißer Beton | `white_concrete` | 832 |
+| Tuffstein | `tuff` | 854 |
+| Weißer Beton | `white_concrete` | 742 |
 
 **Beschreibung**
 
@@ -192,16 +192,16 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.6 – Außenwände – Teil 6/26 (Y 75–76)
 
 - **Y-Bereich:** 75 bis 76
-- **Blöcke:** 1.641
+- **Blöcke:** 1.538
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 847 |
-| Tuffstein | `tuff` | 431 |
-| Polierter Andesit | `polished_andesite` | 363 |
+| Weißer Beton | `white_concrete` | 752 |
+| Tuffstein | `tuff` | 429 |
+| Polierter Andesit | `polished_andesite` | 357 |
 
 **Beschreibung**
 
@@ -340,7 +340,7 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.11 – Außenwände – Teil 11/26 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.728
+- **Blöcke:** 1.558
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
@@ -348,7 +348,7 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 874 |
-| Weißer Beton | `white_concrete` | 854 |
+| Weißer Beton | `white_concrete` | 684 |
 
 **Beschreibung**
 
@@ -369,14 +369,14 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.12 – Außenwände – Teil 12/26 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.728
+- **Blöcke:** 1.558
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 854 |
+| Weißer Beton | `white_concrete` | 684 |
 | Polierter Andesit | `polished_andesite` | 437 |
 | Tuffstein | `tuff` | 437 |
 
@@ -399,15 +399,15 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.13 – Außenwände – Teil 13/26 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.656
+- **Blöcke:** 1.486
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 854 |
 | Tuffstein | `tuff` | 802 |
+| Weißer Beton | `white_concrete` | 684 |
 
 **Beschreibung**
 
@@ -428,14 +428,14 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.14 – Außenwände – Teil 14/26 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.584
+- **Blöcke:** 1.414
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 854 |
+| Weißer Beton | `white_concrete` | 684 |
 | Polierter Andesit | `polished_andesite` | 365 |
 | Tuffstein | `tuff` | 365 |
 
@@ -458,15 +458,15 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.15 – Außenwände – Teil 15/26 (Y 93–94)
 
 - **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.584
+- **Blöcke:** 1.414
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 854 |
 | Tuffstein | `tuff` | 730 |
+| Weißer Beton | `white_concrete` | 684 |
 
 **Beschreibung**
 
@@ -487,14 +487,14 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.16 – Außenwände – Teil 16/26 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
-- **Blöcke:** 1.584
+- **Blöcke:** 1.528
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 854 |
+| Weißer Beton | `white_concrete` | 798 |
 | Polierter Andesit | `polished_andesite` | 365 |
 | Tuffstein | `tuff` | 365 |
 
@@ -517,14 +517,14 @@ Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Sta
 ### Schritt 1.17 – Außenwände – Teil 17/26 (Y 97–98)
 
 - **Y-Bereich:** 97 bis 98
-- **Blöcke:** 1.584
+- **Blöcke:** 1.528
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 854 |
+| Weißer Beton | `white_concrete` | 798 |
 | Tuffstein | `tuff` | 730 |
 
 **Beschreibung**
