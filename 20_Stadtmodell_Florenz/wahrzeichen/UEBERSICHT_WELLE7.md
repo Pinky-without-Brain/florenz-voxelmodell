@@ -43,8 +43,42 @@ Die Pakete W7a–c und R1a/b berühren **disjunkte Quartiere**; R1 fasst die Qua
 ## 4. Integration
 `worktree-agent-*` nach `claude/welle7` mergen (Konflikte: `vorrang.json`, `BEGEHBARKEIT.md`, `wahrzeichen.test.js`; `quartier_strozzi` wird von W7a und W7c angefasst → nach dem Merge neu bauen) → `besitz.js` für neue Projekte und alle geänderten Quartiere (auch R1-Quartiere, falls sich Unterkanten ändern) → Stadtgrund → `webindex.js` → `--cross` → Tests → Export → Statistik → Abschnitte 5–7 hier, Übergabe → PR (Merge nur mit Freigabe des Nutzers).
 
-## 5. Wahrzeichen (gemessen) – nach der Integration
+## 5. Wahrzeichen (gemessen, Integration 16./17.10.2026)
 
-## 6. Hausakten-Recherche (gemessen) – nach der Integration
+Alle elf Projekte stehen auf `"begehbarkeit": "pflicht"`: R13 0 nicht erreichbare Komponenten, R14 0 Lücken; der nicht erreichbare Rest sind deklarierte Dachräume.
 
-## 7. Offene Punkte – nach der Integration
+| Projekt | Paket | `bodenY` | Zellen | Blöcke | Module | R13 erreichbar | Tests |
+|---|---|---:|---:|---:|---:|---:|---:|
+| `palazzo_gondi` | W7a | 63 | 3.997 | 43.278 | 7 | 84,6 % | 7 |
+| `palazzo_spini_feroni` | W7a | 61 | 4.390 | 62.154 | 7 | 89,8 % | 6 |
+| `palazzo_bartolini_salimbeni` | W7a | 62 | 2.673 | 37.069 | 7 | 87,9 % | 6 |
+| `palazzo_antinori` | W7a | 63 | 6.489 | 69.492 | 7 | 86,3 % | 6 |
+| `loggia_dei_servi` | W7b | 69 | 6.435 | 74.956 | 7 | 84,3 % | 7 |
+| `palazzo_nonfinito` | W7b | 66 | 9.243 | 82.024 | 7 | 76,5 % | 7 |
+| `sant_apollonia` | W7b | 66 | 17.115 + 3.515 (Mensa w1239428647, Teil der Hauptmaske) | 188.410 | 7 | 77,5 % | 7 |
+| `santa_margherita_cerchi` | W7c | 66 | 451 | 4.602 | 6 | 100 % | 4 |
+| `palazzo_arte_della_lana` | W7c | 66 | 2.000 | 32.269 | 7 | 100 % | 4 |
+| `museo_opera_duomo` | W7c | 65 | 14.051 | 140.223 | 7 | 77,5 % | 5 |
+| `cappella_pazzi` (Erweiterung Primo Chiostro) | W7c | 61 | + 6.569 (Maske `primo_chiostro`, drei Rechtecke) | 231.846 (+ 12.174) | 13 (+ 3) | 80,6 % | 9 (+ 3) |
+
+Summe der zehn neuen Projekte: **734.477 Blöcke**, mit dem Primo Chiostro 746.651 neue Blöcke. Aus den Quartieren gelöst (14 Hausakten): `quartier_signoria`, `quartier_tornabuoni` (2), `quartier_strozzi` (2, von W7a und W7c; nach dem Merge erneut gebaut), `quartier_san_marco` (3), `quartier_pergola`, `quartier_proconsolo`, `domplatz_ring`. `vorrang.json`: 71 IDs.
+
+Werkzeuge: `tools/wahrzeichen/palazzo.js` – `portikus.entlang` steuert jetzt auch die Achse der Bogenreihe (W7b, abwärtskompatibel; Bargello und Innocenti unverändert gebaut); neue Content-Erzeuger `tools/diag/w7a_inhalt.js`, `w7b_inhalt.js`. Erfahrungen: `BEGEHBARKEIT.md` §21–§23 und §19 (Primo Chiostro). Lehre W7c: Wandfelder, die in einem späteren Modul Zellen einer Trennwand ersetzen, lassen Restzellen ohne Halt (R3); Wandzellen bleiben im Bauteil ihrer Wand (`kitApi.ersetze`).
+
+Abweichungen vom Plan (§1): Die Mensa w1239428647 ist nicht das Refektorium (das Cenacolo liegt am Museumseingang Via XXVII Aprile), sie gehört als zweite ID zur Hauptmaske. Der Palazzo dell'Arte della Lana gehörte den Compiobbesi (nicht Compagnoni); Orsanmichele hat am Brückenende keine Öffnung, daher endet die Brücke am Palazzo mit einer blinden Tür. Das Museo dell'Opera hat keine klassizistische Fassade (nicht belegt) und keinen Hof. Primo Chiostro: Zugang über die Konventportale, das Piazza-Tor liegt in w307539769.
+
+## 6. Hausakten-Recherche R1 (gemessen)
+
+| Paket | Quartiere | recherchierte Akten | Beispiele |
+|---|---|---:|---|
+| R1a Osten und Norden | santa_croce 18, tintori 12, colonna 9, san_lorenzo 8, brunelleschi 6, borgo_albizi 5, lungarni 4, sant_ambrogio 4, ghibellina 3, conce 2 | **71** | Palazzo Salviati-Quaratesi (Rustika, Filaretto, Altana), Palazzo Bardi-Tempi (Kniefenster, Konsolgesims), Palazzo Ginori (1516–20, Altana mit Loggetta) |
+| R1b Oltrarno und Westen | maggio 19, san_niccolo 9, ognissanti 8, costa_san_giorgio 6, santo_spirito 3, carmine 3, campuccio 3, guicciardini 3, prato 2, palazzuolo 2 (san_frediano 0) | **58** | Palazzo di Bianca Cappello (Graffito-Fassade, Kniefenster), Palazzo Serristori (sieben Kniefenster, roter Putz), Palazzo Capponi alle Rovinate (Bossenwerk, Monoforen) |
+
+Zusammen **129 neue recherchierte Akten**, insgesamt jetzt **146** (`quelle: recherche:<it.wikipedia>`, Sicherheit 0,6–0,8, `notiz` mit Belegtem und Annahmen). Quellenlisten je Quartier: `projects/<quartier>/docs/QUELLEN_HAUSAKTEN.md`. Alle 20 Quartiere neu gebaut, R11 0 Fehler, R13 0 nicht erreichbare Komponenten. Grenzen des Schemas: höchstens 15 Achsen (Palazzo della Crocetta hat 24), kein Kuppeldach und keine gestreifte Steinfassade (Tempio Maggiore), `extras` werden nur gespeichert, nicht gebaut. Nebenbei entfernt: verwaiste Akte w482302683 (Santo-Spirito-Campanile) in `quartier_maggio`.
+
+## 7. Offene Punkte
+- **Stufe C bei Höhen und Raumlagen**; Jochzahl der Loggia dei Servi (neun) und die Lage der Kirche von Sant'Apollonia sind Schätzungen.
+- **Nicht gebaut (belegt, aber ohne Lage oder außerhalb des Umrisses):** Garten des Palazzo Antinori, Durchgang zum Arno am Spini Feroni, Loggien in den Obergeschossen (Spini Feroni, Bartolini Salimbeni, Antinori), Poggi-Fassade des Gondi, dreiläufige Treppe und Serlianen des Nonfinito, Nonnenchor von Sant'Apollonia, Loggetta und Scalone der Arte della Lana, 12 der 28 Säle des Museo dell'Opera, Portinari-Grabmal in Santa Margherita.
+- **Hausakten:** 318 benannte Akten bleiben typologisch (ohne brauchbare Quelle oder noch nicht bearbeitet, darunter alle sechs in `quartier_san_frediano`); die Quartiere der Wellen 6/7 (`tornabuoni`, `strozzi`, `signoria`, `san_marco`, `pergola`, `domplatz_ring`, `proconsolo`) waren für R1 gesperrt.
+- **Kandidaten für Welle 8** (aus R1a/R1b): Palazzo della Crocetta (24 Achsen, 18.173 Zellen), Teatro Verdi, Palazzo Pucci, Palazzo della Gherardesca, Tempio Maggiore (Kuppel), Biblioteca Nazionale, Stazione Leopolda, Santa Maria Maddalena dei Pazzi, Palazzo della Borsa, Loggia del Grano, Torre degli Alberti, Palazzo Corsini al Parione, Palazzo Guadagni, Palazzo dei Mozzi, Palazzo Torrigiani Del Nero, Palazzo Capponi alle Rovinate, Palazzo Lenzi, Palazzo Venturi Ginori, Forte di Belvedere (61.186 Zellen).
+- Integration: Besitzraster 38 Projekte, Stadtgrund neu, `--cross` __CROSS__, Tests __TESTS__, Export __EXPORT__.

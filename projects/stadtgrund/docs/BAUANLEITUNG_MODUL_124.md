@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 37.911 |
+| Blöcke | 37.889 |
 | Bauschritte | 24 |
 | Y-Bereich | 54 bis 67 |
 | X-Ausdehnung | -1824 bis -1505 (320 Blöcke) |
 | Z-Ausdehnung | 1072 bis 1391 (320 Blöcke) |
 | Kleinster Schritt | 334 Blöcke (Schritt 124.24) |
-| Mittlerer Schritt | 1.580 Blöcke |
+| Mittlerer Schritt | 1.579 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 124.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 18.635 | 49,2 % |
+| Polierter Tuffstein | `polished_tuff` | 18.622 | 49,1 % |
 | Stein | `stone` | 8.654 | 22,8 % |
 | Grasblock | `grass_block` | 6.524 | 17,2 % |
-| Glatter Stein | `smooth_stone` | 3.818 | 10,1 % |
+| Glatter Stein | `smooth_stone` | 3.809 | 10,1 % |
 | Steinziegel | `stone_bricks` | 216 | 0,6 % |
 | Kies | `gravel` | 64 | 0,2 % |
 
@@ -33,9 +33,9 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 8.654 | 124.1–124.5 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 8.449 | 124.6–124.11 |
-| 3 | `gehwege` | Gehwege | 3.764 | 124.12–124.13 |
-| 4 | `hof_pflaster` | Höfe | 10.186 | 124.14–124.19 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 8.447 | 124.6–124.11 |
+| 3 | `gehwege` | Gehwege | 3.755 | 124.12–124.13 |
+| 4 | `hof_pflaster` | Höfe | 10.175 | 124.14–124.19 |
 | 5 | `rasen` | Grün und offenes Gelände | 6.524 | 124.20–124.23 |
 | 6 | `gruen_wege` | Wege im Grün | 64 | 124.24 |
 | 7 | `mauern_garten` | Gartenmauern | 270 | 124.24 |
@@ -45,14 +45,14 @@
 ### Schritt 124.1 – Böschung und Mantel – Teil 1/5 (Y 54–57)
 
 - **Y-Bereich:** 54 bis 57
-- **Blöcke:** 1.507
+- **Blöcke:** 1.505
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.507 |
+| Stein | `stone` | 1.505 |
 
 **Beschreibung**
 
@@ -73,14 +73,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 124.2 – Böschung und Mantel – Teil 2/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.650
+- **Blöcke:** 1.638
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.650 |
+| Stein | `stone` | 1.638 |
 
 **Beschreibung**
 
@@ -129,14 +129,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 124.4 – Böschung und Mantel – Teil 4/5 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.751
+- **Blöcke:** 1.765
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.751 |
+| Stein | `stone` | 1.765 |
 
 **Beschreibung**
 
@@ -185,14 +185,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 124.6 – Straßenpflaster – Teil 1/6 (Y 56–58)
 
 - **Y-Bereich:** 56 bis 58
-- **Blöcke:** 1.709
+- **Blöcke:** 1.681
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.709 |
+| Polierter Tuffstein | `polished_tuff` | 1.681 |
 
 **Beschreibung**
 
@@ -213,14 +213,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 124.7 – Straßenpflaster – Teil 2/6 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.604
+- **Blöcke:** 1.630
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.604 |
+| Polierter Tuffstein | `polished_tuff` | 1.630 |
 
 **Beschreibung**
 
@@ -353,14 +353,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 124.12 – Gehwege – Teil 1/2 (Y 56–58)
 
 - **Y-Bereich:** 56 bis 58
-- **Blöcke:** 1.883
+- **Blöcke:** 1.877
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.883 |
+| Glatter Stein | `smooth_stone` | 1.877 |
 
 **Beschreibung**
 
@@ -381,14 +381,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 124.13 – Gehwege – Teil 2/2 (Y 59–62)
 
 - **Y-Bereich:** 59 bis 62
-- **Blöcke:** 1.881
+- **Blöcke:** 1.878
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.881 |
+| Glatter Stein | `smooth_stone` | 1.878 |
 
 **Beschreibung**
 
@@ -409,14 +409,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 124.14 – Höfe – Teil 1/6 (Y 55–59)
 
 - **Y-Bereich:** 55 bis 59
-- **Blöcke:** 1.964
+- **Blöcke:** 1.958
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.964 |
+| Polierter Tuffstein | `polished_tuff` | 1.958 |
 
 **Beschreibung**
 
@@ -437,14 +437,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 124.15 – Höfe – Teil 2/6 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.457
+- **Blöcke:** 1.452
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.457 |
+| Polierter Tuffstein | `polished_tuff` | 1.452 |
 
 **Beschreibung**
 

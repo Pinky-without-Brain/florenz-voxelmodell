@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 132.153 |
+| Blöcke | 132.164 |
 | Bauschritte | 70 |
 | Y-Bereich | 48 bis 68 |
 | X-Ausdehnung | -864 bis -545 (320 Blöcke) |
@@ -23,12 +23,12 @@
 | :--- | :--- | ---: | ---: |
 | Wasser | `water` | 66.854 | 50,6 % |
 | Kies | `gravel` | 33.427 | 25,3 % |
-| Polierter Tuffstein | `polished_tuff` | 20.944 | 15,8 % |
+| Polierter Tuffstein | `polished_tuff` | 20.954 | 15,9 % |
 | Stein | `stone` | 8.468 | 6,4 % |
 | Glatter Stein | `smooth_stone` | 1.153 | 0,9 % |
 | Polierter Andesit | `polished_andesite` | 967 | 0,7 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 248 | 0,2 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 36 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 37 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 25 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 12 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 8 | 0,0 % |
@@ -41,7 +41,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 321 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 322 |
 | Treppe aus poliertem Andesit | `polished_andesite_stairs` | 10 |
 | Steintreppe | `stone_stairs` | 9 |
 
@@ -52,12 +52,12 @@
 | 1 | `boeschung` | Böschung und Mantel | 9.350 | 127.1–127.5 |
 | 2 | `arno_bett` | Flussbett | 33.427 | 127.6–127.21 |
 | 3 | `arno_wasser` | Arno | 66.854 | 127.22–127.53 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 9.523 | 127.54–127.60 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 9.531 | 127.54–127.60 |
 | 5 | `gehwege` | Gehwege | 872 | 127.61 |
-| 6 | `stufen` | Treppenflächen | 340 | 127.62 |
+| 6 | `stufen` | Treppenflächen | 341 | 127.62 |
 | 7 | `plaetze_pflaster` | Plätze | 2.852 | 127.63–127.64 |
 | 8 | `plaetze_rand` | Randband | 85 | 127.65 |
-| 9 | `hof_pflaster` | Höfe | 8.850 | 127.65–127.70 |
+| 9 | `hof_pflaster` | Höfe | 8.852 | 127.65–127.70 |
 
 ## Bauschritte
 
@@ -121,14 +121,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 127.3 – Böschung und Mantel – Teil 3/5 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.910
+- **Blöcke:** 1.917
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.910 |
+| Stein | `stone` | 1.917 |
 
 **Beschreibung**
 
@@ -149,14 +149,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 127.4 – Böschung und Mantel – Teil 4/5 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
-- **Blöcke:** 2.051
+- **Blöcke:** 2.044
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.051 |
+| Stein | `stone` | 2.044 |
 
 **Beschreibung**
 
@@ -1577,14 +1577,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 127.55 – Straßenpflaster – Teil 2/7 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.929
+- **Blöcke:** 1.931
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.929 |
+| Polierter Tuffstein | `polished_tuff` | 1.931 |
 
 **Beschreibung**
 
@@ -1605,14 +1605,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 127.56 – Straßenpflaster – Teil 3/7 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.376
+- **Blöcke:** 1.382
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.376 |
+| Polierter Tuffstein | `polished_tuff` | 1.382 |
 
 **Beschreibung**
 
@@ -1773,7 +1773,7 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 127.62 – Treppenflächen
 
 - **Y-Bereich:** 58 bis 66
-- **Blöcke:** 340
+- **Blöcke:** 341
 - **Bauteile:** `stufen`
 
 **Teileliste**
@@ -1781,7 +1781,7 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 248 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 36 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 37 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 25 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 12 |
 | Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 8 |
@@ -1794,7 +1794,7 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 321 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 322 |
 | Treppe aus poliertem Andesit | `polished_andesite_stairs` | 10 |
 | Steintreppe | `stone_stairs` | 9 |
 
@@ -1988,14 +1988,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 127.69 – Höfe – Teil 5/6 (Y 55–64)
 
 - **Y-Bereich:** 55 bis 64
-- **Blöcke:** 1.616
+- **Blöcke:** 1.618
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.616 |
+| Polierter Tuffstein | `polished_tuff` | 1.618 |
 
 **Beschreibung**
 

@@ -8,48 +8,57 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 49.709 |
-| Bauschritte | 31 |
+| Blöcke | 49.938 |
+| Bauschritte | 32 |
 | Y-Bereich | 60 bis 69 |
 | X-Ausdehnung | -224 bis 95 (320 Blöcke) |
 | Z-Ausdehnung | -1488 bis -1169 (320 Blöcke) |
-| Kleinster Schritt | 288 Blöcke (Schritt 9.31) |
-| Mittlerer Schritt | 1.604 Blöcke |
-| Größter Schritt | 2.056 Blöcke (Schritt 9.27) |
+| Kleinster Schritt | 288 Blöcke (Schritt 9.32) |
+| Mittlerer Schritt | 1.561 Blöcke |
+| Größter Schritt | 2.056 Blöcke (Schritt 9.28) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 22.654 | 45,6 % |
-| Grasblock | `grass_block` | 15.084 | 30,3 % |
-| Glatter Stein | `smooth_stone` | 6.611 | 13,3 % |
-| Stein | `stone` | 5.360 | 10,8 % |
+| Polierter Tuffstein | `polished_tuff` | 22.389 | 44,8 % |
+| Grasblock | `grass_block` | 15.084 | 30,2 % |
+| Glatter Stein | `smooth_stone` | 6.645 | 13,3 % |
+| Stein | `stone` | 5.808 | 11,6 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 5 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 5 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 2 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 12 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 5.360 | 9.1–9.4 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 8.671 | 9.5–9.10 |
-| 3 | `gehwege` | Gehwege | 6.428 | 9.11–9.14 |
-| 4 | `stufen` | Treppenflächen | 183 | 9.15 |
-| 5 | `hof_pflaster` | Höfe | 13.983 | 9.15–9.22 |
-| 6 | `rasen` | Grün und offenes Gelände | 15.084 | 9.23–9.31 |
+| 1 | `boeschung` | Böschung und Mantel | 5.808 | 9.1–9.4 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 8.674 | 9.5–9.10 |
+| 3 | `gehwege` | Gehwege | 6.474 | 9.11–9.15 |
+| 4 | `stufen` | Treppenflächen | 183 | 9.16 |
+| 5 | `hof_pflaster` | Höfe | 13.715 | 9.16–9.23 |
+| 6 | `rasen` | Grün und offenes Gelände | 15.084 | 9.24–9.32 |
 
 ## Bauschritte
 
 ### Schritt 9.1 – Böschung und Mantel – Teil 1/4 (Y 60–65)
 
 - **Y-Bereich:** 60 bis 65
-- **Blöcke:** 1.693
+- **Blöcke:** 1.942
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.693 |
+| Stein | `stone` | 1.942 |
 
 **Beschreibung**
 
@@ -70,14 +79,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 9.2 – Böschung und Mantel – Teil 2/4 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.071
+- **Blöcke:** 1.319
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.071 |
+| Stein | `stone` | 1.319 |
 
 **Beschreibung**
 
@@ -98,14 +107,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 9.3 – Böschung und Mantel – Teil 3/4 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.710
+- **Blöcke:** 1.661
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.710 |
+| Stein | `stone` | 1.661 |
 
 **Beschreibung**
 
@@ -154,14 +163,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 9.5 – Straßenpflaster – Teil 1/6 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.463
+- **Blöcke:** 1.337
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.463 |
+| Polierter Tuffstein | `polished_tuff` | 1.337 |
 
 **Beschreibung**
 
@@ -182,14 +191,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 9.6 – Straßenpflaster – Teil 2/6 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.462
+- **Blöcke:** 1.351
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.462 |
+| Polierter Tuffstein | `polished_tuff` | 1.351 |
 
 **Beschreibung**
 
@@ -210,14 +219,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 9.7 – Straßenpflaster – Teil 3/6 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.740
+- **Blöcke:** 1.838
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.740 |
+| Polierter Tuffstein | `polished_tuff` | 1.838 |
 
 **Beschreibung**
 
@@ -238,14 +247,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 9.8 – Straßenpflaster – Teil 4/6 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.761
+- **Blöcke:** 1.816
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.761 |
+| Polierter Tuffstein | `polished_tuff` | 1.816 |
 
 **Beschreibung**
 
@@ -266,14 +275,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 9.9 – Straßenpflaster – Teil 5/6 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.743
+- **Blöcke:** 1.830
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.743 |
+| Polierter Tuffstein | `polished_tuff` | 1.830 |
 
 **Beschreibung**
 
@@ -319,17 +328,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 9.11 – Gehwege – Teil 1/4 (Y 65–65)
+### Schritt 9.11 – Gehwege – Teil 1/5 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.670
+- **Blöcke:** 1.384
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.670 |
+| Glatter Stein | `smooth_stone` | 1.384 |
 
 **Beschreibung**
 
@@ -347,17 +356,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 9.12 – Gehwege – Teil 2/4 (Y 66–66)
+### Schritt 9.12 – Gehwege – Teil 2/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.027
+- **Blöcke:** 1.464
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.027 |
+| Glatter Stein | `smooth_stone` | 1.464 |
 
 **Beschreibung**
 
@@ -375,17 +384,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 9.13 – Gehwege – Teil 3/4 (Y 66–66)
+### Schritt 9.13 – Gehwege – Teil 3/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.019
+- **Blöcke:** 1.455
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.019 |
+| Glatter Stein | `smooth_stone` | 1.455 |
 
 **Beschreibung**
 
@@ -403,7 +412,35 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 9.14 – Gehwege – Teil 4/4 (Y 67–67)
+### Schritt 9.14 – Gehwege – Teil 4/5 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.459
+- **Bauteile:** `gehwege`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.459 |
+
+**Beschreibung**
+
+Gehwege, Fuß- und Radwege in Pietra serena.
+
+**Tipp**
+
+Neben der Fahrbahn auf gleicher Höhe.
+
+**Achtung**
+
+Wo ein anderer Straßentyp liegt, gewinnt dieser.
+
+**Fakt**
+
+Pietra serena ist der graue Sandstein der Florentiner Renaissance.
+
+### Schritt 9.15 – Gehwege – Teil 5/5 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 712
@@ -431,9 +468,9 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 9.15 – Treppenflächen & Höfe – Teil 1/8 (Y 61–65)
+### Schritt 9.16 – Treppenflächen & Höfe – Teil 1/8 (Y 61–65)
 
-- **Y-Bereich:** 61 bis 65
+- **Y-Bereich:** 61 bis 66
 - **Blöcke:** 1.895
 - **Bauteile:** `stufen`, `hof_pflaster`
 
@@ -442,7 +479,16 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.712 |
-| Glatter Stein | `smooth_stone` | 183 |
+| Glatter Stein | `smooth_stone` | 171 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 5 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 5 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 12 |
 
 **Beschreibung**
 
@@ -460,17 +506,17 @@ Treppenblöcke folgen in einer späteren Stufe. Höfe der Wahrzeichen bauen die 
 
 Viele Treppen führen in Oltrarno die Hänge hinauf. Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 9.16 – Höfe – Teil 2/8 (Y 66–66)
+### Schritt 9.17 – Höfe – Teil 2/8 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.005
+- **Blöcke:** 1.937
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.005 |
+| Polierter Tuffstein | `polished_tuff` | 1.937 |
 
 **Beschreibung**
 
@@ -488,17 +534,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 9.17 – Höfe – Teil 3/8 (Y 66–66)
+### Schritt 9.18 – Höfe – Teil 3/8 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.009
+- **Blöcke:** 1.897
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.009 |
+| Polierter Tuffstein | `polished_tuff` | 1.897 |
 
 **Beschreibung**
 
@@ -516,17 +562,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 9.18 – Höfe – Teil 4/8 (Y 66–66)
+### Schritt 9.19 – Höfe – Teil 4/8 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.001
+- **Blöcke:** 1.913
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.001 |
+| Polierter Tuffstein | `polished_tuff` | 1.913 |
 
 **Beschreibung**
 
@@ -544,7 +590,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 9.19 – Höfe – Teil 5/8 (Y 67–67)
+### Schritt 9.20 – Höfe – Teil 5/8 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.444
@@ -572,7 +618,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 9.20 – Höfe – Teil 6/8 (Y 67–67)
+### Schritt 9.21 – Höfe – Teil 6/8 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.444
@@ -600,7 +646,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 9.21 – Höfe – Teil 7/8 (Y 67–67)
+### Schritt 9.22 – Höfe – Teil 7/8 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.439
@@ -628,7 +674,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 9.22 – Höfe – Teil 8/8 (Y 68–69)
+### Schritt 9.23 – Höfe – Teil 8/8 (Y 68–69)
 
 - **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.929
@@ -656,7 +702,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 9.23 – Grün und offenes Gelände – Teil 1/9 (Y 65–65)
+### Schritt 9.24 – Grün und offenes Gelände – Teil 1/9 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.561
@@ -684,7 +730,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 9.24 – Grün und offenes Gelände – Teil 2/9 (Y 65–65)
+### Schritt 9.25 – Grün und offenes Gelände – Teil 2/9 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.535
@@ -712,7 +758,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 9.25 – Grün und offenes Gelände – Teil 3/9 (Y 66–66)
+### Schritt 9.26 – Grün und offenes Gelände – Teil 3/9 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.870
@@ -740,7 +786,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 9.26 – Grün und offenes Gelände – Teil 4/9 (Y 66–66)
+### Schritt 9.27 – Grün und offenes Gelände – Teil 4/9 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.860
@@ -768,7 +814,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 9.27 – Grün und offenes Gelände – Teil 5/9 (Y 67–67)
+### Schritt 9.28 – Grün und offenes Gelände – Teil 5/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.056
@@ -796,7 +842,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 9.28 – Grün und offenes Gelände – Teil 6/9 (Y 67–67)
+### Schritt 9.29 – Grün und offenes Gelände – Teil 6/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.009
@@ -824,7 +870,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 9.29 – Grün und offenes Gelände – Teil 7/9 (Y 67–67)
+### Schritt 9.30 – Grün und offenes Gelände – Teil 7/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.041
@@ -852,7 +898,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 9.30 – Grün und offenes Gelände – Teil 8/9 (Y 68–68)
+### Schritt 9.31 – Grün und offenes Gelände – Teil 8/9 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.864
@@ -880,7 +926,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 9.31 – Grün und offenes Gelände – Teil 9/9 (Y 69–69)
+### Schritt 9.32 – Grün und offenes Gelände – Teil 9/9 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 288

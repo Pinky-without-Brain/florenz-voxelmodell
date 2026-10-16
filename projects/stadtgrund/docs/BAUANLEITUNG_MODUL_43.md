@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 54.596 |
+| Blöcke | 54.594 |
 | Bauschritte | 32 |
 | Y-Bereich | 64 bis 74 |
 | X-Ausdehnung | 1056 bis 1375 (320 Blöcke) |
 | Z-Ausdehnung | -848 bis -529 (320 Blöcke) |
-| Kleinster Schritt | 724 Blöcke (Schritt 43.1) |
+| Kleinster Schritt | 722 Blöcke (Schritt 43.1) |
 | Mittlerer Schritt | 1.706 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 43.13) |
 
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 44.782 | 82,0 % |
+| Polierter Tuffstein | `polished_tuff` | 44.780 | 82,0 % |
 | Stein | `stone` | 6.992 | 12,8 % |
 | Glatter Stein | `smooth_stone` | 1.357 | 2,5 % |
 | Grasblock | `grass_block` | 833 | 1,5 % |
@@ -32,7 +32,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 6.992 | 43.1–43.5 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 4.624 | 43.6–43.8 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 4.622 | 43.6–43.8 |
 | 3 | `gehwege` | Gehwege | 1.199 | 43.9 |
 | 4 | `hof_pflaster` | Höfe | 40.158 | 43.10–43.30 |
 | 5 | `rasen` | Grün und offenes Gelände | 833 | 43.31 |
@@ -43,14 +43,14 @@
 ### Schritt 43.1 – Böschung und Mantel – Teil 1/5 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 724
+- **Blöcke:** 722
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 724 |
+| Stein | `stone` | 722 |
 
 **Beschreibung**
 
@@ -71,14 +71,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 43.2 – Böschung und Mantel – Teil 2/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.951
+- **Blöcke:** 1.953
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.951 |
+| Stein | `stone` | 1.953 |
 
 **Beschreibung**
 
@@ -183,14 +183,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 43.6 – Straßenpflaster – Teil 1/3 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.520
+- **Blöcke:** 1.518
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.520 |
+| Polierter Tuffstein | `polished_tuff` | 1.518 |
 
 **Beschreibung**
 

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 214.138 |
+| Blöcke | 214.134 |
 | Bauschritte | 113 |
 | Y-Bereich | 49 bis 69 |
 | X-Ausdehnung | 736 bis 1055 (320 Blöcke) |
@@ -27,7 +27,7 @@
 | Polierter Tuffstein | `polished_tuff` | 6.262 | 2,9 % |
 | Stein | `stone` | 5.926 | 2,8 % |
 | Polierter Andesit | `polished_andesite` | 5.133 | 2,4 % |
-| Glatter Stein | `smooth_stone` | 3.181 | 1,5 % |
+| Glatter Stein | `smooth_stone` | 3.177 | 1,5 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 22 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 7 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 | 0,0 % |
@@ -47,7 +47,7 @@
 | 2 | `arno_bett` | Flussbett | 52.780 | 147.8–147.33 |
 | 3 | `arno_wasser` | Arno | 105.560 | 147.34–147.85 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 6.150 | 147.86–147.89 |
-| 5 | `gehwege` | Gehwege | 2.546 | 147.90–147.91 |
+| 5 | `gehwege` | Gehwege | 2.542 | 147.90–147.91 |
 | 6 | `stufen` | Treppenflächen | 34 | 147.92 |
 | 7 | `hof_pflaster` | Höfe | 112 | 147.92 |
 | 8 | `rasen` | Grün und offenes Gelände | 35.756 | 147.92–147.112 |
@@ -2556,14 +2556,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 147.90 – Gehwege – Teil 1/2 (Y 56–64)
 
 - **Y-Bereich:** 56 bis 64
-- **Blöcke:** 1.387
+- **Blöcke:** 1.383
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.305 |
+| Glatter Stein | `smooth_stone` | 1.301 |
 | Polierter Andesit | `polished_andesite` | 82 |
 
 **Beschreibung**
