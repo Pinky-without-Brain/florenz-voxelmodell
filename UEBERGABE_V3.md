@@ -221,6 +221,12 @@ Nutzerbefund: Häuser zu tief, Fenster halb im Boden. Ursache: Quartiere hatten 
 3. PR von `claude/lucid-thompson-gb03b1` nach `main` und **Merge** (vom Nutzer ausdrücklich gewünscht), damit GitHub Pages den neuen Stand zeigt (heute noch alter Bau mit allen Häusern auf Y 63).
 4. Optional: Hangterrassierung (siehe Messung oben).
 
+### Lokale Sitzung 16.10.2026 – Schritte 1 und 2 **erledigt**
+- **Minecraft-Export** (Stand `33e4ab1b`) nach `build/minecraft/florenz_voxelmodell`: 408 s (Vorbereitung 341 s), Heap 1.946 MB, RSS 4,5 GB; 61 Projekte, **104.473.472 Projektblöcke**, 2.814.733.944 Blöcke mit Gelände, 78.496 Chunks, db 57,1 MB, **2.830 Straßenschilder**, 4 Platzhalter-Häuser, Spawn (−272 | 64 | 0). Als `florenz_voxelmodell_2026-10-16.mcworld` (56,9 MB) gepackt und dem Nutzer gegeben. Die Welt im Minecraft-Ordner des Nutzers wurde **nicht** überschrieben (die Freigabe dafür fehlte in dieser Sitzung); Import per Doppelklick legt eine zweite Welt an.
+- **Statistik:** `node tools/emit/statistik.js` (61 Projekte, 104,47 Mio Blöcke, Minecraft-Abschnitt aus `build/minecraft/export_ergebnis.json`); PDF lokal ohne Playwright über Edge: `msedge --headless=new --no-pdf-header-footer --print-to-pdf=<datei> file:///…/STATISTIK.html` (5 Seiten).
+- Stichprobe im Spiel (Schilder, Hausböden an Costa San Giorgio und Signoria) steht beim Nutzer aus.
+- Hinweis: Der lokale `main` im Hauptordner war auf dem Stand vom 13.10. (`fe33f6c`) und enthält zusätzlich einen lokalen Merge-Commit `d7538e8a` (doppelte W5-Infrastruktur aus dieser Sitzung, nie gepusht). Vor lokalen Builds im Hauptordner `main` auf `origin/main` setzen.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe und ~~entlädt ferne~~ (H4).
