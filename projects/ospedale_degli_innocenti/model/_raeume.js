@@ -71,7 +71,7 @@ function ausstatten(api) {
   // ------------------------------------------------------------ Chiostro degli Uomini (Loch 3): Pflaster, Brunnen, Lünetten
   {
     const cu = 55.5, cw = 55;
-    K.flaeche('chiostro_uomini', 0, { u0: 39, u1: 73, w0: 39, w1: 72 }, 0, 0, (c) => {
+    K.hofboden('chiostro_uomini', { u0: 39, u1: 73, w0: 39, w1: 72 }, (c) => {
       if (Math.hypot(c.u - cu, c.w - cw) < 5.5) return t.serena;
       return (Math.abs(c.u - cu) < 1.2 || Math.abs(c.w - cw) < 1.2) ? t.serena : (((Math.floor(c.u / 3) + Math.floor(c.w / 3)) & 1) ? t.pflaster : null);
     });
@@ -91,7 +91,7 @@ function ausstatten(api) {
   // ------------------------------------------------------------ Chiostro delle Donne (Loch 2): Rasen, Wege, Brunnen
   {
     const cu = 61.5, cw = 114.5;
-    K.flaeche('chiostro_donne', 0, { u0: 30, u1: 94, w0: 108, w1: 121 }, 0, 0, (c) => (Math.abs(c.w - cw) < 1.4 || Math.hypot(c.u - cu, c.w - cw) < 4.6 ? WZ.typ('gruen_weg') : t.rasen));
+    K.hofboden('chiostro_donne', { u0: 30, u1: 94, w0: 108, w1: 121 }, (c) => (Math.abs(c.w - cw) < 1.4 || Math.hypot(c.u - cu, c.w - cw) < 4.6 ? WZ.typ('gruen_weg') : t.rasen));
     K.brunnen('chiostro_donne', 0, cu, cw, 3.3, { saeule: 3 });
     for (const u of [40, 51, 72, 83]) K.baum('chiostro_donne', 0, u, cw - 3, 4);
   }

@@ -11,8 +11,8 @@
 | Blöcke | 207 |
 | Bauschritte | 1 |
 | Y-Bereich | 65 bis 105 |
-| X-Ausdehnung | -289 bis -145 (145 Blöcke) |
-| Z-Ausdehnung | -552 bis -389 (164 Blöcke) |
+| X-Ausdehnung | -289 bis -147 (143 Blöcke) |
+| Z-Ausdehnung | -552 bis -390 (163 Blöcke) |
 | Kleinster Schritt | 207 Blöcke (Schritt 5.1) |
 | Mittlerer Schritt | 207 Blöcke |
 | Größter Schritt | 207 Blöcke (Schritt 5.1) |

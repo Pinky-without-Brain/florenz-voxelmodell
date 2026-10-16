@@ -130,6 +130,17 @@ function kit(api) {
     return n;
   }
 
+  /** Hofpflaster: ersetzt die Pflaster- oder Rasenzelle (Lage 0) der Hofzellen (Löcher) im lokalen Rechteck r durch fn(c) (null = unverändert). */
+  function hofboden(teil, r, fn) {
+    let n = 0;
+    for (const c of D.hofZellen) {
+      if (!imR(c, r)) continue;
+      const t = fn(c);
+      if (t && ersetze(c.x, Y(0), c.z, t, teil)) n++;
+    }
+    return n;
+  }
+
   /** Quader (Möbel, Sockel): setzt in alle freien Zellen des lokalen Rechtecks r die Höhen j0..j1; typ oder fn(c, j). */
   function quader(teil, s, r, j0, j1, typ) {
     let n = 0;
@@ -290,7 +301,7 @@ function kit(api) {
     return out;
   }
 
-  return { aussenZellen, D, R, steh, block, boden, decke, waende, flaeche, quader, figur, loewe, brunnen, baum, laterne, kamin, stellwand, zelle, imR, yS, lokal, alle };
+  return { aussenZellen, hofboden, D, R, steh, block, boden, decke, waende, flaeche, quader, figur, loewe, brunnen, baum, laterne, kamin, stellwand, zelle, imR, yS, lokal, alle };
 }
 
 /** Schachbrettmuster aus lokalen Koordinaten (Kachelgröße k). */

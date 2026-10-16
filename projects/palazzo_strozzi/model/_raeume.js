@@ -46,7 +46,7 @@ function ausstatten(api) {
 
   // ------------------------------------------------------------ Hof (Cronaca): Wegekreuz, Kübel und Laternen
   {
-    K.flaeche('hof_cronaca', 0, { u0: 41, u1: 72, w0: 36, w1: 53 }, 0, 0, (c) => {
+    K.hofboden('hof_cronaca', { u0: 41, u1: 72, w0: 36, w1: 53 }, (c) => {
       if (Math.abs(c.u - 56) < 1.5 || Math.abs(c.w - 44.5) < 1.5) return t.serena;
       return ((Math.floor(c.u / 3) + Math.floor(c.w / 3)) & 1) ? t.pflaster : null;
     });

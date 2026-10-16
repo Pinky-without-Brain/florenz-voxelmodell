@@ -9,13 +9,13 @@ Ausdehnung des Modells: X -881 bis -763, Y 64 bis 133, Z 383 bis 475.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
-| 0 | Fundament, Boden und Hof | 10.140 | 6 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
+| 0 | Fundament, Boden und Hof | 10.150 | 6 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
 | 1 | Fassaden | 49.329 | 29 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
 | 2 | Hof | 24.491 | 14 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Böden und Decke | 40.451 | 23 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
 | 4 | Dach | 12.494 | 8 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
 | 5 | Licht | 103 | 1 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
-| 6 | Ausgestaltete Räume und Fassade | 7.992 | 6 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
+| 6 | Ausgestaltete Räume und Fassade | 7.982 | 6 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
 | | **Summe** | **145.000** | **87** | |
 
 ## Gesamt-Stückliste
@@ -24,14 +24,14 @@ Ausdehnung des Modells: X -881 bis -763, Y 64 bis 133, Z 383 bis 475.
 | :--- | :--- | ---: | ---: |
 | Weißer Beton | `white_concrete` | 73.838 | 50,9 % |
 | Tuffsteinziegel | `tuff_bricks` | 12.241 | 8,4 % |
-| Rosa Keramik | `pink_terracotta` | 10.702 | 7,4 % |
+| Rosa Keramik | `pink_terracotta` | 10.711 | 7,4 % |
 | Terrakotta | `terracotta` | 9.442 | 6,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 9.314 | 6,4 % |
 | Polierter Andesit | `polished_andesite` | 7.476 | 5,2 % |
-| Glatter Stein | `smooth_stone` | 5.664 | 3,9 % |
-| Glatter Quarzblock | `smooth_quartz` | 4.372 | 3,0 % |
+| Glatter Stein | `smooth_stone` | 5.661 | 3,9 % |
+| Glatter Quarzblock | `smooth_quartz` | 4.373 | 3,0 % |
 | Steinziegel | `stone_bricks` | 3.052 | 2,1 % |
-| Polierter Tuffstein | `polished_tuff` | 2.440 | 1,7 % |
+| Polierter Tuffstein | `polished_tuff` | 2.433 | 1,7 % |
 | Rotes Buntglas | `red_stained_glass` | 884 | 0,6 % |
 | Hellblaues Buntglas | `light_blue_stained_glass` | 881 | 0,6 % |
 | Gelbes Buntglas | `yellow_stained_glass` | 759 | 0,5 % |

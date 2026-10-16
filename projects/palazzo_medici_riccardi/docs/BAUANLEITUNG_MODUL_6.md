@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 4.919 |
+| Blöcke | 4.835 |
 | Bauschritte | 4 |
 | Y-Bereich | 65 bis 104 |
 | X-Ausdehnung | -284 bis -178 (107 Blöcke) |
-| Z-Ausdehnung | -494 bis -407 (88 Blöcke) |
-| Kleinster Schritt | 332 Blöcke (Schritt 6.3) |
-| Mittlerer Schritt | 1.230 Blöcke |
+| Z-Ausdehnung | -491 bis -407 (85 Blöcke) |
+| Kleinster Schritt | 559 Blöcke (Schritt 6.3) |
+| Mittlerer Schritt | 1.209 Blöcke |
 | Größter Schritt | 1.928 Blöcke (Schritt 6.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Goldblock | `gold_block` | 1.093 | 22,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 637 | 12,9 % |
-| Hellblaue Keramik | `light_blue_terracotta` | 556 | 11,3 % |
-| Kies | `gravel` | 392 | 8,0 % |
-| Glatter Stein | `smooth_stone` | 306 | 6,2 % |
-| Polierter Granit | `polished_granite` | 274 | 5,6 % |
-| Rotes Buntglas | `red_stained_glass` | 258 | 5,2 % |
-| Eichenlaub | `oak_leaves` | 248 | 5,0 % |
-| Polierter Tuffstein | `polished_tuff` | 190 | 3,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 188 | 3,8 % |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 154 | 3,1 % |
-| Grüne Keramik | `green_terracotta` | 110 | 2,2 % |
+| Goldblock | `gold_block` | 1.093 | 22,6 % |
+| Glatter Quarzblock | `smooth_quartz` | 637 | 13,2 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 556 | 11,5 % |
+| Kies | `gravel` | 363 | 7,5 % |
+| Glatter Stein | `smooth_stone` | 297 | 6,1 % |
+| Polierter Granit | `polished_granite` | 274 | 5,7 % |
+| Rotes Buntglas | `red_stained_glass` | 258 | 5,3 % |
+| Eichenlaub | `oak_leaves` | 248 | 5,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 188 | 3,9 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 154 | 3,2 % |
+| Polierter Tuffstein | `polished_tuff` | 145 | 3,0 % |
+| Grüne Keramik | `green_terracotta` | 110 | 2,3 % |
 | Blaue Keramik | `blue_terracotta` | 103 | 2,1 % |
 | Dunkler Prismarin | `dark_prismarine` | 84 | 1,7 % |
 | Orange Keramik | `orange_terracotta` | 59 | 1,2 % |
@@ -43,7 +43,7 @@
 | Braune Keramik | `brown_terracotta` | 30 | 0,6 % |
 | Eichenstamm | `oak_log` | 30 | 0,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 30 | 0,6 % |
-| Seelaterne | `sea_lantern` | 7 | 0,1 % |
+| Seelaterne | `sea_lantern` | 6 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -51,10 +51,10 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `cappella_dei_magi` | Cappella dei Magi | 1.422 | 6.1 |
 | 2 | `galleria_luca_giordano` | Galleria di Luca Giordano | 1.928 | 6.2 |
-| 3 | `michelozzo_hof` | Michelozzos Hof | 332 | 6.3 |
-| 4 | `medaillons` | Medaillons über den Arkaden | 281 | 6.4 |
-| 5 | `garten_medici` | Garten | 949 | 6.4 |
-| 6 | `licht_ausstattung` | Licht in den Sälen | 7 | 6.4 |
+| 3 | `michelozzo_hof` | Michelozzos Hof | 278 | 6.3 |
+| 4 | `medaillons` | Medaillons über den Arkaden | 281 | 6.3 |
+| 5 | `garten_medici` | Garten | 920 | 6.4 |
+| 6 | `licht_ausstattung` | Licht in den Sälen | 6 | 6.4 |
 
 ## Bauschritte
 
@@ -135,28 +135,30 @@ Vereinfachte Ausstattung, nicht nach Vorbild. Die Spiegel sind Glasfelder.
 
 Luca Giordano malte ab 1682 die Apotheose der Medici an die Decke der Galerie (Quelle: it.wikipedia, Palazzo Medici Riccardi).
 
-### Schritt 6.3 – Michelozzos Hof
+### Schritt 6.3 – Michelozzos Hof & Medaillons über den Arkaden
 
-- **Y-Bereich:** 65 bis 74
-- **Blöcke:** 332
-- **Bauteile:** `michelozzo_hof`
+- **Y-Bereich:** 65 bis 84
+- **Blöcke:** 559
+- **Bauteile:** `michelozzo_hof`, `medaillons`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 190 |
-| Glatter Stein | `smooth_stone` | 132 |
-| Glatter Quarzblock | `smooth_quartz` | 9 |
-| Goldblock | `gold_block` | 1 |
+| Goldblock | `gold_block` | 171 |
+| Polierter Tuffstein | `polished_tuff` | 145 |
+| Glatter Stein | `smooth_stone` | 123 |
+| Glatter Quarzblock | `smooth_quartz` | 109 |
+| Rote Keramik | `red_terracotta` | 7 |
+| Blaue Keramik | `blue_terracotta` | 4 |
 
 **Beschreibung**
 
-Hofpflaster mit Wegekreuz und Mittelrondell aus Pietra serena; in der Mitte die Orpheus-Statue als Blockfigur auf einem hohen Sockel (Marmor, erhobener Arm).
+Hofpflaster mit Wegekreuz und Mittelrondell aus Pietra serena; in der Mitte die Orpheus-Statue als Blockfigur auf einem hohen Sockel (Marmor, erhobener Arm). Über jedem Pfeiler der Arkaden von Michelozzos Hof sitzt ein rundes Medaillon: weiße Scheibe mit goldenem Rand und buntem Mittelpunkt.
 
 **Tipp**
 
-Die Figur steht auf einem Sockel von 3 Blöcken.
+Die Figur steht auf einem Sockel von 3 Blöcken. Radius 2,7 Blöcke, Mitte auf Lage 17.
 
 **Achtung**
 
@@ -164,41 +166,38 @@ Vereinfachte Ausstattung, nicht nach Vorbild.
 
 **Fakt**
 
-Im Hof steht der Orpheus von Baccio Bandinelli (Quelle: it.wikipedia, Palazzo Medici Riccardi).
+Im Hof steht der Orpheus von Baccio Bandinelli (Quelle: it.wikipedia, Palazzo Medici Riccardi). Die Medaillons im Hof gehen auf Entwürfe nach Donatello zurück (Quelle: it.wikipedia, Palazzo Medici Riccardi).
 
-### Schritt 6.4 – Medaillons über den Arkaden & Garten & Licht in den Sälen
+### Schritt 6.4 – Garten & Licht in den Sälen
 
 - **Y-Bereich:** 65 bis 87
-- **Blöcke:** 1.237
-- **Bauteile:** `medaillons`, `garten_medici`, `licht_ausstattung`
+- **Blöcke:** 926
+- **Bauteile:** `garten_medici`, `licht_ausstattung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Kies | `gravel` | 392 |
+| Kies | `gravel` | 363 |
 | Eichenlaub | `oak_leaves` | 248 |
 | Glatter Stein | `smooth_stone` | 174 |
-| Goldblock | `gold_block` | 170 |
-| Glatter Quarzblock | `smooth_quartz` | 161 |
+| Glatter Quarzblock | `smooth_quartz` | 61 |
 | Wasser | `water` | 44 |
 | Eichenstamm | `oak_log` | 30 |
-| Rote Keramik | `red_terracotta` | 7 |
-| Seelaterne | `sea_lantern` | 7 |
-| Blaue Keramik | `blue_terracotta` | 4 |
+| Seelaterne | `sea_lantern` | 6 |
 
 **Beschreibung**
 
-Über jedem Pfeiler der Arkaden von Michelozzos Hof sitzt ein rundes Medaillon: weiße Scheibe mit goldenem Rand und buntem Mittelpunkt. Kieswege im Kreuz und als Ring um ein Brunnenbecken, Brunnensäule in der Mitte, vier Statuen auf Sockeln an den Wegenden und sechs Bäume auf dem Rasen. Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.
+Kieswege im Kreuz und als Ring um ein Brunnenbecken, Brunnensäule in der Mitte, vier Statuen auf Sockeln an den Wegenden und sechs Bäume auf dem Rasen. Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.
 
 **Tipp**
 
-Radius 2,7 Blöcke, Mitte auf Lage 17. Wege und Brunnen zuerst, dann Statuen und Bäume. Die Laternen ersetzen einzelne Bodenblöcke.
+Wege und Brunnen zuerst, dann Statuen und Bäume. Die Laternen ersetzen einzelne Bodenblöcke.
 
 **Achtung**
 
-Vereinfachte Ausstattung, nicht nach Vorbild. Vereinfachte Ausstattung, nicht nach Vorbild. Die Luft unter den Kronen ist offene Gartenluft. Nicht in Türöffnungen setzen.
+Vereinfachte Ausstattung, nicht nach Vorbild. Die Luft unter den Kronen ist offene Gartenluft. Nicht in Türöffnungen setzen.
 
 **Fakt**
 
-Die Medaillons im Hof gehen auf Entwürfe nach Donatello zurück (Quelle: it.wikipedia, Palazzo Medici Riccardi). Der Palast besitzt einen Garten hinter den Höfen (Quelle: it.wikipedia, Palazzo Medici Riccardi). In Minecraft sind Innenräume ohne Lichtquelle dunkel.
+Der Palast besitzt einen Garten hinter den Höfen (Quelle: it.wikipedia, Palazzo Medici Riccardi). In Minecraft sind Innenräume ohne Lichtquelle dunkel.

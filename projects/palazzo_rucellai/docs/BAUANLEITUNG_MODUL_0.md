@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 4.005 |
+| Blöcke | 4.050 |
 | Bauschritte | 3 |
 | Y-Bereich | 60 bis 97 |
 | X-Ausdehnung | -1217 bis -1153 (65 Blöcke) |
 | Z-Ausdehnung | 378 bis 458 (81 Blöcke) |
 | Kleinster Schritt | 582 Blöcke (Schritt 0.3) |
-| Mittlerer Schritt | 1.335 Blöcke |
-| Größter Schritt | 1.722 Blöcke (Schritt 0.2) |
+| Mittlerer Schritt | 1.350 Blöcke |
+| Größter Schritt | 1.746 Blöcke (Schritt 0.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.571 | 39,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 1.543 | 38,5 % |
-| Glatter Stein | `smooth_stone` | 698 | 17,4 % |
-| Polierter Tuffstein | `polished_tuff` | 119 | 3,0 % |
+| Rosa Keramik | `pink_terracotta` | 1.595 | 39,4 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.565 | 38,6 % |
+| Glatter Stein | `smooth_stone` | 697 | 17,2 % |
+| Polierter Tuffstein | `polished_tuff` | 119 | 2,9 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,5 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 18 | 0,4 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,4 % |
@@ -40,7 +40,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boden` | Boden | 3.423 | 0.1–0.2 |
+| 1 | `boden` | Boden | 3.468 | 0.1–0.2 |
 | 2 | `hof` | Hof | 119 | 0.3 |
 | 3 | `treppe` | Wendeltreppe | 463 | 0.3 |
 
@@ -49,16 +49,16 @@
 ### Schritt 0.1 – Boden – Teil 1/2 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.701
+- **Blöcke:** 1.746
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 707 |
-| Glatter Quarzblock | `smooth_quartz` | 685 |
-| Glatter Stein | `smooth_stone` | 309 |
+| Rosa Keramik | `pink_terracotta` | 730 |
+| Glatter Quarzblock | `smooth_quartz` | 708 |
+| Glatter Stein | `smooth_stone` | 308 |
 
 **Beschreibung**
 
@@ -86,8 +86,8 @@ Der Palazzo gehört bis heute der Familie Rucellai.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 864 |
-| Glatter Quarzblock | `smooth_quartz` | 858 |
+| Rosa Keramik | `pink_terracotta` | 865 |
+| Glatter Quarzblock | `smooth_quartz` | 857 |
 
 **Beschreibung**
 

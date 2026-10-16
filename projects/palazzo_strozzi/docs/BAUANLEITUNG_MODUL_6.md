@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.992 |
+| Blöcke | 7.982 |
 | Bauschritte | 6 |
 | Y-Bereich | 64 bis 96 |
 | X-Ausdehnung | -881 bis -763 (119 Blöcke) |
 | Z-Ausdehnung | 383 bis 475 (93 Blöcke) |
-| Kleinster Schritt | 542 Blöcke (Schritt 6.5) |
-| Mittlerer Schritt | 1.332 Blöcke |
+| Kleinster Schritt | 532 Blöcke (Schritt 6.5) |
+| Mittlerer Schritt | 1.330 Blöcke |
 | Größter Schritt | 1.805 Blöcke (Schritt 6.2) |
 
 ## Gesamt-Stückliste
@@ -22,8 +22,8 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3.027 | 37,9 % |
-| Polierter Tuffstein | `polished_tuff` | 2.237 | 28,0 % |
-| Glatter Stein | `smooth_stone` | 499 | 6,2 % |
+| Polierter Tuffstein | `polished_tuff` | 2.230 | 27,9 % |
+| Glatter Stein | `smooth_stone` | 496 | 6,2 % |
 | Weißer Beton | `white_concrete` | 473 | 5,9 % |
 | Grüne Keramik | `green_terracotta` | 292 | 3,7 % |
 | Orange Keramik | `orange_terracotta` | 256 | 3,2 % |
@@ -47,7 +47,7 @@
 | 2 | `ausstellung_sued` | Ausstellungssaal Süd | 1.805 | 6.2 |
 | 3 | `ausstellung_west` | Ausstellungssaal West | 1.629 | 6.3 |
 | 4 | `ausstellung_ost` | Ausstellungssaal Ost | 1.624 | 6.4 |
-| 5 | `hof_cronaca` | Hof nach Cronaca | 542 | 6.5 |
+| 5 | `hof_cronaca` | Hof nach Cronaca | 532 | 6.5 |
 | 6 | `panca_laternen` | Steinbank und Laternenhalter | 588 | 6.6 |
 | 7 | `licht_ausstattung` | Licht in den Sälen | 22 | 6.6 |
 
@@ -192,16 +192,16 @@ Der Palast wurde bis 1538 gebaut (Quelle: it.wikipedia, Palazzo Strozzi).
 ### Schritt 6.5 – Hof nach Cronaca
 
 - **Y-Bereich:** 64 bis 70
-- **Blöcke:** 542
+- **Blöcke:** 532
 - **Bauteile:** `hof_cronaca`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 197 |
+| Polierter Tuffstein | `polished_tuff` | 190 |
 | Eichenlaub | `oak_leaves` | 170 |
-| Glatter Stein | `smooth_stone` | 135 |
+| Glatter Stein | `smooth_stone` | 132 |
 | Rosa Keramik | `pink_terracotta` | 16 |
 | Eichenstamm | `oak_log` | 12 |
 | Geschnittener Kupferblock | `cut_copper` | 10 |

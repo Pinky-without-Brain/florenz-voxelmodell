@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 31.004 |
+| Blöcke | 31.317 |
 | Bauschritte | 16 |
 | Y-Bereich | 64 bis 86 |
 | X-Ausdehnung | 570 bis 825 (256 Blöcke) |
 | Z-Ausdehnung | -771 bis -549 (223 Blöcke) |
 | Kleinster Schritt | 945 Blöcke (Schritt 0.16) |
-| Mittlerer Schritt | 1.938 Blöcke |
+| Mittlerer Schritt | 1.957 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 0.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 10.341 | 33,4 % |
-| Rosa Keramik | `pink_terracotta` | 10.244 | 33,0 % |
-| Tuffstein | `tuff` | 7.315 | 23,6 % |
-| Glatter Stein | `smooth_stone` | 2.369 | 7,6 % |
+| Rosa Keramik | `pink_terracotta` | 10.450 | 33,4 % |
+| Glatter Quarzblock | `smooth_quartz` | 10.447 | 33,4 % |
+| Tuffstein | `tuff` | 7.315 | 23,4 % |
+| Glatter Stein | `smooth_stone` | 2.370 | 7,6 % |
 | Polierter Tuffstein | `polished_tuff` | 695 | 2,2 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 | 0,0 % |
@@ -42,7 +42,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `fundament` | Fundament | 7.315 | 0.1–0.4 |
-| 2 | `boden` | Boden | 22.744 | 0.5–0.15 |
+| 2 | `boden` | Boden | 23.057 | 0.5–0.15 |
 | 3 | `hof` | Hof | 695 | 0.16 |
 | 4 | `treppe` | Wendeltreppe | 250 | 0.16 |
 
@@ -163,16 +163,16 @@ Die Seidenzunft (Arte della Seta) gab das Findelhaus 1419 in Auftrag.
 ### Schritt 0.5 – Boden – Teil 1/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.068
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 739 |
-| Rosa Keramik | `pink_terracotta` | 731 |
-| Glatter Stein | `smooth_stone` | 598 |
+| Glatter Quarzblock | `smooth_quartz` | 747 |
+| Rosa Keramik | `pink_terracotta` | 745 |
+| Glatter Stein | `smooth_stone` | 604 |
 
 **Beschreibung**
 
@@ -193,16 +193,16 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.6 – Boden – Teil 2/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.067
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 853 |
-| Glatter Quarzblock | `smooth_quartz` | 845 |
-| Glatter Stein | `smooth_stone` | 369 |
+| Rosa Keramik | `pink_terracotta` | 870 |
+| Glatter Quarzblock | `smooth_quartz` | 864 |
+| Glatter Stein | `smooth_stone` | 362 |
 
 **Beschreibung**
 
@@ -223,16 +223,16 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.7 – Boden – Teil 3/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.068
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 816 |
-| Rosa Keramik | `pink_terracotta` | 814 |
-| Glatter Stein | `smooth_stone` | 438 |
+| Rosa Keramik | `pink_terracotta` | 838 |
+| Glatter Quarzblock | `smooth_quartz` | 837 |
+| Glatter Stein | `smooth_stone` | 421 |
 
 **Beschreibung**
 
@@ -253,16 +253,16 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.8 – Boden – Teil 4/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.068
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 886 |
-| Rosa Keramik | `pink_terracotta` | 851 |
-| Glatter Stein | `smooth_stone` | 331 |
+| Glatter Quarzblock | `smooth_quartz` | 882 |
+| Rosa Keramik | `pink_terracotta` | 876 |
+| Glatter Stein | `smooth_stone` | 338 |
 
 **Beschreibung**
 
@@ -283,16 +283,16 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.9 – Boden – Teil 5/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.067
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 956 |
-| Rosa Keramik | `pink_terracotta` | 928 |
-| Glatter Stein | `smooth_stone` | 183 |
+| Rosa Keramik | `pink_terracotta` | 973 |
+| Glatter Quarzblock | `smooth_quartz` | 944 |
+| Glatter Stein | `smooth_stone` | 179 |
 
 **Beschreibung**
 
@@ -313,16 +313,16 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.10 – Boden – Teil 6/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.068
+- **Blöcke:** 2.097
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 944 |
-| Rosa Keramik | `pink_terracotta` | 911 |
-| Glatter Stein | `smooth_stone` | 213 |
+| Glatter Quarzblock | `smooth_quartz` | 955 |
+| Rosa Keramik | `pink_terracotta` | 930 |
+| Glatter Stein | `smooth_stone` | 212 |
 
 **Beschreibung**
 
@@ -343,16 +343,16 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.11 – Boden – Teil 7/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.067
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.027 |
-| Glatter Quarzblock | `smooth_quartz` | 1.013 |
-| Glatter Stein | `smooth_stone` | 27 |
+| Rosa Keramik | `pink_terracotta` | 1.036 |
+| Glatter Quarzblock | `smooth_quartz` | 1.016 |
+| Glatter Stein | `smooth_stone` | 44 |
 
 **Beschreibung**
 
@@ -373,15 +373,15 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.12 – Boden – Teil 8/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.068
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.036 |
-| Glatter Quarzblock | `smooth_quartz` | 1.032 |
+| Glatter Quarzblock | `smooth_quartz` | 1.051 |
+| Rosa Keramik | `pink_terracotta` | 1.045 |
 
 **Beschreibung**
 
@@ -402,15 +402,15 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.13 – Boden – Teil 9/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.068
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 1.038 |
-| Rosa Keramik | `pink_terracotta` | 1.030 |
+| Rosa Keramik | `pink_terracotta` | 1.049 |
+| Glatter Quarzblock | `smooth_quartz` | 1.047 |
 
 **Beschreibung**
 
@@ -431,15 +431,15 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.14 – Boden – Teil 10/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.067
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.034 |
-| Glatter Quarzblock | `smooth_quartz` | 1.033 |
+| Glatter Quarzblock | `smooth_quartz` | 1.051 |
+| Rosa Keramik | `pink_terracotta` | 1.045 |
 
 **Beschreibung**
 
@@ -460,15 +460,15 @@ Das Gelände fällt nach Osten um fünf Lagen; das Fundament gleicht es aus.
 ### Schritt 0.15 – Boden – Teil 11/11 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.068
+- **Blöcke:** 2.096
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 1.039 |
-| Rosa Keramik | `pink_terracotta` | 1.029 |
+| Glatter Quarzblock | `smooth_quartz` | 1.053 |
+| Rosa Keramik | `pink_terracotta` | 1.043 |
 
 **Beschreibung**
 

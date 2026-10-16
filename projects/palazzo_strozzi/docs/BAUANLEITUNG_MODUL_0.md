@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.140 |
+| Blöcke | 10.150 |
 | Bauschritte | 6 |
 | Y-Bereich | 64 bis 108 |
 | X-Ausdehnung | -880 bis -764 (117 Blöcke) |
 | Z-Ausdehnung | 384 bis 474 (91 Blöcke) |
 | Kleinster Schritt | 749 Blöcke (Schritt 0.6) |
-| Mittlerer Schritt | 1.690 Blöcke |
-| Größter Schritt | 1.917 Blöcke (Schritt 0.4) |
+| Mittlerer Schritt | 1.692 Blöcke |
+| Größter Schritt | 1.927 Blöcke (Schritt 0.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 4.372 | 43,1 % |
-| Rosa Keramik | `pink_terracotta` | 4.362 | 43,0 % |
+| Glatter Quarzblock | `smooth_quartz` | 4.373 | 43,1 % |
+| Rosa Keramik | `pink_terracotta` | 4.371 | 43,1 % |
 | Glatter Stein | `smooth_stone` | 1.115 | 11,0 % |
 | Polierter Tuffstein | `polished_tuff` | 203 | 2,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 | 0,2 % |
@@ -40,7 +40,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boden` | Boden | 9.391 | 0.1–0.5 |
+| 1 | `boden` | Boden | 9.401 | 0.1–0.5 |
 | 2 | `hof` | Hof | 203 | 0.6 |
 | 3 | `treppe` | Wendeltreppe | 546 | 0.6 |
 
@@ -138,15 +138,15 @@ Heute zeigt der Palazzo große Kunstausstellungen.
 ### Schritt 0.4 – Boden – Teil 4/5 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.917
+- **Blöcke:** 1.927
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 873 |
-| Rosa Keramik | `pink_terracotta` | 865 |
+| Rosa Keramik | `pink_terracotta` | 874 |
+| Glatter Quarzblock | `smooth_quartz` | 874 |
 | Glatter Stein | `smooth_stone` | 179 |
 
 **Beschreibung**

@@ -8,39 +8,39 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.457 |
+| Blöcke | 8.147 |
 | Bauschritte | 5 |
 | Y-Bereich | 66 bis 99 |
-| X-Ausdehnung | 593 bis 691 (99 Blöcke) |
-| Z-Ausdehnung | -758 bis -619 (140 Blöcke) |
-| Kleinster Schritt | 1.094 Blöcke (Schritt 6.2) |
-| Mittlerer Schritt | 1.691 Blöcke |
-| Größter Schritt | 2.022 Blöcke (Schritt 6.5) |
+| X-Ausdehnung | 593 bis 690 (98 Blöcke) |
+| Z-Ausdehnung | -758 bis -621 (138 Blöcke) |
+| Kleinster Schritt | 855 Blöcke (Schritt 6.2) |
+| Mittlerer Schritt | 1.629 Blöcke |
+| Größter Schritt | 2.054 Blöcke (Schritt 6.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.512 | 17,9 % |
-| Weißer Beton | `white_concrete` | 1.369 | 16,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 1.074 | 12,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.065 | 12,6 % |
-| Glatter Stein | `smooth_stone` | 741 | 8,8 % |
-| Goldblock | `gold_block` | 676 | 8,0 % |
-| Grasblock | `grass_block` | 612 | 7,2 % |
-| Weiße Keramik | `white_terracotta` | 334 | 3,9 % |
-| Blaue Keramik | `blue_terracotta` | 316 | 3,7 % |
-| Kies | `gravel` | 220 | 2,6 % |
+| Polierter Tuffstein | `polished_tuff` | 1.424 | 17,5 % |
+| Weißer Beton | `white_concrete` | 1.369 | 16,8 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.074 | 13,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.065 | 13,1 % |
+| Glatter Stein | `smooth_stone` | 726 | 8,9 % |
+| Goldblock | `gold_block` | 676 | 8,3 % |
+| Grasblock | `grass_block` | 378 | 4,6 % |
+| Weiße Keramik | `white_terracotta` | 334 | 4,1 % |
+| Blaue Keramik | `blue_terracotta` | 316 | 3,9 % |
+| Kies | `gravel` | 215 | 2,6 % |
 | Eichenlaub | `oak_leaves` | 165 | 2,0 % |
 | Rote Keramik | `red_terracotta` | 101 | 1,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 92 | 1,1 % |
+| Seelaterne | `sea_lantern` | 46 | 0,6 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 39 | 0,5 % |
-| Orange Keramik | `orange_terracotta` | 37 | 0,4 % |
-| Wasser | `water` | 29 | 0,3 % |
+| Orange Keramik | `orange_terracotta` | 37 | 0,5 % |
+| Wasser | `water` | 29 | 0,4 % |
 | Graues Buntglas | `gray_stained_glass` | 18 | 0,2 % |
 | Eichenstamm | `oak_log` | 16 | 0,2 % |
 | Geschnittener Kupferblock | `cut_copper` | 14 | 0,2 % |
-| Seelaterne | `sea_lantern` | 14 | 0,2 % |
 | Grüne Keramik | `green_terracotta` | 13 | 0,2 % |
 
 ## Bauteile in Bau-Reihenfolge
@@ -48,28 +48,28 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `ruota` | Ruota | 24 | 6.1 |
-| 2 | `chiostro_uomini` | Chiostro degli Uomini | 1.334 | 6.1 |
-| 3 | `chiostro_donne` | Chiostro delle Donne | 1.094 | 6.2 |
+| 2 | `chiostro_uomini` | Chiostro degli Uomini | 1.231 | 6.1 |
+| 3 | `chiostro_donne` | Chiostro delle Donne | 855 | 6.2 |
 | 4 | `museo_tafelbilder` | Museo, Saal der Tafelbilder | 1.994 | 6.3 |
 | 5 | `museo_ghirlandaio` | Museo, Saal der Anbetung | 1.989 | 6.4 |
 | 6 | `museo_robbia` | Museo, Saal der Terrakotten | 2.008 | 6.5 |
-| 7 | `licht_ausstattung` | Licht in den Sälen | 14 | 6.5 |
+| 7 | `licht_ausstattung` | Licht in den Sälen | 46 | 6.5 |
 
 ## Bauschritte
 
 ### Schritt 6.1 – Ruota & Chiostro degli Uomini
 
 - **Y-Bereich:** 66 bis 83
-- **Blöcke:** 1.358
+- **Blöcke:** 1.255
 - **Bauteile:** `ruota`, `chiostro_uomini`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 457 |
 | Goldblock | `gold_block` | 373 |
-| Glatter Stein | `smooth_stone` | 266 |
+| Polierter Tuffstein | `polished_tuff` | 369 |
+| Glatter Stein | `smooth_stone` | 251 |
 | Weiße Keramik | `white_terracotta` | 99 |
 | Blaue Keramik | `blue_terracotta` | 92 |
 | Glatter Quarzblock | `smooth_quartz` | 26 |
@@ -97,15 +97,15 @@ In der Ruota, einem drehbaren Fach in der Wand, konnten Neugeborene anonym abgeg
 ### Schritt 6.2 – Chiostro delle Donne
 
 - **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.094
+- **Blöcke:** 855
 - **Bauteile:** `chiostro_donne`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 612 |
-| Kies | `gravel` | 220 |
+| Grasblock | `grass_block` | 378 |
+| Kies | `gravel` | 215 |
 | Eichenlaub | `oak_leaves` | 165 |
 | Glatter Stein | `smooth_stone` | 45 |
 | Glatter Quarzblock | `smooth_quartz` | 23 |
@@ -209,7 +209,7 @@ Domenico Ghirlandaio malte die Anbetung der Könige 1488 für die Kirche des Fin
 ### Schritt 6.5 – Museo, Saal der Terrakotten & Licht in den Sälen
 
 - **Y-Bereich:** 66 bis 99
-- **Blöcke:** 2.022
+- **Blöcke:** 2.054
 - **Bauteile:** `museo_robbia`, `licht_ausstattung`
 
 **Teileliste**
@@ -223,8 +223,8 @@ Domenico Ghirlandaio malte die Anbetung der Könige 1488 für die Kirche des Fin
 | Blaue Keramik | `blue_terracotta` | 174 |
 | Glatter Stein | `smooth_stone` | 158 |
 | Weiße Keramik | `white_terracotta` | 78 |
+| Seelaterne | `sea_lantern` | 46 |
 | Goldblock | `gold_block` | 19 |
-| Seelaterne | `sea_lantern` | 14 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
 **Beschreibung**

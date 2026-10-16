@@ -80,7 +80,7 @@ function ausstatten(api) {
 
   // ------------------------------------------------------------ Michelozzos Hof (Loch 1): Pflaster, Orpheus, Medaillons
   {
-    K.flaeche('michelozzo_hof', 0, { u0: -54, u1: -33, w0: -52, w1: -30 }, 0, 0, (c) => {
+    K.hofboden('michelozzo_hof', { u0: -54, u1: -33, w0: -52, w1: -30 }, (c) => {
       const d = Math.hypot(c.u + 43.5, c.w + 41);
       if (d < 3.2) return t.serena;
       return (Math.abs(c.u + 43.5) < 1.2 || Math.abs(c.w + 41) < 1.2) ? t.serena : (((Math.floor(c.u / 3) + Math.floor(c.w / 3)) & 1) ? t.pflaster : null);
@@ -102,7 +102,7 @@ function ausstatten(api) {
   // ------------------------------------------------------------ Garten (Loch 2): Wege, Brunnen, Statuen, Bäume
   {
     const cu = -94.5, cw = -50.5;
-    K.flaeche('garten_medici', 0, { u0: -114, u1: -75, w0: -84, w1: -17 }, 0, 0, (c) => {
+    K.hofboden('garten_medici', { u0: -114, u1: -75, w0: -84, w1: -17 }, (c) => {
       if (Math.abs(c.u - cu) < 1.6 || Math.abs(c.w - cw) < 1.6) return WZ.typ('gruen_weg');
       if (Math.hypot(c.u - cu, c.w - cw) < 8.5 && Math.hypot(c.u - cu, c.w - cw) > 6.5) return WZ.typ('gruen_weg');
       return null;

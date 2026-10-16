@@ -9,13 +9,13 @@ Ausdehnung des Modells: X -295 bis -135, Y 62 bis 128, Z -563 bis -380.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
-| 0 | Fundament, Boden und Hof | 19.475 | 12 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
+| 0 | Fundament, Boden und Hof | 19.559 | 12 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
 | 1 | Fassaden | 75.043 | 59 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
 | 2 | Hof | 70.457 | 39 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Böden und Decke | 67.631 | 36 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
 | 4 | Dach | 20.819 | 13 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
 | 5 | Licht | 207 | 1 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
-| 6 | Ausgestaltete Innenräume und Höfe | 4.919 | 4 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
+| 6 | Ausgestaltete Innenräume und Höfe | 4.835 | 4 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
 | | **Summe** | **258.551** | **164** | |
 
 ## Gesamt-Stückliste
@@ -23,13 +23,13 @@ Ausdehnung des Modells: X -295 bis -135, Y 62 bis 128, Z -563 bis -380.
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Weißer Beton | `white_concrete` | 132.244 | 51,1 % |
-| Rosa Keramik | `pink_terracotta` | 19.302 | 7,5 % |
-| Glatter Stein | `smooth_stone` | 17.115 | 6,6 % |
+| Rosa Keramik | `pink_terracotta` | 19.362 | 7,5 % |
+| Glatter Stein | `smooth_stone` | 17.107 | 6,6 % |
 | Terrakotta | `terracotta` | 15.300 | 5,9 % |
 | Tuffsteinziegel | `tuff_bricks` | 14.813 | 5,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 12.683 | 4,9 % |
 | Polierter Andesit | `polished_andesite` | 11.105 | 4,3 % |
-| Glatter Quarzblock | `smooth_quartz` | 7.501 | 2,9 % |
+| Glatter Quarzblock | `smooth_quartz` | 7.524 | 2,9 % |
 | Tuffstein | `tuff` | 5.705 | 2,2 % |
 | Steinziegel | `stone_bricks` | 5.519 | 2,1 % |
 | Rotes Buntglas | `red_stained_glass` | 2.030 | 0,8 % |
@@ -40,12 +40,12 @@ Ausdehnung des Modells: X -295 bis -135, Y 62 bis 128, Z -563 bis -380.
 | Hellblaues Buntglas | `light_blue_stained_glass` | 1.802 | 0,7 % |
 | Grasblock | `grass_block` | 1.778 | 0,7 % |
 | Goldblock | `gold_block` | 1.093 | 0,4 % |
-| Polierter Tuffstein | `polished_tuff` | 789 | 0,3 % |
+| Polierter Tuffstein | `polished_tuff` | 744 | 0,3 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 556 | 0,2 % |
-| Kies | `gravel` | 392 | 0,2 % |
+| Kies | `gravel` | 363 | 0,1 % |
 | Polierter Granit | `polished_granite` | 274 | 0,1 % |
 | Eichenlaub | `oak_leaves` | 248 | 0,1 % |
-| Seelaterne | `sea_lantern` | 214 | 0,1 % |
+| Seelaterne | `sea_lantern` | 213 | 0,1 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 154 | 0,1 % |
 | Grüne Keramik | `green_terracotta` | 110 | 0,0 % |
 | Blaue Keramik | `blue_terracotta` | 103 | 0,0 % |

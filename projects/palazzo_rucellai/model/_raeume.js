@@ -39,7 +39,7 @@ function ausstatten(api) {
 
   // ------------------------------------------------------------ Hof: Pflaster, Brunnenrand, Kübel
   {
-    K.flaeche('hof_rucellai', 0, { u0: 12, u1: 26, w0: -66, w1: -43 }, 0, 0, (c) => (Math.hypot(c.u - 19, c.w + 54.5) < 3 ? t.serena : (((Math.floor(c.u / 2) + Math.floor(c.w / 2)) & 1) ? t.pflaster : null)));
+    K.hofboden('hof_rucellai', { u0: 12, u1: 26, w0: -66, w1: -43 }, (c) => (Math.hypot(c.u - 19, c.w + 54.5) < 3 ? t.serena : (((Math.floor(c.u / 2) + Math.floor(c.w / 2)) & 1) ? t.pflaster : null)));
     K.brunnen('hof_rucellai', 0, 19, -54.5, 2.6, { saeule: 3 });
     for (const [u, w] of [[14, -62], [24, -62], [14, -46], [24, -46]]) {
       K.quader('hof_rucellai', 0, { u0: u - 1, u1: u + 1, w0: w - 1, w1: w + 1 }, 1, 1, t.terrakotta);

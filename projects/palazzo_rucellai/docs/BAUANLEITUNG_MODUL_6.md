@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.117 |
+| Blöcke | 3.072 |
 | Bauschritte | 4 |
 | Y-Bereich | 60 bis 96 |
-| X-Ausdehnung | -1208 bis -1155 (54 Blöcke) |
-| Z-Ausdehnung | 389 bis 456 (68 Blöcke) |
-| Kleinster Schritt | 418 Blöcke (Schritt 6.4) |
-| Mittlerer Schritt | 779 Blöcke |
+| X-Ausdehnung | -1206 bis -1155 (52 Blöcke) |
+| Z-Ausdehnung | 391 bis 456 (66 Blöcke) |
+| Kleinster Schritt | 373 Blöcke (Schritt 6.4) |
+| Mittlerer Schritt | 768 Blöcke |
 | Größter Schritt | 908 Blöcke (Schritt 6.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 884 | 28,4 % |
-| Weißer Beton | `white_concrete` | 411 | 13,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 369 | 11,8 % |
-| Terrakotta | `terracotta` | 352 | 11,3 % |
-| Glatter Stein | `smooth_stone` | 244 | 7,8 % |
-| Weiße Keramik | `white_terracotta` | 228 | 7,3 % |
-| Eichenlaub | `oak_leaves` | 148 | 4,7 % |
-| Polierter Tuffstein | `polished_tuff` | 147 | 4,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 884 | 28,8 % |
+| Weißer Beton | `white_concrete` | 411 | 13,4 % |
+| Glatter Quarzblock | `smooth_quartz` | 369 | 12,0 % |
+| Terrakotta | `terracotta` | 352 | 11,5 % |
+| Glatter Stein | `smooth_stone` | 244 | 7,9 % |
+| Weiße Keramik | `white_terracotta` | 228 | 7,4 % |
+| Eichenlaub | `oak_leaves` | 148 | 4,8 % |
+| Polierter Tuffstein | `polished_tuff` | 103 | 3,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 84 | 2,7 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 71 | 2,3 % |
 | Grüne Keramik | `green_terracotta` | 65 | 2,1 % |
@@ -37,7 +37,7 @@
 | Rosa Keramik | `pink_terracotta` | 16 | 0,5 % |
 | Polierter Tiefenschiefer | `polished_deepslate` | 16 | 0,5 % |
 | Eichenstamm | `oak_log` | 12 | 0,4 % |
-| Seelaterne | `sea_lantern` | 6 | 0,2 % |
+| Seelaterne | `sea_lantern` | 5 | 0,2 % |
 | Wasser | `water` | 4 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
@@ -47,8 +47,8 @@
 | 1 | `sala_prima` | Erster Saal | 886 | 6.1 |
 | 2 | `sala_seconda` | Zweiter Saal | 908 | 6.2 |
 | 3 | `sala_terza` | Dritter Saal | 905 | 6.3 |
-| 4 | `hof_rucellai` | Hof | 412 | 6.4 |
-| 5 | `licht_ausstattung` | Licht in den Sälen | 6 | 6.4 |
+| 4 | `hof_rucellai` | Hof | 368 | 6.4 |
+| 5 | `licht_ausstattung` | Licht in den Sälen | 5 | 6.4 |
 
 ## Bauschritte
 
@@ -166,7 +166,7 @@ Die Fassade zeigt dorisch, ionisch und korinthisch übereinander (Quelle: it.wik
 ### Schritt 6.4 – Hof & Licht in den Sälen
 
 - **Y-Bereich:** 60 bis 80
-- **Blöcke:** 418
+- **Blöcke:** 373
 - **Bauteile:** `hof_rucellai`, `licht_ausstattung`
 
 **Teileliste**
@@ -174,12 +174,12 @@ Die Fassade zeigt dorisch, ionisch und korinthisch übereinander (Quelle: it.wik
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Eichenlaub | `oak_leaves` | 148 |
-| Polierter Tuffstein | `polished_tuff` | 147 |
+| Polierter Tuffstein | `polished_tuff` | 103 |
 | Glatter Stein | `smooth_stone` | 67 |
 | Glatter Quarzblock | `smooth_quartz` | 18 |
 | Rosa Keramik | `pink_terracotta` | 16 |
 | Eichenstamm | `oak_log` | 12 |
-| Seelaterne | `sea_lantern` | 6 |
+| Seelaterne | `sea_lantern` | 5 |
 | Wasser | `water` | 4 |
 
 **Beschreibung**

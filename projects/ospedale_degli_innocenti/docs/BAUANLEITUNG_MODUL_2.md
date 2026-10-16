@@ -104,7 +104,7 @@ Die Loggia hat neun Rundbögen auf schlanken korinthischen Säulen aus Pietra se
 ### Schritt 2.3 – Hofwände – Teil 1/22 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.190
+- **Blöcke:** 1.196
 - **Bauteile:** `hofwaende`
 
 **Teileliste**
@@ -112,7 +112,7 @@ Die Loggia hat neun Rundbögen auf schlanken korinthischen Säulen aus Pietra se
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 634 |
-| Glatter Stein | `smooth_stone` | 556 |
+| Glatter Stein | `smooth_stone` | 562 |
 
 **Beschreibung**
 
@@ -133,7 +133,7 @@ Zwischen den Bögen sitzen blau-weiße Medaillons mit Wickelkindern von Andrea d
 ### Schritt 2.4 – Hofwände – Teil 2/22 (Y 69–70)
 
 - **Y-Bereich:** 69 bis 70
-- **Blöcke:** 1.190
+- **Blöcke:** 1.196
 - **Bauteile:** `hofwaende`
 
 **Teileliste**
@@ -141,7 +141,7 @@ Zwischen den Bögen sitzen blau-weiße Medaillons mit Wickelkindern von Andrea d
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 634 |
-| Glatter Stein | `smooth_stone` | 556 |
+| Glatter Stein | `smooth_stone` | 562 |
 
 **Beschreibung**
 
@@ -162,7 +162,7 @@ Zwischen den Bögen sitzen blau-weiße Medaillons mit Wickelkindern von Andrea d
 ### Schritt 2.5 – Hofwände – Teil 3/22 (Y 71–72)
 
 - **Y-Bereich:** 71 bis 72
-- **Blöcke:** 1.190
+- **Blöcke:** 1.196
 - **Bauteile:** `hofwaende`
 
 **Teileliste**
@@ -170,7 +170,7 @@ Zwischen den Bögen sitzen blau-weiße Medaillons mit Wickelkindern von Andrea d
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 634 |
-| Glatter Stein | `smooth_stone` | 556 |
+| Glatter Stein | `smooth_stone` | 562 |
 
 **Beschreibung**
 
@@ -188,10 +188,10 @@ Fenster frei lassen.
 
 Zwischen den Bögen sitzen blau-weiße Medaillons mit Wickelkindern von Andrea della Robbia (1487).
 
-### Schritt 2.6 – Hofwände – Teil 4/22 (Y 67–74)
+### Schritt 2.6 – Hofwände – Teil 4/22 (Y 73–74)
 
-- **Y-Bereich:** 67 bis 74
-- **Blöcke:** 1.528
+- **Y-Bereich:** 73 bis 74
+- **Blöcke:** 1.510
 - **Bauteile:** `hofwaende`
 
 **Teileliste**
@@ -199,7 +199,7 @@ Zwischen den Bögen sitzen blau-weiße Medaillons mit Wickelkindern von Andrea d
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 776 |
-| Glatter Stein | `smooth_stone` | 752 |
+| Glatter Stein | `smooth_stone` | 734 |
 
 **Beschreibung**
 
