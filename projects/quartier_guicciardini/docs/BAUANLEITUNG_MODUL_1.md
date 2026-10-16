@@ -8,29 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 173.124 |
-| Bauschritte | 104 |
+| Blöcke | 174.299 |
+| Bauschritte | 105 |
 | Y-Bereich | 57 bis 103 |
 | X-Ausdehnung | -1642 bis -1423 (220 Blöcke) |
 | Z-Ausdehnung | 828 bis 1010 (183 Blöcke) |
 | Kleinster Schritt | 566 Blöcke (Schritt 1.27) |
-| Mittlerer Schritt | 1.665 Blöcke |
+| Mittlerer Schritt | 1.660 Blöcke |
 | Größter Schritt | 2.091 Blöcke (Schritt 1.85) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 64.415 | 37,2 % |
-| Polierter Tuffstein | `polished_tuff` | 19.689 | 11,4 % |
+| Terrakotta | `terracotta` | 64.415 | 37,0 % |
+| Polierter Tuffstein | `polished_tuff` | 19.690 | 11,3 % |
 | Weißer Beton | `white_concrete` | 18.089 | 10,4 % |
-| Tuffstein | `tuff` | 15.340 | 8,9 % |
-| Hellgrauer Beton | `light_gray_concrete` | 14.027 | 8,1 % |
-| Glatter Stein | `smooth_stone` | 6.531 | 3,8 % |
+| Tuffstein | `tuff` | 16.266 | 9,3 % |
+| Hellgrauer Beton | `light_gray_concrete` | 14.027 | 8,0 % |
+| Glatter Stein | `smooth_stone` | 6.531 | 3,7 % |
 | Rosa Keramik | `pink_terracotta` | 5.848 | 3,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 5.799 | 3,3 % |
-| Orange Keramik | `orange_terracotta` | 5.293 | 3,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 4.986 | 2,9 % |
+| Orange Keramik | `orange_terracotta` | 5.379 | 3,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 5.152 | 3,0 % |
 | Graues Buntglas | `gray_stained_glass` | 3.636 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 3.359 | 1,9 % |
 | Grüner Beton | `green_concrete` | 1.222 | 0,7 % |
@@ -38,14 +38,14 @@
 | Ziegelsteine | `bricks` | 1.075 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 596 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 592 | 0,3 % |
-| Seelaterne | `sea_lantern` | 343 | 0,2 % |
+| Seelaterne | `sea_lantern` | 339 | 0,2 % |
 | Endsteinziegel | `end_stone_bricks` | 334 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 147 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 137 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 83 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 83 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 172 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 160 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 69 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 69 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 60 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 58 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 54 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 48 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
@@ -91,11 +91,11 @@
 | 22 | `w477942454_innen` | Palazzo des Cinquecento an Piazza Nazario Sauro: Innenausbau | 5.921 | 1.78–1.81 |
 | 23 | `w477942458` | Reihenhaus an Lungarno Guicciardini | 5.061 | 1.82–1.84 |
 | 24 | `w477942458_innen` | Reihenhaus an Lungarno Guicciardini: Innenausbau | 2.091 | 1.85 |
-| 25 | `w477942460` | Reihenhaus an Via di Santo Spirito | 10.437 | 1.86–1.91 |
-| 26 | `w477942460_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 5.091 | 1.92–1.94 |
-| 27 | `w477942462` | Reihenhaus an Via di Santo Spirito | 10.821 | 1.95–1.101 |
-| 28 | `w477942462_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 5.163 | 1.102–1.104 |
-| 29 | `strassenschilder` | Straßenschilder | 8 | 1.104 |
+| 25 | `w477942460` | Reihenhaus an Via di Santo Spirito | 11.530 | 1.86–1.92 |
+| 26 | `w477942460_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 5.087 | 1.93–1.95 |
+| 27 | `w477942462` | Reihenhaus an Via di Santo Spirito | 10.907 | 1.96–1.102 |
+| 28 | `w477942462_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 5.163 | 1.103–1.105 |
+| 29 | `strassenschilder` | Straßenschilder | 8 | 1.105 |
 
 ## Bauschritte
 
@@ -2880,17 +2880,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.86 – Reihenhaus an Via di Santo Spirito – Teil 1/6 (Y 57–57)
+### Schritt 1.86 – Reihenhaus an Via di Santo Spirito – Teil 1/7 (Y 57–58)
 
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.855
+- **Y-Bereich:** 57 bis 58
+- **Blöcke:** 926
 - **Bauteile:** `w477942460`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.855 |
+| Tuffstein | `tuff` | 926 |
 
 **Beschreibung**
 
@@ -2908,21 +2908,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.87 – Reihenhaus an Via di Santo Spirito – Teil 2/6 (Y 58–65)
+### Schritt 1.87 – Reihenhaus an Via di Santo Spirito – Teil 2/7 (Y 59–60)
 
-- **Y-Bereich:** 58 bis 65
-- **Blöcke:** 1.653
+- **Y-Bereich:** 59 bis 60
+- **Blöcke:** 2.079
 - **Bauteile:** `w477942460`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.432 |
-| Weißer Beton | `white_concrete` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-| Polierter Andesit | `polished_andesite` | 45 |
-| Fichtenholz-Bretter | `spruce_planks` | 10 |
+| Polierter Tuffstein | `polished_tuff` | 1.856 |
+| Gelbe Keramik | `yellow_terracotta` | 212 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Graues Buntglas | `gray_stained_glass` | 5 |
 
 **Beschreibung**
 
@@ -2940,19 +2939,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.88 – Reihenhaus an Via di Santo Spirito – Teil 3/6 (Y 66–74)
+### Schritt 1.88 – Reihenhaus an Via di Santo Spirito – Teil 3/7 (Y 61–70)
 
-- **Y-Bereich:** 66 bis 74
-- **Blöcke:** 1.809
+- **Y-Bereich:** 61 bis 70
+- **Blöcke:** 1.973
 - **Bauteile:** `w477942460`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.473 |
-| Weißer Beton | `white_concrete` | 258 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
+| Gelbe Keramik | `yellow_terracotta` | 1.672 |
+| Weißer Beton | `white_concrete` | 165 |
+| Graues Buntglas | `gray_stained_glass` | 82 |
+| Polierter Andesit | `polished_andesite` | 39 |
 | Fichtenholz-Bretter | `spruce_planks` | 15 |
 
 **Beschreibung**
@@ -2971,9 +2971,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.89 – Reihenhaus an Via di Santo Spirito – Teil 4/6 (Y 75–82)
+### Schritt 1.89 – Reihenhaus an Via di Santo Spirito – Teil 4/7 (Y 71–78)
 
-- **Y-Bereich:** 75 bis 82
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.588
 - **Bauteile:** `w477942460`
 
@@ -3002,21 +3002,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.90 – Reihenhaus an Via di Santo Spirito – Teil 5/6 (Y 83–88)
+### Schritt 1.90 – Reihenhaus an Via di Santo Spirito – Teil 5/7 (Y 79–86)
 
-- **Y-Bereich:** 83 bis 88
-- **Blöcke:** 1.915
+- **Y-Bereich:** 79 bis 86
+- **Blöcke:** 1.615
 - **Bauteile:** `w477942460`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 879 |
-| Gelbe Keramik | `yellow_terracotta` | 834 |
-| Weißer Beton | `white_concrete` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
-| Fichtenholz-Bretter | `spruce_planks` | 10 |
+| Gelbe Keramik | `yellow_terracotta` | 1.274 |
+| Weißer Beton | `white_concrete` | 237 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
+| Fichtenholz-Bretter | `spruce_planks` | 20 |
 
 **Beschreibung**
 
@@ -3034,9 +3033,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.91 – Reihenhaus an Via di Santo Spirito – Teil 6/6 (Y 89–95)
+### Schritt 1.91 – Reihenhaus an Via di Santo Spirito – Teil 6/7 (Y 87–90)
 
-- **Y-Bereich:** 89 bis 95
+- **Y-Bereich:** 87 bis 90
+- **Blöcke:** 1.732
+- **Bauteile:** `w477942460`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 879 |
+| Gelbe Keramik | `yellow_terracotta` | 747 |
+| Weißer Beton | `white_concrete` | 106 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.92 – Reihenhaus an Via di Santo Spirito – Teil 7/7 (Y 91–97)
+
+- **Y-Bereich:** 91 bis 97
 - **Blöcke:** 1.617
 - **Bauteile:** `w477942460`
 
@@ -3063,10 +3092,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.92 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 1/3 (Y 57–66)
+### Schritt 1.93 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 1/3 (Y 59–68)
 
-- **Y-Bereich:** 57 bis 66
-- **Blöcke:** 1.703
+- **Y-Bereich:** 59 bis 68
+- **Blöcke:** 1.701
 - **Bauteile:** `w477942460_innen`
 
 **Teileliste**
@@ -3075,9 +3104,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.641 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
-| Seelaterne | `sea_lantern` | 20 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 18 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3101,10 +3130,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.93 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 2/3 (Y 67–73)
+### Schritt 1.94 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 2/3 (Y 69–75)
 
-- **Y-Bereich:** 67 bis 73
-- **Blöcke:** 1.691
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.690
 - **Bauteile:** `w477942460_innen`
 
 **Teileliste**
@@ -3113,9 +3142,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.641 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Seelaterne | `sea_lantern` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 
@@ -3141,10 +3170,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.94 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 3/3 (Y 74–81)
+### Schritt 1.95 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 3/3 (Y 76–83)
 
-- **Y-Bereich:** 74 bis 81
-- **Blöcke:** 1.697
+- **Y-Bereich:** 76 bis 83
+- **Blöcke:** 1.696
 - **Bauteile:** `w477942460_innen`
 
 **Teileliste**
@@ -3153,9 +3182,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.641 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Seelaterne | `sea_lantern` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 
@@ -3181,7 +3210,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.95 – Reihenhaus an Via di Santo Spirito – Teil 1/7 (Y 57–57)
+### Schritt 1.96 – Reihenhaus an Via di Santo Spirito – Teil 1/7 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.877
@@ -3209,17 +3238,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.96 – Reihenhaus an Via di Santo Spirito – Teil 2/7 (Y 58–62)
+### Schritt 1.97 – Reihenhaus an Via di Santo Spirito – Teil 2/7 (Y 58–62)
 
 - **Y-Bereich:** 58 bis 62
-- **Blöcke:** 1.205
+- **Blöcke:** 1.291
 - **Bauteile:** `w477942462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.054 |
+| Orange Keramik | `orange_terracotta` | 1.140 |
 | Weißer Beton | `white_concrete` | 81 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 | Glatter Stein | `smooth_stone` | 20 |
@@ -3241,50 +3270,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.97 – Reihenhaus an Via di Santo Spirito – Teil 3/7 (Y 63–70)
+### Schritt 1.98 – Reihenhaus an Via di Santo Spirito – Teil 3/7 (Y 63–69)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.609
+- **Y-Bereich:** 63 bis 69
+- **Blöcke:** 1.415
 - **Bauteile:** `w477942462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.327 |
-| Weißer Beton | `white_concrete` | 173 |
-| Graues Buntglas | `gray_stained_glass` | 93 |
-| Grüner Beton | `green_concrete` | 16 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.98 – Reihenhaus an Via di Santo Spirito – Teil 4/7 (Y 71–77)
-
-- **Y-Bereich:** 71 bis 77
-- **Blöcke:** 1.414
-- **Bauteile:** `w477942462`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.102 |
-| Weißer Beton | `white_concrete` | 228 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
+| Orange Keramik | `orange_terracotta` | 1.183 |
+| Weißer Beton | `white_concrete` | 151 |
+| Graues Buntglas | `gray_stained_glass` | 69 |
 | Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
@@ -3303,7 +3301,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.99 – Reihenhaus an Via di Santo Spirito – Teil 5/7 (Y 78–85)
+### Schritt 1.99 – Reihenhaus an Via di Santo Spirito – Teil 4/7 (Y 70–77)
+
+- **Y-Bereich:** 70 bis 77
+- **Blöcke:** 1.608
+- **Bauteile:** `w477942462`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.246 |
+| Weißer Beton | `white_concrete` | 250 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Grüner Beton | `green_concrete` | 16 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.100 – Reihenhaus an Via di Santo Spirito – Teil 5/7 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.636
@@ -3334,7 +3363,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.100 – Reihenhaus an Via di Santo Spirito – Teil 6/7 (Y 86–88)
+### Schritt 1.101 – Reihenhaus an Via di Santo Spirito – Teil 6/7 (Y 86–88)
 
 - **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.695
@@ -3364,7 +3393,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.101 – Reihenhaus an Via di Santo Spirito – Teil 7/7 (Y 89–95)
+### Schritt 1.102 – Reihenhaus an Via di Santo Spirito – Teil 7/7 (Y 89–95)
 
 - **Y-Bereich:** 89 bis 95
 - **Blöcke:** 1.385
@@ -3393,7 +3422,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.102 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 1/3 (Y 57–66)
+### Schritt 1.103 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 1/3 (Y 57–66)
 
 - **Y-Bereich:** 57 bis 66
 - **Blöcke:** 1.726
@@ -3433,7 +3462,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.103 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 2/3 (Y 67–73)
+### Schritt 1.104 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 2/3 (Y 67–73)
 
 - **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.714
@@ -3475,7 +3504,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.104 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 3/3 (Y 74–81) & Straßenschilder
+### Schritt 1.105 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 3/3 (Y 74–81) & Straßenschilder
 
 - **Y-Bereich:** 64 bis 81
 - **Blöcke:** 1.731
@@ -3488,15 +3517,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Terrakotta | `terracotta` | 1.661 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

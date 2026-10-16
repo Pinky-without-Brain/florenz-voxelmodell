@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 118.726 |
+| Blöcke | 118.742 |
 | Bauschritte | 69 |
-| Y-Bereich | 55 bis 96 |
+| Y-Bereich | 55 bis 97 |
 | X-Ausdehnung | -2516 bis -2364 (153 Blöcke) |
 | Z-Ausdehnung | 449 bis 602 (154 Blöcke) |
 | Kleinster Schritt | 1.054 Blöcke (Schritt 5.30) |
@@ -21,8 +21,8 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 35.586 | 30,0 % |
-| Endsteinziegel | `end_stone_bricks` | 20.745 | 17,5 % |
+| Terrakotta | `terracotta` | 35.559 | 29,9 % |
+| Endsteinziegel | `end_stone_bricks` | 20.788 | 17,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 14.415 | 12,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 14.120 | 11,9 % |
 | Polierter Tuffstein | `polished_tuff` | 10.794 | 9,1 % |
@@ -33,8 +33,8 @@
 | Polierter Andesit | `polished_andesite` | 2.353 | 2,0 % |
 | Ziegelsteine | `bricks` | 788 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 647 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 214 | 0,2 % |
-| Seelaterne | `sea_lantern` | 187 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 215 | 0,2 % |
+| Seelaterne | `sea_lantern` | 184 | 0,2 % |
 | Tuffstein | `tuff` | 121 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 62 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 62 | 0,1 % |
@@ -43,8 +43,8 @@
 | Rote Keramik | `red_terracotta` | 51 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 51 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 46 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 29 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 27 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 30 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 
@@ -52,7 +52,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 176 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 178 |
 | Steintreppe | `stone_stairs` | 160 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -67,11 +67,11 @@
 | 6 | `w495060142_innen` | Palazzo des Ottocento an Via Lorenzo Bartolini: Innenausbau | 2.112 | 5.29–5.30 |
 | 7 | `w495060144` | Palazzo des Cinquecento an Via Sant'Onofrio | 9.428 | 5.31–5.35 |
 | 8 | `w495060144_innen` | Palazzo des Cinquecento an Via Sant'Onofrio: Innenausbau | 2.074 | 5.36 |
-| 9 | `w495060145` | Haus w495060145 | 17.931 | 5.37–5.46 |
-| 10 | `w495060145_innen` | Haus w495060145: Innenausbau | 5.785 | 5.47–5.49 |
+| 9 | `w495060145` | Haus w495060145 | 17.979 | 5.37–5.46 |
+| 10 | `w495060145_innen` | Haus w495060145: Innenausbau | 5.758 | 5.47–5.49 |
 | 11 | `w495060150` | Reihenhaus an Via Lorenzo Bartolini | 18.324 | 5.50–5.60 |
 | 12 | `w495060150_innen` | Reihenhaus an Via Lorenzo Bartolini: Innenausbau | 5.694 | 5.61–5.63 |
-| 13 | `w495060158` | Palazzo des Ottocento an Via Sant'Onofrio | 7.737 | 5.64–5.67 |
+| 13 | `w495060158` | Palazzo des Ottocento an Via Sant'Onofrio | 7.732 | 5.64–5.67 |
 | 14 | `w495060158_innen` | Palazzo des Ottocento an Via Sant'Onofrio: Innenausbau | 2.166 | 5.68–5.69 |
 
 ## Bauschritte
@@ -1276,9 +1276,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.37 – Haus w495060145 – Teil 1/10 (Y 55–55)
+### Schritt 5.37 – Haus w495060145 – Teil 1/10 (Y 56–56)
 
-- **Y-Bereich:** 55 bis 55
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.179
 - **Bauteile:** `w495060145`
 
@@ -1304,9 +1304,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.38 – Haus w495060145 – Teil 2/10 (Y 55–57)
+### Schritt 5.38 – Haus w495060145 – Teil 2/10 (Y 56–58)
 
-- **Y-Bereich:** 55 bis 57
+- **Y-Bereich:** 56 bis 58
 - **Blöcke:** 1.983
 - **Bauteile:** `w495060145`
 
@@ -1334,17 +1334,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.39 – Haus w495060145 – Teil 3/10 (Y 58–62)
+### Schritt 5.39 – Haus w495060145 – Teil 3/10 (Y 59–63)
 
-- **Y-Bereich:** 58 bis 62
-- **Blöcke:** 2.010
+- **Y-Bereich:** 59 bis 63
+- **Blöcke:** 2.009
 - **Bauteile:** `w495060145`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.336 |
+| Endsteinziegel | `end_stone_bricks` | 1.335 |
 | Weißer Beton | `white_concrete` | 351 |
 | Grüner Beton | `green_concrete` | 138 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
@@ -1367,9 +1367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.40 – Haus w495060145 – Teil 4/10 (Y 63–67)
+### Schritt 5.40 – Haus w495060145 – Teil 4/10 (Y 64–68)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 64 bis 68
 - **Blöcke:** 2.085
 - **Bauteile:** `w495060145`
 
@@ -1399,9 +1399,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.41 – Haus w495060145 – Teil 5/10 (Y 68–71)
+### Schritt 5.41 – Haus w495060145 – Teil 5/10 (Y 69–72)
 
-- **Y-Bereich:** 68 bis 71
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.692
 - **Bauteile:** `w495060145`
 
@@ -1430,18 +1430,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.42 – Haus w495060145 – Teil 6/10 (Y 72–75)
+### Schritt 5.42 – Haus w495060145 – Teil 6/10 (Y 73–77)
 
-- **Y-Bereich:** 72 bis 75
-- **Blöcke:** 1.612
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 2.045
 - **Bauteile:** `w495060145`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.028 |
-| Weißer Beton | `white_concrete` | 257 |
+| Endsteinziegel | `end_stone_bricks` | 1.351 |
+| Weißer Beton | `white_concrete` | 367 |
 | Graues Buntglas | `gray_stained_glass` | 183 |
 | Grüner Beton | `green_concrete` | 144 |
 
@@ -1461,9 +1461,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.43 – Haus w495060145 – Teil 7/10 (Y 76–79)
+### Schritt 5.43 – Haus w495060145 – Teil 7/10 (Y 78–81)
 
-- **Y-Bereich:** 76 bis 79
+- **Y-Bereich:** 78 bis 81
 - **Blöcke:** 1.732
 - **Bauteile:** `w495060145`
 
@@ -1490,18 +1490,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.44 – Haus w495060145 – Teil 8/10 (Y 80–84)
+### Schritt 5.44 – Haus w495060145 – Teil 8/10 (Y 82–85)
 
-- **Y-Bereich:** 80 bis 84
-- **Blöcke:** 2.085
+- **Y-Bereich:** 82 bis 85
+- **Blöcke:** 1.652
 - **Bauteile:** `w495060145`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.385 |
-| Weißer Beton | `white_concrete` | 482 |
+| Endsteinziegel | `end_stone_bricks` | 1.062 |
+| Weißer Beton | `white_concrete` | 372 |
 | Graues Buntglas | `gray_stained_glass` | 122 |
 | Grüner Beton | `green_concrete` | 96 |
 
@@ -1521,10 +1521,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.45 – Haus w495060145 – Teil 9/10 (Y 85–87)
+### Schritt 5.45 – Haus w495060145 – Teil 9/10 (Y 86–88)
 
-- **Y-Bereich:** 85 bis 87
-- **Blöcke:** 1.893
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.942
 - **Bauteile:** `w495060145`
 
 **Teileliste**
@@ -1532,7 +1532,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.460 |
-| Endsteinziegel | `end_stone_bricks` | 433 |
+| Endsteinziegel | `end_stone_bricks` | 482 |
 
 **Beschreibung**
 
@@ -1550,9 +1550,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.46 – Haus w495060145 – Teil 10/10 (Y 88–96)
+### Schritt 5.46 – Haus w495060145 – Teil 10/10 (Y 89–97)
 
-- **Y-Bereich:** 88 bis 96
+- **Y-Bereich:** 89 bis 97
 - **Blöcke:** 1.660
 - **Bauteile:** `w495060145`
 
@@ -1579,27 +1579,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.47 – Haus w495060145: Innenausbau – Teil 1/3 (Y 55–64)
+### Schritt 5.47 – Haus w495060145: Innenausbau – Teil 1/3 (Y 56–65)
 
-- **Y-Bereich:** 55 bis 64
-- **Blöcke:** 1.934
+- **Y-Bereich:** 56 bis 65
+- **Blöcke:** 1.927
 - **Bauteile:** `w495060145_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.870 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
-| Seelaterne | `sea_lantern` | 22 |
+| Terrakotta | `terracotta` | 1.861 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Seelaterne | `sea_lantern` | 21 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
 
 **Beschreibung**
 
@@ -1617,19 +1619,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.48 – Haus w495060145: Innenausbau – Teil 2/3 (Y 65–71)
+### Schritt 5.48 – Haus w495060145: Innenausbau – Teil 2/3 (Y 66–72)
 
-- **Y-Bereich:** 65 bis 71
-- **Blöcke:** 1.924
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 1.914
 - **Bauteile:** `w495060145_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.870 |
+| Terrakotta | `terracotta` | 1.861 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Seelaterne | `sea_lantern` | 11 |
+| Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -1657,19 +1659,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.49 – Haus w495060145: Innenausbau – Teil 3/3 (Y 72–79)
+### Schritt 5.49 – Haus w495060145: Innenausbau – Teil 3/3 (Y 73–80)
 
-- **Y-Bereich:** 72 bis 79
-- **Blöcke:** 1.927
+- **Y-Bereich:** 73 bis 80
+- **Blöcke:** 1.917
 - **Bauteile:** `w495060145_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.870 |
+| Terrakotta | `terracotta` | 1.861 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 11 |
+| Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
@@ -2223,14 +2225,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.66 – Palazzo des Ottocento an Via Sant'Onofrio – Teil 3/4 (Y 76–86)
 
 - **Y-Bereich:** 76 bis 86
-- **Blöcke:** 1.797
+- **Blöcke:** 1.792
 - **Bauteile:** `w495060158`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.004 |
+| Endsteinziegel | `end_stone_bricks` | 999 |
 | Weißer Beton | `white_concrete` | 332 |
 | Glatter Stein | `smooth_stone` | 154 |
 | Graues Buntglas | `gray_stained_glass` | 150 |

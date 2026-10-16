@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 73.169 |
+| Blöcke | 74.255 |
 | Bauschritte | 43 |
 | Y-Bereich | 66 bis 77 |
 | X-Ausdehnung | 736 bis 1055 (320 Blöcke) |
 | Z-Ausdehnung | -1488 bis -1169 (320 Blöcke) |
 | Kleinster Schritt | 799 Blöcke (Schritt 12.43) |
-| Mittlerer Schritt | 1.702 Blöcke |
-| Größter Schritt | 2.097 Blöcke (Schritt 12.42) |
+| Mittlerer Schritt | 1.727 Blöcke |
+| Größter Schritt | 2.095 Blöcke (Schritt 12.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 35.459 | 48,5 % |
-| Polierter Tuffstein | `polished_tuff` | 28.998 | 39,6 % |
-| Stein | `stone` | 4.310 | 5,9 % |
-| Glatter Stein | `smooth_stone` | 3.608 | 4,9 % |
+| Grasblock | `grass_block` | 35.444 | 47,7 % |
+| Polierter Tuffstein | `polished_tuff` | 28.960 | 39,0 % |
+| Stein | `stone` | 5.460 | 7,4 % |
+| Glatter Stein | `smooth_stone` | 3.597 | 4,8 % |
 | Kies | `gravel` | 486 | 0,7 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 132 | 0,2 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 71 | 0,1 % |
@@ -44,12 +44,12 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 4.292 | 12.1–12.3 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 23.758 | 12.4–12.17 |
-| 3 | `gehwege` | Gehwege | 3.568 | 12.18–12.19 |
+| 1 | `boeschung` | Böschung und Mantel | 5.442 | 12.1–12.3 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 23.726 | 12.4–12.17 |
+| 3 | `gehwege` | Gehwege | 3.557 | 12.18–12.19 |
 | 4 | `stufen` | Treppenflächen | 268 | 12.20 |
-| 5 | `hof_pflaster` | Höfe | 5.240 | 12.20–12.23 |
-| 6 | `rasen` | Grün und offenes Gelände | 35.477 | 12.24–12.43 |
+| 5 | `hof_pflaster` | Höfe | 5.234 | 12.20–12.23 |
+| 6 | `rasen` | Grün und offenes Gelände | 35.462 | 12.24–12.43 |
 | 7 | `gruen_wege` | Wege im Grün | 486 | 12.43 |
 | 8 | `mauern_garten` | Gartenmauern | 80 | 12.43 |
 
@@ -58,14 +58,14 @@
 ### Schritt 12.1 – Böschung und Mantel – Teil 1/3 (Y 66–69)
 
 - **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.213
+- **Blöcke:** 2.092
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.213 |
+| Stein | `stone` | 2.092 |
 
 **Beschreibung**
 
@@ -86,14 +86,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 12.2 – Böschung und Mantel – Teil 2/3 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 2.091
+- **Blöcke:** 1.255
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.091 |
+| Stein | `stone` | 1.255 |
 
 **Beschreibung**
 
@@ -111,17 +111,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 12.3 – Böschung und Mantel – Teil 3/3 (Y 71–73)
+### Schritt 12.3 – Böschung und Mantel – Teil 3/3 (Y 70–73)
 
-- **Y-Bereich:** 71 bis 73
-- **Blöcke:** 988
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 2.095
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 988 |
+| Stein | `stone` | 2.095 |
 
 **Beschreibung**
 
@@ -282,14 +282,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 12.9 – Straßenpflaster – Teil 6/14 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.764
+- **Blöcke:** 1.756
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.764 |
+| Polierter Tuffstein | `polished_tuff` | 1.756 |
 
 **Beschreibung**
 
@@ -310,14 +310,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 12.10 – Straßenpflaster – Teil 7/14 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.787
+- **Blöcke:** 1.784
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.787 |
+| Polierter Tuffstein | `polished_tuff` | 1.784 |
 
 **Beschreibung**
 
@@ -338,14 +338,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 12.11 – Straßenpflaster – Teil 8/14 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.810
+- **Blöcke:** 1.806
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.810 |
+| Polierter Tuffstein | `polished_tuff` | 1.806 |
 
 **Beschreibung**
 
@@ -366,14 +366,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 12.12 – Straßenpflaster – Teil 9/14 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.764
+- **Blöcke:** 1.759
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.764 |
+| Polierter Tuffstein | `polished_tuff` | 1.759 |
 
 **Beschreibung**
 
@@ -394,14 +394,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 12.13 – Straßenpflaster – Teil 10/14 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.792
+- **Blöcke:** 1.790
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.792 |
+| Polierter Tuffstein | `polished_tuff` | 1.790 |
 
 **Beschreibung**
 
@@ -422,14 +422,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 12.14 – Straßenpflaster – Teil 11/14 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.800
+- **Blöcke:** 1.790
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.800 |
+| Polierter Tuffstein | `polished_tuff` | 1.790 |
 
 **Beschreibung**
 
@@ -534,14 +534,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 12.18 – Gehwege – Teil 1/2 (Y 69–71)
 
 - **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.976
+- **Blöcke:** 1.944
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.976 |
+| Glatter Stein | `smooth_stone` | 1.944 |
 
 **Beschreibung**
 
@@ -562,14 +562,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 12.19 – Gehwege – Teil 2/2 (Y 71–72)
 
 - **Y-Bereich:** 71 bis 72
-- **Blöcke:** 1.592
+- **Blöcke:** 1.613
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.592 |
+| Glatter Stein | `smooth_stone` | 1.613 |
 
 **Beschreibung**
 
@@ -659,14 +659,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 12.22 – Höfe – Teil 3/4 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.576
+- **Blöcke:** 1.570
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.576 |
+| Polierter Tuffstein | `polished_tuff` | 1.570 |
 
 **Beschreibung**
 
@@ -830,14 +830,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 12.28 – Grün und offenes Gelände – Teil 5/20 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.881
+- **Blöcke:** 1.879
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.877 |
+| Grasblock | `grass_block` | 1.875 |
 | Stein | `stone` | 4 |
 
 **Beschreibung**
@@ -859,14 +859,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 12.29 – Grün und offenes Gelände – Teil 6/20 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.891
+- **Blöcke:** 1.887
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.891 |
+| Grasblock | `grass_block` | 1.887 |
 
 **Beschreibung**
 
@@ -1055,14 +1055,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 12.36 – Grün und offenes Gelände – Teil 13/20 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.876
+- **Blöcke:** 1.871
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.873 |
+| Grasblock | `grass_block` | 1.868 |
 | Stein | `stone` | 3 |
 
 **Beschreibung**
@@ -1224,14 +1224,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 12.42 – Grün und offenes Gelände – Teil 19/20 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 2.097
+- **Blöcke:** 2.093
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 2.096 |
+| Grasblock | `grass_block` | 2.092 |
 | Stein | `stone` | 1 |
 
 **Beschreibung**

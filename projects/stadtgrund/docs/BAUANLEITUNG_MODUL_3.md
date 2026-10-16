@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 92.999 |
+| Blöcke | 93.562 |
 | Bauschritte | 58 |
 | Y-Bereich | 49 bis 67 |
 | X-Ausdehnung | -2144 bis -1825 (320 Blöcke) |
 | Z-Ausdehnung | -1488 bis -1169 (320 Blöcke) |
 | Kleinster Schritt | 391 Blöcke (Schritt 3.57) |
-| Mittlerer Schritt | 1.603 Blöcke |
-| Größter Schritt | 2.065 Blöcke (Schritt 3.43) |
+| Mittlerer Schritt | 1.613 Blöcke |
+| Größter Schritt | 2.078 Blöcke (Schritt 3.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 58.610 | 63,0 % |
-| Stein | `stone` | 14.283 | 15,4 % |
-| Polierter Tuffstein | `polished_tuff` | 12.027 | 12,9 % |
-| Glatter Stein | `smooth_stone` | 4.449 | 4,8 % |
+| Grasblock | `grass_block` | 58.577 | 62,6 % |
+| Stein | `stone` | 14.946 | 16,0 % |
+| Polierter Tuffstein | `polished_tuff` | 11.971 | 12,8 % |
+| Glatter Stein | `smooth_stone` | 4.438 | 4,7 % |
 | Polierter Andesit | `polished_andesite` | 3.138 | 3,4 % |
 | Steinziegel | `stone_bricks` | 492 | 0,5 % |
 
@@ -32,12 +32,12 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 13.137 | 3.1–3.8 |
+| 1 | `boeschung` | Böschung und Mantel | 13.800 | 3.1–3.8 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 3.692 | 3.9–3.10 |
 | 3 | `strassen_fahrbahn` | Hauptstraßen | 3.138 | 3.11–3.12 |
-| 4 | `gehwege` | Gehwege | 4.326 | 3.13–3.15 |
-| 5 | `hof_pflaster` | Höfe | 8.335 | 3.16–3.21 |
-| 6 | `rasen` | Grün und offenes Gelände | 59.756 | 3.22–3.57 |
+| 4 | `gehwege` | Gehwege | 4.315 | 3.13–3.15 |
+| 5 | `hof_pflaster` | Höfe | 8.279 | 3.16–3.21 |
+| 6 | `rasen` | Grün und offenes Gelände | 59.723 | 3.22–3.57 |
 | 7 | `mauern_garten` | Gartenmauern | 615 | 3.58 |
 
 ## Bauschritte
@@ -101,14 +101,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 3.3 – Böschung und Mantel – Teil 3/8 (Y 55–55)
 
 - **Y-Bereich:** 55 bis 55
-- **Blöcke:** 1.574
+- **Blöcke:** 1.969
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.574 |
+| Stein | `stone` | 1.969 |
 
 **Beschreibung**
 
@@ -129,14 +129,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 3.4 – Böschung und Mantel – Teil 4/8 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.221
+- **Blöcke:** 1.353
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.221 |
+| Stein | `stone` | 1.353 |
 
 **Beschreibung**
 
@@ -157,14 +157,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 3.5 – Böschung und Mantel – Teil 5/8 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.217
+- **Blöcke:** 1.357
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.217 |
+| Stein | `stone` | 1.357 |
 
 **Beschreibung**
 
@@ -185,14 +185,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 3.6 – Böschung und Mantel – Teil 6/8 (Y 57–58)
 
 - **Y-Bereich:** 57 bis 58
-- **Blöcke:** 2.011
+- **Blöcke:** 1.906
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.011 |
+| Stein | `stone` | 1.906 |
 
 **Beschreibung**
 
@@ -213,14 +213,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 3.7 – Böschung und Mantel – Teil 7/8 (Y 59–62)
 
 - **Y-Bereich:** 59 bis 62
-- **Blöcke:** 1.992
+- **Blöcke:** 1.958
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.992 |
+| Stein | `stone` | 1.958 |
 
 **Beschreibung**
 
@@ -241,14 +241,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 3.8 – Böschung und Mantel – Teil 8/8 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.943
+- **Blöcke:** 2.078
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.943 |
+| Stein | `stone` | 2.078 |
 
 **Beschreibung**
 
@@ -409,14 +409,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 3.14 – Gehwege – Teil 2/3 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.156
+- **Blöcke:** 1.153
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.156 |
+| Glatter Stein | `smooth_stone` | 1.153 |
 
 **Beschreibung**
 
@@ -437,14 +437,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 3.15 – Gehwege – Teil 3/3 (Y 57–65)
 
 - **Y-Bereich:** 57 bis 65
-- **Blöcke:** 1.879
+- **Blöcke:** 1.871
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.879 |
+| Glatter Stein | `smooth_stone` | 1.871 |
 
 **Beschreibung**
 
@@ -465,14 +465,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 3.16 – Höfe – Teil 1/6 (Y 51–57)
 
 - **Y-Bereich:** 51 bis 57
-- **Blöcke:** 1.874
+- **Blöcke:** 1.867
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.874 |
+| Polierter Tuffstein | `polished_tuff` | 1.867 |
 
 **Beschreibung**
 
@@ -493,14 +493,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 3.17 – Höfe – Teil 2/6 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.279
+- **Blöcke:** 1.260
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.279 |
+| Polierter Tuffstein | `polished_tuff` | 1.260 |
 
 **Beschreibung**
 
@@ -521,14 +521,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 3.18 – Höfe – Teil 3/6 (Y 58–62)
 
 - **Y-Bereich:** 58 bis 62
-- **Blöcke:** 1.042
+- **Blöcke:** 1.038
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.042 |
+| Polierter Tuffstein | `polished_tuff` | 1.038 |
 
 **Beschreibung**
 
@@ -549,14 +549,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 3.19 – Höfe – Teil 4/6 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.855
+- **Blöcke:** 1.835
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.855 |
+| Polierter Tuffstein | `polished_tuff` | 1.835 |
 
 **Beschreibung**
 
@@ -605,14 +605,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 3.21 – Höfe – Teil 6/6 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 981
+- **Blöcke:** 975
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 981 |
+| Polierter Tuffstein | `polished_tuff` | 975 |
 
 **Beschreibung**
 
@@ -1067,14 +1067,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 3.37 – Grün und offenes Gelände – Teil 16/36 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.904
+- **Blöcke:** 1.903
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.893 |
+| Grasblock | `grass_block` | 1.892 |
 | Stein | `stone` | 11 |
 
 **Beschreibung**
@@ -1210,14 +1210,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 3.42 – Grün und offenes Gelände – Teil 21/36 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.022
+- **Blöcke:** 2.012
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 2.002 |
+| Grasblock | `grass_block` | 1.992 |
 | Stein | `stone` | 20 |
 
 **Beschreibung**
@@ -1239,14 +1239,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 3.43 – Grün und offenes Gelände – Teil 22/36 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.065
+- **Blöcke:** 2.060
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 2.057 |
+| Grasblock | `grass_block` | 2.052 |
 | Stein | `stone` | 8 |
 
 **Beschreibung**
@@ -1326,14 +1326,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 3.46 – Grün und offenes Gelände – Teil 25/36 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.398
+- **Blöcke:** 1.392
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.397 |
+| Grasblock | `grass_block` | 1.391 |
 | Stein | `stone` | 1 |
 
 **Beschreibung**
@@ -1499,14 +1499,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 3.52 – Grün und offenes Gelände – Teil 31/36 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.859
+- **Blöcke:** 1.856
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.859 |
+| Grasblock | `grass_block` | 1.856 |
 
 **Beschreibung**
 
@@ -1527,14 +1527,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 3.53 – Grün und offenes Gelände – Teil 32/36 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.959
+- **Blöcke:** 1.957
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.959 |
+| Grasblock | `grass_block` | 1.957 |
 
 **Beschreibung**
 
@@ -1555,14 +1555,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 3.54 – Grün und offenes Gelände – Teil 33/36 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.705
+- **Blöcke:** 1.702
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.705 |
+| Grasblock | `grass_block` | 1.702 |
 
 **Beschreibung**
 
@@ -1583,14 +1583,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 3.55 – Grün und offenes Gelände – Teil 34/36 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.977
+- **Blöcke:** 1.974
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.977 |
+| Grasblock | `grass_block` | 1.974 |
 
 **Beschreibung**
 

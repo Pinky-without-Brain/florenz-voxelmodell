@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 233.321 |
+| Blöcke | 233.220 |
 | Bauschritte | 143 |
 | Y-Bereich | 60 bis 112 |
 | X-Ausdehnung | 26 bis 231 (206 Blöcke) |
 | Z-Ausdehnung | 889 bis 1104 (216 Blöcke) |
 | Kleinster Schritt | 526 Blöcke (Schritt 1.135) |
-| Mittlerer Schritt | 1.632 Blöcke |
+| Mittlerer Schritt | 1.631 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 1.117) |
 
 ## Gesamt-Stückliste
@@ -26,26 +26,26 @@
 | Polierter Tuffstein | `polished_tuff` | 20.861 | 8,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 20.061 | 8,6 % |
 | Weißer Beton | `white_concrete` | 16.898 | 7,2 % |
-| Rosa Keramik | `pink_terracotta` | 15.483 | 6,6 % |
-| Orange Keramik | `orange_terracotta` | 11.583 | 5,0 % |
+| Rosa Keramik | `pink_terracotta` | 15.434 | 6,6 % |
+| Orange Keramik | `orange_terracotta` | 11.531 | 4,9 % |
 | Tuffstein | `tuff` | 10.853 | 4,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 8.635 | 3,7 % |
 | Endsteinziegel | `end_stone_bricks` | 7.597 | 3,3 % |
-| Glatter Stein | `smooth_stone` | 4.787 | 2,1 % |
+| Glatter Stein | `smooth_stone` | 4.789 | 2,1 % |
 | Graues Buntglas | `gray_stained_glass` | 4.559 | 2,0 % |
 | Polierter Andesit | `polished_andesite` | 4.455 | 1,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.025 | 0,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.147 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.026 | 0,9 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.140 | 0,5 % |
 | Ziegelsteine | `bricks` | 1.091 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 679 | 0,3 % |
 | Grüner Beton | `green_concrete` | 521 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 465 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 466 | 0,2 % |
 | Seelaterne | `sea_lantern` | 458 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 451 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 452 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 304 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 274 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 155 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 155 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 156 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 156 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
@@ -59,7 +59,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.494 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.496 |
 | Steintreppe | `stone_stairs` | 120 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -98,18 +98,18 @@
 | 30 | `w518028934_innen` | Reihenhaus an Via dei Leoni: Innenausbau | 1.568 | 1.77 |
 | 31 | `w518028939` | Reihenhaus an Via dei Neri | 5.622 | 1.78–1.80 |
 | 32 | `w518028939_innen` | Reihenhaus an Via dei Neri: Innenausbau | 1.366 | 1.81 |
-| 33 | `w518028941` | Reihenhaus an Vicolo di San Remigio | 4.884 | 1.82–1.84 |
+| 33 | `w518028941` | Reihenhaus an Vicolo di San Remigio | 4.877 | 1.82–1.84 |
 | 34 | `w518028941_innen` | Reihenhaus an Vicolo di San Remigio: Innenausbau | 818 | 1.85 |
 | 35 | `w518028942` | Reihenhaus an Via dei Neri | 2.635 | 1.86–1.87 |
 | 36 | `w518028942_innen` | Reihenhaus an Via dei Neri: Innenausbau | 1 | 1.88 |
 | 37 | `w518028944` | Palazzo des Cinquecento an Via Don Giancarlo Setti | 11.601 | 1.88–1.93 |
 | 38 | `w518028944_innen` | Palazzo des Cinquecento an Via Don Giancarlo Setti: Innenausbau | 1.897 | 1.94 |
-| 39 | `w518028947` | Renaissance-Palazzo an Via Vinegia | 10.783 | 1.95–1.100 |
+| 39 | `w518028947` | Renaissance-Palazzo an Via Vinegia | 10.785 | 1.95–1.100 |
 | 40 | `w518028947_innen` | Renaissance-Palazzo an Via Vinegia: Innenausbau | 3.653 | 1.101–1.102 |
 | 41 | `w518028948` | Reihenhaus an Via Vinegia | 7.750 | 1.103–1.106 |
 | 42 | `w518028948_innen` | Reihenhaus an Via Vinegia: Innenausbau | 2.761 | 1.107–1.108 |
-| 43 | `w518028955` | Reihenhaus an Vicolo di San Remigio | 2.024 | 1.109 |
-| 44 | `w518028955_innen` | Reihenhaus an Vicolo di San Remigio: Innenausbau | 1.134 | 1.110 |
+| 43 | `w518028955` | Reihenhaus an Vicolo di San Remigio | 1.972 | 1.109 |
+| 44 | `w518028955_innen` | Reihenhaus an Vicolo di San Remigio: Innenausbau | 1.139 | 1.110 |
 | 45 | `w518028958` | Reihenhaus an Piazza di San Remigio | 6.196 | 1.111–1.114 |
 | 46 | `w518028958_innen` | Reihenhaus an Piazza di San Remigio: Innenausbau | 2.482 | 1.115–1.116 |
 | 47 | `w518028961` | Reihenhaus an Via Don Giancarlo Setti | 4.114 | 1.117–1.118 |
@@ -118,7 +118,7 @@
 | 50 | `w518028967_innen` | Reihenhaus an Via dei Neri: Innenausbau | 1.392 | 1.123 |
 | 51 | `w518028969` | Reihenhaus an Via dei Neri | 3.530 | 1.124–1.125 |
 | 52 | `w518028969_innen` | Reihenhaus an Via dei Neri: Innenausbau | 1.764 | 1.126 |
-| 53 | `w518028976` | Reihenhaus an Vicolo di San Remigio | 2.824 | 1.127–1.128 |
+| 53 | `w518028976` | Reihenhaus an Vicolo di San Remigio | 2.775 | 1.127–1.128 |
 | 54 | `w518028976_innen` | Reihenhaus an Vicolo di San Remigio: Innenausbau | 1.310 | 1.129 |
 | 55 | `w518028981` | Reihenhaus an Vicolo di San Remigio | 2.621 | 1.130–1.131 |
 | 56 | `w518028981_innen` | Reihenhaus an Vicolo di San Remigio: Innenausbau | 609 | 1.132 |
@@ -2859,9 +2859,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.82 – Reihenhaus an Vicolo di San Remigio – Teil 1/3 (Y 61–71)
+### Schritt 1.82 – Reihenhaus an Vicolo di San Remigio – Teil 1/3 (Y 62–72)
 
-- **Y-Bereich:** 61 bis 71
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.693
 - **Bauteile:** `w518028941`
 
@@ -2892,9 +2892,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.83 – Reihenhaus an Vicolo di San Remigio – Teil 2/3 (Y 72–83)
+### Schritt 1.83 – Reihenhaus an Vicolo di San Remigio – Teil 2/3 (Y 73–84)
 
-- **Y-Bereich:** 72 bis 83
+- **Y-Bereich:** 73 bis 84
 - **Blöcke:** 1.608
 - **Bauteile:** `w518028941`
 
@@ -2922,10 +2922,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.84 – Reihenhaus an Vicolo di San Remigio – Teil 3/3 (Y 84–96)
+### Schritt 1.84 – Reihenhaus an Vicolo di San Remigio – Teil 3/3 (Y 85–97)
 
-- **Y-Bereich:** 84 bis 96
-- **Blöcke:** 1.583
+- **Y-Bereich:** 85 bis 97
+- **Blöcke:** 1.576
 - **Bauteile:** `w518028941`
 
 **Teileliste**
@@ -2935,7 +2935,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Gelbe Keramik | `yellow_terracotta` | 1.015 |
 | Terrakotta | `terracotta` | 461 |
 | Weißer Beton | `white_concrete` | 47 |
-| Fichtenholz-Bretter | `spruce_planks` | 42 |
+| Fichtenholz-Bretter | `spruce_planks` | 35 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
 | Ziegelsteine | `bricks` | 6 |
 
@@ -2957,7 +2957,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.85 – Reihenhaus an Vicolo di San Remigio: Innenausbau
 
-- **Y-Bereich:** 61 bis 85
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 818
 - **Bauteile:** `w518028941_innen`
 
@@ -3419,7 +3419,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.99 – Renaissance-Palazzo an Via Vinegia – Teil 5/6 (Y 89–92)
 
 - **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.853
+- **Blöcke:** 1.855
 - **Bauteile:** `w518028947`
 
 **Teileliste**
@@ -3427,7 +3427,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 927 |
-| Glatter Stein | `smooth_stone` | 388 |
+| Glatter Stein | `smooth_stone` | 390 |
 | Tuffstein | `tuff` | 330 |
 | Polierter Andesit | `polished_andesite` | 208 |
 
@@ -3764,14 +3764,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.109 – Reihenhaus an Vicolo di San Remigio
 
 - **Y-Bereich:** 62 bis 97
-- **Blöcke:** 2.024
+- **Blöcke:** 1.972
 - **Bauteile:** `w518028955`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 957 |
+| Orange Keramik | `orange_terracotta` | 905 |
 | Terrakotta | `terracotta` | 443 |
 | Polierter Tuffstein | `polished_tuff` | 383 |
 | Weißer Beton | `white_concrete` | 152 |
@@ -3798,8 +3798,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.110 – Reihenhaus an Vicolo di San Remigio: Innenausbau
 
-- **Y-Bereich:** 62 bis 85
-- **Blöcke:** 1.134
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 1.139
 - **Bauteile:** `w518028955_innen`
 
 **Teileliste**
@@ -3807,18 +3807,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.008 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Rote Keramik | `red_terracotta` | 5 |
+| Weiße Keramik | `white_terracotta` | 5 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 
@@ -4380,23 +4382,23 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.127 – Reihenhaus an Vicolo di San Remigio – Teil 1/2 (Y 62–81)
+### Schritt 1.127 – Reihenhaus an Vicolo di San Remigio – Teil 1/2 (Y 62–80)
 
-- **Y-Bereich:** 62 bis 81
-- **Blöcke:** 1.422
+- **Y-Bereich:** 62 bis 80
+- **Blöcke:** 1.373
 - **Bauteile:** `w518028976`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 724 |
+| Rosa Keramik | `pink_terracotta` | 688 |
 | Polierter Tuffstein | `polished_tuff` | 453 |
 | Tuffstein | `tuff` | 102 |
-| Weißer Beton | `white_concrete` | 69 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
+| Weißer Beton | `white_concrete` | 65 |
+| Graues Buntglas | `gray_stained_glass` | 37 |
 | Glatter Stein | `smooth_stone` | 20 |
-| Grüner Beton | `green_concrete` | 10 |
+| Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
 
@@ -4414,9 +4416,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.128 – Reihenhaus an Vicolo di San Remigio – Teil 2/2 (Y 82–98)
+### Schritt 1.128 – Reihenhaus an Vicolo di San Remigio – Teil 2/2 (Y 81–98)
 
-- **Y-Bereich:** 82 bis 98
+- **Y-Bereich:** 81 bis 98
 - **Blöcke:** 1.402
 - **Bauteile:** `w518028976`
 
@@ -4424,12 +4426,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 692 |
+| Rosa Keramik | `pink_terracotta` | 679 |
 | Terrakotta | `terracotta` | 558 |
-| Weißer Beton | `white_concrete` | 61 |
-| Graues Buntglas | `gray_stained_glass` | 49 |
+| Weißer Beton | `white_concrete` | 65 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
 | Ziegelsteine | `bricks` | 28 |
-| Grüner Beton | `green_concrete` | 14 |
+| Grüner Beton | `green_concrete` | 16 |
 
 **Beschreibung**
 

@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 103.968 |
+| Blöcke | 103.897 |
 | Bauschritte | 68 |
 | Y-Bereich | 61 bis 103 |
 | X-Ausdehnung | 607 bis 807 (201 Blöcke) |
 | Z-Ausdehnung | 482 bis 612 (131 Blöcke) |
 | Kleinster Schritt | 74 Blöcke (Schritt 10.1) |
-| Mittlerer Schritt | 1.529 Blöcke |
+| Mittlerer Schritt | 1.528 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 10.2) |
 
 ## Gesamt-Stückliste
@@ -24,11 +24,11 @@
 | Terrakotta | `terracotta` | 33.557 | 32,3 % |
 | Tuffstein | `tuff` | 20.673 | 19,9 % |
 | Polierter Tuffstein | `polished_tuff` | 11.355 | 10,9 % |
-| Glatter Stein | `smooth_stone` | 7.959 | 7,7 % |
+| Glatter Stein | `smooth_stone` | 7.957 | 7,7 % |
 | Polierter Andesit | `polished_andesite` | 6.986 | 6,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 5.654 | 5,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 5.584 | 5,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.328 | 3,2 % |
-| Weißer Beton | `white_concrete` | 3.239 | 3,1 % |
+| Weißer Beton | `white_concrete` | 3.243 | 3,1 % |
 | Graues Buntglas | `gray_stained_glass` | 3.126 | 3,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.671 | 2,6 % |
 | Orange Keramik | `orange_terracotta` | 2.660 | 2,6 % |
@@ -36,19 +36,17 @@
 | Endsteinziegel | `end_stone_bricks` | 806 | 0,8 % |
 | Grüner Beton | `green_concrete` | 628 | 0,6 % |
 | Seelaterne | `sea_lantern` | 165 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 50 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 51 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 18 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 18 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 18 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 18 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 15 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 15 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 5 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -56,7 +54,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 80 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 44 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -65,8 +63,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1598976` | Renaissance-Palazzo an Via dei Pandolfini | 60.368 | 10.1–10.42 |
 | 2 | `r1598976_innen` | Renaissance-Palazzo an Via dei Pandolfini: Innenausbau | 13.850 | 10.43–10.50 |
-| 3 | `w306984401` | Palazzo Salviati-Quaratesi | 13.497 | 10.51–10.58 |
-| 4 | `w306984401_innen` | Palazzo Salviati-Quaratesi: Innenausbau | 3.658 | 10.59–10.60 |
+| 3 | `w306984401` | Palazzo Salviati-Quaratesi | 13.429 | 10.51–10.58 |
+| 4 | `w306984401_innen` | Palazzo Salviati-Quaratesi: Innenausbau | 3.655 | 10.59–10.60 |
 | 5 | `w306984428` | Reihenhaus an Via dei Pandolfini | 5.326 | 10.61–10.63 |
 | 6 | `w306984428_innen` | Reihenhaus an Via dei Pandolfini: Innenausbau | 1.330 | 10.64 |
 | 7 | `w306984429` | Reihenhaus an Via Giuseppe Verdi | 4.235 | 10.65–10.67 |
@@ -1634,9 +1632,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.51 – Palazzo Salviati-Quaratesi – Teil 1/8 (Y 62–62)
+### Schritt 10.51 – Palazzo Salviati-Quaratesi – Teil 1/8 (Y 63–63)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 2.047
 - **Bauteile:** `w306984401`
 
@@ -1662,23 +1660,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.52 – Palazzo Salviati-Quaratesi – Teil 2/8 (Y 63–66)
+### Schritt 10.52 – Palazzo Salviati-Quaratesi – Teil 2/8 (Y 64–68)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.203
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.395
 - **Bauteile:** `w306984401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 908 |
-| Weißer Beton | `white_concrete` | 180 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
-| Grüner Beton | `green_concrete` | 30 |
-| Polierter Andesit | `polished_andesite` | 30 |
-| Glatter Stein | `smooth_stone` | 16 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 984 |
+| Weißer Beton | `white_concrete` | 213 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Grüner Beton | `green_concrete` | 60 |
+| Polierter Andesit | `polished_andesite` | 39 |
+| Glatter Stein | `smooth_stone` | 23 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
@@ -1696,23 +1694,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.53 – Palazzo Salviati-Quaratesi – Teil 3/8 (Y 67–73)
+### Schritt 10.53 – Palazzo Salviati-Quaratesi – Teil 3/8 (Y 69–74)
 
-- **Y-Bereich:** 67 bis 73
-- **Blöcke:** 1.894
+- **Y-Bereich:** 69 bis 74
+- **Blöcke:** 1.636
 - **Bauteile:** `w306984401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.321 |
-| Glatter Stein | `smooth_stone` | 173 |
-| Weißer Beton | `white_concrete` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
-| Grüner Beton | `green_concrete` | 90 |
-| Polierter Andesit | `polished_andesite` | 48 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
+| Glatter Stein | `smooth_stone` | 166 |
+| Weißer Beton | `white_concrete` | 121 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Grüner Beton | `green_concrete` | 60 |
+| Polierter Andesit | `polished_andesite` | 39 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -1730,9 +1728,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.54 – Palazzo Salviati-Quaratesi – Teil 4/8 (Y 74–79)
+### Schritt 10.54 – Palazzo Salviati-Quaratesi – Teil 4/8 (Y 75–80)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.565
 - **Bauteile:** `w306984401`
 
@@ -1762,9 +1760,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.55 – Palazzo Salviati-Quaratesi – Teil 5/8 (Y 80–85)
+### Schritt 10.55 – Palazzo Salviati-Quaratesi – Teil 5/8 (Y 81–86)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.657
 - **Bauteile:** `w306984401`
 
@@ -1795,10 +1793,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.56 – Palazzo Salviati-Quaratesi – Teil 6/8 (Y 86–91)
+### Schritt 10.56 – Palazzo Salviati-Quaratesi – Teil 6/8 (Y 87–92)
 
-- **Y-Bereich:** 86 bis 91
-- **Blöcke:** 1.686
+- **Y-Bereich:** 87 bis 92
+- **Blöcke:** 1.684
 - **Bauteile:** `w306984401`
 
 **Teileliste**
@@ -1809,7 +1807,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Weißer Beton | `white_concrete` | 305 |
 | Graues Buntglas | `gray_stained_glass` | 152 |
 | Grüner Beton | `green_concrete` | 132 |
-| Glatter Stein | `smooth_stone` | 98 |
+| Glatter Stein | `smooth_stone` | 96 |
 | Polierter Andesit | `polished_andesite` | 39 |
 
 **Beschreibung**
@@ -1828,9 +1826,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.57 – Palazzo Salviati-Quaratesi – Teil 7/8 (Y 92–94)
+### Schritt 10.57 – Palazzo Salviati-Quaratesi – Teil 7/8 (Y 93–95)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 93 bis 95
 - **Blöcke:** 1.797
 - **Bauteile:** `w306984401`
 
@@ -1859,9 +1857,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.58 – Palazzo Salviati-Quaratesi – Teil 8/8 (Y 95–102)
+### Schritt 10.58 – Palazzo Salviati-Quaratesi – Teil 8/8 (Y 96–103)
 
-- **Y-Bereich:** 95 bis 102
+- **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.648
 - **Bauteile:** `w306984401`
 
@@ -1888,9 +1886,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.59 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 1/2 (Y 62–72)
+### Schritt 10.59 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 1/2 (Y 63–73)
 
-- **Y-Bereich:** 62 bis 72
+- **Y-Bereich:** 63 bis 73
 - **Blöcke:** 1.828
 - **Bauteile:** `w306984401_innen`
 
@@ -1901,8 +1899,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.759 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 20 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -1930,10 +1928,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.60 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 2/2 (Y 73–83)
+### Schritt 10.60 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 2/2 (Y 74–84)
 
-- **Y-Bereich:** 73 bis 83
-- **Blöcke:** 1.830
+- **Y-Bereich:** 74 bis 84
+- **Blöcke:** 1.827
 - **Bauteile:** `w306984401_innen`
 
 **Teileliste**
@@ -1943,20 +1941,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Terrakotta | `terracotta` | 1.759 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 

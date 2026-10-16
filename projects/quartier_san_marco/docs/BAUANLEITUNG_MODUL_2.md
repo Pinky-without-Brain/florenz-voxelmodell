@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 522.309 |
+| Blöcke | 522.441 |
 | Bauschritte | 329 |
 | Y-Bereich | 61 bis 112 |
 | X-Ausdehnung | -175 bis 177 (353 Blöcke) |
@@ -21,10 +21,10 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 189.808 | 36,3 % |
-| Polierter Tuffstein | `polished_tuff` | 58.851 | 11,3 % |
+| Terrakotta | `terracotta` | 189.813 | 36,3 % |
+| Polierter Tuffstein | `polished_tuff` | 58.853 | 11,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 51.887 | 9,9 % |
-| Weißer Beton | `white_concrete` | 46.228 | 8,9 % |
+| Weißer Beton | `white_concrete` | 46.355 | 8,9 % |
 | Endsteinziegel | `end_stone_bricks` | 36.485 | 7,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 34.298 | 6,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 26.997 | 5,2 % |
@@ -35,18 +35,18 @@
 | Grüner Beton | `green_concrete` | 5.538 | 1,1 % |
 | Polierter Andesit | `polished_andesite` | 3.403 | 0,7 % |
 | Ziegelsteine | `bricks` | 3.108 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.899 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.900 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.538 | 0,3 % |
-| Seelaterne | `sea_lantern` | 1.020 | 0,2 % |
+| Seelaterne | `sea_lantern` | 1.013 | 0,2 % |
 | Tuffstein | `tuff` | 766 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 386 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 356 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 387 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 357 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 346 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 326 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 144 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 140 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 100 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 100 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 101 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 101 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 97 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
@@ -59,7 +59,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.414 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.416 |
 | Steintreppe | `stone_stairs` | 364 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -80,8 +80,8 @@
 | 12 | `r7521940_innen` | Reihenhaus an Via Camillo Cavour: Innenausbau | 5.290 | 2.101–2.103 |
 | 13 | `r7521941` | Palazzo des Ottocento an Via Ricasoli | 19.860 | 2.104–2.117 |
 | 14 | `r7521941_innen` | Palazzo des Ottocento an Via Ricasoli: Innenausbau | 4.313 | 2.117–2.121 |
-| 15 | `r7521942` | Reihenhaus an Via Ricasoli | 8.425 | 2.121–2.125 |
-| 16 | `r7521942_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 2.806 | 2.126–2.127 |
+| 15 | `r7521942` | Reihenhaus an Via Ricasoli | 8.489 | 2.121–2.125 |
+| 16 | `r7521942_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 2.812 | 2.126–2.127 |
 | 17 | `w306252402` | Palazzo Panciatichi | 16.022 | 2.128–2.136 |
 | 18 | `w306252402_innen` | Palazzo Panciatichi: Innenausbau | 6.373 | 2.137–2.140 |
 | 19 | `w306252406` | Palazzo Vettori | 15.044 | 2.141–2.148 |
@@ -132,8 +132,8 @@
 | 64 | `w519726037_innen` | Reihenhaus an Via degli Alfani: Innenausbau | 2.175 | 2.293–2.294 |
 | 65 | `w519726040` | Reihenhaus an Via Ricasoli | 3.961 | 2.295–2.296 |
 | 66 | `w519726040_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 916 | 2.297 |
-| 67 | `w519726043` | Palazzo des Cinquecento an Via Ricasoli | 13.184 | 2.298–2.305 |
-| 68 | `w519726043_innen` | Palazzo des Cinquecento an Via Ricasoli: Innenausbau | 3.085 | 2.306–2.307 |
+| 67 | `w519726043` | Palazzo des Cinquecento an Via Ricasoli | 13.249 | 2.298–2.305 |
+| 68 | `w519726043_innen` | Palazzo des Cinquecento an Via Ricasoli: Innenausbau | 3.082 | 2.306–2.307 |
 | 69 | `w519726046` | Reihenhaus an Via Ricasoli | 3.196 | 2.308–2.309 |
 | 70 | `w519726046_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 1.762 | 2.310 |
 | 71 | `w519726047` | Reihenhaus an Via Ricasoli | 6.119 | 2.311–2.313 |
@@ -3952,17 +3952,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.121 – Palazzo des Ottocento an Via Ricasoli: Innenausbau – Teil 5/5 (Y 87–87) & Reihenhaus an Via Ricasoli – Teil 1/5 (Y 65–68)
+### Schritt 2.121 – Palazzo des Ottocento an Via Ricasoli: Innenausbau – Teil 5/5 (Y 87–87) & Reihenhaus an Via Ricasoli – Teil 1/5 (Y 66–69)
 
-- **Y-Bereich:** 65 bis 87
-- **Blöcke:** 1.692
+- **Y-Bereich:** 66 bis 87
+- **Blöcke:** 1.693
 - **Bauteile:** `r7521941_innen`, `r7521942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.095 |
+| Polierter Tuffstein | `polished_tuff` | 1.096 |
 | Weißer Beton | `white_concrete` | 582 |
 | Glatter Stein | `smooth_stone` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -3993,9 +3993,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.122 – Reihenhaus an Via Ricasoli – Teil 2/5 (Y 69–77)
+### Schritt 2.122 – Reihenhaus an Via Ricasoli – Teil 2/5 (Y 70–78)
 
-- **Y-Bereich:** 69 bis 77
+- **Y-Bereich:** 70 bis 78
 - **Blöcke:** 1.771
 - **Bauteile:** `r7521942`
 
@@ -4024,9 +4024,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.123 – Reihenhaus an Via Ricasoli – Teil 3/5 (Y 78–85)
+### Schritt 2.123 – Reihenhaus an Via Ricasoli – Teil 3/5 (Y 79–86)
 
-- **Y-Bereich:** 78 bis 85
+- **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.569
 - **Bauteile:** `r7521942`
 
@@ -4054,9 +4054,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.124 – Reihenhaus an Via Ricasoli – Teil 4/5 (Y 86–94)
+### Schritt 2.124 – Reihenhaus an Via Ricasoli – Teil 4/5 (Y 87–95)
 
-- **Y-Bereich:** 86 bis 94
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.772
 - **Bauteile:** `r7521942`
 
@@ -4084,10 +4084,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.125 – Reihenhaus an Via Ricasoli – Teil 5/5 (Y 95–102)
+### Schritt 2.125 – Reihenhaus an Via Ricasoli – Teil 5/5 (Y 96–103)
 
-- **Y-Bereich:** 95 bis 102
-- **Blöcke:** 1.630
+- **Y-Bereich:** 96 bis 103
+- **Blöcke:** 1.693
 - **Bauteile:** `r7521942`
 
 **Teileliste**
@@ -4095,7 +4095,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.346 |
-| Weißer Beton | `white_concrete` | 203 |
+| Weißer Beton | `white_concrete` | 266 |
 | Ziegelsteine | `bricks` | 81 |
 
 **Beschreibung**
@@ -4114,23 +4114,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.126 – Reihenhaus an Via Ricasoli: Innenausbau – Teil 1/2 (Y 65–80)
+### Schritt 2.126 – Reihenhaus an Via Ricasoli: Innenausbau – Teil 1/2 (Y 66–81)
 
-- **Y-Bereich:** 65 bis 80
-- **Blöcke:** 979
+- **Y-Bereich:** 66 bis 81
+- **Blöcke:** 980
 - **Bauteile:** `r7521942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 884 |
+| Terrakotta | `terracotta` | 885 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
-| Seelaterne | `sea_lantern` | 14 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -4156,29 +4156,31 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.127 – Reihenhaus an Via Ricasoli: Innenausbau – Teil 2/2 (Y 81–89)
+### Schritt 2.127 – Reihenhaus an Via Ricasoli: Innenausbau – Teil 2/2 (Y 82–90)
 
-- **Y-Bereich:** 81 bis 89
-- **Blöcke:** 1.827
+- **Y-Bereich:** 82 bis 90
+- **Blöcke:** 1.832
 - **Bauteile:** `r7521942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.768 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Seelaterne | `sea_lantern` | 14 |
+| Terrakotta | `terracotta` | 1.770 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 11 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
 
 **Beschreibung**
 
@@ -9749,14 +9751,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 2.298 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.785
+- **Blöcke:** 1.786
 - **Bauteile:** `w519726043`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.785 |
+| Polierter Tuffstein | `polished_tuff` | 1.786 |
 
 **Beschreibung**
 
@@ -9777,14 +9779,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.299 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/8 (Y 66–70)
 
 - **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.499
+- **Blöcke:** 1.563
 - **Bauteile:** `w519726043`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.121 |
+| Weißer Beton | `white_concrete` | 1.185 |
 | Hellgrauer Beton | `light_gray_concrete` | 224 |
 | Polierter Andesit | `polished_andesite` | 63 |
 | Graues Buntglas | `gray_stained_glass` | 62 |
@@ -9841,21 +9843,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.301 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/8 (Y 77–82)
+### Schritt 2.301 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/8 (Y 77–81)
 
-- **Y-Bereich:** 77 bis 82
-- **Blöcke:** 1.681
+- **Y-Bereich:** 77 bis 81
+- **Blöcke:** 1.405
 - **Bauteile:** `w519726043`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.146 |
-| Hellgrauer Beton | `light_gray_concrete` | 253 |
-| Graues Buntglas | `gray_stained_glass` | 185 |
-| Grüner Beton | `green_concrete` | 55 |
-| Polierter Andesit | `polished_andesite` | 42 |
+| Weißer Beton | `white_concrete` | 965 |
+| Hellgrauer Beton | `light_gray_concrete` | 217 |
+| Graues Buntglas | `gray_stained_glass` | 148 |
+| Grüner Beton | `green_concrete` | 44 |
+| Polierter Andesit | `polished_andesite` | 31 |
 
 **Beschreibung**
 
@@ -9873,20 +9875,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.302 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/8 (Y 83–87)
+### Schritt 2.302 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/8 (Y 82–87)
 
-- **Y-Bereich:** 83 bis 87
-- **Blöcke:** 1.505
+- **Y-Bereich:** 82 bis 87
+- **Blöcke:** 1.781
 - **Bauteile:** `w519726043`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.069 |
-| Hellgrauer Beton | `light_gray_concrete` | 257 |
+| Weißer Beton | `white_concrete` | 1.250 |
+| Hellgrauer Beton | `light_gray_concrete` | 293 |
 | Glatter Stein | `smooth_stone` | 153 |
-| Polierter Andesit | `polished_andesite` | 26 |
+| Graues Buntglas | `gray_stained_glass` | 37 |
+| Polierter Andesit | `polished_andesite` | 37 |
+| Grüner Beton | `green_concrete` | 11 |
 
 **Beschreibung**
 
@@ -9999,16 +10003,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.306 – Palazzo des Cinquecento an Via Ricasoli: Innenausbau – Teil 1/2 (Y 65–75)
 
 - **Y-Bereich:** 65 bis 75
-- **Blöcke:** 1.543
+- **Blöcke:** 1.542
 - **Bauteile:** `w519726043_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.476 |
+| Terrakotta | `terracotta` | 1.477 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 18 |
+| Seelaterne | `sea_lantern` | 16 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -10041,20 +10045,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 2.307 – Palazzo des Cinquecento an Via Ricasoli: Innenausbau – Teil 2/2 (Y 76–86)
 
 - **Y-Bereich:** 76 bis 86
-- **Blöcke:** 1.542
+- **Blöcke:** 1.540
 - **Bauteile:** `w519726043_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.476 |
+| Terrakotta | `terracotta` | 1.477 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |

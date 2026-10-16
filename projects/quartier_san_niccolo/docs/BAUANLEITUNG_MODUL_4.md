@@ -8,28 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 78.979 |
+| Blöcke | 80.084 |
 | Bauschritte | 48 |
 | Y-Bereich | 91 bis 152 |
 | X-Ausdehnung | -351 bis -240 (112 Blöcke) |
 | Z-Ausdehnung | 1556 bis 1735 (180 Blöcke) |
 | Kleinster Schritt | 751 Blöcke (Schritt 4.11) |
-| Mittlerer Schritt | 1.645 Blöcke |
+| Mittlerer Schritt | 1.668 Blöcke |
 | Größter Schritt | 2.080 Blöcke (Schritt 4.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 21.611 | 27,4 % |
-| Endsteinziegel | `end_stone_bricks` | 12.195 | 15,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 8.164 | 10,3 % |
-| Weißer Beton | `white_concrete` | 7.687 | 9,7 % |
-| Polierter Tuffstein | `polished_tuff` | 6.478 | 8,2 % |
+| Terrakotta | `terracotta` | 21.611 | 27,0 % |
+| Endsteinziegel | `end_stone_bricks` | 12.195 | 15,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 8.044 | 10,0 % |
+| Weißer Beton | `white_concrete` | 7.687 | 9,6 % |
+| Polierter Tuffstein | `polished_tuff` | 6.478 | 8,1 % |
+| Tuffstein | `tuff` | 5.719 | 7,1 % |
 | Gelbe Keramik | `yellow_terracotta` | 4.691 | 5,9 % |
 | Rosa Keramik | `pink_terracotta` | 4.534 | 5,7 % |
-| Tuffstein | `tuff` | 4.419 | 5,6 % |
-| Orange Keramik | `orange_terracotta` | 4.338 | 5,5 % |
+| Orange Keramik | `orange_terracotta` | 4.263 | 5,3 % |
 | Graues Buntglas | `gray_stained_glass` | 1.583 | 2,0 % |
 | Glatter Stein | `smooth_stone` | 698 | 0,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 586 | 0,7 % |
@@ -44,7 +44,7 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 74 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 64 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 64 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 40 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 40 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 21 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
@@ -62,9 +62,9 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119180026` | Reihenhaus an Costa dei Magnoli | 8.387 | 4.1–4.5 |
+| 1 | `w119180026` | Reihenhaus an Costa dei Magnoli | 9.536 | 4.1–4.5 |
 | 2 | `w119180026_innen` | Reihenhaus an Costa dei Magnoli: Innenausbau | 2.080 | 4.6 |
-| 3 | `w486372534` | Reihenhaus an Via del Canneto | 1.878 | 4.7 |
+| 3 | `w486372534` | Reihenhaus an Via del Canneto | 1.803 | 4.7 |
 | 4 | `w486372534_innen` | Reihenhaus an Via del Canneto: Innenausbau | 1 | 4.8 |
 | 5 | `w486372535` | Reihenhaus an Via del Canneto | 4.987 | 4.8–4.10 |
 | 6 | `w486372535_innen` | Reihenhaus an Via del Canneto: Innenausbau | 751 | 4.11 |
@@ -78,34 +78,30 @@
 | 14 | `w486372539_innen` | Reihenhaus an Costa dei Magnoli: Innenausbau | 1.088 | 4.33 |
 | 15 | `w486372540` | Reihenhaus an Costa dei Magnoli | 6.335 | 4.34–4.37 |
 | 16 | `w486372540_innen` | Reihenhaus an Costa dei Magnoli: Innenausbau | 2.019 | 4.38 |
-| 17 | `w486372541` | Reihenhaus an Via del Canneto | 7.336 | 4.39–4.42 |
+| 17 | `w486372541` | Reihenhaus an Via del Canneto | 7.487 | 4.39–4.42 |
 | 18 | `w486372541_innen` | Reihenhaus an Via del Canneto: Innenausbau | 1.740 | 4.43 |
-| 19 | `w486372542` | Reihenhaus an Via del Canneto | 1.443 | 4.44 |
+| 19 | `w486372542` | Reihenhaus an Via del Canneto | 1.399 | 4.44 |
 | 20 | `w486372542_innen` | Reihenhaus an Via del Canneto: Innenausbau | 1 | 4.45 |
 | 21 | `w486372543` | Reihenhaus an Costa dei Magnoli | 2.054 | 4.45 |
 | 22 | `w486372543_innen` | Reihenhaus an Costa dei Magnoli: Innenausbau | 3 | 4.46 |
-| 23 | `w486372544` | Reihenhaus an Costa dei Magnoli | 3.541 | 4.46–4.47 |
+| 23 | `w486372544` | Reihenhaus an Costa dei Magnoli | 3.465 | 4.46–4.47 |
 | 24 | `w486372544_innen` | Reihenhaus an Costa dei Magnoli: Innenausbau | 1.085 | 4.48 |
 | 25 | `strassenschilder` | Straßenschilder | 12 | 4.48 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Reihenhaus an Costa dei Magnoli – Teil 1/5 (Y 91–96)
+### Schritt 4.1 – Reihenhaus an Costa dei Magnoli – Teil 1/5 (Y 91–95)
 
-- **Y-Bereich:** 91 bis 96
-- **Blöcke:** 1.735
+- **Y-Bereich:** 91 bis 95
+- **Blöcke:** 2.052
 - **Bauteile:** `w119180026`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.177 |
 | Polierter Tuffstein | `polished_tuff` | 875 |
-| Gelbe Keramik | `yellow_terracotta` | 695 |
-| Weißer Beton | `white_concrete` | 95 |
-| Graues Buntglas | `gray_stained_glass` | 34 |
-| Tuffstein | `tuff` | 28 |
-| Glatter Stein | `smooth_stone` | 8 |
 
 **Beschreibung**
 
@@ -123,21 +119,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Reihenhaus an Costa dei Magnoli – Teil 2/5 (Y 97–104)
+### Schritt 4.2 – Reihenhaus an Costa dei Magnoli – Teil 2/5 (Y 96–103)
 
-- **Y-Bereich:** 97 bis 104
-- **Blöcke:** 1.677
+- **Y-Bereich:** 96 bis 103
+- **Blöcke:** 1.663
 - **Bauteile:** `w119180026`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.247 |
-| Weißer Beton | `white_concrete` | 264 |
-| Graues Buntglas | `gray_stained_glass` | 117 |
+| Gelbe Keramik | `yellow_terracotta` | 1.308 |
+| Weißer Beton | `white_concrete` | 221 |
+| Graues Buntglas | `gray_stained_glass` | 77 |
 | Polierter Andesit | `polished_andesite` | 33 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Glatter Stein | `smooth_stone` | 24 |
 
 **Beschreibung**
 
@@ -155,19 +151,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Reihenhaus an Costa dei Magnoli – Teil 3/5 (Y 105–112)
+### Schritt 4.3 – Reihenhaus an Costa dei Magnoli – Teil 3/5 (Y 104–112)
 
-- **Y-Bereich:** 105 bis 112
-- **Blöcke:** 1.671
+- **Y-Bereich:** 104 bis 112
+- **Blöcke:** 1.920
 - **Bauteile:** `w119180026`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.181 |
-| Weißer Beton | `white_concrete` | 311 |
-| Graues Buntglas | `gray_stained_glass` | 179 |
+| Gelbe Keramik | `yellow_terracotta` | 1.431 |
+| Weißer Beton | `white_concrete` | 347 |
+| Graues Buntglas | `gray_stained_glass` | 142 |
 
 **Beschreibung**
 
@@ -185,19 +181,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Reihenhaus an Costa dei Magnoli – Teil 4/5 (Y 113–120)
+### Schritt 4.4 – Reihenhaus an Costa dei Magnoli – Teil 4/5 (Y 113–122)
 
-- **Y-Bereich:** 113 bis 120
-- **Blöcke:** 1.675
+- **Y-Bereich:** 113 bis 122
+- **Blöcke:** 2.069
 - **Bauteile:** `w119180026`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.186 |
-| Weißer Beton | `white_concrete` | 316 |
-| Graues Buntglas | `gray_stained_glass` | 173 |
+| Gelbe Keramik | `yellow_terracotta` | 1.437 |
+| Weißer Beton | `white_concrete` | 379 |
+| Graues Buntglas | `gray_stained_glass` | 253 |
 
 **Beschreibung**
 
@@ -215,10 +211,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.5 – Reihenhaus an Costa dei Magnoli – Teil 5/5 (Y 121–129)
+### Schritt 4.5 – Reihenhaus an Costa dei Magnoli – Teil 5/5 (Y 123–132)
 
-- **Y-Bereich:** 121 bis 129
-- **Blöcke:** 1.629
+- **Y-Bereich:** 123 bis 132
+- **Blöcke:** 1.832
 - **Bauteile:** `w119180026`
 
 **Teileliste**
@@ -226,9 +222,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.108 |
-| Gelbe Keramik | `yellow_terracotta` | 382 |
+| Gelbe Keramik | `yellow_terracotta` | 515 |
+| Weißer Beton | `white_concrete` | 105 |
 | Ziegelsteine | `bricks` | 73 |
-| Weißer Beton | `white_concrete` | 66 |
+| Graues Buntglas | `gray_stained_glass` | 31 |
 
 **Beschreibung**
 
@@ -248,7 +245,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 4.6 – Reihenhaus an Costa dei Magnoli: Innenausbau
 
-- **Y-Bereich:** 92 bis 116
+- **Y-Bereich:** 95 bis 119
 - **Blöcke:** 2.080
 - **Bauteile:** `w119180026_innen`
 
@@ -289,14 +286,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.7 – Reihenhaus an Via del Canneto
 
 - **Y-Bereich:** 93 bis 128
-- **Blöcke:** 1.878
+- **Blöcke:** 1.803
 - **Bauteile:** `w486372534`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.461 |
+| Orange Keramik | `orange_terracotta` | 1.386 |
 | Terrakotta | `terracotta` | 142 |
 | Tuffstein | `tuff` | 141 |
 | Polierter Tuffstein | `polished_tuff` | 118 |
@@ -1379,10 +1376,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.39 – Reihenhaus an Via del Canneto – Teil 1/4 (Y 92–99)
+### Schritt 4.39 – Reihenhaus an Via del Canneto – Teil 1/4 (Y 92–101)
 
-- **Y-Bereich:** 92 bis 99
-- **Blöcke:** 1.790
+- **Y-Bereich:** 92 bis 101
+- **Blöcke:** 1.941
 - **Bauteile:** `w486372541`
 
 **Teileliste**
@@ -1391,10 +1388,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 937 |
 | Polierter Tuffstein | `polished_tuff` | 728 |
+| Tuffstein | `tuff` | 163 |
 | Hellgrauer Beton | `light_gray_concrete` | 65 |
 | Graues Buntglas | `gray_stained_glass` | 31 |
 | Glatter Stein | `smooth_stone` | 13 |
-| Tuffstein | `tuff` | 12 |
 | Fichtenholz-Bretter | `spruce_planks` | 4 |
 
 **Beschreibung**
@@ -1413,9 +1410,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.40 – Reihenhaus an Via del Canneto – Teil 2/4 (Y 100–109)
+### Schritt 4.40 – Reihenhaus an Via del Canneto – Teil 2/4 (Y 102–111)
 
-- **Y-Bereich:** 100 bis 109
+- **Y-Bereich:** 102 bis 111
 - **Blöcke:** 1.867
 - **Bauteile:** `w486372541`
 
@@ -1445,9 +1442,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.41 – Reihenhaus an Via del Canneto – Teil 3/4 (Y 110–119)
+### Schritt 4.41 – Reihenhaus an Via del Canneto – Teil 3/4 (Y 112–121)
 
-- **Y-Bereich:** 110 bis 119
+- **Y-Bereich:** 112 bis 121
 - **Blöcke:** 1.845
 - **Bauteile:** `w486372541`
 
@@ -1476,9 +1473,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.42 – Reihenhaus an Via del Canneto – Teil 4/4 (Y 120–130)
+### Schritt 4.42 – Reihenhaus an Via del Canneto – Teil 4/4 (Y 122–132)
 
-- **Y-Bereich:** 120 bis 130
+- **Y-Bereich:** 122 bis 132
 - **Blöcke:** 1.834
 - **Bauteile:** `w486372541`
 
@@ -1511,7 +1508,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 4.43 – Reihenhaus an Via del Canneto: Innenausbau
 
-- **Y-Bereich:** 93 bis 117
+- **Y-Bereich:** 95 bis 119
 - **Blöcke:** 1.740
 - **Bauteile:** `w486372541_innen`
 
@@ -1554,14 +1551,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.44 – Reihenhaus an Via del Canneto
 
 - **Y-Bereich:** 94 bis 133
-- **Blöcke:** 1.443
+- **Blöcke:** 1.399
 - **Bauteile:** `w486372542`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
+| Hellgrauer Beton | `light_gray_concrete` | 845 |
 | Tuffstein | `tuff` | 181 |
 | Terrakotta | `terracotta` | 172 |
 | Polierter Tuffstein | `polished_tuff` | 136 |
@@ -1621,10 +1618,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.46 – Reihenhaus an Costa dei Magnoli: Innenausbau & Reihenhaus an Costa dei Magnoli – Teil 1/2 (Y 97–114)
+### Schritt 4.46 – Reihenhaus an Costa dei Magnoli: Innenausbau & Reihenhaus an Costa dei Magnoli – Teil 1/2 (Y 97–113)
 
-- **Y-Bereich:** 97 bis 114
-- **Blöcke:** 1.760
+- **Y-Bereich:** 97 bis 113
+- **Blöcke:** 1.718
 - **Bauteile:** `w486372543_innen`, `w486372544`
 
 **Teileliste**
@@ -1632,13 +1629,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 882 |
-| Hellgrauer Beton | `light_gray_concrete` | 424 |
+| Hellgrauer Beton | `light_gray_concrete` | 397 |
 | Polierter Tuffstein | `polished_tuff` | 358 |
-| Weißer Beton | `white_concrete` | 31 |
+| Weißer Beton | `white_concrete` | 27 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 24 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
 | Glatter Stein | `smooth_stone` | 14 |
-| Grüner Beton | `green_concrete` | 8 |
+| Graues Buntglas | `gray_stained_glass` | 9 |
+| Grüner Beton | `green_concrete` | 4 |
 | Seelaterne | `sea_lantern` | 3 |
 
 **Treppen je Material** (alle Richtungen)
@@ -1663,22 +1660,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.47 – Reihenhaus an Costa dei Magnoli – Teil 2/2 (Y 115–138)
+### Schritt 4.47 – Reihenhaus an Costa dei Magnoli – Teil 2/2 (Y 114–138)
 
-- **Y-Bereich:** 115 bis 138
-- **Blöcke:** 1.784
+- **Y-Bereich:** 114 bis 138
+- **Blöcke:** 1.750
 - **Bauteile:** `w486372544`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.021 |
+| Hellgrauer Beton | `light_gray_concrete` | 972 |
 | Terrakotta | `terracotta` | 490 |
-| Weißer Beton | `white_concrete` | 128 |
-| Graues Buntglas | `gray_stained_glass` | 49 |
+| Weißer Beton | `white_concrete` | 132 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
 | Fichtenholz-Bretter | `spruce_planks` | 49 |
-| Grüner Beton | `green_concrete` | 28 |
+| Grüner Beton | `green_concrete` | 32 |
 | Ziegelsteine | `bricks` | 19 |
 
 **Beschreibung**
@@ -1699,7 +1696,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 4.48 – Reihenhaus an Costa dei Magnoli: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 99 bis 127
+- **Y-Bereich:** 102 bis 127
 - **Blöcke:** 1.097
 - **Bauteile:** `w486372544_innen`, `strassenschilder`
 

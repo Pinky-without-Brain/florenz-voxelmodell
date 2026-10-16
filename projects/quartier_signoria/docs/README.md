@@ -4,13 +4,13 @@
 
 *Projekt `quartier_signoria`, Art: quartier*
 
-**Statistik (generiert):** 1.908.652 Blöcke in 1.179 Bauschritten, 28 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 1.908.562 Blöcke in 1.178 Bauschritten, 28 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -572 bis 157, Y 61 bis 121, Z 365 bis 1052.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
 | 0 | Isolato I0425 – Borgo Santi Apostoli | 60.929 | 35 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
-| 1 | Isolato I0431 – Chiasso di San Biagio | 53.087 | 33 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
+| 1 | Isolato I0431 – Chiasso di San Biagio | 52.997 | 32 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
 | 2 | Isolato I0432 – Via San Miniato fra le Torri | 26.296 | 17 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Isolato I0435 – Pellicceria | 25.209 | 15 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
 | 4 | Isolato I0437 – Via Porta Rossa | 23.623 | 15 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
@@ -37,21 +37,21 @@ Ausdehnung des Modells: X -572 bis 157, Y 61 bis 121, Z 365 bis 1052.
 | 25 | Isolato I0535 – Via dei Magazzini | 122.049 | 78 | [BAUANLEITUNG_MODUL_25.md](BAUANLEITUNG_MODUL_25.md) |
 | 26 | Isolato I0537 – Via Santa Margherita | 20.615 | 12 | [BAUANLEITUNG_MODUL_26.md](BAUANLEITUNG_MODUL_26.md) |
 | 27 | Isolato I0539 – Via della Condotta | 137.312 | 88 | [BAUANLEITUNG_MODUL_27.md](BAUANLEITUNG_MODUL_27.md) |
-| | **Summe** | **1.908.652** | **1.179** | |
+| | **Summe** | **1.908.562** | **1.178** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 659.751 | 34,6 % |
-| Polierter Tuffstein | `polished_tuff` | 184.233 | 9,7 % |
+| Terrakotta | `terracotta` | 659.748 | 34,6 % |
+| Polierter Tuffstein | `polished_tuff` | 184.232 | 9,7 % |
 | Weißer Beton | `white_concrete` | 129.883 | 6,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 117.283 | 6,1 % |
 | Endsteinziegel | `end_stone_bricks` | 116.434 | 6,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 115.537 | 6,1 % |
 | Gelbe Keramik | `yellow_terracotta` | 91.869 | 4,8 % |
 | Orange Keramik | `orange_terracotta` | 90.157 | 4,7 % |
-| Rosa Keramik | `pink_terracotta` | 88.425 | 4,6 % |
+| Rosa Keramik | `pink_terracotta` | 88.335 | 4,6 % |
 | Tuffstein | `tuff` | 84.095 | 4,4 % |
 | Glatter Stein | `smooth_stone` | 58.303 | 3,1 % |
 | Polierter Andesit | `polished_andesite` | 56.036 | 2,9 % |
@@ -61,7 +61,7 @@ Ausdehnung des Modells: X -572 bis 157, Y 61 bis 121, Z 365 bis 1052.
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 9.823 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 8.398 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 5.909 | 0,3 % |
-| Seelaterne | `sea_lantern` | 3.701 | 0,2 % |
+| Seelaterne | `sea_lantern` | 3.705 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2.049 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2.025 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.934 | 0,1 % |

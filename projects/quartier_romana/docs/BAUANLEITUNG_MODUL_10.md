@@ -8,50 +8,53 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 1.909 |
+| Blöcke | 2.071 |
 | Bauschritte | 1 |
-| Y-Bereich | 82 bis 117 |
+| Y-Bereich | 82 bis 122 |
 | X-Ausdehnung | -2749 bis -2739 (11 Blöcke) |
 | Z-Ausdehnung | 2482 bis 2491 (10 Blöcke) |
-| Kleinster Schritt | 1.909 Blöcke (Schritt 10.1) |
-| Mittlerer Schritt | 1.909 Blöcke |
-| Größter Schritt | 1.909 Blöcke (Schritt 10.1) |
+| Kleinster Schritt | 2.071 Blöcke (Schritt 10.1) |
+| Mittlerer Schritt | 2.071 Blöcke |
+| Größter Schritt | 2.071 Blöcke (Schritt 10.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.359 | 71,2 % |
-| Weißer Beton | `white_concrete` | 226 | 11,8 % |
-| Graues Buntglas | `gray_stained_glass` | 106 | 5,6 % |
-| Terrakotta | `terracotta` | 102 | 5,3 % |
-| Polierter Tuffstein | `polished_tuff` | 91 | 4,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 1.359 | 65,6 % |
+| Weißer Beton | `white_concrete` | 226 | 10,9 % |
+| Tuffstein | `tuff` | 162 | 7,8 % |
+| Graues Buntglas | `gray_stained_glass` | 106 | 5,1 % |
+| Terrakotta | `terracotta` | 102 | 4,9 % |
+| Polierter Tuffstein | `polished_tuff` | 89 | 4,3 % |
 | Glatter Stein | `smooth_stone` | 18 | 0,9 % |
-| Ziegelsteine | `bricks` | 3 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,1 % |
-| Seelaterne | `sea_lantern` | 1 | 0,1 % |
+| Ziegelsteine | `bricks` | 3 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 | 0,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
+| Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w465419653` | Nebengebäude an Via Ippolito Pindemonte | 1.905 | 10.1 |
+| 1 | `w465419653` | Nebengebäude an Via Ippolito Pindemonte | 2.067 | 10.1 |
 | 2 | `w465419653_innen` | Nebengebäude an Via Ippolito Pindemonte: Innenausbau | 4 | 10.1 |
 
 ## Bauschritte
 
 ### Schritt 10.1 – Nebengebäude an Via Ippolito Pindemonte & Nebengebäude an Via Ippolito Pindemonte: Innenausbau
 
-- **Y-Bereich:** 82 bis 117
-- **Blöcke:** 1.909
+- **Y-Bereich:** 82 bis 122
+- **Blöcke:** 2.071
 - **Bauteile:** `w465419653`, `w465419653_innen`
 
 **Teileliste**
@@ -60,11 +63,13 @@
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.359 |
 | Weißer Beton | `white_concrete` | 226 |
+| Tuffstein | `tuff` | 162 |
 | Graues Buntglas | `gray_stained_glass` | 106 |
 | Terrakotta | `terracotta` | 102 |
-| Polierter Tuffstein | `polished_tuff` | 91 |
+| Polierter Tuffstein | `polished_tuff` | 89 |
 | Glatter Stein | `smooth_stone` | 18 |
 | Ziegelsteine | `bricks` | 3 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -75,6 +80,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 

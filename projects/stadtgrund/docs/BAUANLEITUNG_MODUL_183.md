@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 78.601 |
+| Blöcke | 79.432 |
 | Bauschritte | 51 |
 | Y-Bereich | 61 bis 72 |
 | X-Ausdehnung | -2144 bis -1825 (320 Blöcke) |
 | Z-Ausdehnung | 2352 bis 2671 (320 Blöcke) |
 | Kleinster Schritt | 330 Blöcke (Schritt 183.21) |
-| Mittlerer Schritt | 1.541 Blöcke |
-| Größter Schritt | 2.077 Blöcke (Schritt 183.42) |
+| Mittlerer Schritt | 1.557 Blöcke |
+| Größter Schritt | 2.075 Blöcke (Schritt 183.42) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 47.080 | 59,9 % |
-| Polierter Tuffstein | `polished_tuff` | 19.343 | 24,6 % |
-| Kies | `gravel` | 5.114 | 6,5 % |
-| Stein | `stone` | 5.006 | 6,4 % |
-| Wasser | `water` | 1.220 | 1,6 % |
+| Grasblock | `grass_block` | 47.074 | 59,3 % |
+| Polierter Tuffstein | `polished_tuff` | 19.323 | 24,3 % |
+| Stein | `stone` | 5.863 | 7,4 % |
+| Kies | `gravel` | 5.114 | 6,4 % |
+| Wasser | `water` | 1.220 | 1,5 % |
 | Glatter Stein | `smooth_stone` | 371 | 0,5 % |
 | Polierter Andesit | `polished_andesite` | 319 | 0,4 % |
 | Steinziegel | `stone_bricks` | 148 | 0,2 % |
@@ -34,13 +34,13 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 5.325 | 183.1–183.5 |
+| 1 | `boeschung` | Böschung und Mantel | 6.182 | 183.1–183.5 |
 | 2 | `arno_bett` | Flussbett | 610 | 183.6 |
 | 3 | `arno_wasser` | Arno | 1.220 | 183.7 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 1.643 | 183.8 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 1.641 | 183.8 |
 | 5 | `gehwege` | Gehwege | 334 | 183.9 |
-| 6 | `hof_pflaster` | Höfe | 17.700 | 183.10–183.23 |
-| 7 | `rasen` | Grün und offenes Gelände | 47.080 | 183.24–183.48 |
+| 6 | `hof_pflaster` | Höfe | 17.682 | 183.10–183.23 |
+| 7 | `rasen` | Grün und offenes Gelände | 47.074 | 183.24–183.48 |
 | 8 | `gruen_wege` | Wege im Grün | 4.504 | 183.49–183.51 |
 | 9 | `mauern_garten` | Gartenmauern | 185 | 183.51 |
 
@@ -49,14 +49,14 @@
 ### Schritt 183.1 – Böschung und Mantel – Teil 1/5 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
-- **Blöcke:** 939
+- **Blöcke:** 1.033
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 939 |
+| Stein | `stone` | 1.033 |
 
 **Beschreibung**
 
@@ -77,14 +77,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 183.2 – Böschung und Mantel – Teil 2/5 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.043
+- **Blöcke:** 1.529
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.043 |
+| Stein | `stone` | 1.529 |
 
 **Beschreibung**
 
@@ -105,14 +105,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 183.3 – Böschung und Mantel – Teil 3/5 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.191
+- **Blöcke:** 1.407
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.109 |
+| Stein | `stone` | 1.325 |
 | Polierter Andesit | `polished_andesite` | 82 |
 
 **Beschreibung**
@@ -134,14 +134,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 183.4 – Böschung und Mantel – Teil 4/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.252
+- **Blöcke:** 1.176
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.015 |
+| Stein | `stone` | 939 |
 | Polierter Andesit | `polished_andesite` | 237 |
 
 **Beschreibung**
@@ -163,14 +163,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 183.5 – Böschung und Mantel – Teil 5/5 (Y 67–70)
 
 - **Y-Bereich:** 67 bis 70
-- **Blöcke:** 900
+- **Blöcke:** 1.037
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 900 |
+| Stein | `stone` | 1.037 |
 
 **Beschreibung**
 
@@ -247,14 +247,14 @@ Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Me
 ### Schritt 183.8 – Straßenpflaster
 
 - **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.643
+- **Blöcke:** 1.641
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.643 |
+| Polierter Tuffstein | `polished_tuff` | 1.641 |
 
 **Beschreibung**
 
@@ -387,14 +387,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 183.13 – Höfe – Teil 4/14 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.765
+- **Blöcke:** 1.760
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.765 |
+| Polierter Tuffstein | `polished_tuff` | 1.760 |
 
 **Beschreibung**
 
@@ -443,14 +443,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 183.15 – Höfe – Teil 6/14 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 439
+- **Blöcke:** 441
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 439 |
+| Polierter Tuffstein | `polished_tuff` | 441 |
 
 **Beschreibung**
 
@@ -471,14 +471,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 183.16 – Höfe – Teil 7/14 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 759
+- **Blöcke:** 758
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 759 |
+| Polierter Tuffstein | `polished_tuff` | 758 |
 
 **Beschreibung**
 
@@ -527,14 +527,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 183.18 – Höfe – Teil 9/14 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.751
+- **Blöcke:** 1.745
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.751 |
+| Polierter Tuffstein | `polished_tuff` | 1.745 |
 
 **Beschreibung**
 
@@ -639,14 +639,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 183.22 – Höfe – Teil 13/14 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.866
+- **Blöcke:** 1.858
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.866 |
+| Polierter Tuffstein | `polished_tuff` | 1.858 |
 
 **Beschreibung**
 
@@ -1143,14 +1143,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 183.40 – Grün und offenes Gelände – Teil 17/25 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.975
+- **Blöcke:** 1.974
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.975 |
+| Grasblock | `grass_block` | 1.974 |
 
 **Beschreibung**
 
@@ -1171,14 +1171,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 183.41 – Grün und offenes Gelände – Teil 18/25 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.012
+- **Blöcke:** 2.010
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 2.012 |
+| Grasblock | `grass_block` | 2.010 |
 
 **Beschreibung**
 
@@ -1199,14 +1199,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 183.42 – Grün und offenes Gelände – Teil 19/25 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.077
+- **Blöcke:** 2.075
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 2.077 |
+| Grasblock | `grass_block` | 2.075 |
 
 **Beschreibung**
 
@@ -1367,14 +1367,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 183.48 – Grün und offenes Gelände – Teil 25/25 (Y 68–70)
 
 - **Y-Bereich:** 68 bis 70
-- **Blöcke:** 834
+- **Blöcke:** 833
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 834 |
+| Grasblock | `grass_block` | 833 |
 
 **Beschreibung**
 

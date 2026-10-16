@@ -8,44 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 238.671 |
+| Blöcke | 238.838 |
 | Bauschritte | 146 |
 | Y-Bereich | 60 bis 108 |
 | X-Ausdehnung | -1054 bis -756 (299 Blöcke) |
 | Z-Ausdehnung | -356 bis -173 (184 Blöcke) |
 | Kleinster Schritt | 786 Blöcke (Schritt 10.121) |
-| Mittlerer Schritt | 1.635 Blöcke |
+| Mittlerer Schritt | 1.636 Blöcke |
 | Größter Schritt | 2.093 Blöcke (Schritt 10.128) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 89.930 | 37,7 % |
-| Polierter Tuffstein | `polished_tuff` | 26.459 | 11,1 % |
-| Tuffstein | `tuff` | 23.216 | 9,7 % |
+| Terrakotta | `terracotta` | 89.906 | 37,6 % |
+| Polierter Tuffstein | `polished_tuff` | 26.458 | 11,1 % |
+| Tuffstein | `tuff` | 23.319 | 9,8 % |
 | Weißer Beton | `white_concrete` | 18.628 | 7,8 % |
 | Orange Keramik | `orange_terracotta` | 16.858 | 7,1 % |
 | Glatter Sandstein | `smooth_sandstone` | 14.402 | 6,0 % |
-| Glatter Stein | `smooth_stone` | 12.541 | 5,3 % |
-| Polierter Andesit | `polished_andesite` | 8.953 | 3,8 % |
+| Glatter Stein | `smooth_stone` | 12.591 | 5,3 % |
+| Polierter Andesit | `polished_andesite` | 8.953 | 3,7 % |
 | Endsteinziegel | `end_stone_bricks` | 8.126 | 3,4 % |
 | Rosa Keramik | `pink_terracotta` | 7.686 | 3,2 % |
 | Graues Buntglas | `gray_stained_glass` | 3.352 | 1,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 2.099 | 0,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 2.097 | 0,9 % |
 | Ziegelsteine | `bricks` | 1.631 | 0,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 1.399 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 895 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 590 | 0,2 % |
 | Grüner Beton | `green_concrete` | 502 | 0,2 % |
-| Seelaterne | `sea_lantern` | 454 | 0,2 % |
+| Seelaterne | `sea_lantern` | 455 | 0,2 % |
 | Hellgrauer Beton | `light_gray_concrete` | 126 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 123 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 120 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 113 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 110 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 88 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 72 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 110 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 90 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 55 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 55 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
@@ -60,7 +60,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 466 |
-| Steintreppe | `stone_stairs` | 240 |
+| Steintreppe | `stone_stairs` | 280 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -90,8 +90,8 @@
 | 22 | `w465386745_innen` | Palazzo des Cinquecento an Via del Melarancio: Innenausbau | 2.093 | 10.128 |
 | 23 | `w465386746` | Reihenhaus an Via Panzani | 2.821 | 10.129–10.130 |
 | 24 | `w465386746_innen` | Reihenhaus an Via Panzani: Innenausbau | 859 | 10.131 |
-| 25 | `w465386747` | Renaissance-Palazzo an Piazza dell'Unità Italiana | 10.432 | 10.132–10.137 |
-| 26 | `w465386747_innen` | Renaissance-Palazzo an Piazza dell'Unità Italiana: Innenausbau | 2.569 | 10.138–10.139 |
+| 25 | `w465386747` | Renaissance-Palazzo an Piazza dell'Unità Italiana | 10.530 | 10.132–10.137 |
+| 26 | `w465386747_innen` | Renaissance-Palazzo an Piazza dell'Unità Italiana: Innenausbau | 2.638 | 10.138–10.139 |
 | 27 | `w465386748` | Reihenhaus an Via Panzani | 1.818 | 10.140 |
 | 28 | `w465386748_innen` | Reihenhaus an Via Panzani: Innenausbau | 2 | 10.141 |
 | 29 | `w465386750` | Reihenhaus an Via Panzani | 7.533 | 10.141–10.144 |
@@ -4345,19 +4345,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.132 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 1/6 (Y 60–61)
+### Schritt 10.132 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 1/6 (Y 61–62)
 
-- **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.712
+- **Y-Bereich:** 61 bis 62
+- **Blöcke:** 1.665
 - **Bauteile:** `w465386747`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.469 |
-| Tuffstein | `tuff` | 190 |
-| Tuffsteinziegel | `tuff_bricks` | 46 |
+| Polierter Tuffstein | `polished_tuff` | 1.468 |
+| Tuffstein | `tuff` | 145 |
+| Tuffsteinziegel | `tuff_bricks` | 45 |
 | Glatter Stein | `smooth_stone` | 6 |
 | Polierter Andesit | `polished_andesite` | 1 |
 
@@ -4377,10 +4377,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.133 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 2/6 (Y 62–70)
+### Schritt 10.133 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 2/6 (Y 63–71)
 
-- **Y-Bereich:** 62 bis 70
-- **Blöcke:** 1.741
+- **Y-Bereich:** 63 bis 71
+- **Blöcke:** 1.738
 - **Bauteile:** `w465386747`
 
 **Teileliste**
@@ -4388,9 +4388,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.019 |
-| Glatter Stein | `smooth_stone` | 358 |
+| Glatter Stein | `smooth_stone` | 356 |
 | Graues Buntglas | `gray_stained_glass` | 180 |
-| Tuffsteinziegel | `tuff_bricks` | 174 |
+| Tuffsteinziegel | `tuff_bricks` | 173 |
 | Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
@@ -4409,20 +4409,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.134 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 3/6 (Y 71–77)
+### Schritt 10.134 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 3/6 (Y 72–79)
 
-- **Y-Bereich:** 71 bis 77
-- **Blöcke:** 1.697
+- **Y-Bereich:** 72 bis 79
+- **Blöcke:** 1.942
 - **Bauteile:** `w465386747`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 636 |
-| Glatter Stein | `smooth_stone` | 472 |
-| Tuffsteinziegel | `tuff_bricks` | 220 |
-| Polierter Andesit | `polished_andesite` | 197 |
+| Tuffstein | `tuff` | 748 |
+| Glatter Stein | `smooth_stone` | 548 |
+| Tuffsteinziegel | `tuff_bricks` | 249 |
+| Polierter Andesit | `polished_andesite` | 225 |
 | Graues Buntglas | `gray_stained_glass` | 172 |
 
 **Beschreibung**
@@ -4441,53 +4441,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.135 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 4/6 (Y 78–84)
+### Schritt 10.135 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 4/6 (Y 80–86)
 
-- **Y-Bereich:** 78 bis 84
-- **Blöcke:** 1.771
+- **Y-Bereich:** 80 bis 86
+- **Blöcke:** 1.734
 - **Bauteile:** `w465386747`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 710 |
-| Glatter Stein | `smooth_stone` | 598 |
-| Polierter Andesit | `polished_andesite` | 337 |
-| Graues Buntglas | `gray_stained_glass` | 86 |
-| Tuffsteinziegel | `tuff_bricks` | 40 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.136 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 5/6 (Y 85–90)
-
-- **Y-Bereich:** 85 bis 90
-- **Blöcke:** 1.547
-- **Bauteile:** `w465386747`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 561 |
-| Polierter Andesit | `polished_andesite` | 377 |
-| Glatter Stein | `smooth_stone` | 292 |
-| Endsteinziegel | `end_stone_bricks` | 188 |
+| Tuffstein | `tuff` | 673 |
+| Glatter Stein | `smooth_stone` | 557 |
+| Polierter Andesit | `polished_andesite` | 364 |
 | Graues Buntglas | `gray_stained_glass` | 129 |
+| Tuffsteinziegel | `tuff_bricks` | 11 |
 
 **Beschreibung**
 
@@ -4505,9 +4473,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.137 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 6/6 (Y 91–96)
+### Schritt 10.136 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 5/6 (Y 87–91)
 
-- **Y-Bereich:** 91 bis 96
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 1.487
+- **Bauteile:** `w465386747`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 634 |
+| Polierter Andesit | `polished_andesite` | 322 |
+| Glatter Stein | `smooth_stone` | 257 |
+| Endsteinziegel | `end_stone_bricks` | 188 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.137 – Renaissance-Palazzo an Piazza dell'Unità Italiana – Teil 6/6 (Y 92–97)
+
+- **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.964
 - **Bauteile:** `w465386747`
 
@@ -4534,21 +4534,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.138 – Renaissance-Palazzo an Piazza dell'Unità Italiana: Innenausbau – Teil 1/2 (Y 60–71)
+### Schritt 10.138 – Renaissance-Palazzo an Piazza dell'Unità Italiana: Innenausbau – Teil 1/2 (Y 61–72)
 
-- **Y-Bereich:** 60 bis 71
-- **Blöcke:** 1.285
+- **Y-Bereich:** 61 bis 72
+- **Blöcke:** 1.324
 - **Bauteile:** `w465386747_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.216 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Terrakotta | `terracotta` | 1.204 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
+| Seelaterne | `sea_lantern` | 17 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -4557,7 +4557,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 44 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -4576,21 +4576,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.139 – Renaissance-Palazzo an Piazza dell'Unità Italiana: Innenausbau – Teil 2/2 (Y 72–81)
+### Schritt 10.139 – Renaissance-Palazzo an Piazza dell'Unità Italiana: Innenausbau – Teil 2/2 (Y 73–82)
 
-- **Y-Bereich:** 72 bis 81
-- **Blöcke:** 1.284
+- **Y-Bereich:** 73 bis 82
+- **Blöcke:** 1.314
 - **Bauteile:** `w465386747_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.216 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Terrakotta | `terracotta` | 1.204 |
+| Glatter Stein | `smooth_stone` | 48 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 16 |
 | Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
@@ -4601,7 +4601,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 36 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**

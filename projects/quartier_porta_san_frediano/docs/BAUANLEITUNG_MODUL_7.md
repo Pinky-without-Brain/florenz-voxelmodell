@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 122.623 |
+| Blöcke | 122.685 |
 | Bauschritte | 88 |
 | Y-Bereich | 56 bis 95 |
 | X-Ausdehnung | -3064 bis -2931 (134 Blöcke) |
 | Z-Ausdehnung | 226 bis 552 (327 Blöcke) |
 | Kleinster Schritt | 381 Blöcke (Schritt 7.37) |
-| Mittlerer Schritt | 1.393 Blöcke |
+| Mittlerer Schritt | 1.394 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 7.74) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 32.502 | 26,5 % |
-| Weißer Beton | `white_concrete` | 14.890 | 12,1 % |
+| Terrakotta | `terracotta` | 32.506 | 26,5 % |
+| Weißer Beton | `white_concrete` | 14.883 | 12,1 % |
 | Rosa Keramik | `pink_terracotta` | 14.728 | 12,0 % |
 | Orange Keramik | `orange_terracotta` | 13.370 | 10,9 % |
 | Endsteinziegel | `end_stone_bricks` | 10.061 | 8,2 % |
@@ -35,7 +35,7 @@
 | Hellgrauer Beton | `light_gray_concrete` | 2.156 | 1,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.464 | 1,2 % |
 | Grüner Beton | `green_concrete` | 980 | 0,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 948 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 947 | 0,8 % |
 | Ziegelsteine | `bricks` | 768 | 0,6 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 321 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 299 | 0,2 % |
@@ -44,10 +44,10 @@
 | Seelaterne | `sea_lantern` | 234 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 183 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 183 | 0,1 % |
+| Tuffstein | `tuff` | 104 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 52 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
-| Tuffstein | `tuff` | 38 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
@@ -82,7 +82,7 @@
 | 18 | `w495948957_innen` | Reihenhaus an Via Pisana: Innenausbau | 1.307 | 7.35 |
 | 19 | `w495948959` | Reihenhaus an Via dell'Anconella | 1.178 | 7.36 |
 | 20 | `w495948959_innen` | Reihenhaus an Via dell'Anconella: Innenausbau | 381 | 7.37 |
-| 21 | `w495948960` | Haus w495948960 | 7.529 | 7.38–7.41 |
+| 21 | `w495948960` | Haus w495948960 | 7.591 | 7.38–7.41 |
 | 22 | `w495948960_innen` | Haus w495948960: Innenausbau | 2.167 | 7.42–7.43 |
 | 23 | `w495948967` | Nebengebäude an Via dell'Anconella | 2.562 | 7.44–7.45 |
 | 24 | `w495948967_innen` | Nebengebäude an Via dell'Anconella: Innenausbau | 4 | 7.46 |
@@ -1392,10 +1392,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.38 – Haus w495948960 – Teil 1/4 (Y 56–62)
+### Schritt 7.38 – Haus w495948960 – Teil 1/4 (Y 56–63)
 
-- **Y-Bereich:** 56 bis 62
-- **Blöcke:** 1.867
+- **Y-Bereich:** 56 bis 63
+- **Blöcke:** 1.910
 - **Bauteile:** `w495948960`
 
 **Teileliste**
@@ -1403,8 +1403,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 856 |
-| Weißer Beton | `white_concrete` | 825 |
+| Weißer Beton | `white_concrete` | 802 |
 | Graues Buntglas | `gray_stained_glass` | 76 |
+| Tuffstein | `tuff` | 66 |
 | Hellgrauer Beton | `light_gray_concrete` | 59 |
 | Glatter Stein | `smooth_stone` | 30 |
 | Polierter Andesit | `polished_andesite` | 15 |
@@ -1426,9 +1427,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.39 – Haus w495948960 – Teil 2/4 (Y 63–73)
+### Schritt 7.39 – Haus w495948960 – Teil 2/4 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.917
 - **Bauteile:** `w495948960`
 
@@ -1458,9 +1459,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.40 – Haus w495948960 – Teil 3/4 (Y 74–84)
+### Schritt 7.40 – Haus w495948960 – Teil 3/4 (Y 75–85)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.858
 - **Bauteile:** `w495948960`
 
@@ -1489,19 +1490,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.41 – Haus w495948960 – Teil 4/4 (Y 85–94)
+### Schritt 7.41 – Haus w495948960 – Teil 4/4 (Y 86–95)
 
-- **Y-Bereich:** 85 bis 94
-- **Blöcke:** 1.887
+- **Y-Bereich:** 86 bis 95
+- **Blöcke:** 1.906
 - **Bauteile:** `w495948960`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.238 |
-| Weißer Beton | `white_concrete` | 329 |
-| Fichtenholz-Bretter | `spruce_planks` | 184 |
+| Terrakotta | `terracotta` | 1.242 |
+| Weißer Beton | `white_concrete` | 345 |
+| Fichtenholz-Bretter | `spruce_planks` | 183 |
 | Ziegelsteine | `bricks` | 105 |
 | Hellgrauer Beton | `light_gray_concrete` | 31 |
 
@@ -1521,9 +1522,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.42 – Haus w495948960: Innenausbau – Teil 1/2 (Y 56–71)
+### Schritt 7.42 – Haus w495948960: Innenausbau – Teil 1/2 (Y 57–72)
 
-- **Y-Bereich:** 56 bis 71
+- **Y-Bereich:** 57 bis 72
 - **Blöcke:** 767
 - **Bauteile:** `w495948960_innen`
 
@@ -1563,9 +1564,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.43 – Haus w495948960: Innenausbau – Teil 2/2 (Y 72–80)
+### Schritt 7.43 – Haus w495948960: Innenausbau – Teil 2/2 (Y 73–81)
 
-- **Y-Bereich:** 72 bis 80
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.400
 - **Bauteile:** `w495948960_innen`
 

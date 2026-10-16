@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 521.645 |
+| Blöcke | 521.632 |
 | Bauschritte | 329 |
 | Y-Bereich | 54 bis 100 |
 | X-Ausdehnung | -2129 bis -1752 (378 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 156.076 | 29,9 % |
+| Terrakotta | `terracotta` | 156.078 | 29,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 63.771 | 12,2 % |
 | Polierter Tuffstein | `polished_tuff` | 51.258 | 9,8 % |
 | Rosa Keramik | `pink_terracotta` | 47.261 | 9,1 % |
@@ -29,10 +29,10 @@
 | Hellgrauer Beton | `light_gray_concrete` | 42.518 | 8,2 % |
 | Orange Keramik | `orange_terracotta` | 25.410 | 4,9 % |
 | Endsteinziegel | `end_stone_bricks` | 18.399 | 3,5 % |
-| Tuffstein | `tuff` | 15.807 | 3,0 % |
+| Tuffstein | `tuff` | 15.800 | 3,0 % |
 | Polierter Andesit | `polished_andesite` | 14.290 | 2,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 11.467 | 2,2 % |
-| Glatter Stein | `smooth_stone` | 10.247 | 2,0 % |
+| Glatter Stein | `smooth_stone` | 10.239 | 2,0 % |
 | Graues Buntglas | `gray_stained_glass` | 8.692 | 1,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.673 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 2.264 | 0,4 % |
@@ -170,7 +170,7 @@
 | 98 | `w483457925_innen` | Palazzo des Cinquecento an Via dell'Albero: Innenausbau | 672 | 2.303 |
 | 99 | `w483457926` | Haus w483457926 | 8.697 | 2.304–2.308 |
 | 100 | `w483457926_innen` | Haus w483457926: Innenausbau | 4 | 2.309 |
-| 101 | `w483457927` | Renaissance-Palazzo an Via Palazzuolo | 10.090 | 2.309–2.314 |
+| 101 | `w483457927` | Renaissance-Palazzo an Via Palazzuolo | 10.077 | 2.309–2.314 |
 | 102 | `w483457927_innen` | Renaissance-Palazzo an Via Palazzuolo: Innenausbau | 2.150 | 2.315–2.316 |
 | 103 | `w483457928` | Reihenhaus an Via Palazzuolo | 2.269 | 2.317–2.318 |
 | 104 | `w483457928_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 1.314 | 2.319 |
@@ -10227,10 +10227,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.309 – Haus w483457926: Innenausbau & Renaissance-Palazzo an Via Palazzuolo – Teil 1/6 (Y 54–56)
+### Schritt 2.309 – Haus w483457926: Innenausbau & Renaissance-Palazzo an Via Palazzuolo – Teil 1/6 (Y 55–57)
 
-- **Y-Bereich:** 54 bis 57
-- **Blöcke:** 1.752
+- **Y-Bereich:** 55 bis 57
+- **Blöcke:** 1.704
 - **Bauteile:** `w483457926_innen`, `w483457927`
 
 **Teileliste**
@@ -10238,7 +10238,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.250 |
-| Tuffstein | `tuff` | 384 |
+| Tuffstein | `tuff` | 336 |
 | Tuffsteinziegel | `tuff_bricks` | 101 |
 | Polierter Andesit | `polished_andesite` | 9 |
 | Seelaterne | `sea_lantern` | 4 |
@@ -10260,9 +10260,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.310 – Renaissance-Palazzo an Via Palazzuolo – Teil 2/6 (Y 57–64)
+### Schritt 2.310 – Renaissance-Palazzo an Via Palazzuolo – Teil 2/6 (Y 58–65)
 
-- **Y-Bereich:** 57 bis 64
+- **Y-Bereich:** 58 bis 65
 - **Blöcke:** 1.566
 - **Bauteile:** `w483457927`
 
@@ -10292,9 +10292,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.311 – Renaissance-Palazzo an Via Palazzuolo – Teil 3/6 (Y 65–72)
+### Schritt 2.311 – Renaissance-Palazzo an Via Palazzuolo – Teil 3/6 (Y 66–73)
 
-- **Y-Bereich:** 65 bis 72
+- **Y-Bereich:** 66 bis 73
 - **Blöcke:** 1.838
 - **Bauteile:** `w483457927`
 
@@ -10324,9 +10324,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.312 – Renaissance-Palazzo an Via Palazzuolo – Teil 4/6 (Y 73–79)
+### Schritt 2.312 – Renaissance-Palazzo an Via Palazzuolo – Teil 4/6 (Y 74–80)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.624
 - **Bauteile:** `w483457927`
 
@@ -10356,10 +10356,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.313 – Renaissance-Palazzo an Via Palazzuolo – Teil 5/6 (Y 80–84)
+### Schritt 2.313 – Renaissance-Palazzo an Via Palazzuolo – Teil 5/6 (Y 81–85)
 
-- **Y-Bereich:** 80 bis 84
-- **Blöcke:** 1.557
+- **Y-Bereich:** 81 bis 85
+- **Blöcke:** 1.590
 - **Bauteile:** `w483457927`
 
 **Teileliste**
@@ -10367,8 +10367,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 654 |
-| Glatter Stein | `smooth_stone` | 462 |
-| Tuffstein | `tuff` | 401 |
+| Glatter Stein | `smooth_stone` | 454 |
+| Tuffstein | `tuff` | 442 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
@@ -10387,17 +10387,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.314 – Renaissance-Palazzo an Via Palazzuolo – Teil 6/6 (Y 85–91)
+### Schritt 2.314 – Renaissance-Palazzo an Via Palazzuolo – Teil 6/6 (Y 86–92)
 
-- **Y-Bereich:** 85 bis 91
-- **Blöcke:** 1.757
+- **Y-Bereich:** 86 bis 92
+- **Blöcke:** 1.759
 - **Bauteile:** `w483457927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.678 |
+| Terrakotta | `terracotta` | 1.680 |
 | Ziegelsteine | `bricks` | 79 |
 
 **Beschreibung**
@@ -10416,9 +10416,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.315 – Renaissance-Palazzo an Via Palazzuolo: Innenausbau – Teil 1/2 (Y 54–65)
+### Schritt 2.315 – Renaissance-Palazzo an Via Palazzuolo: Innenausbau – Teil 1/2 (Y 55–66)
 
-- **Y-Bereich:** 54 bis 65
+- **Y-Bereich:** 55 bis 66
 - **Blöcke:** 1.083
 - **Bauteile:** `w483457927_innen`
 
@@ -10458,9 +10458,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.316 – Renaissance-Palazzo an Via Palazzuolo: Innenausbau – Teil 2/2 (Y 66–74)
+### Schritt 2.316 – Renaissance-Palazzo an Via Palazzuolo: Innenausbau – Teil 2/2 (Y 67–75)
 
-- **Y-Bereich:** 66 bis 74
+- **Y-Bereich:** 67 bis 75
 - **Blöcke:** 1.067
 - **Bauteile:** `w483457927_innen`
 

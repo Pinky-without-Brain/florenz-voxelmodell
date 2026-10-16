@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.862 |
+| Blöcke | 8.648 |
 | Bauschritte | 5 |
-| Y-Bereich | 59 bis 95 |
+| Y-Bereich | 59 bis 94 |
 | X-Ausdehnung | -2002 bis -1958 (45 Blöcke) |
 | Z-Ausdehnung | 1294 bis 1327 (34 Blöcke) |
 | Kleinster Schritt | 961 Blöcke (Schritt 4.5) |
-| Mittlerer Schritt | 1.772 Blöcke |
-| Größter Schritt | 2.090 Blöcke (Schritt 4.2) |
+| Mittlerer Schritt | 1.730 Blöcke |
+| Größter Schritt | 2.070 Blöcke (Schritt 4.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 4.249 | 47,9 % |
-| Terrakotta | `terracotta` | 1.613 | 18,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 875 | 9,9 % |
-| Polierter Tuffstein | `polished_tuff` | 506 | 5,7 % |
-| Graues Buntglas | `gray_stained_glass` | 502 | 5,7 % |
-| Grüner Beton | `green_concrete` | 420 | 4,7 % |
-| Tuffstein | `tuff` | 225 | 2,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 208 | 2,3 % |
-| Glatter Stein | `smooth_stone` | 101 | 1,1 % |
+| Weißer Beton | `white_concrete` | 4.249 | 49,1 % |
+| Terrakotta | `terracotta` | 1.613 | 18,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 875 | 10,1 % |
+| Polierter Tuffstein | `polished_tuff` | 506 | 5,9 % |
+| Graues Buntglas | `gray_stained_glass` | 502 | 5,8 % |
+| Grüner Beton | `green_concrete` | 420 | 4,9 % |
+| Fichtenholz-Bretter | `spruce_planks` | 208 | 2,4 % |
+| Glatter Stein | `smooth_stone` | 101 | 1,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,7 % |
 | Ziegelsteine | `bricks` | 26 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,3 % |
 | Polierter Andesit | `polished_andesite` | 19 | 0,2 % |
+| Tuffstein | `tuff` | 11 | 0,1 % |
 | Seelaterne | `sea_lantern` | 8 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -47,7 +47,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w480494002` | Haus w480494002 | 7.901 | 4.1–4.4 |
+| 1 | `w480494002` | Haus w480494002 | 7.687 | 4.1–4.4 |
 | 2 | `w480494002_innen` | Haus w480494002: Innenausbau | 961 | 4.5 |
 
 ## Bauschritte
@@ -55,21 +55,21 @@
 ### Schritt 4.1 – Haus w480494002 – Teil 1/4 (Y 59–67)
 
 - **Y-Bereich:** 59 bis 67
-- **Blöcke:** 1.909
+- **Blöcke:** 1.912
 - **Bauteile:** `w480494002`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 795 |
+| Weißer Beton | `white_concrete` | 946 |
 | Polierter Tuffstein | `polished_tuff` | 506 |
-| Tuffstein | `tuff` | 225 |
 | Graues Buntglas | `gray_stained_glass` | 139 |
-| Hellgrauer Beton | `light_gray_concrete` | 95 |
-| Glatter Stein | `smooth_stone` | 73 |
+| Hellgrauer Beton | `light_gray_concrete` | 133 |
+| Glatter Stein | `smooth_stone` | 101 |
 | Grüner Beton | `green_concrete` | 57 |
 | Polierter Andesit | `polished_andesite` | 19 |
+| Tuffstein | `tuff` | 11 |
 
 **Beschreibung**
 
@@ -87,41 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Haus w480494002 – Teil 2/4 (Y 68–77)
+### Schritt 4.2 – Haus w480494002 – Teil 2/4 (Y 68–76)
 
-- **Y-Bereich:** 68 bis 77
-- **Blöcke:** 2.090
-- **Bauteile:** `w480494002`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.502 |
-| Hellgrauer Beton | `light_gray_concrete` | 296 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
-| Grüner Beton | `green_concrete` | 132 |
-| Glatter Stein | `smooth_stone` | 28 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.3 – Haus w480494002 – Teil 3/4 (Y 78–86)
-
-- **Y-Bereich:** 78 bis 86
+- **Y-Bereich:** 68 bis 76
 - **Blöcke:** 1.873
 - **Bauteile:** `w480494002`
 
@@ -129,8 +97,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.286 |
-| Hellgrauer Beton | `light_gray_concrete` | 323 |
+| Weißer Beton | `white_concrete` | 1.351 |
+| Hellgrauer Beton | `light_gray_concrete` | 258 |
 | Graues Buntglas | `gray_stained_glass` | 132 |
 | Grüner Beton | `green_concrete` | 132 |
 
@@ -150,10 +118,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Haus w480494002 – Teil 4/4 (Y 87–95)
+### Schritt 4.3 – Haus w480494002 – Teil 3/4 (Y 77–86)
 
-- **Y-Bereich:** 87 bis 95
-- **Blöcke:** 2.029
+- **Y-Bereich:** 77 bis 86
+- **Blöcke:** 2.070
+- **Bauteile:** `w480494002`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.385 |
+| Hellgrauer Beton | `light_gray_concrete` | 355 |
+| Graues Buntglas | `gray_stained_glass` | 165 |
+| Grüner Beton | `green_concrete` | 165 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 4.4 – Haus w480494002 – Teil 4/4 (Y 87–94)
+
+- **Y-Bereich:** 87 bis 94
+- **Blöcke:** 1.832
 - **Bauteile:** `w480494002`
 
 **Teileliste**
@@ -161,11 +160,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 770 |
-| Weißer Beton | `white_concrete` | 666 |
+| Weißer Beton | `white_concrete` | 567 |
 | Fichtenholz-Bretter | `spruce_planks` | 208 |
-| Hellgrauer Beton | `light_gray_concrete` | 161 |
-| Graues Buntglas | `gray_stained_glass` | 99 |
-| Grüner Beton | `green_concrete` | 99 |
+| Hellgrauer Beton | `light_gray_concrete` | 129 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Grüner Beton | `green_concrete` | 66 |
 | Ziegelsteine | `bricks` | 26 |
 
 **Beschreibung**
@@ -186,7 +185,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 4.5 – Haus w480494002: Innenausbau
 
-- **Y-Bereich:** 61 bis 84
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 961
 - **Bauteile:** `w480494002_innen`
 

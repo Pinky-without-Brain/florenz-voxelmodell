@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 74.327 |
+| Blöcke | 74.623 |
 | Bauschritte | 45 |
 | Y-Bereich | 58 bis 98 |
 | X-Ausdehnung | -1338 bis -1206 (133 Blöcke) |
 | Z-Ausdehnung | 360 bis 489 (130 Blöcke) |
 | Kleinster Schritt | 712 Blöcke (Schritt 14.34) |
-| Mittlerer Schritt | 1.652 Blöcke |
+| Mittlerer Schritt | 1.658 Blöcke |
 | Größter Schritt | 2.020 Blöcke (Schritt 14.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 23.670 | 31,8 % |
-| Rosa Keramik | `pink_terracotta` | 11.544 | 15,5 % |
-| Tuffstein | `tuff` | 9.466 | 12,7 % |
+| Terrakotta | `terracotta` | 23.670 | 31,7 % |
+| Rosa Keramik | `pink_terracotta` | 11.590 | 15,5 % |
+| Tuffstein | `tuff` | 9.716 | 13,0 % |
 | Polierter Tuffstein | `polished_tuff` | 7.019 | 9,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.057 | 6,8 % |
 | Glatter Stein | `smooth_stone` | 4.664 | 6,3 % |
 | Polierter Andesit | `polished_andesite` | 3.670 | 4,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 2.645 | 3,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.645 | 3,5 % |
 | Weißer Beton | `white_concrete` | 1.907 | 2,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.821 | 2,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 792 | 1,1 % |
@@ -37,10 +37,10 @@
 | Grüner Beton | `green_concrete` | 183 | 0,2 % |
 | Seelaterne | `sea_lantern` | 133 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 126 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 107 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 99 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 59 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 59 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 106 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 98 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 60 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 60 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 57 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 57 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,1 % |
@@ -74,7 +74,7 @@
 | 12 | `w463879860_innen` | Reihenhaus an Via dei Federighi: Innenausbau | 1.433 | 14.37 |
 | 13 | `w463879862` | Reihenhaus an Via dei Palchetti | 3.213 | 14.38–14.39 |
 | 14 | `w463879862_innen` | Reihenhaus an Via dei Palchetti: Innenausbau | 1.451 | 14.40 |
-| 15 | `w463879899` | Reihenhaus an Via dei Federighi | 5.587 | 14.41–14.43 |
+| 15 | `w463879899` | Reihenhaus an Via dei Federighi | 5.883 | 14.41–14.43 |
 | 16 | `w463879899_innen` | Reihenhaus an Via dei Federighi: Innenausbau | 2.428 | 14.44–14.45 |
 | 17 | `strassenschilder` | Straßenschilder | 8 | 14.45 |
 
@@ -1425,19 +1425,19 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 14.41 – Reihenhaus an Via dei Federighi – Teil 1/3 (Y 59–69)
 
 - **Y-Bereich:** 59 bis 69
-- **Blöcke:** 1.914
+- **Blöcke:** 2.017
 - **Bauteile:** `w463879899`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 985 |
 | Polierter Tuffstein | `polished_tuff` | 880 |
+| Rosa Keramik | `pink_terracotta` | 838 |
+| Tuffstein | `tuff` | 256 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 | Polierter Andesit | `polished_andesite` | 8 |
-| Tuffstein | `tuff` | 6 |
 
 **Beschreibung**
 
@@ -1455,17 +1455,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.42 – Reihenhaus an Via dei Federighi – Teil 2/3 (Y 70–85)
+### Schritt 14.42 – Reihenhaus an Via dei Federighi – Teil 2/3 (Y 70–86)
 
-- **Y-Bereich:** 70 bis 85
-- **Blöcke:** 1.786
+- **Y-Bereich:** 70 bis 86
+- **Blöcke:** 1.901
 - **Bauteile:** `w463879899`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.696 |
+| Rosa Keramik | `pink_terracotta` | 1.811 |
 | Graues Buntglas | `gray_stained_glass` | 90 |
 
 **Beschreibung**
@@ -1484,10 +1484,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.43 – Reihenhaus an Via dei Federighi – Teil 3/3 (Y 86–95)
+### Schritt 14.43 – Reihenhaus an Via dei Federighi – Teil 3/3 (Y 87–96)
 
-- **Y-Bereich:** 86 bis 95
-- **Blöcke:** 1.887
+- **Y-Bereich:** 87 bis 96
+- **Blöcke:** 1.965
 - **Bauteile:** `w463879899`
 
 **Teileliste**
@@ -1495,7 +1495,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.108 |
-| Rosa Keramik | `pink_terracotta` | 694 |
+| Rosa Keramik | `pink_terracotta` | 772 |
 | Ziegelsteine | `bricks` | 55 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
 
@@ -1515,10 +1515,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.44 – Reihenhaus an Via dei Federighi: Innenausbau – Teil 1/2 (Y 60–75)
+### Schritt 14.44 – Reihenhaus an Via dei Federighi: Innenausbau – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 60 bis 75
-- **Blöcke:** 853
+- **Y-Bereich:** 61 bis 76
+- **Blöcke:** 850
 - **Bauteile:** `w463879899_innen`
 
 **Teileliste**
@@ -1526,9 +1526,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 757 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 15 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
 | Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -1539,7 +1539,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
 
 **Beschreibung**
 
@@ -1557,10 +1557,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.45 – Reihenhaus an Via dei Federighi: Innenausbau – Teil 2/2 (Y 76–84) & Straßenschilder
+### Schritt 14.45 – Reihenhaus an Via dei Federighi: Innenausbau – Teil 2/2 (Y 77–85) & Straßenschilder
 
-- **Y-Bereich:** 65 bis 84
-- **Blöcke:** 1.583
+- **Y-Bereich:** 65 bis 85
+- **Blöcke:** 1.586
 - **Bauteile:** `w463879899_innen`, `strassenschilder`
 
 **Teileliste**
@@ -1568,7 +1568,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.514 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 11 |
 | Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
@@ -1577,12 +1577,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
 
 **Beschreibung**
 

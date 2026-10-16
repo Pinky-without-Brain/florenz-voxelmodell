@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 94.586 |
+| Blöcke | 93.950 |
 | Bauschritte | 65 |
 | Y-Bereich | 163 bis 207 |
 | X-Ausdehnung | -544 bis -225 (320 Blöcke) |
 | Z-Ausdehnung | 2032 bis 2351 (320 Blöcke) |
 | Kleinster Schritt | 553 Blöcke (Schritt 173.46) |
-| Mittlerer Schritt | 1.455 Blöcke |
+| Mittlerer Schritt | 1.445 Blöcke |
 | Größter Schritt | 2.031 Blöcke (Schritt 173.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 30.467 | 32,2 % |
-| Tuffstein | `tuff` | 28.115 | 29,7 % |
-| Polierter Tuffstein | `polished_tuff` | 20.517 | 21,7 % |
-| Stein | `stone` | 12.222 | 12,9 % |
+| Grasblock | `grass_block` | 30.463 | 32,4 % |
+| Tuffstein | `tuff` | 27.415 | 29,2 % |
+| Polierter Tuffstein | `polished_tuff` | 20.508 | 21,8 % |
+| Stein | `stone` | 12.299 | 13,1 % |
 | Glatter Stein | `smooth_stone` | 1.326 | 1,4 % |
 | Steinziegel | `stone_bricks` | 964 | 1,0 % |
 | Kies | `gravel` | 624 | 0,7 % |
@@ -42,16 +42,16 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 11.920 | 173.1–173.9 |
+| 1 | `boeschung` | Böschung und Mantel | 11.997 | 173.1–173.9 |
 | 2 | `arno_bett` | Flussbett | 71 | 173.10 |
 | 3 | `arno_wasser` | Arno | 142 | 173.10 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 7.445 | 173.10–173.14 |
 | 5 | `gehwege` | Gehwege | 1.032 | 173.15 |
 | 6 | `stufen` | Treppenflächen | 63 | 173.16 |
-| 7 | `hof_pflaster` | Höfe | 13.072 | 173.16–173.24 |
-| 8 | `rasen` | Grün und offenes Gelände | 30.968 | 173.25–173.45 |
+| 7 | `hof_pflaster` | Höfe | 13.063 | 173.16–173.24 |
+| 8 | `rasen` | Grün und offenes Gelände | 30.964 | 173.25–173.45 |
 | 9 | `gruen_wege` | Wege im Grün | 553 | 173.46 |
-| 10 | `mauern_stadt` | Stadtmauer | 28.115 | 173.47–173.64 |
+| 10 | `mauern_stadt` | Stadtmauer | 27.415 | 173.47–173.64 |
 | 11 | `mauern_garten` | Gartenmauern | 1.205 | 173.65 |
 
 ## Bauschritte
@@ -59,14 +59,14 @@
 ### Schritt 173.1 – Böschung und Mantel – Teil 1/9 (Y 163–178)
 
 - **Y-Bereich:** 163 bis 178
-- **Blöcke:** 1.312
+- **Blöcke:** 1.454
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.312 |
+| Stein | `stone` | 1.454 |
 
 **Beschreibung**
 
@@ -87,14 +87,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 173.2 – Böschung und Mantel – Teil 2/9 (Y 179–180)
 
 - **Y-Bereich:** 179 bis 180
-- **Blöcke:** 1.316
+- **Blöcke:** 1.399
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.316 |
+| Stein | `stone` | 1.399 |
 
 **Beschreibung**
 
@@ -112,18 +112,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 173.3 – Böschung und Mantel – Teil 3/9 (Y 181–182)
+### Schritt 173.3 – Böschung und Mantel – Teil 3/9 (Y 181–181)
 
-- **Y-Bereich:** 181 bis 182
-- **Blöcke:** 1.722
+- **Y-Bereich:** 181 bis 181
+- **Blöcke:** 896
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.665 |
-| Polierter Andesit | `polished_andesite` | 57 |
+| Stein | `stone` | 893 |
+| Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
@@ -141,18 +141,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 173.4 – Böschung und Mantel – Teil 4/9 (Y 183–183)
+### Schritt 173.4 – Böschung und Mantel – Teil 4/9 (Y 182–183)
 
-- **Y-Bereich:** 183 bis 183
-- **Blöcke:** 995
+- **Y-Bereich:** 182 bis 183
+- **Blöcke:** 1.909
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 927 |
-| Polierter Andesit | `polished_andesite` | 68 |
+| Stein | `stone` | 1.787 |
+| Polierter Andesit | `polished_andesite` | 122 |
 
 **Beschreibung**
 
@@ -173,14 +173,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 173.5 – Böschung und Mantel – Teil 5/9 (Y 184–184)
 
 - **Y-Bereich:** 184 bis 184
-- **Blöcke:** 1.172
+- **Blöcke:** 1.174
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.142 |
+| Stein | `stone` | 1.144 |
 | Polierter Andesit | `polished_andesite` | 30 |
 
 **Beschreibung**
@@ -202,14 +202,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 173.6 – Böschung und Mantel – Teil 6/9 (Y 185–185)
 
 - **Y-Bereich:** 185 bis 185
-- **Blöcke:** 1.111
+- **Blöcke:** 1.102
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.081 |
+| Stein | `stone` | 1.072 |
 | Polierter Andesit | `polished_andesite` | 30 |
 
 **Beschreibung**
@@ -228,17 +228,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 173.7 – Böschung und Mantel – Teil 7/9 (Y 186–187)
+### Schritt 173.7 – Böschung und Mantel – Teil 7/9 (Y 186–186)
 
-- **Y-Bereich:** 186 bis 187
-- **Blöcke:** 2.019
+- **Y-Bereich:** 186 bis 186
+- **Blöcke:** 1.354
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.005 |
+| Stein | `stone` | 1.340 |
 | Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
@@ -257,17 +257,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 173.8 – Böschung und Mantel – Teil 8/9 (Y 188–188)
+### Schritt 173.8 – Böschung und Mantel – Teil 8/9 (Y 187–188)
 
-- **Y-Bereich:** 188 bis 188
-- **Blöcke:** 720
+- **Y-Bereich:** 187 bis 188
+- **Blöcke:** 1.319
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 720 |
+| Stein | `stone` | 1.319 |
 
 **Beschreibung**
 
@@ -288,14 +288,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 173.9 – Böschung und Mantel – Teil 9/9 (Y 189–192)
 
 - **Y-Bereich:** 189 bis 192
-- **Blöcke:** 1.553
+- **Blöcke:** 1.390
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.553 |
+| Stein | `stone` | 1.390 |
 
 **Beschreibung**
 
@@ -690,14 +690,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 173.23 – Höfe – Teil 8/9 (Y 186–188)
 
 - **Y-Bereich:** 186 bis 188
-- **Blöcke:** 1.897
+- **Blöcke:** 1.886
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.897 |
+| Polierter Tuffstein | `polished_tuff` | 1.886 |
 
 **Beschreibung**
 
@@ -718,14 +718,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 173.24 – Höfe – Teil 9/9 (Y 189–193)
 
 - **Y-Bereich:** 189 bis 193
-- **Blöcke:** 1.436
+- **Blöcke:** 1.438
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.436 |
+| Polierter Tuffstein | `polished_tuff` | 1.438 |
 
 **Beschreibung**
 
@@ -1177,14 +1177,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 173.40 – Grün und offenes Gelände – Teil 16/21 (Y 185–185)
 
 - **Y-Bereich:** 185 bis 185
-- **Blöcke:** 1.092
+- **Blöcke:** 1.090
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.069 |
+| Grasblock | `grass_block` | 1.067 |
 | Stein | `stone` | 23 |
 
 **Beschreibung**
@@ -1235,14 +1235,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 173.42 – Grün und offenes Gelände – Teil 18/21 (Y 187–187)
 
 - **Y-Bereich:** 187 bis 187
-- **Blöcke:** 1.036
+- **Blöcke:** 1.034
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.004 |
+| Grasblock | `grass_block` | 1.002 |
 | Stein | `stone` | 32 |
 
 **Beschreibung**
@@ -1491,14 +1491,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.51 – Stadtmauer – Teil 5/18 (Y 188–188)
 
 - **Y-Bereich:** 188 bis 188
-- **Blöcke:** 1.709
+- **Blöcke:** 1.701
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.709 |
+| Tuffstein | `tuff` | 1.701 |
 
 **Beschreibung**
 
@@ -1519,14 +1519,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.52 – Stadtmauer – Teil 6/18 (Y 189–189)
 
 - **Y-Bereich:** 189 bis 189
-- **Blöcke:** 1.723
+- **Blöcke:** 1.713
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.723 |
+| Tuffstein | `tuff` | 1.713 |
 
 **Beschreibung**
 
@@ -1547,14 +1547,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.53 – Stadtmauer – Teil 7/18 (Y 190–190)
 
 - **Y-Bereich:** 190 bis 190
-- **Blöcke:** 1.745
+- **Blöcke:** 1.567
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.745 |
+| Tuffstein | `tuff` | 1.567 |
 
 **Beschreibung**
 
@@ -1575,14 +1575,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.54 – Stadtmauer – Teil 8/18 (Y 191–191)
 
 - **Y-Bereich:** 191 bis 191
-- **Blöcke:** 1.789
+- **Blöcke:** 1.611
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.789 |
+| Tuffstein | `tuff` | 1.611 |
 
 **Beschreibung**
 
@@ -1603,14 +1603,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.55 – Stadtmauer – Teil 9/18 (Y 192–192)
 
 - **Y-Bereich:** 192 bis 192
-- **Blöcke:** 1.833
+- **Blöcke:** 1.658
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.833 |
+| Tuffstein | `tuff` | 1.658 |
 
 **Beschreibung**
 
@@ -1631,14 +1631,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.56 – Stadtmauer – Teil 10/18 (Y 193–193)
 
 - **Y-Bereich:** 193 bis 193
-- **Blöcke:** 1.833
+- **Blöcke:** 1.658
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.833 |
+| Tuffstein | `tuff` | 1.658 |
 
 **Beschreibung**
 
@@ -1659,14 +1659,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.57 – Stadtmauer – Teil 11/18 (Y 194–194)
 
 - **Y-Bereich:** 194 bis 194
-- **Blöcke:** 1.654
+- **Blöcke:** 1.658
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.654 |
+| Tuffstein | `tuff` | 1.658 |
 
 **Beschreibung**
 
@@ -1687,14 +1687,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.58 – Stadtmauer – Teil 12/18 (Y 195–195)
 
 - **Y-Bereich:** 195 bis 195
-- **Blöcke:** 1.654
+- **Blöcke:** 1.658
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.654 |
+| Tuffstein | `tuff` | 1.658 |
 
 **Beschreibung**
 
@@ -1715,14 +1715,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.59 – Stadtmauer – Teil 13/18 (Y 196–196)
 
 - **Y-Bereich:** 196 bis 196
-- **Blöcke:** 1.654
+- **Blöcke:** 1.658
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.654 |
+| Tuffstein | `tuff` | 1.658 |
 
 **Beschreibung**
 
@@ -1743,14 +1743,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.60 – Stadtmauer – Teil 14/18 (Y 197–197)
 
 - **Y-Bereich:** 197 bis 197
-- **Blöcke:** 1.465
+- **Blöcke:** 1.469
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.465 |
+| Tuffstein | `tuff` | 1.469 |
 
 **Beschreibung**
 
@@ -1771,14 +1771,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.61 – Stadtmauer – Teil 15/18 (Y 198–198)
 
 - **Y-Bereich:** 198 bis 198
-- **Blöcke:** 1.428
+- **Blöcke:** 1.432
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.428 |
+| Tuffstein | `tuff` | 1.432 |
 
 **Beschreibung**
 
@@ -1799,14 +1799,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 173.62 – Stadtmauer – Teil 16/18 (Y 199–199)
 
 - **Y-Bereich:** 199 bis 199
-- **Blöcke:** 1.196
+- **Blöcke:** 1.200
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.196 |
+| Tuffstein | `tuff` | 1.200 |
 
 **Beschreibung**
 

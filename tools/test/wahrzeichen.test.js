@@ -195,7 +195,7 @@ test('Projektfelder: Prüfung und Vorrang-Datei', () => {
   assert.equal(pruefeFelder({ ...ok, masken: { k: { gebaeude: [] } } }).length, 1);
   assert.deepEqual(pruefeFelder({ ohneMaske: true }), []);
   const v = wahrzeichenVorrang(REAL_ROOT);
-  assert.equal(v.size, 25); // Welle 1 (8), Welle 2 (11), Welle 3 (Santa Croce, San Lorenzo, Santa Maria Novella je 2)
+  assert.equal(v.size, 39); // Welle 1 (8), Welle 2 (11), Welle 3 (6), Welle 4 (Kirchen, Palazzi, Loggia: 14 Gebäude-IDs; Brücken ohne)
   assert.equal(v.get('w777563049'), 'santa_croce');
   assert.equal(v.get('r1461712'), 'palazzo_vecchio');
   assert.equal(v.get('w1394931261'), 'orsanmichele');

@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 120.944 |
+| Blöcke | 121.143 |
 | Bauschritte | 80 |
 | Y-Bereich | 112 bis 171 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
 | Z-Ausdehnung | 2032 bis 2351 (320 Blöcke) |
 | Kleinster Schritt | 849 Blöcke (Schritt 171.19) |
-| Mittlerer Schritt | 1.512 Blöcke |
+| Mittlerer Schritt | 1.514 Blöcke |
 | Größter Schritt | 2.087 Blöcke (Schritt 171.23) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 80.245 | 66,3 % |
-| Stein | `stone` | 21.207 | 17,5 % |
+| Grasblock | `grass_block` | 80.235 | 66,2 % |
+| Stein | `stone` | 21.416 | 17,7 % |
 | Kies | `gravel` | 19.207 | 15,9 % |
 | Glatter Stein | `smooth_stone` | 175 | 0,1 % |
 | Steinziegel | `stone_bricks` | 92 | 0,1 % |
@@ -40,25 +40,25 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 20.763 | 171.1–171.11 |
+| 1 | `boeschung` | Böschung und Mantel | 20.972 | 171.1–171.11 |
 | 2 | `stufen` | Treppenflächen | 170 | 171.12 |
-| 3 | `rasen` | Grün und offenes Gelände | 80.689 | 171.12–171.69 |
+| 3 | `rasen` | Grün und offenes Gelände | 80.679 | 171.12–171.69 |
 | 4 | `gruen_wege` | Wege im Grün | 19.207 | 171.70–171.80 |
 | 5 | `mauern_garten` | Gartenmauern | 115 | 171.80 |
 
 ## Bauschritte
 
-### Schritt 171.1 – Böschung und Mantel – Teil 1/11 (Y 112–122)
+### Schritt 171.1 – Böschung und Mantel – Teil 1/11 (Y 112–121)
 
-- **Y-Bereich:** 112 bis 122
-- **Blöcke:** 1.968
+- **Y-Bereich:** 112 bis 121
+- **Blöcke:** 1.965
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.968 |
+| Stein | `stone` | 1.965 |
 
 **Beschreibung**
 
@@ -76,17 +76,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 171.2 – Böschung und Mantel – Teil 2/11 (Y 123–127)
+### Schritt 171.2 – Böschung und Mantel – Teil 2/11 (Y 122–127)
 
-- **Y-Bereich:** 123 bis 127
-- **Blöcke:** 1.752
+- **Y-Bereich:** 122 bis 127
+- **Blöcke:** 2.011
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.752 |
+| Stein | `stone` | 2.011 |
 
 **Beschreibung**
 
@@ -107,14 +107,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 171.3 – Böschung und Mantel – Teil 3/11 (Y 128–132)
 
 - **Y-Bereich:** 128 bis 132
-- **Blöcke:** 1.876
+- **Blöcke:** 1.829
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.876 |
+| Stein | `stone` | 1.829 |
 
 **Beschreibung**
 
@@ -426,14 +426,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 171.14 – Grün und offenes Gelände – Teil 3/58 (Y 115–115)
 
 - **Y-Bereich:** 115 bis 115
-- **Blöcke:** 1.543
+- **Blöcke:** 1.546
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.543 |
+| Grasblock | `grass_block` | 1.546 |
 
 **Beschreibung**
 
@@ -454,14 +454,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 171.15 – Grün und offenes Gelände – Teil 4/58 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.478
+- **Blöcke:** 1.480
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.476 |
+| Grasblock | `grass_block` | 1.478 |
 | Stein | `stone` | 2 |
 
 **Beschreibung**
@@ -483,14 +483,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 171.16 – Grün und offenes Gelände – Teil 5/58 (Y 117–120)
 
 - **Y-Bereich:** 117 bis 120
-- **Blöcke:** 1.438
+- **Blöcke:** 1.434
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.429 |
+| Grasblock | `grass_block` | 1.425 |
 | Stein | `stone` | 9 |
 
 **Beschreibung**
@@ -599,14 +599,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 171.20 – Grün und offenes Gelände – Teil 9/58 (Y 127–127)
 
 - **Y-Bereich:** 127 bis 127
-- **Blöcke:** 1.153
+- **Blöcke:** 1.152
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.152 |
+| Grasblock | `grass_block` | 1.151 |
 | Stein | `stone` | 1 |
 
 **Beschreibung**
@@ -628,14 +628,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 171.21 – Grün und offenes Gelände – Teil 10/58 (Y 128–128)
 
 - **Y-Bereich:** 128 bis 128
-- **Blöcke:** 1.251
+- **Blöcke:** 1.241
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.250 |
+| Grasblock | `grass_block` | 1.240 |
 | Stein | `stone` | 1 |
 
 **Beschreibung**

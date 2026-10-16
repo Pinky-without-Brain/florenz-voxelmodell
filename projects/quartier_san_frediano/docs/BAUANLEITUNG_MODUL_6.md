@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 423.362 |
+| Blöcke | 423.513 |
 | Bauschritte | 267 |
 | Y-Bereich | 54 bis 94 |
 | X-Ausdehnung | -2594 bis -2284 (311 Blöcke) |
@@ -21,31 +21,31 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 116.438 | 27,5 % |
-| Weißer Beton | `white_concrete` | 48.464 | 11,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 40.437 | 9,6 % |
-| Polierter Tuffstein | `polished_tuff` | 35.235 | 8,3 % |
-| Endsteinziegel | `end_stone_bricks` | 34.819 | 8,2 % |
+| Terrakotta | `terracotta` | 116.444 | 27,5 % |
+| Weißer Beton | `white_concrete` | 48.470 | 11,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 40.437 | 9,5 % |
+| Polierter Tuffstein | `polished_tuff` | 35.236 | 8,3 % |
+| Endsteinziegel | `end_stone_bricks` | 34.796 | 8,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 33.160 | 7,8 % |
 | Rosa Keramik | `pink_terracotta` | 27.149 | 6,4 % |
-| Orange Keramik | `orange_terracotta` | 25.157 | 5,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 19.871 | 4,7 % |
+| Orange Keramik | `orange_terracotta` | 25.159 | 5,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 19.879 | 4,7 % |
 | Graues Buntglas | `gray_stained_glass` | 8.368 | 2,0 % |
 | Polierter Andesit | `polished_andesite` | 7.579 | 1,8 % |
-| Tuffstein | `tuff` | 7.318 | 1,7 % |
+| Tuffstein | `tuff` | 7.472 | 1,8 % |
 | Glatter Stein | `smooth_stone` | 4.763 | 1,1 % |
-| Fichtenholz-Bretter | `spruce_planks` | 3.669 | 0,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3.537 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 3.665 | 0,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3.538 | 0,8 % |
 | Grüner Beton | `green_concrete` | 1.623 | 0,4 % |
 | Ziegelsteine | `bricks` | 1.230 | 0,3 % |
-| Seelaterne | `sea_lantern` | 776 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 740 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 694 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 615 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 573 | 0,1 % |
+| Seelaterne | `sea_lantern` | 772 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 717 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 673 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 639 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 595 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 494 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 283 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 283 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 284 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 284 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
@@ -58,7 +58,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2.622 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2.624 |
 | Steintreppe | `stone_stairs` | 80 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
@@ -78,7 +78,7 @@
 | 10 | `w481855924_innen` | Haus w481855924: Innenausbau | 881 | 6.20 |
 | 11 | `w481855926` | Haus w481855926 | 3.670 | 6.21–6.22 |
 | 12 | `w481855926_innen` | Haus w481855926: Innenausbau | 741 | 6.23 |
-| 13 | `w481855928` | Haus w481855928 | 6.620 | 6.24–6.27 |
+| 13 | `w481855928` | Haus w481855928 | 6.774 | 6.24–6.27 |
 | 14 | `w481855928_innen` | Haus w481855928: Innenausbau | 1.012 | 6.28 |
 | 15 | `w481855930` | Haus w481855930 | 3.382 | 6.29–6.30 |
 | 16 | `w481855930_innen` | Haus w481855930: Innenausbau | 1 | 6.31 |
@@ -94,7 +94,7 @@
 | 26 | `w481855941_innen` | Reihenhaus an Via del Leone: Innenausbau | 1.218 | 6.49 |
 | 27 | `w481855943` | Haus w481855943 | 4.504 | 6.50–6.52 |
 | 28 | `w481855943_innen` | Haus w481855943: Innenausbau | 767 | 6.53 |
-| 29 | `w481855944` | Reihenhaus an Via del Leone | 4.271 | 6.54–6.56 |
+| 29 | `w481855944` | Reihenhaus an Via del Leone | 4.280 | 6.54–6.56 |
 | 30 | `w481855944_innen` | Reihenhaus an Via del Leone: Innenausbau | 880 | 6.57 |
 | 31 | `w481855945` | Reihenhaus an Via del Leone | 7.956 | 6.58–6.61 |
 | 32 | `w481855945_innen` | Reihenhaus an Via del Leone: Innenausbau | 2.576 | 6.62–6.63 |
@@ -124,7 +124,7 @@
 | 56 | `w481855963_innen` | Haus w481855963: Innenausbau | 1 | 6.112 |
 | 57 | `w481855965` | Reihenhaus an Via del Leone | 5.530 | 6.112–6.114 |
 | 58 | `w481855965_innen` | Reihenhaus an Via del Leone: Innenausbau | 908 | 6.115 |
-| 59 | `w481855968` | Reihenhaus an Via dell'Orto | 9.105 | 6.116–6.120 |
+| 59 | `w481855968` | Reihenhaus an Via dell'Orto | 9.107 | 6.116–6.120 |
 | 60 | `w481855968_innen` | Reihenhaus an Via dell'Orto: Innenausbau | 2.612 | 6.121–6.122 |
 | 61 | `w481855969` | Reihenhaus an Via del Leone | 19.079 | 6.123–6.134 |
 | 62 | `w481855969_innen` | Reihenhaus an Via del Leone: Innenausbau | 4.573 | 6.135–6.137 |
@@ -134,8 +134,8 @@
 | 66 | `w481855971_innen` | Reihenhaus an Via del Leone: Innenausbau | 802 | 6.145 |
 | 67 | `w481855972` | Reihenhaus an Piazza Torquato Tasso | 4.089 | 6.146–6.147 |
 | 68 | `w481855972_innen` | Reihenhaus an Piazza Torquato Tasso: Innenausbau | 793 | 6.148 |
-| 69 | `w481855973` | Reihenhaus an Via del Leone | 5.844 | 6.149–6.151 |
-| 70 | `w481855973_innen` | Reihenhaus an Via del Leone: Innenausbau | 1.482 | 6.152 |
+| 69 | `w481855973` | Reihenhaus an Via del Leone | 5.866 | 6.149–6.151 |
+| 70 | `w481855973_innen` | Reihenhaus an Via del Leone: Innenausbau | 1.485 | 6.152 |
 | 71 | `w481855976` | Reihenhaus an Via dell'Orto | 6.108 | 6.153–6.155 |
 | 72 | `w481855976_innen` | Reihenhaus an Via dell'Orto: Innenausbau | 2.044 | 6.156 |
 | 73 | `w481855977` | Reihenhaus an Via di Camaldoli | 2.628 | 6.157–6.158 |
@@ -182,19 +182,19 @@
 | 114 | `w481856013_innen` | Reihenhaus an Piazza Torquato Tasso: Innenausbau | 1.930 | 6.230 |
 | 115 | `w481856019` | Reihenhaus an Via di Camaldoli | 2.219 | 6.231–6.232 |
 | 116 | `w481856019_innen` | Reihenhaus an Via di Camaldoli: Innenausbau | 2.046 | 6.233 |
-| 117 | `w481856020` | Haus w481856020 | 6.061 | 6.234–6.236 |
-| 118 | `w481856020_innen` | Haus w481856020: Innenausbau | 1.019 | 6.237 |
+| 117 | `w481856020` | Haus w481856020 | 6.068 | 6.234–6.236 |
+| 118 | `w481856020_innen` | Haus w481856020: Innenausbau | 1.018 | 6.237 |
 | 119 | `w481856021` | Reihenhaus an Via di Camaldoli | 2.979 | 6.238–6.239 |
 | 120 | `w481856021_innen` | Reihenhaus an Via di Camaldoli: Innenausbau | 1.654 | 6.240 |
 | 121 | `w481856023` | Reihenhaus an Piazza Torquato Tasso | 3.244 | 6.241–6.242 |
 | 122 | `w481856023_innen` | Reihenhaus an Piazza Torquato Tasso: Innenausbau | 697 | 6.243 |
-| 123 | `w481856024` | Reihenhaus an Via del Leone | 5.061 | 6.244–6.246 |
-| 124 | `w481856024_innen` | Reihenhaus an Via del Leone: Innenausbau | 1.134 | 6.247 |
+| 123 | `w481856024` | Reihenhaus an Via del Leone | 5.002 | 6.244–6.246 |
+| 124 | `w481856024_innen` | Reihenhaus an Via del Leone: Innenausbau | 1.139 | 6.247 |
 | 125 | `w481856027` | Reihenhaus an Via del Leone | 3.394 | 6.248–6.249 |
 | 126 | `w481856027_innen` | Reihenhaus an Via del Leone: Innenausbau | 1.340 | 6.250 |
 | 127 | `w481856028` | Reihenhaus an Via dell'Orto | 3.913 | 6.251–6.252 |
 | 128 | `w481856028_innen` | Reihenhaus an Via dell'Orto: Innenausbau | 1.635 | 6.253 |
-| 129 | `w481856029` | Reihenhaus an Via del Leone | 4.564 | 6.254–6.256 |
+| 129 | `w481856029` | Reihenhaus an Via del Leone | 4.573 | 6.254–6.256 |
 | 130 | `w481856029_innen` | Reihenhaus an Via del Leone: Innenausbau | 2.008 | 6.257 |
 | 131 | `w481856032` | Haus w481856032 | 1.740 | 6.258 |
 | 132 | `w481856032_innen` | Haus w481856032: Innenausbau | 1 | 6.259 |
@@ -981,18 +981,19 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.24 – Haus w481855928 – Teil 1/4 (Y 57–64)
 
 - **Y-Bereich:** 57 bis 64
-- **Blöcke:** 1.712
+- **Blöcke:** 1.685
 - **Bauteile:** `w481855928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.054 |
+| Gelbe Keramik | `yellow_terracotta` | 901 |
 | Polierter Tuffstein | `polished_tuff` | 488 |
-| Weißer Beton | `white_concrete` | 99 |
+| Tuffstein | `tuff` | 154 |
+| Weißer Beton | `white_concrete` | 74 |
 | Graues Buntglas | `gray_stained_glass` | 38 |
-| Glatter Stein | `smooth_stone` | 27 |
+| Glatter Stein | `smooth_stone` | 24 |
 | Fichtenholz-Bretter | `spruce_planks` | 6 |
 
 **Beschreibung**
@@ -1014,18 +1015,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.25 – Haus w481855928 – Teil 2/4 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
-- **Blöcke:** 1.631
+- **Blöcke:** 1.625
 - **Bauteile:** `w481855928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.421 |
-| Weißer Beton | `white_concrete` | 128 |
+| Gelbe Keramik | `yellow_terracotta` | 1.387 |
+| Weißer Beton | `white_concrete` | 153 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Glatter Stein | `smooth_stone` | 9 |
 
 **Beschreibung**
 
@@ -1043,17 +1044,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.26 – Haus w481855928 – Teil 3/4 (Y 74–82)
+### Schritt 6.26 – Haus w481855928 – Teil 3/4 (Y 74–83)
 
-- **Y-Bereich:** 74 bis 82
-- **Blöcke:** 1.618
+- **Y-Bereich:** 74 bis 83
+- **Blöcke:** 1.805
 - **Bauteile:** `w481855928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.347 |
+| Gelbe Keramik | `yellow_terracotta` | 1.534 |
 | Weißer Beton | `white_concrete` | 176 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
 | Fichtenholz-Bretter | `spruce_planks` | 15 |
@@ -1074,9 +1075,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.27 – Haus w481855928 – Teil 4/4 (Y 83–93)
+### Schritt 6.27 – Haus w481855928 – Teil 4/4 (Y 84–94)
 
-- **Y-Bereich:** 83 bis 93
+- **Y-Bereich:** 84 bis 94
 - **Blöcke:** 1.659
 - **Bauteile:** `w481855928`
 
@@ -1109,7 +1110,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.28 – Haus w481855928: Innenausbau
 
-- **Y-Bereich:** 57 bis 81
+- **Y-Bereich:** 58 bis 82
 - **Blöcke:** 1.012
 - **Bauteile:** `w481855928_innen`
 
@@ -1982,14 +1983,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.54 – Reihenhaus an Via del Leone – Teil 1/3 (Y 57–66)
 
 - **Y-Bereich:** 57 bis 66
-- **Blöcke:** 1.398
+- **Blöcke:** 1.407
 - **Bauteile:** `w481855944`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.011 |
+| Endsteinziegel | `end_stone_bricks` | 1.020 |
 | Polierter Tuffstein | `polished_tuff` | 373 |
 | Glatter Stein | `smooth_stone` | 14 |
 
@@ -2083,8 +2084,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 744 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
@@ -4131,14 +4132,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.119 – Reihenhaus an Via dell'Orto – Teil 4/5 (Y 78–86)
 
 - **Y-Bereich:** 78 bis 86
-- **Blöcke:** 2.015
+- **Blöcke:** 2.017
 - **Bauteile:** `w481855968`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.728 |
+| Orange Keramik | `orange_terracotta` | 1.730 |
 | Polierter Andesit | `polished_andesite` | 180 |
 | Graues Buntglas | `gray_stained_glass` | 83 |
 | Grüner Beton | `green_concrete` | 24 |
@@ -5128,14 +5129,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.149 – Reihenhaus an Via del Leone – Teil 1/3 (Y 57–66)
 
 - **Y-Bereich:** 57 bis 66
-- **Blöcke:** 1.932
+- **Blöcke:** 1.954
 - **Bauteile:** `w481855973`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.237 |
+| Endsteinziegel | `end_stone_bricks` | 1.259 |
 | Polierter Tuffstein | `polished_tuff` | 609 |
 | Polierter Andesit | `polished_andesite` | 35 |
 | Weißer Beton | `white_concrete` | 35 |
@@ -5225,7 +5226,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.152 – Reihenhaus an Via del Leone: Innenausbau
 
 - **Y-Bereich:** 57 bis 81
-- **Blöcke:** 1.482
+- **Blöcke:** 1.485
 - **Bauteile:** `w481855973_innen`
 
 **Teileliste**
@@ -5233,18 +5234,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.338 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 
@@ -8042,15 +8045,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.234 – Haus w481856020 – Teil 1/3 (Y 57–67)
 
 - **Y-Bereich:** 57 bis 67
-- **Blöcke:** 2.036
+- **Blöcke:** 2.041
 - **Bauteile:** `w481856020`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.257 |
-| Polierter Tuffstein | `polished_tuff` | 472 |
+| Weißer Beton | `white_concrete` | 1.261 |
+| Polierter Tuffstein | `polished_tuff` | 473 |
 | Graues Buntglas | `gray_stained_glass` | 112 |
 | Glatter Stein | `smooth_stone` | 109 |
 | Hellgrauer Beton | `light_gray_concrete` | 80 |
@@ -8106,14 +8109,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.236 – Haus w481856020 – Teil 3/3 (Y 80–92)
 
 - **Y-Bereich:** 80 bis 92
-- **Blöcke:** 2.075
+- **Blöcke:** 2.077
 - **Bauteile:** `w481856020`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.186 |
+| Weißer Beton | `white_concrete` | 1.188 |
 | Terrakotta | `terracotta` | 618 |
 | Hellgrauer Beton | `light_gray_concrete` | 185 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
@@ -8138,19 +8141,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.237 – Haus w481856020: Innenausbau
 
-- **Y-Bereich:** 57 bis 81
-- **Blöcke:** 1.019
+- **Y-Bereich:** 57 bis 80
+- **Blöcke:** 1.018
 - **Bauteile:** `w481856020_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 885 |
+| Terrakotta | `terracotta` | 888 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 
@@ -8384,19 +8387,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.244 – Reihenhaus an Via del Leone – Teil 1/3 (Y 57–66)
+### Schritt 6.244 – Reihenhaus an Via del Leone – Teil 1/3 (Y 58–68)
 
-- **Y-Bereich:** 57 bis 66
-- **Blöcke:** 1.649
+- **Y-Bereich:** 58 bis 68
+- **Blöcke:** 1.726
 - **Bauteile:** `w481856024`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 978 |
+| Endsteinziegel | `end_stone_bricks` | 1.017 |
 | Polierter Tuffstein | `polished_tuff` | 474 |
-| Weißer Beton | `white_concrete` | 111 |
+| Weißer Beton | `white_concrete` | 149 |
 | Graues Buntglas | `gray_stained_glass` | 45 |
 | Fichtenholz-Bretter | `spruce_planks` | 26 |
 | Glatter Stein | `smooth_stone` | 15 |
@@ -8417,18 +8420,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.245 – Reihenhaus an Via del Leone – Teil 2/3 (Y 67–80)
+### Schritt 6.245 – Reihenhaus an Via del Leone – Teil 2/3 (Y 69–81)
 
-- **Y-Bereich:** 67 bis 80
-- **Blöcke:** 1.762
+- **Y-Bereich:** 69 bis 81
+- **Blöcke:** 1.631
 - **Bauteile:** `w481856024`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.180 |
-| Weißer Beton | `white_concrete` | 384 |
+| Endsteinziegel | `end_stone_bricks` | 1.087 |
+| Weißer Beton | `white_concrete` | 346 |
 | Graues Buntglas | `gray_stained_glass` | 108 |
 | Fichtenholz-Bretter | `spruce_planks` | 90 |
 
@@ -8448,10 +8451,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.246 – Reihenhaus an Via del Leone – Teil 3/3 (Y 81–89)
+### Schritt 6.246 – Reihenhaus an Via del Leone – Teil 3/3 (Y 82–90)
 
-- **Y-Bereich:** 81 bis 89
-- **Blöcke:** 1.650
+- **Y-Bereich:** 82 bis 90
+- **Blöcke:** 1.645
 - **Bauteile:** `w481856024`
 
 **Teileliste**
@@ -8461,7 +8464,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 644 |
 | Endsteinziegel | `end_stone_bricks` | 590 |
 | Weißer Beton | `white_concrete` | 192 |
-| Fichtenholz-Bretter | `spruce_planks` | 170 |
+| Fichtenholz-Bretter | `spruce_planks` | 165 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 
 **Beschreibung**
@@ -8482,21 +8485,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.247 – Reihenhaus an Via del Leone: Innenausbau
 
-- **Y-Bereich:** 57 bis 81
-- **Blöcke:** 1.134
+- **Y-Bereich:** 58 bis 82
+- **Blöcke:** 1.139
 - **Bauteile:** `w481856024_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.002 |
+| Terrakotta | `terracotta` | 1.005 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -8735,7 +8738,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.254 – Reihenhaus an Via del Leone – Teil 1/3 (Y 54–63)
 
 - **Y-Bereich:** 54 bis 63
-- **Blöcke:** 1.485
+- **Blöcke:** 1.493
 - **Bauteile:** `w481856029`
 
 **Teileliste**
@@ -8743,7 +8746,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 719 |
-| Glatter Sandstein | `smooth_sandstone` | 595 |
+| Glatter Sandstein | `smooth_sandstone` | 603 |
 | Tuffstein | `tuff` | 71 |
 | Weißer Beton | `white_concrete` | 56 |
 | Graues Buntglas | `gray_stained_glass` | 23 |
@@ -8807,7 +8810,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.256 – Reihenhaus an Via del Leone – Teil 3/3 (Y 82–91)
 
 - **Y-Bereich:** 82 bis 91
-- **Blöcke:** 1.497
+- **Blöcke:** 1.498
 - **Bauteile:** `w481856029`
 
 **Teileliste**
@@ -8817,7 +8820,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 950 |
 | Glatter Sandstein | `smooth_sandstone` | 332 |
 | Weißer Beton | `white_concrete` | 77 |
-| Fichtenholz-Bretter | `spruce_planks` | 72 |
+| Fichtenholz-Bretter | `spruce_planks` | 73 |
 | Ziegelsteine | `bricks` | 36 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
 | Grüner Beton | `green_concrete` | 10 |

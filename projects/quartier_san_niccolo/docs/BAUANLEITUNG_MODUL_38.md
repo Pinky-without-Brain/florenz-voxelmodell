@@ -8,31 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.561 |
+| Blöcke | 10.695 |
 | Bauschritte | 6 |
-| Y-Bereich | 153 bis 189 |
+| Y-Bereich | 153 bis 197 |
 | X-Ausdehnung | 1153 bis 1192 (40 Blöcke) |
 | Z-Ausdehnung | 2136 bis 2163 (28 Blöcke) |
-| Kleinster Schritt | 1.626 Blöcke (Schritt 38.5) |
-| Mittlerer Schritt | 1.760 Blöcke |
+| Kleinster Schritt | 1.561 Blöcke (Schritt 38.4) |
+| Mittlerer Schritt | 1.783 Blöcke |
 | Größter Schritt | 1.950 Blöcke (Schritt 38.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 5.154 | 48,8 % |
-| Terrakotta | `terracotta` | 2.851 | 27,0 % |
-| Weißer Beton | `white_concrete` | 1.007 | 9,5 % |
-| Polierter Tuffstein | `polished_tuff` | 837 | 7,9 % |
+| Endsteinziegel | `end_stone_bricks` | 5.154 | 48,2 % |
+| Terrakotta | `terracotta` | 2.851 | 26,7 % |
+| Weißer Beton | `white_concrete` | 1.007 | 9,4 % |
+| Polierter Tuffstein | `polished_tuff` | 837 | 7,8 % |
 | Graues Buntglas | `gray_stained_glass` | 370 | 3,5 % |
+| Tuffstein | `tuff` | 134 | 1,3 % |
 | Ziegelsteine | `bricks` | 102 | 1,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 | 0,7 % |
 | Glatter Stein | `smooth_stone` | 59 | 0,6 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 | 0,2 % |
 | Grüner Beton | `green_concrete` | 22 | 0,2 % |
-| Seelaterne | `sea_lantern` | 16 | 0,2 % |
+| Seelaterne | `sea_lantern` | 16 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
@@ -48,15 +49,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w787789877` | Belvedere Franco Zeffirelli | 8.611 | 38.1–38.5 |
+| 1 | `w787789877` | Belvedere Franco Zeffirelli | 8.745 | 38.1–38.5 |
 | 2 | `w787789877_innen` | Belvedere Franco Zeffirelli: Innenausbau | 1.950 | 38.6 |
 
 ## Bauschritte
 
-### Schritt 38.1 – Belvedere Franco Zeffirelli – Teil 1/5 (Y 153–157)
+### Schritt 38.1 – Belvedere Franco Zeffirelli – Teil 1/5 (Y 153–165)
 
-- **Y-Bereich:** 153 bis 157
-- **Blöcke:** 1.651
+- **Y-Bereich:** 153 bis 165
+- **Blöcke:** 1.785
 - **Bauteile:** `w787789877`
 
 **Teileliste**
@@ -65,6 +66,7 @@
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 837 |
 | Endsteinziegel | `end_stone_bricks` | 672 |
+| Tuffstein | `tuff` | 134 |
 | Weißer Beton | `white_concrete` | 58 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Glatter Stein | `smooth_stone` | 28 |
@@ -86,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.2 – Belvedere Franco Zeffirelli – Teil 2/5 (Y 158–165)
+### Schritt 38.2 – Belvedere Franco Zeffirelli – Teil 2/5 (Y 166–173)
 
-- **Y-Bereich:** 158 bis 165
+- **Y-Bereich:** 166 bis 173
 - **Blöcke:** 1.769
 - **Bauteile:** `w787789877`
 
@@ -118,9 +120,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.3 – Belvedere Franco Zeffirelli – Teil 3/5 (Y 166–173)
+### Schritt 38.3 – Belvedere Franco Zeffirelli – Teil 3/5 (Y 174–181)
 
-- **Y-Bereich:** 166 bis 173
+- **Y-Bereich:** 174 bis 181
 - **Blöcke:** 1.772
 - **Bauteile:** `w787789877`
 
@@ -149,18 +151,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.4 – Belvedere Franco Zeffirelli – Teil 4/5 (Y 174–181)
+### Schritt 38.4 – Belvedere Franco Zeffirelli – Teil 4/5 (Y 182–188)
 
-- **Y-Bereich:** 174 bis 181
-- **Blöcke:** 1.793
+- **Y-Bereich:** 182 bis 188
+- **Blöcke:** 1.561
 - **Bauteile:** `w787789877`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.352 |
-| Weißer Beton | `white_concrete` | 348 |
+| Endsteinziegel | `end_stone_bricks` | 1.177 |
+| Weißer Beton | `white_concrete` | 291 |
 | Graues Buntglas | `gray_stained_glass` | 87 |
 | Grüner Beton | `green_concrete` | 6 |
 
@@ -180,10 +182,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.5 – Belvedere Franco Zeffirelli – Teil 5/5 (Y 182–189)
+### Schritt 38.5 – Belvedere Franco Zeffirelli – Teil 5/5 (Y 189–197)
 
-- **Y-Bereich:** 182 bis 189
-- **Blöcke:** 1.626
+- **Y-Bereich:** 189 bis 197
+- **Blöcke:** 1.858
 - **Bauteile:** `w787789877`
 
 **Teileliste**
@@ -191,9 +193,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.060 |
-| Endsteinziegel | `end_stone_bricks` | 377 |
+| Endsteinziegel | `end_stone_bricks` | 552 |
+| Weißer Beton | `white_concrete` | 144 |
 | Ziegelsteine | `bricks` | 102 |
-| Weißer Beton | `white_concrete` | 87 |
 
 **Beschreibung**
 
@@ -213,7 +215,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 38.6 – Belvedere Franco Zeffirelli: Innenausbau
 
-- **Y-Bereich:** 153 bis 177
+- **Y-Bereich:** 161 bis 185
 - **Blöcke:** 1.950
 - **Bauteile:** `w787789877_innen`
 

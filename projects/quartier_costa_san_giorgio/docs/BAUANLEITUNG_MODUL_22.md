@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 39.765 |
+| Blöcke | 39.770 |
 | Bauschritte | 23 |
 | Y-Bereich | 140 bis 189 |
 | X-Ausdehnung | -187 bis -112 (76 Blöcke) |
@@ -21,12 +21,12 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 11.441 | 28,8 % |
+| Endsteinziegel | `end_stone_bricks` | 11.406 | 28,7 % |
 | Terrakotta | `terracotta` | 9.361 | 23,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 6.833 | 17,2 % |
 | Polierter Tuffstein | `polished_tuff` | 3.152 | 7,9 % |
 | Glatter Stein | `smooth_stone` | 2.621 | 6,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 2.163 | 5,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.203 | 5,5 % |
 | Weißer Beton | `white_concrete` | 1.444 | 3,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.131 | 2,8 % |
 | Polierter Andesit | `polished_andesite` | 581 | 1,5 % |
@@ -64,9 +64,9 @@
 | 2 | `w119219998_innen` | Casa di Galileo Galilei: Innenausbau | 1.415 | 22.7 |
 | 3 | `w474366882` | Palazzo des Cinquecento an Costa San Giorgio | 6.063 | 22.8–22.10 |
 | 4 | `w474366882_innen` | Palazzo des Cinquecento an Costa San Giorgio: Innenausbau | 562 | 22.11 |
-| 5 | `w474366884` | Reihenhaus an Costa San Giorgio | 2.963 | 22.12–22.13 |
+| 5 | `w474366884` | Reihenhaus an Costa San Giorgio | 3.003 | 22.12–22.13 |
 | 6 | `w474366884_innen` | Reihenhaus an Costa San Giorgio: Innenausbau | 2 | 22.14 |
-| 7 | `w474366886` | Reihenhaus an Costa San Giorgio | 13.684 | 22.14–22.20 |
+| 7 | `w474366886` | Reihenhaus an Costa San Giorgio | 13.649 | 22.14–22.20 |
 | 8 | `w474366886_innen` | Reihenhaus an Costa San Giorgio: Innenausbau | 3.675 | 22.21–22.23 |
 | 9 | `strassenschilder` | Straßenschilder | 2 | 22.23 |
 
@@ -456,19 +456,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.12 – Reihenhaus an Costa San Giorgio – Teil 1/2 (Y 146–162)
+### Schritt 22.12 – Reihenhaus an Costa San Giorgio – Teil 1/2 (Y 147–164)
 
-- **Y-Bereich:** 146 bis 162
-- **Blöcke:** 1.446
+- **Y-Bereich:** 147 bis 164
+- **Blöcke:** 1.525
 - **Bauteile:** `w474366884`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.070 |
+| Glatter Sandstein | `smooth_sandstone` | 1.135 |
 | Polierter Tuffstein | `polished_tuff` | 271 |
-| Polierter Andesit | `polished_andesite` | 79 |
+| Polierter Andesit | `polished_andesite` | 93 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
 
 **Beschreibung**
@@ -487,19 +487,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.13 – Reihenhaus an Costa San Giorgio – Teil 2/2 (Y 163–178)
+### Schritt 22.13 – Reihenhaus an Costa San Giorgio – Teil 2/2 (Y 165–179)
 
-- **Y-Bereich:** 163 bis 178
-- **Blöcke:** 1.517
+- **Y-Bereich:** 165 bis 179
+- **Blöcke:** 1.478
 - **Bauteile:** `w474366884`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.093 |
+| Glatter Sandstein | `smooth_sandstone` | 1.068 |
 | Terrakotta | `terracotta` | 306 |
-| Polierter Andesit | `polished_andesite` | 83 |
+| Polierter Andesit | `polished_andesite` | 69 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 
 **Beschreibung**
@@ -520,7 +520,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.14 – Reihenhaus an Costa San Giorgio: Innenausbau & Reihenhaus an Costa San Giorgio – Teil 1/7 (Y 148–150)
 
-- **Y-Bereich:** 146 bis 150
+- **Y-Bereich:** 147 bis 150
 - **Blöcke:** 1.902
 - **Bauteile:** `w474366884_innen`, `w474366886`
 
@@ -644,18 +644,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.18 – Reihenhaus an Costa San Giorgio – Teil 5/7 (Y 169–174)
+### Schritt 22.18 – Reihenhaus an Costa San Giorgio – Teil 5/7 (Y 169–173)
 
-- **Y-Bereich:** 169 bis 174
-- **Blöcke:** 2.022
+- **Y-Bereich:** 169 bis 173
+- **Blöcke:** 1.681
 - **Bauteile:** `w474366886`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.664 |
-| Weißer Beton | `white_concrete` | 319 |
+| Endsteinziegel | `end_stone_bricks` | 1.402 |
+| Weißer Beton | `white_concrete` | 240 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 | Fichtenholz-Bretter | `spruce_planks` | 4 |
 
@@ -675,18 +675,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.19 – Reihenhaus an Costa San Giorgio – Teil 6/7 (Y 175–179)
+### Schritt 22.19 – Reihenhaus an Costa San Giorgio – Teil 6/7 (Y 174–179)
 
-- **Y-Bereich:** 175 bis 179
-- **Blöcke:** 1.762
+- **Y-Bereich:** 174 bis 179
+- **Blöcke:** 2.068
 - **Bauteile:** `w474366886`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.400 |
-| Weißer Beton | `white_concrete` | 284 |
+| Endsteinziegel | `end_stone_bricks` | 1.627 |
+| Weißer Beton | `white_concrete` | 363 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Fichtenholz-Bretter | `spruce_planks` | 8 |
 

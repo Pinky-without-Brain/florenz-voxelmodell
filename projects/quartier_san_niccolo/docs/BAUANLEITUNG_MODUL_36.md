@@ -8,43 +8,43 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 126.217 |
+| Blöcke | 126.355 |
 | Bauschritte | 78 |
 | Y-Bereich | 63 bis 104 |
 | X-Ausdehnung | 1052 bis 1213 (162 Blöcke) |
 | Z-Ausdehnung | 1790 bis 1914 (125 Blöcke) |
 | Kleinster Schritt | 486 Blöcke (Schritt 36.78) |
-| Mittlerer Schritt | 1.618 Blöcke |
+| Mittlerer Schritt | 1.620 Blöcke |
 | Größter Schritt | 2.098 Blöcke (Schritt 36.32) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 40.104 | 31,8 % |
+| Terrakotta | `terracotta` | 40.102 | 31,7 % |
 | Orange Keramik | `orange_terracotta` | 13.772 | 10,9 % |
-| Rosa Keramik | `pink_terracotta` | 12.829 | 10,2 % |
-| Glatter Sandstein | `smooth_sandstone` | 11.962 | 9,5 % |
-| Polierter Tuffstein | `polished_tuff` | 11.423 | 9,1 % |
+| Rosa Keramik | `pink_terracotta` | 12.854 | 10,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 11.933 | 9,4 % |
+| Polierter Tuffstein | `polished_tuff` | 11.423 | 9,0 % |
 | Weißer Beton | `white_concrete` | 10.359 | 8,2 % |
-| Endsteinziegel | `end_stone_bricks` | 6.248 | 5,0 % |
+| Endsteinziegel | `end_stone_bricks` | 6.248 | 4,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.409 | 4,3 % |
 | Graues Buntglas | `gray_stained_glass` | 3.150 | 2,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.023 | 2,4 % |
 | Glatter Stein | `smooth_stone` | 1.598 | 1,3 % |
+| Tuffstein | `tuff` | 975 | 0,8 % |
 | Fichtenholz-Bretter | `spruce_planks` | 940 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 903 | 0,7 % |
 | Grüner Beton | `green_concrete` | 874 | 0,7 % |
 | Ziegelsteine | `bricks` | 865 | 0,7 % |
-| Tuffstein | `tuff` | 831 | 0,7 % |
 | Polierter Andesit | `polished_andesite` | 594 | 0,5 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 290 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 270 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 315 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 293 | 0,2 % |
 | Seelaterne | `sea_lantern` | 251 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 123 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 123 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 79 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 77 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 54 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 54 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 28 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
@@ -67,7 +67,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r6820327` | Reihenhaus an Lungarno Serristori | 5.629 | 36.1–36.3 |
+| 1 | `r6820327` | Reihenhaus an Lungarno Serristori | 5.773 | 36.1–36.3 |
 | 2 | `r6820327_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 1.103 | 36.4 |
 | 3 | `r6820332` | Reihenhaus an Piazza Giuseppe Poggi | 11.776 | 36.5–36.11 |
 | 4 | `r6820332_innen` | Reihenhaus an Piazza Giuseppe Poggi: Innenausbau | 3.285 | 36.12–36.14 |
@@ -77,15 +77,15 @@
 | 8 | `w306694381_innen` | Palazzo des Cinquecento an Via Lupo: Innenausbau | 1.902 | 36.24 |
 | 9 | `w306694402` | Museo Casa Rodolfo Siviero | 10.990 | 36.25–36.30 |
 | 10 | `w306694402_innen` | Museo Casa Rodolfo Siviero: Innenausbau | 3.216 | 36.31–36.32 |
-| 11 | `w461735821` | Reihenhaus an Lungarno Serristori | 3.509 | 36.33–36.34 |
+| 11 | `w461735821` | Reihenhaus an Lungarno Serristori | 3.534 | 36.33–36.34 |
 | 12 | `w461735821_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 1.166 | 36.35 |
-| 13 | `w461735824` | Reihenhaus an Lungarno Serristori | 6.340 | 36.36–36.39 |
+| 13 | `w461735824` | Reihenhaus an Lungarno Serristori | 6.302 | 36.36–36.39 |
 | 14 | `w461735824_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 3.043 | 36.40–36.41 |
 | 15 | `w461735835` | Reihenhaus an Via di San Niccolò | 4.255 | 36.42–36.44 |
 | 16 | `w461735835_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.334 | 36.45 |
 | 17 | `w461735859` | Reihenhaus an Via di San Niccolò | 6.467 | 36.46–36.49 |
 | 18 | `w461735859_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.479 | 36.50 |
-| 19 | `w461735860` | Haus w461735860 | 3.002 | 36.51–36.52 |
+| 19 | `w461735860` | Haus w461735860 | 3.009 | 36.51–36.52 |
 | 20 | `w461735860_innen` | Haus w461735860: Innenausbau | 7 | 36.53 |
 | 21 | `w461735865` | Reihenhaus an Via di San Niccolò | 5.005 | 36.53–36.55 |
 | 22 | `w461735865_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.857 | 36.56 |
@@ -106,16 +106,17 @@
 ### Schritt 36.1 – Reihenhaus an Lungarno Serristori – Teil 1/3 (Y 64–74)
 
 - **Y-Bereich:** 64 bis 74
-- **Blöcke:** 1.933
+- **Blöcke:** 1.924
 - **Bauteile:** `r6820327`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.377 |
+| Endsteinziegel | `end_stone_bricks` | 1.239 |
 | Polierter Tuffstein | `polished_tuff` | 478 |
-| Weißer Beton | `white_concrete` | 43 |
+| Tuffstein | `tuff` | 144 |
+| Weißer Beton | `white_concrete` | 28 |
 | Glatter Stein | `smooth_stone` | 21 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
 | Grüner Beton | `green_concrete` | 2 |
@@ -136,18 +137,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.2 – Reihenhaus an Lungarno Serristori – Teil 2/3 (Y 75–86)
+### Schritt 36.2 – Reihenhaus an Lungarno Serristori – Teil 2/3 (Y 75–87)
 
-- **Y-Bereich:** 75 bis 86
-- **Blöcke:** 1.788
+- **Y-Bereich:** 75 bis 87
+- **Blöcke:** 1.941
 - **Bauteile:** `r6820327`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.587 |
-| Weißer Beton | `white_concrete` | 129 |
+| Endsteinziegel | `end_stone_bricks` | 1.725 |
+| Weißer Beton | `white_concrete` | 144 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Grüner Beton | `green_concrete` | 24 |
 
@@ -167,9 +168,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.3 – Reihenhaus an Lungarno Serristori – Teil 3/3 (Y 87–100)
+### Schritt 36.3 – Reihenhaus an Lungarno Serristori – Teil 3/3 (Y 88–101)
 
-- **Y-Bereich:** 87 bis 100
+- **Y-Bereich:** 88 bis 101
 - **Blöcke:** 1.908
 - **Bauteile:** `r6820327`
 
@@ -202,7 +203,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.4 – Reihenhaus an Lungarno Serristori: Innenausbau
 
-- **Y-Bereich:** 64 bis 88
+- **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.103
 - **Bauteile:** `r6820327_innen`
 
@@ -1195,14 +1196,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 36.33 – Reihenhaus an Lungarno Serristori – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.726
+- **Blöcke:** 1.751
 - **Bauteile:** `w461735821`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.077 |
+| Rosa Keramik | `pink_terracotta` | 1.102 |
 | Polierter Tuffstein | `polished_tuff` | 433 |
 | Glatter Stein | `smooth_stone` | 124 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
@@ -1270,13 +1271,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.014 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1375,14 +1374,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 36.38 – Reihenhaus an Lungarno Serristori – Teil 3/4 (Y 83–95)
 
 - **Y-Bereich:** 83 bis 95
-- **Blöcke:** 1.602
+- **Blöcke:** 1.566
 - **Bauteile:** `w461735824`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.119 |
+| Glatter Sandstein | `smooth_sandstone` | 1.083 |
 | Weißer Beton | `white_concrete` | 180 |
 | Fichtenholz-Bretter | `spruce_planks` | 127 |
 | Graues Buntglas | `gray_stained_glass` | 124 |
@@ -1407,14 +1406,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 36.39 – Reihenhaus an Lungarno Serristori – Teil 4/4 (Y 96–102)
 
 - **Y-Bereich:** 96 bis 102
-- **Blöcke:** 1.612
+- **Blöcke:** 1.610
 - **Bauteile:** `w461735824`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.523 |
+| Terrakotta | `terracotta` | 1.521 |
 | Ziegelsteine | `bricks` | 89 |
 
 **Beschreibung**
@@ -1487,13 +1486,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.922 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 11 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 12 |
 | Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1824,14 +1821,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 36.51 – Haus w461735860 – Teil 1/2 (Y 64–80)
 
 - **Y-Bereich:** 64 bis 80
-- **Blöcke:** 1.488
+- **Blöcke:** 1.494
 - **Bauteile:** `w461735860`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 992 |
+| Glatter Sandstein | `smooth_sandstone` | 998 |
 | Weißer Beton | `white_concrete` | 172 |
 | Polierter Tuffstein | `polished_tuff` | 150 |
 | Graues Buntglas | `gray_stained_glass` | 128 |
@@ -1857,14 +1854,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 36.52 – Haus w461735860 – Teil 2/2 (Y 81–96)
 
 - **Y-Bereich:** 81 bis 96
-- **Blöcke:** 1.514
+- **Blöcke:** 1.515
 - **Bauteile:** `w461735860`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 993 |
+| Glatter Sandstein | `smooth_sandstone` | 994 |
 | Weißer Beton | `white_concrete` | 214 |
 | Terrakotta | `terracotta` | 202 |
 | Graues Buntglas | `gray_stained_glass` | 105 |

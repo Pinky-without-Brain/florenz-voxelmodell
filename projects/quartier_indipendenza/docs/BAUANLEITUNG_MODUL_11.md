@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 471.815 |
+| Blöcke | 471.934 |
 | Bauschritte | 304 |
 | Y-Bereich | 61 bis 105 |
 | X-Ausdehnung | -617 bis -278 (340 Blöcke) |
@@ -25,8 +25,8 @@
 | Endsteinziegel | `end_stone_bricks` | 53.411 | 11,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 50.886 | 10,8 % |
 | Polierter Tuffstein | `polished_tuff` | 46.271 | 9,8 % |
-| Orange Keramik | `orange_terracotta` | 30.499 | 6,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 30.127 | 6,4 % |
+| Orange Keramik | `orange_terracotta` | 30.552 | 6,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 30.197 | 6,4 % |
 | Weißer Beton | `white_concrete` | 22.691 | 4,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 18.970 | 4,0 % |
 | Rosa Keramik | `pink_terracotta` | 15.131 | 3,2 % |
@@ -36,16 +36,16 @@
 | Glatter Stein | `smooth_stone` | 8.895 | 1,9 % |
 | Grüner Beton | `green_concrete` | 4.006 | 0,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.707 | 0,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 2.326 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 2.328 | 0,5 % |
 | Ziegelsteine | `bricks` | 1.889 | 0,4 % |
 | Seelaterne | `sea_lantern` | 865 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 591 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 525 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 504 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 499 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 488 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 140 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 140 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 549 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 521 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 478 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 468 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 137 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 137 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 114 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 106 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 60 | 0,0 % |
@@ -114,8 +114,8 @@
 | 46 | `w487045045_innen` | Haus w487045045: Innenausbau | 360 | 11.173 |
 | 47 | `w487045047` | Reihenhaus an Via San Zanobi | 3.044 | 11.174–11.175 |
 | 48 | `w487045047_innen` | Reihenhaus an Via San Zanobi: Innenausbau | 860 | 11.176 |
-| 49 | `w487045048` | Reihenhaus an Via Guelfa | 4.617 | 11.177–11.179 |
-| 50 | `w487045048_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.109 | 11.180 |
+| 49 | `w487045048` | Reihenhaus an Via Guelfa | 4.672 | 11.177–11.179 |
+| 50 | `w487045048_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.100 | 11.180 |
 | 51 | `w487045049` | Reihenhaus an Via Guelfa | 3.841 | 11.181–11.182 |
 | 52 | `w487045049_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.068 | 11.183 |
 | 53 | `w487045050` | Reihenhaus an Via San Zanobi | 8.499 | 11.184–11.188 |
@@ -144,8 +144,8 @@
 | 76 | `w487045066_innen` | Reihenhaus an Via San Zanobi: Innenausbau | 3.780 | 11.255–11.257 |
 | 77 | `w487045068` | Reihenhaus an Via Guelfa | 2.182 | 11.258–11.259 |
 | 78 | `w487045068_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.108 | 11.260 |
-| 79 | `w487045069` | Reihenhaus an Via Guelfa | 3.279 | 11.261–11.262 |
-| 80 | `w487045069_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.621 | 11.263 |
+| 79 | `w487045069` | Reihenhaus an Via Guelfa | 3.349 | 11.261–11.262 |
+| 80 | `w487045069_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.624 | 11.263 |
 | 81 | `w487045073` | Reihenhaus an Via San Zanobi | 1.943 | 11.264 |
 | 82 | `w487045073_innen` | Reihenhaus an Via San Zanobi: Innenausbau | 1.273 | 11.265 |
 | 83 | `w487045075` | Haus w487045075 | 7.477 | 11.266–11.269 |
@@ -780,9 +780,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.20 – Reihenhaus an Via Guelfa – Teil 1/4 (Y 63–69)
+### Schritt 11.20 – Reihenhaus an Via Guelfa – Teil 1/4 (Y 64–70)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.819
 - **Bauteile:** `r7160362`
 
@@ -811,9 +811,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.21 – Reihenhaus an Via Guelfa – Teil 2/4 (Y 70–79)
+### Schritt 11.21 – Reihenhaus an Via Guelfa – Teil 2/4 (Y 71–80)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.945
 - **Bauteile:** `r7160362`
 
@@ -841,9 +841,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.22 – Reihenhaus an Via Guelfa – Teil 3/4 (Y 80–88)
+### Schritt 11.22 – Reihenhaus an Via Guelfa – Teil 3/4 (Y 81–89)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 81 bis 89
 - **Blöcke:** 1.744
 - **Bauteile:** `r7160362`
 
@@ -871,9 +871,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.23 – Reihenhaus an Via Guelfa – Teil 4/4 (Y 89–100)
+### Schritt 11.23 – Reihenhaus an Via Guelfa – Teil 4/4 (Y 90–101)
 
-- **Y-Bereich:** 89 bis 100
+- **Y-Bereich:** 90 bis 101
 - **Blöcke:** 1.962
 - **Bauteile:** `r7160362`
 
@@ -906,7 +906,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.24 – Reihenhaus an Via Guelfa: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.615
 - **Bauteile:** `r7160362_innen`
 
@@ -5936,14 +5936,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 11.177 – Reihenhaus an Via Guelfa – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.491
+- **Blöcke:** 1.544
 - **Bauteile:** `w487045048`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.012 |
+| Orange Keramik | `orange_terracotta` | 1.065 |
 | Polierter Tuffstein | `polished_tuff` | 450 |
 | Glatter Stein | `smooth_stone` | 14 |
 | Graues Buntglas | `gray_stained_glass` | 9 |
@@ -5965,17 +5965,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.178 – Reihenhaus an Via Guelfa – Teil 2/3 (Y 73–86)
+### Schritt 11.178 – Reihenhaus an Via Guelfa – Teil 2/3 (Y 73–85)
 
-- **Y-Bereich:** 73 bis 86
-- **Blöcke:** 1.642
+- **Y-Bereich:** 73 bis 85
+- **Blöcke:** 1.523
 - **Bauteile:** `w487045048`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.546 |
+| Orange Keramik | `orange_terracotta` | 1.427 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Grüner Beton | `green_concrete` | 48 |
 
@@ -5995,19 +5995,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.179 – Reihenhaus an Via Guelfa – Teil 3/3 (Y 87–98)
+### Schritt 11.179 – Reihenhaus an Via Guelfa – Teil 3/3 (Y 86–98)
 
-- **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.484
+- **Y-Bereich:** 86 bis 98
+- **Blöcke:** 1.605
 - **Bauteile:** `w487045048`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 788 |
+| Orange Keramik | `orange_terracotta` | 907 |
 | Terrakotta | `terracotta` | 579 |
-| Fichtenholz-Bretter | `spruce_planks` | 75 |
+| Fichtenholz-Bretter | `spruce_planks` | 77 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
 | Grüner Beton | `green_concrete` | 18 |
 | Ziegelsteine | `bricks` | 6 |
@@ -6031,7 +6031,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.180 – Reihenhaus an Via Guelfa: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.109
+- **Blöcke:** 1.100
 - **Bauteile:** `w487045048_innen`
 
 **Teileliste**
@@ -6039,18 +6039,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 966 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 
@@ -8748,9 +8748,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.261 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–79)
+### Schritt 11.261 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 64–80)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 64 bis 80
 - **Blöcke:** 1.652
 - **Bauteile:** `w487045069`
 
@@ -8779,17 +8779,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.262 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 80–97)
+### Schritt 11.262 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 81–98)
 
-- **Y-Bereich:** 80 bis 97
-- **Blöcke:** 1.627
+- **Y-Bereich:** 81 bis 98
+- **Blöcke:** 1.697
 - **Bauteile:** `w487045069`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 714 |
+| Glatter Sandstein | `smooth_sandstone` | 784 |
 | Terrakotta | `terracotta` | 672 |
 | Weißer Beton | `white_concrete` | 154 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
@@ -8813,8 +8813,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.263 – Reihenhaus an Via Guelfa: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.621
+- **Y-Bereich:** 64 bis 87
+- **Blöcke:** 1.624
 - **Bauteile:** `w487045069_innen`
 
 **Teileliste**
@@ -8822,10 +8822,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.497 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
 
@@ -8833,7 +8835,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 

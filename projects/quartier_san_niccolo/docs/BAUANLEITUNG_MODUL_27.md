@@ -8,35 +8,38 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 38.951 |
-| Bauschritte | 29 |
-| Y-Bereich | 63 bis 102 |
+| Blöcke | 40.509 |
+| Bauschritte | 30 |
+| Y-Bereich | 63 bis 104 |
 | X-Ausdehnung | 909 bis 1034 (126 Blöcke) |
 | Z-Ausdehnung | 1774 bis 1856 (83 Blöcke) |
-| Kleinster Schritt | 624 Blöcke (Schritt 27.4) |
-| Mittlerer Schritt | 1.343 Blöcke |
-| Größter Schritt | 1.999 Blöcke (Schritt 27.1) |
+| Kleinster Schritt | 624 Blöcke (Schritt 27.5) |
+| Mittlerer Schritt | 1.350 Blöcke |
+| Größter Schritt | 1.849 Blöcke (Schritt 27.15) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 11.264 | 28,9 % |
-| Tuffstein | `tuff` | 10.114 | 26,0 % |
-| Glatter Stein | `smooth_stone` | 7.612 | 19,5 % |
-| Polierter Tuffstein | `polished_tuff` | 3.684 | 9,5 % |
-| Polierter Andesit | `polished_andesite` | 2.751 | 7,1 % |
-| Graues Buntglas | `gray_stained_glass` | 1.657 | 4,3 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.373 | 3,5 % |
-| Ziegelsteine | `bricks` | 376 | 1,0 % |
+| Tuffstein | `tuff` | 11.647 | 28,8 % |
+| Terrakotta | `terracotta` | 11.264 | 27,8 % |
+| Glatter Stein | `smooth_stone` | 7.639 | 18,9 % |
+| Polierter Tuffstein | `polished_tuff` | 3.651 | 9,0 % |
+| Polierter Andesit | `polished_andesite` | 2.751 | 6,8 % |
+| Graues Buntglas | `gray_stained_glass` | 1.657 | 4,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.373 | 3,4 % |
+| Ziegelsteine | `bricks` | 376 | 0,9 % |
 | Seelaterne | `sea_lantern` | 57 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 25 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
@@ -47,30 +50,39 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 31 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119376301` | Renaissance-Palazzo an Lungarno Serristori | 32.979 | 27.1–27.25 |
-| 2 | `w119376301_innen` | Renaissance-Palazzo an Lungarno Serristori: Innenausbau | 5.970 | 27.26–27.29 |
-| 3 | `strassenschilder` | Straßenschilder | 2 | 27.29 |
+| 1 | `w119376301` | Renaissance-Palazzo an Lungarno Serristori | 34.537 | 27.1–27.26 |
+| 2 | `w119376301_innen` | Renaissance-Palazzo an Lungarno Serristori: Innenausbau | 5.970 | 27.27–27.30 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 27.30 |
 
 ## Bauschritte
 
-### Schritt 27.1 – Renaissance-Palazzo an Lungarno Serristori – Teil 1/25 (Y 63–64)
+### Schritt 27.1 – Renaissance-Palazzo an Lungarno Serristori – Teil 1/26 (Y 63–65)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.999
+- **Y-Bereich:** 63 bis 65
+- **Blöcke:** 1.710
 - **Bauteile:** `w119376301`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.837 |
-| Tuffstein | `tuff` | 162 |
+| Tuffstein | `tuff` | 1.695 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 12 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 15 |
 
 **Beschreibung**
 
@@ -88,17 +100,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.2 – Renaissance-Palazzo an Lungarno Serristori – Teil 2/25 (Y 64–64)
+### Schritt 27.2 – Renaissance-Palazzo an Lungarno Serristori – Teil 2/26 (Y 66–66)
 
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.847
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.832
 - **Bauteile:** `w119376301`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.847 |
+| Polierter Tuffstein | `polished_tuff` | 1.827 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 **Beschreibung**
 
@@ -116,9 +137,44 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.3 – Renaissance-Palazzo an Lungarno Serristori – Teil 3/25 (Y 65–65)
+### Schritt 27.3 – Renaissance-Palazzo an Lungarno Serristori – Teil 3/26 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.835
+- **Bauteile:** `w119376301`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.824 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 11 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 11 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.4 – Renaissance-Palazzo an Lungarno Serristori – Teil 4/26 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 625
 - **Bauteile:** `w119376301`
 
@@ -147,9 +203,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.4 – Renaissance-Palazzo an Lungarno Serristori – Teil 4/25 (Y 66–66)
+### Schritt 27.5 – Renaissance-Palazzo an Lungarno Serristori – Teil 5/26 (Y 68–68)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 624
 - **Bauteile:** `w119376301`
 
@@ -178,52 +234,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.5 – Renaissance-Palazzo an Lungarno Serristori – Teil 5/25 (Y 67–69)
+### Schritt 27.6 – Renaissance-Palazzo an Lungarno Serristori – Teil 6/26 (Y 69–70)
 
-- **Y-Bereich:** 67 bis 69
-- **Blöcke:** 1.760
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.179
 - **Bauteile:** `w119376301`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 846 |
-| Glatter Stein | `smooth_stone` | 516 |
-| Graues Buntglas | `gray_stained_glass` | 241 |
-| Tuffsteinziegel | `tuff_bricks` | 154 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.6 – Renaissance-Palazzo an Lungarno Serristori – Teil 6/25 (Y 70–71)
-
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.103
-- **Bauteile:** `w119376301`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 561 |
-| Graues Buntglas | `gray_stained_glass` | 259 |
-| Glatter Stein | `smooth_stone` | 215 |
-| Tuffsteinziegel | `tuff_bricks` | 66 |
+| Tuffstein | `tuff` | 554 |
+| Glatter Stein | `smooth_stone` | 435 |
+| Graues Buntglas | `gray_stained_glass` | 107 |
+| Tuffsteinziegel | `tuff_bricks` | 81 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
@@ -242,9 +266,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.7 – Renaissance-Palazzo an Lungarno Serristori – Teil 7/25 (Y 72–73)
+### Schritt 27.7 – Renaissance-Palazzo an Lungarno Serristori – Teil 7/26 (Y 71–73)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.711
+- **Bauteile:** `w119376301`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 853 |
+| Graues Buntglas | `gray_stained_glass` | 393 |
+| Glatter Stein | `smooth_stone` | 323 |
+| Tuffsteinziegel | `tuff_bricks` | 139 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.8 – Renaissance-Palazzo an Lungarno Serristori – Teil 8/26 (Y 74–75)
+
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.152
 - **Bauteile:** `w119376301`
 
@@ -274,9 +330,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.8 – Renaissance-Palazzo an Lungarno Serristori – Teil 8/25 (Y 74–75)
+### Schritt 27.9 – Renaissance-Palazzo an Lungarno Serristori – Teil 9/26 (Y 76–77)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.776
 - **Bauteile:** `w119376301`
 
@@ -305,9 +361,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.9 – Renaissance-Palazzo an Lungarno Serristori – Teil 9/25 (Y 76–76)
+### Schritt 27.10 – Renaissance-Palazzo an Lungarno Serristori – Teil 10/26 (Y 78–78)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 776
 - **Bauteile:** `w119376301`
 
@@ -336,9 +392,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.10 – Renaissance-Palazzo an Lungarno Serristori – Teil 10/25 (Y 77–78)
+### Schritt 27.11 – Renaissance-Palazzo an Lungarno Serristori – Teil 11/26 (Y 79–80)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.544
 - **Bauteile:** `w119376301`
 
@@ -368,9 +424,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.11 – Renaissance-Palazzo an Lungarno Serristori – Teil 11/25 (Y 79–80)
+### Schritt 27.12 – Renaissance-Palazzo an Lungarno Serristori – Teil 12/26 (Y 81–82)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.242
 - **Bauteile:** `w119376301`
 
@@ -400,9 +456,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.12 – Renaissance-Palazzo an Lungarno Serristori – Teil 12/25 (Y 81–82)
+### Schritt 27.13 – Renaissance-Palazzo an Lungarno Serristori – Teil 13/26 (Y 83–84)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.492
 - **Bauteile:** `w119376301`
 
@@ -432,9 +488,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.13 – Renaissance-Palazzo an Lungarno Serristori – Teil 13/25 (Y 83–83)
+### Schritt 27.14 – Renaissance-Palazzo an Lungarno Serristori – Teil 14/26 (Y 85–85)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 776
 - **Bauteile:** `w119376301`
 
@@ -463,9 +519,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.14 – Renaissance-Palazzo an Lungarno Serristori – Teil 14/25 (Y 84–85)
+### Schritt 27.15 – Renaissance-Palazzo an Lungarno Serristori – Teil 15/26 (Y 86–87)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.849
 - **Bauteile:** `w119376301`
 
@@ -493,9 +549,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.15 – Renaissance-Palazzo an Lungarno Serristori – Teil 15/25 (Y 86–86)
+### Schritt 27.16 – Renaissance-Palazzo an Lungarno Serristori – Teil 16/26 (Y 88–88)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 923
 - **Bauteile:** `w119376301`
 
@@ -523,20 +579,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.16 – Renaissance-Palazzo an Lungarno Serristori – Teil 16/25 (Y 87–89)
+### Schritt 27.17 – Renaissance-Palazzo an Lungarno Serristori – Teil 17/26 (Y 89–90)
 
-- **Y-Bereich:** 87 bis 89
-- **Blöcke:** 1.863
+- **Y-Bereich:** 89 bis 90
+- **Blöcke:** 1.242
 - **Bauteile:** `w119376301`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 630 |
-| Graues Buntglas | `gray_stained_glass` | 516 |
-| Glatter Stein | `smooth_stone` | 422 |
-| Polierter Andesit | `polished_andesite` | 295 |
+| Tuffstein | `tuff` | 420 |
+| Graues Buntglas | `gray_stained_glass` | 344 |
+| Glatter Stein | `smooth_stone` | 278 |
+| Polierter Andesit | `polished_andesite` | 200 |
 
 **Beschreibung**
 
@@ -554,40 +610,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.17 – Renaissance-Palazzo an Lungarno Serristori – Teil 17/25 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 746
-- **Bauteile:** `w119376301`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 337 |
-| Glatter Stein | `smooth_stone` | 273 |
-| Polierter Andesit | `polished_andesite` | 105 |
-| Graues Buntglas | `gray_stained_glass` | 31 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.18 – Renaissance-Palazzo an Lungarno Serristori – Teil 18/25 (Y 91–92)
+### Schritt 27.18 – Renaissance-Palazzo an Lungarno Serristori – Teil 18/26 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
+- **Blöcke:** 1.367
+- **Bauteile:** `w119376301`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 547 |
+| Glatter Stein | `smooth_stone` | 417 |
+| Graues Buntglas | `gray_stained_glass` | 203 |
+| Polierter Andesit | `polished_andesite` | 200 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.19 – Renaissance-Palazzo an Lungarno Serristori – Teil 19/26 (Y 93–94)
+
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.822
 - **Bauteile:** `w119376301`
 
@@ -616,9 +672,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.19 – Renaissance-Palazzo an Lungarno Serristori – Teil 19/25 (Y 93–93)
+### Schritt 27.20 – Renaissance-Palazzo an Lungarno Serristori – Teil 20/26 (Y 95–95)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.419
 - **Bauteile:** `w119376301`
 
@@ -646,9 +702,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.20 – Renaissance-Palazzo an Lungarno Serristori – Teil 20/25 (Y 94–94)
+### Schritt 27.21 – Renaissance-Palazzo an Lungarno Serristori – Teil 21/26 (Y 96–96)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.801
 - **Bauteile:** `w119376301`
 
@@ -676,9 +732,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.21 – Renaissance-Palazzo an Lungarno Serristori – Teil 21/25 (Y 95–95)
+### Schritt 27.22 – Renaissance-Palazzo an Lungarno Serristori – Teil 22/26 (Y 97–97)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.076
 - **Bauteile:** `w119376301`
 
@@ -704,9 +760,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.22 – Renaissance-Palazzo an Lungarno Serristori – Teil 22/25 (Y 95–95)
+### Schritt 27.23 – Renaissance-Palazzo an Lungarno Serristori – Teil 23/26 (Y 97–97)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.083
 - **Bauteile:** `w119376301`
 
@@ -732,9 +788,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.23 – Renaissance-Palazzo an Lungarno Serristori – Teil 23/25 (Y 96–96)
+### Schritt 27.24 – Renaissance-Palazzo an Lungarno Serristori – Teil 24/26 (Y 98–98)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.050
 - **Bauteile:** `w119376301`
 
@@ -760,9 +816,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.24 – Renaissance-Palazzo an Lungarno Serristori – Teil 24/25 (Y 97–97)
+### Schritt 27.25 – Renaissance-Palazzo an Lungarno Serristori – Teil 25/26 (Y 99–99)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.177
 - **Bauteile:** `w119376301`
 
@@ -788,9 +844,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.25 – Renaissance-Palazzo an Lungarno Serristori – Teil 25/25 (Y 98–102)
+### Schritt 27.26 – Renaissance-Palazzo an Lungarno Serristori – Teil 26/26 (Y 100–104)
 
-- **Y-Bereich:** 98 bis 102
+- **Y-Bereich:** 100 bis 104
 - **Blöcke:** 1.454
 - **Bauteile:** `w119376301`
 
@@ -817,9 +873,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.26 – Renaissance-Palazzo an Lungarno Serristori: Innenausbau – Teil 1/4 (Y 64–75)
+### Schritt 27.27 – Renaissance-Palazzo an Lungarno Serristori: Innenausbau – Teil 1/4 (Y 66–77)
 
-- **Y-Bereich:** 64 bis 75
+- **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.531
 - **Bauteile:** `w119376301_innen`
 
@@ -859,9 +915,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.27 – Renaissance-Palazzo an Lungarno Serristori: Innenausbau – Teil 2/4 (Y 75–75)
+### Schritt 27.28 – Renaissance-Palazzo an Lungarno Serristori: Innenausbau – Teil 2/4 (Y 77–77)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.460
 - **Bauteile:** `w119376301_innen`
 
@@ -888,9 +944,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.28 – Renaissance-Palazzo an Lungarno Serristori: Innenausbau – Teil 3/4 (Y 76–84)
+### Schritt 27.29 – Renaissance-Palazzo an Lungarno Serristori: Innenausbau – Teil 3/4 (Y 78–86)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.510
 - **Bauteile:** `w119376301_innen`
 
@@ -932,9 +988,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.29 – Renaissance-Palazzo an Lungarno Serristori: Innenausbau – Teil 4/4 (Y 84–85) & Straßenschilder
+### Schritt 27.30 – Renaissance-Palazzo an Lungarno Serristori: Innenausbau – Teil 4/4 (Y 86–87) & Straßenschilder
 
-- **Y-Bereich:** 71 bis 85
+- **Y-Bereich:** 73 bis 87
 - **Blöcke:** 1.471
 - **Bauteile:** `w119376301_innen`, `strassenschilder`
 

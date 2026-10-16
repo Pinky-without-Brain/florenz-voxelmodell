@@ -8,25 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 58.844 |
+| Blöcke | 59.267 |
 | Bauschritte | 36 |
 | Y-Bereich | 68 bis 119 |
 | X-Ausdehnung | -3055 bis -2920 (136 Blöcke) |
 | Z-Ausdehnung | 1742 bis 1884 (143 Blöcke) |
 | Kleinster Schritt | 1.092 Blöcke (Schritt 3.35) |
-| Mittlerer Schritt | 1.635 Blöcke |
-| Größter Schritt | 2.056 Blöcke (Schritt 3.36) |
+| Mittlerer Schritt | 1.646 Blöcke |
+| Größter Schritt | 2.094 Blöcke (Schritt 3.31) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 17.968 | 30,5 % |
-| Terrakotta | `terracotta` | 16.763 | 28,5 % |
-| Weißer Beton | `white_concrete` | 9.432 | 16,0 % |
+| Endsteinziegel | `end_stone_bricks` | 17.983 | 30,3 % |
+| Terrakotta | `terracotta` | 16.763 | 28,3 % |
+| Weißer Beton | `white_concrete` | 9.393 | 15,8 % |
 | Polierter Tuffstein | `polished_tuff` | 5.070 | 8,6 % |
-| Tuffstein | `tuff` | 3.597 | 6,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 1.482 | 2,5 % |
+| Tuffstein | `tuff` | 4.013 | 6,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 1.513 | 2,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.133 | 1,9 % |
 | Glatter Stein | `smooth_stone` | 1.040 | 1,8 % |
 | Polierter Andesit | `polished_andesite` | 688 | 1,2 % |
@@ -62,13 +62,13 @@
 | 2 | `w442946750_innen` | Reihenhaus an Via San Francesco di Paola: Innenausbau | 1.329 | 3.5 |
 | 3 | `w442946752` | Reihenhaus an Via dei Villani | 5.852 | 3.6–3.8 |
 | 4 | `w442946752_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.337 | 3.9 |
-| 5 | `w442946787` | Reihenhaus an Via dei Villani | 2.931 | 3.10–3.11 |
+| 5 | `w442946787` | Reihenhaus an Via dei Villani | 2.962 | 3.10–3.11 |
 | 6 | `w442946787_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.147 | 3.12 |
 | 7 | `w464120085` | Palazzo des Ottocento an Via dei Villani | 18.515 | 3.13–3.23 |
 | 8 | `w464120085_innen` | Palazzo des Ottocento an Via dei Villani: Innenausbau | 2.890 | 3.24–3.25 |
-| 9 | `w464120134` | Reihenhaus an Via dei Villani | 4.700 | 3.26–3.28 |
+| 9 | `w464120134` | Reihenhaus an Via dei Villani | 4.661 | 3.26–3.28 |
 | 10 | `w464120134_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.389 | 3.29 |
-| 11 | `w464120219` | Reihenhaus an Via dei Villani | 9.115 | 3.30–3.34 |
+| 11 | `w464120219` | Reihenhaus an Via dei Villani | 9.546 | 3.30–3.34 |
 | 12 | `w464120219_innen` | Reihenhaus an Via dei Villani: Innenausbau | 3.148 | 3.35–3.36 |
 
 ## Bauschritte
@@ -234,9 +234,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.6 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 70–79)
+### Schritt 3.6 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 71–80)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.918
 - **Bauteile:** `w442946752`
 
@@ -266,9 +266,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 80–92)
+### Schritt 3.7 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 81–93)
 
-- **Y-Bereich:** 80 bis 92
+- **Y-Bereich:** 81 bis 93
 - **Blöcke:** 1.985
 - **Bauteile:** `w442946752`
 
@@ -296,9 +296,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.8 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 93–105)
+### Schritt 3.8 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 94–106)
 
-- **Y-Bereich:** 93 bis 105
+- **Y-Bereich:** 94 bis 106
 - **Blöcke:** 1.949
 - **Bauteile:** `w442946752`
 
@@ -330,7 +330,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.9 – Reihenhaus an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 70 bis 93
+- **Y-Bereich:** 71 bis 94
 - **Blöcke:** 1.337
 - **Bauteile:** `w442946752_innen`
 
@@ -366,9 +366,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.10 – Reihenhaus an Via dei Villani – Teil 1/2 (Y 69–86)
+### Schritt 3.10 – Reihenhaus an Via dei Villani – Teil 1/2 (Y 70–87)
 
-- **Y-Bereich:** 69 bis 86
+- **Y-Bereich:** 70 bis 87
 - **Blöcke:** 1.496
 - **Bauteile:** `w442946787`
 
@@ -397,17 +397,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.11 – Reihenhaus an Via dei Villani – Teil 2/2 (Y 87–104)
+### Schritt 3.11 – Reihenhaus an Via dei Villani – Teil 2/2 (Y 88–105)
 
-- **Y-Bereich:** 87 bis 104
-- **Blöcke:** 1.435
+- **Y-Bereich:** 88 bis 105
+- **Blöcke:** 1.466
 - **Bauteile:** `w442946787`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 628 |
+| Gelbe Keramik | `yellow_terracotta` | 659 |
 | Terrakotta | `terracotta` | 523 |
 | Polierter Andesit | `polished_andesite` | 158 |
 | Fichtenholz-Bretter | `spruce_planks` | 49 |
@@ -432,7 +432,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.12 – Reihenhaus an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 69 bis 92
+- **Y-Bereich:** 70 bis 93
 - **Blöcke:** 1.147
 - **Bauteile:** `w442946787_innen`
 
@@ -971,14 +971,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.28 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 96–107)
 
 - **Y-Bereich:** 96 bis 107
-- **Blöcke:** 1.557
+- **Blöcke:** 1.518
 - **Bauteile:** `w464120134`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 786 |
+| Weißer Beton | `white_concrete` | 747 |
 | Terrakotta | `terracotta` | 640 |
 | Glatter Stein | `smooth_stone` | 74 |
 | Ziegelsteine | `bricks` | 39 |
@@ -1038,10 +1038,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.30 – Reihenhaus an Via dei Villani – Teil 1/5 (Y 72–76)
+### Schritt 3.30 – Reihenhaus an Via dei Villani – Teil 1/5 (Y 72–75)
 
-- **Y-Bereich:** 72 bis 76
-- **Blöcke:** 1.849
+- **Y-Bereich:** 72 bis 75
+- **Blöcke:** 1.815
 - **Bauteile:** `w464120219`
 
 **Teileliste**
@@ -1049,9 +1049,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.212 |
-| Endsteinziegel | `end_stone_bricks` | 444 |
-| Tuffstein | `tuff` | 187 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Tuffstein | `tuff` | 603 |
 
 **Beschreibung**
 
@@ -1069,20 +1067,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.31 – Reihenhaus an Via dei Villani – Teil 2/5 (Y 77–85)
+### Schritt 3.31 – Reihenhaus an Via dei Villani – Teil 2/5 (Y 76–85)
 
-- **Y-Bereich:** 77 bis 85
-- **Blöcke:** 1.866
+- **Y-Bereich:** 76 bis 85
+- **Blöcke:** 2.094
 - **Bauteile:** `w464120219`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.573 |
-| Weißer Beton | `white_concrete` | 231 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Glatter Stein | `smooth_stone` | 12 |
+| Endsteinziegel | `end_stone_bricks` | 1.838 |
+| Weißer Beton | `white_concrete` | 202 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
+| Glatter Stein | `smooth_stone` | 18 |
 
 **Beschreibung**
 
@@ -1130,19 +1128,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.33 – Reihenhaus an Via dei Villani – Teil 4/5 (Y 95–103)
+### Schritt 3.33 – Reihenhaus an Via dei Villani – Teil 4/5 (Y 95–104)
 
-- **Y-Bereich:** 95 bis 103
-- **Blöcke:** 1.834
+- **Y-Bereich:** 95 bis 104
+- **Blöcke:** 2.071
 - **Bauteile:** `w464120219`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.533 |
-| Weißer Beton | `white_concrete` | 245 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
+| Endsteinziegel | `end_stone_bricks` | 1.727 |
+| Weißer Beton | `white_concrete` | 274 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
 
 **Beschreibung**
 
@@ -1160,9 +1158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.34 – Reihenhaus an Via dei Villani – Teil 5/5 (Y 104–112)
+### Schritt 3.34 – Reihenhaus an Via dei Villani – Teil 5/5 (Y 105–113)
 
-- **Y-Bereich:** 104 bis 112
+- **Y-Bereich:** 105 bis 113
 - **Blöcke:** 1.793
 - **Bauteile:** `w464120219`
 
@@ -1190,9 +1188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.35 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 74–89)
+### Schritt 3.35 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 75–90)
 
-- **Y-Bereich:** 74 bis 89
+- **Y-Bereich:** 75 bis 90
 - **Blöcke:** 1.092
 - **Bauteile:** `w464120219_innen`
 
@@ -1232,9 +1230,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.36 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 90–98)
+### Schritt 3.36 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 91–99)
 
-- **Y-Bereich:** 90 bis 98
+- **Y-Bereich:** 91 bis 99
 - **Blöcke:** 2.056
 - **Bauteile:** `w464120219_innen`
 

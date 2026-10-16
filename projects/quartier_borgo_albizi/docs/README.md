@@ -4,7 +4,7 @@
 
 *Projekt `quartier_borgo_albizi`, Art: quartier*
 
-**Statistik (generiert):** 1.234.300 Blöcke in 778 Bauschritten, 9 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 1.234.234 Blöcke in 778 Bauschritten, 9 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X 89 bis 745, Y 53 bis 118, Z -8 bis 758.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -17,17 +17,17 @@ Ausdehnung des Modells: X 89 bis 745, Y 53 bis 118, Z -8 bis 758.
 | 5 | Isolato I0577 – Borgo degli Albizi | 222.602 | 139 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
 | 6 | Isolato I0578 – Via Ghibellina | 95.429 | 61 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
 | 7 | Isolato I0591 – Via dell'Oriuolo | 259.771 | 170 | [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md) |
-| 8 | Isolato I0600 – Borgo degli Albizi | 203.694 | 128 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
-| | **Summe** | **1.234.300** | **778** | |
+| 8 | Isolato I0600 – Borgo degli Albizi | 203.628 | 128 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
+| | **Summe** | **1.234.234** | **778** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 448.909 | 36,4 % |
-| Polierter Tuffstein | `polished_tuff` | 137.089 | 11,1 % |
+| Terrakotta | `terracotta` | 448.912 | 36,4 % |
+| Polierter Tuffstein | `polished_tuff` | 137.090 | 11,1 % |
 | Endsteinziegel | `end_stone_bricks` | 105.650 | 8,6 % |
-| Weißer Beton | `white_concrete` | 100.562 | 8,1 % |
+| Weißer Beton | `white_concrete` | 100.496 | 8,1 % |
 | Glatter Sandstein | `smooth_sandstone` | 76.074 | 6,2 % |
 | Rosa Keramik | `pink_terracotta` | 55.345 | 4,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 49.727 | 4,0 % |
@@ -42,11 +42,11 @@ Ausdehnung des Modells: X 89 bis 745, Y 53 bis 118, Z -8 bis 758.
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 5.828 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 4.695 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 3.172 | 0,3 % |
-| Seelaterne | `sea_lantern` | 2.452 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1.229 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1.157 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.151 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.091 | 0,1 % |
+| Seelaterne | `sea_lantern` | 2.448 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1.228 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1.156 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.152 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.092 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 821 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 821 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 282 | 0,0 % |

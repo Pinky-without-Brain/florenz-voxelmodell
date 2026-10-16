@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 30.944 |
+| Blöcke | 30.916 |
 | Bauschritte | 20 |
-| Y-Bereich | 64 bis 97 |
+| Y-Bereich | 65 bis 97 |
 | X-Ausdehnung | -2711 bis -2670 (42 Blöcke) |
 | Z-Ausdehnung | 1912 bis 2051 (140 Blöcke) |
 | Kleinster Schritt | 1.088 Blöcke (Schritt 27.14) |
-| Mittlerer Schritt | 1.547 Blöcke |
+| Mittlerer Schritt | 1.546 Blöcke |
 | Größter Schritt | 1.864 Blöcke (Schritt 27.13) |
 
 ## Gesamt-Stückliste
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 10.990 | 35,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 4.799 | 15,5 % |
-| Orange Keramik | `orange_terracotta` | 4.032 | 13,0 % |
+| Orange Keramik | `orange_terracotta` | 4.004 | 13,0 % |
 | Polierter Tuffstein | `polished_tuff` | 3.710 | 12,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.199 | 10,3 % |
 | Polierter Andesit | `polished_andesite` | 1.510 | 4,9 % |
@@ -33,10 +33,10 @@
 | Ziegelsteine | `bricks` | 365 | 1,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 141 | 0,5 % |
 | Seelaterne | `sea_lantern` | 57 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 35 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 35 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 22 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 35 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 35 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 18 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 18 | 0,1 % |
 
@@ -52,7 +52,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w442946777` | Reihenhaus an Via Giano della Bella | 9.623 | 27.1–27.6 |
 | 2 | `w442946777_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 2.500 | 27.7–27.8 |
-| 3 | `w442946786` | Reihenhaus an Via Giano della Bella | 8.466 | 27.9–27.13 |
+| 3 | `w442946786` | Reihenhaus an Via Giano della Bella | 8.438 | 27.9–27.13 |
 | 4 | `w442946786_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 2.176 | 27.14–27.15 |
 | 5 | `w442946789` | Haus w442946789 | 6.517 | 27.16–27.19 |
 | 6 | `w442946789_innen` | Haus w442946789: Innenausbau | 1.662 | 27.20 |
@@ -325,10 +325,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.9 – Reihenhaus an Via Giano della Bella – Teil 1/5 (Y 64–66)
+### Schritt 27.9 – Reihenhaus an Via Giano della Bella – Teil 1/5 (Y 65–67)
 
-- **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.747
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.719
 - **Bauteile:** `w442946786`
 
 **Teileliste**
@@ -336,7 +336,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.271 |
-| Orange Keramik | `orange_terracotta` | 472 |
+| Orange Keramik | `orange_terracotta` | 444 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
@@ -355,9 +355,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.10 – Reihenhaus an Via Giano della Bella – Teil 2/5 (Y 67–73)
+### Schritt 27.10 – Reihenhaus an Via Giano della Bella – Teil 2/5 (Y 68–74)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 68 bis 74
 - **Blöcke:** 1.573
 - **Bauteile:** `w442946786`
 
@@ -386,9 +386,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.11 – Reihenhaus an Via Giano della Bella – Teil 3/5 (Y 74–81)
+### Schritt 27.11 – Reihenhaus an Via Giano della Bella – Teil 3/5 (Y 75–82)
 
-- **Y-Bereich:** 74 bis 81
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.818
 - **Bauteile:** `w442946786`
 
@@ -417,9 +417,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.12 – Reihenhaus an Via Giano della Bella – Teil 4/5 (Y 82–87)
+### Schritt 27.12 – Reihenhaus an Via Giano della Bella – Teil 4/5 (Y 83–88)
 
-- **Y-Bereich:** 82 bis 87
+- **Y-Bereich:** 83 bis 88
 - **Blöcke:** 1.464
 - **Bauteile:** `w442946786`
 
@@ -448,9 +448,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.13 – Reihenhaus an Via Giano della Bella – Teil 5/5 (Y 88–96)
+### Schritt 27.13 – Reihenhaus an Via Giano della Bella – Teil 5/5 (Y 89–97)
 
-- **Y-Bereich:** 88 bis 96
+- **Y-Bereich:** 89 bis 97
 - **Blöcke:** 1.864
 - **Bauteile:** `w442946786`
 
@@ -477,9 +477,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.14 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 1/2 (Y 64–73)
+### Schritt 27.14 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 1/2 (Y 65–74)
 
-- **Y-Bereich:** 64 bis 73
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.088
 - **Bauteile:** `w442946786_innen`
 
@@ -490,10 +490,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.029 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
 | Seelaterne | `sea_lantern` | 14 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -517,9 +517,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.15 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 2/2 (Y 74–81)
+### Schritt 27.15 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 2/2 (Y 75–82)
 
-- **Y-Bereich:** 74 bis 81
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.088
 - **Bauteile:** `w442946786_innen`
 
@@ -529,13 +529,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.029 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 

@@ -8,26 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.637 |
+| Blöcke | 7.695 |
 | Bauschritte | 5 |
 | Y-Bereich | 58 bis 92 |
 | X-Ausdehnung | -2943 bis -2896 (48 Blöcke) |
 | Z-Ausdehnung | 1073 bis 1104 (32 Blöcke) |
 | Kleinster Schritt | 1.448 Blöcke (Schritt 23.1) |
-| Mittlerer Schritt | 1.527 Blöcke |
-| Größter Schritt | 1.597 Blöcke (Schritt 23.5) |
+| Mittlerer Schritt | 1.539 Blöcke |
+| Größter Schritt | 1.624 Blöcke (Schritt 23.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 2.825 | 37,0 % |
-| Endsteinziegel | `end_stone_bricks` | 2.169 | 28,4 % |
-| Terrakotta | `terracotta` | 655 | 8,6 % |
-| Weißer Beton | `white_concrete` | 639 | 8,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 532 | 7,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.843 | 36,9 % |
+| Endsteinziegel | `end_stone_bricks` | 2.169 | 28,2 % |
+| Terrakotta | `terracotta` | 660 | 8,6 % |
+| Weißer Beton | `white_concrete` | 639 | 8,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 536 | 7,0 % |
 | Polierter Tuffstein | `polished_tuff` | 412 | 5,4 % |
-| Graues Buntglas | `gray_stained_glass` | 380 | 5,0 % |
+| Graues Buntglas | `gray_stained_glass` | 380 | 4,9 % |
+| Tuffstein | `tuff` | 31 | 0,4 % |
 | Glatter Stein | `smooth_stone` | 19 | 0,2 % |
 | Ziegelsteine | `bricks` | 3 | 0,0 % |
 | Seelaterne | `sea_lantern` | 3 | 0,0 % |
@@ -38,7 +39,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w464120077` | Haus w464120077 | 2.944 | 23.1–23.2 |
 | 2 | `w464120077_innen` | Haus w464120077: Innenausbau | 1 | 23.3 |
-| 3 | `w464120202` | Haus w464120202 | 4.690 | 23.3–23.5 |
+| 3 | `w464120202` | Haus w464120202 | 4.748 | 23.3–23.5 |
 | 4 | `w464120202_innen` | Haus w464120202: Innenausbau | 2 | 23.5 |
 
 ## Bauschritte
@@ -106,10 +107,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.3 – Haus w464120077: Innenausbau & Haus w464120202 – Teil 1/3 (Y 58–68)
+### Schritt 23.3 – Haus w464120077: Innenausbau & Haus w464120202 – Teil 1/3 (Y 59–70)
 
-- **Y-Bereich:** 58 bis 68
-- **Blöcke:** 1.560
+- **Y-Bereich:** 58 bis 70
+- **Blöcke:** 1.591
 - **Bauteile:** `w464120077_innen`, `w464120202`
 
 **Teileliste**
@@ -121,6 +122,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Weißer Beton | `white_concrete` | 143 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 | Fichtenholz-Bretter | `spruce_planks` | 39 |
+| Tuffstein | `tuff` | 31 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Seelaterne | `sea_lantern` | 1 |
 
@@ -140,9 +142,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.4 – Haus w464120202 – Teil 2/3 (Y 69–80)
+### Schritt 23.4 – Haus w464120202 – Teil 2/3 (Y 71–82)
 
-- **Y-Bereich:** 69 bis 80
+- **Y-Bereich:** 71 bis 82
 - **Blöcke:** 1.536
 - **Bauteile:** `w464120202`
 
@@ -171,19 +173,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.5 – Haus w464120202 – Teil 3/3 (Y 81–90) & Haus w464120202: Innenausbau
+### Schritt 23.5 – Haus w464120202 – Teil 3/3 (Y 83–92) & Haus w464120202: Innenausbau
 
-- **Y-Bereich:** 58 bis 90
-- **Blöcke:** 1.597
+- **Y-Bereich:** 60 bis 92
+- **Blöcke:** 1.624
 - **Bauteile:** `w464120202`, `w464120202_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 762 |
-| Terrakotta | `terracotta` | 422 |
-| Fichtenholz-Bretter | `spruce_planks` | 183 |
+| Gelbe Keramik | `yellow_terracotta` | 780 |
+| Terrakotta | `terracotta` | 427 |
+| Fichtenholz-Bretter | `spruce_planks` | 187 |
 | Weißer Beton | `white_concrete` | 177 |
 | Graues Buntglas | `gray_stained_glass` | 51 |
 | Seelaterne | `sea_lantern` | 2 |

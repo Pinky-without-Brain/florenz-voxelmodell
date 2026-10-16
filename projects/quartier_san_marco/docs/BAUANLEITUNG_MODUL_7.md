@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 486.912 |
+| Blöcke | 486.922 |
 | Bauschritte | 281 |
 | Y-Bereich | 65 bis 111 |
 | X-Ausdehnung | 208 bis 571 (364 Blöcke) |
@@ -21,33 +21,33 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 198.881 | 40,8 % |
+| Terrakotta | `terracotta` | 198.879 | 40,8 % |
 | Endsteinziegel | `end_stone_bricks` | 96.622 | 19,8 % |
 | Polierter Tuffstein | `polished_tuff` | 62.426 | 12,8 % |
 | Weißer Beton | `white_concrete` | 30.266 | 6,2 % |
 | Glatter Stein | `smooth_stone` | 18.023 | 3,7 % |
 | Tuffstein | `tuff` | 15.892 | 3,3 % |
-| Rosa Keramik | `pink_terracotta` | 13.591 | 2,8 % |
+| Rosa Keramik | `pink_terracotta` | 13.536 | 2,8 % |
 | Polierter Andesit | `polished_andesite` | 12.034 | 2,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 10.092 | 2,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.916 | 1,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.963 | 1,6 % |
 | Graues Buntglas | `gray_stained_glass` | 7.624 | 1,6 % |
 | Grüner Beton | `green_concrete` | 4.056 | 0,8 % |
 | Ziegelsteine | `bricks` | 2.902 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 2.423 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.437 | 0,3 % |
 | Seelaterne | `sea_lantern` | 911 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 899 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 195 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 177 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 150 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 142 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 905 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 197 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 179 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 156 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 144 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 84 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 76 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 21 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 21 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 22 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
@@ -57,7 +57,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 664 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 676 |
 | Steintreppe | `stone_stairs` | 204 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -92,10 +92,10 @@
 | 26 | `w477749468_innen` | Haus w477749468: Innenausbau | 3.206 | 7.238–7.239 |
 | 27 | `w477749480` | Palazzo des Cinquecento an Via degli Alfani | 6.573 | 7.240–7.243 |
 | 28 | `w477749480_innen` | Palazzo des Cinquecento an Via degli Alfani: Innenausbau | 1.120 | 7.244 |
-| 29 | `w477749487` | Reihenhaus an Via degli Alfani | 8.785 | 7.245–7.249 |
-| 30 | `w477749487_innen` | Reihenhaus an Via degli Alfani: Innenausbau | 2.526 | 7.250–7.251 |
-| 31 | `w477749521` | Reihenhaus an Via degli Alfani | 3.178 | 7.252–7.253 |
-| 32 | `w477749521_innen` | Reihenhaus an Via degli Alfani: Innenausbau | 1.736 | 7.254 |
+| 29 | `w477749487` | Reihenhaus an Via degli Alfani | 8.832 | 7.245–7.249 |
+| 30 | `w477749487_innen` | Reihenhaus an Via degli Alfani: Innenausbau | 2.537 | 7.250–7.251 |
+| 31 | `w477749521` | Reihenhaus an Via degli Alfani | 3.121 | 7.252–7.253 |
+| 32 | `w477749521_innen` | Reihenhaus an Via degli Alfani: Innenausbau | 1.745 | 7.254 |
 | 33 | `w674049318` | Oratorio di San Francesco Poverino | 8.499 | 7.255–7.259 |
 | 34 | `w674049318_innen` | Oratorio di San Francesco Poverino: Innenausbau | 1.686 | 7.260 |
 | 35 | `w674049321` | Haus w674049321 | 3.553 | 7.261–7.262 |
@@ -6001,9 +6001,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.196 – Reihenhaus an Via degli Alfani – Teil 1/5 (Y 66–69)
+### Schritt 7.196 – Reihenhaus an Via degli Alfani – Teil 1/5 (Y 67–70)
 
-- **Y-Bereich:** 66 bis 69
+- **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.743
 - **Bauteile:** `w477749397`
 
@@ -6032,9 +6032,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.197 – Reihenhaus an Via degli Alfani – Teil 2/5 (Y 70–78)
+### Schritt 7.197 – Reihenhaus an Via degli Alfani – Teil 2/5 (Y 71–79)
 
-- **Y-Bereich:** 70 bis 78
+- **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.965
 - **Bauteile:** `w477749397`
 
@@ -6064,9 +6064,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.198 – Reihenhaus an Via degli Alfani – Teil 3/5 (Y 79–86)
+### Schritt 7.198 – Reihenhaus an Via degli Alfani – Teil 3/5 (Y 80–87)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.740
 - **Bauteile:** `w477749397`
 
@@ -6094,9 +6094,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.199 – Reihenhaus an Via degli Alfani – Teil 4/5 (Y 87–95)
+### Schritt 7.199 – Reihenhaus an Via degli Alfani – Teil 4/5 (Y 88–96)
 
-- **Y-Bereich:** 87 bis 95
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 2.004
 - **Bauteile:** `w477749397`
 
@@ -6124,9 +6124,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.200 – Reihenhaus an Via degli Alfani – Teil 5/5 (Y 96–103)
+### Schritt 7.200 – Reihenhaus an Via degli Alfani – Teil 5/5 (Y 97–104)
 
-- **Y-Bereich:** 96 bis 103
+- **Y-Bereich:** 97 bis 104
 - **Blöcke:** 1.719
 - **Bauteile:** `w477749397`
 
@@ -6154,9 +6154,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.201 – Reihenhaus an Via degli Alfani: Innenausbau – Teil 1/2 (Y 66–81)
+### Schritt 7.201 – Reihenhaus an Via degli Alfani: Innenausbau – Teil 1/2 (Y 67–82)
 
-- **Y-Bereich:** 66 bis 81
+- **Y-Bereich:** 67 bis 82
 - **Blöcke:** 942
 - **Bauteile:** `w477749397_innen`
 
@@ -6192,9 +6192,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.202 – Reihenhaus an Via degli Alfani: Innenausbau – Teil 2/2 (Y 82–89)
+### Schritt 7.202 – Reihenhaus an Via degli Alfani: Innenausbau – Teil 2/2 (Y 83–90)
 
-- **Y-Bereich:** 82 bis 89
+- **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.760
 - **Bauteile:** `w477749397_innen`
 
@@ -7636,7 +7636,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.245 – Reihenhaus an Via degli Alfani – Teil 1/5 (Y 66–69)
 
 - **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.666
+- **Blöcke:** 1.712
 - **Bauteile:** `w477749487`
 
 **Teileliste**
@@ -7644,7 +7644,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.015 |
-| Hellgrauer Beton | `light_gray_concrete` | 576 |
+| Hellgrauer Beton | `light_gray_concrete` | 622 |
 | Weißer Beton | `white_concrete` | 27 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 | Polierter Andesit | `polished_andesite` | 24 |
@@ -7759,7 +7759,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.249 – Reihenhaus an Via degli Alfani – Teil 5/5 (Y 95–103)
 
 - **Y-Bereich:** 95 bis 103
-- **Blöcke:** 1.894
+- **Blöcke:** 1.895
 - **Bauteile:** `w477749487`
 
 **Teileliste**
@@ -7767,7 +7767,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.281 |
-| Hellgrauer Beton | `light_gray_concrete` | 480 |
+| Hellgrauer Beton | `light_gray_concrete` | 481 |
 | Weißer Beton | `white_concrete` | 76 |
 | Ziegelsteine | `bricks` | 57 |
 
@@ -7790,7 +7790,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.250 – Reihenhaus an Via degli Alfani: Innenausbau – Teil 1/2 (Y 66–81)
 
 - **Y-Bereich:** 66 bis 81
-- **Blöcke:** 886
+- **Blöcke:** 892
 - **Bauteile:** `w477749487_innen`
 
 **Teileliste**
@@ -7798,18 +7798,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 791 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 47 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 14 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 15 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
 
 **Beschreibung**
 
@@ -7830,7 +7832,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.251 – Reihenhaus an Via degli Alfani: Innenausbau – Teil 2/2 (Y 82–90)
 
 - **Y-Bereich:** 82 bis 90
-- **Blöcke:** 1.640
+- **Blöcke:** 1.645
 - **Bauteile:** `w477749487_innen`
 
 **Teileliste**
@@ -7838,18 +7840,18 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.582 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
 | Seelaterne | `sea_lantern` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 6 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 11 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
 
 **Beschreibung**
 
@@ -7901,15 +7903,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.253 – Reihenhaus an Via degli Alfani – Teil 2/2 (Y 86–102)
 
 - **Y-Bereich:** 86 bis 102
-- **Blöcke:** 1.595
+- **Blöcke:** 1.538
 - **Bauteile:** `w477749521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 783 |
-| Rosa Keramik | `pink_terracotta` | 507 |
+| Terrakotta | `terracotta` | 781 |
+| Rosa Keramik | `pink_terracotta` | 452 |
 | Glatter Stein | `smooth_stone` | 135 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Fichtenholz-Bretter | `spruce_planks` | 63 |
@@ -7933,8 +7935,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.254 – Reihenhaus an Via degli Alfani: Innenausbau
 
-- **Y-Bereich:** 67 bis 90
-- **Blöcke:** 1.736
+- **Y-Bereich:** 67 bis 91
+- **Blöcke:** 1.745
 - **Bauteile:** `w477749521_innen`
 
 **Teileliste**
@@ -7942,9 +7944,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.608 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
@@ -7953,7 +7955,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
 
 **Beschreibung**
 

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 138.119 |
+| Blöcke | 138.155 |
 | Bauschritte | 90 |
 | Y-Bereich | 117 bis 194 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
@@ -21,8 +21,8 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 87.237 | 63,2 % |
-| Stein | `stone` | 22.637 | 16,4 % |
+| Grasblock | `grass_block` | 87.231 | 63,1 % |
+| Stein | `stone` | 22.679 | 16,4 % |
 | Tuffstein | `tuff` | 15.536 | 11,2 % |
 | Kies | `gravel` | 12.637 | 9,1 % |
 | Glatter Stein | `smooth_stone` | 53 | 0,0 % |
@@ -38,9 +38,9 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 21.976 | 186.1–186.13 |
+| 1 | `boeschung` | Böschung und Mantel | 22.018 | 186.1–186.13 |
 | 2 | `stufen` | Treppenflächen | 72 | 186.14 |
-| 3 | `rasen` | Grün und offenes Gelände | 87.898 | 186.14–186.75 |
+| 3 | `rasen` | Grün und offenes Gelände | 87.892 | 186.14–186.75 |
 | 4 | `gruen_wege` | Wege im Grün | 12.637 | 186.76–186.82 |
 | 5 | `mauern_stadt` | Stadtmauer | 15.536 | 186.83–186.90 |
 
@@ -214,17 +214,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 186.7 – Böschung und Mantel – Teil 7/13 (Y 147–149)
+### Schritt 186.7 – Böschung und Mantel – Teil 7/13 (Y 147–150)
 
-- **Y-Bereich:** 147 bis 149
-- **Blöcke:** 1.345
+- **Y-Bereich:** 147 bis 150
+- **Blöcke:** 1.784
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.345 |
+| Stein | `stone` | 1.784 |
 
 **Beschreibung**
 
@@ -242,17 +242,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 186.8 – Böschung und Mantel – Teil 8/13 (Y 150–153)
+### Schritt 186.8 – Böschung und Mantel – Teil 8/13 (Y 151–153)
 
-- **Y-Bereich:** 150 bis 153
-- **Blöcke:** 1.746
+- **Y-Bereich:** 151 bis 153
+- **Blöcke:** 1.307
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.746 |
+| Stein | `stone` | 1.307 |
 
 **Beschreibung**
 
@@ -357,14 +357,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 186.12 – Böschung und Mantel – Teil 12/13 (Y 166–170)
 
 - **Y-Bereich:** 166 bis 170
-- **Blöcke:** 1.686
+- **Blöcke:** 1.742
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.686 |
+| Stein | `stone` | 1.742 |
 
 **Beschreibung**
 
@@ -382,17 +382,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 186.13 – Böschung und Mantel – Teil 13/13 (Y 171–178)
+### Schritt 186.13 – Böschung und Mantel – Teil 13/13 (Y 171–177)
 
-- **Y-Bereich:** 171 bis 178
-- **Blöcke:** 1.640
+- **Y-Bereich:** 171 bis 177
+- **Blöcke:** 1.626
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.640 |
+| Stein | `stone` | 1.626 |
 
 **Beschreibung**
 
@@ -1978,14 +1978,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 186.68 – Grün und offenes Gelände – Teil 55/62 (Y 171–171)
 
 - **Y-Bereich:** 171 bis 171
-- **Blöcke:** 1.812
+- **Blöcke:** 1.809
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.802 |
+| Grasblock | `grass_block` | 1.799 |
 | Stein | `stone` | 10 |
 
 **Beschreibung**
@@ -2007,14 +2007,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 186.69 – Grün und offenes Gelände – Teil 56/62 (Y 172–172)
 
 - **Y-Bereich:** 172 bis 172
-- **Blöcke:** 1.062
+- **Blöcke:** 1.059
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.056 |
+| Grasblock | `grass_block` | 1.053 |
 | Stein | `stone` | 6 |
 
 **Beschreibung**

@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 54.188 |
+| Blöcke | 54.532 |
 | Bauschritte | 31 |
 | Y-Bereich | 120 bis 167 |
 | X-Ausdehnung | -2974 bis -2888 (87 Blöcke) |
 | Z-Ausdehnung | 2474 bis 2631 (158 Blöcke) |
 | Kleinster Schritt | 880 Blöcke (Schritt 0.6) |
-| Mittlerer Schritt | 1.748 Blöcke |
-| Größter Schritt | 2.083 Blöcke (Schritt 0.27) |
+| Mittlerer Schritt | 1.759 Blöcke |
+| Größter Schritt | 2.056 Blöcke (Schritt 0.23) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 18.370 | 33,9 % |
-| Endsteinziegel | `end_stone_bricks` | 6.297 | 11,6 % |
-| Weißer Beton | `white_concrete` | 6.014 | 11,1 % |
+| Terrakotta | `terracotta` | 18.370 | 33,7 % |
+| Endsteinziegel | `end_stone_bricks` | 6.297 | 11,5 % |
+| Weißer Beton | `white_concrete` | 5.870 | 10,8 % |
 | Orange Keramik | `orange_terracotta` | 5.481 | 10,1 % |
 | Polierter Tuffstein | `polished_tuff` | 5.327 | 9,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.948 | 9,1 % |
-| Glatter Stein | `smooth_stone` | 2.486 | 4,6 % |
+| Glatter Stein | `smooth_stone` | 2.494 | 4,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.903 | 3,5 % |
 | Polierter Andesit | `polished_andesite` | 1.413 | 2,6 % |
+| Tuffstein | `tuff` | 608 | 1,1 % |
 | Ziegelsteine | `bricks` | 546 | 1,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 375 | 0,7 % |
 | Grüner Beton | `green_concrete` | 322 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 209 | 0,4 % |
-| Tuffstein | `tuff` | 128 | 0,2 % |
 | Seelaterne | `sea_lantern` | 91 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 55 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 51 | 0,1 % |
@@ -61,9 +61,9 @@
 | 2 | `w465419640_innen` | Reihenhaus an Via Ugo Foscolo: Innenausbau | 2.506 | 0.6–0.7 |
 | 3 | `w465419675` | Reihenhaus an Via Ugo Foscolo | 9.562 | 0.8–0.12 |
 | 4 | `w465419675_innen` | Reihenhaus an Via Ugo Foscolo: Innenausbau | 3.142 | 0.13–0.14 |
-| 5 | `w465419697` | Reihenhaus an Via Ugo Foscolo | 10.711 | 0.15–0.20 |
+| 5 | `w465419697` | Reihenhaus an Via Ugo Foscolo | 11.199 | 0.15–0.20 |
 | 6 | `w465419697_innen` | Reihenhaus an Via Ugo Foscolo: Innenausbau | 2.840 | 0.21–0.22 |
-| 7 | `w465419710` | Palazzo des Cinquecento an Via Ugo Foscolo | 13.623 | 0.23–0.29 |
+| 7 | `w465419710` | Palazzo des Cinquecento an Via Ugo Foscolo | 13.479 | 0.23–0.29 |
 | 8 | `w465419710_innen` | Palazzo des Cinquecento an Via Ugo Foscolo: Innenausbau | 3.406 | 0.30–0.31 |
 
 ## Bauschritte
@@ -538,10 +538,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.15 – Reihenhaus an Via Ugo Foscolo – Teil 1/6 (Y 120–122)
+### Schritt 0.15 – Reihenhaus an Via Ugo Foscolo – Teil 1/6 (Y 120–125)
 
-- **Y-Bereich:** 120 bis 122
-- **Blöcke:** 1.708
+- **Y-Bereich:** 120 bis 125
+- **Blöcke:** 1.923
 - **Bauteile:** `w465419697`
 
 **Teileliste**
@@ -549,8 +549,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.178 |
-| Endsteinziegel | `end_stone_bricks` | 524 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Tuffstein | `tuff` | 480 |
+| Endsteinziegel | `end_stone_bricks` | 262 |
+| Glatter Stein | `smooth_stone` | 3 |
 
 **Beschreibung**
 
@@ -568,18 +569,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.16 – Reihenhaus an Via Ugo Foscolo – Teil 2/6 (Y 123–129)
+### Schritt 0.16 – Reihenhaus an Via Ugo Foscolo – Teil 2/6 (Y 126–132)
 
-- **Y-Bereich:** 123 bis 129
-- **Blöcke:** 1.856
+- **Y-Bereich:** 126 bis 132
+- **Blöcke:** 1.857
 - **Bauteile:** `w465419697`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.489 |
-| Glatter Stein | `smooth_stone` | 232 |
+| Endsteinziegel | `end_stone_bricks` | 1.479 |
+| Glatter Stein | `smooth_stone` | 243 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
 | Grüner Beton | `green_concrete` | 51 |
 
@@ -599,9 +600,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.17 – Reihenhaus an Via Ugo Foscolo – Teil 3/6 (Y 130–136)
+### Schritt 0.17 – Reihenhaus an Via Ugo Foscolo – Teil 3/6 (Y 133–139)
 
-- **Y-Bereich:** 130 bis 136
+- **Y-Bereich:** 133 bis 139
 - **Blöcke:** 1.860
 - **Bauteile:** `w465419697`
 
@@ -630,17 +631,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.18 – Reihenhaus an Via Ugo Foscolo – Teil 4/6 (Y 137–142)
+### Schritt 0.18 – Reihenhaus an Via Ugo Foscolo – Teil 4/6 (Y 140–146)
 
-- **Y-Bereich:** 137 bis 142
-- **Blöcke:** 1.588
+- **Y-Bereich:** 140 bis 146
+- **Blöcke:** 1.860
 - **Bauteile:** `w465419697`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.124 |
+| Endsteinziegel | `end_stone_bricks` | 1.396 |
 | Glatter Stein | `smooth_stone` | 276 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
 | Grüner Beton | `green_concrete` | 68 |
@@ -661,9 +662,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.19 – Reihenhaus an Via Ugo Foscolo – Teil 5/6 (Y 143–149)
+### Schritt 0.19 – Reihenhaus an Via Ugo Foscolo – Teil 5/6 (Y 147–153)
 
-- **Y-Bereich:** 143 bis 149
+- **Y-Bereich:** 147 bis 153
 - **Blöcke:** 1.877
 - **Bauteile:** `w465419697`
 
@@ -692,9 +693,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.20 – Reihenhaus an Via Ugo Foscolo – Teil 6/6 (Y 150–157)
+### Schritt 0.20 – Reihenhaus an Via Ugo Foscolo – Teil 6/6 (Y 154–161)
 
-- **Y-Bereich:** 150 bis 157
+- **Y-Bereich:** 154 bis 161
 - **Blöcke:** 1.822
 - **Bauteile:** `w465419697`
 
@@ -722,9 +723,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.21 – Reihenhaus an Via Ugo Foscolo: Innenausbau – Teil 1/2 (Y 120–135)
+### Schritt 0.21 – Reihenhaus an Via Ugo Foscolo: Innenausbau – Teil 1/2 (Y 124–139)
 
-- **Y-Bereich:** 120 bis 135
+- **Y-Bereich:** 124 bis 139
 - **Blöcke:** 986
 - **Bauteile:** `w465419697_innen`
 
@@ -762,9 +763,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.22 – Reihenhaus an Via Ugo Foscolo: Innenausbau – Teil 2/2 (Y 136–144)
+### Schritt 0.22 – Reihenhaus an Via Ugo Foscolo: Innenausbau – Teil 2/2 (Y 140–148)
 
-- **Y-Bereich:** 136 bis 144
+- **Y-Bereich:** 140 bis 148
 - **Blöcke:** 1.854
 - **Bauteile:** `w465419697_innen`
 
@@ -931,14 +932,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.27 – Palazzo des Cinquecento an Via Ugo Foscolo – Teil 5/7 (Y 149–155)
 
 - **Y-Bereich:** 149 bis 155
-- **Blöcke:** 2.083
+- **Blöcke:** 1.939
 - **Bauteile:** `w465419710`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.395 |
+| Weißer Beton | `white_concrete` | 1.251 |
 | Polierter Andesit | `polished_andesite` | 443 |
 | Graues Buntglas | `gray_stained_glass` | 215 |
 | Grüner Beton | `green_concrete` | 30 |

@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 120.982 |
+| Blöcke | 120.978 |
 | Bauschritte | 79 |
 | Y-Bereich | 90 bis 177 |
 | X-Ausdehnung | 96 bis 415 (320 Blöcke) |
 | Z-Ausdehnung | 2352 bis 2671 (320 Blöcke) |
-| Kleinster Schritt | 623 Blöcke (Schritt 190.11) |
+| Kleinster Schritt | 622 Blöcke (Schritt 190.11) |
 | Mittlerer Schritt | 1.531 Blöcke |
 | Größter Schritt | 2.094 Blöcke (Schritt 190.3) |
 
@@ -22,16 +22,16 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Grasblock | `grass_block` | 100.240 | 82,9 % |
-| Stein | `stone` | 20.119 | 16,6 % |
-| Polierter Tuffstein | `polished_tuff` | 623 | 0,5 % |
+| Stein | `stone` | 20.116 | 16,6 % |
+| Polierter Tuffstein | `polished_tuff` | 622 | 0,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 19.730 | 190.1–190.10 |
+| 1 | `boeschung` | Böschung und Mantel | 19.727 | 190.1–190.10 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 23 | 190.11 |
-| 3 | `hof_pflaster` | Höfe | 600 | 190.11 |
+| 3 | `hof_pflaster` | Höfe | 599 | 190.11 |
 | 4 | `rasen` | Grün und offenes Gelände | 100.629 | 190.12–190.79 |
 
 ## Bauschritte
@@ -291,14 +291,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 190.10 – Böschung und Mantel – Teil 10/10 (Y 156–177)
 
 - **Y-Bereich:** 156 bis 177
-- **Blöcke:** 2.020
+- **Blöcke:** 2.017
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.020 |
+| Stein | `stone` | 2.017 |
 
 **Beschreibung**
 
@@ -319,14 +319,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 190.11 – Straßenpflaster & Höfe
 
 - **Y-Bereich:** 101 bis 177
-- **Blöcke:** 623
+- **Blöcke:** 622
 - **Bauteile:** `strassen_pflaster`, `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 623 |
+| Polierter Tuffstein | `polished_tuff` | 622 |
 
 **Beschreibung**
 

@@ -8,25 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 202.368 |
+| Blöcke | 202.573 |
 | Bauschritte | 106 |
 | Y-Bereich | 48 bis 68 |
 | X-Ausdehnung | -544 bis -225 (320 Blöcke) |
 | Z-Ausdehnung | 1072 bis 1391 (320 Blöcke) |
 | Kleinster Schritt | 378 Blöcke (Schritt 128.96) |
-| Mittlerer Schritt | 1.909 Blöcke |
+| Mittlerer Schritt | 1.911 Blöcke |
 | Größter Schritt | 2.087 Blöcke (Schritt 128.26) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 108.258 | 53,5 % |
+| Wasser | `water` | 108.258 | 53,4 % |
 | Kies | `gravel` | 54.129 | 26,7 % |
-| Polierter Tuffstein | `polished_tuff` | 22.096 | 10,9 % |
-| Stein | `stone` | 11.614 | 5,7 % |
+| Polierter Tuffstein | `polished_tuff` | 22.087 | 10,9 % |
+| Stein | `stone` | 11.821 | 5,8 % |
 | Polierter Andesit | `polished_andesite` | 3.518 | 1,7 % |
-| Glatter Stein | `smooth_stone` | 2.125 | 1,1 % |
+| Glatter Stein | `smooth_stone` | 2.132 | 1,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 413 | 0,2 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 115 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 71 | 0,0 % |
@@ -43,14 +43,14 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 15.132 | 128.1–128.10 |
+| 1 | `boeschung` | Böschung und Mantel | 15.339 | 128.1–128.10 |
 | 2 | `arno_bett` | Flussbett | 54.129 | 128.11–128.37 |
 | 3 | `arno_wasser` | Arno | 108.258 | 128.38–128.90 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 9.079 | 128.91–128.96 |
-| 5 | `gehwege` | Gehwege | 2.050 | 128.97 |
+| 5 | `gehwege` | Gehwege | 2.057 | 128.97 |
 | 6 | `stufen` | Treppenflächen | 624 | 128.98 |
 | 7 | `plaetze_pflaster` | Plätze | 55 | 128.99 |
-| 8 | `hof_pflaster` | Höfe | 12.962 | 128.99–128.106 |
+| 8 | `hof_pflaster` | Höfe | 12.953 | 128.99–128.106 |
 | 9 | `ufer_bruestung` | Brüstung der Lungarni | 74 | 128.106 |
 | 10 | `mauern_garten` | Gartenmauern | 5 | 128.106 |
 
@@ -117,14 +117,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 128.3 – Böschung und Mantel – Teil 3/10 (Y 53–55)
 
 - **Y-Bereich:** 53 bis 55
-- **Blöcke:** 1.657
+- **Blöcke:** 1.708
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.013 |
+| Stein | `stone` | 1.064 |
 | Polierter Andesit | `polished_andesite` | 644 |
 
 **Beschreibung**
@@ -146,14 +146,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 128.4 – Böschung und Mantel – Teil 4/10 (Y 56–58)
 
 - **Y-Bereich:** 56 bis 58
-- **Blöcke:** 1.612
+- **Blöcke:** 1.683
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.235 |
+| Stein | `stone` | 1.306 |
 | Polierter Andesit | `polished_andesite` | 377 |
 
 **Beschreibung**
@@ -175,14 +175,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 128.5 – Böschung und Mantel – Teil 5/10 (Y 59–61)
 
 - **Y-Bereich:** 59 bis 61
-- **Blöcke:** 1.728
+- **Blöcke:** 1.799
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.587 |
+| Stein | `stone` | 1.658 |
 | Polierter Andesit | `polished_andesite` | 141 |
 
 **Beschreibung**
@@ -204,14 +204,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 128.6 – Böschung und Mantel – Teil 6/10 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.070
+- **Blöcke:** 2.056
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.070 |
+| Stein | `stone` | 2.056 |
 
 **Beschreibung**
 
@@ -232,14 +232,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 128.7 – Böschung und Mantel – Teil 7/10 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.100
+- **Blöcke:** 1.125
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.100 |
+| Stein | `stone` | 1.125 |
 
 **Beschreibung**
 
@@ -260,14 +260,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 128.8 – Böschung und Mantel – Teil 8/10 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.109
+- **Blöcke:** 1.133
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.109 |
+| Stein | `stone` | 1.133 |
 
 **Beschreibung**
 
@@ -288,14 +288,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 128.9 – Böschung und Mantel – Teil 9/10 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.279
+- **Blöcke:** 1.292
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.279 |
+| Stein | `stone` | 1.292 |
 
 **Beschreibung**
 
@@ -316,14 +316,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 128.10 – Böschung und Mantel – Teil 10/10 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
-- **Blöcke:** 1.724
+- **Blöcke:** 1.690
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.724 |
+| Stein | `stone` | 1.690 |
 
 **Beschreibung**
 
@@ -2752,14 +2752,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 128.97 – Gehwege
 
 - **Y-Bereich:** 52 bis 66
-- **Blöcke:** 2.050
+- **Blöcke:** 2.057
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.050 |
+| Glatter Stein | `smooth_stone` | 2.057 |
 
 **Beschreibung**
 
@@ -3013,14 +3013,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 128.106 – Höfe – Teil 8/8 (Y 58–67) & Brüstung der Lungarni & Gartenmauern
 
 - **Y-Bereich:** 56 bis 67
-- **Blöcke:** 1.638
+- **Blöcke:** 1.629
 - **Bauteile:** `hof_pflaster`, `ufer_bruestung`, `mauern_garten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.559 |
+| Polierter Tuffstein | `polished_tuff` | 1.550 |
 | Glatter Stein | `smooth_stone` | 75 |
 | Steinziegel | `stone_bricks` | 4 |
 

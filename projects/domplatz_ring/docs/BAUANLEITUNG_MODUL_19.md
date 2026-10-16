@@ -8,25 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 91.286 |
+| Blöcke | 91.340 |
 | Bauschritte | 55 |
 | Y-Bereich | 65 bis 109 |
 | X-Ausdehnung | 151 bis 244 (94 Blöcke) |
 | Z-Ausdehnung | 121 bis 258 (138 Blöcke) |
 | Kleinster Schritt | 755 Blöcke (Schritt 19.48) |
-| Mittlerer Schritt | 1.660 Blöcke |
+| Mittlerer Schritt | 1.661 Blöcke |
 | Größter Schritt | 2.086 Blöcke (Schritt 19.22) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 28.695 | 31,4 % |
+| Terrakotta | `terracotta` | 28.693 | 31,4 % |
 | Endsteinziegel | `end_stone_bricks` | 12.195 | 13,4 % |
 | Weißer Beton | `white_concrete` | 10.769 | 11,8 % |
 | Rosa Keramik | `pink_terracotta` | 9.097 | 10,0 % |
-| Polierter Tuffstein | `polished_tuff` | 8.189 | 9,0 % |
-| Orange Keramik | `orange_terracotta` | 7.384 | 8,1 % |
+| Polierter Tuffstein | `polished_tuff` | 8.188 | 9,0 % |
+| Orange Keramik | `orange_terracotta` | 7.438 | 8,1 % |
 | Tuffstein | `tuff` | 3.321 | 3,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.268 | 3,6 % |
 | Glatter Stein | `smooth_stone` | 2.464 | 2,7 % |
@@ -37,7 +37,7 @@
 | Grüner Beton | `green_concrete` | 415 | 0,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 358 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 275 | 0,3 % |
-| Seelaterne | `sea_lantern` | 189 | 0,2 % |
+| Seelaterne | `sea_lantern` | 192 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 130 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 115 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 109 | 0,1 % |
@@ -70,11 +70,11 @@
 | 6 | `w482814879_innen` | Reihenhaus an Via del Proconsolo: Innenausbau | 3.614 | 19.23–19.25 |
 | 7 | `w482814880` | Reihenhaus an Via dell'Oriuolo | 9.011 | 19.26–19.30 |
 | 8 | `w482814880_innen` | Reihenhaus an Via dell'Oriuolo: Innenausbau | 2.362 | 19.31–19.32 |
-| 9 | `w482814881` | Reihenhaus an Via del Proconsolo | 5.497 | 19.33–19.35 |
-| 10 | `w482814881_innen` | Reihenhaus an Via del Proconsolo: Innenausbau | 1.986 | 19.36 |
+| 9 | `w482814881` | Reihenhaus an Via del Proconsolo | 5.542 | 19.33–19.35 |
+| 10 | `w482814881_innen` | Reihenhaus an Via del Proconsolo: Innenausbau | 1.987 | 19.36 |
 | 11 | `w482814896` | Reihenhaus an Piazza di Santa Maria in Campo | 9.881 | 19.37–19.41 |
 | 12 | `w482814896_innen` | Reihenhaus an Piazza di Santa Maria in Campo: Innenausbau | 2.748 | 19.42–19.43 |
-| 13 | `w482814914` | Haus w482814914 | 7.391 | 19.44–19.47 |
+| 13 | `w482814914` | Haus w482814914 | 7.399 | 19.44–19.47 |
 | 14 | `w482814914_innen` | Haus w482814914: Innenausbau | 2.135 | 19.48–19.49 |
 | 15 | `w482814915` | Renaissance-Palazzo an Via dell'Oriuolo | 8.679 | 19.50–19.54 |
 | 16 | `w482814915_innen` | Renaissance-Palazzo an Via dell'Oriuolo: Innenausbau | 1.837 | 19.55 |
@@ -82,9 +82,9 @@
 
 ## Bauschritte
 
-### Schritt 19.1 – Haus r7109833 – Teil 1/9 (Y 66–66)
+### Schritt 19.1 – Haus r7109833 – Teil 1/9 (Y 67–67)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.745
 - **Bauteile:** `r7109833`
 
@@ -110,9 +110,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.2 – Haus r7109833 – Teil 2/9 (Y 67–70)
+### Schritt 19.2 – Haus r7109833 – Teil 2/9 (Y 68–71)
 
-- **Y-Bereich:** 67 bis 70
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 1.229
 - **Bauteile:** `r7109833`
 
@@ -144,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.3 – Haus r7109833 – Teil 3/9 (Y 71–75)
+### Schritt 19.3 – Haus r7109833 – Teil 3/9 (Y 72–76)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.545
 - **Bauteile:** `r7109833`
 
@@ -178,9 +178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.4 – Haus r7109833 – Teil 4/9 (Y 76–80)
+### Schritt 19.4 – Haus r7109833 – Teil 4/9 (Y 77–81)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.587
 - **Bauteile:** `r7109833`
 
@@ -212,9 +212,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.5 – Haus r7109833 – Teil 5/9 (Y 81–85)
+### Schritt 19.5 – Haus r7109833 – Teil 5/9 (Y 82–86)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 82 bis 86
 - **Blöcke:** 1.573
 - **Bauteile:** `r7109833`
 
@@ -244,9 +244,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.6 – Haus r7109833 – Teil 6/9 (Y 86–90)
+### Schritt 19.6 – Haus r7109833 – Teil 6/9 (Y 87–91)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 87 bis 91
 - **Blöcke:** 1.587
 - **Bauteile:** `r7109833`
 
@@ -277,9 +277,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.7 – Haus r7109833 – Teil 7/9 (Y 91–94)
+### Schritt 19.7 – Haus r7109833 – Teil 7/9 (Y 92–95)
 
-- **Y-Bereich:** 91 bis 94
+- **Y-Bereich:** 92 bis 95
 - **Blöcke:** 1.250
 - **Bauteile:** `r7109833`
 
@@ -309,9 +309,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.8 – Haus r7109833 – Teil 8/9 (Y 95–97)
+### Schritt 19.8 – Haus r7109833 – Teil 8/9 (Y 96–98)
 
-- **Y-Bereich:** 95 bis 97
+- **Y-Bereich:** 96 bis 98
 - **Blöcke:** 1.873
 - **Bauteile:** `r7109833`
 
@@ -341,9 +341,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.9 – Haus r7109833 – Teil 9/9 (Y 98–102)
+### Schritt 19.9 – Haus r7109833 – Teil 9/9 (Y 99–103)
 
-- **Y-Bereich:** 98 bis 102
+- **Y-Bereich:** 99 bis 103
 - **Blöcke:** 1.334
 - **Bauteile:** `r7109833`
 
@@ -370,9 +370,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.10 – Haus r7109833: Innenausbau – Teil 1/2 (Y 66–76)
+### Schritt 19.10 – Haus r7109833: Innenausbau – Teil 1/2 (Y 67–77)
 
-- **Y-Bereich:** 66 bis 76
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.483
 - **Bauteile:** `r7109833_innen`
 
@@ -412,9 +412,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.11 – Haus r7109833: Innenausbau – Teil 2/2 (Y 77–87)
+### Schritt 19.11 – Haus r7109833: Innenausbau – Teil 2/2 (Y 78–88)
 
-- **Y-Bereich:** 77 bis 87
+- **Y-Bereich:** 78 bis 88
 - **Blöcke:** 1.488
 - **Bauteile:** `r7109833_innen`
 
@@ -461,14 +461,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 19.12 – Reihenhaus an Via del Proconsolo – Teil 1/3 (Y 65–77)
 
 - **Y-Bereich:** 65 bis 77
-- **Blöcke:** 1.508
+- **Blöcke:** 1.534
 - **Bauteile:** `w306984418`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 997 |
+| Gelbe Keramik | `yellow_terracotta` | 1.023 |
 | Polierter Tuffstein | `polished_tuff` | 476 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Weißer Beton | `white_concrete` | 8 |
@@ -525,14 +525,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 19.14 – Reihenhaus an Via del Proconsolo – Teil 3/3 (Y 95–107)
 
 - **Y-Bereich:** 95 bis 107
-- **Blöcke:** 1.521
+- **Blöcke:** 1.495
 - **Bauteile:** `w306984418`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 852 |
+| Gelbe Keramik | `yellow_terracotta` | 826 |
 | Terrakotta | `terracotta` | 603 |
 | Ziegelsteine | `bricks` | 40 |
 | Weißer Beton | `white_concrete` | 14 |
@@ -1170,21 +1170,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.33 – Reihenhaus an Via del Proconsolo – Teil 1/3 (Y 66–73)
+### Schritt 19.33 – Reihenhaus an Via del Proconsolo – Teil 1/3 (Y 66–72)
 
-- **Y-Bereich:** 66 bis 73
-- **Blöcke:** 1.889
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 1.804
 - **Bauteile:** `w482814881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.075 |
-| Orange Keramik | `orange_terracotta` | 640 |
-| Weißer Beton | `white_concrete` | 108 |
+| Polierter Tuffstein | `polished_tuff` | 1.074 |
+| Orange Keramik | `orange_terracotta` | 592 |
+| Weißer Beton | `white_concrete` | 78 |
 | Graues Buntglas | `gray_stained_glass` | 47 |
-| Glatter Stein | `smooth_stone` | 19 |
+| Glatter Stein | `smooth_stone` | 13 |
 
 **Beschreibung**
 
@@ -1202,19 +1202,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.34 – Reihenhaus an Via del Proconsolo – Teil 2/3 (Y 74–87)
+### Schritt 19.34 – Reihenhaus an Via del Proconsolo – Teil 2/3 (Y 73–87)
 
-- **Y-Bereich:** 74 bis 87
-- **Blöcke:** 1.730
+- **Y-Bereich:** 73 bis 87
+- **Blöcke:** 1.860
 - **Bauteile:** `w482814881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.324 |
-| Weißer Beton | `white_concrete` | 292 |
+| Orange Keramik | `orange_terracotta` | 1.418 |
+| Weißer Beton | `white_concrete` | 322 |
 | Graues Buntglas | `gray_stained_glass` | 114 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -1266,18 +1267,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 19.36 – Reihenhaus an Via del Proconsolo: Innenausbau
 
 - **Y-Bereich:** 66 bis 83
-- **Blöcke:** 1.986
+- **Blöcke:** 1.987
 - **Bauteile:** `w482814881_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.874 |
+| Terrakotta | `terracotta` | 1.872 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 47 |
+| Seelaterne | `sea_lantern` | 18 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 17 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 17 |
-| Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
@@ -1544,14 +1545,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 19.44 – Haus w482814914 – Teil 1/4 (Y 66–72)
 
 - **Y-Bereich:** 66 bis 72
-- **Blöcke:** 1.900
+- **Blöcke:** 1.908
 - **Bauteile:** `w482814914`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 969 |
+| Orange Keramik | `orange_terracotta` | 977 |
 | Polierter Tuffstein | `polished_tuff` | 853 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Grüner Beton | `green_concrete` | 30 |

@@ -8,43 +8,43 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 532.802 |
+| Blöcke | 532.980 |
 | Bauschritte | 328 |
 | Y-Bereich | 59 bis 104 |
 | X-Ausdehnung | -441 bis -107 (335 Blöcke) |
 | Z-Ausdehnung | -1350 bis -956 (395 Blöcke) |
 | Kleinster Schritt | 333 Blöcke (Schritt 17.127) |
-| Mittlerer Schritt | 1.624 Blöcke |
+| Mittlerer Schritt | 1.625 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 17.61) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 157.487 | 29,6 % |
+| Terrakotta | `terracotta` | 157.495 | 29,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 63.333 | 11,9 % |
 | Weißer Beton | `white_concrete` | 57.401 | 10,8 % |
-| Polierter Tuffstein | `polished_tuff` | 46.578 | 8,7 % |
+| Polierter Tuffstein | `polished_tuff` | 46.579 | 8,7 % |
 | Endsteinziegel | `end_stone_bricks` | 44.521 | 8,4 % |
 | Orange Keramik | `orange_terracotta` | 38.804 | 7,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 35.601 | 6,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 24.803 | 4,7 % |
-| Rosa Keramik | `pink_terracotta` | 22.555 | 4,2 % |
+| Rosa Keramik | `pink_terracotta` | 22.551 | 4,2 % |
 | Graues Buntglas | `gray_stained_glass` | 10.673 | 2,0 % |
 | Glatter Stein | `smooth_stone` | 6.413 | 1,2 % |
 | Polierter Andesit | `polished_andesite` | 5.376 | 1,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 4.034 | 0,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 3.751 | 0,7 % |
+| Fichtenholz-Bretter | `spruce_planks` | 3.755 | 0,7 % |
 | Grüner Beton | `green_concrete` | 3.471 | 0,7 % |
 | Ziegelsteine | `bricks` | 2.129 | 0,4 % |
-| Tuffstein | `tuff` | 1.275 | 0,2 % |
-| Seelaterne | `sea_lantern` | 1.017 | 0,2 % |
+| Tuffstein | `tuff` | 1.446 | 0,3 % |
+| Seelaterne | `sea_lantern` | 1.013 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 888 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 832 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 655 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 617 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 158 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 158 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 159 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 159 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 60 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 60 | 0,0 % |
@@ -194,8 +194,8 @@
 | 124 | `w518974250_innen` | Reihenhaus an Via Ventisette Aprile: Innenausbau | 1.980 | 17.295 |
 | 125 | `w518974251` | Haus w518974251 | 1.588 | 17.296 |
 | 126 | `w518974251_innen` | Haus w518974251: Innenausbau | 1 | 17.297 |
-| 127 | `w518974252` | Reihenhaus an Via Guelfa | 3.432 | 17.297–17.298 |
-| 128 | `w518974252_innen` | Reihenhaus an Via Guelfa: Innenausbau | 2.328 | 17.299–17.300 |
+| 127 | `w518974252` | Reihenhaus an Via Guelfa | 3.609 | 17.297–17.298 |
+| 128 | `w518974252_innen` | Reihenhaus an Via Guelfa: Innenausbau | 2.329 | 17.299–17.300 |
 | 129 | `w518974253` | Reihenhaus an Via San Zanobi | 2.389 | 17.301–17.302 |
 | 130 | `w518974253_innen` | Reihenhaus an Via San Zanobi: Innenausbau | 1.177 | 17.303 |
 | 131 | `w518974254` | Reihenhaus an Via Santa Reparata | 3.103 | 17.304–17.305 |
@@ -10171,20 +10171,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.297 – Haus w518974251: Innenausbau & Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–79)
+### Schritt 17.297 – Haus w518974251: Innenausbau & Reihenhaus an Via Guelfa – Teil 1/2 (Y 64–83)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.711
+- **Y-Bereich:** 64 bis 83
+- **Blöcke:** 1.809
 - **Bauteile:** `w518974251_innen`, `w518974252`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 854 |
-| Polierter Tuffstein | `polished_tuff` | 788 |
-| Grüner Beton | `green_concrete` | 27 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
+| Polierter Tuffstein | `polished_tuff` | 789 |
+| Rosa Keramik | `pink_terracotta` | 769 |
+| Tuffstein | `tuff` | 171 |
+| Grüner Beton | `green_concrete` | 33 |
+| Graues Buntglas | `gray_stained_glass` | 29 |
 | Glatter Stein | `smooth_stone` | 15 |
 | Polierter Andesit | `polished_andesite` | 2 |
 | Seelaterne | `sea_lantern` | 1 |
@@ -10205,21 +10206,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.298 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 80–98)
+### Schritt 17.298 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 84–100)
 
-- **Y-Bereich:** 80 bis 98
-- **Blöcke:** 1.722
+- **Y-Bereich:** 84 bis 100
+- **Blöcke:** 1.801
 - **Bauteile:** `w518974252`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 972 |
-| Rosa Keramik | `pink_terracotta` | 594 |
-| Fichtenholz-Bretter | `spruce_planks` | 58 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
-| Grüner Beton | `green_concrete` | 36 |
+| Terrakotta | `terracotta` | 977 |
+| Rosa Keramik | `pink_terracotta` | 675 |
+| Fichtenholz-Bretter | `spruce_planks` | 62 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
+| Grüner Beton | `green_concrete` | 30 |
 | Ziegelsteine | `bricks` | 22 |
 
 **Beschreibung**
@@ -10238,21 +10239,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.299 – Reihenhaus an Via Guelfa: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 17.299 – Reihenhaus an Via Guelfa: Innenausbau – Teil 1/2 (Y 65–80)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 816
+- **Y-Bereich:** 65 bis 80
+- **Blöcke:** 817
 - **Bauteile:** `w518974252_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 730 |
+| Terrakotta | `terracotta` | 731 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 10 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -10276,9 +10279,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 17.300 – Reihenhaus an Via Guelfa: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 17.300 – Reihenhaus an Via Guelfa: Innenausbau – Teil 2/2 (Y 81–88)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.512
 - **Bauteile:** `w518974252_innen`
 
@@ -10286,10 +10289,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.460 |
+| Terrakotta | `terracotta` | 1.462 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |

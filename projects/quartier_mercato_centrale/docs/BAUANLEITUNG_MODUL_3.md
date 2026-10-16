@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 393.208 |
-| Bauschritte | 245 |
+| Blöcke | 393.274 |
+| Bauschritte | 246 |
 | Y-Bereich | 56 bis 103 |
 | X-Ausdehnung | -1148 bis -888 (261 Blöcke) |
 | Z-Ausdehnung | -1158 bis -688 (471 Blöcke) |
 | Kleinster Schritt | 49 Blöcke (Schritt 3.204) |
-| Mittlerer Schritt | 1.605 Blöcke |
+| Mittlerer Schritt | 1.599 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 3.9) |
 
 ## Gesamt-Stückliste
@@ -27,7 +27,7 @@
 | Glatter Sandstein | `smooth_sandstone` | 33.371 | 8,5 % |
 | Weißer Beton | `white_concrete` | 32.257 | 8,2 % |
 | Rosa Keramik | `pink_terracotta` | 32.126 | 8,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 26.523 | 6,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 26.597 | 6,8 % |
 | Orange Keramik | `orange_terracotta` | 13.990 | 3,6 % |
 | Endsteinziegel | `end_stone_bricks` | 9.079 | 2,3 % |
 | Graues Buntglas | `gray_stained_glass` | 8.347 | 2,1 % |
@@ -39,12 +39,12 @@
 | Tuffstein | `tuff` | 1.637 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.599 | 0,4 % |
 | Seelaterne | `sea_lantern` | 760 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 464 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 428 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 338 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 316 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 189 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 189 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 439 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 405 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 363 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 339 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 185 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 185 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 64 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 56 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 32 | 0,0 % |
@@ -128,15 +128,15 @@
 | 62 | `w491602606_innen` | Reihenhaus an Via Bernardo Cennini: Innenausbau | 1.458 | 3.224 |
 | 63 | `w491602608` | Reihenhaus an Via Bernardo Cennini | 2.870 | 3.225–3.226 |
 | 64 | `w491602608_innen` | Reihenhaus an Via Bernardo Cennini: Innenausbau | 1.100 | 3.227 |
-| 65 | `w491602609` | Reihenhaus an Via Bernardo Cennini | 8.234 | 3.228–3.231 |
-| 66 | `w491602609_innen` | Reihenhaus an Via Bernardo Cennini: Innenausbau | 3.597 | 3.232–3.234 |
-| 67 | `w491602610` | Reihenhaus an Via Faenza | 3.391 | 3.235–3.236 |
-| 68 | `w491602610_innen` | Reihenhaus an Via Faenza: Innenausbau | 1.376 | 3.237 |
-| 69 | `w491602612` | Reihenhaus an Via Bernardo Cennini | 5.143 | 3.238–3.240 |
-| 70 | `w491602612_innen` | Reihenhaus an Via Bernardo Cennini: Innenausbau | 1.423 | 3.241 |
-| 71 | `w491602613` | Reihenhaus an Via Nazionale | 6.137 | 3.242–3.244 |
-| 72 | `w491602613_innen` | Reihenhaus an Via Nazionale: Innenausbau | 1.940 | 3.245 |
-| 73 | `strassenschilder` | Straßenschilder | 7 | 3.245 |
+| 65 | `w491602609` | Reihenhaus an Via Bernardo Cennini | 8.308 | 3.228–3.232 |
+| 66 | `w491602609_innen` | Reihenhaus an Via Bernardo Cennini: Innenausbau | 3.589 | 3.233–3.235 |
+| 67 | `w491602610` | Reihenhaus an Via Faenza | 3.391 | 3.236–3.237 |
+| 68 | `w491602610_innen` | Reihenhaus an Via Faenza: Innenausbau | 1.376 | 3.238 |
+| 69 | `w491602612` | Reihenhaus an Via Bernardo Cennini | 5.143 | 3.239–3.241 |
+| 70 | `w491602612_innen` | Reihenhaus an Via Bernardo Cennini: Innenausbau | 1.423 | 3.242 |
+| 71 | `w491602613` | Reihenhaus an Via Nazionale | 6.137 | 3.243–3.245 |
+| 72 | `w491602613_innen` | Reihenhaus an Via Nazionale: Innenausbau | 1.940 | 3.246 |
+| 73 | `strassenschilder` | Straßenschilder | 7 | 3.246 |
 
 ## Bauschritte
 
@@ -7626,10 +7626,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.228 – Reihenhaus an Via Bernardo Cennini – Teil 1/4 (Y 61–65)
+### Schritt 3.228 – Reihenhaus an Via Bernardo Cennini – Teil 1/5 (Y 62–64)
 
-- **Y-Bereich:** 61 bis 65
-- **Blöcke:** 2.019
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.663
 - **Bauteile:** `w491602609`
 
 **Teileliste**
@@ -7637,10 +7637,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.331 |
-| Hellgrauer Beton | `light_gray_concrete` | 569 |
-| Glatter Stein | `smooth_stone` | 83 |
-| Graues Buntglas | `gray_stained_glass` | 34 |
-| Grüner Beton | `green_concrete` | 2 |
+| Hellgrauer Beton | `light_gray_concrete` | 306 |
+| Glatter Stein | `smooth_stone` | 14 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**
 
@@ -7658,19 +7657,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.229 – Reihenhaus an Via Bernardo Cennini – Teil 2/4 (Y 66–77)
+### Schritt 3.229 – Reihenhaus an Via Bernardo Cennini – Teil 2/5 (Y 65–74)
 
-- **Y-Bereich:** 66 bis 77
-- **Blöcke:** 2.069
+- **Y-Bereich:** 65 bis 74
+- **Blöcke:** 1.717
 - **Bauteile:** `w491602609`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.667 |
-| Glatter Stein | `smooth_stone` | 288 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.348 |
+| Glatter Stein | `smooth_stone` | 267 |
+| Graues Buntglas | `gray_stained_glass` | 92 |
 | Grüner Beton | `green_concrete` | 10 |
 
 **Beschreibung**
@@ -7689,20 +7688,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.230 – Reihenhaus an Via Bernardo Cennini – Teil 3/4 (Y 78–89)
+### Schritt 3.230 – Reihenhaus an Via Bernardo Cennini – Teil 3/5 (Y 75–83)
 
-- **Y-Bereich:** 78 bis 89
-- **Blöcke:** 2.052
+- **Y-Bereich:** 75 bis 83
+- **Blöcke:** 1.533
 - **Bauteile:** `w491602609`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.554 |
-| Glatter Stein | `smooth_stone` | 346 |
-| Graues Buntglas | `gray_stained_glass` | 140 |
-| Grüner Beton | `green_concrete` | 12 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.178 |
+| Glatter Stein | `smooth_stone` | 243 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
+| Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
 
@@ -7720,10 +7719,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.231 – Reihenhaus an Via Bernardo Cennini – Teil 4/4 (Y 90–97)
+### Schritt 3.231 – Reihenhaus an Via Bernardo Cennini – Teil 4/5 (Y 84–92)
 
-- **Y-Bereich:** 90 bis 97
-- **Blöcke:** 2.094
+- **Y-Bereich:** 84 bis 92
+- **Blöcke:** 1.657
+- **Bauteile:** `w491602609`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.348 |
+| Glatter Stein | `smooth_stone` | 233 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Grüner Beton | `green_concrete` | 6 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.232 – Reihenhaus an Via Bernardo Cennini – Teil 5/5 (Y 93–98)
+
+- **Y-Bereich:** 93 bis 98
+- **Blöcke:** 1.738
 - **Bauteile:** `w491602609`
 
 **Teileliste**
@@ -7731,9 +7761,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.652 |
-| Hellgrauer Beton | `light_gray_concrete` | 316 |
 | Ziegelsteine | `bricks` | 86 |
-| Glatter Stein | `smooth_stone` | 40 |
 
 **Beschreibung**
 
@@ -7751,9 +7779,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.232 – Reihenhaus an Via Bernardo Cennini: Innenausbau – Teil 1/3 (Y 61–70)
+### Schritt 3.233 – Reihenhaus an Via Bernardo Cennini: Innenausbau – Teil 1/3 (Y 62–71)
 
-- **Y-Bereich:** 61 bis 70
+- **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.206
 - **Bauteile:** `w491602609_innen`
 
@@ -7764,8 +7792,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.145 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 27 |
 | Seelaterne | `sea_lantern` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -7789,9 +7817,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.233 – Reihenhaus an Via Bernardo Cennini: Innenausbau – Teil 2/3 (Y 71–77)
+### Schritt 3.234 – Reihenhaus an Via Bernardo Cennini: Innenausbau – Teil 2/3 (Y 72–78)
 
-- **Y-Bereich:** 71 bis 77
+- **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.193
 - **Bauteile:** `w491602609_innen`
 
@@ -7801,9 +7829,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.145 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 | Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 
@@ -7829,10 +7857,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.234 – Reihenhaus an Via Bernardo Cennini: Innenausbau – Teil 3/3 (Y 78–85)
+### Schritt 3.235 – Reihenhaus an Via Bernardo Cennini: Innenausbau – Teil 3/3 (Y 79–86)
 
-- **Y-Bereich:** 78 bis 85
-- **Blöcke:** 1.198
+- **Y-Bereich:** 79 bis 86
+- **Blöcke:** 1.190
 - **Bauteile:** `w491602609_innen`
 
 **Teileliste**
@@ -7841,11 +7869,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.145 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -7869,7 +7895,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.235 – Reihenhaus an Via Faenza – Teil 1/2 (Y 60–77)
+### Schritt 3.236 – Reihenhaus an Via Faenza – Teil 1/2 (Y 60–77)
 
 - **Y-Bereich:** 60 bis 77
 - **Blöcke:** 1.724
@@ -7903,7 +7929,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.236 – Reihenhaus an Via Faenza – Teil 2/2 (Y 78–96)
+### Schritt 3.237 – Reihenhaus an Via Faenza – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 1.667
@@ -7937,7 +7963,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.237 – Reihenhaus an Via Faenza: Innenausbau
+### Schritt 3.238 – Reihenhaus an Via Faenza: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.376
@@ -7979,7 +8005,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.238 – Reihenhaus an Via Bernardo Cennini – Teil 1/3 (Y 61–71)
+### Schritt 3.239 – Reihenhaus an Via Bernardo Cennini – Teil 1/3 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.774
@@ -8011,7 +8037,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.239 – Reihenhaus an Via Bernardo Cennini – Teil 2/3 (Y 72–85)
+### Schritt 3.240 – Reihenhaus an Via Bernardo Cennini – Teil 2/3 (Y 72–85)
 
 - **Y-Bereich:** 72 bis 85
 - **Blöcke:** 1.702
@@ -8041,7 +8067,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.240 – Reihenhaus an Via Bernardo Cennini – Teil 3/3 (Y 86–96)
+### Schritt 3.241 – Reihenhaus an Via Bernardo Cennini – Teil 3/3 (Y 86–96)
 
 - **Y-Bereich:** 86 bis 96
 - **Blöcke:** 1.667
@@ -8074,7 +8100,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.241 – Reihenhaus an Via Bernardo Cennini: Innenausbau
+### Schritt 3.242 – Reihenhaus an Via Bernardo Cennini: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.423
@@ -8114,7 +8140,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.242 – Reihenhaus an Via Nazionale – Teil 1/3 (Y 61–70)
+### Schritt 3.243 – Reihenhaus an Via Nazionale – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 2.036
@@ -8146,7 +8172,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.243 – Reihenhaus an Via Nazionale – Teil 2/3 (Y 71–84)
+### Schritt 3.244 – Reihenhaus an Via Nazionale – Teil 2/3 (Y 71–84)
 
 - **Y-Bereich:** 71 bis 84
 - **Blöcke:** 2.004
@@ -8176,7 +8202,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.244 – Reihenhaus an Via Nazionale – Teil 3/3 (Y 85–97)
+### Schritt 3.245 – Reihenhaus an Via Nazionale – Teil 3/3 (Y 85–97)
 
 - **Y-Bereich:** 85 bis 97
 - **Blöcke:** 2.097
@@ -8208,7 +8234,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.245 – Reihenhaus an Via Nazionale: Innenausbau & Straßenschilder
+### Schritt 3.246 – Reihenhaus an Via Nazionale: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.947

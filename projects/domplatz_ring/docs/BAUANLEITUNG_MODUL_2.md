@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 146.323 |
+| Blöcke | 146.355 |
 | Bauschritte | 90 |
 | Y-Bereich | 64 bis 117 |
 | X-Ausdehnung | -387 bis -256 (132 Blöcke) |
@@ -26,7 +26,7 @@
 | Endsteinziegel | `end_stone_bricks` | 17.410 | 11,9 % |
 | Polierter Tuffstein | `polished_tuff` | 14.241 | 9,7 % |
 | Tuffstein | `tuff` | 8.781 | 6,0 % |
-| Weißer Beton | `white_concrete` | 8.455 | 5,8 % |
+| Weißer Beton | `white_concrete` | 8.487 | 5,8 % |
 | Glatter Stein | `smooth_stone` | 4.313 | 2,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.632 | 2,5 % |
 | Graues Buntglas | `gray_stained_glass` | 3.268 | 2,2 % |
@@ -86,7 +86,7 @@
 | 20 | `w491923451_innen` | Reihenhaus an Via Roma: Innenausbau | 4.593 | 2.80–2.83 |
 | 21 | `w491923452` | Reihenhaus an Via dei Calzaiuoli | 5.934 | 2.84–2.86 |
 | 22 | `w491923452_innen` | Reihenhaus an Via dei Calzaiuoli: Innenausbau | 2.079 | 2.87 |
-| 23 | `w491923453` | Reihenhaus an Piazza degli Adimari | 3.217 | 2.88–2.89 |
+| 23 | `w491923453` | Reihenhaus an Piazza degli Adimari | 3.249 | 2.88–2.89 |
 | 24 | `w491923453_innen` | Reihenhaus an Piazza degli Adimari: Innenausbau | 1.503 | 2.90 |
 | 25 | `strassenschilder` | Straßenschilder | 24 | 2.90 |
 
@@ -3038,17 +3038,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.88 – Reihenhaus an Piazza degli Adimari – Teil 1/2 (Y 64–96)
+### Schritt 2.88 – Reihenhaus an Piazza degli Adimari – Teil 1/2 (Y 65–97)
 
-- **Y-Bereich:** 64 bis 96
-- **Blöcke:** 1.636
+- **Y-Bereich:** 65 bis 97
+- **Blöcke:** 1.634
 - **Bauteile:** `w491923453`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.040 |
+| Weißer Beton | `white_concrete` | 1.038 |
 | Polierter Tuffstein | `polished_tuff` | 375 |
 | Hellgrauer Beton | `light_gray_concrete` | 110 |
 | Graues Buntglas | `gray_stained_glass` | 71 |
@@ -3071,17 +3071,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.89 – Reihenhaus an Piazza degli Adimari – Teil 2/2 (Y 97–113)
+### Schritt 2.89 – Reihenhaus an Piazza degli Adimari – Teil 2/2 (Y 98–114)
 
-- **Y-Bereich:** 97 bis 113
-- **Blöcke:** 1.581
+- **Y-Bereich:** 98 bis 114
+- **Blöcke:** 1.615
 - **Bauteile:** `w491923453`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 958 |
+| Weißer Beton | `white_concrete` | 992 |
 | Terrakotta | `terracotta` | 496 |
 | Fichtenholz-Bretter | `spruce_planks` | 52 |
 | Hellgrauer Beton | `light_gray_concrete` | 40 |
@@ -3107,7 +3107,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.90 – Reihenhaus an Piazza degli Adimari: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 64 bis 100
+- **Y-Bereich:** 65 bis 101
 - **Blöcke:** 1.527
 - **Bauteile:** `w491923453_innen`, `strassenschilder`
 

@@ -8,42 +8,42 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 330.241 |
-| Bauschritte | 198 |
+| Blöcke | 330.502 |
+| Bauschritte | 199 |
 | Y-Bereich | 60 bis 104 |
 | X-Ausdehnung | 1323 bis 1667 (345 Blöcke) |
 | Z-Ausdehnung | -21 bis 274 (296 Blöcke) |
-| Kleinster Schritt | 483 Blöcke (Schritt 33.149) |
-| Mittlerer Schritt | 1.668 Blöcke |
+| Kleinster Schritt | 483 Blöcke (Schritt 33.150) |
+| Mittlerer Schritt | 1.661 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 33.95) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 97.352 | 29,5 % |
-| Rosa Keramik | `pink_terracotta` | 36.295 | 11,0 % |
+| Terrakotta | `terracotta` | 97.355 | 29,5 % |
+| Rosa Keramik | `pink_terracotta` | 36.374 | 11,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 31.464 | 9,5 % |
-| Polierter Tuffstein | `polished_tuff` | 30.961 | 9,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 26.125 | 7,9 % |
+| Polierter Tuffstein | `polished_tuff` | 30.962 | 9,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 26.192 | 7,9 % |
 | Orange Keramik | `orange_terracotta` | 21.812 | 6,6 % |
 | Weißer Beton | `white_concrete` | 20.636 | 6,2 % |
 | Endsteinziegel | `end_stone_bricks` | 16.906 | 5,1 % |
-| Tuffstein | `tuff` | 10.128 | 3,1 % |
+| Tuffstein | `tuff` | 10.237 | 3,1 % |
 | Polierter Andesit | `polished_andesite` | 9.351 | 2,8 % |
 | Glatter Stein | `smooth_stone` | 8.600 | 2,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.764 | 2,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.764 | 2,3 % |
 | Graues Buntglas | `gray_stained_glass` | 5.147 | 1,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.812 | 0,5 % |
 | Ziegelsteine | `bricks` | 1.568 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 857 | 0,3 % |
-| Seelaterne | `sea_lantern` | 601 | 0,2 % |
+| Seelaterne | `sea_lantern` | 597 | 0,2 % |
 | Grüner Beton | `green_concrete` | 591 | 0,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 490 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 399 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 375 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 302 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 286 | 0,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 496 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 398 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 374 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 303 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 287 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 94 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 90 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 75 | 0,0 % |
@@ -90,44 +90,44 @@
 | 24 | `w478935966_innen` | Palazzo des Cinquecento an Via Luigi Carlo Farini: Innenausbau | 1.436 | 33.89 |
 | 25 | `w478935967` | Haus w478935967 | 9.053 | 33.90–33.94 |
 | 26 | `w478935967_innen` | Haus w478935967: Innenausbau | 2.095 | 33.95 |
-| 27 | `w478935969` | Reihenhaus an Via dei Pilastri | 9.940 | 33.96–33.100 |
-| 28 | `w478935969_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.454 | 33.101 |
-| 29 | `w478935971` | Reihenhaus an Via Luigi Carlo Farini | 8.664 | 33.102–33.106 |
-| 30 | `w478935971_innen` | Reihenhaus an Via Luigi Carlo Farini: Innenausbau | 2.848 | 33.107–33.108 |
-| 31 | `w478935973` | Haus w478935973 | 4.124 | 33.109–33.110 |
-| 32 | `w478935973_innen` | Haus w478935973: Innenausbau | 970 | 33.111 |
-| 33 | `w478935975` | Reihenhaus an Via dei Pilastri | 8.021 | 33.112–33.115 |
-| 34 | `w478935975_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 4 | 33.116 |
-| 35 | `w478935977` | Reihenhaus an Via dei Pilastri | 9.163 | 33.116–33.120 |
-| 36 | `w478935977_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.756 | 33.121 |
-| 37 | `w478935978` | Haus w478935978 | 3.907 | 33.122–33.123 |
-| 38 | `w478935978_innen` | Haus w478935978: Innenausbau | 719 | 33.124 |
-| 39 | `w478935981` | Reihenhaus an Via dei Pilastri | 4.450 | 33.125–33.127 |
-| 40 | `w478935981_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.952 | 33.128 |
-| 41 | `w478935982` | Reihenhaus an Via dei Pilastri | 6.127 | 33.129–33.132 |
-| 42 | `w478935982_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.457 | 33.133 |
-| 43 | `w478935983` | Reihenhaus an Via dei Pilastri | 9.083 | 33.134–33.139 |
-| 44 | `w478935983_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 6.127 | 33.140–33.142 |
-| 45 | `w478935984` | Reihenhaus an Via dei Pilastri | 6.987 | 33.143–33.146 |
-| 46 | `w478935984_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.946 | 33.147 |
-| 47 | `w478935985` | Haus w478935985 | 1.382 | 33.148 |
-| 48 | `w478935985_innen` | Haus w478935985: Innenausbau | 483 | 33.149 |
-| 49 | `w478935986` | Haus w478935986 | 4.298 | 33.150–33.152 |
-| 50 | `w478935986_innen` | Haus w478935986: Innenausbau | 982 | 33.153 |
-| 51 | `w478935987` | Reihenhaus an Via dei Pilastri | 6.189 | 33.154–33.156 |
-| 52 | `w478935987_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.523 | 33.157 |
-| 53 | `w478935990` | Reihenhaus an Via dei Pilastri | 4.678 | 33.158–33.160 |
-| 54 | `w478935990_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 2.420 | 33.161–33.162 |
-| 55 | `w478935991` | Reihenhaus an Via dei Pilastri | 7.692 | 33.163–33.166 |
-| 56 | `w478935991_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 2.610 | 33.167–33.168 |
-| 57 | `w478935992` | Reihenhaus an Via dei Pilastri | 8.879 | 33.169–33.173 |
-| 58 | `w478935992_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.490 | 33.174 |
-| 59 | `w478935993` | Reihenhaus an Via dei Pilastri | 2.469 | 33.175–33.176 |
-| 60 | `w478935993_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.408 | 33.177 |
-| 61 | `w478935994` | Reihenhaus an Via dei Pilastri | 3.751 | 33.178–33.179 |
-| 62 | `w478935994_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.975 | 33.180 |
-| 63 | `w478935995` | Kleine Kirche an Via Giosuè Carducci | 23.701 | 33.181–33.194 |
-| 64 | `w478935995_innen` | Kleine Kirche an Via Giosuè Carducci: Innenausbau | 5.913 | 33.195–33.198 |
+| 27 | `w478935969` | Reihenhaus an Via dei Pilastri | 10.049 | 33.96–33.101 |
+| 28 | `w478935969_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.454 | 33.102 |
+| 29 | `w478935971` | Reihenhaus an Via Luigi Carlo Farini | 8.664 | 33.103–33.107 |
+| 30 | `w478935971_innen` | Reihenhaus an Via Luigi Carlo Farini: Innenausbau | 2.848 | 33.108–33.109 |
+| 31 | `w478935973` | Haus w478935973 | 4.124 | 33.110–33.111 |
+| 32 | `w478935973_innen` | Haus w478935973: Innenausbau | 970 | 33.112 |
+| 33 | `w478935975` | Reihenhaus an Via dei Pilastri | 8.021 | 33.113–33.116 |
+| 34 | `w478935975_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 4 | 33.117 |
+| 35 | `w478935977` | Reihenhaus an Via dei Pilastri | 9.163 | 33.117–33.121 |
+| 36 | `w478935977_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.756 | 33.122 |
+| 37 | `w478935978` | Haus w478935978 | 3.907 | 33.123–33.124 |
+| 38 | `w478935978_innen` | Haus w478935978: Innenausbau | 719 | 33.125 |
+| 39 | `w478935981` | Reihenhaus an Via dei Pilastri | 4.518 | 33.126–33.128 |
+| 40 | `w478935981_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.951 | 33.129 |
+| 41 | `w478935982` | Reihenhaus an Via dei Pilastri | 6.127 | 33.130–33.133 |
+| 42 | `w478935982_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.457 | 33.134 |
+| 43 | `w478935983` | Reihenhaus an Via dei Pilastri | 9.083 | 33.135–33.140 |
+| 44 | `w478935983_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 6.127 | 33.141–33.143 |
+| 45 | `w478935984` | Reihenhaus an Via dei Pilastri | 6.987 | 33.144–33.147 |
+| 46 | `w478935984_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.946 | 33.148 |
+| 47 | `w478935985` | Haus w478935985 | 1.382 | 33.149 |
+| 48 | `w478935985_innen` | Haus w478935985: Innenausbau | 483 | 33.150 |
+| 49 | `w478935986` | Haus w478935986 | 4.298 | 33.151–33.153 |
+| 50 | `w478935986_innen` | Haus w478935986: Innenausbau | 982 | 33.154 |
+| 51 | `w478935987` | Reihenhaus an Via dei Pilastri | 6.189 | 33.155–33.157 |
+| 52 | `w478935987_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.523 | 33.158 |
+| 53 | `w478935990` | Reihenhaus an Via dei Pilastri | 4.678 | 33.159–33.161 |
+| 54 | `w478935990_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 2.420 | 33.162–33.163 |
+| 55 | `w478935991` | Reihenhaus an Via dei Pilastri | 7.777 | 33.164–33.167 |
+| 56 | `w478935991_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 2.610 | 33.168–33.169 |
+| 57 | `w478935992` | Reihenhaus an Via dei Pilastri | 8.879 | 33.170–33.174 |
+| 58 | `w478935992_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.490 | 33.175 |
+| 59 | `w478935993` | Reihenhaus an Via dei Pilastri | 2.469 | 33.176–33.177 |
+| 60 | `w478935993_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.408 | 33.178 |
+| 61 | `w478935994` | Reihenhaus an Via dei Pilastri | 3.751 | 33.179–33.180 |
+| 62 | `w478935994_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.975 | 33.181 |
+| 63 | `w478935995` | Kleine Kirche an Via Giosuè Carducci | 23.701 | 33.182–33.195 |
+| 64 | `w478935995_innen` | Kleine Kirche an Via Giosuè Carducci: Innenausbau | 5.913 | 33.196–33.199 |
 
 ## Bauschritte
 
@@ -3259,19 +3259,48 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.96 – Reihenhaus an Via dei Pilastri – Teil 1/5 (Y 64–69)
+### Schritt 33.96 – Reihenhaus an Via dei Pilastri – Teil 1/6 (Y 64–68)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 2.061
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.629
 - **Bauteile:** `w478935969`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.341 |
+| Glatter Sandstein | `smooth_sandstone` | 816 |
 | Polierter Tuffstein | `polished_tuff` | 704 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
+| Tuffstein | `tuff` | 109 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.97 – Reihenhaus an Via dei Pilastri – Teil 2/6 (Y 69–74)
+
+- **Y-Bereich:** 69 bis 74
+- **Blöcke:** 1.659
+- **Bauteile:** `w478935969`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.635 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
@@ -3290,46 +3319,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.97 – Reihenhaus an Via dei Pilastri – Teil 2/5 (Y 70–76)
+### Schritt 33.98 – Reihenhaus an Via dei Pilastri – Teil 3/6 (Y 75–80)
 
-- **Y-Bereich:** 70 bis 76
-- **Blöcke:** 1.947
+- **Y-Bereich:** 75 bis 80
+- **Blöcke:** 1.658
 - **Bauteile:** `w478935969`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.919 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 33.98 – Reihenhaus an Via dei Pilastri – Teil 3/5 (Y 77–83)
-
-- **Y-Bereich:** 77 bis 83
-- **Blöcke:** 1.939
-- **Bauteile:** `w478935969`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.899 |
+| Glatter Sandstein | `smooth_sandstone` | 1.618 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
@@ -3348,17 +3348,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.99 – Reihenhaus an Via dei Pilastri – Teil 4/5 (Y 84–90)
+### Schritt 33.99 – Reihenhaus an Via dei Pilastri – Teil 4/6 (Y 81–86)
 
-- **Y-Bereich:** 84 bis 90
-- **Blöcke:** 1.939
+- **Y-Bereich:** 81 bis 86
+- **Blöcke:** 1.658
 - **Bauteile:** `w478935969`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.899 |
+| Glatter Sandstein | `smooth_sandstone` | 1.618 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
@@ -3377,20 +3377,49 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.100 – Reihenhaus an Via dei Pilastri – Teil 5/5 (Y 91–96)
+### Schritt 33.100 – Reihenhaus an Via dei Pilastri – Teil 5/6 (Y 87–92)
 
-- **Y-Bereich:** 91 bis 96
-- **Blöcke:** 2.054
+- **Y-Bereich:** 87 bis 92
+- **Blöcke:** 1.665
 - **Bauteile:** `w478935969`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.090 |
+| Glatter Sandstein | `smooth_sandstone` | 1.635 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.101 – Reihenhaus an Via dei Pilastri – Teil 6/6 (Y 93–97)
+
+- **Y-Bereich:** 93 bis 97
+- **Blöcke:** 1.780
+- **Bauteile:** `w478935969`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 852 |
+| Glatter Sandstein | `smooth_sandstone` | 826 |
 | Fichtenholz-Bretter | `spruce_planks` | 92 |
-| Graues Buntglas | `gray_stained_glass` | 20 |
+| Graues Buntglas | `gray_stained_glass` | 10 |
 
 **Beschreibung**
 
@@ -3408,9 +3437,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.101 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.102 – Reihenhaus an Via dei Pilastri: Innenausbau
 
-- **Y-Bereich:** 64 bis 88
+- **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.454
 - **Bauteile:** `w478935969_innen`
 
@@ -3448,7 +3477,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.102 – Reihenhaus an Via Luigi Carlo Farini – Teil 1/5 (Y 64–67)
+### Schritt 33.103 – Reihenhaus an Via Luigi Carlo Farini – Teil 1/5 (Y 64–67)
 
 - **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.661
@@ -3480,7 +3509,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.103 – Reihenhaus an Via Luigi Carlo Farini – Teil 2/5 (Y 68–77)
+### Schritt 33.104 – Reihenhaus an Via Luigi Carlo Farini – Teil 2/5 (Y 68–77)
 
 - **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.889
@@ -3511,7 +3540,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.104 – Reihenhaus an Via Luigi Carlo Farini – Teil 3/5 (Y 78–85)
+### Schritt 33.105 – Reihenhaus an Via Luigi Carlo Farini – Teil 3/5 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.657
@@ -3541,7 +3570,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.105 – Reihenhaus an Via Luigi Carlo Farini – Teil 4/5 (Y 86–93)
+### Schritt 33.106 – Reihenhaus an Via Luigi Carlo Farini – Teil 4/5 (Y 86–93)
 
 - **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.777
@@ -3571,7 +3600,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.106 – Reihenhaus an Via Luigi Carlo Farini – Teil 5/5 (Y 94–103)
+### Schritt 33.107 – Reihenhaus an Via Luigi Carlo Farini – Teil 5/5 (Y 94–103)
 
 - **Y-Bereich:** 94 bis 103
 - **Blöcke:** 1.680
@@ -3601,7 +3630,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.107 – Reihenhaus an Via Luigi Carlo Farini: Innenausbau – Teil 1/2 (Y 64–79)
+### Schritt 33.108 – Reihenhaus an Via Luigi Carlo Farini: Innenausbau – Teil 1/2 (Y 64–79)
 
 - **Y-Bereich:** 64 bis 79
 - **Blöcke:** 1.003
@@ -3643,7 +3672,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.108 – Reihenhaus an Via Luigi Carlo Farini: Innenausbau – Teil 2/2 (Y 80–88)
+### Schritt 33.109 – Reihenhaus an Via Luigi Carlo Farini: Innenausbau – Teil 2/2 (Y 80–88)
 
 - **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.845
@@ -3685,7 +3714,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.109 – Haus w478935973 – Teil 1/2 (Y 65–81)
+### Schritt 33.110 – Haus w478935973 – Teil 1/2 (Y 65–81)
 
 - **Y-Bereich:** 65 bis 81
 - **Blöcke:** 2.039
@@ -3717,7 +3746,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.110 – Haus w478935973 – Teil 2/2 (Y 82–100)
+### Schritt 33.111 – Haus w478935973 – Teil 2/2 (Y 82–100)
 
 - **Y-Bereich:** 82 bis 100
 - **Blöcke:** 2.085
@@ -3750,7 +3779,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.111 – Haus w478935973: Innenausbau
+### Schritt 33.112 – Haus w478935973: Innenausbau
 
 - **Y-Bereich:** 65 bis 88
 - **Blöcke:** 970
@@ -3790,7 +3819,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.112 – Reihenhaus an Via dei Pilastri – Teil 1/4 (Y 64–70)
+### Schritt 33.113 – Reihenhaus an Via dei Pilastri – Teil 1/4 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.950
@@ -3822,7 +3851,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.113 – Reihenhaus an Via dei Pilastri – Teil 2/4 (Y 71–79)
+### Schritt 33.114 – Reihenhaus an Via dei Pilastri – Teil 2/4 (Y 71–79)
 
 - **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.999
@@ -3852,7 +3881,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.114 – Reihenhaus an Via dei Pilastri – Teil 3/4 (Y 80–88)
+### Schritt 33.115 – Reihenhaus an Via dei Pilastri – Teil 3/4 (Y 80–88)
 
 - **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.999
@@ -3882,7 +3911,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.115 – Reihenhaus an Via dei Pilastri – Teil 4/4 (Y 89–96)
+### Schritt 33.116 – Reihenhaus an Via dei Pilastri – Teil 4/4 (Y 89–96)
 
 - **Y-Bereich:** 89 bis 96
 - **Blöcke:** 2.073
@@ -3913,7 +3942,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.116 – Reihenhaus an Via dei Pilastri: Innenausbau & Reihenhaus an Via dei Pilastri – Teil 1/5 (Y 64–68)
+### Schritt 33.117 – Reihenhaus an Via dei Pilastri: Innenausbau & Reihenhaus an Via dei Pilastri – Teil 1/5 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.750
@@ -3946,7 +3975,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.117 – Reihenhaus an Via dei Pilastri – Teil 2/5 (Y 69–76)
+### Schritt 33.118 – Reihenhaus an Via dei Pilastri – Teil 2/5 (Y 69–76)
 
 - **Y-Bereich:** 69 bis 76
 - **Blöcke:** 1.954
@@ -3977,7 +4006,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.118 – Reihenhaus an Via dei Pilastri – Teil 3/5 (Y 77–83)
+### Schritt 33.119 – Reihenhaus an Via dei Pilastri – Teil 3/5 (Y 77–83)
 
 - **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.709
@@ -4007,7 +4036,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.119 – Reihenhaus an Via dei Pilastri – Teil 4/5 (Y 84–91)
+### Schritt 33.120 – Reihenhaus an Via dei Pilastri – Teil 4/5 (Y 84–91)
 
 - **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.952
@@ -4037,7 +4066,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.120 – Reihenhaus an Via dei Pilastri – Teil 5/5 (Y 92–98)
+### Schritt 33.121 – Reihenhaus an Via dei Pilastri – Teil 5/5 (Y 92–98)
 
 - **Y-Bereich:** 92 bis 98
 - **Blöcke:** 1.802
@@ -4068,7 +4097,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.121 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.122 – Reihenhaus an Via dei Pilastri: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.756
@@ -4108,7 +4137,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.122 – Haus w478935978 – Teil 1/2 (Y 64–80)
+### Schritt 33.123 – Haus w478935978 – Teil 1/2 (Y 64–80)
 
 - **Y-Bereich:** 64 bis 80
 - **Blöcke:** 1.950
@@ -4139,7 +4168,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.123 – Haus w478935978 – Teil 2/2 (Y 81–98)
+### Schritt 33.124 – Haus w478935978 – Teil 2/2 (Y 81–98)
 
 - **Y-Bereich:** 81 bis 98
 - **Blöcke:** 1.957
@@ -4172,7 +4201,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.124 – Haus w478935978: Innenausbau
+### Schritt 33.125 – Haus w478935978: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
 - **Blöcke:** 719
@@ -4214,18 +4243,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.125 – Reihenhaus an Via dei Pilastri – Teil 1/3 (Y 64–72)
+### Schritt 33.126 – Reihenhaus an Via dei Pilastri – Teil 1/3 (Y 64–72)
 
 - **Y-Bereich:** 64 bis 72
-- **Blöcke:** 1.463
+- **Blöcke:** 1.531
 - **Bauteile:** `w478935981`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 732 |
-| Polierter Tuffstein | `polished_tuff` | 706 |
+| Gelbe Keramik | `yellow_terracotta` | 799 |
+| Polierter Tuffstein | `polished_tuff` | 707 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
 
@@ -4245,7 +4274,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.126 – Reihenhaus an Via dei Pilastri – Teil 2/3 (Y 73–87)
+### Schritt 33.127 – Reihenhaus an Via dei Pilastri – Teil 2/3 (Y 73–87)
 
 - **Y-Bereich:** 73 bis 87
 - **Blöcke:** 1.462
@@ -4274,7 +4303,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.127 – Reihenhaus an Via dei Pilastri – Teil 3/3 (Y 88–99)
+### Schritt 33.128 – Reihenhaus an Via dei Pilastri – Teil 3/3 (Y 88–99)
 
 - **Y-Bereich:** 88 bis 99
 - **Blöcke:** 1.525
@@ -4305,21 +4334,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.128 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.129 – Reihenhaus an Via dei Pilastri: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
-- **Blöcke:** 1.952
+- **Blöcke:** 1.951
 - **Bauteile:** `w478935981_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.800 |
+| Terrakotta | `terracotta` | 1.803 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
-| Seelaterne | `sea_lantern` | 20 |
+| Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 5 |
 | Weiße Keramik | `white_terracotta` | 5 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
@@ -4347,7 +4376,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.129 – Reihenhaus an Via dei Pilastri – Teil 1/4 (Y 64–70)
+### Schritt 33.130 – Reihenhaus an Via dei Pilastri – Teil 1/4 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.538
@@ -4378,7 +4407,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.130 – Reihenhaus an Via dei Pilastri – Teil 2/4 (Y 71–79)
+### Schritt 33.131 – Reihenhaus an Via dei Pilastri – Teil 2/4 (Y 71–79)
 
 - **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.473
@@ -4408,7 +4437,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.131 – Reihenhaus an Via dei Pilastri – Teil 3/4 (Y 80–89)
+### Schritt 33.132 – Reihenhaus an Via dei Pilastri – Teil 3/4 (Y 80–89)
 
 - **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.638
@@ -4438,7 +4467,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.132 – Reihenhaus an Via dei Pilastri – Teil 4/4 (Y 90–99)
+### Schritt 33.133 – Reihenhaus an Via dei Pilastri – Teil 4/4 (Y 90–99)
 
 - **Y-Bereich:** 90 bis 99
 - **Blöcke:** 1.478
@@ -4470,7 +4499,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.133 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.134 – Reihenhaus an Via dei Pilastri: Innenausbau
 
 - **Y-Bereich:** 64 bis 87
 - **Blöcke:** 1.457
@@ -4510,7 +4539,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.134 – Reihenhaus an Via dei Pilastri – Teil 1/6 (Y 64–64)
+### Schritt 33.135 – Reihenhaus an Via dei Pilastri – Teil 1/6 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.083
@@ -4538,7 +4567,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.135 – Reihenhaus an Via dei Pilastri – Teil 2/6 (Y 64–71)
+### Schritt 33.136 – Reihenhaus an Via dei Pilastri – Teil 2/6 (Y 64–71)
 
 - **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.929
@@ -4569,7 +4598,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.136 – Reihenhaus an Via dei Pilastri – Teil 3/6 (Y 72–82)
+### Schritt 33.137 – Reihenhaus an Via dei Pilastri – Teil 3/6 (Y 72–82)
 
 - **Y-Bereich:** 72 bis 82
 - **Blöcke:** 1.462
@@ -4599,7 +4628,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.137 – Reihenhaus an Via dei Pilastri – Teil 4/6 (Y 83–92)
+### Schritt 33.138 – Reihenhaus an Via dei Pilastri – Teil 4/6 (Y 83–92)
 
 - **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.565
@@ -4629,7 +4658,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.138 – Reihenhaus an Via dei Pilastri – Teil 5/6 (Y 93–96)
+### Schritt 33.139 – Reihenhaus an Via dei Pilastri – Teil 5/6 (Y 93–96)
 
 - **Y-Bereich:** 93 bis 96
 - **Blöcke:** 1.712
@@ -4659,7 +4688,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.139 – Reihenhaus an Via dei Pilastri – Teil 6/6 (Y 97–102)
+### Schritt 33.140 – Reihenhaus an Via dei Pilastri – Teil 6/6 (Y 97–102)
 
 - **Y-Bereich:** 97 bis 102
 - **Blöcke:** 1.332
@@ -4688,7 +4717,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.140 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 1/3 (Y 64–73)
+### Schritt 33.141 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 1/3 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
 - **Blöcke:** 2.058
@@ -4726,7 +4755,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.141 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 2/3 (Y 74–80)
+### Schritt 33.142 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 2/3 (Y 74–80)
 
 - **Y-Bereich:** 74 bis 80
 - **Blöcke:** 2.045
@@ -4766,7 +4795,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.142 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 3/3 (Y 81–88)
+### Schritt 33.143 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 3/3 (Y 81–88)
 
 - **Y-Bereich:** 81 bis 88
 - **Blöcke:** 2.024
@@ -4806,7 +4835,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.143 – Reihenhaus an Via dei Pilastri – Teil 1/4 (Y 64–70)
+### Schritt 33.144 – Reihenhaus an Via dei Pilastri – Teil 1/4 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.813
@@ -4838,7 +4867,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.144 – Reihenhaus an Via dei Pilastri – Teil 2/4 (Y 71–80)
+### Schritt 33.145 – Reihenhaus an Via dei Pilastri – Teil 2/4 (Y 71–80)
 
 - **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.748
@@ -4869,7 +4898,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.145 – Reihenhaus an Via dei Pilastri – Teil 3/4 (Y 81–90)
+### Schritt 33.146 – Reihenhaus an Via dei Pilastri – Teil 3/4 (Y 81–90)
 
 - **Y-Bereich:** 81 bis 90
 - **Blöcke:** 1.745
@@ -4899,7 +4928,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.146 – Reihenhaus an Via dei Pilastri – Teil 4/4 (Y 91–99)
+### Schritt 33.147 – Reihenhaus an Via dei Pilastri – Teil 4/4 (Y 91–99)
 
 - **Y-Bereich:** 91 bis 99
 - **Blöcke:** 1.681
@@ -4931,7 +4960,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.147 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.148 – Reihenhaus an Via dei Pilastri: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.946
@@ -4973,7 +5002,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.148 – Haus w478935985
+### Schritt 33.149 – Haus w478935985
 
 - **Y-Bereich:** 64 bis 98
 - **Blöcke:** 1.382
@@ -5007,7 +5036,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.149 – Haus w478935985: Innenausbau
+### Schritt 33.150 – Haus w478935985: Innenausbau
 
 - **Y-Bereich:** 64 bis 87
 - **Blöcke:** 483
@@ -5045,7 +5074,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.150 – Haus w478935986 – Teil 1/3 (Y 65–74)
+### Schritt 33.151 – Haus w478935986 – Teil 1/3 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.388
@@ -5076,7 +5105,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.151 – Haus w478935986 – Teil 2/3 (Y 75–87)
+### Schritt 33.152 – Haus w478935986 – Teil 2/3 (Y 75–87)
 
 - **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.437
@@ -5106,7 +5135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.152 – Haus w478935986 – Teil 3/3 (Y 88–101)
+### Schritt 33.153 – Haus w478935986 – Teil 3/3 (Y 88–101)
 
 - **Y-Bereich:** 88 bis 101
 - **Blöcke:** 1.473
@@ -5138,7 +5167,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.153 – Haus w478935986: Innenausbau
+### Schritt 33.154 – Haus w478935986: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 982
@@ -5176,7 +5205,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.154 – Reihenhaus an Via dei Pilastri – Teil 1/3 (Y 63–72)
+### Schritt 33.155 – Reihenhaus an Via dei Pilastri – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 2.053
@@ -5209,7 +5238,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.155 – Reihenhaus an Via dei Pilastri – Teil 2/3 (Y 73–85)
+### Schritt 33.156 – Reihenhaus an Via dei Pilastri – Teil 2/3 (Y 73–85)
 
 - **Y-Bereich:** 73 bis 85
 - **Blöcke:** 2.050
@@ -5239,7 +5268,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.156 – Reihenhaus an Via dei Pilastri – Teil 3/3 (Y 86–99)
+### Schritt 33.157 – Reihenhaus an Via dei Pilastri – Teil 3/3 (Y 86–99)
 
 - **Y-Bereich:** 86 bis 99
 - **Blöcke:** 2.086
@@ -5271,7 +5300,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.157 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.158 – Reihenhaus an Via dei Pilastri: Innenausbau
 
 - **Y-Bereich:** 63 bis 86
 - **Blöcke:** 1.523
@@ -5309,7 +5338,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.158 – Reihenhaus an Via dei Pilastri – Teil 1/3 (Y 63–70)
+### Schritt 33.159 – Reihenhaus an Via dei Pilastri – Teil 1/3 (Y 63–70)
 
 - **Y-Bereich:** 63 bis 70
 - **Blöcke:** 1.545
@@ -5341,7 +5370,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.159 – Reihenhaus an Via dei Pilastri – Teil 2/3 (Y 71–88)
+### Schritt 33.160 – Reihenhaus an Via dei Pilastri – Teil 2/3 (Y 71–88)
 
 - **Y-Bereich:** 71 bis 88
 - **Blöcke:** 1.611
@@ -5371,7 +5400,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.160 – Reihenhaus an Via dei Pilastri – Teil 3/3 (Y 89–98)
+### Schritt 33.161 – Reihenhaus an Via dei Pilastri – Teil 3/3 (Y 89–98)
 
 - **Y-Bereich:** 89 bis 98
 - **Blöcke:** 1.522
@@ -5403,7 +5432,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.161 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 33.162 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 1/2 (Y 63–78)
 
 - **Y-Bereich:** 63 bis 78
 - **Blöcke:** 848
@@ -5443,7 +5472,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.162 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 33.163 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 2/2 (Y 79–87)
 
 - **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.572
@@ -5483,10 +5512,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.163 – Reihenhaus an Via dei Pilastri – Teil 1/4 (Y 64–69)
+### Schritt 33.164 – Reihenhaus an Via dei Pilastri – Teil 1/4 (Y 64–69)
 
 - **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.892
+- **Blöcke:** 1.971
 - **Bauteile:** `w478935991`
 
 **Teileliste**
@@ -5494,7 +5523,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.001 |
-| Rosa Keramik | `pink_terracotta` | 862 |
+| Rosa Keramik | `pink_terracotta` | 941 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 10 |
 
@@ -5514,7 +5543,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.164 – Reihenhaus an Via dei Pilastri – Teil 2/4 (Y 70–80)
+### Schritt 33.165 – Reihenhaus an Via dei Pilastri – Teil 2/4 (Y 70–80)
 
 - **Y-Bereich:** 70 bis 80
 - **Blöcke:** 1.944
@@ -5543,7 +5572,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.165 – Reihenhaus an Via dei Pilastri – Teil 3/4 (Y 81–91)
+### Schritt 33.166 – Reihenhaus an Via dei Pilastri – Teil 3/4 (Y 81–91)
 
 - **Y-Bereich:** 81 bis 91
 - **Blöcke:** 1.937
@@ -5572,10 +5601,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.166 – Reihenhaus an Via dei Pilastri – Teil 4/4 (Y 92–98)
+### Schritt 33.167 – Reihenhaus an Via dei Pilastri – Teil 4/4 (Y 92–98)
 
 - **Y-Bereich:** 92 bis 98
-- **Blöcke:** 1.919
+- **Blöcke:** 1.925
 - **Bauteile:** `w478935991`
 
 **Teileliste**
@@ -5584,7 +5613,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.251 |
 | Rosa Keramik | `pink_terracotta` | 525 |
-| Fichtenholz-Bretter | `spruce_planks` | 81 |
+| Fichtenholz-Bretter | `spruce_planks` | 87 |
 | Ziegelsteine | `bricks` | 56 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
 
@@ -5604,7 +5633,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.167 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 1/2 (Y 64–79)
+### Schritt 33.168 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 1/2 (Y 64–79)
 
 - **Y-Bereich:** 64 bis 79
 - **Blöcke:** 912
@@ -5646,7 +5675,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.168 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 2/2 (Y 80–88)
+### Schritt 33.169 – Reihenhaus an Via dei Pilastri: Innenausbau – Teil 2/2 (Y 80–88)
 
 - **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.698
@@ -5659,10 +5688,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Terrakotta | `terracotta` | 1.630 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Seelaterne | `sea_lantern` | 14 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 11 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -5686,7 +5717,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.169 – Reihenhaus an Via dei Pilastri – Teil 1/5 (Y 63–68)
+### Schritt 33.170 – Reihenhaus an Via dei Pilastri – Teil 1/5 (Y 63–68)
 
 - **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.875
@@ -5718,7 +5749,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.170 – Reihenhaus an Via dei Pilastri – Teil 2/5 (Y 69–75)
+### Schritt 33.171 – Reihenhaus an Via dei Pilastri – Teil 2/5 (Y 69–75)
 
 - **Y-Bereich:** 69 bis 75
 - **Blöcke:** 1.698
@@ -5749,7 +5780,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.171 – Reihenhaus an Via dei Pilastri – Teil 3/5 (Y 76–82)
+### Schritt 33.172 – Reihenhaus an Via dei Pilastri – Teil 3/5 (Y 76–82)
 
 - **Y-Bereich:** 76 bis 82
 - **Blöcke:** 1.697
@@ -5779,7 +5810,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.172 – Reihenhaus an Via dei Pilastri – Teil 4/5 (Y 83–90)
+### Schritt 33.173 – Reihenhaus an Via dei Pilastri – Teil 4/5 (Y 83–90)
 
 - **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.942
@@ -5809,7 +5840,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.173 – Reihenhaus an Via dei Pilastri – Teil 5/5 (Y 91–98)
+### Schritt 33.174 – Reihenhaus an Via dei Pilastri – Teil 5/5 (Y 91–98)
 
 - **Y-Bereich:** 91 bis 98
 - **Blöcke:** 1.667
@@ -5840,7 +5871,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.174 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.175 – Reihenhaus an Via dei Pilastri: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.490
@@ -5880,7 +5911,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.175 – Reihenhaus an Via dei Pilastri – Teil 1/2 (Y 64–81)
+### Schritt 33.176 – Reihenhaus an Via dei Pilastri – Teil 1/2 (Y 64–81)
 
 - **Y-Bereich:** 64 bis 81
 - **Blöcke:** 1.213
@@ -5911,7 +5942,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.176 – Reihenhaus an Via dei Pilastri – Teil 2/2 (Y 82–98)
+### Schritt 33.177 – Reihenhaus an Via dei Pilastri – Teil 2/2 (Y 82–98)
 
 - **Y-Bereich:** 82 bis 98
 - **Blöcke:** 1.256
@@ -5943,7 +5974,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.177 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.178 – Reihenhaus an Via dei Pilastri: Innenausbau
 
 - **Y-Bereich:** 64 bis 87
 - **Blöcke:** 1.408
@@ -5981,7 +6012,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.178 – Reihenhaus an Via dei Pilastri – Teil 1/2 (Y 64–81)
+### Schritt 33.179 – Reihenhaus an Via dei Pilastri – Teil 1/2 (Y 64–81)
 
 - **Y-Bereich:** 64 bis 81
 - **Blöcke:** 1.876
@@ -6013,7 +6044,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.179 – Reihenhaus an Via dei Pilastri – Teil 2/2 (Y 82–99)
+### Schritt 33.180 – Reihenhaus an Via dei Pilastri – Teil 2/2 (Y 82–99)
 
 - **Y-Bereich:** 82 bis 99
 - **Blöcke:** 1.875
@@ -6046,7 +6077,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.180 – Reihenhaus an Via dei Pilastri: Innenausbau
+### Schritt 33.181 – Reihenhaus an Via dei Pilastri: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.975
@@ -6084,7 +6115,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.181 – Kleine Kirche an Via Giosuè Carducci – Teil 1/14 (Y 60–63)
+### Schritt 33.182 – Kleine Kirche an Via Giosuè Carducci – Teil 1/14 (Y 60–63)
 
 - **Y-Bereich:** 60 bis 63
 - **Blöcke:** 660
@@ -6112,7 +6143,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.182 – Kleine Kirche an Via Giosuè Carducci – Teil 2/14 (Y 64–64)
+### Schritt 33.183 – Kleine Kirche an Via Giosuè Carducci – Teil 2/14 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.670
@@ -6140,7 +6171,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.183 – Kleine Kirche an Via Giosuè Carducci – Teil 3/14 (Y 64–64)
+### Schritt 33.184 – Kleine Kirche an Via Giosuè Carducci – Teil 3/14 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.718
@@ -6168,7 +6199,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.184 – Kleine Kirche an Via Giosuè Carducci – Teil 4/14 (Y 65–68)
+### Schritt 33.185 – Kleine Kirche an Via Giosuè Carducci – Teil 4/14 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.971
@@ -6198,7 +6229,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.185 – Kleine Kirche an Via Giosuè Carducci – Teil 5/14 (Y 69–72)
+### Schritt 33.186 – Kleine Kirche an Via Giosuè Carducci – Teil 5/14 (Y 69–72)
 
 - **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.860
@@ -6228,7 +6259,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.186 – Kleine Kirche an Via Giosuè Carducci – Teil 6/14 (Y 73–76)
+### Schritt 33.187 – Kleine Kirche an Via Giosuè Carducci – Teil 6/14 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.990
@@ -6258,7 +6289,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.187 – Kleine Kirche an Via Giosuè Carducci – Teil 7/14 (Y 77–80)
+### Schritt 33.188 – Kleine Kirche an Via Giosuè Carducci – Teil 7/14 (Y 77–80)
 
 - **Y-Bereich:** 77 bis 80
 - **Blöcke:** 2.034
@@ -6287,7 +6318,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.188 – Kleine Kirche an Via Giosuè Carducci – Teil 8/14 (Y 81–84)
+### Schritt 33.189 – Kleine Kirche an Via Giosuè Carducci – Teil 8/14 (Y 81–84)
 
 - **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.848
@@ -6317,7 +6348,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.189 – Kleine Kirche an Via Giosuè Carducci – Teil 9/14 (Y 85–87)
+### Schritt 33.190 – Kleine Kirche an Via Giosuè Carducci – Teil 9/14 (Y 85–87)
 
 - **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.460
@@ -6347,7 +6378,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.190 – Kleine Kirche an Via Giosuè Carducci – Teil 10/14 (Y 88–91)
+### Schritt 33.191 – Kleine Kirche an Via Giosuè Carducci – Teil 10/14 (Y 88–91)
 
 - **Y-Bereich:** 88 bis 91
 - **Blöcke:** 1.923
@@ -6377,7 +6408,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.191 – Kleine Kirche an Via Giosuè Carducci – Teil 11/14 (Y 92–94)
+### Schritt 33.192 – Kleine Kirche an Via Giosuè Carducci – Teil 11/14 (Y 92–94)
 
 - **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.902
@@ -6407,7 +6438,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.192 – Kleine Kirche an Via Giosuè Carducci – Teil 12/14 (Y 95–95)
+### Schritt 33.193 – Kleine Kirche an Via Giosuè Carducci – Teil 12/14 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.369
@@ -6435,7 +6466,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.193 – Kleine Kirche an Via Giosuè Carducci – Teil 13/14 (Y 96–97)
+### Schritt 33.194 – Kleine Kirche an Via Giosuè Carducci – Teil 13/14 (Y 96–97)
 
 - **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.521
@@ -6463,7 +6494,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.194 – Kleine Kirche an Via Giosuè Carducci – Teil 14/14 (Y 98–103)
+### Schritt 33.195 – Kleine Kirche an Via Giosuè Carducci – Teil 14/14 (Y 98–103)
 
 - **Y-Bereich:** 98 bis 103
 - **Blöcke:** 1.775
@@ -6492,7 +6523,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.195 – Kleine Kirche an Via Giosuè Carducci: Innenausbau – Teil 1/4 (Y 64–78)
+### Schritt 33.196 – Kleine Kirche an Via Giosuè Carducci: Innenausbau – Teil 1/4 (Y 64–78)
 
 - **Y-Bereich:** 64 bis 78
 - **Blöcke:** 1.543
@@ -6530,7 +6561,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.196 – Kleine Kirche an Via Giosuè Carducci: Innenausbau – Teil 2/4 (Y 78–78)
+### Schritt 33.197 – Kleine Kirche an Via Giosuè Carducci: Innenausbau – Teil 2/4 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.432
@@ -6566,7 +6597,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.197 – Kleine Kirche an Via Giosuè Carducci: Innenausbau – Teil 3/4 (Y 79–86)
+### Schritt 33.198 – Kleine Kirche an Via Giosuè Carducci: Innenausbau – Teil 3/4 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.506
@@ -6608,7 +6639,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.198 – Kleine Kirche an Via Giosuè Carducci: Innenausbau – Teil 4/4 (Y 86–86)
+### Schritt 33.199 – Kleine Kirche an Via Giosuè Carducci: Innenausbau – Teil 4/4 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.432

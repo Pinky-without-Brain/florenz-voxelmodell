@@ -8,48 +8,50 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 603.444 |
-| Bauschritte | 367 |
+| Blöcke | 603.090 |
+| Bauschritte | 365 |
 | Y-Bereich | 57 bis 102 |
 | X-Ausdehnung | -1684 bis -1245 (440 Blöcke) |
 | Z-Ausdehnung | 995 bis 1509 (515 Blöcke) |
 | Kleinster Schritt | 36 Blöcke (Schritt 0.70) |
-| Mittlerer Schritt | 1.644 Blöcke |
+| Mittlerer Schritt | 1.652 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 0.81) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 224.658 | 37,2 % |
-| Polierter Tuffstein | `polished_tuff` | 69.885 | 11,6 % |
+| Terrakotta | `terracotta` | 224.008 | 37,1 % |
+| Polierter Tuffstein | `polished_tuff` | 69.864 | 11,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 68.668 | 11,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 63.123 | 10,5 % |
 | Rosa Keramik | `pink_terracotta` | 28.147 | 4,7 % |
-| Tuffstein | `tuff` | 24.900 | 4,1 % |
+| Tuffstein | `tuff` | 25.256 | 4,2 % |
 | Glatter Stein | `smooth_stone` | 21.941 | 3,6 % |
 | Weißer Beton | `white_concrete` | 20.580 | 3,4 % |
 | Polierter Andesit | `polished_andesite` | 20.015 | 3,3 % |
-| Endsteinziegel | `end_stone_bricks` | 19.680 | 3,3 % |
+| Endsteinziegel | `end_stone_bricks` | 19.679 | 3,3 % |
 | Graues Buntglas | `gray_stained_glass` | 12.910 | 2,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 8.243 | 1,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 8.320 | 1,4 % |
 | Orange Keramik | `orange_terracotta` | 6.377 | 1,1 % |
 | Ziegelsteine | `bricks` | 3.966 | 0,7 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.831 | 0,5 % |
 | Grüner Beton | `green_concrete` | 1.984 | 0,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.286 | 0,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.193 | 0,2 % |
-| Seelaterne | `sea_lantern` | 1.127 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 270 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 254 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 236 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 218 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.223 | 0,2 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.192 | 0,2 % |
+| Seelaterne | `sea_lantern` | 1.124 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 245 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 238 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 231 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 220 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 192 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 172 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 150 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 150 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 146 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 138 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 138 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 134 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 12 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
@@ -59,8 +61,9 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 978 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 934 |
 | Steintreppe | `stone_stairs` | 644 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -76,7 +79,7 @@
 | 8 | `r7101377_innen` | Reihenhaus an Via Maffia: Innenausbau | 3.733 | 0.120–0.122 |
 | 9 | `r9357463` | Palazzo Frescobaldi | 45.781 | 0.123–0.150 |
 | 10 | `r9357463_innen` | Palazzo Frescobaldi: Innenausbau | 12.710 | 0.151–0.159 |
-| 11 | `r10825003` | Haus r10825003 | 10.278 | 0.159–0.164 |
+| 11 | `r10825003` | Haus r10825003 | 10.348 | 0.159–0.164 |
 | 12 | `r10825003_innen` | Haus r10825003: Innenausbau | 1.899 | 0.165 |
 | 13 | `w306798507` | Palazzo des Ottocento an Piazza di Santo Spirito | 19.327 | 0.166–0.177 |
 | 14 | `w306798507_innen` | Palazzo des Ottocento an Piazza di Santo Spirito: Innenausbau | 4.370 | 0.178–0.181 |
@@ -108,41 +111,41 @@
 | 40 | `w482302669_innen` | Haus w482302669: Innenausbau | 4 | 0.256 |
 | 41 | `w482302672` | Reihenhaus an Via Maffia | 5.179 | 0.256–0.258 |
 | 42 | `w482302672_innen` | Reihenhaus an Via Maffia: Innenausbau | 1.776 | 0.259 |
-| 43 | `w482302673` | Reihenhaus an Via Maffia | 1.358 | 0.260 |
-| 44 | `w482302673_innen` | Reihenhaus an Via Maffia: Innenausbau | 787 | 0.261 |
-| 45 | `w482302675` | Haus w482302675 | 6.497 | 0.262–0.265 |
-| 46 | `w482302675_innen` | Haus w482302675: Innenausbau | 2.391 | 0.266–0.267 |
-| 47 | `w482302679` | Reihenhaus an Via Maffia | 3.210 | 0.268–0.269 |
-| 48 | `w482302679_innen` | Reihenhaus an Via Maffia: Innenausbau | 1.481 | 0.270 |
-| 49 | `w482302681` | Haus w482302681 | 1.013 | 0.271 |
-| 50 | `w482302681_innen` | Haus w482302681: Innenausbau | 1.203 | 0.272 |
-| 51 | `w482302688` | Reihenhaus an Via dei Coverelli | 4.286 | 0.273–0.275 |
-| 52 | `w482302688_innen` | Reihenhaus an Via dei Coverelli: Innenausbau | 1.148 | 0.276 |
-| 53 | `w482302689` | Renaissance-Palazzo an Via Maffia | 16.055 | 0.277–0.285 |
-| 54 | `w482302689_innen` | Renaissance-Palazzo an Via Maffia: Innenausbau | 3.823 | 0.286–0.287 |
-| 55 | `w482302691` | Haus w482302691 | 15.113 | 0.288–0.295 |
-| 56 | `w482302691_innen` | Haus w482302691: Innenausbau | 6.140 | 0.296–0.298 |
-| 57 | `w482302693` | Reihenhaus an Via Sant'Agostino | 4.478 | 0.299–0.301 |
-| 58 | `w482302693_innen` | Reihenhaus an Via Sant'Agostino: Innenausbau | 1.208 | 0.302 |
-| 59 | `w482302694` | Reihenhaus an Via Sant'Agostino | 2.534 | 0.303–0.304 |
-| 60 | `w482302694_innen` | Reihenhaus an Via Sant'Agostino: Innenausbau | 969 | 0.305 |
-| 61 | `w482302696` | Renaissance-Palazzo an Via dei Coverelli | 18.930 | 0.306–0.319 |
-| 62 | `w482302696_innen` | Renaissance-Palazzo an Via dei Coverelli: Innenausbau | 4.405 | 0.320–0.323 |
-| 63 | `w482302703` | Reihenhaus an Piazza di Santo Spirito | 4.869 | 0.324–0.326 |
-| 64 | `w482302703_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 1.322 | 0.327 |
-| 65 | `w482302705` | Reihenhaus an Via di Santo Spirito | 4.488 | 0.328–0.330 |
-| 66 | `w482302705_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 2.578 | 0.331–0.332 |
-| 67 | `w482302706` | Reihenhaus an Via Maffia | 2.778 | 0.333–0.334 |
-| 68 | `w482302706_innen` | Reihenhaus an Via Maffia: Innenausbau | 406 | 0.335 |
-| 69 | `w482302708` | Palazzo des Cinquecento an Via di Santo Spirito | 8.135 | 0.336–0.340 |
-| 70 | `w482302708_innen` | Palazzo des Cinquecento an Via di Santo Spirito: Innenausbau | 3.222 | 0.341–0.342 |
-| 71 | `w493525529` | Cenacolo di Santo Spirito | 8.331 | 0.343–0.347 |
-| 72 | `w493525529_innen` | Cenacolo di Santo Spirito: Innenausbau | 4.445 | 0.348–0.350 |
-| 73 | `w780650073` | Haus w780650073 | 20.965 | 0.351–0.363 |
-| 74 | `w780650073_innen` | Haus w780650073: Innenausbau | 5.909 | 0.364–0.367 |
-| 75 | `w1023656893` | Edicola Da Andrea | 103 | 0.367 |
-| 76 | `w1023656893_innen` | Edicola Da Andrea: Innenausbau | 1 | 0.367 |
-| 77 | `strassenschilder` | Straßenschilder | 8 | 0.367 |
+| 43 | `w482302673` | Reihenhaus an Via Maffia | 1.437 | 0.260 |
+| 44 | `w482302673_innen` | Reihenhaus an Via Maffia: Innenausbau | 2 | 0.261 |
+| 45 | `w482302675` | Haus w482302675 | 6.497 | 0.261–0.264 |
+| 46 | `w482302675_innen` | Haus w482302675: Innenausbau | 2.391 | 0.265–0.266 |
+| 47 | `w482302679` | Reihenhaus an Via Maffia | 3.210 | 0.267–0.268 |
+| 48 | `w482302679_innen` | Reihenhaus an Via Maffia: Innenausbau | 1.481 | 0.269 |
+| 49 | `w482302681` | Haus w482302681 | 1.013 | 0.270 |
+| 50 | `w482302681_innen` | Haus w482302681: Innenausbau | 1.203 | 0.271 |
+| 51 | `w482302688` | Reihenhaus an Via dei Coverelli | 4.286 | 0.272–0.274 |
+| 52 | `w482302688_innen` | Reihenhaus an Via dei Coverelli: Innenausbau | 1.148 | 0.275 |
+| 53 | `w482302689` | Renaissance-Palazzo an Via Maffia | 16.446 | 0.276–0.284 |
+| 54 | `w482302689_innen` | Renaissance-Palazzo an Via Maffia: Innenausbau | 3.818 | 0.285–0.286 |
+| 55 | `w482302691` | Haus w482302691 | 15.113 | 0.287–0.294 |
+| 56 | `w482302691_innen` | Haus w482302691: Innenausbau | 6.140 | 0.295–0.297 |
+| 57 | `w482302693` | Reihenhaus an Via Sant'Agostino | 4.478 | 0.298–0.300 |
+| 58 | `w482302693_innen` | Reihenhaus an Via Sant'Agostino: Innenausbau | 1.208 | 0.301 |
+| 59 | `w482302694` | Reihenhaus an Via Sant'Agostino | 2.534 | 0.302–0.303 |
+| 60 | `w482302694_innen` | Reihenhaus an Via Sant'Agostino: Innenausbau | 969 | 0.304 |
+| 61 | `w482302696` | Renaissance-Palazzo an Via dei Coverelli | 18.930 | 0.305–0.318 |
+| 62 | `w482302696_innen` | Renaissance-Palazzo an Via dei Coverelli: Innenausbau | 4.405 | 0.319–0.322 |
+| 63 | `w482302703` | Reihenhaus an Piazza di Santo Spirito | 4.869 | 0.323–0.325 |
+| 64 | `w482302703_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 1.322 | 0.326 |
+| 65 | `w482302705` | Reihenhaus an Via di Santo Spirito | 4.488 | 0.327–0.329 |
+| 66 | `w482302705_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 2.578 | 0.330–0.331 |
+| 67 | `w482302706` | Reihenhaus an Via Maffia | 2.778 | 0.332–0.333 |
+| 68 | `w482302706_innen` | Reihenhaus an Via Maffia: Innenausbau | 406 | 0.334 |
+| 69 | `w482302708` | Palazzo des Cinquecento an Via di Santo Spirito | 8.135 | 0.335–0.339 |
+| 70 | `w482302708_innen` | Palazzo des Cinquecento an Via di Santo Spirito: Innenausbau | 3.222 | 0.340–0.341 |
+| 71 | `w493525529` | Cenacolo di Santo Spirito | 8.331 | 0.342–0.346 |
+| 72 | `w493525529_innen` | Cenacolo di Santo Spirito: Innenausbau | 4.445 | 0.347–0.349 |
+| 73 | `w780650073` | Haus w780650073 | 20.860 | 0.350–0.361 |
+| 74 | `w780650073_innen` | Haus w780650073: Innenausbau | 5.910 | 0.362–0.365 |
+| 75 | `w1023656893` | Edicola Da Andrea | 103 | 0.365 |
+| 76 | `w1023656893_innen` | Edicola Da Andrea: Innenausbau | 1 | 0.365 |
+| 77 | `strassenschilder` | Straßenschilder | 8 | 0.365 |
 
 ## Bauschritte
 
@@ -4986,9 +4989,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.159 – Palazzo Frescobaldi: Innenausbau – Teil 9/9 (Y 80–80) & Haus r10825003 – Teil 1/6 (Y 60–62)
+### Schritt 0.159 – Palazzo Frescobaldi: Innenausbau – Teil 9/9 (Y 80–80) & Haus r10825003 – Teil 1/6 (Y 61–63)
 
-- **Y-Bereich:** 60 bis 80
+- **Y-Bereich:** 61 bis 80
 - **Blöcke:** 1.663
 - **Bauteile:** `r9357463_innen`, `r10825003`
 
@@ -5028,9 +5031,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.160 – Haus r10825003 – Teil 2/6 (Y 63–69)
+### Schritt 0.160 – Haus r10825003 – Teil 2/6 (Y 64–70)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.745
 - **Bauteile:** `r10825003`
 
@@ -5059,9 +5062,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.161 – Haus r10825003 – Teil 3/6 (Y 70–76)
+### Schritt 0.161 – Haus r10825003 – Teil 3/6 (Y 71–77)
 
-- **Y-Bereich:** 70 bis 76
+- **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.788
 - **Bauteile:** `r10825003`
 
@@ -5091,9 +5094,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.162 – Haus r10825003 – Teil 4/6 (Y 77–83)
+### Schritt 0.162 – Haus r10825003 – Teil 4/6 (Y 78–84)
 
-- **Y-Bereich:** 77 bis 83
+- **Y-Bereich:** 78 bis 84
 - **Blöcke:** 1.788
 - **Bauteile:** `r10825003`
 
@@ -5122,17 +5125,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.163 – Haus r10825003 – Teil 5/6 (Y 84–89)
+### Schritt 0.163 – Haus r10825003 – Teil 5/6 (Y 85–90)
 
-- **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.518
+- **Y-Bereich:** 85 bis 90
+- **Blöcke:** 1.588
 - **Bauteile:** `r10825003`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.278 |
+| Tuffstein | `tuff` | 1.348 |
 | Polierter Andesit | `polished_andesite` | 166 |
 | Graues Buntglas | `gray_stained_glass` | 56 |
 | Endsteinziegel | `end_stone_bricks` | 18 |
@@ -5153,9 +5156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.164 – Haus r10825003 – Teil 6/6 (Y 90–98)
+### Schritt 0.164 – Haus r10825003 – Teil 6/6 (Y 91–99)
 
-- **Y-Bereich:** 90 bis 98
+- **Y-Bereich:** 91 bis 99
 - **Blöcke:** 1.785
 - **Bauteile:** `r10825003`
 
@@ -5187,7 +5190,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 0.165 – Haus r10825003: Innenausbau
 
-- **Y-Bereich:** 60 bis 81
+- **Y-Bereich:** 61 bis 82
 - **Blöcke:** 1.899
 - **Bauteile:** `r10825003_innen`
 
@@ -8381,20 +8384,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 0.260 – Reihenhaus an Via Maffia
 
-- **Y-Bereich:** 58 bis 92
-- **Blöcke:** 1.358
+- **Y-Bereich:** 59 bis 93
+- **Blöcke:** 1.437
 - **Bauteile:** `w482302673`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 522 |
-| Terrakotta | `terracotta` | 304 |
+| Hellgrauer Beton | `light_gray_concrete` | 599 |
+| Terrakotta | `terracotta` | 307 |
 | Polierter Tuffstein | `polished_tuff` | 253 |
 | Polierter Andesit | `polished_andesite` | 184 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
-| Fichtenholz-Bretter | `spruce_planks` | 35 |
+| Fichtenholz-Bretter | `spruce_planks` | 34 |
 | Ziegelsteine | `bricks` | 6 |
 
 **Beschreibung**
@@ -8413,51 +8416,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.261 – Reihenhaus an Via Maffia: Innenausbau
+### Schritt 0.261 – Reihenhaus an Via Maffia: Innenausbau & Haus w482302675 – Teil 1/4 (Y 61–66)
 
-- **Y-Bereich:** 58 bis 82
-- **Blöcke:** 787
-- **Bauteile:** `w482302673_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 651 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Rote Keramik | `red_terracotta` | 9 |
-| Weiße Keramik | `white_terracotta` | 9 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 0.262 – Haus w482302675 – Teil 1/4 (Y 61–66)
-
-- **Y-Bereich:** 61 bis 66
-- **Blöcke:** 1.593
-- **Bauteile:** `w482302675`
+- **Y-Bereich:** 59 bis 66
+- **Blöcke:** 1.595
+- **Bauteile:** `w482302673_innen`, `w482302675`
 
 **Teileliste**
 
@@ -8469,24 +8432,25 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Glatter Stein | `smooth_stone` | 16 |
 | Grüner Beton | `green_concrete` | 6 |
+| Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.263 – Haus w482302675 – Teil 2/4 (Y 67–78)
+### Schritt 0.262 – Haus w482302675 – Teil 2/4 (Y 67–78)
 
 - **Y-Bereich:** 67 bis 78
 - **Blöcke:** 1.698
@@ -8517,7 +8481,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.264 – Haus w482302675 – Teil 3/4 (Y 79–89)
+### Schritt 0.263 – Haus w482302675 – Teil 3/4 (Y 79–89)
 
 - **Y-Bereich:** 79 bis 89
 - **Blöcke:** 1.507
@@ -8548,7 +8512,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.265 – Haus w482302675 – Teil 4/4 (Y 90–97)
+### Schritt 0.264 – Haus w482302675 – Teil 4/4 (Y 90–97)
 
 - **Y-Bereich:** 90 bis 97
 - **Blöcke:** 1.699
@@ -8580,7 +8544,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.266 – Haus w482302675: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 0.265 – Haus w482302675: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 839
@@ -8620,7 +8584,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.267 – Haus w482302675: Innenausbau – Teil 2/2 (Y 77–84)
+### Schritt 0.266 – Haus w482302675: Innenausbau – Teil 2/2 (Y 77–84)
 
 - **Y-Bereich:** 77 bis 84
 - **Blöcke:** 1.552
@@ -8658,7 +8622,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.268 – Reihenhaus an Via Maffia – Teil 1/2 (Y 59–75)
+### Schritt 0.267 – Reihenhaus an Via Maffia – Teil 1/2 (Y 59–75)
 
 - **Y-Bereich:** 59 bis 75
 - **Blöcke:** 1.607
@@ -8691,7 +8655,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.269 – Reihenhaus an Via Maffia – Teil 2/2 (Y 76–94)
+### Schritt 0.268 – Reihenhaus an Via Maffia – Teil 2/2 (Y 76–94)
 
 - **Y-Bereich:** 76 bis 94
 - **Blöcke:** 1.603
@@ -8724,7 +8688,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.270 – Reihenhaus an Via Maffia: Innenausbau
+### Schritt 0.269 – Reihenhaus an Via Maffia: Innenausbau
 
 - **Y-Bereich:** 59 bis 83
 - **Blöcke:** 1.481
@@ -8764,7 +8728,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.271 – Haus w482302681
+### Schritt 0.270 – Haus w482302681
 
 - **Y-Bereich:** 61 bis 98
 - **Blöcke:** 1.013
@@ -8795,7 +8759,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.272 – Haus w482302681: Innenausbau
+### Schritt 0.271 – Haus w482302681: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.203
@@ -8835,7 +8799,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.273 – Reihenhaus an Via dei Coverelli – Teil 1/3 (Y 61–70)
+### Schritt 0.272 – Reihenhaus an Via dei Coverelli – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.406
@@ -8868,7 +8832,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.274 – Reihenhaus an Via dei Coverelli – Teil 2/3 (Y 71–83)
+### Schritt 0.273 – Reihenhaus an Via dei Coverelli – Teil 2/3 (Y 71–83)
 
 - **Y-Bereich:** 71 bis 83
 - **Blöcke:** 1.400
@@ -8899,7 +8863,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.275 – Reihenhaus an Via dei Coverelli – Teil 3/3 (Y 84–96)
+### Schritt 0.274 – Reihenhaus an Via dei Coverelli – Teil 3/3 (Y 84–96)
 
 - **Y-Bereich:** 84 bis 96
 - **Blöcke:** 1.480
@@ -8932,7 +8896,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.276 – Reihenhaus an Via dei Coverelli: Innenausbau
+### Schritt 0.275 – Reihenhaus an Via dei Coverelli: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.148
@@ -8972,17 +8936,26 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.277 – Renaissance-Palazzo an Via Maffia – Teil 1/9 (Y 58–58)
+### Schritt 0.276 – Renaissance-Palazzo an Via Maffia – Teil 1/9 (Y 58–59)
 
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.085
+- **Y-Bereich:** 58 bis 59
+- **Blöcke:** 1.401
 - **Bauteile:** `w482302689`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.085 |
+| Polierter Tuffstein | `polished_tuff` | 1.074 |
+| Tuffstein | `tuff` | 311 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 12 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
 
 **Beschreibung**
 
@@ -9000,21 +8973,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.278 – Renaissance-Palazzo an Via Maffia – Teil 2/9 (Y 58–61)
+### Schritt 0.277 – Renaissance-Palazzo an Via Maffia – Teil 2/9 (Y 59–62)
 
-- **Y-Bereich:** 58 bis 61
-- **Blöcke:** 2.069
+- **Y-Bereich:** 59 bis 62
+- **Blöcke:** 2.065
 - **Bauteile:** `w482302689`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.137 |
+| Polierter Tuffstein | `polished_tuff` | 1.129 |
 | Tuffstein | `tuff` | 624 |
 | Tuffsteinziegel | `tuff_bricks` | 167 |
 | Polierter Andesit | `polished_andesite` | 134 |
 | Glatter Stein | `smooth_stone` | 7 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -9032,9 +9012,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.279 – Renaissance-Palazzo an Via Maffia – Teil 3/9 (Y 62–67)
+### Schritt 0.278 – Renaissance-Palazzo an Via Maffia – Teil 3/9 (Y 63–68)
 
-- **Y-Bereich:** 62 bis 67
+- **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.836
 - **Bauteile:** `w482302689`
 
@@ -9064,9 +9044,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.280 – Renaissance-Palazzo an Via Maffia – Teil 4/9 (Y 68–72)
+### Schritt 0.279 – Renaissance-Palazzo an Via Maffia – Teil 4/9 (Y 69–73)
 
-- **Y-Bereich:** 68 bis 72
+- **Y-Bereich:** 69 bis 73
 - **Blöcke:** 1.945
 - **Bauteile:** `w482302689`
 
@@ -9096,9 +9076,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.281 – Renaissance-Palazzo an Via Maffia – Teil 5/9 (Y 73–77)
+### Schritt 0.280 – Renaissance-Palazzo an Via Maffia – Teil 5/9 (Y 74–78)
 
-- **Y-Bereich:** 73 bis 77
+- **Y-Bereich:** 74 bis 78
 - **Blöcke:** 1.749
 - **Bauteile:** `w482302689`
 
@@ -9128,9 +9108,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.282 – Renaissance-Palazzo an Via Maffia – Teil 6/9 (Y 78–82)
+### Schritt 0.281 – Renaissance-Palazzo an Via Maffia – Teil 6/9 (Y 79–83)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 79 bis 83
 - **Blöcke:** 1.942
 - **Bauteile:** `w482302689`
 
@@ -9159,10 +9139,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.283 – Renaissance-Palazzo an Via Maffia – Teil 7/9 (Y 83–87)
+### Schritt 0.282 – Renaissance-Palazzo an Via Maffia – Teil 7/9 (Y 84–88)
 
-- **Y-Bereich:** 83 bis 87
-- **Blöcke:** 1.880
+- **Y-Bereich:** 84 bis 88
+- **Blöcke:** 1.879
 - **Bauteile:** `w482302689`
 
 **Teileliste**
@@ -9172,7 +9152,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Polierter Andesit | `polished_andesite` | 935 |
 | Tuffstein | `tuff` | 678 |
 | Graues Buntglas | `gray_stained_glass` | 159 |
-| Endsteinziegel | `end_stone_bricks` | 97 |
+| Endsteinziegel | `end_stone_bricks` | 96 |
 | Glatter Stein | `smooth_stone` | 11 |
 
 **Beschreibung**
@@ -9191,19 +9171,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.284 – Renaissance-Palazzo an Via Maffia – Teil 8/9 (Y 88–89)
+### Schritt 0.283 – Renaissance-Palazzo an Via Maffia – Teil 8/9 (Y 89–90)
 
-- **Y-Bereich:** 88 bis 89
-- **Blöcke:** 1.529
+- **Y-Bereich:** 89 bis 90
+- **Blöcke:** 1.609
 - **Bauteile:** `w482302689`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.056 |
+| Terrakotta | `terracotta` | 1.058 |
+| Tuffstein | `tuff` | 234 |
 | Polierter Andesit | `polished_andesite` | 220 |
-| Tuffstein | `tuff` | 156 |
 | Endsteinziegel | `end_stone_bricks` | 96 |
 | Glatter Stein | `smooth_stone` | 1 |
 
@@ -9223,9 +9203,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.285 – Renaissance-Palazzo an Via Maffia – Teil 9/9 (Y 90–97)
+### Schritt 0.284 – Renaissance-Palazzo an Via Maffia – Teil 9/9 (Y 91–98)
 
-- **Y-Bereich:** 90 bis 97
+- **Y-Bereich:** 91 bis 98
 - **Blöcke:** 2.020
 - **Bauteile:** `w482302689`
 
@@ -9252,10 +9232,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.286 – Renaissance-Palazzo an Via Maffia: Innenausbau – Teil 1/2 (Y 58–69)
+### Schritt 0.285 – Renaissance-Palazzo an Via Maffia: Innenausbau – Teil 1/2 (Y 59–70)
 
-- **Y-Bereich:** 58 bis 69
-- **Blöcke:** 1.914
+- **Y-Bereich:** 59 bis 70
+- **Blöcke:** 1.912
 - **Bauteile:** `w482302689_innen`
 
 **Teileliste**
@@ -9264,7 +9244,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.837 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 24 |
+| Seelaterne | `sea_lantern` | 22 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -9294,10 +9274,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.287 – Renaissance-Palazzo an Via Maffia: Innenausbau – Teil 2/2 (Y 70–79)
+### Schritt 0.286 – Renaissance-Palazzo an Via Maffia: Innenausbau – Teil 2/2 (Y 71–80)
 
-- **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.909
+- **Y-Bereich:** 71 bis 80
+- **Blöcke:** 1.906
 - **Bauteile:** `w482302689_innen`
 
 **Teileliste**
@@ -9306,11 +9286,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.837 |
 | Glatter Stein | `smooth_stone` | 24 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 11 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
+| Rote Keramik | `red_terracotta` | 5 |
+| Weiße Keramik | `white_terracotta` | 5 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
@@ -9340,7 +9320,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.288 – Haus w482302691 – Teil 1/8 (Y 60–61)
+### Schritt 0.287 – Haus w482302691 – Teil 1/8 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
 - **Blöcke:** 1.362
@@ -9369,7 +9349,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.289 – Haus w482302691 – Teil 2/8 (Y 61–64)
+### Schritt 0.288 – Haus w482302691 – Teil 2/8 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 2.069
@@ -9400,7 +9380,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.290 – Haus w482302691 – Teil 3/8 (Y 65–71)
+### Schritt 0.289 – Haus w482302691 – Teil 3/8 (Y 65–71)
 
 - **Y-Bereich:** 65 bis 71
 - **Blöcke:** 2.088
@@ -9431,7 +9411,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.291 – Haus w482302691 – Teil 4/8 (Y 72–77)
+### Schritt 0.290 – Haus w482302691 – Teil 4/8 (Y 72–77)
 
 - **Y-Bereich:** 72 bis 77
 - **Blöcke:** 1.800
@@ -9462,7 +9442,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.292 – Haus w482302691 – Teil 5/8 (Y 78–83)
+### Schritt 0.291 – Haus w482302691 – Teil 5/8 (Y 78–83)
 
 - **Y-Bereich:** 78 bis 83
 - **Blöcke:** 1.800
@@ -9493,7 +9473,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.293 – Haus w482302691 – Teil 6/8 (Y 84–89)
+### Schritt 0.292 – Haus w482302691 – Teil 6/8 (Y 84–89)
 
 - **Y-Bereich:** 84 bis 89
 - **Blöcke:** 1.822
@@ -9524,7 +9504,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.294 – Haus w482302691 – Teil 7/8 (Y 90–92)
+### Schritt 0.293 – Haus w482302691 – Teil 7/8 (Y 90–92)
 
 - **Y-Bereich:** 90 bis 92
 - **Blöcke:** 2.093
@@ -9554,7 +9534,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.295 – Haus w482302691 – Teil 8/8 (Y 93–100)
+### Schritt 0.294 – Haus w482302691 – Teil 8/8 (Y 93–100)
 
 - **Y-Bereich:** 93 bis 100
 - **Blöcke:** 2.079
@@ -9583,7 +9563,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.296 – Haus w482302691: Innenausbau – Teil 1/3 (Y 61–70)
+### Schritt 0.295 – Haus w482302691: Innenausbau – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 2.054
@@ -9621,7 +9601,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.297 – Haus w482302691: Innenausbau – Teil 2/3 (Y 71–77)
+### Schritt 0.296 – Haus w482302691: Innenausbau – Teil 2/3 (Y 71–77)
 
 - **Y-Bereich:** 71 bis 77
 - **Blöcke:** 2.040
@@ -9663,7 +9643,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.298 – Haus w482302691: Innenausbau – Teil 3/3 (Y 78–85)
+### Schritt 0.297 – Haus w482302691: Innenausbau – Teil 3/3 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
 - **Blöcke:** 2.046
@@ -9703,7 +9683,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.299 – Reihenhaus an Via Sant'Agostino – Teil 1/3 (Y 59–68)
+### Schritt 0.298 – Reihenhaus an Via Sant'Agostino – Teil 1/3 (Y 59–68)
 
 - **Y-Bereich:** 59 bis 68
 - **Blöcke:** 1.470
@@ -9736,7 +9716,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.300 – Reihenhaus an Via Sant'Agostino – Teil 2/3 (Y 69–82)
+### Schritt 0.299 – Reihenhaus an Via Sant'Agostino – Teil 2/3 (Y 69–82)
 
 - **Y-Bereich:** 69 bis 82
 - **Blöcke:** 1.514
@@ -9766,7 +9746,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.301 – Reihenhaus an Via Sant'Agostino – Teil 3/3 (Y 83–96)
+### Schritt 0.300 – Reihenhaus an Via Sant'Agostino – Teil 3/3 (Y 83–96)
 
 - **Y-Bereich:** 83 bis 96
 - **Blöcke:** 1.494
@@ -9799,7 +9779,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.302 – Reihenhaus an Via Sant'Agostino: Innenausbau
+### Schritt 0.301 – Reihenhaus an Via Sant'Agostino: Innenausbau
 
 - **Y-Bereich:** 59 bis 82
 - **Blöcke:** 1.208
@@ -9837,7 +9817,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.303 – Reihenhaus an Via Sant'Agostino – Teil 1/2 (Y 61–78)
+### Schritt 0.302 – Reihenhaus an Via Sant'Agostino – Teil 1/2 (Y 61–78)
 
 - **Y-Bereich:** 61 bis 78
 - **Blöcke:** 1.241
@@ -9869,7 +9849,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.304 – Reihenhaus an Via Sant'Agostino – Teil 2/2 (Y 79–96)
+### Schritt 0.303 – Reihenhaus an Via Sant'Agostino – Teil 2/2 (Y 79–96)
 
 - **Y-Bereich:** 79 bis 96
 - **Blöcke:** 1.293
@@ -9902,7 +9882,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.305 – Reihenhaus an Via Sant'Agostino: Innenausbau
+### Schritt 0.304 – Reihenhaus an Via Sant'Agostino: Innenausbau
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 969
@@ -9942,7 +9922,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.306 – Renaissance-Palazzo an Via dei Coverelli – Teil 1/14 (Y 61–61)
+### Schritt 0.305 – Renaissance-Palazzo an Via dei Coverelli – Teil 1/14 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.233
@@ -9970,7 +9950,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.307 – Renaissance-Palazzo an Via dei Coverelli – Teil 2/14 (Y 61–61)
+### Schritt 0.306 – Renaissance-Palazzo an Via dei Coverelli – Teil 2/14 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.306
@@ -9998,7 +9978,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.308 – Renaissance-Palazzo an Via dei Coverelli – Teil 3/14 (Y 62–65)
+### Schritt 0.307 – Renaissance-Palazzo an Via dei Coverelli – Teil 3/14 (Y 62–65)
 
 - **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.569
@@ -10030,7 +10010,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.309 – Renaissance-Palazzo an Via dei Coverelli – Teil 4/14 (Y 66–69)
+### Schritt 0.308 – Renaissance-Palazzo an Via dei Coverelli – Teil 4/14 (Y 66–69)
 
 - **Y-Bereich:** 66 bis 69
 - **Blöcke:** 1.425
@@ -10062,7 +10042,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.310 – Renaissance-Palazzo an Via dei Coverelli – Teil 5/14 (Y 70–72)
+### Schritt 0.309 – Renaissance-Palazzo an Via dei Coverelli – Teil 5/14 (Y 70–72)
 
 - **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.338
@@ -10093,7 +10073,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.311 – Renaissance-Palazzo an Via dei Coverelli – Teil 6/14 (Y 73–75)
+### Schritt 0.310 – Renaissance-Palazzo an Via dei Coverelli – Teil 6/14 (Y 73–75)
 
 - **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.202
@@ -10124,7 +10104,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.312 – Renaissance-Palazzo an Via dei Coverelli – Teil 7/14 (Y 76–79)
+### Schritt 0.311 – Renaissance-Palazzo an Via dei Coverelli – Teil 7/14 (Y 76–79)
 
 - **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.447
@@ -10155,7 +10135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.313 – Renaissance-Palazzo an Via dei Coverelli – Teil 8/14 (Y 80–82)
+### Schritt 0.312 – Renaissance-Palazzo an Via dei Coverelli – Teil 8/14 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.338
@@ -10185,7 +10165,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.314 – Renaissance-Palazzo an Via dei Coverelli – Teil 9/14 (Y 83–85)
+### Schritt 0.313 – Renaissance-Palazzo an Via dei Coverelli – Teil 9/14 (Y 83–85)
 
 - **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.154
@@ -10216,7 +10196,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.315 – Renaissance-Palazzo an Via dei Coverelli – Teil 10/14 (Y 86–89)
+### Schritt 0.314 – Renaissance-Palazzo an Via dei Coverelli – Teil 10/14 (Y 86–89)
 
 - **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.629
@@ -10247,7 +10227,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.316 – Renaissance-Palazzo an Via dei Coverelli – Teil 11/14 (Y 90–91)
+### Schritt 0.315 – Renaissance-Palazzo an Via dei Coverelli – Teil 11/14 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.575
@@ -10277,7 +10257,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.317 – Renaissance-Palazzo an Via dei Coverelli – Teil 12/14 (Y 92–92)
+### Schritt 0.316 – Renaissance-Palazzo an Via dei Coverelli – Teil 12/14 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.450
@@ -10305,7 +10285,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.318 – Renaissance-Palazzo an Via dei Coverelli – Teil 13/14 (Y 93–93)
+### Schritt 0.317 – Renaissance-Palazzo an Via dei Coverelli – Teil 13/14 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 725
@@ -10333,7 +10313,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.319 – Renaissance-Palazzo an Via dei Coverelli – Teil 14/14 (Y 94–99)
+### Schritt 0.318 – Renaissance-Palazzo an Via dei Coverelli – Teil 14/14 (Y 94–99)
 
 - **Y-Bereich:** 94 bis 99
 - **Blöcke:** 1.539
@@ -10362,7 +10342,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.320 – Renaissance-Palazzo an Via dei Coverelli: Innenausbau – Teil 1/4 (Y 61–72)
+### Schritt 0.319 – Renaissance-Palazzo an Via dei Coverelli: Innenausbau – Teil 1/4 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.111
@@ -10400,7 +10380,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.321 – Renaissance-Palazzo an Via dei Coverelli: Innenausbau – Teil 2/4 (Y 72–72)
+### Schritt 0.320 – Renaissance-Palazzo an Via dei Coverelli: Innenausbau – Teil 2/4 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.093
@@ -10429,7 +10409,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.322 – Renaissance-Palazzo an Via dei Coverelli: Innenausbau – Teil 3/4 (Y 73–81)
+### Schritt 0.321 – Renaissance-Palazzo an Via dei Coverelli: Innenausbau – Teil 3/4 (Y 73–81)
 
 - **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.099
@@ -10473,7 +10453,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.323 – Renaissance-Palazzo an Via dei Coverelli: Innenausbau – Teil 4/4 (Y 81–82)
+### Schritt 0.322 – Renaissance-Palazzo an Via dei Coverelli: Innenausbau – Teil 4/4 (Y 81–82)
 
 - **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.102
@@ -10513,7 +10493,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.324 – Reihenhaus an Piazza di Santo Spirito – Teil 1/3 (Y 61–70)
+### Schritt 0.323 – Reihenhaus an Piazza di Santo Spirito – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.616
@@ -10544,7 +10524,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.325 – Reihenhaus an Piazza di Santo Spirito – Teil 2/3 (Y 71–83)
+### Schritt 0.324 – Reihenhaus an Piazza di Santo Spirito – Teil 2/3 (Y 71–83)
 
 - **Y-Bereich:** 71 bis 83
 - **Blöcke:** 1.596
@@ -10574,7 +10554,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.326 – Reihenhaus an Piazza di Santo Spirito – Teil 3/3 (Y 84–97)
+### Schritt 0.325 – Reihenhaus an Piazza di Santo Spirito – Teil 3/3 (Y 84–97)
 
 - **Y-Bereich:** 84 bis 97
 - **Blöcke:** 1.657
@@ -10606,7 +10586,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.327 – Reihenhaus an Piazza di Santo Spirito: Innenausbau
+### Schritt 0.326 – Reihenhaus an Piazza di Santo Spirito: Innenausbau
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.322
@@ -10644,7 +10624,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.328 – Reihenhaus an Via di Santo Spirito – Teil 1/3 (Y 59–67)
+### Schritt 0.327 – Reihenhaus an Via di Santo Spirito – Teil 1/3 (Y 59–67)
 
 - **Y-Bereich:** 59 bis 67
 - **Blöcke:** 1.506
@@ -10676,7 +10656,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.329 – Reihenhaus an Via di Santo Spirito – Teil 2/3 (Y 68–88)
+### Schritt 0.328 – Reihenhaus an Via di Santo Spirito – Teil 2/3 (Y 68–88)
 
 - **Y-Bereich:** 68 bis 88
 - **Blöcke:** 1.528
@@ -10707,7 +10687,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.330 – Reihenhaus an Via di Santo Spirito – Teil 3/3 (Y 89–95)
+### Schritt 0.329 – Reihenhaus an Via di Santo Spirito – Teil 3/3 (Y 89–95)
 
 - **Y-Bereich:** 89 bis 95
 - **Blöcke:** 1.454
@@ -10738,7 +10718,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.331 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 1/2 (Y 59–74)
+### Schritt 0.330 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 1/2 (Y 59–74)
 
 - **Y-Bereich:** 59 bis 74
 - **Blöcke:** 902
@@ -10778,7 +10758,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.332 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 2/2 (Y 75–83)
+### Schritt 0.331 – Reihenhaus an Via di Santo Spirito: Innenausbau – Teil 2/2 (Y 75–83)
 
 - **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.676
@@ -10818,7 +10798,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.333 – Reihenhaus an Via Maffia – Teil 1/2 (Y 59–74)
+### Schritt 0.332 – Reihenhaus an Via Maffia – Teil 1/2 (Y 59–74)
 
 - **Y-Bereich:** 59 bis 74
 - **Blöcke:** 1.359
@@ -10851,7 +10831,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.334 – Reihenhaus an Via Maffia – Teil 2/2 (Y 75–91)
+### Schritt 0.333 – Reihenhaus an Via Maffia – Teil 2/2 (Y 75–91)
 
 - **Y-Bereich:** 75 bis 91
 - **Blöcke:** 1.419
@@ -10882,7 +10862,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.335 – Reihenhaus an Via Maffia: Innenausbau
+### Schritt 0.334 – Reihenhaus an Via Maffia: Innenausbau
 
 - **Y-Bereich:** 59 bis 82
 - **Blöcke:** 406
@@ -10920,7 +10900,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.336 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 1/5 (Y 58–58)
+### Schritt 0.335 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 1/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.688
@@ -10948,7 +10928,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.337 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 2/5 (Y 59–69)
+### Schritt 0.336 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 2/5 (Y 59–69)
 
 - **Y-Bereich:** 59 bis 69
 - **Blöcke:** 1.542
@@ -10980,7 +10960,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.338 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 3/5 (Y 70–82)
+### Schritt 0.337 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 3/5 (Y 70–82)
 
 - **Y-Bereich:** 70 bis 82
 - **Blöcke:** 1.687
@@ -11011,7 +10991,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.339 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 4/5 (Y 83–89)
+### Schritt 0.338 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 4/5 (Y 83–89)
 
 - **Y-Bereich:** 83 bis 89
 - **Blöcke:** 1.653
@@ -11043,7 +11023,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.340 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 5/5 (Y 90–98)
+### Schritt 0.339 – Palazzo des Cinquecento an Via di Santo Spirito – Teil 5/5 (Y 90–98)
 
 - **Y-Bereich:** 90 bis 98
 - **Blöcke:** 1.565
@@ -11072,7 +11052,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.341 – Palazzo des Cinquecento an Via di Santo Spirito: Innenausbau – Teil 1/2 (Y 58–68)
+### Schritt 0.340 – Palazzo des Cinquecento an Via di Santo Spirito: Innenausbau – Teil 1/2 (Y 58–68)
 
 - **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.606
@@ -11110,7 +11090,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.342 – Palazzo des Cinquecento an Via di Santo Spirito: Innenausbau – Teil 2/2 (Y 69–79)
+### Schritt 0.341 – Palazzo des Cinquecento an Via di Santo Spirito: Innenausbau – Teil 2/2 (Y 69–79)
 
 - **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.616
@@ -11154,7 +11134,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.343 – Cenacolo di Santo Spirito – Teil 1/5 (Y 62–63)
+### Schritt 0.342 – Cenacolo di Santo Spirito – Teil 1/5 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.711
@@ -11185,7 +11165,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.344 – Cenacolo di Santo Spirito – Teil 2/5 (Y 64–75)
+### Schritt 0.343 – Cenacolo di Santo Spirito – Teil 2/5 (Y 64–75)
 
 - **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.598
@@ -11216,7 +11196,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.345 – Cenacolo di Santo Spirito – Teil 3/5 (Y 76–87)
+### Schritt 0.344 – Cenacolo di Santo Spirito – Teil 3/5 (Y 76–87)
 
 - **Y-Bereich:** 76 bis 87
 - **Blöcke:** 1.631
@@ -11247,7 +11227,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.346 – Cenacolo di Santo Spirito – Teil 4/5 (Y 88–93)
+### Schritt 0.345 – Cenacolo di Santo Spirito – Teil 4/5 (Y 88–93)
 
 - **Y-Bereich:** 88 bis 93
 - **Blöcke:** 2.027
@@ -11280,7 +11260,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.347 – Cenacolo di Santo Spirito – Teil 5/5 (Y 94–98)
+### Schritt 0.346 – Cenacolo di Santo Spirito – Teil 5/5 (Y 94–98)
 
 - **Y-Bereich:** 94 bis 98
 - **Blöcke:** 1.364
@@ -11309,7 +11289,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.348 – Cenacolo di Santo Spirito: Innenausbau – Teil 1/3 (Y 62–71)
+### Schritt 0.347 – Cenacolo di Santo Spirito: Innenausbau – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.490
@@ -11347,7 +11327,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.349 – Cenacolo di Santo Spirito: Innenausbau – Teil 2/3 (Y 72–78)
+### Schritt 0.348 – Cenacolo di Santo Spirito: Innenausbau – Teil 2/3 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.477
@@ -11387,7 +11367,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.350 – Cenacolo di Santo Spirito: Innenausbau – Teil 3/3 (Y 79–86)
+### Schritt 0.349 – Cenacolo di Santo Spirito: Innenausbau – Teil 3/3 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.478
@@ -11427,17 +11407,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.351 – Haus w780650073 – Teil 1/13 (Y 61–61)
+### Schritt 0.350 – Haus w780650073 – Teil 1/12 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.661
+- **Blöcke:** 1.660
 - **Bauteile:** `w780650073`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.661 |
+| Polierter Tuffstein | `polished_tuff` | 1.660 |
 
 **Beschreibung**
 
@@ -11455,17 +11435,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.352 – Haus w780650073 – Teil 2/13 (Y 61–61)
+### Schritt 0.351 – Haus w780650073 – Teil 2/12 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.655
+- **Blöcke:** 1.654
 - **Bauteile:** `w780650073`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.655 |
+| Polierter Tuffstein | `polished_tuff` | 1.654 |
 
 **Beschreibung**
 
@@ -11483,206 +11463,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.353 – Haus w780650073 – Teil 3/13 (Y 62–65)
+### Schritt 0.352 – Haus w780650073 – Teil 3/12 (Y 62–66)
 
-- **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.687
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 2.069
 - **Bauteile:** `w780650073`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 624 |
-| Polierter Andesit | `polished_andesite` | 621 |
-| Tuffsteinziegel | `tuff_bricks` | 332 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Glatter Stein | `smooth_stone` | 50 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.354 – Haus w780650073 – Teil 4/13 (Y 66–69)
-
-- **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.548
-- **Bauteile:** `w780650073`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 551 |
-| Tuffstein | `tuff` | 518 |
-| Graues Buntglas | `gray_stained_glass` | 232 |
-| Tuffsteinziegel | `tuff_bricks` | 197 |
-| Glatter Stein | `smooth_stone` | 50 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.355 – Haus w780650073 – Teil 5/13 (Y 70–72)
-
-- **Y-Bereich:** 70 bis 72
-- **Blöcke:** 1.422
-- **Bauteile:** `w780650073`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 510 |
-| Glatter Stein | `smooth_stone` | 415 |
-| Polierter Andesit | `polished_andesite` | 330 |
-| Tuffsteinziegel | `tuff_bricks` | 167 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.356 – Haus w780650073 – Teil 6/13 (Y 73–76)
-
-- **Y-Bereich:** 73 bis 76
-- **Blöcke:** 1.682
-- **Bauteile:** `w780650073`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 912 |
-| Tuffstein | `tuff` | 596 |
-| Graues Buntglas | `gray_stained_glass` | 124 |
-| Glatter Stein | `smooth_stone` | 50 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.357 – Haus w780650073 – Teil 7/13 (Y 77–80)
-
-- **Y-Bereich:** 77 bis 80
-- **Blöcke:** 1.606
-- **Bauteile:** `w780650073`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 814 |
-| Tuffstein | `tuff` | 562 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Glatter Stein | `smooth_stone` | 50 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.358 – Haus w780650073 – Teil 8/13 (Y 81–83)
-
-- **Y-Bereich:** 81 bis 83
-- **Blöcke:** 1.464
-- **Bauteile:** `w780650073`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 539 |
-| Tuffstein | `tuff` | 510 |
-| Glatter Stein | `smooth_stone` | 415 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.359 – Haus w780650073 – Teil 9/13 (Y 84–88)
-
-- **Y-Bereich:** 84 bis 88
-- **Blöcke:** 1.953
-- **Bauteile:** `w780650073`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 931 |
-| Tuffstein | `tuff` | 648 |
-| Graues Buntglas | `gray_stained_glass` | 304 |
+| Polierter Andesit | `polished_andesite` | 758 |
+| Tuffstein | `tuff` | 750 |
+| Tuffsteinziegel | `tuff_bricks` | 371 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
 | Glatter Stein | `smooth_stone` | 70 |
 
 **Beschreibung**
@@ -11701,20 +11495,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.360 – Haus w780650073 – Teil 10/13 (Y 89–91)
+### Schritt 0.353 – Haus w780650073 – Teil 4/12 (Y 67–70)
 
-- **Y-Bereich:** 89 bis 91
-- **Blöcke:** 1.713
+- **Y-Bereich:** 67 bis 70
+- **Blöcke:** 1.597
 - **Bauteile:** `w780650073`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 753 |
-| Tuffstein | `tuff` | 655 |
-| Endsteinziegel | `end_stone_bricks` | 275 |
-| Glatter Stein | `smooth_stone` | 30 |
+| Polierter Andesit | `polished_andesite` | 603 |
+| Tuffstein | `tuff` | 562 |
+| Tuffsteinziegel | `tuff_bricks` | 210 |
+| Graues Buntglas | `gray_stained_glass` | 172 |
+| Glatter Stein | `smooth_stone` | 50 |
 
 **Beschreibung**
 
@@ -11732,10 +11527,166 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.361 – Haus w780650073 – Teil 11/13 (Y 92–92)
+### Schritt 0.354 – Haus w780650073 – Teil 5/12 (Y 71–74)
 
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.502
+- **Y-Bereich:** 71 bis 74
+- **Blöcke:** 1.895
+- **Bauteile:** `w780650073`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 680 |
+| Tuffstein | `tuff` | 680 |
+| Glatter Stein | `smooth_stone` | 420 |
+| Tuffsteinziegel | `tuff_bricks` | 115 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.355 – Haus w780650073 – Teil 6/12 (Y 75–78)
+
+- **Y-Bereich:** 75 bis 78
+- **Blöcke:** 1.556
+- **Bauteile:** `w780650073`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 746 |
+| Tuffstein | `tuff` | 512 |
+| Graues Buntglas | `gray_stained_glass` | 248 |
+| Glatter Stein | `smooth_stone` | 50 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.356 – Haus w780650073 – Teil 7/12 (Y 79–82)
+
+- **Y-Bereich:** 79 bis 82
+- **Blöcke:** 1.819
+- **Bauteile:** `w780650073`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 682 |
+| Tuffstein | `tuff` | 646 |
+| Glatter Stein | `smooth_stone` | 435 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.357 – Haus w780650073 – Teil 8/12 (Y 83–86)
+
+- **Y-Bereich:** 83 bis 86
+- **Blöcke:** 1.640
+- **Bauteile:** `w780650073`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 850 |
+| Tuffstein | `tuff` | 554 |
+| Graues Buntglas | `gray_stained_glass` | 186 |
+| Glatter Stein | `smooth_stone` | 50 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.358 – Haus w780650073 – Teil 9/12 (Y 87–90)
+
+- **Y-Bereich:** 87 bis 90
+- **Blöcke:** 1.806
+- **Bauteile:** `w780650073`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 876 |
+| Tuffstein | `tuff` | 625 |
+| Endsteinziegel | `end_stone_bricks` | 137 |
+| Graues Buntglas | `gray_stained_glass` | 118 |
+| Glatter Stein | `smooth_stone` | 50 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.359 – Haus w780650073 – Teil 10/12 (Y 91–92)
+
+- **Y-Bereich:** 91 bis 92
+- **Blöcke:** 2.092
 - **Bauteile:** `w780650073`
 
 **Teileliste**
@@ -11743,6 +11694,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.502 |
+| Polierter Andesit | `polished_andesite` | 256 |
+| Tuffstein | `tuff` | 191 |
+| Endsteinziegel | `end_stone_bricks` | 138 |
+| Glatter Stein | `smooth_stone` | 5 |
 
 **Beschreibung**
 
@@ -11760,7 +11715,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.362 – Haus w780650073 – Teil 12/13 (Y 93–94)
+### Schritt 0.360 – Haus w780650073 – Teil 11/12 (Y 93–94)
 
 - **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.587
@@ -11788,7 +11743,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.363 – Haus w780650073 – Teil 13/13 (Y 95–100)
+### Schritt 0.361 – Haus w780650073 – Teil 12/12 (Y 95–100)
 
 - **Y-Bereich:** 95 bis 100
 - **Blöcke:** 1.485
@@ -11817,24 +11772,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.364 – Haus w780650073: Innenausbau – Teil 1/4 (Y 61–72)
+### Schritt 0.362 – Haus w780650073: Innenausbau – Teil 1/4 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.492
+- **Blöcke:** 1.494
 - **Bauteile:** `w780650073_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.417 |
+| Terrakotta | `terracotta` | 1.416 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 22 |
+| Seelaterne | `sea_lantern` | 25 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -11859,7 +11814,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.365 – Haus w780650073: Innenausbau – Teil 2/4 (Y 72–72)
+### Schritt 0.363 – Haus w780650073: Innenausbau – Teil 2/4 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.468
@@ -11869,8 +11824,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.460 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 1.459 |
+| Seelaterne | `sea_lantern` | 9 |
 
 **Beschreibung**
 
@@ -11888,26 +11843,26 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.366 – Haus w780650073: Innenausbau – Teil 3/4 (Y 73–81)
+### Schritt 0.364 – Haus w780650073: Innenausbau – Teil 3/4 (Y 73–81)
 
 - **Y-Bereich:** 73 bis 81
-- **Blöcke:** 1.475
+- **Blöcke:** 1.471
 - **Bauteile:** `w780650073_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.417 |
+| Terrakotta | `terracotta` | 1.416 |
 | Glatter Stein | `smooth_stone` | 24 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Seelaterne | `sea_lantern` | 8 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -11932,26 +11887,35 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.367 – Haus w780650073: Innenausbau – Teil 4/4 (Y 81–82) & Edicola Da Andrea & Edicola Da Andrea: Innenausbau & Straßenschilder
+### Schritt 0.365 – Haus w780650073: Innenausbau – Teil 4/4 (Y 81–82) & Edicola Da Andrea & Edicola Da Andrea: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 60 bis 82
-- **Blöcke:** 1.586
+- **Blöcke:** 1.589
 - **Bauteile:** `w780650073_innen`, `w1023656893`, `w1023656893_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.472 |
+| Terrakotta | `terracotta` | 1.471 |
 | Hellgrauer Beton | `light_gray_concrete` | 80 |
 | Polierter Tuffstein | `polished_tuff` | 11 |
-| Seelaterne | `sea_lantern` | 9 |
+| Seelaterne | `sea_lantern` | 10 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 

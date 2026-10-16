@@ -8,117 +8,147 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 222.927 |
-| Bauschritte | 139 |
-| Y-Bereich | 62 bis 110 |
+| Blöcke | 239.925 |
+| Bauschritte | 147 |
+| Y-Bereich | 62 bis 115 |
 | X-Ausdehnung | 757 bis 1216 (460 Blöcke) |
 | Z-Ausdehnung | 1906 bis 2034 (129 Blöcke) |
-| Kleinster Schritt | 532 Blöcke (Schritt 28.122) |
-| Mittlerer Schritt | 1.604 Blöcke |
-| Größter Schritt | 2.075 Blöcke (Schritt 28.83) |
+| Kleinster Schritt | 532 Blöcke (Schritt 28.130) |
+| Mittlerer Schritt | 1.632 Blöcke |
+| Größter Schritt | 2.077 Blöcke (Schritt 28.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 61.735 | 27,7 % |
-| Rosa Keramik | `pink_terracotta` | 33.135 | 14,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 24.095 | 10,8 % |
-| Weißer Beton | `white_concrete` | 22.822 | 10,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 17.444 | 7,8 % |
-| Polierter Tuffstein | `polished_tuff` | 17.177 | 7,7 % |
-| Tuffstein | `tuff` | 15.300 | 6,9 % |
-| Endsteinziegel | `end_stone_bricks` | 6.884 | 3,1 % |
-| Graues Buntglas | `gray_stained_glass` | 5.704 | 2,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 4.161 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 3.600 | 1,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 2.383 | 1,1 % |
-| Glatter Stein | `smooth_stone` | 1.949 | 0,9 % |
+| Terrakotta | `terracotta` | 61.660 | 25,7 % |
+| Rosa Keramik | `pink_terracotta` | 33.347 | 13,9 % |
+| Tuffstein | `tuff` | 31.336 | 13,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 24.289 | 10,1 % |
+| Weißer Beton | `white_concrete` | 22.759 | 9,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 17.444 | 7,3 % |
+| Polierter Tuffstein | `polished_tuff` | 17.118 | 7,1 % |
+| Endsteinziegel | `end_stone_bricks` | 7.242 | 3,0 % |
+| Graues Buntglas | `gray_stained_glass` | 5.704 | 2,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 4.465 | 1,9 % |
+| Polierter Andesit | `polished_andesite` | 3.622 | 1,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 2.388 | 1,0 % |
+| Glatter Stein | `smooth_stone` | 1.954 | 0,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.868 | 0,8 % |
-| Ziegelsteine | `bricks` | 1.251 | 0,6 % |
+| Ziegelsteine | `bricks` | 1.251 | 0,5 % |
 | Grüner Beton | `green_concrete` | 907 | 0,4 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 498 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 470 | 0,2 % |
-| Seelaterne | `sea_lantern` | 409 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 248 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 473 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 447 | 0,2 % |
+| Seelaterne | `sea_lantern` | 405 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 273 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 257 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 239 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 239 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 234 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 140 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 35 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 88 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 8 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 1.450 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 175 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 238 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r6820324` | Reihenhaus an Via di San Niccolò | 12.739 | 28.1–28.8 |
+| 1 | `r6820324` | Reihenhaus an Via di San Niccolò | 13.310 | 28.1–28.8 |
 | 2 | `r6820324_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.853 | 28.9–28.11 |
-| 3 | `r6820326` | Reihenhaus an Via di San Niccolò | 14.261 | 28.12–28.19 |
-| 4 | `r6820326_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.258 | 28.20–28.22 |
-| 5 | `r6820328` | Reihenhaus an Via di San Niccolò | 8.658 | 28.23–28.27 |
-| 6 | `r6820328_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.737 | 28.28 |
-| 7 | `r6820329` | Reihenhaus an Via di San Niccolò | 11.467 | 28.29–28.34 |
-| 8 | `r6820329_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.128 | 28.35–28.36 |
-| 9 | `w461735823` | Reihenhaus an Via di San Niccolò | 10.645 | 28.37–28.42 |
-| 10 | `w461735823_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.301 | 28.43 |
-| 11 | `w461735827` | Reihenhaus an Via di San Niccolò | 4.903 | 28.44–28.46 |
-| 12 | `w461735827_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.203 | 28.47 |
-| 13 | `w461735828` | Reihenhaus an Via di San Niccolò | 11.534 | 28.48–28.53 |
-| 14 | `w461735828_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.455 | 28.54–28.56 |
-| 15 | `w461735829` | Reihenhaus an Via di San Niccolò | 11.204 | 28.57–28.62 |
-| 16 | `w461735829_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.836 | 28.63 |
-| 17 | `w461735830` | Reihenhaus an Via di San Niccolò | 4.666 | 28.64–28.66 |
-| 18 | `w461735830_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.171 | 28.67 |
-| 19 | `w461735838` | Reihenhaus an Via di San Niccolò | 8.302 | 28.68–28.72 |
-| 20 | `w461735838_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.894 | 28.73 |
-| 21 | `w461735840` | Reihenhaus an Via di San Niccolò | 5.356 | 28.74–28.76 |
-| 22 | `w461735840_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.359 | 28.77 |
-| 23 | `w461735844` | Reihenhaus an Via di San Niccolò | 3.591 | 28.78–28.79 |
-| 24 | `w461735844_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 703 | 28.80 |
-| 25 | `w461735845` | Reihenhaus an Via San Miniato | 6.058 | 28.81–28.83 |
-| 26 | `w461735845_innen` | Reihenhaus an Via San Miniato: Innenausbau | 1.653 | 28.84 |
-| 27 | `w461735850` | Reihenhaus an Via di San Niccolò | 4.786 | 28.85–28.87 |
-| 28 | `w461735850_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.246 | 28.88 |
-| 29 | `w461735853` | Reihenhaus an Via San Miniato | 4.797 | 28.89–28.91 |
-| 30 | `w461735853_innen` | Reihenhaus an Via San Miniato: Innenausbau | 674 | 28.92 |
-| 31 | `w461735855` | Reihenhaus an Via di San Niccolò | 2.116 | 28.93–28.94 |
-| 32 | `w461735855_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 685 | 28.95 |
-| 33 | `w461735858` | Reihenhaus an Via di San Niccolò | 5.326 | 28.96–28.98 |
-| 34 | `w461735858_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.538 | 28.99 |
-| 35 | `w461735861` | Reihenhaus an Via di San Niccolò | 3.491 | 28.100–28.101 |
-| 36 | `w461735861_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 866 | 28.102 |
-| 37 | `w461735867` | Reihenhaus an Via di San Niccolò | 4.897 | 28.103–28.105 |
-| 38 | `w461735867_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.292 | 28.106 |
-| 39 | `w461735868` | Reihenhaus an Via di San Niccolò | 3.892 | 28.107–28.108 |
-| 40 | `w461735868_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 884 | 28.109 |
-| 41 | `w461735869` | Reihenhaus an Via di San Niccolò | 11.012 | 28.110–28.115 |
-| 42 | `w461735869_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.973 | 28.116 |
-| 43 | `w461735877` | Reihenhaus an Via di San Niccolò | 1.039 | 28.117 |
-| 44 | `w461735877_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 790 | 28.118 |
-| 45 | `w461735881` | Reihenhaus an Via San Miniato | 4.390 | 28.119–28.121 |
-| 46 | `w461735881_innen` | Reihenhaus an Via San Miniato: Innenausbau | 532 | 28.122 |
-| 47 | `w461735882` | Reihenhaus an Via di San Niccolò | 8.950 | 28.123–28.127 |
-| 48 | `w461735882_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2.456 | 28.128–28.129 |
-| 49 | `w461735885` | Reihenhaus an Via di San Niccolò | 3.992 | 28.130–28.131 |
-| 50 | `w461735885_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.521 | 28.132 |
-| 51 | `w461735889` | Reihenhaus an Via di San Niccolò | 2.178 | 28.133–28.134 |
-| 52 | `w461735889_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 874 | 28.135 |
-| 53 | `w461735892` | Reihenhaus an Via di San Niccolò | 5.496 | 28.136–28.138 |
-| 54 | `w461735892_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.299 | 28.139 |
+| 3 | `r6820326` | Reihenhaus an Via di San Niccolò | 15.976 | 28.12–28.20 |
+| 4 | `r6820326_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.258 | 28.21–28.23 |
+| 5 | `r6820328` | Reihenhaus an Via di San Niccolò | 9.694 | 28.24–28.28 |
+| 6 | `r6820328_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.737 | 28.29 |
+| 7 | `r6820329` | Reihenhaus an Via di San Niccolò | 18.572 | 28.30–28.40 |
+| 8 | `r6820329_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.128 | 28.41–28.42 |
+| 9 | `w461735823` | Reihenhaus an Via di San Niccolò | 12.983 | 28.43–28.49 |
+| 10 | `w461735823_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.301 | 28.50 |
+| 11 | `w461735827` | Reihenhaus an Via di San Niccolò | 5.364 | 28.51–28.53 |
+| 12 | `w461735827_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.202 | 28.54 |
+| 13 | `w461735828` | Reihenhaus an Via di San Niccolò | 11.534 | 28.55–28.60 |
+| 14 | `w461735828_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.455 | 28.61–28.63 |
+| 15 | `w461735829` | Reihenhaus an Via di San Niccolò | 11.204 | 28.64–28.69 |
+| 16 | `w461735829_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.836 | 28.70 |
+| 17 | `w461735830` | Reihenhaus an Via di San Niccolò | 4.811 | 28.71–28.73 |
+| 18 | `w461735830_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.142 | 28.74 |
+| 19 | `w461735838` | Reihenhaus an Via di San Niccolò | 8.302 | 28.75–28.79 |
+| 20 | `w461735838_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.894 | 28.80 |
+| 21 | `w461735840` | Reihenhaus an Via di San Niccolò | 5.356 | 28.81–28.83 |
+| 22 | `w461735840_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.359 | 28.84 |
+| 23 | `w461735844` | Reihenhaus an Via di San Niccolò | 3.591 | 28.85–28.86 |
+| 24 | `w461735844_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 703 | 28.87 |
+| 25 | `w461735845` | Reihenhaus an Via San Miniato | 6.058 | 28.88–28.90 |
+| 26 | `w461735845_innen` | Reihenhaus an Via San Miniato: Innenausbau | 1.653 | 28.91 |
+| 27 | `w461735850` | Reihenhaus an Via di San Niccolò | 4.941 | 28.92–28.94 |
+| 28 | `w461735850_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.215 | 28.95 |
+| 29 | `w461735853` | Reihenhaus an Via San Miniato | 4.797 | 28.96–28.98 |
+| 30 | `w461735853_innen` | Reihenhaus an Via San Miniato: Innenausbau | 674 | 28.99 |
+| 31 | `w461735855` | Reihenhaus an Via di San Niccolò | 2.116 | 28.100–28.101 |
+| 32 | `w461735855_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 685 | 28.102 |
+| 33 | `w461735858` | Reihenhaus an Via di San Niccolò | 5.538 | 28.103–28.105 |
+| 34 | `w461735858_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.522 | 28.106 |
+| 35 | `w461735861` | Reihenhaus an Via di San Niccolò | 3.490 | 28.107–28.108 |
+| 36 | `w461735861_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 866 | 28.109 |
+| 37 | `w461735867` | Reihenhaus an Via di San Niccolò | 7.264 | 28.110–28.113 |
+| 38 | `w461735867_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.292 | 28.114 |
+| 39 | `w461735868` | Reihenhaus an Via di San Niccolò | 3.784 | 28.115–28.116 |
+| 40 | `w461735868_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 884 | 28.117 |
+| 41 | `w461735869` | Reihenhaus an Via di San Niccolò | 10.912 | 28.118–28.123 |
+| 42 | `w461735869_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.973 | 28.124 |
+| 43 | `w461735877` | Reihenhaus an Via di San Niccolò | 1.039 | 28.125 |
+| 44 | `w461735877_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 790 | 28.126 |
+| 45 | `w461735881` | Reihenhaus an Via San Miniato | 5.303 | 28.127–28.129 |
+| 46 | `w461735881_innen` | Reihenhaus an Via San Miniato: Innenausbau | 532 | 28.130 |
+| 47 | `w461735882` | Reihenhaus an Via di San Niccolò | 8.950 | 28.131–28.135 |
+| 48 | `w461735882_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2.456 | 28.136–28.137 |
+| 49 | `w461735885` | Reihenhaus an Via di San Niccolò | 3.992 | 28.138–28.139 |
+| 50 | `w461735885_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.521 | 28.140 |
+| 51 | `w461735889` | Reihenhaus an Via di San Niccolò | 2.444 | 28.141–28.142 |
+| 52 | `w461735889_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 874 | 28.143 |
+| 53 | `w461735892` | Reihenhaus an Via di San Niccolò | 5.496 | 28.144–28.146 |
+| 54 | `w461735892_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.299 | 28.147 |
 
 ## Bauschritte
 
-### Schritt 28.1 – Reihenhaus an Via di San Niccolò – Teil 1/8 (Y 63–63)
+### Schritt 28.1 – Reihenhaus an Via di San Niccolò – Teil 1/8 (Y 63–64)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.541
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 571
+- **Bauteile:** `r6820324`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 571 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.2 – Reihenhaus an Via di San Niccolò – Teil 2/8 (Y 65–66)
+
+- **Y-Bereich:** 65 bis 66
+- **Blöcke:** 1.825
 - **Bauteile:** `r6820324`
 
 **Teileliste**
@@ -126,6 +156,9 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.541 |
+| Weißer Beton | `white_concrete` | 273 |
+| Graues Buntglas | `gray_stained_glass` | 7 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
@@ -143,20 +176,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.2 – Reihenhaus an Via di San Niccolò – Teil 2/8 (Y 64–69)
+### Schritt 28.3 – Reihenhaus an Via di San Niccolò – Teil 3/8 (Y 67–73)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.701
+- **Y-Bereich:** 67 bis 73
+- **Blöcke:** 2.031
 - **Bauteile:** `r6820324`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.531 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
+| Weißer Beton | `white_concrete` | 1.864 |
+| Graues Buntglas | `gray_stained_glass` | 89 |
 | Fichtenholz-Bretter | `spruce_planks` | 48 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 30 |
 
 **Beschreibung**
 
@@ -174,20 +207,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.3 – Reihenhaus an Via di San Niccolò – Teil 3/8 (Y 70–74)
+### Schritt 28.4 – Reihenhaus an Via di San Niccolò – Teil 4/8 (Y 74–80)
 
-- **Y-Bereich:** 70 bis 74
-- **Blöcke:** 1.517
+- **Y-Bereich:** 74 bis 80
+- **Blöcke:** 2.077
 - **Bauteile:** `r6820324`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.461 |
-| Graues Buntglas | `gray_stained_glass` | 25 |
-| Fichtenholz-Bretter | `spruce_planks` | 23 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Weißer Beton | `white_concrete` | 1.911 |
+| Graues Buntglas | `gray_stained_glass` | 97 |
+| Fichtenholz-Bretter | `spruce_planks` | 69 |
 
 **Beschreibung**
 
@@ -205,39 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.4 – Reihenhaus an Via di San Niccolò – Teil 4/8 (Y 75–79)
+### Schritt 28.5 – Reihenhaus an Via di San Niccolò – Teil 5/8 (Y 81–86)
 
-- **Y-Bereich:** 75 bis 79
-- **Blöcke:** 1.481
-- **Bauteile:** `r6820324`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.363 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Fichtenholz-Bretter | `spruce_planks` | 46 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.5 – Reihenhaus an Via di San Niccolò – Teil 5/8 (Y 80–85)
-
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.770
 - **Bauteile:** `r6820324`
 
@@ -265,17 +267,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.6 – Reihenhaus an Via di San Niccolò – Teil 6/8 (Y 86–90)
+### Schritt 28.6 – Reihenhaus an Via di San Niccolò – Teil 6/8 (Y 87–92)
 
-- **Y-Bereich:** 86 bis 90
-- **Blöcke:** 1.499
+- **Y-Bereich:** 87 bis 92
+- **Blöcke:** 1.806
 - **Bauteile:** `r6820324`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.403 |
+| Weißer Beton | `white_concrete` | 1.710 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 | Fichtenholz-Bretter | `spruce_planks` | 46 |
 
@@ -295,9 +297,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.7 – Reihenhaus an Via di San Niccolò – Teil 7/8 (Y 91–94)
+### Schritt 28.7 – Reihenhaus an Via di San Niccolò – Teil 7/8 (Y 93–96)
 
-- **Y-Bereich:** 91 bis 94
+- **Y-Bereich:** 93 bis 96
 - **Blöcke:** 1.889
 - **Bauteile:** `r6820324`
 
@@ -326,9 +328,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.8 – Reihenhaus an Via di San Niccolò – Teil 8/8 (Y 95–100)
+### Schritt 28.8 – Reihenhaus an Via di San Niccolò – Teil 8/8 (Y 97–102)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 97 bis 102
 - **Blöcke:** 1.341
 - **Bauteile:** `r6820324`
 
@@ -355,9 +357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.9 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 28.9 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 65–74)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.290
 - **Bauteile:** `r6820324_innen`
 
@@ -393,9 +395,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.10 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 28.10 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 75–81)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.277
 - **Bauteile:** `r6820324_innen`
 
@@ -433,9 +435,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.11 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 28.11 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 82–89)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 82 bis 89
 - **Blöcke:** 1.286
 - **Bauteile:** `r6820324_innen`
 
@@ -473,7 +475,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.12 – Reihenhaus an Via di San Niccolò – Teil 1/8 (Y 64–68)
+### Schritt 28.12 – Reihenhaus an Via di San Niccolò – Teil 1/9 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.411
@@ -501,9 +503,37 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.13 – Reihenhaus an Via di San Niccolò – Teil 2/8 (Y 69–71)
+### Schritt 28.13 – Reihenhaus an Via di San Niccolò – Teil 2/9 (Y 69–70)
 
-- **Y-Bereich:** 69 bis 71
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.715
+- **Bauteile:** `r6820326`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.715 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.14 – Reihenhaus an Via di San Niccolò – Teil 3/9 (Y 71–73)
+
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.962
 - **Bauteile:** `r6820326`
 
@@ -532,9 +562,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.14 – Reihenhaus an Via di San Niccolò – Teil 3/8 (Y 72–77)
+### Schritt 28.15 – Reihenhaus an Via di San Niccolò – Teil 4/9 (Y 74–79)
 
-- **Y-Bereich:** 72 bis 77
+- **Y-Bereich:** 74 bis 79
 - **Blöcke:** 1.828
 - **Bauteile:** `r6820326`
 
@@ -563,9 +593,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.15 – Reihenhaus an Via di San Niccolò – Teil 4/8 (Y 78–83)
+### Schritt 28.16 – Reihenhaus an Via di San Niccolò – Teil 5/9 (Y 80–85)
 
-- **Y-Bereich:** 78 bis 83
+- **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.842
 - **Bauteile:** `r6820326`
 
@@ -593,9 +623,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.16 – Reihenhaus an Via di San Niccolò – Teil 5/8 (Y 84–89)
+### Schritt 28.17 – Reihenhaus an Via di San Niccolò – Teil 6/9 (Y 86–91)
 
-- **Y-Bereich:** 84 bis 89
+- **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.863
 - **Bauteile:** `r6820326`
 
@@ -623,9 +653,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.17 – Reihenhaus an Via di San Niccolò – Teil 6/8 (Y 90–95)
+### Schritt 28.18 – Reihenhaus an Via di San Niccolò – Teil 7/9 (Y 92–97)
 
-- **Y-Bereich:** 90 bis 95
+- **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.884
 - **Bauteile:** `r6820326`
 
@@ -653,9 +683,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.18 – Reihenhaus an Via di San Niccolò – Teil 7/8 (Y 96–99)
+### Schritt 28.19 – Reihenhaus an Via di San Niccolò – Teil 8/9 (Y 98–101)
 
-- **Y-Bereich:** 96 bis 99
+- **Y-Bereich:** 98 bis 101
 - **Blöcke:** 1.456
 - **Bauteile:** `r6820326`
 
@@ -684,9 +714,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.19 – Reihenhaus an Via di San Niccolò – Teil 8/8 (Y 100–106)
+### Schritt 28.20 – Reihenhaus an Via di San Niccolò – Teil 9/9 (Y 102–108)
 
-- **Y-Bereich:** 100 bis 106
+- **Y-Bereich:** 102 bis 108
 - **Blöcke:** 2.015
 - **Bauteile:** `r6820326`
 
@@ -713,9 +743,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.20 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 69–78)
+### Schritt 28.21 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 71–80)
 
-- **Y-Bereich:** 69 bis 78
+- **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.091
 - **Bauteile:** `r6820326_innen`
 
@@ -753,9 +783,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.21 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 79–85)
+### Schritt 28.22 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 81–87)
 
-- **Y-Bereich:** 79 bis 85
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.079
 - **Bauteile:** `r6820326_innen`
 
@@ -795,9 +825,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.22 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 86–93)
+### Schritt 28.23 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 88–95)
 
-- **Y-Bereich:** 86 bis 93
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.088
 - **Bauteile:** `r6820326_innen`
 
@@ -837,25 +867,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.23 – Reihenhaus an Via di San Niccolò – Teil 1/5 (Y 64–67)
+### Schritt 28.24 – Reihenhaus an Via di San Niccolò – Teil 1/5 (Y 64–68)
 
-- **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.658
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.975
 - **Bauteile:** `r6820328`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 925 |
-| Polierter Tuffstein | `polished_tuff` | 724 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 9 |
+| Tuffstein | `tuff` | 1.958 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 15 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 9 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 17 |
 
 **Beschreibung**
 
@@ -873,19 +903,59 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.24 – Reihenhaus an Via di San Niccolò – Teil 2/5 (Y 68–76)
+### Schritt 28.25 – Reihenhaus an Via di San Niccolò – Teil 2/5 (Y 69–75)
 
-- **Y-Bereich:** 68 bis 76
-- **Blöcke:** 1.755
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.877
 - **Bauteile:** `r6820328`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.599 |
-| Polierter Andesit | `polished_andesite` | 101 |
+| Gelbe Keramik | `yellow_terracotta` | 1.034 |
+| Polierter Tuffstein | `polished_tuff` | 712 |
+| Polierter Andesit | `polished_andesite` | 73 |
+| Graues Buntglas | `gray_stained_glass` | 52 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.26 – Reihenhaus an Via di San Niccolò – Teil 3/5 (Y 76–85)
+
+- **Y-Bereich:** 76 bis 85
+- **Blöcke:** 1.961
+- **Bauteile:** `r6820328`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.739 |
+| Polierter Andesit | `polished_andesite` | 147 |
 | Graues Buntglas | `gray_stained_glass` | 55 |
+| Fichtenholz-Bretter | `spruce_planks` | 20 |
 
 **Beschreibung**
 
@@ -903,49 +973,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.25 – Reihenhaus an Via di San Niccolò – Teil 3/5 (Y 77–85)
+### Schritt 28.27 – Reihenhaus an Via di San Niccolò – Teil 4/5 (Y 86–95)
 
-- **Y-Bereich:** 77 bis 85
-- **Blöcke:** 1.764
+- **Y-Bereich:** 86 bis 95
+- **Blöcke:** 1.952
 - **Bauteile:** `r6820328`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.504 |
-| Polierter Andesit | `polished_andesite` | 170 |
-| Graues Buntglas | `gray_stained_glass` | 65 |
-| Fichtenholz-Bretter | `spruce_planks` | 25 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.26 – Reihenhaus an Via di San Niccolò – Teil 4/5 (Y 86–94)
-
-- **Y-Bereich:** 86 bis 94
-- **Blöcke:** 1.740
-- **Bauteile:** `r6820328`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.488 |
-| Polierter Andesit | `polished_andesite` | 144 |
+| Gelbe Keramik | `yellow_terracotta` | 1.661 |
+| Polierter Andesit | `polished_andesite` | 183 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Fichtenholz-Bretter | `spruce_planks` | 30 |
 
@@ -965,10 +1004,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.27 – Reihenhaus an Via di San Niccolò – Teil 5/5 (Y 95–101)
+### Schritt 28.28 – Reihenhaus an Via di San Niccolò – Teil 5/5 (Y 96–103)
 
-- **Y-Bereich:** 95 bis 101
-- **Blöcke:** 1.741
+- **Y-Bereich:** 96 bis 103
+- **Blöcke:** 1.929
 - **Bauteile:** `r6820328`
 
 **Teileliste**
@@ -976,11 +1015,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 976 |
-| Gelbe Keramik | `yellow_terracotta` | 530 |
-| Fichtenholz-Bretter | `spruce_planks` | 131 |
+| Gelbe Keramik | `yellow_terracotta` | 687 |
+| Fichtenholz-Bretter | `spruce_planks` | 136 |
+| Polierter Andesit | `polished_andesite` | 53 |
 | Ziegelsteine | `bricks` | 51 |
-| Polierter Andesit | `polished_andesite` | 40 |
-| Graues Buntglas | `gray_stained_glass` | 13 |
+| Graues Buntglas | `gray_stained_glass` | 26 |
 
 **Beschreibung**
 
@@ -998,9 +1037,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.28 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.29 – Reihenhaus an Via di San Niccolò: Innenausbau
 
-- **Y-Bereich:** 67 bis 91
+- **Y-Bereich:** 69 bis 93
 - **Blöcke:** 1.737
 - **Bauteile:** `r6820328_innen`
 
@@ -1010,13 +1049,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.578 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1040,9 +1079,149 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.29 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 63–65)
+### Schritt 28.30 – Reihenhaus an Via di San Niccolò – Teil 1/11 (Y 64–66)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 64 bis 66
+- **Blöcke:** 1.454
+- **Bauteile:** `r6820329`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.454 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.31 – Reihenhaus an Via di San Niccolò – Teil 2/11 (Y 67–68)
+
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.532
+- **Bauteile:** `r6820329`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.532 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.32 – Reihenhaus an Via di San Niccolò – Teil 3/11 (Y 69–70)
+
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.881
+- **Bauteile:** `r6820329`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.881 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.33 – Reihenhaus an Via di San Niccolò – Teil 4/11 (Y 71–71)
+
+- **Y-Bereich:** 71 bis 71
+- **Blöcke:** 1.068
+- **Bauteile:** `r6820329`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.068 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.34 – Reihenhaus an Via di San Niccolò – Teil 5/11 (Y 72–72)
+
+- **Y-Bereich:** 72 bis 72
+- **Blöcke:** 1.151
+- **Bauteile:** `r6820329`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.151 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.35 – Reihenhaus an Via di San Niccolò – Teil 6/11 (Y 73–75)
+
+- **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.841
 - **Bauteile:** `r6820329`
 
@@ -1071,10 +1250,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.30 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 66–72)
+### Schritt 28.36 – Reihenhaus an Via di San Niccolò – Teil 7/11 (Y 76–82)
 
-- **Y-Bereich:** 66 bis 72
-- **Blöcke:** 1.952
+- **Y-Bereich:** 76 bis 82
+- **Blöcke:** 1.962
 - **Bauteile:** `r6820329`
 
 **Teileliste**
@@ -1082,7 +1261,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.628 |
-| Polierter Andesit | `polished_andesite` | 220 |
+| Polierter Andesit | `polished_andesite` | 230 |
 | Graues Buntglas | `gray_stained_glass` | 104 |
 
 **Beschreibung**
@@ -1101,39 +1280,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.31 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 73–79)
+### Schritt 28.37 – Reihenhaus an Via di San Niccolò – Teil 8/11 (Y 83–89)
 
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.945
-- **Bauteile:** `r6820329`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.517 |
-| Polierter Andesit | `polished_andesite` | 295 |
-| Graues Buntglas | `gray_stained_glass` | 133 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.32 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 80–86)
-
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 83 bis 89
 - **Blöcke:** 1.954
 - **Bauteile:** `r6820329`
 
@@ -1161,9 +1310,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.33 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 87–93)
+### Schritt 28.38 – Reihenhaus an Via di San Niccolò – Teil 9/11 (Y 90–96)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 90 bis 96
+- **Blöcke:** 1.954
+- **Bauteile:** `r6820329`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.517 |
+| Polierter Andesit | `polished_andesite` | 304 |
+| Graues Buntglas | `gray_stained_glass` | 133 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.39 – Reihenhaus an Via di San Niccolò – Teil 10/11 (Y 97–103)
+
+- **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.978
 - **Bauteile:** `r6820329`
 
@@ -1191,9 +1370,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.34 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 94–100)
+### Schritt 28.40 – Reihenhaus an Via di San Niccolò – Teil 11/11 (Y 104–110)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 104 bis 110
 - **Blöcke:** 1.797
 - **Bauteile:** `r6820329`
 
@@ -1220,9 +1399,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.35 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 28.41 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 73–88)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 73 bis 88
 - **Blöcke:** 1.088
 - **Bauteile:** `r6820329_innen`
 
@@ -1262,9 +1441,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.36 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 28.42 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 89–97)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 89 bis 97
 - **Blöcke:** 2.040
 - **Bauteile:** `r6820329_innen`
 
@@ -1304,7 +1483,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.37 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 65–72)
+### Schritt 28.43 – Reihenhaus an Via di San Niccolò – Teil 1/7 (Y 65–72)
 
 - **Y-Bereich:** 65 bis 72
 - **Blöcke:** 1.862
@@ -1339,28 +1518,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.38 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 73–76)
+### Schritt 28.44 – Reihenhaus an Via di San Niccolò – Teil 2/7 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
-- **Blöcke:** 1.642
+- **Blöcke:** 1.759
 - **Bauteile:** `w461735823`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 837 |
-| Polierter Tuffstein | `polished_tuff` | 601 |
-| Glatter Sandstein | `smooth_sandstone` | 179 |
-| Graues Buntglas | `gray_stained_glass` | 9 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Tuffstein | `tuff` | 1.740 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 18 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 19 |
 
 **Beschreibung**
 
@@ -1378,20 +1554,57 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.39 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 77–85)
+### Schritt 28.45 – Reihenhaus an Via di San Niccolò – Teil 3/7 (Y 77–80)
 
-- **Y-Bereich:** 77 bis 85
-- **Blöcke:** 1.857
+- **Y-Bereich:** 77 bis 80
+- **Blöcke:** 2.025
 - **Bauteile:** `w461735823`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.584 |
-| Weißer Beton | `white_concrete` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
-| Glatter Stein | `smooth_stone` | 58 |
+| Tuffstein | `tuff` | 1.434 |
+| Polierter Tuffstein | `polished_tuff` | 555 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 32 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 36 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.46 – Reihenhaus an Via di San Niccolò – Teil 4/7 (Y 81–89)
+
+- **Y-Bereich:** 81 bis 89
+- **Blöcke:** 1.833
+- **Bauteile:** `w461735823`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.577 |
+| Graues Buntglas | `gray_stained_glass` | 91 |
+| Glatter Stein | `smooth_stone` | 66 |
+| Weißer Beton | `white_concrete` | 66 |
 | Fichtenholz-Bretter | `spruce_planks` | 33 |
 
 **Beschreibung**
@@ -1410,40 +1623,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.40 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 86–93)
+### Schritt 28.47 – Reihenhaus an Via di San Niccolò – Teil 5/7 (Y 90–98)
 
-- **Y-Bereich:** 86 bis 93
-- **Blöcke:** 1.675
-- **Bauteile:** `w461735823`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.352 |
-| Weißer Beton | `white_concrete` | 138 |
-| Graues Buntglas | `gray_stained_glass` | 95 |
-| Fichtenholz-Bretter | `spruce_planks` | 90 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.41 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 94–102)
-
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 90 bis 98
 - **Blöcke:** 1.895
 - **Bauteile:** `w461735823`
 
@@ -1451,8 +1633,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.572 |
-| Weißer Beton | `white_concrete` | 138 |
+| Glatter Sandstein | `smooth_sandstone` | 1.538 |
+| Weißer Beton | `white_concrete` | 172 |
 | Graues Buntglas | `gray_stained_glass` | 95 |
 | Fichtenholz-Bretter | `spruce_planks` | 90 |
 
@@ -1472,22 +1654,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.42 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 103–110)
+### Schritt 28.48 – Reihenhaus an Via di San Niccolò – Teil 6/7 (Y 99–106)
 
-- **Y-Bereich:** 103 bis 110
-- **Blöcke:** 1.714
+- **Y-Bereich:** 99 bis 106
+- **Blöcke:** 1.692
 - **Bauteile:** `w461735823`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 875 |
-| Glatter Sandstein | `smooth_sandstone` | 558 |
-| Fichtenholz-Bretter | `spruce_planks` | 181 |
-| Weißer Beton | `white_concrete` | 48 |
-| Ziegelsteine | `bricks` | 33 |
-| Graues Buntglas | `gray_stained_glass` | 19 |
+| Glatter Sandstein | `smooth_sandstone` | 1.420 |
+| Weißer Beton | `white_concrete` | 124 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
+| Fichtenholz-Bretter | `spruce_planks` | 72 |
 
 **Beschreibung**
 
@@ -1505,9 +1685,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.43 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.49 – Reihenhaus an Via di San Niccolò – Teil 7/7 (Y 107–115)
 
-- **Y-Bereich:** 75 bis 99
+- **Y-Bereich:** 107 bis 115
+- **Blöcke:** 1.917
+- **Bauteile:** `w461735823`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 875 |
+| Glatter Sandstein | `smooth_sandstone` | 710 |
+| Fichtenholz-Bretter | `spruce_planks` | 199 |
+| Weißer Beton | `white_concrete` | 62 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Ziegelsteine | `bricks` | 33 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.50 – Reihenhaus an Via di San Niccolò: Innenausbau
+
+- **Y-Bereich:** 80 bis 104
 - **Blöcke:** 1.301
 - **Bauteile:** `w461735823_innen`
 
@@ -1545,19 +1758,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.44 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 63–73)
+### Schritt 28.51 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 64–72)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.699
+- **Y-Bereich:** 64 bis 72
+- **Blöcke:** 1.728
 - **Bauteile:** `w461735827`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.058 |
-| Polierter Tuffstein | `polished_tuff` | 486 |
-| Glatter Stein | `smooth_stone` | 124 |
+| Hellgrauer Beton | `light_gray_concrete` | 960 |
+| Polierter Tuffstein | `polished_tuff` | 487 |
+| Tuffstein | `tuff` | 154 |
+| Glatter Stein | `smooth_stone` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
 | Fichtenholz-Bretter | `spruce_planks` | 6 |
 
@@ -1577,18 +1791,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.45 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 74–86)
+### Schritt 28.52 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 73–87)
 
-- **Y-Bereich:** 74 bis 86
-- **Blöcke:** 1.604
+- **Y-Bereich:** 73 bis 87
+- **Blöcke:** 1.907
 - **Bauteile:** `w461735827`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.296 |
-| Glatter Stein | `smooth_stone` | 172 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.569 |
+| Glatter Stein | `smooth_stone` | 202 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
 | Fichtenholz-Bretter | `spruce_planks` | 48 |
 
@@ -1608,17 +1822,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.46 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 87–98)
+### Schritt 28.53 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 88–100)
 
-- **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.600
+- **Y-Bereich:** 88 bis 100
+- **Blöcke:** 1.729
 - **Bauteile:** `w461735827`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 783 |
+| Hellgrauer Beton | `light_gray_concrete` | 912 |
 | Terrakotta | `terracotta` | 627 |
 | Glatter Stein | `smooth_stone` | 101 |
 | Graues Buntglas | `gray_stained_glass` | 44 |
@@ -1641,23 +1855,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.47 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.54 – Reihenhaus an Via di San Niccolò: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.203
+- **Y-Bereich:** 65 bis 89
+- **Blöcke:** 1.202
 - **Bauteile:** `w461735827_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.047 |
+| Terrakotta | `terracotta` | 1.050 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 |
-| Seelaterne | `sea_lantern` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1681,7 +1897,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.48 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 64–66)
+### Schritt 28.55 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.958
@@ -1711,7 +1927,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.49 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 67–73)
+### Schritt 28.56 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 67–73)
 
 - **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.903
@@ -1742,7 +1958,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.50 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 74–80)
+### Schritt 28.57 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 74–80)
 
 - **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.901
@@ -1772,7 +1988,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.51 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 81–87)
+### Schritt 28.58 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 81–87)
 
 - **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.901
@@ -1802,7 +2018,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.52 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 88–94)
+### Schritt 28.59 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 88–94)
 
 - **Y-Bereich:** 88 bis 94
 - **Blöcke:** 1.935
@@ -1832,7 +2048,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.53 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 95–102)
+### Schritt 28.60 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 95–102)
 
 - **Y-Bereich:** 95 bis 102
 - **Blöcke:** 1.936
@@ -1861,7 +2077,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.54 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 64–73)
+### Schritt 28.61 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.154
@@ -1899,7 +2115,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.55 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 74–80)
+### Schritt 28.62 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 74–80)
 
 - **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.146
@@ -1939,7 +2155,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.56 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 81–88)
+### Schritt 28.63 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 81–88)
 
 - **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.155
@@ -1981,7 +2197,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.57 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 66–72)
+### Schritt 28.64 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 66–72)
 
 - **Y-Bereich:** 66 bis 72
 - **Blöcke:** 1.979
@@ -2016,7 +2232,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.58 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 73–75)
+### Schritt 28.65 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 73–75)
 
 - **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.998
@@ -2052,7 +2268,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.59 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 76–83)
+### Schritt 28.66 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 76–83)
 
 - **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.616
@@ -2083,7 +2299,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.60 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 84–92)
+### Schritt 28.67 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 84–92)
 
 - **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.826
@@ -2113,7 +2329,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.61 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 93–102)
+### Schritt 28.68 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 93–102)
 
 - **Y-Bereich:** 93 bis 102
 - **Blöcke:** 1.993
@@ -2143,7 +2359,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.62 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 103–110)
+### Schritt 28.69 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 103–110)
 
 - **Y-Bereich:** 103 bis 110
 - **Blöcke:** 1.792
@@ -2174,7 +2390,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.63 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.70 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 75 bis 99
 - **Blöcke:** 1.836
@@ -2214,7 +2430,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.64 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 66–74)
+### Schritt 28.71 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 66–74)
 
 - **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.607
@@ -2253,18 +2469,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.65 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 75–92)
+### Schritt 28.72 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 75–91)
 
-- **Y-Bereich:** 75 bis 92
-- **Blöcke:** 1.545
+- **Y-Bereich:** 75 bis 91
+- **Blöcke:** 1.602
 - **Bauteile:** `w461735830`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.277 |
-| Hellgrauer Beton | `light_gray_concrete` | 174 |
+| Weißer Beton | `white_concrete` | 1.351 |
+| Hellgrauer Beton | `light_gray_concrete` | 157 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 | Glatter Stein | `smooth_stone` | 19 |
 
@@ -2284,19 +2500,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.66 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 93–106)
+### Schritt 28.73 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 92–106)
 
-- **Y-Bereich:** 93 bis 106
-- **Blöcke:** 1.514
+- **Y-Bereich:** 92 bis 106
+- **Blöcke:** 1.602
 - **Bauteile:** `w461735830`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 629 |
+| Weißer Beton | `white_concrete` | 700 |
 | Terrakotta | `terracotta` | 614 |
-| Hellgrauer Beton | `light_gray_concrete` | 112 |
+| Hellgrauer Beton | `light_gray_concrete` | 129 |
 | Fichtenholz-Bretter | `spruce_planks` | 98 |
 | Ziegelsteine | `bricks` | 34 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
@@ -2317,17 +2533,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.67 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.74 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 71 bis 95
-- **Blöcke:** 1.171
+- **Blöcke:** 1.142
 - **Bauteile:** `w461735830_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.023 |
+| Terrakotta | `terracotta` | 994 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
@@ -2359,7 +2575,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.68 – Reihenhaus an Via di San Niccolò – Teil 1/5 (Y 66–71)
+### Schritt 28.75 – Reihenhaus an Via di San Niccolò – Teil 1/5 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
 - **Blöcke:** 1.946
@@ -2396,7 +2612,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.69 – Reihenhaus an Via di San Niccolò – Teil 2/5 (Y 72–79)
+### Schritt 28.76 – Reihenhaus an Via di San Niccolò – Teil 2/5 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.461
@@ -2427,7 +2643,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.70 – Reihenhaus an Via di San Niccolò – Teil 3/5 (Y 80–89)
+### Schritt 28.77 – Reihenhaus an Via di San Niccolò – Teil 3/5 (Y 80–89)
 
 - **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.650
@@ -2457,7 +2673,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.71 – Reihenhaus an Via di San Niccolò – Teil 4/5 (Y 90–99)
+### Schritt 28.78 – Reihenhaus an Via di San Niccolò – Teil 4/5 (Y 90–99)
 
 - **Y-Bereich:** 90 bis 99
 - **Blöcke:** 1.634
@@ -2487,7 +2703,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.72 – Reihenhaus an Via di San Niccolò – Teil 5/5 (Y 100–107)
+### Schritt 28.79 – Reihenhaus an Via di San Niccolò – Teil 5/5 (Y 100–107)
 
 - **Y-Bereich:** 100 bis 107
 - **Blöcke:** 1.611
@@ -2518,7 +2734,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.73 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.80 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 71 bis 95
 - **Blöcke:** 1.894
@@ -2560,7 +2776,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.74 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 63–74)
+### Schritt 28.81 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 63–74)
 
 - **Y-Bereich:** 63 bis 74
 - **Blöcke:** 1.847
@@ -2600,7 +2816,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.75 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 75–87)
+### Schritt 28.82 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 75–87)
 
 - **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.696
@@ -2630,7 +2846,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.76 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 88–100)
+### Schritt 28.83 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 88–100)
 
 - **Y-Bereich:** 88 bis 100
 - **Blöcke:** 1.813
@@ -2663,7 +2879,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.77 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.84 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.359
@@ -2705,7 +2921,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.78 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–78)
+### Schritt 28.85 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.830
@@ -2737,7 +2953,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.79 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 79–96)
+### Schritt 28.86 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 79–96)
 
 - **Y-Bereich:** 79 bis 96
 - **Blöcke:** 1.761
@@ -2769,7 +2985,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.80 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.87 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 703
@@ -2809,7 +3025,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.81 – Reihenhaus an Via San Miniato – Teil 1/3 (Y 62–71)
+### Schritt 28.88 – Reihenhaus an Via San Miniato – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.993
@@ -2842,7 +3058,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.82 – Reihenhaus an Via San Miniato – Teil 2/3 (Y 72–85)
+### Schritt 28.89 – Reihenhaus an Via San Miniato – Teil 2/3 (Y 72–85)
 
 - **Y-Bereich:** 72 bis 85
 - **Blöcke:** 1.990
@@ -2872,7 +3088,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.83 – Reihenhaus an Via San Miniato – Teil 3/3 (Y 86–99)
+### Schritt 28.90 – Reihenhaus an Via San Miniato – Teil 3/3 (Y 86–99)
 
 - **Y-Bereich:** 86 bis 99
 - **Blöcke:** 2.075
@@ -2904,7 +3120,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.84 – Reihenhaus an Via San Miniato: Innenausbau
+### Schritt 28.91 – Reihenhaus an Via San Miniato: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.653
@@ -2944,7 +3160,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.85 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 65–74)
+### Schritt 28.92 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.640
@@ -2983,19 +3199,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.86 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 75–90)
+### Schritt 28.93 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 75–89)
 
-- **Y-Bereich:** 75 bis 90
-- **Blöcke:** 1.573
+- **Y-Bereich:** 75 bis 89
+- **Blöcke:** 1.636
 - **Bauteile:** `w461735850`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.351 |
-| Glatter Stein | `smooth_stone` | 147 |
-| Graues Buntglas | `gray_stained_glass` | 75 |
+| Endsteinziegel | `end_stone_bricks` | 1.430 |
+| Glatter Stein | `smooth_stone` | 138 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
 
 **Beschreibung**
 
@@ -3013,21 +3229,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.87 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 91–103)
+### Schritt 28.94 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 90–103)
 
-- **Y-Bereich:** 91 bis 103
-- **Blöcke:** 1.573
+- **Y-Bereich:** 90 bis 103
+- **Blöcke:** 1.665
 - **Bauteile:** `w461735850`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 808 |
+| Endsteinziegel | `end_stone_bricks` | 884 |
 | Terrakotta | `terracotta` | 608 |
-| Glatter Stein | `smooth_stone` | 88 |
+| Glatter Stein | `smooth_stone` | 97 |
+| Graues Buntglas | `gray_stained_glass` | 41 |
 | Ziegelsteine | `bricks` | 35 |
-| Graues Buntglas | `gray_stained_glass` | 34 |
 
 **Beschreibung**
 
@@ -3045,17 +3261,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.88 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.95 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 69 bis 93
-- **Blöcke:** 1.246
+- **Blöcke:** 1.215
 - **Bauteile:** `w461735850_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.095 |
+| Terrakotta | `terracotta` | 1.064 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
@@ -3087,7 +3303,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.89 – Reihenhaus an Via San Miniato – Teil 1/3 (Y 64–74)
+### Schritt 28.96 – Reihenhaus an Via San Miniato – Teil 1/3 (Y 64–74)
 
 - **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.545
@@ -3119,7 +3335,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.90 – Reihenhaus an Via San Miniato – Teil 2/3 (Y 75–86)
+### Schritt 28.97 – Reihenhaus an Via San Miniato – Teil 2/3 (Y 75–86)
 
 - **Y-Bereich:** 75 bis 86
 - **Blöcke:** 1.630
@@ -3149,7 +3365,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.91 – Reihenhaus an Via San Miniato – Teil 3/3 (Y 87–100)
+### Schritt 28.98 – Reihenhaus an Via San Miniato – Teil 3/3 (Y 87–100)
 
 - **Y-Bereich:** 87 bis 100
 - **Blöcke:** 1.622
@@ -3181,7 +3397,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.92 – Reihenhaus an Via San Miniato: Innenausbau
+### Schritt 28.99 – Reihenhaus an Via San Miniato: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 674
@@ -3223,7 +3439,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.93 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–78)
+### Schritt 28.100 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.052
@@ -3255,7 +3471,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.94 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 79–97)
+### Schritt 28.101 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 79–97)
 
 - **Y-Bereich:** 79 bis 97
 - **Blöcke:** 1.064
@@ -3288,7 +3504,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.95 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.102 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 685
@@ -3328,71 +3544,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.96 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 64–72)
+### Schritt 28.103 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 64–71)
 
-- **Y-Bereich:** 64 bis 72
-- **Blöcke:** 1.724
-- **Bauteile:** `w461735858`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 908 |
-| Polierter Tuffstein | `polished_tuff` | 597 |
-| Weißer Beton | `white_concrete` | 129 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Glatter Stein | `smooth_stone` | 26 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.97 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 73–87)
-
-- **Y-Bereich:** 73 bis 87
-- **Blöcke:** 1.809
-- **Bauteile:** `w461735858`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.251 |
-| Weißer Beton | `white_concrete` | 408 |
-| Graues Buntglas | `gray_stained_glass` | 150 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.98 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 88–100)
-
-- **Y-Bereich:** 88 bis 100
+- **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.793
 - **Bauteile:** `w461735858`
 
@@ -3400,8 +3554,71 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 983 |
+| Polierter Tuffstein | `polished_tuff` | 597 |
+| Weißer Beton | `white_concrete` | 129 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Glatter Stein | `smooth_stone` | 20 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.104 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 72–86)
+
+- **Y-Bereich:** 72 bis 86
+- **Blöcke:** 1.841
+- **Bauteile:** `w461735858`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.277 |
+| Weißer Beton | `white_concrete` | 408 |
+| Graues Buntglas | `gray_stained_glass` | 150 |
+| Glatter Stein | `smooth_stone` | 6 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.105 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 87–100)
+
+- **Y-Bereich:** 87 bis 100
+- **Blöcke:** 1.904
+- **Bauteile:** `w461735858`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 785 |
 | Terrakotta | `terracotta` | 785 |
-| Rosa Keramik | `pink_terracotta` | 674 |
 | Weißer Beton | `white_concrete` | 204 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 | Ziegelsteine | `bricks` | 55 |
@@ -3422,17 +3639,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.99 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.106 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
-- **Blöcke:** 1.538
+- **Blöcke:** 1.522
 - **Bauteile:** `w461735858_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.386 |
+| Terrakotta | `terracotta` | 1.370 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 28 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 26 |
@@ -3462,19 +3679,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.100 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 64–81)
+### Schritt 28.107 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 64–80)
 
-- **Y-Bereich:** 64 bis 81
-- **Blöcke:** 1.787
+- **Y-Bereich:** 64 bis 80
+- **Blöcke:** 1.719
 - **Bauteile:** `w461735861`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.324 |
+| Rosa Keramik | `pink_terracotta` | 1.270 |
 | Polierter Tuffstein | `polished_tuff` | 336 |
-| Polierter Andesit | `polished_andesite` | 97 |
+| Polierter Andesit | `polished_andesite` | 83 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
 | Grüner Beton | `green_concrete` | 4 |
 
@@ -3494,20 +3711,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.101 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 82–99)
+### Schritt 28.108 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 81–99)
 
-- **Y-Bereich:** 82 bis 99
-- **Blöcke:** 1.704
+- **Y-Bereich:** 81 bis 99
+- **Blöcke:** 1.771
 - **Bauteile:** `w461735861`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.044 |
-| Terrakotta | `terracotta` | 456 |
-| Polierter Andesit | `polished_andesite` | 72 |
-| Fichtenholz-Bretter | `spruce_planks` | 58 |
+| Rosa Keramik | `pink_terracotta` | 1.098 |
+| Terrakotta | `terracotta` | 454 |
+| Polierter Andesit | `polished_andesite` | 86 |
+| Fichtenholz-Bretter | `spruce_planks` | 59 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 | Ziegelsteine | `bricks` | 26 |
 | Grüner Beton | `green_concrete` | 8 |
@@ -3528,7 +3745,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.102 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.109 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
 - **Blöcke:** 866
@@ -3568,19 +3785,48 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.103 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 62–71)
+### Schritt 28.110 – Reihenhaus an Via di San Niccolò – Teil 1/4 (Y 63–67)
 
-- **Y-Bereich:** 62 bis 71
-- **Blöcke:** 1.635
+- **Y-Bereich:** 63 bis 67
+- **Blöcke:** 1.726
 - **Bauteile:** `w461735867`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.046 |
+| Tuffstein | `tuff` | 1.726 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.111 – Reihenhaus an Via di San Niccolò – Teil 2/4 (Y 68–77)
+
+- **Y-Bereich:** 68 bis 77
+- **Blöcke:** 1.967
+- **Bauteile:** `w461735867`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 875 |
 | Polierter Tuffstein | `polished_tuff` | 512 |
-| Glatter Stein | `smooth_stone` | 50 |
+| Tuffstein | `tuff` | 500 |
+| Glatter Stein | `smooth_stone` | 53 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 
 **Beschreibung**
@@ -3599,17 +3845,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.104 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 72–84)
+### Schritt 28.112 – Reihenhaus an Via di San Niccolò – Teil 3/4 (Y 78–91)
 
-- **Y-Bereich:** 72 bis 84
-- **Blöcke:** 1.577
+- **Y-Bereich:** 78 bis 91
+- **Blöcke:** 1.702
 - **Bauteile:** `w461735867`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.339 |
+| Glatter Sandstein | `smooth_sandstone` | 1.464 |
 | Glatter Stein | `smooth_stone` | 156 |
 | Graues Buntglas | `gray_stained_glass` | 82 |
 
@@ -3629,17 +3875,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.105 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 85–97)
+### Schritt 28.113 – Reihenhaus an Via di San Niccolò – Teil 4/4 (Y 92–104)
 
-- **Y-Bereich:** 85 bis 97
-- **Blöcke:** 1.685
+- **Y-Bereich:** 92 bis 104
+- **Blöcke:** 1.869
 - **Bauteile:** `w461735867`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 939 |
+| Glatter Sandstein | `smooth_sandstone` | 1.123 |
 | Terrakotta | `terracotta` | 638 |
 | Glatter Stein | `smooth_stone` | 69 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
@@ -3661,9 +3907,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.106 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.114 – Reihenhaus an Via di San Niccolò: Innenausbau
 
-- **Y-Bereich:** 62 bis 86
+- **Y-Bereich:** 69 bis 93
 - **Blöcke:** 1.292
 - **Bauteile:** `w461735867_innen`
 
@@ -3701,10 +3947,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.107 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 64–80)
+### Schritt 28.115 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 64–79)
 
-- **Y-Bereich:** 64 bis 80
-- **Blöcke:** 1.969
+- **Y-Bereich:** 64 bis 79
+- **Blöcke:** 1.910
 - **Bauteile:** `w461735868`
 
 **Teileliste**
@@ -3712,9 +3958,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.157 |
-| Weißer Beton | `white_concrete` | 438 |
+| Weißer Beton | `white_concrete` | 397 |
 | Polierter Tuffstein | `polished_tuff` | 305 |
-| Glatter Stein | `smooth_stone` | 52 |
+| Glatter Stein | `smooth_stone` | 34 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
 | Polierter Andesit | `polished_andesite` | 5 |
 
@@ -3734,19 +3980,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.108 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 81–105)
+### Schritt 28.116 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 80–105)
 
-- **Y-Bereich:** 81 bis 105
-- **Blöcke:** 1.923
+- **Y-Bereich:** 80 bis 105
+- **Blöcke:** 1.874
 - **Bauteile:** `w461735868`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.382 |
+| Weißer Beton | `white_concrete` | 1.315 |
 | Terrakotta | `terracotta` | 317 |
-| Glatter Stein | `smooth_stone` | 141 |
+| Glatter Stein | `smooth_stone` | 159 |
 | Graues Buntglas | `gray_stained_glass` | 77 |
 | Ziegelsteine | `bricks` | 6 |
 
@@ -3766,7 +4012,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.109 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.117 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 70 bis 94
 - **Blöcke:** 884
@@ -3806,7 +4052,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.110 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 64–71)
+### Schritt 28.118 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 64–71)
 
 - **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.846
@@ -3841,7 +4087,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.111 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 72–75)
+### Schritt 28.119 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 72–75)
 
 - **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.767
@@ -3879,7 +4125,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.112 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 76–84)
+### Schritt 28.120 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 76–84)
 
 - **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.872
@@ -3912,7 +4158,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.113 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 85–93)
+### Schritt 28.121 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 85–93)
 
 - **Y-Bereich:** 85 bis 93
 - **Blöcke:** 1.887
@@ -3943,17 +4189,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.114 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 94–101)
+### Schritt 28.122 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 94–101)
 
 - **Y-Bereich:** 94 bis 101
-- **Blöcke:** 1.880
+- **Blöcke:** 1.780
 - **Bauteile:** `w461735869`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.735 |
+| Weißer Beton | `white_concrete` | 1.635 |
 | Hellgrauer Beton | `light_gray_concrete` | 90 |
 | Graues Buntglas | `gray_stained_glass` | 45 |
 | Grüner Beton | `green_concrete` | 10 |
@@ -3974,7 +4220,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.115 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 102–109)
+### Schritt 28.123 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 102–109)
 
 - **Y-Bereich:** 102 bis 109
 - **Blöcke:** 1.760
@@ -4005,7 +4251,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.116 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.124 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 73 bis 97
 - **Blöcke:** 1.973
@@ -4047,7 +4293,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.117 – Reihenhaus an Via di San Niccolò
+### Schritt 28.125 – Reihenhaus an Via di San Niccolò
 
 - **Y-Bereich:** 62 bis 94
 - **Blöcke:** 1.039
@@ -4079,7 +4325,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.118 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.126 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 790
@@ -4121,21 +4367,28 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.119 – Reihenhaus an Via San Miniato – Teil 1/3 (Y 66–77)
+### Schritt 28.127 – Reihenhaus an Via San Miniato – Teil 1/3 (Y 66–76)
 
-- **Y-Bereich:** 66 bis 77
-- **Blöcke:** 1.446
+- **Y-Bereich:** 66 bis 76
+- **Blöcke:** 1.740
 - **Bauteile:** `w461735881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 821 |
-| Polierter Tuffstein | `polished_tuff` | 262 |
-| Tuffstein | `tuff` | 171 |
-| Polierter Andesit | `polished_andesite` | 158 |
-| Graues Buntglas | `gray_stained_glass` | 34 |
+| Tuffstein | `tuff` | 1.026 |
+| Glatter Sandstein | `smooth_sandstone` | 368 |
+| Polierter Tuffstein | `polished_tuff` | 260 |
+| Polierter Andesit | `polished_andesite` | 67 |
+| Graues Buntglas | `gray_stained_glass` | 17 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -4153,19 +4406,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.120 – Reihenhaus an Via San Miniato – Teil 2/3 (Y 78–90)
+### Schritt 28.128 – Reihenhaus an Via San Miniato – Teil 2/3 (Y 77–92)
 
-- **Y-Bereich:** 78 bis 90
-- **Blöcke:** 1.520
+- **Y-Bereich:** 77 bis 92
+- **Blöcke:** 1.847
 - **Bauteile:** `w461735881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.052 |
-| Polierter Andesit | `polished_andesite` | 318 |
-| Graues Buntglas | `gray_stained_glass` | 150 |
+| Glatter Sandstein | `smooth_sandstone` | 1.341 |
+| Polierter Andesit | `polished_andesite` | 354 |
+| Graues Buntglas | `gray_stained_glass` | 152 |
 
 **Beschreibung**
 
@@ -4183,20 +4436,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.121 – Reihenhaus an Via San Miniato – Teil 3/3 (Y 91–100)
+### Schritt 28.129 – Reihenhaus an Via San Miniato – Teil 3/3 (Y 93–104)
 
-- **Y-Bereich:** 91 bis 100
-- **Blöcke:** 1.424
+- **Y-Bereich:** 93 bis 104
+- **Blöcke:** 1.716
 - **Bauteile:** `w461735881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 841 |
+| Glatter Sandstein | `smooth_sandstone` | 1.061 |
 | Terrakotta | `terracotta` | 349 |
-| Polierter Andesit | `polished_andesite` | 159 |
-| Graues Buntglas | `gray_stained_glass` | 75 |
+| Polierter Andesit | `polished_andesite` | 216 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
 
 **Beschreibung**
 
@@ -4214,9 +4467,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.122 – Reihenhaus an Via San Miniato: Innenausbau
+### Schritt 28.130 – Reihenhaus an Via San Miniato: Innenausbau
 
-- **Y-Bereich:** 68 bis 92
+- **Y-Bereich:** 72 bis 96
 - **Blöcke:** 532
 - **Bauteile:** `w461735881_innen`
 
@@ -4254,7 +4507,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.123 – Reihenhaus an Via di San Niccolò – Teil 1/5 (Y 65–69)
+### Schritt 28.131 – Reihenhaus an Via di San Niccolò – Teil 1/5 (Y 65–69)
 
 - **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.808
@@ -4285,7 +4538,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.124 – Reihenhaus an Via di San Niccolò – Teil 2/5 (Y 70–77)
+### Schritt 28.132 – Reihenhaus an Via di San Niccolò – Teil 2/5 (Y 70–77)
 
 - **Y-Bereich:** 70 bis 77
 - **Blöcke:** 1.779
@@ -4316,7 +4569,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.125 – Reihenhaus an Via di San Niccolò – Teil 3/5 (Y 78–85)
+### Schritt 28.133 – Reihenhaus an Via di San Niccolò – Teil 3/5 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.764
@@ -4347,7 +4600,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.126 – Reihenhaus an Via di San Niccolò – Teil 4/5 (Y 86–93)
+### Schritt 28.134 – Reihenhaus an Via di San Niccolò – Teil 4/5 (Y 86–93)
 
 - **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.773
@@ -4378,7 +4631,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.127 – Reihenhaus an Via di San Niccolò – Teil 5/5 (Y 94–102)
+### Schritt 28.135 – Reihenhaus an Via di San Niccolò – Teil 5/5 (Y 94–102)
 
 - **Y-Bereich:** 94 bis 102
 - **Blöcke:** 1.826
@@ -4409,7 +4662,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.128 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 65–80)
+### Schritt 28.136 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 65–80)
 
 - **Y-Bereich:** 65 bis 80
 - **Blöcke:** 864
@@ -4449,7 +4702,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.129 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 81–89)
+### Schritt 28.137 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 81–89)
 
 - **Y-Bereich:** 81 bis 89
 - **Blöcke:** 1.592
@@ -4489,7 +4742,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.130 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 65–82)
+### Schritt 28.138 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 65–82)
 
 - **Y-Bereich:** 65 bis 82
 - **Blöcke:** 2.033
@@ -4521,7 +4774,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.131 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 83–101)
+### Schritt 28.139 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 83–101)
 
 - **Y-Bereich:** 83 bis 101
 - **Blöcke:** 1.959
@@ -4554,7 +4807,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.132 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.140 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.521
@@ -4596,21 +4849,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.133 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 63–81)
+### Schritt 28.141 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 64–80)
 
-- **Y-Bereich:** 63 bis 81
-- **Blöcke:** 1.104
+- **Y-Bereich:** 64 bis 80
+- **Blöcke:** 1.207
 - **Bauteile:** `w461735889`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 654 |
+| Endsteinziegel | `end_stone_bricks` | 720 |
 | Polierter Tuffstein | `polished_tuff` | 299 |
-| Weißer Beton | `white_concrete` | 96 |
+| Weißer Beton | `white_concrete` | 79 |
+| Tuffstein | `tuff` | 59 |
 | Glatter Stein | `smooth_stone` | 29 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
+| Graues Buntglas | `gray_stained_glass` | 19 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
@@ -4629,21 +4883,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.134 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 82–95)
+### Schritt 28.142 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 81–97)
 
-- **Y-Bereich:** 82 bis 95
-- **Blöcke:** 1.074
+- **Y-Bereich:** 81 bis 97
+- **Blöcke:** 1.237
 - **Bauteile:** `w461735889`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 547 |
+| Endsteinziegel | `end_stone_bricks` | 684 |
 | Terrakotta | `terracotta` | 367 |
-| Weißer Beton | `white_concrete` | 87 |
-| Fichtenholz-Bretter | `spruce_planks` | 53 |
-| Graues Buntglas | `gray_stained_glass` | 20 |
+| Weißer Beton | `white_concrete` | 104 |
+| Fichtenholz-Bretter | `spruce_planks` | 57 |
+| Graues Buntglas | `gray_stained_glass` | 25 |
 
 **Beschreibung**
 
@@ -4661,9 +4915,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.135 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.143 – Reihenhaus an Via di San Niccolò: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 65 bis 89
 - **Blöcke:** 874
 - **Bauteile:** `w461735889_innen`
 
@@ -4701,7 +4955,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 28.136 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 65–75)
+### Schritt 28.144 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 65–75)
 
 - **Y-Bereich:** 65 bis 75
 - **Blöcke:** 1.851
@@ -4735,7 +4989,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.137 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 76–91)
+### Schritt 28.145 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 76–91)
 
 - **Y-Bereich:** 76 bis 91
 - **Blöcke:** 1.826
@@ -4767,7 +5021,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.138 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 92–106)
+### Schritt 28.146 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 92–106)
 
 - **Y-Bereich:** 92 bis 106
 - **Blöcke:** 1.819
@@ -4800,7 +5054,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.139 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 28.147 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 71 bis 95
 - **Blöcke:** 1.299

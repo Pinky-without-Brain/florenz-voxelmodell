@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 248.399 |
+| Blöcke | 248.529 |
 | Bauschritte | 126 |
 | Y-Bereich | 39 bis 60 |
 | X-Ausdehnung | -3104 bis -2785 (320 Blöcke) |
 | Z-Ausdehnung | -208 bis 111 (320 Blöcke) |
 | Kleinster Schritt | 153 Blöcke (Schritt 60.40) |
-| Mittlerer Schritt | 1.971 Blöcke |
+| Mittlerer Schritt | 1.972 Blöcke |
 | Größter Schritt | 2.084 Blöcke (Schritt 60.112) |
 
 ## Gesamt-Stückliste
@@ -24,7 +24,7 @@
 | Wasser | `water` | 141.316 | 56,9 % |
 | Kies | `gravel` | 71.127 | 28,6 % |
 | Grasblock | `grass_block` | 17.829 | 7,2 % |
-| Stein | `stone` | 6.960 | 2,8 % |
+| Stein | `stone` | 7.090 | 2,9 % |
 | Polierter Tuffstein | `polished_tuff` | 4.569 | 1,8 % |
 | Glatter Stein | `smooth_stone` | 3.934 | 1,6 % |
 | Polierter Andesit | `polished_andesite` | 2.664 | 1,1 % |
@@ -33,7 +33,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 8.605 | 60.1–60.5 |
+| 1 | `boeschung` | Böschung und Mantel | 8.735 | 60.1–60.5 |
 | 2 | `arno_bett` | Flussbett | 70.658 | 60.6–60.40 |
 | 3 | `arno_wasser` | Arno | 141.316 | 60.41–60.109 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 2.999 | 60.109–60.110 |
@@ -163,14 +163,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 60.5 – Böschung und Mantel – Teil 5/5 (Y 54–59)
 
 - **Y-Bereich:** 54 bis 59
-- **Blöcke:** 1.757
+- **Blöcke:** 1.887
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.757 |
+| Stein | `stone` | 1.887 |
 
 **Beschreibung**
 

@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 101.661 |
+| Blöcke | 101.862 |
 | Bauschritte | 60 |
 | Y-Bereich | 61 bis 103 |
 | X-Ausdehnung | -1012 bis -902 (111 Blöcke) |
 | Z-Ausdehnung | 208 bis 368 (161 Blöcke) |
 | Kleinster Schritt | 1.064 Blöcke (Schritt 10.16) |
-| Mittlerer Schritt | 1.694 Blöcke |
+| Mittlerer Schritt | 1.698 Blöcke |
 | Größter Schritt | 2.082 Blöcke (Schritt 10.20) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 35.575 | 35,0 % |
+| Terrakotta | `terracotta` | 35.575 | 34,9 % |
 | Endsteinziegel | `end_stone_bricks` | 12.495 | 12,3 % |
-| Polierter Tuffstein | `polished_tuff` | 11.583 | 11,4 % |
-| Tuffstein | `tuff` | 10.288 | 10,1 % |
-| Polierter Andesit | `polished_andesite` | 7.678 | 7,6 % |
+| Polierter Tuffstein | `polished_tuff` | 11.584 | 11,4 % |
+| Tuffstein | `tuff` | 10.478 | 10,3 % |
+| Polierter Andesit | `polished_andesite` | 7.678 | 7,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 6.918 | 6,8 % |
-| Glatter Stein | `smooth_stone` | 5.822 | 5,7 % |
+| Glatter Stein | `smooth_stone` | 5.834 | 5,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.546 | 3,5 % |
 | Graues Buntglas | `gray_stained_glass` | 2.869 | 2,8 % |
-| Weißer Beton | `white_concrete` | 1.898 | 1,9 % |
+| Weißer Beton | `white_concrete` | 1.899 | 1,9 % |
 | Ziegelsteine | `bricks` | 1.059 | 1,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 946 | 0,9 % |
 | Grüner Beton | `green_concrete` | 498 | 0,5 % |
-| Seelaterne | `sea_lantern` | 181 | 0,2 % |
+| Seelaterne | `sea_lantern` | 178 | 0,2 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 76 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 76 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 30 | 0,0 % |
@@ -61,24 +61,24 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1612591` | Palazzo des Cinquecento an Via dei Giacomini | 22.158 | 10.1–10.13 |
+| 1 | `r1612591` | Palazzo des Cinquecento an Via dei Giacomini | 22.325 | 10.1–10.13 |
 | 2 | `r1612591_innen` | Palazzo des Cinquecento an Via dei Giacomini: Innenausbau | 4.043 | 10.14–10.15 |
-| 3 | `w307170310` | Palazzetto Tornabuoni | 14.382 | 10.16–10.23 |
-| 4 | `w307170310_innen` | Palazzetto Tornabuoni: Innenausbau | 3.875 | 10.24–10.25 |
+| 3 | `w307170310` | Palazzetto Tornabuoni | 14.371 | 10.16–10.23 |
+| 4 | `w307170310_innen` | Palazzetto Tornabuoni: Innenausbau | 3.874 | 10.24–10.25 |
 | 5 | `w307170313` | Palazzo Viviani della Robbia | 14.768 | 10.26–10.34 |
 | 6 | `w307170313_innen` | Palazzo Viviani della Robbia: Innenausbau | 4.120 | 10.35–10.36 |
 | 7 | `w307170316` | Palazzo Larderel | 8.117 | 10.37–10.41 |
 | 8 | `w307170316_innen` | Palazzo Larderel: Innenausbau | 2.140 | 10.42–10.43 |
-| 9 | `w482739750` | Renaissance-Palazzo an Via delle Belle Donne | 22.018 | 10.44–10.56 |
+| 9 | `w482739750` | Renaissance-Palazzo an Via delle Belle Donne | 22.064 | 10.44–10.56 |
 | 10 | `w482739750_innen` | Renaissance-Palazzo an Via delle Belle Donne: Innenausbau | 6.032 | 10.57–10.60 |
 | 11 | `strassenschilder` | Straßenschilder | 8 | 10.60 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Palazzo des Cinquecento an Via dei Giacomini – Teil 1/13 (Y 62–62)
+### Schritt 10.1 – Palazzo des Cinquecento an Via dei Giacomini – Teil 1/13 (Y 62–63)
 
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.253
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.419
 - **Bauteile:** `r1612591`
 
 **Teileliste**
@@ -86,6 +86,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.253 |
+| Tuffstein | `tuff` | 166 |
 
 **Beschreibung**
 
@@ -103,9 +104,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Palazzo des Cinquecento an Via dei Giacomini – Teil 2/13 (Y 62–63)
+### Schritt 10.2 – Palazzo des Cinquecento an Via dei Giacomini – Teil 2/13 (Y 63–64)
 
-- **Y-Bereich:** 62 bis 63
+- **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.784
 - **Bauteile:** `r1612591`
 
@@ -134,10 +135,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Palazzo des Cinquecento an Via dei Giacomini – Teil 3/13 (Y 64–66)
+### Schritt 10.3 – Palazzo des Cinquecento an Via dei Giacomini – Teil 3/13 (Y 65–67)
 
-- **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.628
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.629
 - **Bauteile:** `r1612591`
 
 **Teileliste**
@@ -145,7 +146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.259 |
-| Weißer Beton | `white_concrete` | 274 |
+| Weißer Beton | `white_concrete` | 275 |
 | Graues Buntglas | `gray_stained_glass` | 53 |
 | Grüner Beton | `green_concrete` | 19 |
 | Polierter Andesit | `polished_andesite` | 13 |
@@ -168,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Palazzo des Cinquecento an Via dei Giacomini – Teil 4/13 (Y 67–70)
+### Schritt 10.4 – Palazzo des Cinquecento an Via dei Giacomini – Teil 4/13 (Y 68–71)
 
-- **Y-Bereich:** 67 bis 70
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 2.007
 - **Bauteile:** `r1612591`
 
@@ -202,9 +203,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Palazzo des Cinquecento an Via dei Giacomini – Teil 5/13 (Y 71–73)
+### Schritt 10.5 – Palazzo des Cinquecento an Via dei Giacomini – Teil 5/13 (Y 72–74)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.632
 - **Bauteile:** `r1612591`
 
@@ -233,9 +234,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.6 – Palazzo des Cinquecento an Via dei Giacomini – Teil 6/13 (Y 74–77)
+### Schritt 10.6 – Palazzo des Cinquecento an Via dei Giacomini – Teil 6/13 (Y 75–78)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 75 bis 78
 - **Blöcke:** 2.032
 - **Bauteile:** `r1612591`
 
@@ -265,9 +266,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Palazzo des Cinquecento an Via dei Giacomini – Teil 7/13 (Y 78–80)
+### Schritt 10.7 – Palazzo des Cinquecento an Via dei Giacomini – Teil 7/13 (Y 79–81)
 
-- **Y-Bereich:** 78 bis 80
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.536
 - **Bauteile:** `r1612591`
 
@@ -297,9 +298,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.8 – Palazzo des Cinquecento an Via dei Giacomini – Teil 8/13 (Y 81–83)
+### Schritt 10.8 – Palazzo des Cinquecento an Via dei Giacomini – Teil 8/13 (Y 82–84)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.632
 - **Bauteile:** `r1612591`
 
@@ -328,9 +329,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.9 – Palazzo des Cinquecento an Via dei Giacomini – Teil 9/13 (Y 84–87)
+### Schritt 10.9 – Palazzo des Cinquecento an Via dei Giacomini – Teil 9/13 (Y 85–88)
 
-- **Y-Bereich:** 84 bis 87
+- **Y-Bereich:** 85 bis 88
 - **Blöcke:** 2.032
 - **Bauteile:** `r1612591`
 
@@ -360,9 +361,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.10 – Palazzo des Cinquecento an Via dei Giacomini – Teil 10/13 (Y 88–90)
+### Schritt 10.10 – Palazzo des Cinquecento an Via dei Giacomini – Teil 10/13 (Y 89–91)
 
-- **Y-Bereich:** 88 bis 90
+- **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.536
 - **Bauteile:** `r1612591`
 
@@ -392,9 +393,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.11 – Palazzo des Cinquecento an Via dei Giacomini – Teil 11/13 (Y 91–92)
+### Schritt 10.11 – Palazzo des Cinquecento an Via dei Giacomini – Teil 11/13 (Y 92–93)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.398
 - **Bauteile:** `r1612591`
 
@@ -422,9 +423,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.12 – Palazzo des Cinquecento an Via dei Giacomini – Teil 12/13 (Y 93–94)
+### Schritt 10.12 – Palazzo des Cinquecento an Via dei Giacomini – Teil 12/13 (Y 94–95)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 2.068
 - **Bauteile:** `r1612591`
 
@@ -450,9 +451,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.13 – Palazzo des Cinquecento an Via dei Giacomini – Teil 13/13 (Y 95–102)
+### Schritt 10.13 – Palazzo des Cinquecento an Via dei Giacomini – Teil 13/13 (Y 96–103)
 
-- **Y-Bereich:** 95 bis 102
+- **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.620
 - **Bauteile:** `r1612591`
 
@@ -479,9 +480,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.14 – Palazzo des Cinquecento an Via dei Giacomini: Innenausbau – Teil 1/2 (Y 62–72)
+### Schritt 10.14 – Palazzo des Cinquecento an Via dei Giacomini: Innenausbau – Teil 1/2 (Y 63–73)
 
-- **Y-Bereich:** 62 bis 72
+- **Y-Bereich:** 63 bis 73
 - **Blöcke:** 2.021
 - **Bauteile:** `r1612591_innen`
 
@@ -521,9 +522,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.15 – Palazzo des Cinquecento an Via dei Giacomini: Innenausbau – Teil 2/2 (Y 73–83)
+### Schritt 10.15 – Palazzo des Cinquecento an Via dei Giacomini: Innenausbau – Teil 2/2 (Y 74–84)
 
-- **Y-Bereich:** 73 bis 83
+- **Y-Bereich:** 74 bis 84
 - **Blöcke:** 2.022
 - **Bauteile:** `r1612591_innen`
 
@@ -596,14 +597,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.17 – Palazzetto Tornabuoni – Teil 2/8 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.956
+- **Blöcke:** 1.957
 - **Bauteile:** `w307170310`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.098 |
+| Polierter Tuffstein | `polished_tuff` | 1.099 |
 | Tuffstein | `tuff` | 531 |
 | Polierter Andesit | `polished_andesite` | 209 |
 | Tuffsteinziegel | `tuff_bricks` | 111 |
@@ -723,7 +724,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.21 – Palazzetto Tornabuoni – Teil 6/8 (Y 88–92)
 
 - **Y-Bereich:** 88 bis 92
-- **Blöcke:** 1.619
+- **Blöcke:** 1.620
 - **Bauteile:** `w307170310`
 
 **Teileliste**
@@ -732,7 +733,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 825 |
 | Polierter Andesit | `polished_andesite` | 433 |
-| Glatter Stein | `smooth_stone` | 265 |
+| Glatter Stein | `smooth_stone` | 266 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
@@ -754,16 +755,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.22 – Palazzetto Tornabuoni – Teil 7/8 (Y 93–95)
 
 - **Y-Bereich:** 93 bis 95
-- **Blöcke:** 1.953
+- **Blöcke:** 1.940
 - **Bauteile:** `w307170310`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.381 |
+| Terrakotta | `terracotta` | 1.379 |
 | Glatter Stein | `smooth_stone` | 271 |
-| Tuffstein | `tuff` | 194 |
+| Tuffstein | `tuff` | 183 |
 | Polierter Andesit | `polished_andesite` | 107 |
 
 **Beschreibung**
@@ -814,16 +815,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.24 – Palazzetto Tornabuoni: Innenausbau – Teil 1/2 (Y 63–74)
 
 - **Y-Bereich:** 63 bis 74
-- **Blöcke:** 1.940
+- **Blöcke:** 1.939
 - **Bauteile:** `w307170310_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.863 |
+| Terrakotta | `terracotta` | 1.864 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 24 |
+| Seelaterne | `sea_lantern` | 22 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -863,9 +864,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.863 |
+| Terrakotta | `terracotta` | 1.864 |
 | Glatter Stein | `smooth_stone` | 24 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 11 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
@@ -1565,14 +1566,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.46 – Renaissance-Palazzo an Via delle Belle Donne – Teil 3/13 (Y 62–65)
 
 - **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.764
+- **Blöcke:** 1.799
 - **Bauteile:** `w482739750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 827 |
+| Tuffstein | `tuff` | 862 |
 | Polierter Andesit | `polished_andesite` | 547 |
 | Tuffsteinziegel | `tuff_bricks` | 320 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
@@ -1784,14 +1785,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.53 – Renaissance-Palazzo an Via delle Belle Donne – Teil 10/13 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
-- **Blöcke:** 1.694
+- **Blöcke:** 1.705
 - **Bauteile:** `w482739750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 843 |
+| Glatter Stein | `smooth_stone` | 854 |
 | Polierter Andesit | `polished_andesite` | 455 |
 | Tuffstein | `tuff` | 396 |
 

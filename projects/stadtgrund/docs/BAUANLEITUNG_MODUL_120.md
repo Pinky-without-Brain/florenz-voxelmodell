@@ -8,51 +8,51 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 81.755 |
+| Blöcke | 83.161 |
 | Bauschritte | 49 |
 | Y-Bereich | 52 bis 79 |
 | X-Ausdehnung | -3104 bis -2785 (320 Blöcke) |
 | Z-Ausdehnung | 1072 bis 1391 (320 Blöcke) |
-| Kleinster Schritt | 382 Blöcke (Schritt 120.30) |
-| Mittlerer Schritt | 1.668 Blöcke |
+| Kleinster Schritt | 345 Blöcke (Schritt 120.5) |
+| Mittlerer Schritt | 1.697 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 120.44) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 30.919 | 37,8 % |
-| Polierter Tuffstein | `polished_tuff` | 25.207 | 30,8 % |
-| Glatter Stein | `smooth_stone` | 8.366 | 10,2 % |
-| Polierter Andesit | `polished_andesite` | 7.562 | 9,2 % |
-| Stein | `stone` | 5.884 | 7,2 % |
-| Tuffstein | `tuff` | 3.817 | 4,7 % |
+| Grasblock | `grass_block` | 30.914 | 37,2 % |
+| Polierter Tuffstein | `polished_tuff` | 25.198 | 30,3 % |
+| Glatter Stein | `smooth_stone` | 8.340 | 10,0 % |
+| Polierter Andesit | `polished_andesite` | 7.562 | 9,1 % |
+| Stein | `stone` | 7.340 | 8,8 % |
+| Tuffstein | `tuff` | 3.807 | 4,6 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 5.884 | 120.1–120.5 |
+| 1 | `boeschung` | Böschung und Mantel | 7.340 | 120.1–120.5 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 7.563 | 120.6–120.10 |
 | 3 | `strassen_fahrbahn` | Hauptstraßen | 7.562 | 120.11–120.15 |
-| 4 | `gehwege` | Gehwege | 8.366 | 120.16–120.20 |
-| 5 | `hof_pflaster` | Höfe | 17.644 | 120.21–120.30 |
-| 6 | `rasen` | Grün und offenes Gelände | 30.919 | 120.31–120.47 |
-| 7 | `mauern_stadt` | Stadtmauer | 3.817 | 120.48–120.49 |
+| 4 | `gehwege` | Gehwege | 8.340 | 120.16–120.20 |
+| 5 | `hof_pflaster` | Höfe | 17.635 | 120.21–120.30 |
+| 6 | `rasen` | Grün und offenes Gelände | 30.914 | 120.31–120.47 |
+| 7 | `mauern_stadt` | Stadtmauer | 3.807 | 120.48–120.49 |
 
 ## Bauschritte
 
 ### Schritt 120.1 – Böschung und Mantel – Teil 1/5 (Y 52–57)
 
 - **Y-Bereich:** 52 bis 57
-- **Blöcke:** 1.048
+- **Blöcke:** 1.464
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.048 |
+| Stein | `stone` | 1.464 |
 
 **Beschreibung**
 
@@ -73,14 +73,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 120.2 – Böschung und Mantel – Teil 2/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.156
+- **Blöcke:** 1.757
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.156 |
+| Stein | `stone` | 1.757 |
 
 **Beschreibung**
 
@@ -101,14 +101,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 120.3 – Böschung und Mantel – Teil 3/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.156
+- **Blöcke:** 1.741
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.156 |
+| Stein | `stone` | 1.741 |
 
 **Beschreibung**
 
@@ -129,14 +129,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 120.4 – Böschung und Mantel – Teil 4/5 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.065
+- **Blöcke:** 2.033
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.065 |
+| Stein | `stone` | 2.033 |
 
 **Beschreibung**
 
@@ -154,17 +154,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 120.5 – Böschung und Mantel – Teil 5/5 (Y 59–63)
+### Schritt 120.5 – Böschung und Mantel – Teil 5/5 (Y 60–63)
 
-- **Y-Bereich:** 59 bis 63
-- **Blöcke:** 1.459
+- **Y-Bereich:** 60 bis 63
+- **Blöcke:** 345
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.459 |
+| Stein | `stone` | 345 |
 
 **Beschreibung**
 
@@ -493,14 +493,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 120.17 – Gehwege – Teil 2/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.624
+- **Blöcke:** 1.618
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.624 |
+| Glatter Stein | `smooth_stone` | 1.618 |
 
 **Beschreibung**
 
@@ -521,14 +521,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 120.18 – Gehwege – Teil 3/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.623
+- **Blöcke:** 1.619
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.623 |
+| Glatter Stein | `smooth_stone` | 1.619 |
 
 **Beschreibung**
 
@@ -549,14 +549,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 120.19 – Gehwege – Teil 4/5 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.871
+- **Blöcke:** 1.868
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.871 |
+| Glatter Stein | `smooth_stone` | 1.868 |
 
 **Beschreibung**
 
@@ -577,14 +577,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 120.20 – Gehwege – Teil 5/5 (Y 59–61)
 
 - **Y-Bereich:** 59 bis 61
-- **Blöcke:** 2.052
+- **Blöcke:** 2.039
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.052 |
+| Glatter Stein | `smooth_stone` | 2.039 |
 
 **Beschreibung**
 
@@ -605,14 +605,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 120.21 – Höfe – Teil 1/10 (Y 52–58)
 
 - **Y-Bereich:** 52 bis 58
-- **Blöcke:** 1.787
+- **Blöcke:** 1.783
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.787 |
+| Polierter Tuffstein | `polished_tuff` | 1.783 |
 
 **Beschreibung**
 
@@ -633,14 +633,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 120.22 – Höfe – Teil 2/10 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.216
+- **Blöcke:** 1.211
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.216 |
+| Polierter Tuffstein | `polished_tuff` | 1.211 |
 
 **Beschreibung**
 
@@ -997,14 +997,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 120.35 – Grün und offenes Gelände – Teil 5/17 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.584
+- **Blöcke:** 1.583
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.584 |
+| Grasblock | `grass_block` | 1.583 |
 
 **Beschreibung**
 
@@ -1109,14 +1109,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 120.39 – Grün und offenes Gelände – Teil 9/17 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.842
+- **Blöcke:** 1.838
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.842 |
+| Grasblock | `grass_block` | 1.838 |
 
 **Beschreibung**
 
@@ -1361,14 +1361,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 120.48 – Stadtmauer – Teil 1/2 (Y 58–68)
 
 - **Y-Bereich:** 58 bis 68
-- **Blöcke:** 1.961
+- **Blöcke:** 1.955
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.961 |
+| Tuffstein | `tuff` | 1.955 |
 
 **Beschreibung**
 
@@ -1389,14 +1389,14 @@ Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.
 ### Schritt 120.49 – Stadtmauer – Teil 2/2 (Y 69–79)
 
 - **Y-Bereich:** 69 bis 79
-- **Blöcke:** 1.856
+- **Blöcke:** 1.852
 - **Bauteile:** `mauern_stadt`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.856 |
+| Tuffstein | `tuff` | 1.852 |
 
 **Beschreibung**
 

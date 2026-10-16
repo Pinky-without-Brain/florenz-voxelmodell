@@ -8,46 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 304.643 |
+| Blöcke | 304.834 |
 | Bauschritte | 188 |
 | Y-Bereich | 55 bis 102 |
 | X-Ausdehnung | -1054 bis -752 (303 Blöcke) |
 | Z-Ausdehnung | -1484 bis -1230 (255 Blöcke) |
-| Kleinster Schritt | 450 Blöcke (Schritt 6.136) |
-| Mittlerer Schritt | 1.620 Blöcke |
+| Kleinster Schritt | 444 Blöcke (Schritt 6.136) |
+| Mittlerer Schritt | 1.621 Blöcke |
 | Größter Schritt | 1.999 Blöcke (Schritt 6.89) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 79.166 | 26,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 68.383 | 22,4 % |
-| Polierter Tuffstein | `polished_tuff` | 33.035 | 10,8 % |
+| Terrakotta | `terracotta` | 79.167 | 26,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 68.414 | 22,4 % |
+| Polierter Tuffstein | `polished_tuff` | 33.038 | 10,8 % |
 | Weißer Beton | `white_concrete` | 17.967 | 5,9 % |
-| Glatter Stein | `smooth_stone` | 17.449 | 5,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 17.369 | 5,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 16.965 | 5,6 % |
+| Glatter Stein | `smooth_stone` | 17.450 | 5,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 17.387 | 5,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 17.073 | 5,6 % |
 | Rosa Keramik | `pink_terracotta` | 11.816 | 3,9 % |
-| Tuffstein | `tuff` | 10.849 | 3,6 % |
-| Graues Buntglas | `gray_stained_glass` | 8.078 | 2,7 % |
+| Tuffstein | `tuff` | 10.904 | 3,6 % |
+| Graues Buntglas | `gray_stained_glass` | 8.078 | 2,6 % |
 | Polierter Andesit | `polished_andesite` | 6.450 | 2,1 % |
 | Endsteinziegel | `end_stone_bricks` | 5.109 | 1,7 % |
-| Orange Keramik | `orange_terracotta` | 2.451 | 0,8 % |
+| Orange Keramik | `orange_terracotta` | 2.449 | 0,8 % |
 | Grüner Beton | `green_concrete` | 2.436 | 0,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.852 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.384 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.854 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.382 | 0,5 % |
 | Ziegelsteine | `bricks` | 1.082 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 813 | 0,3 % |
-| Seelaterne | `sea_lantern` | 540 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 395 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 363 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 138 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 132 | 0,0 % |
+| Seelaterne | `sea_lantern` | 528 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 369 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 343 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 160 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 152 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 84 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 78 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 78 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 76 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 74 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 74 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 52 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 48 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
@@ -58,7 +58,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.028 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.024 |
 | Steintreppe | `stone_stairs` | 260 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -69,19 +69,19 @@
 | 2 | `r7091962_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.060 | 6.5 |
 | 3 | `r7091963` | Palazzo des Cinquecento an Via della Fortezza | 12.693 | 6.6–6.12 |
 | 4 | `r7091963_innen` | Palazzo des Cinquecento an Via della Fortezza: Innenausbau | 2.357 | 6.13–6.14 |
-| 5 | `r7091964` | Palazzo des Ottocento an Via della Fortezza | 57.554 | 6.15–6.53 |
+| 5 | `r7091964` | Palazzo des Ottocento an Via della Fortezza | 57.610 | 6.15–6.53 |
 | 6 | `r7091964_innen` | Palazzo des Ottocento an Via della Fortezza: Innenausbau | 11.290 | 6.54–6.59 |
 | 7 | `r7091965` | Palazzo des Cinquecento an Via della Fortezza | 10.833 | 6.60–6.65 |
 | 8 | `r7091965_innen` | Palazzo des Cinquecento an Via della Fortezza: Innenausbau | 2.476 | 6.66–6.67 |
-| 9 | `r7430207` | Reihenhaus an Via Guelfa | 12.339 | 6.68–6.74 |
-| 10 | `r7430207_innen` | Reihenhaus an Via Guelfa: Innenausbau | 3.310 | 6.75–6.77 |
+| 9 | `r7430207` | Reihenhaus an Via Guelfa | 12.358 | 6.68–6.74 |
+| 10 | `r7430207_innen` | Reihenhaus an Via Guelfa: Innenausbau | 3.306 | 6.75–6.77 |
 | 11 | `w481661374` | Renaissance-Palazzo an Via Giuseppe Montanelli | 13.499 | 6.78–6.85 |
 | 12 | `w481661374_innen` | Renaissance-Palazzo an Via Giuseppe Montanelli: Innenausbau | 3.031 | 6.86–6.87 |
 | 13 | `w481661375` | Reihenhaus an Via Guelfa | 3.994 | 6.88–6.89 |
 | 14 | `w481661375_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.097 | 6.90 |
 | 15 | `w481661376` | Reihenhaus an Via Guelfa | 5.550 | 6.91–6.93 |
 | 16 | `w481661376_innen` | Reihenhaus an Via Guelfa: Innenausbau | 960 | 6.94 |
-| 17 | `w481661377` | Reihenhaus an Via della Fortezza | 18.357 | 6.95–6.105 |
+| 17 | `w481661377` | Reihenhaus an Via della Fortezza | 18.332 | 6.95–6.105 |
 | 18 | `w481661377_innen` | Reihenhaus an Via della Fortezza: Innenausbau | 5.533 | 6.106–6.108 |
 | 19 | `w481661378` | Reihenhaus an Via Guelfa | 10.181 | 6.109–6.114 |
 | 20 | `w481661378_innen` | Reihenhaus an Via Guelfa: Innenausbau | 2.243 | 6.115–6.116 |
@@ -91,14 +91,14 @@
 | 24 | `w481661380_innen` | Renaissance-Palazzo an Via Giuseppe Montanelli: Innenausbau | 1.053 | 6.126 |
 | 25 | `w481661382` | Reihenhaus an Via Giuseppe Montanelli | 9.160 | 6.127–6.131 |
 | 26 | `w481661382_innen` | Reihenhaus an Via Giuseppe Montanelli: Innenausbau | 2.786 | 6.132–6.133 |
-| 27 | `w481661383` | Haus w481661383 | 3.900 | 6.134–6.135 |
-| 28 | `w481661383_innen` | Haus w481661383: Innenausbau | 450 | 6.136 |
-| 29 | `w481661384` | Reihenhaus an Via Guelfa | 8.357 | 6.137–6.141 |
-| 30 | `w481661384_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.728 | 6.142 |
+| 27 | `w481661383` | Haus w481661383 | 3.894 | 6.134–6.135 |
+| 28 | `w481661383_innen` | Haus w481661383: Innenausbau | 444 | 6.136 |
+| 29 | `w481661384` | Reihenhaus an Via Guelfa | 8.414 | 6.137–6.141 |
+| 30 | `w481661384_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.726 | 6.142 |
 | 31 | `w481661385` | Reihenhaus an Via Guelfa | 9.052 | 6.143–6.147 |
 | 32 | `w481661385_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.818 | 6.148 |
-| 33 | `w481661386` | Reihenhaus an Via Guelfa | 7.460 | 6.149–6.152 |
-| 34 | `w481661386_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.642 | 6.153 |
+| 33 | `w481661386` | Reihenhaus an Via Guelfa | 7.522 | 6.149–6.152 |
+| 34 | `w481661386_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.636 | 6.153 |
 | 35 | `w481661388` | Reihenhaus an Via Guelfa | 2.644 | 6.154–6.155 |
 | 36 | `w481661388_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.514 | 6.156 |
 | 37 | `w481661389` | Haus w481661389 | 7.375 | 6.157–6.160 |
@@ -115,9 +115,9 @@
 | 48 | `w481661403_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.371 | 6.180 |
 | 49 | `w481661404` | Reihenhaus an Via Guelfa | 7.368 | 6.181–6.184 |
 | 50 | `w481661404_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.753 | 6.185 |
-| 51 | `w481661406` | Reihenhaus an Via Guelfa | 1.680 | 6.186 |
-| 52 | `w481661406_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.290 | 6.187 |
-| 53 | `w481661408` | Haus w481661408 | 1.907 | 6.188 |
+| 51 | `w481661406` | Reihenhaus an Via Guelfa | 1.738 | 6.186 |
+| 52 | `w481661406_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.285 | 6.187 |
+| 53 | `w481661408` | Haus w481661408 | 1.900 | 6.188 |
 | 54 | `w481661408_innen` | Haus w481661408: Innenausbau | 1 | 6.188 |
 | 55 | `strassenschilder` | Straßenschilder | 5 | 6.188 |
 
@@ -586,10 +586,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.15 – Palazzo des Ottocento an Via della Fortezza – Teil 1/39 (Y 60–61)
+### Schritt 6.15 – Palazzo des Ottocento an Via della Fortezza – Teil 1/39 (Y 60–62)
 
-- **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.771
+- **Y-Bereich:** 60 bis 62
+- **Blöcke:** 1.826
 - **Bauteile:** `r7091964`
 
 **Teileliste**
@@ -597,7 +597,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.754 |
-| Tuffstein | `tuff` | 17 |
+| Tuffstein | `tuff` | 72 |
 
 **Beschreibung**
 
@@ -615,9 +615,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.16 – Palazzo des Ottocento an Via della Fortezza – Teil 2/39 (Y 61–61)
+### Schritt 6.16 – Palazzo des Ottocento an Via della Fortezza – Teil 2/39 (Y 62–62)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.732
 - **Bauteile:** `r7091964`
 
@@ -643,9 +643,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.17 – Palazzo des Ottocento an Via della Fortezza – Teil 3/39 (Y 61–61)
+### Schritt 6.17 – Palazzo des Ottocento an Via della Fortezza – Teil 3/39 (Y 62–62)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.731
 - **Bauteile:** `r7091964`
 
@@ -671,9 +671,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.18 – Palazzo des Ottocento an Via della Fortezza – Teil 4/39 (Y 61–61)
+### Schritt 6.18 – Palazzo des Ottocento an Via della Fortezza – Teil 4/39 (Y 62–62)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.718
 - **Bauteile:** `r7091964`
 
@@ -699,9 +699,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.19 – Palazzo des Ottocento an Via della Fortezza – Teil 5/39 (Y 62–62)
+### Schritt 6.19 – Palazzo des Ottocento an Via della Fortezza – Teil 5/39 (Y 63–63)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.400
 - **Bauteile:** `r7091964`
 
@@ -730,9 +730,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.20 – Palazzo des Ottocento an Via della Fortezza – Teil 6/39 (Y 63–63)
+### Schritt 6.20 – Palazzo des Ottocento an Via della Fortezza – Teil 6/39 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.400
 - **Bauteile:** `r7091964`
 
@@ -761,10 +761,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.21 – Palazzo des Ottocento an Via della Fortezza – Teil 7/39 (Y 64–64)
+### Schritt 6.21 – Palazzo des Ottocento an Via della Fortezza – Teil 7/39 (Y 65–65)
 
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.475
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.476
 - **Bauteile:** `r7091964`
 
 **Teileliste**
@@ -772,7 +772,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.107 |
-| Glatter Stein | `smooth_stone` | 348 |
+| Glatter Stein | `smooth_stone` | 349 |
 | Polierter Andesit | `polished_andesite` | 19 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
@@ -792,9 +792,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.22 – Palazzo des Ottocento an Via della Fortezza – Teil 8/39 (Y 65–65)
+### Schritt 6.22 – Palazzo des Ottocento an Via della Fortezza – Teil 8/39 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.311
 - **Bauteile:** `r7091964`
 
@@ -825,9 +825,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.23 – Palazzo des Ottocento an Via della Fortezza – Teil 9/39 (Y 66–66)
+### Schritt 6.23 – Palazzo des Ottocento an Via della Fortezza – Teil 9/39 (Y 67–67)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.318
 - **Bauteile:** `r7091964`
 
@@ -858,9 +858,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.24 – Palazzo des Ottocento an Via della Fortezza – Teil 10/39 (Y 67–67)
+### Schritt 6.24 – Palazzo des Ottocento an Via della Fortezza – Teil 10/39 (Y 68–68)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.318
 - **Bauteile:** `r7091964`
 
@@ -891,9 +891,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.25 – Palazzo des Ottocento an Via della Fortezza – Teil 11/39 (Y 68–68)
+### Schritt 6.25 – Palazzo des Ottocento an Via della Fortezza – Teil 11/39 (Y 69–69)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.318
 - **Bauteile:** `r7091964`
 
@@ -923,9 +923,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.26 – Palazzo des Ottocento an Via della Fortezza – Teil 12/39 (Y 69–69)
+### Schritt 6.26 – Palazzo des Ottocento an Via della Fortezza – Teil 12/39 (Y 70–70)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.318
 - **Bauteile:** `r7091964`
 
@@ -955,9 +955,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.27 – Palazzo des Ottocento an Via della Fortezza – Teil 13/39 (Y 70–70)
+### Schritt 6.27 – Palazzo des Ottocento an Via della Fortezza – Teil 13/39 (Y 71–71)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -985,9 +985,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.28 – Palazzo des Ottocento an Via della Fortezza – Teil 14/39 (Y 71–71)
+### Schritt 6.28 – Palazzo des Ottocento an Via della Fortezza – Teil 14/39 (Y 72–72)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -1014,9 +1014,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.29 – Palazzo des Ottocento an Via della Fortezza – Teil 15/39 (Y 72–72)
+### Schritt 6.29 – Palazzo des Ottocento an Via della Fortezza – Teil 15/39 (Y 73–73)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -1043,9 +1043,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.30 – Palazzo des Ottocento an Via della Fortezza – Teil 16/39 (Y 73–73)
+### Schritt 6.30 – Palazzo des Ottocento an Via della Fortezza – Teil 16/39 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -1072,9 +1072,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.31 – Palazzo des Ottocento an Via della Fortezza – Teil 17/39 (Y 74–74)
+### Schritt 6.31 – Palazzo des Ottocento an Via della Fortezza – Teil 17/39 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.486
 - **Bauteile:** `r7091964`
 
@@ -1102,39 +1102,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.32 – Palazzo des Ottocento an Via della Fortezza – Teil 18/39 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.314
-- **Bauteile:** `r7091964`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 916 |
-| Glatter Stein | `smooth_stone` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-| Grüner Beton | `green_concrete` | 111 |
-| Polierter Andesit | `polished_andesite` | 6 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.33 – Palazzo des Ottocento an Via della Fortezza – Teil 19/39 (Y 76–76)
+### Schritt 6.32 – Palazzo des Ottocento an Via della Fortezza – Teil 18/39 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.314
@@ -1144,6 +1112,38 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 916 |
+| Glatter Stein | `smooth_stone` | 146 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Grüner Beton | `green_concrete` | 111 |
+| Polierter Andesit | `polished_andesite` | 6 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 6.33 – Palazzo des Ottocento an Via della Fortezza – Teil 19/39 (Y 77–77)
+
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 1.314
+- **Bauteile:** `r7091964`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 904 |
 | Glatter Stein | `smooth_stone` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 135 |
@@ -1166,9 +1166,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.34 – Palazzo des Ottocento an Via della Fortezza – Teil 20/39 (Y 77–77)
+### Schritt 6.34 – Palazzo des Ottocento an Via della Fortezza – Teil 20/39 (Y 78–78)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.314
 - **Bauteile:** `r7091964`
 
@@ -1198,9 +1198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.35 – Palazzo des Ottocento an Via della Fortezza – Teil 21/39 (Y 78–78)
+### Schritt 6.35 – Palazzo des Ottocento an Via della Fortezza – Teil 21/39 (Y 79–79)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.314
 - **Bauteile:** `r7091964`
 
@@ -1230,9 +1230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.36 – Palazzo des Ottocento an Via della Fortezza – Teil 22/39 (Y 79–79)
+### Schritt 6.36 – Palazzo des Ottocento an Via della Fortezza – Teil 22/39 (Y 80–80)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -1260,9 +1260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.37 – Palazzo des Ottocento an Via della Fortezza – Teil 23/39 (Y 80–80)
+### Schritt 6.37 – Palazzo des Ottocento an Via della Fortezza – Teil 23/39 (Y 81–81)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -1290,9 +1290,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.38 – Palazzo des Ottocento an Via della Fortezza – Teil 24/39 (Y 81–81)
+### Schritt 6.38 – Palazzo des Ottocento an Via della Fortezza – Teil 24/39 (Y 82–82)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -1319,9 +1319,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.39 – Palazzo des Ottocento an Via della Fortezza – Teil 25/39 (Y 82–82)
+### Schritt 6.39 – Palazzo des Ottocento an Via della Fortezza – Teil 25/39 (Y 83–83)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -1348,9 +1348,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.40 – Palazzo des Ottocento an Via della Fortezza – Teil 26/39 (Y 83–83)
+### Schritt 6.40 – Palazzo des Ottocento an Via della Fortezza – Teil 26/39 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.486
 - **Bauteile:** `r7091964`
 
@@ -1378,39 +1378,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.41 – Palazzo des Ottocento an Via della Fortezza – Teil 27/39 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.314
-- **Bauteile:** `r7091964`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 904 |
-| Glatter Stein | `smooth_stone` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-| Grüner Beton | `green_concrete` | 111 |
-| Polierter Andesit | `polished_andesite` | 18 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.42 – Palazzo des Ottocento an Via della Fortezza – Teil 28/39 (Y 85–85)
+### Schritt 6.41 – Palazzo des Ottocento an Via della Fortezza – Teil 27/39 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.314
@@ -1420,11 +1388,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 916 |
+| Gelbe Keramik | `yellow_terracotta` | 904 |
 | Glatter Stein | `smooth_stone` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 135 |
 | Grüner Beton | `green_concrete` | 111 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
@@ -1442,7 +1410,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.43 – Palazzo des Ottocento an Via della Fortezza – Teil 29/39 (Y 86–86)
+### Schritt 6.42 – Palazzo des Ottocento an Via della Fortezza – Teil 28/39 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.314
@@ -1452,6 +1420,38 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 916 |
+| Glatter Stein | `smooth_stone` | 146 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Grüner Beton | `green_concrete` | 111 |
+| Polierter Andesit | `polished_andesite` | 6 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 6.43 – Palazzo des Ottocento an Via della Fortezza – Teil 29/39 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.314
+- **Bauteile:** `r7091964`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 904 |
 | Glatter Stein | `smooth_stone` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 135 |
@@ -1474,9 +1474,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.44 – Palazzo des Ottocento an Via della Fortezza – Teil 30/39 (Y 87–87)
+### Schritt 6.44 – Palazzo des Ottocento an Via della Fortezza – Teil 30/39 (Y 88–88)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.314
 - **Bauteile:** `r7091964`
 
@@ -1506,9 +1506,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.45 – Palazzo des Ottocento an Via della Fortezza – Teil 31/39 (Y 88–88)
+### Schritt 6.45 – Palazzo des Ottocento an Via della Fortezza – Teil 31/39 (Y 89–89)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.314
 - **Bauteile:** `r7091964`
 
@@ -1538,9 +1538,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.46 – Palazzo des Ottocento an Via della Fortezza – Teil 32/39 (Y 89–89)
+### Schritt 6.46 – Palazzo des Ottocento an Via della Fortezza – Teil 32/39 (Y 90–90)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.407
 - **Bauteile:** `r7091964`
 
@@ -1568,9 +1568,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.47 – Palazzo des Ottocento an Via della Fortezza – Teil 33/39 (Y 90–90)
+### Schritt 6.47 – Palazzo des Ottocento an Via della Fortezza – Teil 33/39 (Y 91–91)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.746
 - **Bauteile:** `r7091964`
 
@@ -1598,9 +1598,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.48 – Palazzo des Ottocento an Via della Fortezza – Teil 34/39 (Y 91–91)
+### Schritt 6.48 – Palazzo des Ottocento an Via della Fortezza – Teil 34/39 (Y 92–92)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.942
 - **Bauteile:** `r7091964`
 
@@ -1629,9 +1629,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.49 – Palazzo des Ottocento an Via della Fortezza – Teil 35/39 (Y 91–91)
+### Schritt 6.49 – Palazzo des Ottocento an Via della Fortezza – Teil 35/39 (Y 92–92)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.895
 - **Bauteile:** `r7091964`
 
@@ -1659,9 +1659,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.50 – Palazzo des Ottocento an Via della Fortezza – Teil 36/39 (Y 91–91)
+### Schritt 6.50 – Palazzo des Ottocento an Via della Fortezza – Teil 36/39 (Y 92–92)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.948
 - **Bauteile:** `r7091964`
 
@@ -1690,9 +1690,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.51 – Palazzo des Ottocento an Via della Fortezza – Teil 37/39 (Y 91–91)
+### Schritt 6.51 – Palazzo des Ottocento an Via della Fortezza – Teil 37/39 (Y 92–92)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.938
 - **Bauteile:** `r7091964`
 
@@ -1721,35 +1721,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.52 – Palazzo des Ottocento an Via della Fortezza – Teil 38/39 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.407
-- **Bauteile:** `r7091964`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.407 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.53 – Palazzo des Ottocento an Via della Fortezza – Teil 39/39 (Y 93–93)
+### Schritt 6.52 – Palazzo des Ottocento an Via della Fortezza – Teil 38/39 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.407
@@ -1777,9 +1749,37 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.54 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 1/6 (Y 61–72)
+### Schritt 6.53 – Palazzo des Ottocento an Via della Fortezza – Teil 39/39 (Y 94–94)
 
-- **Y-Bereich:** 61 bis 72
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 1.407
+- **Bauteile:** `r7091964`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.407 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 6.54 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 1/6 (Y 62–73)
+
+- **Y-Bereich:** 62 bis 73
 - **Blöcke:** 1.929
 - **Bauteile:** `r7091964_innen`
 
@@ -1815,9 +1815,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.55 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 2/6 (Y 72–72)
+### Schritt 6.55 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 2/6 (Y 73–73)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.852
 - **Bauteile:** `r7091964_innen`
 
@@ -1844,9 +1844,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.56 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 3/6 (Y 72–73)
+### Schritt 6.56 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 3/6 (Y 73–74)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.865
 - **Bauteile:** `r7091964_innen`
 
@@ -1883,9 +1883,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.57 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 4/6 (Y 74–81)
+### Schritt 6.57 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 4/6 (Y 75–82)
 
-- **Y-Bereich:** 74 bis 81
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.882
 - **Bauteile:** `r7091964_innen`
 
@@ -1921,9 +1921,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.58 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 5/6 (Y 81–81)
+### Schritt 6.58 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 5/6 (Y 82–82)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.852
 - **Bauteile:** `r7091964_innen`
 
@@ -1950,9 +1950,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.59 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 6/6 (Y 81–91)
+### Schritt 6.59 – Palazzo des Ottocento an Via della Fortezza: Innenausbau – Teil 6/6 (Y 82–92)
 
-- **Y-Bereich:** 81 bis 91
+- **Y-Bereich:** 82 bis 92
 - **Blöcke:** 1.910
 - **Bauteile:** `r7091964_innen`
 
@@ -2266,15 +2266,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.68 – Reihenhaus an Via Guelfa – Teil 1/7 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.673
+- **Blöcke:** 1.692
 - **Bauteile:** `r7430207`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.367 |
-| Hellgrauer Beton | `light_gray_concrete` | 306 |
+| Polierter Tuffstein | `polished_tuff` | 1.368 |
+| Hellgrauer Beton | `light_gray_concrete` | 324 |
 
 **Beschreibung**
 
@@ -2474,16 +2474,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.75 – Reihenhaus an Via Guelfa: Innenausbau – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
-- **Blöcke:** 1.109
+- **Blöcke:** 1.108
 - **Bauteile:** `r7430207_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.045 |
+| Terrakotta | `terracotta` | 1.046 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
-| Seelaterne | `sea_lantern` | 16 |
+| Seelaterne | `sea_lantern` | 14 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
@@ -2521,10 +2521,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.045 |
+| Terrakotta | `terracotta` | 1.046 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -2556,28 +2556,28 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.77 – Reihenhaus an Via Guelfa: Innenausbau – Teil 3/3 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
-- **Blöcke:** 1.105
+- **Blöcke:** 1.102
 - **Bauteile:** `r7430207_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.045 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Terrakotta | `terracotta` | 1.046 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
 
 **Beschreibung**
 
@@ -3416,14 +3416,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.103 – Reihenhaus an Via della Fortezza – Teil 9/11 (Y 89–92)
 
 - **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.730
+- **Blöcke:** 1.705
 - **Bauteile:** `w481661377`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.142 |
+| Gelbe Keramik | `yellow_terracotta` | 1.117 |
 | Glatter Stein | `smooth_stone` | 308 |
 | Graues Buntglas | `gray_stained_glass` | 182 |
 | Fichtenholz-Bretter | `spruce_planks` | 98 |
@@ -4492,18 +4492,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.135 – Haus w481661383 – Teil 2/2 (Y 79–98)
 
 - **Y-Bereich:** 79 bis 98
-- **Blöcke:** 1.969
+- **Blöcke:** 1.963
 - **Bauteile:** `w481661383`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.115 |
+| Orange Keramik | `orange_terracotta` | 1.113 |
 | Terrakotta | `terracotta` | 347 |
 | Weißer Beton | `white_concrete` | 298 |
-| Fichtenholz-Bretter | `spruce_planks` | 91 |
 | Graues Buntglas | `gray_stained_glass` | 90 |
+| Fichtenholz-Bretter | `spruce_planks` | 87 |
 | Grüner Beton | `green_concrete` | 15 |
 | Ziegelsteine | `bricks` | 13 |
 
@@ -4526,14 +4526,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.136 – Haus w481661383: Innenausbau
 
 - **Y-Bereich:** 62 bis 85
-- **Blöcke:** 450
+- **Blöcke:** 444
 - **Bauteile:** `w481661383_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 336 |
+| Terrakotta | `terracotta` | 330 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
@@ -4561,9 +4561,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.137 – Reihenhaus an Via Guelfa – Teil 1/5 (Y 61–65)
+### Schritt 6.137 – Reihenhaus an Via Guelfa – Teil 1/5 (Y 62–66)
 
-- **Y-Bereich:** 61 bis 65
+- **Y-Bereich:** 62 bis 66
 - **Blöcke:** 1.592
 - **Bauteile:** `w481661384`
 
@@ -4593,9 +4593,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.138 – Reihenhaus an Via Guelfa – Teil 2/5 (Y 66–73)
+### Schritt 6.138 – Reihenhaus an Via Guelfa – Teil 2/5 (Y 67–74)
 
-- **Y-Bereich:** 66 bis 73
+- **Y-Bereich:** 67 bis 74
 - **Blöcke:** 1.721
 - **Bauteile:** `w481661384`
 
@@ -4624,9 +4624,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.139 – Reihenhaus an Via Guelfa – Teil 3/5 (Y 74–81)
+### Schritt 6.139 – Reihenhaus an Via Guelfa – Teil 3/5 (Y 75–82)
 
-- **Y-Bereich:** 74 bis 81
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.707
 - **Bauteile:** `w481661384`
 
@@ -4655,9 +4655,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.140 – Reihenhaus an Via Guelfa – Teil 4/5 (Y 82–89)
+### Schritt 6.140 – Reihenhaus an Via Guelfa – Teil 4/5 (Y 83–90)
 
-- **Y-Bereich:** 82 bis 89
+- **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.718
 - **Bauteile:** `w481661384`
 
@@ -4686,18 +4686,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.141 – Reihenhaus an Via Guelfa – Teil 5/5 (Y 90–96)
+### Schritt 6.141 – Reihenhaus an Via Guelfa – Teil 5/5 (Y 91–97)
 
-- **Y-Bereich:** 90 bis 96
-- **Blöcke:** 1.619
+- **Y-Bereich:** 91 bis 97
+- **Blöcke:** 1.676
 - **Bauteile:** `w481661384`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.004 |
-| Glatter Sandstein | `smooth_sandstone` | 405 |
+| Terrakotta | `terracotta` | 1.006 |
+| Glatter Sandstein | `smooth_sandstone` | 460 |
 | Fichtenholz-Bretter | `spruce_planks` | 134 |
 | Ziegelsteine | `bricks` | 43 |
 | Polierter Andesit | `polished_andesite` | 33 |
@@ -4720,8 +4720,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.142 – Reihenhaus an Via Guelfa: Innenausbau
 
-- **Y-Bereich:** 61 bis 85
-- **Blöcke:** 1.728
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 1.726
 - **Bauteile:** `w481661384_innen`
 
 **Teileliste**
@@ -4730,11 +4730,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.593 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -4960,15 +4960,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.149 – Reihenhaus an Via Guelfa – Teil 1/4 (Y 61–67)
 
 - **Y-Bereich:** 61 bis 67
-- **Blöcke:** 1.838
+- **Blöcke:** 1.895
 - **Bauteile:** `w481661386`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.012 |
-| Polierter Tuffstein | `polished_tuff` | 703 |
+| Gelbe Keramik | `yellow_terracotta` | 1.068 |
+| Polierter Tuffstein | `polished_tuff` | 704 |
 | Weißer Beton | `white_concrete` | 63 |
 | Graues Buntglas | `gray_stained_glass` | 29 |
 | Glatter Stein | `smooth_stone` | 19 |
@@ -5055,7 +5055,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.152 – Reihenhaus an Via Guelfa – Teil 4/4 (Y 87–93)
 
 - **Y-Bereich:** 87 bis 93
-- **Blöcke:** 1.958
+- **Blöcke:** 1.963
 - **Bauteile:** `w481661386`
 
 **Teileliste**
@@ -5064,7 +5064,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 898 |
 | Gelbe Keramik | `yellow_terracotta` | 831 |
-| Fichtenholz-Bretter | `spruce_planks` | 101 |
+| Fichtenholz-Bretter | `spruce_planks` | 106 |
 | Weißer Beton | `white_concrete` | 73 |
 | Graues Buntglas | `gray_stained_glass` | 37 |
 | Grüner Beton | `green_concrete` | 18 |
@@ -5088,28 +5088,28 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.153 – Reihenhaus an Via Guelfa: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
-- **Blöcke:** 1.642
+- **Blöcke:** 1.636
 - **Bauteile:** `w481661386_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.494 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Terrakotta | `terracotta` | 1.497 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 20 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Seelaterne | `sea_lantern` | 16 |
+| Rote Keramik | `red_terracotta` | 5 |
+| Weiße Keramik | `white_terracotta` | 5 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 
@@ -6229,19 +6229,19 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.186 – Reihenhaus an Via Guelfa
 
 - **Y-Bereich:** 61 bis 95
-- **Blöcke:** 1.680
+- **Blöcke:** 1.738
 - **Bauteile:** `w481661406`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 633 |
-| Terrakotta | `terracotta` | 502 |
-| Polierter Tuffstein | `polished_tuff` | 422 |
+| Glatter Sandstein | `smooth_sandstone` | 693 |
+| Terrakotta | `terracotta` | 498 |
+| Polierter Tuffstein | `polished_tuff` | 423 |
 | Weißer Beton | `white_concrete` | 75 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
-| Fichtenholz-Bretter | `spruce_planks` | 18 |
+| Fichtenholz-Bretter | `spruce_planks` | 19 |
 | Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
@@ -6263,20 +6263,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.187 – Reihenhaus an Via Guelfa: Innenausbau
 
 - **Y-Bereich:** 61 bis 84
-- **Blöcke:** 1.290
+- **Blöcke:** 1.285
 - **Bauteile:** `w481661406_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.164 |
+| Terrakotta | `terracotta` | 1.167 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Seelaterne | `sea_lantern` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -6303,14 +6301,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.188 – Haus w481661408 & Haus w481661408: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 63 bis 95
-- **Blöcke:** 1.913
+- **Blöcke:** 1.906
 - **Bauteile:** `w481661408`, `w481661408_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.547 |
+| Glatter Sandstein | `smooth_sandstone` | 1.540 |
 | Terrakotta | `terracotta` | 140 |
 | Polierter Tuffstein | `polished_tuff` | 110 |
 | Graues Buntglas | `gray_stained_glass` | 66 |

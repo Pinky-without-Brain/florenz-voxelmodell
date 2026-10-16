@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 231.576 |
+| Blöcke | 231.640 |
 | Bauschritte | 138 |
 | Y-Bereich | 60 bis 115 |
 | X-Ausdehnung | -909 bis -627 (283 Blöcke) |
 | Z-Ausdehnung | -239 bis -58 (182 Blöcke) |
 | Kleinster Schritt | 780 Blöcke (Schritt 1.74) |
-| Mittlerer Schritt | 1.678 Blöcke |
+| Mittlerer Schritt | 1.679 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 1.1) |
 
 ## Gesamt-Stückliste
@@ -27,7 +27,7 @@
 | Weißer Beton | `white_concrete` | 21.815 | 9,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 15.321 | 6,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 13.431 | 5,8 % |
-| Rosa Keramik | `pink_terracotta` | 10.311 | 4,5 % |
+| Rosa Keramik | `pink_terracotta` | 10.364 | 4,5 % |
 | Glatter Stein | `smooth_stone` | 5.912 | 2,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.415 | 2,3 % |
 | Polierter Andesit | `polished_andesite` | 4.962 | 2,1 % |
@@ -35,19 +35,19 @@
 | Tuffstein | `tuff` | 3.620 | 1,6 % |
 | Ziegelsteine | `bricks` | 1.708 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.070 | 0,5 % |
-| Orange Keramik | `orange_terracotta` | 1.064 | 0,5 % |
+| Orange Keramik | `orange_terracotta` | 1.061 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 969 | 0,4 % |
 | Grüner Beton | `green_concrete` | 653 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 553 | 0,2 % |
 | Seelaterne | `sea_lantern` | 458 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 233 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 219 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 186 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 172 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 256 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 240 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 163 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 151 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 118 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 112 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 87 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 87 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 94 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 94 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 7 | 0,0 % |
@@ -102,14 +102,14 @@
 | 34 | `w495259329_innen` | Reihenhaus an Chiasso degli Armati: Innenausbau | 3.633 | 1.103–1.105 |
 | 35 | `w495259332` | Palazzo des Cinquecento an Chiasso degli Armati | 8.499 | 1.106–1.110 |
 | 36 | `w495259332_innen` | Palazzo des Cinquecento an Chiasso degli Armati: Innenausbau | 1.518 | 1.111 |
-| 37 | `w495259333` | Reihenhaus an Chiasso degli Armati | 3.495 | 1.112–1.113 |
-| 38 | `w495259333_innen` | Reihenhaus an Chiasso degli Armati: Innenausbau | 1.023 | 1.114 |
+| 37 | `w495259333` | Reihenhaus an Chiasso degli Armati | 3.548 | 1.112–1.113 |
+| 38 | `w495259333_innen` | Reihenhaus an Chiasso degli Armati: Innenausbau | 1.025 | 1.114 |
 | 39 | `w495259334` | Reihenhaus an Via del Giglio | 3.603 | 1.115–1.116 |
 | 40 | `w495259334_innen` | Reihenhaus an Via del Giglio: Innenausbau | 1.866 | 1.117 |
 | 41 | `w495259344` | Reihenhaus an Chiasso degli Armati | 5.672 | 1.118–1.120 |
 | 42 | `w495259344_innen` | Reihenhaus an Chiasso degli Armati: Innenausbau | 3.458 | 1.121–1.123 |
-| 43 | `w495259345` | Reihenhaus an Via dell'Alloro | 2.149 | 1.124–1.125 |
-| 44 | `w495259345_innen` | Reihenhaus an Via dell'Alloro: Innenausbau | 1.341 | 1.126 |
+| 43 | `w495259345` | Reihenhaus an Via dell'Alloro | 2.146 | 1.124–1.125 |
+| 44 | `w495259345_innen` | Reihenhaus an Via dell'Alloro: Innenausbau | 1.353 | 1.126 |
 | 45 | `w495259348` | Palazzo des Cinquecento an Via dei Cerretani | 10.073 | 1.127–1.131 |
 | 46 | `w495259348_innen` | Palazzo des Cinquecento an Via dei Cerretani: Innenausbau | 5.059 | 1.132–1.135 |
 | 47 | `w495259349` | Reihenhaus an Via Panzani | 4.097 | 1.136–1.137 |
@@ -3845,17 +3845,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.112 – Reihenhaus an Chiasso degli Armati – Teil 1/2 (Y 60–76)
+### Schritt 1.112 – Reihenhaus an Chiasso degli Armati – Teil 1/2 (Y 61–77)
 
-- **Y-Bereich:** 60 bis 76
-- **Blöcke:** 1.761
+- **Y-Bereich:** 61 bis 77
+- **Blöcke:** 1.752
 - **Bauteile:** `w495259333`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.291 |
+| Rosa Keramik | `pink_terracotta` | 1.282 |
 | Polierter Tuffstein | `polished_tuff` | 391 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 | Grüner Beton | `green_concrete` | 18 |
@@ -3878,17 +3878,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.113 – Reihenhaus an Chiasso degli Armati – Teil 2/2 (Y 77–94)
+### Schritt 1.113 – Reihenhaus an Chiasso degli Armati – Teil 2/2 (Y 78–95)
 
-- **Y-Bereich:** 77 bis 94
-- **Blöcke:** 1.734
+- **Y-Bereich:** 78 bis 95
+- **Blöcke:** 1.796
 - **Bauteile:** `w495259333`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.172 |
+| Rosa Keramik | `pink_terracotta` | 1.234 |
 | Terrakotta | `terracotta` | 475 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
 | Grüner Beton | `green_concrete` | 24 |
@@ -3912,8 +3912,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.114 – Reihenhaus an Chiasso degli Armati: Innenausbau
 
-- **Y-Bereich:** 60 bis 84
-- **Blöcke:** 1.023
+- **Y-Bereich:** 61 bis 85
+- **Blöcke:** 1.025
 - **Bauteile:** `w495259333_innen`
 
 **Teileliste**
@@ -3922,11 +3922,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 885 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4297,7 +4299,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.125 – Reihenhaus an Via dell'Alloro – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
-- **Blöcke:** 1.086
+- **Blöcke:** 1.083
 - **Bauteile:** `w495259345`
 
 **Teileliste**
@@ -4305,7 +4307,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 519 |
-| Orange Keramik | `orange_terracotta` | 496 |
+| Orange Keramik | `orange_terracotta` | 493 |
 | Weißer Beton | `white_concrete` | 44 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 | Ziegelsteine | `bricks` | 11 |
@@ -4329,7 +4331,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.126 – Reihenhaus an Via dell'Alloro: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
-- **Blöcke:** 1.341
+- **Blöcke:** 1.353
 - **Bauteile:** `w495259345_innen`
 
 **Teileliste**
@@ -4338,11 +4340,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.206 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Rote Keramik | `red_terracotta` | 8 |
+| Weiße Keramik | `white_terracotta` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

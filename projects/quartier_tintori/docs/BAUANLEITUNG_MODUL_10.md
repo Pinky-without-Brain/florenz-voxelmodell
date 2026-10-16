@@ -8,46 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 142.849 |
-| Bauschritte | 88 |
-| Y-Bereich | 62 bis 104 |
+| Blöcke | 145.013 |
+| Bauschritte | 89 |
+| Y-Bereich | 62 bis 108 |
 | X-Ausdehnung | 934 bis 1285 (352 Blöcke) |
 | Z-Ausdehnung | 1374 bis 1440 (67 Blöcke) |
 | Kleinster Schritt | 763 Blöcke (Schritt 10.17) |
-| Mittlerer Schritt | 1.623 Blöcke |
+| Mittlerer Schritt | 1.629 Blöcke |
 | Größter Schritt | 2.087 Blöcke (Schritt 10.60) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 47.963 | 33,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 33.079 | 23,2 % |
-| Polierter Tuffstein | `polished_tuff` | 20.424 | 14,3 % |
-| Rosa Keramik | `pink_terracotta` | 17.618 | 12,3 % |
-| Weißer Beton | `white_concrete` | 4.799 | 3,4 % |
-| Glatter Stein | `smooth_stone` | 4.716 | 3,3 % |
+| Terrakotta | `terracotta` | 47.966 | 33,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 33.412 | 23,0 % |
+| Polierter Tuffstein | `polished_tuff` | 20.425 | 14,1 % |
+| Rosa Keramik | `pink_terracotta` | 17.618 | 12,1 % |
+| Weißer Beton | `white_concrete` | 4.799 | 3,3 % |
+| Glatter Stein | `smooth_stone` | 4.720 | 3,3 % |
 | Graues Buntglas | `gray_stained_glass` | 3.158 | 2,2 % |
-| Polierter Andesit | `polished_andesite` | 2.966 | 2,1 % |
+| Polierter Andesit | `polished_andesite` | 2.989 | 2,1 % |
+| Tuffstein | `tuff` | 2.566 | 1,8 % |
 | Orange Keramik | `orange_terracotta` | 2.314 | 1,6 % |
 | Grüner Beton | `green_concrete` | 1.196 | 0,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 827 | 0,6 % |
-| Tuffstein | `tuff` | 763 | 0,5 % |
 | Ziegelsteine | `bricks` | 746 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 688 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 494 | 0,3 % |
-| Seelaterne | `sea_lantern` | 299 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 166 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 154 | 0,1 % |
+| Seelaterne | `sea_lantern` | 296 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 189 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 175 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 87 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 87 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 60 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 43 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 42 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 28 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 19 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 19 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -60,7 +60,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r7002738` | Reihenhaus an Lungarno della Zecca Vecchia | 6.685 | 10.1–10.4 |
+| 1 | `r7002738` | Reihenhaus an Lungarno della Zecca Vecchia | 7.345 | 10.1–10.4 |
 | 2 | `r7002738_innen` | Reihenhaus an Lungarno della Zecca Vecchia: Innenausbau | 1.554 | 10.5 |
 | 3 | `r7002739` | Reihenhaus an Via Tripoli | 13.714 | 10.6–10.13 |
 | 4 | `r7002739_innen` | Reihenhaus an Via Tripoli: Innenausbau | 4.587 | 10.14–10.16 |
@@ -68,38 +68,68 @@
 | 6 | `r7002740_innen` | Palazzo des Ottocento an Lungarno della Zecca Vecchia: Innenausbau | 8.751 | 10.36–10.41 |
 | 7 | `w115779052` | Reihenhaus an Via Tripoli | 13.298 | 10.42–10.49 |
 | 8 | `w115779052_innen` | Reihenhaus an Via Tripoli: Innenausbau | 4.090 | 10.50–10.52 |
-| 9 | `w476361872` | Reihenhaus an Via Tripoli | 6.523 | 10.53–10.56 |
+| 9 | `w476361872` | Reihenhaus an Via Tripoli | 6.673 | 10.53–10.56 |
 | 10 | `w476361872_innen` | Reihenhaus an Via Tripoli: Innenausbau | 2.867 | 10.57–10.58 |
 | 11 | `w476361875` | Reihenhaus an Via Tripoli | 4.171 | 10.59–10.60 |
 | 12 | `w476361875_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.676 | 10.61 |
-| 13 | `w476361876` | Palazzo des Cinquecento an Lungarno della Zecca Vecchia | 11.676 | 10.62–10.68 |
-| 14 | `w476361876_innen` | Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau | 4.540 | 10.69–10.72 |
-| 15 | `w476361878` | Palazzo des Cinquecento an Via Tripoli | 6.117 | 10.73–10.75 |
-| 16 | `w476361878_innen` | Palazzo des Cinquecento an Via Tripoli: Innenausbau | 1.684 | 10.76 |
-| 17 | `w476361879` | Reihenhaus an Via Tripoli | 2.214 | 10.77–10.78 |
-| 18 | `w476361879_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.289 | 10.79 |
-| 19 | `w476361880` | Palazzo des Cinquecento an Via Tripoli | 8.399 | 10.80–10.84 |
-| 20 | `w476361880_innen` | Palazzo des Cinquecento an Via Tripoli: Innenausbau | 2.037 | 10.85 |
-| 21 | `w476361881` | Reihenhaus an Via Tripoli | 3.190 | 10.86–10.87 |
-| 22 | `w476361881_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.587 | 10.88 |
+| 13 | `w476361876` | Palazzo des Cinquecento an Lungarno della Zecca Vecchia | 13.031 | 10.62–10.69 |
+| 14 | `w476361876_innen` | Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau | 4.539 | 10.70–10.73 |
+| 15 | `w476361878` | Palazzo des Cinquecento an Via Tripoli | 6.117 | 10.74–10.76 |
+| 16 | `w476361878_innen` | Palazzo des Cinquecento an Via Tripoli: Innenausbau | 1.684 | 10.77 |
+| 17 | `w476361879` | Reihenhaus an Via Tripoli | 2.214 | 10.78–10.79 |
+| 18 | `w476361879_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.289 | 10.80 |
+| 19 | `w476361880` | Palazzo des Cinquecento an Via Tripoli | 8.399 | 10.81–10.85 |
+| 20 | `w476361880_innen` | Palazzo des Cinquecento an Via Tripoli: Innenausbau | 2.037 | 10.86 |
+| 21 | `w476361881` | Reihenhaus an Via Tripoli | 3.190 | 10.87–10.88 |
+| 22 | `w476361881_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.587 | 10.89 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Reihenhaus an Lungarno della Zecca Vecchia – Teil 1/4 (Y 62–68)
+### Schritt 10.1 – Reihenhaus an Lungarno della Zecca Vecchia – Teil 1/4 (Y 63–69)
 
-- **Y-Bereich:** 62 bis 68
-- **Blöcke:** 1.618
+- **Y-Bereich:** 63 bis 69
+- **Blöcke:** 1.799
 - **Bauteile:** `r7002738`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 897 |
+| Tuffstein | `tuff` | 657 |
 | Polierter Tuffstein | `polished_tuff` | 647 |
-| Glatter Stein | `smooth_stone` | 38 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-| Fichtenholz-Bretter | `spruce_planks` | 12 |
+| Rosa Keramik | `pink_terracotta` | 473 |
+| Glatter Stein | `smooth_stone` | 22 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.2 – Reihenhaus an Lungarno della Zecca Vecchia – Teil 2/4 (Y 70–80)
+
+- **Y-Bereich:** 70 bis 80
+- **Blöcke:** 1.844
+- **Bauteile:** `r7002738`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.677 |
+| Glatter Stein | `smooth_stone` | 91 |
+| Graues Buntglas | `gray_stained_glass` | 46 |
+| Fichtenholz-Bretter | `spruce_planks` | 24 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
@@ -118,20 +148,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Reihenhaus an Lungarno della Zecca Vecchia – Teil 2/4 (Y 69–78)
+### Schritt 10.3 – Reihenhaus an Lungarno della Zecca Vecchia – Teil 3/4 (Y 81–91)
 
-- **Y-Bereich:** 69 bis 78
-- **Blöcke:** 1.711
+- **Y-Bereich:** 81 bis 91
+- **Blöcke:** 1.884
 - **Bauteile:** `r7002738`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.596 |
-| Glatter Stein | `smooth_stone` | 75 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
-| Fichtenholz-Bretter | `spruce_planks` | 12 |
+| Rosa Keramik | `pink_terracotta` | 1.737 |
+| Glatter Stein | `smooth_stone` | 92 |
+| Graues Buntglas | `gray_stained_glass` | 37 |
+| Fichtenholz-Bretter | `spruce_planks` | 18 |
 
 **Beschreibung**
 
@@ -149,41 +179,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Reihenhaus an Lungarno della Zecca Vecchia – Teil 3/4 (Y 79–88)
+### Schritt 10.4 – Reihenhaus an Lungarno della Zecca Vecchia – Teil 4/4 (Y 92–101)
 
-- **Y-Bereich:** 79 bis 88
-- **Blöcke:** 1.702
-- **Bauteile:** `r7002738`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.537 |
-| Glatter Stein | `smooth_stone` | 95 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
-| Fichtenholz-Bretter | `spruce_planks` | 24 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.4 – Reihenhaus an Lungarno della Zecca Vecchia – Teil 4/4 (Y 89–97)
-
-- **Y-Bereich:** 89 bis 97
-- **Blöcke:** 1.654
+- **Y-Bereich:** 92 bis 101
+- **Blöcke:** 1.818
 - **Bauteile:** `r7002738`
 
 **Teileliste**
@@ -191,11 +190,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 867 |
-| Rosa Keramik | `pink_terracotta` | 649 |
-| Fichtenholz-Bretter | `spruce_planks` | 71 |
+| Rosa Keramik | `pink_terracotta` | 792 |
+| Fichtenholz-Bretter | `spruce_planks` | 77 |
 | Ziegelsteine | `bricks` | 34 |
-| Glatter Stein | `smooth_stone` | 23 |
-| Graues Buntglas | `gray_stained_glass` | 10 |
+| Glatter Stein | `smooth_stone` | 29 |
+| Graues Buntglas | `gray_stained_glass` | 19 |
 
 **Beschreibung**
 
@@ -215,7 +214,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 10.5 – Reihenhaus an Lungarno della Zecca Vecchia: Innenausbau
 
-- **Y-Bereich:** 62 bis 86
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.554
 - **Bauteile:** `r7002738_innen`
 
@@ -1786,10 +1785,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.53 – Reihenhaus an Via Tripoli – Teil 1/4 (Y 62–67)
+### Schritt 10.53 – Reihenhaus an Via Tripoli – Teil 1/4 (Y 62–66)
 
-- **Y-Bereich:** 62 bis 67
-- **Blöcke:** 1.676
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.708
 - **Bauteile:** `w476361872`
 
 **Teileliste**
@@ -1797,9 +1796,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.047 |
-| Glatter Sandstein | `smooth_sandstone` | 528 |
-| Polierter Andesit | `polished_andesite` | 73 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
+| Glatter Sandstein | `smooth_sandstone` | 590 |
+| Polierter Andesit | `polished_andesite` | 57 |
+| Graues Buntglas | `gray_stained_glass` | 14 |
 
 **Beschreibung**
 
@@ -1817,19 +1816,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.54 – Reihenhaus an Via Tripoli – Teil 2/4 (Y 68–79)
+### Schritt 10.54 – Reihenhaus an Via Tripoli – Teil 2/4 (Y 67–78)
 
-- **Y-Bereich:** 68 bis 79
-- **Blöcke:** 1.596
+- **Y-Bereich:** 67 bis 78
+- **Blöcke:** 1.558
 - **Bauteile:** `w476361872`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.274 |
-| Polierter Andesit | `polished_andesite` | 244 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
+| Glatter Sandstein | `smooth_sandstone` | 1.254 |
+| Polierter Andesit | `polished_andesite` | 212 |
+| Graues Buntglas | `gray_stained_glass` | 92 |
 
 **Beschreibung**
 
@@ -1847,18 +1846,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.55 – Reihenhaus an Via Tripoli – Teil 3/4 (Y 80–91)
+### Schritt 10.55 – Reihenhaus an Via Tripoli – Teil 3/4 (Y 79–91)
 
-- **Y-Bereich:** 80 bis 91
-- **Blöcke:** 1.595
+- **Y-Bereich:** 79 bis 91
+- **Blöcke:** 1.749
 - **Bauteile:** `w476361872`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.227 |
-| Polierter Andesit | `polished_andesite` | 240 |
+| Glatter Sandstein | `smooth_sandstone` | 1.333 |
+| Polierter Andesit | `polished_andesite` | 288 |
 | Graues Buntglas | `gray_stained_glass` | 128 |
 
 **Beschreibung**
@@ -1880,15 +1879,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.56 – Reihenhaus an Via Tripoli – Teil 4/4 (Y 92–100)
 
 - **Y-Bereich:** 92 bis 100
-- **Blöcke:** 1.656
+- **Blöcke:** 1.658
 - **Bauteile:** `w476361872`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.420 |
-| Glatter Sandstein | `smooth_sandstone` | 188 |
+| Terrakotta | `terracotta` | 1.421 |
+| Glatter Sandstein | `smooth_sandstone` | 189 |
 | Ziegelsteine | `bricks` | 48 |
 
 **Beschreibung**
@@ -1919,13 +1918,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 901 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 15 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1961,11 +1960,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.802 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 12 |
 | Seelaterne | `sea_lantern` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2098,9 +2099,37 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.62 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 1/7 (Y 62–62)
+### Schritt 10.62 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 1/8 (Y 63–65)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 63 bis 65
+- **Blöcke:** 1.146
+- **Bauteile:** `w476361876`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.146 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.63 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 2/8 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.181
 - **Bauteile:** `w476361876`
 
@@ -2126,19 +2155,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.63 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 2/7 (Y 62–66)
+### Schritt 10.64 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 3/8 (Y 66–70)
 
-- **Y-Bereich:** 62 bis 66
-- **Blöcke:** 1.969
+- **Y-Bereich:** 66 bis 70
+- **Blöcke:** 1.993
 - **Bauteile:** `w476361876`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.221 |
+| Polierter Tuffstein | `polished_tuff` | 1.222 |
 | Glatter Sandstein | `smooth_sandstone` | 574 |
-| Polierter Andesit | `polished_andesite` | 126 |
+| Polierter Andesit | `polished_andesite` | 149 |
 | Graues Buntglas | `gray_stained_glass` | 22 |
 | Grüner Beton | `green_concrete` | 22 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
@@ -2159,20 +2188,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.64 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 3/7 (Y 67–76)
+### Schritt 10.65 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 4/8 (Y 71–81)
 
-- **Y-Bereich:** 67 bis 76
-- **Blöcke:** 1.859
+- **Y-Bereich:** 71 bis 81
+- **Blöcke:** 2.035
 - **Bauteile:** `w476361876`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.263 |
-| Polierter Andesit | `polished_andesite` | 261 |
-| Graues Buntglas | `gray_stained_glass` | 116 |
-| Grüner Beton | `green_concrete` | 114 |
+| Glatter Sandstein | `smooth_sandstone` | 1.365 |
+| Polierter Andesit | `polished_andesite` | 286 |
+| Graues Buntglas | `gray_stained_glass` | 141 |
+| Grüner Beton | `green_concrete` | 138 |
 | Glatter Stein | `smooth_stone` | 94 |
 | Tuffsteinziegel | `tuff_bricks` | 11 |
 
@@ -2192,9 +2221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.65 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 4/7 (Y 77–85)
+### Schritt 10.66 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 5/8 (Y 82–90)
 
-- **Y-Bereich:** 77 bis 85
+- **Y-Bereich:** 82 bis 90
 - **Blöcke:** 1.721
 - **Bauteile:** `w476361876`
 
@@ -2224,21 +2253,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.66 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 5/7 (Y 86–92)
+### Schritt 10.67 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 6/8 (Y 91–96)
 
-- **Y-Bereich:** 86 bis 92
-- **Blöcke:** 1.524
+- **Y-Bereich:** 91 bis 96
+- **Blöcke:** 1.533
 - **Bauteile:** `w476361876`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 882 |
-| Polierter Andesit | `polished_andesite` | 226 |
-| Glatter Stein | `smooth_stone` | 220 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
-| Grüner Beton | `green_concrete` | 96 |
+| Glatter Sandstein | `smooth_sandstone` | 964 |
+| Glatter Stein | `smooth_stone` | 221 |
+| Polierter Andesit | `polished_andesite` | 201 |
+| Graues Buntglas | `gray_stained_glass` | 75 |
+| Grüner Beton | `green_concrete` | 72 |
 
 **Beschreibung**
 
@@ -2256,9 +2285,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.67 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 6/7 (Y 93–95)
+### Schritt 10.68 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 7/8 (Y 97–99)
 
-- **Y-Bereich:** 93 bis 95
+- **Y-Bereich:** 97 bis 99
 - **Blöcke:** 1.848
 - **Bauteile:** `w476361876`
 
@@ -2284,9 +2313,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.68 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 7/7 (Y 96–104)
+### Schritt 10.69 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia – Teil 8/8 (Y 100–108)
 
-- **Y-Bereich:** 96 bis 104
+- **Y-Bereich:** 100 bis 108
 - **Blöcke:** 1.574
 - **Bauteile:** `w476361876`
 
@@ -2313,19 +2342,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.69 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau – Teil 1/4 (Y 62–72)
+### Schritt 10.70 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau – Teil 1/4 (Y 66–76)
 
-- **Y-Bereich:** 62 bis 72
-- **Blöcke:** 1.184
+- **Y-Bereich:** 66 bis 76
+- **Blöcke:** 1.183
 - **Bauteile:** `w476361876_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.116 |
+| Terrakotta | `terracotta` | 1.117 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 19 |
+| Seelaterne | `sea_lantern` | 17 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -2355,9 +2384,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.70 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau – Teil 2/4 (Y 72–72)
+### Schritt 10.71 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau – Teil 2/4 (Y 76–76)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.085
 - **Bauteile:** `w476361876_innen`
 
@@ -2384,9 +2413,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.71 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau – Teil 3/4 (Y 73–82)
+### Schritt 10.72 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau – Teil 3/4 (Y 77–86)
 
-- **Y-Bereich:** 73 bis 82
+- **Y-Bereich:** 77 bis 86
 - **Blöcke:** 1.177
 - **Bauteile:** `w476361876_innen`
 
@@ -2394,11 +2423,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.116 |
+| Terrakotta | `terracotta` | 1.117 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 6 |
+| Seelaterne | `sea_lantern` | 5 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -2428,9 +2457,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.72 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau – Teil 4/4 (Y 82–83)
+### Schritt 10.73 – Palazzo des Cinquecento an Lungarno della Zecca Vecchia: Innenausbau – Teil 4/4 (Y 86–87)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.094
 - **Bauteile:** `w476361876_innen`
 
@@ -2468,7 +2497,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.73 – Palazzo des Cinquecento an Via Tripoli – Teil 1/3 (Y 62–70)
+### Schritt 10.74 – Palazzo des Cinquecento an Via Tripoli – Teil 1/3 (Y 62–70)
 
 - **Y-Bereich:** 62 bis 70
 - **Blöcke:** 2.018
@@ -2502,7 +2531,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.74 – Palazzo des Cinquecento an Via Tripoli – Teil 2/3 (Y 71–87)
+### Schritt 10.75 – Palazzo des Cinquecento an Via Tripoli – Teil 2/3 (Y 71–87)
 
 - **Y-Bereich:** 71 bis 87
 - **Blöcke:** 2.087
@@ -2535,7 +2564,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.75 – Palazzo des Cinquecento an Via Tripoli – Teil 3/3 (Y 88–97)
+### Schritt 10.76 – Palazzo des Cinquecento an Via Tripoli – Teil 3/3 (Y 88–97)
 
 - **Y-Bereich:** 88 bis 97
 - **Blöcke:** 2.012
@@ -2568,7 +2597,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.76 – Palazzo des Cinquecento an Via Tripoli: Innenausbau
+### Schritt 10.77 – Palazzo des Cinquecento an Via Tripoli: Innenausbau
 
 - **Y-Bereich:** 62 bis 83
 - **Blöcke:** 1.684
@@ -2612,7 +2641,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.77 – Reihenhaus an Via Tripoli – Teil 1/2 (Y 62–80)
+### Schritt 10.78 – Reihenhaus an Via Tripoli – Teil 1/2 (Y 62–80)
 
 - **Y-Bereich:** 62 bis 80
 - **Blöcke:** 1.114
@@ -2646,7 +2675,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.78 – Reihenhaus an Via Tripoli – Teil 2/2 (Y 81–98)
+### Schritt 10.79 – Reihenhaus an Via Tripoli – Teil 2/2 (Y 81–98)
 
 - **Y-Bereich:** 81 bis 98
 - **Blöcke:** 1.100
@@ -2680,7 +2709,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.79 – Reihenhaus an Via Tripoli: Innenausbau
+### Schritt 10.80 – Reihenhaus an Via Tripoli: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.289
@@ -2720,7 +2749,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.80 – Palazzo des Cinquecento an Via Tripoli – Teil 1/5 (Y 62–64)
+### Schritt 10.81 – Palazzo des Cinquecento an Via Tripoli – Teil 1/5 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.664
@@ -2753,7 +2782,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.81 – Palazzo des Cinquecento an Via Tripoli – Teil 2/5 (Y 65–73)
+### Schritt 10.82 – Palazzo des Cinquecento an Via Tripoli – Teil 2/5 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
 - **Blöcke:** 1.625
@@ -2787,7 +2816,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.82 – Palazzo des Cinquecento an Via Tripoli – Teil 3/5 (Y 74–83)
+### Schritt 10.83 – Palazzo des Cinquecento an Via Tripoli – Teil 3/5 (Y 74–83)
 
 - **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.730
@@ -2820,7 +2849,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.83 – Palazzo des Cinquecento an Via Tripoli – Teil 4/5 (Y 84–92)
+### Schritt 10.84 – Palazzo des Cinquecento an Via Tripoli – Teil 4/5 (Y 84–92)
 
 - **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.786
@@ -2853,7 +2882,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.84 – Palazzo des Cinquecento an Via Tripoli – Teil 5/5 (Y 93–97)
+### Schritt 10.85 – Palazzo des Cinquecento an Via Tripoli – Teil 5/5 (Y 93–97)
 
 - **Y-Bereich:** 93 bis 97
 - **Blöcke:** 1.594
@@ -2882,7 +2911,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.85 – Palazzo des Cinquecento an Via Tripoli: Innenausbau
+### Schritt 10.86 – Palazzo des Cinquecento an Via Tripoli: Innenausbau
 
 - **Y-Bereich:** 62 bis 83
 - **Blöcke:** 2.037
@@ -2926,7 +2955,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.86 – Reihenhaus an Via Tripoli – Teil 1/2 (Y 62–80)
+### Schritt 10.87 – Reihenhaus an Via Tripoli – Teil 1/2 (Y 62–80)
 
 - **Y-Bereich:** 62 bis 80
 - **Blöcke:** 1.591
@@ -2959,7 +2988,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.87 – Reihenhaus an Via Tripoli – Teil 2/2 (Y 81–97)
+### Schritt 10.88 – Reihenhaus an Via Tripoli – Teil 2/2 (Y 81–97)
 
 - **Y-Bereich:** 81 bis 97
 - **Blöcke:** 1.599
@@ -2993,7 +3022,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.88 – Reihenhaus an Via Tripoli: Innenausbau
+### Schritt 10.89 – Reihenhaus an Via Tripoli: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.587

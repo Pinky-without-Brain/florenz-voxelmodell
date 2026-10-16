@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 633.162 |
+| Blöcke | 633.139 |
 | Bauschritte | 397 |
 | Y-Bereich | 52 bis 110 |
 | X-Ausdehnung | 161 bis 829 (669 Blöcke) |
@@ -24,13 +24,13 @@
 | Terrakotta | `terracotta` | 234.385 | 37,0 % |
 | Polierter Tuffstein | `polished_tuff` | 78.934 | 12,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 42.230 | 6,7 % |
-| Tuffstein | `tuff` | 41.691 | 6,6 % |
+| Tuffstein | `tuff` | 41.727 | 6,6 % |
 | Endsteinziegel | `end_stone_bricks` | 36.431 | 5,8 % |
 | Weißer Beton | `white_concrete` | 35.611 | 5,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 35.581 | 5,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 28.159 | 4,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 28.092 | 4,4 % |
 | Orange Keramik | `orange_terracotta` | 25.048 | 4,0 % |
-| Glatter Stein | `smooth_stone` | 15.913 | 2,5 % |
+| Glatter Stein | `smooth_stone` | 15.921 | 2,5 % |
 | Polierter Andesit | `polished_andesite` | 14.034 | 2,2 % |
 | Graues Buntglas | `gray_stained_glass` | 13.217 | 2,1 % |
 | Rosa Keramik | `pink_terracotta` | 11.732 | 1,9 % |
@@ -70,11 +70,11 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4098970` | Palazzo Nonfinito | 45.905 | 1.1–1.30 |
+| 1 | `r4098970` | Palazzo Nonfinito | 45.949 | 1.1–1.30 |
 | 2 | `r4098970_innen` | Palazzo Nonfinito: Innenausbau | 8.380 | 1.30–1.34 |
 | 3 | `r4098971` | Reihenhaus an Borgo degli Albizi | 22.569 | 1.35–1.48 |
 | 4 | `r4098971_innen` | Reihenhaus an Borgo degli Albizi: Innenausbau | 8.381 | 1.49–1.54 |
-| 5 | `r4098975` | Palazzo Pazzi dell'Accademia Colombaria | 17.725 | 1.55–1.64 |
+| 5 | `r4098975` | Palazzo Pazzi dell'Accademia Colombaria | 17.658 | 1.55–1.64 |
 | 6 | `r4098975_innen` | Palazzo Pazzi dell'Accademia Colombaria: Innenausbau | 6.283 | 1.65–1.68 |
 | 7 | `r7109829` | Palazzo des Ottocento an Borgo degli Albizi | 21.154 | 1.69–1.80 |
 | 8 | `r7109829_innen` | Palazzo des Ottocento an Borgo degli Albizi: Innenausbau | 5.715 | 1.81–1.84 |
@@ -162,10 +162,10 @@
 
 ## Bauschritte
 
-### Schritt 1.1 – Palazzo Nonfinito – Teil 1/30 (Y 65–65)
+### Schritt 1.1 – Palazzo Nonfinito – Teil 1/30 (Y 65–66)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.881
+- **Y-Bereich:** 65 bis 66
+- **Blöcke:** 1.917
 - **Bauteile:** `r4098970`
 
 **Teileliste**
@@ -173,6 +173,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.881 |
+| Tuffstein | `tuff` | 36 |
 
 **Beschreibung**
 
@@ -190,9 +191,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Palazzo Nonfinito – Teil 2/30 (Y 65–65)
+### Schritt 1.2 – Palazzo Nonfinito – Teil 2/30 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.791
 - **Bauteile:** `r4098970`
 
@@ -218,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Palazzo Nonfinito – Teil 3/30 (Y 65–65)
+### Schritt 1.3 – Palazzo Nonfinito – Teil 3/30 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.878
 - **Bauteile:** `r4098970`
 
@@ -246,9 +247,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Palazzo Nonfinito – Teil 4/30 (Y 65–65)
+### Schritt 1.4 – Palazzo Nonfinito – Teil 4/30 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.853
 - **Bauteile:** `r4098970`
 
@@ -274,9 +275,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Palazzo Nonfinito – Teil 5/30 (Y 65–65)
+### Schritt 1.5 – Palazzo Nonfinito – Teil 5/30 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.802
 - **Bauteile:** `r4098970`
 
@@ -302,9 +303,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Palazzo Nonfinito – Teil 6/30 (Y 66–66)
+### Schritt 1.6 – Palazzo Nonfinito – Teil 6/30 (Y 67–67)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 954
 - **Bauteile:** `r4098970`
 
@@ -333,9 +334,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Palazzo Nonfinito – Teil 7/30 (Y 67–67)
+### Schritt 1.7 – Palazzo Nonfinito – Teil 7/30 (Y 68–68)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 954
 - **Bauteile:** `r4098970`
 
@@ -364,10 +365,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Palazzo Nonfinito – Teil 8/30 (Y 68–68)
+### Schritt 1.8 – Palazzo Nonfinito – Teil 8/30 (Y 69–69)
 
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.024
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.032
 - **Bauteile:** `r4098970`
 
 **Teileliste**
@@ -375,7 +376,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 623 |
-| Glatter Stein | `smooth_stone` | 255 |
+| Glatter Stein | `smooth_stone` | 263 |
 | Polierter Andesit | `polished_andesite` | 93 |
 | Tuffsteinziegel | `tuff_bricks` | 53 |
 
@@ -395,9 +396,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Palazzo Nonfinito – Teil 9/30 (Y 69–70)
+### Schritt 1.9 – Palazzo Nonfinito – Teil 9/30 (Y 70–71)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.712
 - **Bauteile:** `r4098970`
 
@@ -427,9 +428,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Palazzo Nonfinito – Teil 10/30 (Y 71–72)
+### Schritt 1.10 – Palazzo Nonfinito – Teil 10/30 (Y 72–73)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.719
 - **Bauteile:** `r4098970`
 
@@ -459,9 +460,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Palazzo Nonfinito – Teil 11/30 (Y 73–73)
+### Schritt 1.11 – Palazzo Nonfinito – Teil 11/30 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 953
 - **Bauteile:** `r4098970`
 
@@ -491,9 +492,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Palazzo Nonfinito – Teil 12/30 (Y 74–75)
+### Schritt 1.12 – Palazzo Nonfinito – Teil 12/30 (Y 75–76)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.927
 - **Bauteile:** `r4098970`
 
@@ -522,9 +523,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Palazzo Nonfinito – Teil 13/30 (Y 76–76)
+### Schritt 1.13 – Palazzo Nonfinito – Teil 13/30 (Y 77–77)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.205
 - **Bauteile:** `r4098970`
 
@@ -553,9 +554,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Palazzo Nonfinito – Teil 14/30 (Y 77–78)
+### Schritt 1.14 – Palazzo Nonfinito – Teil 14/30 (Y 78–79)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.934
 - **Bauteile:** `r4098970`
 
@@ -583,9 +584,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Palazzo Nonfinito – Teil 15/30 (Y 79–79)
+### Schritt 1.15 – Palazzo Nonfinito – Teil 15/30 (Y 80–80)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.044
 - **Bauteile:** `r4098970`
 
@@ -613,9 +614,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Palazzo Nonfinito – Teil 16/30 (Y 80–81)
+### Schritt 1.16 – Palazzo Nonfinito – Teil 16/30 (Y 81–82)
 
-- **Y-Bereich:** 80 bis 81
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.738
 - **Bauteile:** `r4098970`
 
@@ -644,9 +645,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Palazzo Nonfinito – Teil 17/30 (Y 82–83)
+### Schritt 1.17 – Palazzo Nonfinito – Teil 17/30 (Y 83–84)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.738
 - **Bauteile:** `r4098970`
 
@@ -675,9 +676,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.18 – Palazzo Nonfinito – Teil 18/30 (Y 84–85)
+### Schritt 1.18 – Palazzo Nonfinito – Teil 18/30 (Y 85–86)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.829
 - **Bauteile:** `r4098970`
 
@@ -706,9 +707,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Palazzo Nonfinito – Teil 19/30 (Y 86–86)
+### Schritt 1.19 – Palazzo Nonfinito – Teil 19/30 (Y 87–87)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.213
 - **Bauteile:** `r4098970`
 
@@ -736,9 +737,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Palazzo Nonfinito – Teil 20/30 (Y 87–87)
+### Schritt 1.20 – Palazzo Nonfinito – Teil 20/30 (Y 88–88)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.475
 - **Bauteile:** `r4098970`
 
@@ -766,9 +767,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Palazzo Nonfinito – Teil 21/30 (Y 88–88)
+### Schritt 1.21 – Palazzo Nonfinito – Teil 21/30 (Y 89–89)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.718
 - **Bauteile:** `r4098970`
 
@@ -796,9 +797,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.22 – Palazzo Nonfinito – Teil 22/30 (Y 89–89)
+### Schritt 1.22 – Palazzo Nonfinito – Teil 22/30 (Y 90–90)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.521
 - **Bauteile:** `r4098970`
 
@@ -824,9 +825,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.23 – Palazzo Nonfinito – Teil 23/30 (Y 89–89)
+### Schritt 1.23 – Palazzo Nonfinito – Teil 23/30 (Y 90–90)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.560
 - **Bauteile:** `r4098970`
 
@@ -852,9 +853,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.24 – Palazzo Nonfinito – Teil 24/30 (Y 90–90)
+### Schritt 1.24 – Palazzo Nonfinito – Teil 24/30 (Y 91–91)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.880
 - **Bauteile:** `r4098970`
 
@@ -880,9 +881,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Palazzo Nonfinito – Teil 25/30 (Y 91–91)
+### Schritt 1.25 – Palazzo Nonfinito – Teil 25/30 (Y 92–92)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.157
 - **Bauteile:** `r4098970`
 
@@ -908,9 +909,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.26 – Palazzo Nonfinito – Teil 26/30 (Y 91–91)
+### Schritt 1.26 – Palazzo Nonfinito – Teil 26/30 (Y 92–92)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.146
 - **Bauteile:** `r4098970`
 
@@ -936,9 +937,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.27 – Palazzo Nonfinito – Teil 27/30 (Y 92–92)
+### Schritt 1.27 – Palazzo Nonfinito – Teil 27/30 (Y 93–93)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.758
 - **Bauteile:** `r4098970`
 
@@ -965,9 +966,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.28 – Palazzo Nonfinito – Teil 28/30 (Y 93–93)
+### Schritt 1.28 – Palazzo Nonfinito – Teil 28/30 (Y 94–94)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.636
 - **Bauteile:** `r4098970`
 
@@ -994,9 +995,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.29 – Palazzo Nonfinito – Teil 29/30 (Y 94–94)
+### Schritt 1.29 – Palazzo Nonfinito – Teil 29/30 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.065
 - **Bauteile:** `r4098970`
 
@@ -1023,9 +1024,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.30 – Palazzo Nonfinito – Teil 30/30 (Y 95–99) & Palazzo Nonfinito: Innenausbau – Teil 1/5 (Y 65–75)
+### Schritt 1.30 – Palazzo Nonfinito – Teil 30/30 (Y 96–100) & Palazzo Nonfinito: Innenausbau – Teil 1/5 (Y 66–76)
 
-- **Y-Bereich:** 65 bis 99
+- **Y-Bereich:** 66 bis 100
 - **Blöcke:** 1.935
 - **Bauteile:** `r4098970`, `r4098970_innen`
 
@@ -1066,9 +1067,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.31 – Palazzo Nonfinito: Innenausbau – Teil 2/5 (Y 76–76)
+### Schritt 1.31 – Palazzo Nonfinito: Innenausbau – Teil 2/5 (Y 77–77)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.093
 - **Bauteile:** `r4098970_innen`
 
@@ -1102,9 +1103,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.32 – Palazzo Nonfinito: Innenausbau – Teil 3/5 (Y 76–76)
+### Schritt 1.32 – Palazzo Nonfinito: Innenausbau – Teil 3/5 (Y 77–77)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.065
 - **Bauteile:** `r4098970_innen`
 
@@ -1131,9 +1132,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.33 – Palazzo Nonfinito: Innenausbau – Teil 4/5 (Y 76–76)
+### Schritt 1.33 – Palazzo Nonfinito: Innenausbau – Teil 4/5 (Y 77–77)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.028
 - **Bauteile:** `r4098970_innen`
 
@@ -1160,9 +1161,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.34 – Palazzo Nonfinito: Innenausbau – Teil 5/5 (Y 76–77)
+### Schritt 1.34 – Palazzo Nonfinito: Innenausbau – Teil 5/5 (Y 77–78)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 2.099
 - **Bauteile:** `r4098970_innen`
 
@@ -2018,14 +2019,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.60 – Palazzo Pazzi dell'Accademia Colombaria – Teil 6/10 (Y 85–89)
 
 - **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.772
+- **Blöcke:** 1.705
 - **Bauteile:** `r4098975`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.453 |
+| Glatter Sandstein | `smooth_sandstone` | 1.386 |
 | Polierter Andesit | `polished_andesite` | 131 |
 | Graues Buntglas | `gray_stained_glass` | 104 |
 | Fichtenholz-Bretter | `spruce_planks` | 84 |

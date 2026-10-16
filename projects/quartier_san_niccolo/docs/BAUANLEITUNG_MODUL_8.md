@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 346.049 |
+| Blöcke | 346.025 |
 | Bauschritte | 209 |
 | Y-Bereich | 64 bis 112 |
 | X-Ausdehnung | -303 bis 253 (557 Blöcke) |
@@ -21,10 +21,10 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 116.251 | 33,6 % |
-| Weißer Beton | `white_concrete` | 42.583 | 12,3 % |
+| Terrakotta | `terracotta` | 116.249 | 33,6 % |
+| Weißer Beton | `white_concrete` | 42.547 | 12,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 38.532 | 11,1 % |
-| Polierter Tuffstein | `polished_tuff` | 36.858 | 10,7 % |
+| Polierter Tuffstein | `polished_tuff` | 36.857 | 10,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 26.934 | 7,8 % |
 | Endsteinziegel | `end_stone_bricks` | 17.506 | 5,1 % |
 | Tuffstein | `tuff` | 12.157 | 3,5 % |
@@ -39,16 +39,16 @@
 | Grüner Beton | `green_concrete` | 1.110 | 0,3 % |
 | Tuffsteinziegel | `tuff_bricks` | 941 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 854 | 0,2 % |
-| Seelaterne | `sea_lantern` | 651 | 0,2 % |
+| Seelaterne | `sea_lantern` | 654 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 293 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 267 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 176 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 164 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 158 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 148 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 68 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 68 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 64 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 62 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 62 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 60 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 24 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 7 | 0,0 % |
@@ -92,8 +92,8 @@
 | 22 | `w420789155_innen` | Reihenhaus an Via dei Bardi: Innenausbau | 1.803 | 8.97 |
 | 23 | `w420789156` | Reihenhaus an Via dei Bardi | 8.457 | 8.98–8.102 |
 | 24 | `w420789156_innen` | Reihenhaus an Via dei Bardi: Innenausbau | 2.366 | 8.103–8.104 |
-| 25 | `w420789157` | Palazzo des Cinquecento an Lungarno Torrigiani | 10.289 | 8.105–8.110 |
-| 26 | `w420789157_innen` | Palazzo des Cinquecento an Lungarno Torrigiani: Innenausbau | 3.160 | 8.111–8.112 |
+| 25 | `w420789157` | Palazzo des Cinquecento an Lungarno Torrigiani | 10.252 | 8.105–8.110 |
+| 26 | `w420789157_innen` | Palazzo des Cinquecento an Lungarno Torrigiani: Innenausbau | 3.173 | 8.111–8.112 |
 | 27 | `w420789158` | Reihenhaus an Lungarno Torrigiani | 8.150 | 8.113–8.117 |
 | 28 | `w420789158_innen` | Reihenhaus an Lungarno Torrigiani: Innenausbau | 1.739 | 8.118 |
 | 29 | `w420789159` | Reihenhaus an Lungarno Torrigiani | 4.386 | 8.119–8.121 |
@@ -3567,17 +3567,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.105 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 1/6 (Y 64–64)
+### Schritt 8.105 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 1/6 (Y 65–65)
 
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.735
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.734
 - **Bauteile:** `w420789157`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.735 |
+| Polierter Tuffstein | `polished_tuff` | 1.734 |
 
 **Beschreibung**
 
@@ -3595,17 +3595,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.106 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 2/6 (Y 65–72)
+### Schritt 8.106 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 2/6 (Y 66–74)
 
-- **Y-Bereich:** 65 bis 72
-- **Blöcke:** 1.608
+- **Y-Bereich:** 66 bis 74
+- **Blöcke:** 1.777
 - **Bauteile:** `w420789157`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.262 |
+| Weißer Beton | `white_concrete` | 1.431 |
 | Hellgrauer Beton | `light_gray_concrete` | 184 |
 | Graues Buntglas | `gray_stained_glass` | 68 |
 | Grüner Beton | `green_concrete` | 52 |
@@ -3628,17 +3628,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.107 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 3/6 (Y 73–81)
+### Schritt 8.107 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 3/6 (Y 75–82)
 
-- **Y-Bereich:** 73 bis 81
-- **Blöcke:** 1.785
+- **Y-Bereich:** 75 bis 82
+- **Blöcke:** 1.580
 - **Bauteile:** `w420789157`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.303 |
+| Weißer Beton | `white_concrete` | 1.098 |
 | Hellgrauer Beton | `light_gray_concrete` | 182 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Graues Buntglas | `gray_stained_glass` | 100 |
@@ -3660,9 +3660,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.108 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 4/6 (Y 82–90)
+### Schritt 8.108 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 4/6 (Y 83–91)
 
-- **Y-Bereich:** 82 bis 90
+- **Y-Bereich:** 83 bis 91
 - **Blöcke:** 1.797
 - **Bauteile:** `w420789157`
 
@@ -3692,9 +3692,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.109 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 5/6 (Y 91–95)
+### Schritt 8.109 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 5/6 (Y 92–96)
 
-- **Y-Bereich:** 91 bis 95
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.698
 - **Bauteile:** `w420789157`
 
@@ -3725,9 +3725,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.110 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 6/6 (Y 96–104)
+### Schritt 8.110 – Palazzo des Cinquecento an Lungarno Torrigiani – Teil 6/6 (Y 97–105)
 
-- **Y-Bereich:** 96 bis 104
+- **Y-Bereich:** 97 bis 105
 - **Blöcke:** 1.666
 - **Bauteile:** `w420789157`
 
@@ -3754,19 +3754,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.111 – Palazzo des Cinquecento an Lungarno Torrigiani: Innenausbau – Teil 1/2 (Y 64–74)
+### Schritt 8.111 – Palazzo des Cinquecento an Lungarno Torrigiani: Innenausbau – Teil 1/2 (Y 65–75)
 
-- **Y-Bereich:** 64 bis 74
-- **Blöcke:** 1.584
+- **Y-Bereich:** 65 bis 75
+- **Blöcke:** 1.585
 - **Bauteile:** `w420789157_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.522 |
+| Terrakotta | `terracotta` | 1.521 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 16 |
+| Seelaterne | `sea_lantern` | 18 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
@@ -3792,21 +3792,23 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.112 – Palazzo des Cinquecento an Lungarno Torrigiani: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 8.112 – Palazzo des Cinquecento an Lungarno Torrigiani: Innenausbau – Teil 2/2 (Y 76–86)
 
-- **Y-Bereich:** 75 bis 84
-- **Blöcke:** 1.576
+- **Y-Bereich:** 76 bis 86
+- **Blöcke:** 1.588
 - **Bauteile:** `w420789157_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.522 |
+| Terrakotta | `terracotta` | 1.521 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 8 |
+| Seelaterne | `sea_lantern` | 9 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 

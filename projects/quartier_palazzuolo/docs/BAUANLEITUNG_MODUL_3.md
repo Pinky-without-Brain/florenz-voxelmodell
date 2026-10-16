@@ -8,45 +8,45 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 301.350 |
+| Blöcke | 301.508 |
 | Bauschritte | 199 |
 | Y-Bereich | 55 bis 95 |
 | X-Ausdehnung | -1861 bis -1638 (224 Blöcke) |
 | Z-Ausdehnung | -400 bis -124 (277 Blöcke) |
 | Kleinster Schritt | 405 Blöcke (Schritt 3.166) |
-| Mittlerer Schritt | 1.514 Blöcke |
+| Mittlerer Schritt | 1.515 Blöcke |
 | Größter Schritt | 2.085 Blöcke (Schritt 3.165) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 86.052 | 28,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 36.628 | 12,2 % |
+| Terrakotta | `terracotta` | 86.050 | 28,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 36.628 | 12,1 % |
 | Polierter Tuffstein | `polished_tuff` | 26.455 | 8,8 % |
 | Gelbe Keramik | `yellow_terracotta` | 25.834 | 8,6 % |
-| Rosa Keramik | `pink_terracotta` | 24.627 | 8,2 % |
-| Orange Keramik | `orange_terracotta` | 20.263 | 6,7 % |
-| Weißer Beton | `white_concrete` | 19.694 | 6,5 % |
+| Rosa Keramik | `pink_terracotta` | 24.670 | 8,2 % |
+| Orange Keramik | `orange_terracotta` | 20.250 | 6,7 % |
+| Weißer Beton | `white_concrete` | 19.822 | 6,6 % |
 | Endsteinziegel | `end_stone_bricks` | 18.661 | 6,2 % |
 | Hellgrauer Beton | `light_gray_concrete` | 10.127 | 3,4 % |
-| Glatter Stein | `smooth_stone` | 6.281 | 2,1 % |
+| Glatter Stein | `smooth_stone` | 6.286 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 6.250 | 2,1 % |
 | Tuffstein | `tuff` | 5.988 | 2,0 % |
 | Graues Buntglas | `gray_stained_glass` | 5.395 | 1,8 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.599 | 0,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.600 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.163 | 0,4 % |
 | Ziegelsteine | `bricks` | 988 | 0,3 % |
 | Tuffsteinziegel | `tuff_bricks` | 920 | 0,3 % |
 | Grüner Beton | `green_concrete` | 651 | 0,2 % |
 | Seelaterne | `sea_lantern` | 564 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 516 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 486 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 470 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 440 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 62 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 495 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 492 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 464 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 463 | 0,2 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 62 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 62 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 59 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 59 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
@@ -61,7 +61,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.912 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.914 |
 | Steintreppe | `stone_stairs` | 160 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
@@ -79,13 +79,13 @@
 | 8 | `w483456165_innen` | Haus w483456165: Innenausbau | 1 | 3.22 |
 | 9 | `w483456168` | Reihenhaus an Via dei Canacci | 5.239 | 3.22–3.24 |
 | 10 | `w483456168_innen` | Reihenhaus an Via dei Canacci: Innenausbau | 1.159 | 3.25 |
-| 11 | `w483456172` | Reihenhaus an Via dell'Albero | 6.883 | 3.26–3.29 |
+| 11 | `w483456172` | Reihenhaus an Via dell'Albero | 6.868 | 3.26–3.29 |
 | 12 | `w483456172_innen` | Reihenhaus an Via dell'Albero: Innenausbau | 1.454 | 3.30 |
 | 13 | `w483456174` | Reihenhaus an Via Palazzuolo | 4.803 | 3.31–3.33 |
 | 14 | `w483456174_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 760 | 3.34 |
 | 15 | `w483456177` | Reihenhaus an Via dei Canacci | 7.047 | 3.35–3.38 |
 | 16 | `w483456177_innen` | Reihenhaus an Via dei Canacci: Innenausbau | 770 | 3.39 |
-| 17 | `w483456180` | Palazzo des Cinquecento an Via dell'Albero | 12.962 | 3.40–3.47 |
+| 17 | `w483456180` | Palazzo des Cinquecento an Via dell'Albero | 13.024 | 3.40–3.47 |
 | 18 | `w483456180_innen` | Palazzo des Cinquecento an Via dell'Albero: Innenausbau | 4.039 | 3.48–3.49 |
 | 19 | `w483456183` | Reihenhaus an Via della Scala | 6.809 | 3.50–3.53 |
 | 20 | `w483456183_innen` | Reihenhaus an Via della Scala: Innenausbau | 2.548 | 3.54–3.55 |
@@ -125,8 +125,8 @@
 | 54 | `w483456234_innen` | Haus w483456234: Innenausbau | 1.613 | 3.120 |
 | 55 | `w483456237` | Reihenhaus an Via Palazzuolo | 3.576 | 3.121–3.122 |
 | 56 | `w483456237_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 1.027 | 3.123 |
-| 57 | `w483456240` | Reihenhaus an Via dell'Albero | 4.220 | 3.124–3.126 |
-| 58 | `w483456240_innen` | Reihenhaus an Via dell'Albero: Innenausbau | 941 | 3.127 |
+| 57 | `w483456240` | Reihenhaus an Via dell'Albero | 4.263 | 3.124–3.126 |
+| 58 | `w483456240_innen` | Reihenhaus an Via dell'Albero: Innenausbau | 935 | 3.127 |
 | 59 | `w483456242` | Palazzo des Cinquecento an Via dell'Albero | 7.065 | 3.128–3.131 |
 | 60 | `w483456242_innen` | Palazzo des Cinquecento an Via dell'Albero: Innenausbau | 956 | 3.132 |
 | 61 | `w483456245` | Reihenhaus an Via dell'Albero | 10.126 | 3.133–3.138 |
@@ -135,8 +135,8 @@
 | 64 | `w483456248_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 897 | 3.144 |
 | 65 | `w483456249` | Haus w483456249 | 6.436 | 3.145–3.148 |
 | 66 | `w483456249_innen` | Haus w483456249: Innenausbau | 810 | 3.149 |
-| 67 | `w483456250` | Reihenhaus an Via dei Canacci | 3.052 | 3.150–3.151 |
-| 68 | `w483456250_innen` | Reihenhaus an Via dei Canacci: Innenausbau | 1.425 | 3.152 |
+| 67 | `w483456250` | Reihenhaus an Via dei Canacci | 3.123 | 3.150–3.151 |
+| 68 | `w483456250_innen` | Reihenhaus an Via dei Canacci: Innenausbau | 1.428 | 3.152 |
 | 69 | `w483456251` | Reihenhaus an Via Palazzuolo | 4.135 | 3.153–3.155 |
 | 70 | `w483456251_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 861 | 3.156 |
 | 71 | `w483456252` | Reihenhaus an Via dell'Albero | 3.887 | 3.157–3.158 |
@@ -996,17 +996,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.26 – Reihenhaus an Via dell'Albero – Teil 1/4 (Y 55–61)
+### Schritt 3.26 – Reihenhaus an Via dell'Albero – Teil 1/4 (Y 56–62)
 
-- **Y-Bereich:** 55 bis 61
-- **Blöcke:** 1.716
+- **Y-Bereich:** 56 bis 62
+- **Blöcke:** 1.703
 - **Bauteile:** `w483456172`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 990 |
+| Orange Keramik | `orange_terracotta` | 977 |
 | Polierter Tuffstein | `polished_tuff` | 630 |
 | Glatter Stein | `smooth_stone` | 66 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
@@ -1029,9 +1029,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.27 – Reihenhaus an Via dell'Albero – Teil 2/4 (Y 62–71)
+### Schritt 3.27 – Reihenhaus an Via dell'Albero – Teil 2/4 (Y 63–72)
 
-- **Y-Bereich:** 62 bis 71
+- **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.787
 - **Bauteile:** `w483456172`
 
@@ -1060,9 +1060,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.28 – Reihenhaus an Via dell'Albero – Teil 3/4 (Y 72–80)
+### Schritt 3.28 – Reihenhaus an Via dell'Albero – Teil 3/4 (Y 73–81)
 
-- **Y-Bereich:** 72 bis 80
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.609
 - **Bauteile:** `w483456172`
 
@@ -1091,17 +1091,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.29 – Reihenhaus an Via dell'Albero – Teil 4/4 (Y 81–90)
+### Schritt 3.29 – Reihenhaus an Via dell'Albero – Teil 4/4 (Y 82–91)
 
-- **Y-Bereich:** 81 bis 90
-- **Blöcke:** 1.771
+- **Y-Bereich:** 82 bis 91
+- **Blöcke:** 1.769
 - **Bauteile:** `w483456172`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 795 |
+| Terrakotta | `terracotta` | 793 |
 | Orange Keramik | `orange_terracotta` | 788 |
 | Fichtenholz-Bretter | `spruce_planks` | 72 |
 | Glatter Stein | `smooth_stone` | 58 |
@@ -1127,7 +1127,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.30 – Reihenhaus an Via dell'Albero: Innenausbau
 
-- **Y-Bereich:** 55 bis 79
+- **Y-Bereich:** 56 bis 80
 - **Blöcke:** 1.454
 - **Bauteile:** `w483456172_innen`
 
@@ -1488,7 +1488,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.41 – Palazzo des Cinquecento an Via dell'Albero – Teil 2/8 (Y 55–58)
 
 - **Y-Bereich:** 55 bis 58
-- **Blöcke:** 1.929
+- **Blöcke:** 1.986
 - **Bauteile:** `w483456180`
 
 **Teileliste**
@@ -1496,7 +1496,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.137 |
-| Weißer Beton | `white_concrete` | 711 |
+| Weißer Beton | `white_concrete` | 768 |
 | Glatter Stein | `smooth_stone` | 75 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
 | Polierter Andesit | `polished_andesite` | 2 |
@@ -1517,17 +1517,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.42 – Palazzo des Cinquecento an Via dell'Albero – Teil 3/8 (Y 59–66)
+### Schritt 3.42 – Palazzo des Cinquecento an Via dell'Albero – Teil 3/8 (Y 59–65)
 
-- **Y-Bereich:** 59 bis 66
-- **Blöcke:** 1.977
+- **Y-Bereich:** 59 bis 65
+- **Blöcke:** 1.722
 - **Bauteile:** `w483456180`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.519 |
+| Weißer Beton | `white_concrete` | 1.264 |
 | Glatter Stein | `smooth_stone` | 297 |
 | Graues Buntglas | `gray_stained_glass` | 112 |
 | Grüner Beton | `green_concrete` | 36 |
@@ -1550,17 +1550,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.43 – Palazzo des Cinquecento an Via dell'Albero – Teil 4/8 (Y 67–72)
+### Schritt 3.43 – Palazzo des Cinquecento an Via dell'Albero – Teil 4/8 (Y 66–72)
 
-- **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.462
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 1.717
 - **Bauteile:** `w483456180`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.017 |
+| Weißer Beton | `white_concrete` | 1.272 |
 | Glatter Stein | `smooth_stone` | 240 |
 | Graues Buntglas | `gray_stained_glass` | 160 |
 | Grüner Beton | `green_concrete` | 45 |
@@ -1581,20 +1581,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.44 – Palazzo des Cinquecento an Via dell'Albero – Teil 5/8 (Y 73–79)
+### Schritt 3.44 – Palazzo des Cinquecento an Via dell'Albero – Teil 5/8 (Y 73–78)
 
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.771
+- **Y-Bereich:** 73 bis 78
+- **Blöcke:** 1.534
 - **Bauteile:** `w483456180`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.247 |
-| Glatter Stein | `smooth_stone` | 442 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Grüner Beton | `green_concrete` | 18 |
+| Weißer Beton | `white_concrete` | 1.082 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
+| Grüner Beton | `green_concrete` | 9 |
 
 **Beschreibung**
 
@@ -1612,20 +1612,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.45 – Palazzo des Cinquecento an Via dell'Albero – Teil 6/8 (Y 80–85)
+### Schritt 3.45 – Palazzo des Cinquecento an Via dell'Albero – Teil 6/8 (Y 79–84)
 
-- **Y-Bereich:** 80 bis 85
-- **Blöcke:** 1.699
+- **Y-Bereich:** 79 bis 84
+- **Blöcke:** 1.529
 - **Bauteile:** `w483456180`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.099 |
-| Glatter Stein | `smooth_stone` | 477 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Grüner Beton | `green_concrete` | 27 |
+| Weißer Beton | `white_concrete` | 1.009 |
+| Glatter Stein | `smooth_stone` | 356 |
+| Graues Buntglas | `gray_stained_glass` | 128 |
+| Grüner Beton | `green_concrete` | 36 |
 
 **Beschreibung**
 
@@ -1643,10 +1643,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.46 – Palazzo des Cinquecento an Via dell'Albero – Teil 7/8 (Y 86–87)
+### Schritt 3.46 – Palazzo des Cinquecento an Via dell'Albero – Teil 7/8 (Y 85–87)
 
-- **Y-Bereich:** 86 bis 87
-- **Blöcke:** 1.356
+- **Y-Bereich:** 85 bis 87
+- **Blöcke:** 1.768
 - **Bauteile:** `w483456180`
 
 **Teileliste**
@@ -1654,6 +1654,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.356 |
+| Weißer Beton | `white_concrete` | 255 |
+| Glatter Stein | `smooth_stone` | 157 |
 
 **Beschreibung**
 
@@ -1760,8 +1762,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 4 |
 | Weiße Keramik | `white_terracotta` | 4 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4287,14 +4291,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 3.124 – Reihenhaus an Via dell'Albero – Teil 1/3 (Y 55–64)
 
 - **Y-Bereich:** 55 bis 64
-- **Blöcke:** 1.392
+- **Blöcke:** 1.435
 - **Bauteile:** `w483456240`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 952 |
+| Rosa Keramik | `pink_terracotta` | 995 |
 | Polierter Tuffstein | `polished_tuff` | 392 |
 | Weißer Beton | `white_concrete` | 23 |
 | Glatter Stein | `smooth_stone` | 19 |
@@ -4316,18 +4320,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.125 – Reihenhaus an Via dell'Albero – Teil 2/3 (Y 65–77)
+### Schritt 3.125 – Reihenhaus an Via dell'Albero – Teil 2/3 (Y 65–76)
 
-- **Y-Bereich:** 65 bis 77
-- **Blöcke:** 1.471
+- **Y-Bereich:** 65 bis 76
+- **Blöcke:** 1.356
 - **Bauteile:** `w483456240`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.319 |
-| Weißer Beton | `white_concrete` | 122 |
+| Rosa Keramik | `pink_terracotta` | 1.220 |
+| Weißer Beton | `white_concrete` | 106 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
 
 **Beschreibung**
@@ -4346,19 +4350,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.126 – Reihenhaus an Via dell'Albero – Teil 3/3 (Y 78–89)
+### Schritt 3.126 – Reihenhaus an Via dell'Albero – Teil 3/3 (Y 77–89)
 
-- **Y-Bereich:** 78 bis 89
-- **Blöcke:** 1.357
+- **Y-Bereich:** 77 bis 89
+- **Blöcke:** 1.472
 - **Bauteile:** `w483456240`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 832 |
+| Rosa Keramik | `pink_terracotta` | 931 |
 | Terrakotta | `terracotta` | 446 |
-| Weißer Beton | `white_concrete` | 61 |
+| Weißer Beton | `white_concrete` | 77 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
 | Ziegelsteine | `bricks` | 3 |
 
@@ -4381,7 +4385,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.127 – Reihenhaus an Via dell'Albero: Innenausbau
 
 - **Y-Bereich:** 55 bis 79
-- **Blöcke:** 941
+- **Blöcke:** 935
 - **Bauteile:** `w483456240_innen`
 
 **Teileliste**
@@ -4389,9 +4393,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 807 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -4400,7 +4404,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -5172,19 +5176,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.150 – Reihenhaus an Via dei Canacci – Teil 1/2 (Y 56–72)
+### Schritt 3.150 – Reihenhaus an Via dei Canacci – Teil 1/2 (Y 57–74)
 
-- **Y-Bereich:** 56 bis 72
-- **Blöcke:** 1.530
+- **Y-Bereich:** 57 bis 74
+- **Blöcke:** 1.570
 - **Bauteile:** `w483456250`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 838 |
+| Weißer Beton | `white_concrete` | 862 |
 | Polierter Tuffstein | `polished_tuff` | 505 |
-| Hellgrauer Beton | `light_gray_concrete` | 104 |
+| Hellgrauer Beton | `light_gray_concrete` | 120 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 | Glatter Stein | `smooth_stone` | 20 |
 | Grüner Beton | `green_concrete` | 16 |
@@ -5206,19 +5210,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.151 – Reihenhaus an Via dei Canacci – Teil 2/2 (Y 73–91)
+### Schritt 3.151 – Reihenhaus an Via dei Canacci – Teil 2/2 (Y 75–92)
 
-- **Y-Bereich:** 73 bis 91
-- **Blöcke:** 1.522
+- **Y-Bereich:** 75 bis 92
+- **Blöcke:** 1.553
 - **Bauteile:** `w483456250`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 702 |
+| Weißer Beton | `white_concrete` | 749 |
 | Terrakotta | `terracotta` | 593 |
-| Hellgrauer Beton | `light_gray_concrete` | 128 |
+| Hellgrauer Beton | `light_gray_concrete` | 112 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 | Grüner Beton | `green_concrete` | 32 |
 | Ziegelsteine | `bricks` | 3 |
@@ -5241,8 +5245,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.152 – Reihenhaus an Via dei Canacci: Innenausbau
 
-- **Y-Bereich:** 56 bis 80
-- **Blöcke:** 1.425
+- **Y-Bereich:** 57 bis 81
+- **Blöcke:** 1.428
 - **Bauteile:** `w483456250_innen`
 
 **Teileliste**
@@ -5250,18 +5254,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.293 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
 
 **Beschreibung**
 

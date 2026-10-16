@@ -8,28 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 114.863 |
+| Blöcke | 115.623 |
 | Bauschritte | 71 |
 | Y-Bereich | 51 bis 110 |
 | X-Ausdehnung | 1056 bis 1375 (320 Blöcke) |
 | Z-Ausdehnung | 1712 bis 2031 (320 Blöcke) |
 | Kleinster Schritt | 399 Blöcke (Schritt 163.67) |
-| Mittlerer Schritt | 1.618 Blöcke |
+| Mittlerer Schritt | 1.628 Blöcke |
 | Größter Schritt | 2.074 Blöcke (Schritt 163.63) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 43.142 | 37,6 % |
-| Polierter Tuffstein | `polished_tuff` | 27.255 | 23,7 % |
-| Stein | `stone` | 27.197 | 23,7 % |
-| Glatter Stein | `smooth_stone` | 8.644 | 7,5 % |
-| Tuffstein | `tuff` | 7.216 | 6,3 % |
+| Grasblock | `grass_block` | 43.142 | 37,3 % |
+| Stein | `stone` | 27.992 | 24,2 % |
+| Polierter Tuffstein | `polished_tuff` | 27.234 | 23,6 % |
+| Glatter Stein | `smooth_stone` | 8.630 | 7,5 % |
+| Tuffstein | `tuff` | 7.216 | 6,2 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 484 | 0,4 % |
 | Kies | `gravel` | 399 | 0,3 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 211 | 0,2 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 173 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 173 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 65 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 48 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 15 | 0,0 % |
@@ -46,11 +46,11 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 23.689 | 163.1–163.15 |
+| 1 | `boeschung` | Böschung und Mantel | 24.484 | 163.1–163.15 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 22.066 | 163.16–163.29 |
-| 3 | `gehwege` | Gehwege | 7.989 | 163.30–163.34 |
+| 3 | `gehwege` | Gehwege | 7.975 | 163.30–163.34 |
 | 4 | `stufen` | Treppenflächen | 1.665 | 163.35 |
-| 5 | `hof_pflaster` | Höfe | 5.189 | 163.36–163.39 |
+| 5 | `hof_pflaster` | Höfe | 5.168 | 163.36–163.39 |
 | 6 | `rasen` | Grün und offenes Gelände | 46.650 | 163.40–163.66 |
 | 7 | `gruen_wege` | Wege im Grün | 399 | 163.67 |
 | 8 | `mauern_stadt` | Stadtmauer | 7.216 | 163.68–163.71 |
@@ -85,17 +85,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 163.2 – Böschung und Mantel – Teil 2/15 (Y 57–60)
+### Schritt 163.2 – Böschung und Mantel – Teil 2/15 (Y 57–61)
 
-- **Y-Bereich:** 57 bis 60
-- **Blöcke:** 1.348
+- **Y-Bereich:** 57 bis 61
+- **Blöcke:** 1.700
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.348 |
+| Stein | `stone` | 1.700 |
 
 **Beschreibung**
 
@@ -113,17 +113,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 163.3 – Böschung und Mantel – Teil 3/15 (Y 61–63)
+### Schritt 163.3 – Böschung und Mantel – Teil 3/15 (Y 62–63)
 
-- **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.462
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.534
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.462 |
+| Stein | `stone` | 1.534 |
 
 **Beschreibung**
 
@@ -144,14 +144,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 163.4 – Böschung und Mantel – Teil 4/15 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.430
+- **Blöcke:** 1.618
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.430 |
+| Stein | `stone` | 1.618 |
 
 **Beschreibung**
 
@@ -172,6 +172,146 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 163.5 – Böschung und Mantel – Teil 5/15 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.527
+- **Bauteile:** `boeschung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Stein | `stone` | 1.527 |
+
+**Beschreibung**
+
+Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
+
+**Tipp**
+
+Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
+
+**Achtung**
+
+Im Uferband ist die Böschung die Ufermauer (Pietra forte).
+
+**Fakt**
+
+Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
+
+### Schritt 163.6 – Böschung und Mantel – Teil 6/15 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.069
+- **Bauteile:** `boeschung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Stein | `stone` | 1.069 |
+
+**Beschreibung**
+
+Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
+
+**Tipp**
+
+Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
+
+**Achtung**
+
+Im Uferband ist die Böschung die Ufermauer (Pietra forte).
+
+**Fakt**
+
+Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
+
+### Schritt 163.7 – Böschung und Mantel – Teil 7/15 (Y 66–68)
+
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 1.841
+- **Bauteile:** `boeschung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Stein | `stone` | 1.841 |
+
+**Beschreibung**
+
+Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
+
+**Tipp**
+
+Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
+
+**Achtung**
+
+Im Uferband ist die Böschung die Ufermauer (Pietra forte).
+
+**Fakt**
+
+Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
+
+### Schritt 163.8 – Böschung und Mantel – Teil 8/15 (Y 69–73)
+
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.935
+- **Bauteile:** `boeschung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Stein | `stone` | 1.935 |
+
+**Beschreibung**
+
+Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
+
+**Tipp**
+
+Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
+
+**Achtung**
+
+Im Uferband ist die Böschung die Ufermauer (Pietra forte).
+
+**Fakt**
+
+Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
+
+### Schritt 163.9 – Böschung und Mantel – Teil 9/15 (Y 74–78)
+
+- **Y-Bereich:** 74 bis 78
+- **Blöcke:** 1.856
+- **Bauteile:** `boeschung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Stein | `stone` | 1.856 |
+
+**Beschreibung**
+
+Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
+
+**Tipp**
+
+Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
+
+**Achtung**
+
+Im Uferband ist die Böschung die Ufermauer (Pietra forte).
+
+**Fakt**
+
+Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
+
+### Schritt 163.10 – Böschung und Mantel – Teil 10/15 (Y 79–82)
+
+- **Y-Bereich:** 79 bis 82
 - **Blöcke:** 1.470
 - **Bauteile:** `boeschung`
 
@@ -197,157 +337,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 163.6 – Böschung und Mantel – Teil 6/15 (Y 66–66)
+### Schritt 163.11 – Böschung und Mantel – Teil 11/15 (Y 83–87)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.098
+- **Y-Bereich:** 83 bis 87
+- **Blöcke:** 1.857
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.098 |
-
-**Beschreibung**
-
-Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
-
-**Tipp**
-
-Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
-
-**Achtung**
-
-Im Uferband ist die Böschung die Ufermauer (Pietra forte).
-
-**Fakt**
-
-Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
-
-### Schritt 163.7 – Böschung und Mantel – Teil 7/15 (Y 66–68)
-
-- **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.845
-- **Bauteile:** `boeschung`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Stein | `stone` | 1.845 |
-
-**Beschreibung**
-
-Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
-
-**Tipp**
-
-Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
-
-**Achtung**
-
-Im Uferband ist die Böschung die Ufermauer (Pietra forte).
-
-**Fakt**
-
-Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
-
-### Schritt 163.8 – Böschung und Mantel – Teil 8/15 (Y 69–73)
-
-- **Y-Bereich:** 69 bis 73
-- **Blöcke:** 1.864
-- **Bauteile:** `boeschung`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Stein | `stone` | 1.864 |
-
-**Beschreibung**
-
-Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
-
-**Tipp**
-
-Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
-
-**Achtung**
-
-Im Uferband ist die Böschung die Ufermauer (Pietra forte).
-
-**Fakt**
-
-Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
-
-### Schritt 163.9 – Böschung und Mantel – Teil 9/15 (Y 74–78)
-
-- **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.808
-- **Bauteile:** `boeschung`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Stein | `stone` | 1.808 |
-
-**Beschreibung**
-
-Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
-
-**Tipp**
-
-Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
-
-**Achtung**
-
-Im Uferband ist die Böschung die Ufermauer (Pietra forte).
-
-**Fakt**
-
-Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
-
-### Schritt 163.10 – Böschung und Mantel – Teil 10/15 (Y 79–83)
-
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.807
-- **Bauteile:** `boeschung`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Stein | `stone` | 1.807 |
-
-**Beschreibung**
-
-Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
-
-**Tipp**
-
-Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
-
-**Achtung**
-
-Im Uferband ist die Böschung die Ufermauer (Pietra forte).
-
-**Fakt**
-
-Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
-
-### Schritt 163.11 – Böschung und Mantel – Teil 11/15 (Y 84–87)
-
-- **Y-Bereich:** 84 bis 87
-- **Blöcke:** 1.501
-- **Bauteile:** `boeschung`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Stein | `stone` | 1.501 |
+| Stein | `stone` | 1.857 |
 
 **Beschreibung**
 
@@ -368,14 +368,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 163.12 – Böschung und Mantel – Teil 12/15 (Y 88–91)
 
 - **Y-Bereich:** 88 bis 91
-- **Blöcke:** 1.539
+- **Blöcke:** 1.560
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.539 |
+| Stein | `stone` | 1.560 |
 
 **Beschreibung**
 
@@ -421,17 +421,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 163.14 – Böschung und Mantel – Teil 14/15 (Y 97–102)
+### Schritt 163.14 – Böschung und Mantel – Teil 14/15 (Y 97–101)
 
-- **Y-Bereich:** 97 bis 102
-- **Blöcke:** 1.738
+- **Y-Bereich:** 97 bis 101
+- **Blöcke:** 1.460
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.738 |
+| Stein | `stone` | 1.460 |
 
 **Beschreibung**
 
@@ -449,17 +449,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 163.15 – Böschung und Mantel – Teil 15/15 (Y 103–109)
+### Schritt 163.15 – Böschung und Mantel – Teil 15/15 (Y 102–109)
 
-- **Y-Bereich:** 103 bis 109
-- **Blöcke:** 1.488
+- **Y-Bereich:** 102 bis 109
+- **Blöcke:** 1.766
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.488 |
+| Stein | `stone` | 1.766 |
 
 **Beschreibung**
 
@@ -872,14 +872,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 163.30 – Gehwege – Teil 1/5 (Y 55–64)
 
 - **Y-Bereich:** 55 bis 64
-- **Blöcke:** 1.792
+- **Blöcke:** 1.782
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.792 |
+| Glatter Stein | `smooth_stone` | 1.782 |
 
 **Beschreibung**
 
@@ -928,14 +928,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 163.32 – Gehwege – Teil 3/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.329
+- **Blöcke:** 1.346
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.329 |
+| Glatter Stein | `smooth_stone` | 1.346 |
 
 **Beschreibung**
 
@@ -956,14 +956,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 163.33 – Gehwege – Teil 4/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.347
+- **Blöcke:** 1.326
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.347 |
+| Glatter Stein | `smooth_stone` | 1.326 |
 
 **Beschreibung**
 
@@ -1054,14 +1054,14 @@ Viele Treppen führen in Oltrarno die Hänge hinauf.
 ### Schritt 163.36 – Höfe – Teil 1/4 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
-- **Blöcke:** 1.246
+- **Blöcke:** 1.244
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.246 |
+| Polierter Tuffstein | `polished_tuff` | 1.244 |
 
 **Beschreibung**
 
@@ -1082,14 +1082,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 163.37 – Höfe – Teil 2/4 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.313
+- **Blöcke:** 1.310
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.313 |
+| Polierter Tuffstein | `polished_tuff` | 1.310 |
 
 **Beschreibung**
 
@@ -1110,14 +1110,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 163.38 – Höfe – Teil 3/4 (Y 66–70)
 
 - **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.297
+- **Blöcke:** 1.292
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.297 |
+| Polierter Tuffstein | `polished_tuff` | 1.292 |
 
 **Beschreibung**
 
@@ -1135,17 +1135,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 163.39 – Höfe – Teil 4/4 (Y 71–86)
+### Schritt 163.39 – Höfe – Teil 4/4 (Y 71–82)
 
-- **Y-Bereich:** 71 bis 86
-- **Blöcke:** 1.333
+- **Y-Bereich:** 71 bis 82
+- **Blöcke:** 1.322
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.333 |
+| Polierter Tuffstein | `polished_tuff` | 1.322 |
 
 **Beschreibung**
 

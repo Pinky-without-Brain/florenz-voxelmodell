@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 186.744 |
+| Blöcke | 186.725 |
 | Bauschritte | 116 |
-| Y-Bereich | 61 bis 101 |
+| Y-Bereich | 61 bis 102 |
 | X-Ausdehnung | -1044 bis -785 (260 Blöcke) |
 | Z-Ausdehnung | -66 bis 77 (144 Blöcke) |
 | Kleinster Schritt | 9 Blöcke (Schritt 11.116) |
@@ -21,14 +21,14 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 62.530 | 33,5 % |
+| Terrakotta | `terracotta` | 62.539 | 33,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 30.326 | 16,2 % |
-| Polierter Tuffstein | `polished_tuff` | 19.712 | 10,6 % |
+| Polierter Tuffstein | `polished_tuff` | 19.711 | 10,6 % |
 | Rosa Keramik | `pink_terracotta` | 15.740 | 8,4 % |
-| Tuffstein | `tuff` | 11.149 | 6,0 % |
+| Tuffstein | `tuff` | 11.133 | 6,0 % |
 | Polierter Andesit | `polished_andesite` | 9.607 | 5,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 8.569 | 4,6 % |
-| Glatter Stein | `smooth_stone` | 7.955 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 7.941 | 4,3 % |
 | Endsteinziegel | `end_stone_bricks` | 5.540 | 3,0 % |
 | Graues Buntglas | `gray_stained_glass` | 3.925 | 2,1 % |
 | Weißer Beton | `white_concrete` | 3.709 | 2,0 % |
@@ -38,17 +38,17 @@
 | Grüner Beton | `green_concrete` | 721 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 695 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 418 | 0,2 % |
-| Seelaterne | `sea_lantern` | 336 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 114 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 106 | 0,1 % |
+| Seelaterne | `sea_lantern` | 339 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 113 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 105 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 84 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 76 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 68 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 68 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 61 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 62 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 60 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 57 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 58 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
@@ -87,8 +87,8 @@
 | 20 | `w482739748_innen` | Palazzo des Cinquecento an Via dei Banchi: Innenausbau | 2.661 | 11.81–11.82 |
 | 21 | `w482739767` | Reihenhaus an Via del Trebbio | 2.114 | 11.83–11.84 |
 | 22 | `w482739767_innen` | Reihenhaus an Via del Trebbio: Innenausbau | 1.531 | 11.85 |
-| 23 | `w482739769` | Renaissance-Palazzo an Via dei Banchi | 20.947 | 11.86–11.99 |
-| 24 | `w482739769_innen` | Renaissance-Palazzo an Via dei Banchi: Innenausbau | 4.844 | 11.100–11.103 |
+| 23 | `w482739769` | Renaissance-Palazzo an Via dei Banchi | 20.925 | 11.86–11.99 |
+| 24 | `w482739769_innen` | Renaissance-Palazzo an Via dei Banchi: Innenausbau | 4.847 | 11.100–11.103 |
 | 25 | `w482739770` | Palazzo des Cinquecento an Via del Trebbio | 12.621 | 11.104–11.110 |
 | 26 | `w482739770_innen` | Palazzo des Cinquecento an Via del Trebbio: Innenausbau | 3.536 | 11.111–11.112 |
 | 27 | `w482739771` | Haus w482739771 | 4.125 | 11.113–11.114 |
@@ -2955,9 +2955,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.86 – Renaissance-Palazzo an Via dei Banchi – Teil 1/14 (Y 61–61)
+### Schritt 11.86 – Renaissance-Palazzo an Via dei Banchi – Teil 1/14 (Y 62–62)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.391
 - **Bauteile:** `w482739769`
 
@@ -2983,17 +2983,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.87 – Renaissance-Palazzo an Via dei Banchi – Teil 2/14 (Y 61–61)
+### Schritt 11.87 – Renaissance-Palazzo an Via dei Banchi – Teil 2/14 (Y 62–62)
 
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.428
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 1.427
 - **Bauteile:** `w482739769`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.428 |
+| Polierter Tuffstein | `polished_tuff` | 1.427 |
 
 **Beschreibung**
 
@@ -3011,17 +3011,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.88 – Renaissance-Palazzo an Via dei Banchi – Teil 3/14 (Y 62–65)
+### Schritt 11.88 – Renaissance-Palazzo an Via dei Banchi – Teil 3/14 (Y 63–66)
 
-- **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.535
+- **Y-Bereich:** 63 bis 66
+- **Blöcke:** 1.484
 - **Bauteile:** `w482739769`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 952 |
+| Tuffstein | `tuff` | 901 |
 | Polierter Andesit | `polished_andesite` | 266 |
 | Tuffsteinziegel | `tuff_bricks` | 225 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
@@ -3043,21 +3043,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.89 – Renaissance-Palazzo an Via dei Banchi – Teil 4/14 (Y 66–69)
+### Schritt 11.89 – Renaissance-Palazzo an Via dei Banchi – Teil 4/14 (Y 67–71)
 
-- **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.496
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.793
 - **Bauteile:** `w482739769`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 790 |
-| Polierter Andesit | `polished_andesite` | 326 |
+| Tuffstein | `tuff` | 1.032 |
+| Polierter Andesit | `polished_andesite` | 369 |
 | Graues Buntglas | `gray_stained_glass` | 239 |
-| Tuffsteinziegel | `tuff_bricks` | 113 |
-| Glatter Stein | `smooth_stone` | 28 |
+| Tuffsteinziegel | `tuff_bricks` | 115 |
+| Glatter Stein | `smooth_stone` | 38 |
 
 **Beschreibung**
 
@@ -3075,20 +3075,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.90 – Renaissance-Palazzo an Via dei Banchi – Teil 5/14 (Y 70–73)
+### Schritt 11.90 – Renaissance-Palazzo an Via dei Banchi – Teil 5/14 (Y 72–74)
 
-- **Y-Bereich:** 70 bis 73
-- **Blöcke:** 1.798
+- **Y-Bereich:** 72 bis 74
+- **Blöcke:** 1.501
 - **Bauteile:** `w482739769`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 963 |
-| Glatter Stein | `smooth_stone` | 428 |
-| Tuffsteinziegel | `tuff_bricks` | 215 |
-| Polierter Andesit | `polished_andesite` | 192 |
+| Tuffstein | `tuff` | 721 |
+| Glatter Stein | `smooth_stone` | 418 |
+| Tuffsteinziegel | `tuff_bricks` | 213 |
+| Polierter Andesit | `polished_andesite` | 149 |
 
 **Beschreibung**
 
@@ -3106,9 +3106,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.91 – Renaissance-Palazzo an Via dei Banchi – Teil 6/14 (Y 74–76)
+### Schritt 11.91 – Renaissance-Palazzo an Via dei Banchi – Teil 6/14 (Y 75–77)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.316
 - **Bauteile:** `w482739769`
 
@@ -3138,9 +3138,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.92 – Renaissance-Palazzo an Via dei Banchi – Teil 7/14 (Y 77–80)
+### Schritt 11.92 – Renaissance-Palazzo an Via dei Banchi – Teil 7/14 (Y 78–81)
 
-- **Y-Bereich:** 77 bis 80
+- **Y-Bereich:** 78 bis 81
 - **Blöcke:** 1.715
 - **Bauteile:** `w482739769`
 
@@ -3170,9 +3170,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.93 – Renaissance-Palazzo an Via dei Banchi – Teil 8/14 (Y 81–82)
+### Schritt 11.93 – Renaissance-Palazzo an Via dei Banchi – Teil 8/14 (Y 82–83)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.076
 - **Bauteile:** `w482739769`
 
@@ -3200,9 +3200,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.94 – Renaissance-Palazzo an Via dei Banchi – Teil 9/14 (Y 83–86)
+### Schritt 11.94 – Renaissance-Palazzo an Via dei Banchi – Teil 9/14 (Y 84–87)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.714
 - **Bauteile:** `w482739769`
 
@@ -3231,9 +3231,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.95 – Renaissance-Palazzo an Via dei Banchi – Teil 10/14 (Y 87–89)
+### Schritt 11.95 – Renaissance-Palazzo an Via dei Banchi – Teil 10/14 (Y 88–90)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.474
 - **Bauteile:** `w482739769`
 
@@ -3262,19 +3262,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.96 – Renaissance-Palazzo an Via dei Banchi – Teil 11/14 (Y 90–91)
+### Schritt 11.96 – Renaissance-Palazzo an Via dei Banchi – Teil 11/14 (Y 91–92)
 
-- **Y-Bereich:** 90 bis 91
-- **Blöcke:** 1.787
+- **Y-Bereich:** 91 bis 92
+- **Blöcke:** 1.808
 - **Bauteile:** `w482739769`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 874 |
+| Glatter Stein | `smooth_stone` | 860 |
 | Polierter Andesit | `polished_andesite` | 509 |
-| Tuffstein | `tuff` | 404 |
+| Tuffstein | `tuff` | 439 |
 
 **Beschreibung**
 
@@ -3292,17 +3292,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.97 – Renaissance-Palazzo an Via dei Banchi – Teil 12/14 (Y 92–92)
+### Schritt 11.97 – Renaissance-Palazzo an Via dei Banchi – Teil 12/14 (Y 93–93)
 
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.466
+- **Y-Bereich:** 93 bis 93
+- **Blöcke:** 1.475
 - **Bauteile:** `w482739769`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.466 |
+| Terrakotta | `terracotta` | 1.475 |
 
 **Beschreibung**
 
@@ -3320,9 +3320,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.98 – Renaissance-Palazzo an Via dei Banchi – Teil 13/14 (Y 93–94)
+### Schritt 11.98 – Renaissance-Palazzo an Via dei Banchi – Teil 13/14 (Y 94–95)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.359
 - **Bauteile:** `w482739769`
 
@@ -3348,9 +3348,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.99 – Renaissance-Palazzo an Via dei Banchi – Teil 14/14 (Y 95–101)
+### Schritt 11.99 – Renaissance-Palazzo an Via dei Banchi – Teil 14/14 (Y 96–102)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 96 bis 102
 - **Blöcke:** 1.392
 - **Bauteile:** `w482739769`
 
@@ -3377,10 +3377,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.100 – Renaissance-Palazzo an Via dei Banchi: Innenausbau – Teil 1/4 (Y 61–72)
+### Schritt 11.100 – Renaissance-Palazzo an Via dei Banchi: Innenausbau – Teil 1/4 (Y 62–73)
 
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.230
+- **Y-Bereich:** 62 bis 73
+- **Blöcke:** 1.231
 - **Bauteile:** `w482739769_innen`
 
 **Teileliste**
@@ -3389,7 +3389,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.159 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 21 |
+| Seelaterne | `sea_lantern` | 22 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
@@ -3415,10 +3415,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.101 – Renaissance-Palazzo an Via dei Banchi: Innenausbau – Teil 2/4 (Y 72–72)
+### Schritt 11.101 – Renaissance-Palazzo an Via dei Banchi: Innenausbau – Teil 2/4 (Y 73–73)
 
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.194
+- **Y-Bereich:** 73 bis 73
+- **Blöcke:** 1.195
 - **Bauteile:** `w482739769_innen`
 
 **Teileliste**
@@ -3426,7 +3426,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.187 |
-| Seelaterne | `sea_lantern` | 7 |
+| Seelaterne | `sea_lantern` | 8 |
 
 **Beschreibung**
 
@@ -3444,9 +3444,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.102 – Renaissance-Palazzo an Via dei Banchi: Innenausbau – Teil 3/4 (Y 73–81)
+### Schritt 11.102 – Renaissance-Palazzo an Via dei Banchi: Innenausbau – Teil 3/4 (Y 74–82)
 
-- **Y-Bereich:** 73 bis 81
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.217
 - **Bauteile:** `w482739769_innen`
 
@@ -3462,8 +3462,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3488,10 +3488,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.103 – Renaissance-Palazzo an Via dei Banchi: Innenausbau – Teil 4/4 (Y 81–82)
+### Schritt 11.103 – Renaissance-Palazzo an Via dei Banchi: Innenausbau – Teil 4/4 (Y 82–83)
 
-- **Y-Bereich:** 81 bis 82
-- **Blöcke:** 1.203
+- **Y-Bereich:** 82 bis 83
+- **Blöcke:** 1.204
 - **Bauteile:** `w482739769_innen`
 
 **Teileliste**
@@ -3499,7 +3499,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.187 |
-| Seelaterne | `sea_lantern` | 7 |
+| Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -3944,7 +3944,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 11.116 – Straßenschilder
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 9
 - **Bauteile:** `strassenschilder`
 

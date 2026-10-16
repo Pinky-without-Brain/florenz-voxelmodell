@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 86.449 |
+| Blöcke | 86.486 |
 | Bauschritte | 53 |
 | Y-Bereich | 66 bis 119 |
 | X-Ausdehnung | -2727 bis -2494 (234 Blöcke) |
 | Z-Ausdehnung | 2354 bis 2461 (108 Blöcke) |
 | Kleinster Schritt | 777 Blöcke (Schritt 12.40) |
-| Mittlerer Schritt | 1.631 Blöcke |
+| Mittlerer Schritt | 1.632 Blöcke |
 | Größter Schritt | 2.079 Blöcke (Schritt 12.43) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 28.321 | 32,8 % |
-| Orange Keramik | `orange_terracotta` | 12.540 | 14,5 % |
+| Terrakotta | `terracotta` | 28.319 | 32,7 % |
+| Orange Keramik | `orange_terracotta` | 12.538 | 14,5 % |
 | Polierter Tuffstein | `polished_tuff` | 8.223 | 9,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.931 | 9,2 % |
 | Weißer Beton | `white_concrete` | 6.698 | 7,7 % |
@@ -36,7 +36,7 @@
 | Ziegelsteine | `bricks` | 833 | 1,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 766 | 0,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 420 | 0,5 % |
-| Tuffstein | `tuff` | 232 | 0,3 % |
+| Tuffstein | `tuff` | 273 | 0,3 % |
 | Seelaterne | `sea_lantern` | 151 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 93 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 87 | 0,1 % |
@@ -76,7 +76,7 @@
 | 8 | `w464975955_innen` | Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau | 1.980 | 12.25 |
 | 9 | `w464975990` | Reihenhaus an Via Vincenzo Monti | 5.160 | 12.26–12.28 |
 | 10 | `w464975990_innen` | Reihenhaus an Via Vincenzo Monti: Innenausbau | 1.834 | 12.29 |
-| 11 | `w464976014` | Reihenhaus an Via Vincenzo Monti | 5.652 | 12.30–12.32 |
+| 11 | `w464976014` | Reihenhaus an Via Vincenzo Monti | 5.689 | 12.30–12.32 |
 | 12 | `w464976014_innen` | Reihenhaus an Via Vincenzo Monti: Innenausbau | 2.328 | 12.33–12.34 |
 | 13 | `w464976038` | Reihenhaus an Viale Francesco Petrarca | 9.406 | 12.35–12.39 |
 | 14 | `w464976038_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 2.205 | 12.40–12.41 |
@@ -1097,19 +1097,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.30 – Reihenhaus an Via Vincenzo Monti – Teil 1/3 (Y 71–80)
+### Schritt 12.30 – Reihenhaus an Via Vincenzo Monti – Teil 1/3 (Y 71–81)
 
-- **Y-Bereich:** 71 bis 80
-- **Blöcke:** 1.871
+- **Y-Bereich:** 71 bis 81
+- **Blöcke:** 1.881
 - **Bauteile:** `w464976014`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 920 |
+| Orange Keramik | `orange_terracotta` | 889 |
 | Polierter Tuffstein | `polished_tuff` | 850 |
 | Graues Buntglas | `gray_stained_glass` | 47 |
+| Tuffstein | `tuff` | 41 |
 | Fichtenholz-Bretter | `spruce_planks` | 34 |
 | Glatter Stein | `smooth_stone` | 20 |
 
@@ -1129,9 +1130,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.31 – Reihenhaus an Via Vincenzo Monti – Teil 2/3 (Y 81–97)
+### Schritt 12.31 – Reihenhaus an Via Vincenzo Monti – Teil 2/3 (Y 82–98)
 
-- **Y-Bereich:** 81 bis 97
+- **Y-Bereich:** 82 bis 98
 - **Blöcke:** 1.856
 - **Bauteile:** `w464976014`
 
@@ -1159,18 +1160,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.32 – Reihenhaus an Via Vincenzo Monti – Teil 3/3 (Y 98–109)
+### Schritt 12.32 – Reihenhaus an Via Vincenzo Monti – Teil 3/3 (Y 99–110)
 
-- **Y-Bereich:** 98 bis 109
-- **Blöcke:** 1.925
+- **Y-Bereich:** 99 bis 110
+- **Blöcke:** 1.952
 - **Bauteile:** `w464976014`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.190 |
-| Orange Keramik | `orange_terracotta` | 451 |
+| Terrakotta | `terracotta` | 1.188 |
+| Orange Keramik | `orange_terracotta` | 480 |
 | Fichtenholz-Bretter | `spruce_planks` | 157 |
 | Ziegelsteine | `bricks` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
@@ -1191,9 +1192,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.33 – Reihenhaus an Via Vincenzo Monti: Innenausbau – Teil 1/2 (Y 71–86)
+### Schritt 12.33 – Reihenhaus an Via Vincenzo Monti: Innenausbau – Teil 1/2 (Y 72–87)
 
-- **Y-Bereich:** 71 bis 86
+- **Y-Bereich:** 72 bis 87
 - **Blöcke:** 818
 - **Bauteile:** `w464976014_innen`
 
@@ -1233,9 +1234,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.34 – Reihenhaus an Via Vincenzo Monti: Innenausbau – Teil 2/2 (Y 87–95)
+### Schritt 12.34 – Reihenhaus an Via Vincenzo Monti: Innenausbau – Teil 2/2 (Y 88–96)
 
-- **Y-Bereich:** 87 bis 95
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.510
 - **Bauteile:** `w464976014_innen`
 

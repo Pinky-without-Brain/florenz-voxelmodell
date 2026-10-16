@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 65.883 |
+| Blöcke | 65.925 |
 | Bauschritte | 44 |
 | Y-Bereich | 66 bis 106 |
 | X-Ausdehnung | 1422 bis 1547 (126 Blöcke) |
 | Z-Ausdehnung | -820 bis -699 (122 Blöcke) |
 | Kleinster Schritt | 551 Blöcke (Schritt 31.8) |
-| Mittlerer Schritt | 1.497 Blöcke |
+| Mittlerer Schritt | 1.498 Blöcke |
 | Größter Schritt | 2.017 Blöcke (Schritt 31.20) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 20.909 | 31,7 % |
-| Endsteinziegel | `end_stone_bricks` | 9.225 | 14,0 % |
+| Terrakotta | `terracotta` | 20.913 | 31,7 % |
+| Endsteinziegel | `end_stone_bricks` | 9.266 | 14,1 % |
 | Gelbe Keramik | `yellow_terracotta` | 8.366 | 12,7 % |
 | Tuffstein | `tuff` | 6.950 | 10,5 % |
-| Polierter Tuffstein | `polished_tuff` | 6.398 | 9,7 % |
+| Polierter Tuffstein | `polished_tuff` | 6.399 | 9,7 % |
 | Polierter Andesit | `polished_andesite` | 4.597 | 7,0 % |
 | Glatter Stein | `smooth_stone` | 4.432 | 6,7 % |
 | Graues Buntglas | `gray_stained_glass` | 1.965 | 3,0 % |
@@ -35,7 +35,7 @@
 | Ziegelsteine | `bricks` | 366 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 195 | 0,3 % |
 | Grüner Beton | `green_concrete` | 150 | 0,2 % |
-| Seelaterne | `sea_lantern` | 107 | 0,2 % |
+| Seelaterne | `sea_lantern` | 103 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 50 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 46 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 | 0,0 % |
@@ -64,8 +64,8 @@
 | 4 | `w497256030_innen` | Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau | 6.522 | 31.25–31.28 |
 | 5 | `w497256036` | Reihenhaus an Borgo Pinti | 5.717 | 31.29–31.31 |
 | 6 | `w497256036_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 1.719 | 31.32 |
-| 7 | `w497256037` | Reihenhaus an Borgo Pinti | 14.143 | 31.33–31.41 |
-| 8 | `w497256037_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 3.547 | 31.42–31.44 |
+| 7 | `w497256037` | Reihenhaus an Borgo Pinti | 14.186 | 31.33–31.41 |
+| 8 | `w497256037_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 3.546 | 31.42–31.44 |
 | 9 | `strassenschilder` | Straßenschilder | 2 | 31.44 |
 
 ## Bauschritte
@@ -1078,17 +1078,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 31.33 – Reihenhaus an Borgo Pinti – Teil 1/9 (Y 66–66)
+### Schritt 31.33 – Reihenhaus an Borgo Pinti – Teil 1/9 (Y 67–67)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.497
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.498
 - **Bauteile:** `w497256037`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.497 |
+| Polierter Tuffstein | `polished_tuff` | 1.498 |
 
 **Beschreibung**
 
@@ -1106,9 +1106,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.34 – Reihenhaus an Borgo Pinti – Teil 2/9 (Y 67–71)
+### Schritt 31.34 – Reihenhaus an Borgo Pinti – Teil 2/9 (Y 68–72)
 
-- **Y-Bereich:** 67 bis 71
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 1.710
 - **Bauteile:** `w497256037`
 
@@ -1137,9 +1137,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.35 – Reihenhaus an Borgo Pinti – Teil 3/9 (Y 72–75)
+### Schritt 31.35 – Reihenhaus an Borgo Pinti – Teil 3/9 (Y 73–76)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.406
 - **Bauteile:** `w497256037`
 
@@ -1167,9 +1167,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.36 – Reihenhaus an Borgo Pinti – Teil 4/9 (Y 76–80)
+### Schritt 31.36 – Reihenhaus an Borgo Pinti – Teil 4/9 (Y 77–81)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.680
 - **Bauteile:** `w497256037`
 
@@ -1197,48 +1197,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.37 – Reihenhaus an Borgo Pinti – Teil 5/9 (Y 81–84)
+### Schritt 31.37 – Reihenhaus an Borgo Pinti – Teil 5/9 (Y 82–86)
 
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.404
+- **Y-Bereich:** 82 bis 86
+- **Blöcke:** 1.734
 - **Bauteile:** `w497256037`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.305 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Fichtenholz-Bretter | `spruce_planks` | 49 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 31.38 – Reihenhaus an Borgo Pinti – Teil 6/9 (Y 85–89)
-
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.708
-- **Bauteile:** `w497256037`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.466 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
+| Endsteinziegel | `end_stone_bricks` | 1.536 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
 | Fichtenholz-Bretter | `spruce_planks` | 98 |
 
 **Beschreibung**
@@ -1257,9 +1227,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.39 – Reihenhaus an Borgo Pinti – Teil 7/9 (Y 90–94)
+### Schritt 31.38 – Reihenhaus an Borgo Pinti – Teil 6/9 (Y 87–90)
 
-- **Y-Bereich:** 90 bis 94
+- **Y-Bereich:** 87 bis 90
+- **Blöcke:** 1.378
+- **Bauteile:** `w497256037`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.235 |
+| Graues Buntglas | `gray_stained_glass` | 94 |
+| Fichtenholz-Bretter | `spruce_planks` | 49 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 31.39 – Reihenhaus an Borgo Pinti – Teil 7/9 (Y 91–95)
+
+- **Y-Bereich:** 91 bis 95
 - **Blöcke:** 1.680
 - **Bauteile:** `w497256037`
 
@@ -1287,18 +1287,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.40 – Reihenhaus an Borgo Pinti – Teil 8/9 (Y 95–97)
+### Schritt 31.40 – Reihenhaus an Borgo Pinti – Teil 8/9 (Y 96–98)
 
-- **Y-Bereich:** 95 bis 97
-- **Blöcke:** 1.884
+- **Y-Bereich:** 96 bis 98
+- **Blöcke:** 1.926
 - **Bauteile:** `w497256037`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 953 |
-| Terrakotta | `terracotta` | 931 |
+| Endsteinziegel | `end_stone_bricks` | 994 |
+| Terrakotta | `terracotta` | 932 |
 
 **Beschreibung**
 
@@ -1316,9 +1316,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.41 – Reihenhaus an Borgo Pinti – Teil 9/9 (Y 98–104)
+### Schritt 31.41 – Reihenhaus an Borgo Pinti – Teil 9/9 (Y 99–105)
 
-- **Y-Bereich:** 98 bis 104
+- **Y-Bereich:** 99 bis 105
 - **Blöcke:** 1.174
 - **Bauteile:** `w497256037`
 
@@ -1345,19 +1345,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.42 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 1/3 (Y 66–75)
+### Schritt 31.42 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 66 bis 75
-- **Blöcke:** 1.189
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.188
 - **Bauteile:** `w497256037_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.131 |
+| Terrakotta | `terracotta` | 1.132 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
-| Seelaterne | `sea_lantern` | 16 |
+| Seelaterne | `sea_lantern` | 14 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 
@@ -1383,9 +1383,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 31.43 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 2/3 (Y 76–82)
+### Schritt 31.43 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 2/3 (Y 77–83)
 
-- **Y-Bereich:** 76 bis 82
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.173
 - **Bauteile:** `w497256037_innen`
 
@@ -1393,10 +1393,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.131 |
+| Terrakotta | `terracotta` | 1.132 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Seelaterne | `sea_lantern` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 
 **Treppen je Material** (alle Richtungen)
@@ -1421,9 +1421,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 31.44 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 3/3 (Y 83–90) & Straßenschilder
+### Schritt 31.44 – Reihenhaus an Borgo Pinti: Innenausbau – Teil 3/3 (Y 84–91) & Straßenschilder
 
-- **Y-Bereich:** 74 bis 90
+- **Y-Bereich:** 74 bis 91
 - **Blöcke:** 1.187
 - **Bauteile:** `w497256037_innen`, `strassenschilder`
 
@@ -1431,11 +1431,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.131 |
+| Terrakotta | `terracotta` | 1.132 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 8 |
-| Seelaterne | `sea_lantern` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |

@@ -8,44 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 59.179 |
+| Blöcke | 59.170 |
 | Bauschritte | 36 |
 | Y-Bereich | 63 bis 105 |
 | X-Ausdehnung | -1369 bis -1260 (110 Blöcke) |
 | Z-Ausdehnung | 1672 bis 1794 (123 Blöcke) |
 | Kleinster Schritt | 886 Blöcke (Schritt 5.28) |
 | Mittlerer Schritt | 1.644 Blöcke |
-| Größter Schritt | 2.049 Blöcke (Schritt 5.34) |
+| Größter Schritt | 2.048 Blöcke (Schritt 5.34) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.906 | 30,3 % |
+| Terrakotta | `terracotta` | 17.905 | 30,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 8.959 | 15,1 % |
-| Endsteinziegel | `end_stone_bricks` | 8.846 | 14,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 6.065 | 10,2 % |
+| Endsteinziegel | `end_stone_bricks` | 8.806 | 14,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 6.065 | 10,3 % |
 | Polierter Tuffstein | `polished_tuff` | 5.841 | 9,9 % |
 | Glatter Stein | `smooth_stone` | 2.789 | 4,7 % |
 | Weißer Beton | `white_concrete` | 2.332 | 3,9 % |
-| Orange Keramik | `orange_terracotta` | 1.797 | 3,0 % |
+| Orange Keramik | `orange_terracotta` | 1.837 | 3,1 % |
 | Rosa Keramik | `pink_terracotta` | 1.373 | 2,3 % |
 | Graues Buntglas | `gray_stained_glass` | 1.307 | 2,2 % |
 | Polierter Andesit | `polished_andesite` | 394 | 0,7 % |
 | Ziegelsteine | `bricks` | 375 | 0,6 % |
 | Grüner Beton | `green_concrete` | 302 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 254 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 201 | 0,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 199 | 0,3 % |
 | Seelaterne | `sea_lantern` | 95 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 62 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 58 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 50 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 46 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 28 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 50 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 46 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 27 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 26 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 14 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 14 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 13 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 13 | 0,0 % |
 | Tuffstein | `tuff` | 11 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
@@ -56,7 +56,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 150 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 146 |
 | Steintreppe | `stone_stairs` | 120 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -69,11 +69,11 @@
 | 4 | `w118129803_innen` | Reihenhaus an Via Maggio: Innenausbau | 1.180 | 5.15 |
 | 5 | `w306811225` | Palazzo des Cinquecento an Piazza dei Pitti | 10.158 | 5.16–5.21 |
 | 6 | `w306811225_innen` | Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau | 1.864 | 5.22 |
-| 7 | `w306811227` | Casa Ridolfi | 3.679 | 5.23–5.24 |
-| 8 | `w306811227_innen` | Casa Ridolfi: Innenausbau | 1.496 | 5.25 |
+| 7 | `w306811227` | Casa Ridolfi | 3.719 | 5.23–5.24 |
+| 8 | `w306811227_innen` | Casa Ridolfi: Innenausbau | 1.488 | 5.25 |
 | 9 | `w306811236` | Reihenhaus an Piazza dei Pitti | 2.433 | 5.26–5.27 |
 | 10 | `w306811236_innen` | Reihenhaus an Piazza dei Pitti: Innenausbau | 886 | 5.28 |
-| 11 | `w306811251` | Palazzo des Cinquecento an Via dei Marsili | 10.364 | 5.29–5.34 |
+| 11 | `w306811251` | Palazzo des Cinquecento an Via dei Marsili | 10.323 | 5.29–5.34 |
 | 12 | `w306811251_innen` | Palazzo des Cinquecento an Via dei Marsili: Innenausbau | 2.532 | 5.35–5.36 |
 | 13 | `strassenschilder` | Straßenschilder | 7 | 5.36 |
 
@@ -451,9 +451,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.12 – Reihenhaus an Via Maggio – Teil 1/3 (Y 63–72)
+### Schritt 5.12 – Reihenhaus an Via Maggio – Teil 1/3 (Y 64–73)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.875
 - **Bauteile:** `w118129803`
 
@@ -483,9 +483,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.13 – Reihenhaus an Via Maggio – Teil 2/3 (Y 73–85)
+### Schritt 5.13 – Reihenhaus an Via Maggio – Teil 2/3 (Y 74–86)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 74 bis 86
 - **Blöcke:** 1.992
 - **Bauteile:** `w118129803`
 
@@ -513,9 +513,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.14 – Reihenhaus an Via Maggio – Teil 3/3 (Y 86–97)
+### Schritt 5.14 – Reihenhaus an Via Maggio – Teil 3/3 (Y 87–98)
 
-- **Y-Bereich:** 86 bis 97
+- **Y-Bereich:** 87 bis 98
 - **Blöcke:** 1.871
 - **Bauteile:** `w118129803`
 
@@ -547,7 +547,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.15 – Reihenhaus an Via Maggio: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 64 bis 87
 - **Blöcke:** 1.180
 - **Bauteile:** `w118129803_innen`
 
@@ -816,14 +816,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.23 – Casa Ridolfi – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.801
+- **Blöcke:** 1.841
 - **Bauteile:** `w306811227`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.015 |
+| Orange Keramik | `orange_terracotta` | 1.055 |
 | Polierter Tuffstein | `polished_tuff` | 540 |
 | Weißer Beton | `white_concrete` | 149 |
 | Graues Buntglas | `gray_stained_glass` | 57 |
@@ -883,7 +883,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.25 – Casa Ridolfi: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.496
+- **Blöcke:** 1.488
 - **Bauteile:** `w306811227_innen`
 
 **Teileliste**
@@ -891,20 +891,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.356 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Rote Keramik | `red_terracotta` | 5 |
+| Weiße Keramik | `white_terracotta` | 5 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -1024,9 +1022,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.29 – Palazzo des Cinquecento an Via dei Marsili – Teil 1/6 (Y 63–64)
+### Schritt 5.29 – Palazzo des Cinquecento an Via dei Marsili – Teil 1/6 (Y 64–65)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.699
 - **Bauteile:** `w306811251`
 
@@ -1056,17 +1054,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.30 – Palazzo des Cinquecento an Via dei Marsili – Teil 2/6 (Y 65–72)
+### Schritt 5.30 – Palazzo des Cinquecento an Via dei Marsili – Teil 2/6 (Y 66–73)
 
-- **Y-Bereich:** 65 bis 72
-- **Blöcke:** 1.820
+- **Y-Bereich:** 66 bis 73
+- **Blöcke:** 1.780
 - **Bauteile:** `w306811251`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.398 |
+| Endsteinziegel | `end_stone_bricks` | 1.358 |
 | Glatter Stein | `smooth_stone` | 276 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Polierter Andesit | `polished_andesite` | 42 |
@@ -1089,9 +1087,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.31 – Palazzo des Cinquecento an Via dei Marsili – Teil 3/6 (Y 73–80)
+### Schritt 5.31 – Palazzo des Cinquecento an Via dei Marsili – Teil 3/6 (Y 74–81)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 74 bis 81
 - **Blöcke:** 1.738
 - **Bauteile:** `w306811251`
 
@@ -1121,9 +1119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.32 – Palazzo des Cinquecento an Via dei Marsili – Teil 4/6 (Y 81–87)
+### Schritt 5.32 – Palazzo des Cinquecento an Via dei Marsili – Teil 4/6 (Y 82–88)
 
-- **Y-Bereich:** 81 bis 87
+- **Y-Bereich:** 82 bis 88
 - **Blöcke:** 1.563
 - **Bauteile:** `w306811251`
 
@@ -1153,9 +1151,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.33 – Palazzo des Cinquecento an Via dei Marsili – Teil 5/6 (Y 88–93)
+### Schritt 5.33 – Palazzo des Cinquecento an Via dei Marsili – Teil 5/6 (Y 89–94)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 89 bis 94
 - **Blöcke:** 1.495
 - **Bauteile:** `w306811251`
 
@@ -1186,17 +1184,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.34 – Palazzo des Cinquecento an Via dei Marsili – Teil 6/6 (Y 94–102)
+### Schritt 5.34 – Palazzo des Cinquecento an Via dei Marsili – Teil 6/6 (Y 95–103)
 
-- **Y-Bereich:** 94 bis 102
-- **Blöcke:** 2.049
+- **Y-Bereich:** 95 bis 103
+- **Blöcke:** 2.048
 - **Bauteile:** `w306811251`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.957 |
+| Terrakotta | `terracotta` | 1.956 |
 | Ziegelsteine | `bricks` | 92 |
 
 **Beschreibung**
@@ -1215,9 +1213,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.35 – Palazzo des Cinquecento an Via dei Marsili: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 5.35 – Palazzo des Cinquecento an Via dei Marsili: Innenausbau – Teil 1/2 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.268
 - **Bauteile:** `w306811251_innen`
 
@@ -1257,9 +1255,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.36 – Palazzo des Cinquecento an Via dei Marsili: Innenausbau – Teil 2/2 (Y 74–83) & Straßenschilder
+### Schritt 5.36 – Palazzo des Cinquecento an Via dei Marsili: Innenausbau – Teil 2/2 (Y 75–84) & Straßenschilder
 
-- **Y-Bereich:** 70 bis 83
+- **Y-Bereich:** 71 bis 84
 - **Blöcke:** 1.271
 - **Bauteile:** `w306811251_innen`, `strassenschilder`
 

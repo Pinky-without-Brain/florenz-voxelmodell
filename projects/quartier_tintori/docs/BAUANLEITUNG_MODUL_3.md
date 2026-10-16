@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.467 |
+| Blöcke | 84.482 |
 | Bauschritte | 50 |
 | Y-Bereich | 62 bis 110 |
 | X-Ausdehnung | 186 bis 386 (201 Blöcke) |
 | Z-Ausdehnung | 1266 bis 1370 (105 Blöcke) |
 | Kleinster Schritt | 786 Blöcke (Schritt 3.29) |
-| Mittlerer Schritt | 1.689 Blöcke |
+| Mittlerer Schritt | 1.690 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 3.19) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 26.029 | 30,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 26.055 | 30,8 % |
 | Terrakotta | `terracotta` | 19.285 | 22,8 % |
 | Polierter Tuffstein | `polished_tuff` | 13.611 | 16,1 % |
-| Weißer Beton | `white_concrete` | 6.774 | 8,0 % |
+| Weißer Beton | `white_concrete` | 6.763 | 8,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 4.550 | 5,4 % |
 | Graues Buntglas | `gray_stained_glass` | 3.853 | 4,6 % |
 | Glatter Stein | `smooth_stone` | 3.728 | 4,4 % |
@@ -67,9 +67,9 @@
 | 4 | `w673458417_innen` | Palazzo des Cinquecento an Via Vincenzo Malenchini: Innenausbau | 1.662 | 3.26 |
 | 5 | `w673458426` | Reihenhaus an Piazza Mentana | 3.345 | 3.27–3.28 |
 | 6 | `w673458426_innen` | Reihenhaus an Piazza Mentana: Innenausbau | 786 | 3.29 |
-| 7 | `w673458428` | Reihenhaus an Via Vincenzo Malenchini | 5.567 | 3.30–3.32 |
+| 7 | `w673458428` | Reihenhaus an Via Vincenzo Malenchini | 5.593 | 3.30–3.32 |
 | 8 | `w673458428_innen` | Reihenhaus an Via Vincenzo Malenchini: Innenausbau | 1.170 | 3.33 |
-| 9 | `w673458437` | Kleine Kirche an Lungarno Generale Diaz | 6.231 | 3.34–3.37 |
+| 9 | `w673458437` | Kleine Kirche an Lungarno Generale Diaz | 6.220 | 3.34–3.37 |
 | 10 | `w673458437_innen` | Kleine Kirche an Lungarno Generale Diaz: Innenausbau | 1.145 | 3.38 |
 | 11 | `w673458440` | Palazzo des Cinquecento an Lungarno Generale Diaz | 16.454 | 3.39–3.47 |
 | 12 | `w673458440_innen` | Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau | 5.013 | 3.48–3.50 |
@@ -77,9 +77,9 @@
 
 ## Bauschritte
 
-### Schritt 3.1 – Palazzo Malenchini Alberti – Teil 1/18 (Y 62–62)
+### Schritt 3.1 – Palazzo Malenchini Alberti – Teil 1/18 (Y 63–63)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.640
 - **Bauteile:** `r1605477`
 
@@ -105,9 +105,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Palazzo Malenchini Alberti – Teil 2/18 (Y 62–62)
+### Schritt 3.2 – Palazzo Malenchini Alberti – Teil 2/18 (Y 63–63)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.746
 - **Bauteile:** `r1605477`
 
@@ -133,9 +133,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Palazzo Malenchini Alberti – Teil 3/18 (Y 62–62)
+### Schritt 3.3 – Palazzo Malenchini Alberti – Teil 3/18 (Y 63–63)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.647
 - **Bauteile:** `r1605477`
 
@@ -161,9 +161,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Palazzo Malenchini Alberti – Teil 4/18 (Y 63–64)
+### Schritt 3.4 – Palazzo Malenchini Alberti – Teil 4/18 (Y 64–65)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.626
 - **Bauteile:** `r1605477`
 
@@ -192,9 +192,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.5 – Palazzo Malenchini Alberti – Teil 5/18 (Y 65–66)
+### Schritt 3.5 – Palazzo Malenchini Alberti – Teil 5/18 (Y 66–67)
 
-- **Y-Bereich:** 65 bis 66
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.543
 - **Bauteile:** `r1605477`
 
@@ -225,9 +225,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.6 – Palazzo Malenchini Alberti – Teil 6/18 (Y 67–68)
+### Schritt 3.6 – Palazzo Malenchini Alberti – Teil 6/18 (Y 68–69)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.486
 - **Bauteile:** `r1605477`
 
@@ -258,9 +258,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Palazzo Malenchini Alberti – Teil 7/18 (Y 69–70)
+### Schritt 3.7 – Palazzo Malenchini Alberti – Teil 7/18 (Y 70–71)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.534
 - **Bauteile:** `r1605477`
 
@@ -291,9 +291,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.8 – Palazzo Malenchini Alberti – Teil 8/18 (Y 71–72)
+### Schritt 3.8 – Palazzo Malenchini Alberti – Teil 8/18 (Y 72–73)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.734
 - **Bauteile:** `r1605477`
 
@@ -323,9 +323,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.9 – Palazzo Malenchini Alberti – Teil 9/18 (Y 73–74)
+### Schritt 3.9 – Palazzo Malenchini Alberti – Teil 9/18 (Y 74–75)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.756
 - **Bauteile:** `r1605477`
 
@@ -353,9 +353,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.10 – Palazzo Malenchini Alberti – Teil 10/18 (Y 75–76)
+### Schritt 3.10 – Palazzo Malenchini Alberti – Teil 10/18 (Y 76–77)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.756
 - **Bauteile:** `r1605477`
 
@@ -383,9 +383,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.11 – Palazzo Malenchini Alberti – Teil 11/18 (Y 77–78)
+### Schritt 3.11 – Palazzo Malenchini Alberti – Teil 11/18 (Y 78–79)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.534
 - **Bauteile:** `r1605477`
 
@@ -415,9 +415,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.12 – Palazzo Malenchini Alberti – Teil 12/18 (Y 79–80)
+### Schritt 3.12 – Palazzo Malenchini Alberti – Teil 12/18 (Y 80–81)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.534
 - **Bauteile:** `r1605477`
 
@@ -447,9 +447,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.13 – Palazzo Malenchini Alberti – Teil 13/18 (Y 81–82)
+### Schritt 3.13 – Palazzo Malenchini Alberti – Teil 13/18 (Y 82–83)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.534
 - **Bauteile:** `r1605477`
 
@@ -479,9 +479,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.14 – Palazzo Malenchini Alberti – Teil 14/18 (Y 83–84)
+### Schritt 3.14 – Palazzo Malenchini Alberti – Teil 14/18 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 2.067
 - **Bauteile:** `r1605477`
 
@@ -509,9 +509,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.15 – Palazzo Malenchini Alberti – Teil 15/18 (Y 85–85)
+### Schritt 3.15 – Palazzo Malenchini Alberti – Teil 15/18 (Y 86–86)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.819
 - **Bauteile:** `r1605477`
 
@@ -539,9 +539,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.16 – Palazzo Malenchini Alberti – Teil 16/18 (Y 85–85)
+### Schritt 3.16 – Palazzo Malenchini Alberti – Teil 16/18 (Y 86–86)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.790
 - **Bauteile:** `r1605477`
 
@@ -568,9 +568,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.17 – Palazzo Malenchini Alberti – Teil 17/18 (Y 85–85)
+### Schritt 3.17 – Palazzo Malenchini Alberti – Teil 17/18 (Y 86–86)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.750
 - **Bauteile:** `r1605477`
 
@@ -598,9 +598,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.18 – Palazzo Malenchini Alberti – Teil 18/18 (Y 86–87) & Palazzo Malenchini Alberti: Innenausbau – Teil 1/4 (Y 62–72)
+### Schritt 3.18 – Palazzo Malenchini Alberti – Teil 18/18 (Y 87–88) & Palazzo Malenchini Alberti: Innenausbau – Teil 1/4 (Y 63–73)
 
-- **Y-Bereich:** 62 bis 87
+- **Y-Bereich:** 63 bis 88
 - **Blöcke:** 1.833
 - **Bauteile:** `r1605477`, `r1605477_innen`
 
@@ -640,9 +640,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.19 – Palazzo Malenchini Alberti: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 3.19 – Palazzo Malenchini Alberti: Innenausbau – Teil 2/4 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 2.092
 - **Bauteile:** `r1605477_innen`
 
@@ -676,9 +676,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.20 – Palazzo Malenchini Alberti: Innenausbau – Teil 3/4 (Y 73–73)
+### Schritt 3.20 – Palazzo Malenchini Alberti: Innenausbau – Teil 3/4 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 2.080
 - **Bauteile:** `r1605477_innen`
 
@@ -705,9 +705,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.21 – Palazzo Malenchini Alberti: Innenausbau – Teil 4/4 (Y 74–85) & Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 1/5 (Y 62–65)
+### Schritt 3.21 – Palazzo Malenchini Alberti: Innenausbau – Teil 4/4 (Y 75–86) & Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 1/5 (Y 62–65)
 
-- **Y-Bereich:** 62 bis 85
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.681
 - **Bauteile:** `r1605477_innen`, `w673458417`
 
@@ -1033,9 +1033,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.30 – Reihenhaus an Via Vincenzo Malenchini – Teil 1/3 (Y 63–73)
+### Schritt 3.30 – Reihenhaus an Via Vincenzo Malenchini – Teil 1/3 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.901
 - **Bauteile:** `w673458428`
 
@@ -1066,9 +1066,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.31 – Reihenhaus an Via Vincenzo Malenchini – Teil 2/3 (Y 74–86)
+### Schritt 3.31 – Reihenhaus an Via Vincenzo Malenchini – Teil 2/3 (Y 75–87)
 
-- **Y-Bereich:** 74 bis 86
+- **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.809
 - **Bauteile:** `w673458428`
 
@@ -1097,17 +1097,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.32 – Reihenhaus an Via Vincenzo Malenchini – Teil 3/3 (Y 87–98)
+### Schritt 3.32 – Reihenhaus an Via Vincenzo Malenchini – Teil 3/3 (Y 88–99)
 
-- **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.857
+- **Y-Bereich:** 88 bis 99
+- **Blöcke:** 1.883
 - **Bauteile:** `w673458428`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 982 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.008 |
 | Terrakotta | `terracotta` | 652 |
 | Glatter Stein | `smooth_stone` | 113 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
@@ -1132,7 +1132,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.33 – Reihenhaus an Via Vincenzo Malenchini: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.170
 - **Bauteile:** `w673458428_innen`
 
@@ -1266,7 +1266,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.37 – Kleine Kirche an Lungarno Generale Diaz – Teil 4/4 (Y 91–100)
 
 - **Y-Bereich:** 91 bis 100
-- **Blöcke:** 1.551
+- **Blöcke:** 1.540
 - **Bauteile:** `w673458437`
 
 **Teileliste**
@@ -1274,7 +1274,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 862 |
-| Weißer Beton | `white_concrete` | 487 |
+| Weißer Beton | `white_concrete` | 476 |
 | Polierter Andesit | `polished_andesite` | 82 |
 | Ziegelsteine | `bricks` | 62 |
 | Graues Buntglas | `gray_stained_glass` | 58 |

@@ -8,43 +8,43 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 211.268 |
-| Bauschritte | 126 |
-| Y-Bereich | 62 bis 106 |
+| Blöcke | 213.928 |
+| Bauschritte | 130 |
+| Y-Bereich | 62 bis 107 |
 | X-Ausdehnung | -1949 bis -1760 (190 Blöcke) |
 | Z-Ausdehnung | 2138 bis 2457 (320 Blöcke) |
 | Kleinster Schritt | 820 Blöcke (Schritt 44.24) |
-| Mittlerer Schritt | 1.677 Blöcke |
+| Mittlerer Schritt | 1.646 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 44.15) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 57.943 | 27,4 % |
-| Orange Keramik | `orange_terracotta` | 37.856 | 17,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 21.704 | 10,3 % |
-| Polierter Tuffstein | `polished_tuff` | 17.649 | 8,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 15.870 | 7,5 % |
-| Endsteinziegel | `end_stone_bricks` | 13.488 | 6,4 % |
-| Weißer Beton | `white_concrete` | 13.195 | 6,2 % |
+| Terrakotta | `terracotta` | 57.947 | 27,1 % |
+| Orange Keramik | `orange_terracotta` | 38.027 | 17,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 21.764 | 10,2 % |
+| Polierter Tuffstein | `polished_tuff` | 17.650 | 8,3 % |
+| Hellgrauer Beton | `light_gray_concrete` | 15.870 | 7,4 % |
+| Endsteinziegel | `end_stone_bricks` | 13.488 | 6,3 % |
+| Weißer Beton | `white_concrete` | 13.429 | 6,3 % |
+| Tuffstein | `tuff` | 7.531 | 3,5 % |
 | Rosa Keramik | `pink_terracotta` | 7.441 | 3,5 % |
-| Polierter Andesit | `polished_andesite` | 6.482 | 3,1 % |
-| Tuffstein | `tuff` | 5.325 | 2,5 % |
-| Glatter Stein | `smooth_stone` | 3.762 | 1,8 % |
+| Polierter Andesit | `polished_andesite` | 6.482 | 3,0 % |
+| Glatter Stein | `smooth_stone` | 3.765 | 1,8 % |
 | Graues Buntglas | `gray_stained_glass` | 3.666 | 1,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 2.033 | 1,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.328 | 0,6 % |
-| Ziegelsteine | `bricks` | 961 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.325 | 0,6 % |
+| Ziegelsteine | `bricks` | 961 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 618 | 0,3 % |
-| Seelaterne | `sea_lantern` | 394 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 269 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 257 | 0,1 % |
+| Seelaterne | `sea_lantern` | 390 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 266 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 254 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 253 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 239 | 0,1 % |
 | Grüner Beton | `green_concrete` | 170 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 121 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 121 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 118 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 118 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 38 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
@@ -56,7 +56,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.018 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.012 |
 | Steintreppe | `stone_stairs` | 120 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
@@ -68,7 +68,7 @@
 | 2 | `r7119511_innen` | Reihenhaus an Via Romana: Innenausbau | 2.087 | 44.7 |
 | 3 | `r7119512` | Reihenhaus an Via Romana | 15.340 | 44.8–44.16 |
 | 4 | `r7119512_innen` | Reihenhaus an Via Romana: Innenausbau | 3.978 | 44.17–44.19 |
-| 5 | `w305128785` | Nebengebäude an Via Romana | 1.134 | 44.20 |
+| 5 | `w305128785` | Nebengebäude an Via Romana | 1.142 | 44.20 |
 | 6 | `w305128785_innen` | Nebengebäude an Via Romana: Innenausbau | 0 | – |
 | 7 | `w483549884` | Reihenhaus an Via Romana | 4.855 | 44.21–44.23 |
 | 8 | `w483549884_innen` | Reihenhaus an Via Romana: Innenausbau | 820 | 44.24 |
@@ -80,41 +80,41 @@
 | 14 | `w483549890_innen` | Reihenhaus an Via Romana: Innenausbau | 2.335 | 44.41–44.42 |
 | 15 | `w483549891` | Haus w483549891 | 10.848 | 44.43–44.48 |
 | 16 | `w483549891_innen` | Haus w483549891: Innenausbau | 1.006 | 44.49 |
-| 17 | `w483549893` | Haus w483549893 | 13.699 | 44.50–44.56 |
-| 18 | `w483549893_innen` | Haus w483549893: Innenausbau | 1.743 | 44.57 |
-| 19 | `w483549895` | Reihenhaus an Via Romana | 6.114 | 44.58–44.61 |
-| 20 | `w483549895_innen` | Reihenhaus an Via Romana: Innenausbau | 1.441 | 44.62 |
-| 21 | `w483549896` | Reihenhaus an Via Romana | 12.107 | 44.63–44.69 |
-| 22 | `w483549896_innen` | Reihenhaus an Via Romana: Innenausbau | 3.056 | 44.70–44.71 |
-| 23 | `w483549897` | Reihenhaus an Via del Ronco | 5.560 | 44.72–44.74 |
-| 24 | `w483549897_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.248 | 44.75 |
-| 25 | `w483549898` | Reihenhaus an Via del Ronco | 4.402 | 44.76–44.78 |
-| 26 | `w483549898_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.197 | 44.79 |
-| 27 | `w483549900` | Reihenhaus an Via del Ronco | 5.450 | 44.80–44.82 |
-| 28 | `w483549900_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.200 | 44.83 |
-| 29 | `w483549903` | Reihenhaus an Via del Ronco | 6.587 | 44.84–44.87 |
-| 30 | `w483549903_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.406 | 44.88 |
-| 31 | `w483549904` | Reihenhaus an Via del Ronco | 5.730 | 44.89–44.91 |
-| 32 | `w483549904_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.140 | 44.92 |
-| 33 | `w483549905` | Reihenhaus an Via Romana | 8.193 | 44.93–44.96 |
-| 34 | `w483549905_innen` | Reihenhaus an Via Romana: Innenausbau | 1.969 | 44.97 |
-| 35 | `w483549906` | Reihenhaus an Via del Ronco | 4.839 | 44.98–44.100 |
-| 36 | `w483549906_innen` | Reihenhaus an Via del Ronco: Innenausbau | 2.399 | 44.101–44.102 |
-| 37 | `w483549907` | Reihenhaus an Via Romana | 5.992 | 44.103–44.105 |
-| 38 | `w483549907_innen` | Reihenhaus an Via Romana: Innenausbau | 1.968 | 44.106 |
-| 39 | `w483549908` | Reihenhaus an Via del Ronco | 3.506 | 44.107–44.108 |
-| 40 | `w483549908_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.005 | 44.109 |
-| 41 | `w483549909` | Reihenhaus an Via Romana | 3.694 | 44.110–44.111 |
-| 42 | `w483549909_innen` | Reihenhaus an Via Romana: Innenausbau | 1.468 | 44.112 |
-| 43 | `w483549910` | Reihenhaus an Via del Ronco | 3.786 | 44.113–44.114 |
-| 44 | `w483549910_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.113 | 44.115 |
-| 45 | `w483549911` | Haus w483549911 | 5.958 | 44.116–44.118 |
-| 46 | `w483549911_innen` | Haus w483549911: Innenausbau | 2 | 44.119 |
-| 47 | `w483549912` | Reihenhaus an Via del Ronco | 2.925 | 44.119–44.120 |
-| 48 | `w483549912_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.349 | 44.121 |
-| 49 | `w483549914` | Palazzo des Cinquecento an Via del Ronco | 7.153 | 44.122–44.125 |
-| 50 | `w483549914_innen` | Palazzo des Cinquecento an Via del Ronco: Innenausbau | 1.785 | 44.126 |
-| 51 | `strassenschilder` | Straßenschilder | 2 | 44.126 |
+| 17 | `w483549893` | Haus w483549893 | 14.464 | 44.50–44.57 |
+| 18 | `w483549893_innen` | Haus w483549893: Innenausbau | 1.743 | 44.58 |
+| 19 | `w483549895` | Reihenhaus an Via Romana | 6.114 | 44.59–44.62 |
+| 20 | `w483549895_innen` | Reihenhaus an Via Romana: Innenausbau | 1.441 | 44.63 |
+| 21 | `w483549896` | Reihenhaus an Via Romana | 12.143 | 44.64–44.70 |
+| 22 | `w483549896_innen` | Reihenhaus an Via Romana: Innenausbau | 3.056 | 44.71–44.72 |
+| 23 | `w483549897` | Reihenhaus an Via del Ronco | 5.560 | 44.73–44.75 |
+| 24 | `w483549897_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.248 | 44.76 |
+| 25 | `w483549898` | Reihenhaus an Via del Ronco | 4.402 | 44.77–44.79 |
+| 26 | `w483549898_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.197 | 44.80 |
+| 27 | `w483549900` | Reihenhaus an Via del Ronco | 5.450 | 44.81–44.83 |
+| 28 | `w483549900_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.200 | 44.84 |
+| 29 | `w483549903` | Reihenhaus an Via del Ronco | 6.587 | 44.85–44.88 |
+| 30 | `w483549903_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.406 | 44.89 |
+| 31 | `w483549904` | Reihenhaus an Via del Ronco | 5.730 | 44.90–44.92 |
+| 32 | `w483549904_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.140 | 44.93 |
+| 33 | `w483549905` | Reihenhaus an Via Romana | 9.771 | 44.94–44.99 |
+| 34 | `w483549905_innen` | Reihenhaus an Via Romana: Innenausbau | 1.949 | 44.100 |
+| 35 | `w483549906` | Reihenhaus an Via del Ronco | 4.839 | 44.101–44.103 |
+| 36 | `w483549906_innen` | Reihenhaus an Via del Ronco: Innenausbau | 2.399 | 44.104–44.105 |
+| 37 | `w483549907` | Reihenhaus an Via Romana | 6.217 | 44.106–44.109 |
+| 38 | `w483549907_innen` | Reihenhaus an Via Romana: Innenausbau | 1.972 | 44.110 |
+| 39 | `w483549908` | Reihenhaus an Via del Ronco | 3.506 | 44.111–44.112 |
+| 40 | `w483549908_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.005 | 44.113 |
+| 41 | `w483549909` | Reihenhaus an Via Romana | 3.694 | 44.114–44.115 |
+| 42 | `w483549909_innen` | Reihenhaus an Via Romana: Innenausbau | 1.468 | 44.116 |
+| 43 | `w483549910` | Reihenhaus an Via del Ronco | 3.786 | 44.117–44.118 |
+| 44 | `w483549910_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.113 | 44.119 |
+| 45 | `w483549911` | Haus w483549911 | 5.958 | 44.120–44.122 |
+| 46 | `w483549911_innen` | Haus w483549911: Innenausbau | 2 | 44.123 |
+| 47 | `w483549912` | Reihenhaus an Via del Ronco | 2.925 | 44.123–44.124 |
+| 48 | `w483549912_innen` | Reihenhaus an Via del Ronco: Innenausbau | 1.349 | 44.125 |
+| 49 | `w483549914` | Palazzo des Cinquecento an Via del Ronco | 7.217 | 44.126–44.129 |
+| 50 | `w483549914_innen` | Palazzo des Cinquecento an Via del Ronco: Innenausbau | 1.785 | 44.130 |
+| 51 | `strassenschilder` | Straßenschilder | 2 | 44.130 |
 
 ## Bauschritte
 
@@ -735,8 +735,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 44.20 – Nebengebäude an Via Romana
 
-- **Y-Bereich:** 63 bis 94
-- **Blöcke:** 1.134
+- **Y-Bereich:** 63 bis 96
+- **Blöcke:** 1.142
 - **Bauteile:** `w305128785`
 
 **Teileliste**
@@ -750,6 +750,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Polierter Tuffstein | `polished_tuff` | 38 |
 | Terrakotta | `terracotta` | 38 |
 | Glatter Stein | `smooth_stone` | 18 |
+| Tuffstein | `tuff` | 8 |
 
 **Beschreibung**
 
@@ -1733,7 +1734,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.50 – Haus w483549893 – Teil 1/7 (Y 64–67)
+### Schritt 44.50 – Haus w483549893 – Teil 1/8 (Y 64–67)
 
 - **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.459
@@ -1761,10 +1762,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.51 – Haus w483549893 – Teil 2/7 (Y 68–70)
+### Schritt 44.51 – Haus w483549893 – Teil 2/8 (Y 68–69)
 
-- **Y-Bereich:** 68 bis 70
-- **Blöcke:** 2.048
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 1.403
+- **Bauteile:** `w483549893`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.403 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.52 – Haus w483549893 – Teil 3/8 (Y 70–73)
+
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 2.029
 - **Bauteile:** `w483549893`
 
 **Teileliste**
@@ -1772,10 +1801,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.115 |
-| Tuffstein | `tuff` | 647 |
-| Orange Keramik | `orange_terracotta` | 270 |
-| Polierter Andesit | `polished_andesite` | 14 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Orange Keramik | `orange_terracotta` | 715 |
+| Weißer Beton | `white_concrete` | 158 |
+| Polierter Andesit | `polished_andesite` | 36 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -1793,53 +1822,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.52 – Haus w483549893 – Teil 3/7 (Y 71–77)
+### Schritt 44.53 – Haus w483549893 – Teil 4/8 (Y 74–80)
 
-- **Y-Bereich:** 71 bis 77
-- **Blöcke:** 2.041
+- **Y-Bereich:** 74 bis 80
+- **Blöcke:** 2.006
 - **Bauteile:** `w483549893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.492 |
-| Weißer Beton | `white_concrete` | 365 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Polierter Andesit | `polished_andesite` | 70 |
-| Tuffsteinziegel | `tuff_bricks` | 10 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.53 – Haus w483549893 – Teil 4/7 (Y 78–84)
-
-- **Y-Bereich:** 78 bis 84
-- **Blöcke:** 2.014
-- **Bauteile:** `w483549893`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.527 |
-| Weißer Beton | `white_concrete` | 191 |
+| Orange Keramik | `orange_terracotta` | 1.452 |
+| Weißer Beton | `white_concrete` | 216 |
 | Glatter Stein | `smooth_stone` | 169 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
-| Polierter Andesit | `polished_andesite` | 46 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
+| Polierter Andesit | `polished_andesite` | 58 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
@@ -1857,9 +1855,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.54 – Haus w483549893 – Teil 5/7 (Y 85–91)
+### Schritt 44.54 – Haus w483549893 – Teil 5/8 (Y 81–87)
 
-- **Y-Bereich:** 85 bis 91
+- **Y-Bereich:** 81 bis 87
+- **Blöcke:** 1.994
+- **Bauteile:** `w483549893`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.537 |
+| Weißer Beton | `white_concrete` | 273 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Polierter Andesit | `polished_andesite` | 49 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.55 – Haus w483549893 – Teil 6/8 (Y 88–94)
+
+- **Y-Bereich:** 88 bis 94
 - **Blöcke:** 2.024
 - **Bauteile:** `w483549893`
 
@@ -1889,21 +1918,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.55 – Haus w483549893 – Teil 6/7 (Y 92–98)
+### Schritt 44.56 – Haus w483549893 – Teil 7/8 (Y 95–100)
 
-- **Y-Bereich:** 92 bis 98
-- **Blöcke:** 2.031
+- **Y-Bereich:** 95 bis 100
+- **Blöcke:** 1.934
 - **Bauteile:** `w483549893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.424 |
-| Weißer Beton | `white_concrete` | 386 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-| Polierter Andesit | `polished_andesite` | 49 |
-| Fichtenholz-Bretter | `spruce_planks` | 37 |
+| Orange Keramik | `orange_terracotta` | 1.298 |
+| Weißer Beton | `white_concrete` | 304 |
+| Fichtenholz-Bretter | `spruce_planks` | 212 |
+| Graues Buntglas | `gray_stained_glass` | 81 |
+| Polierter Andesit | `polished_andesite` | 39 |
 
 **Beschreibung**
 
@@ -1921,10 +1950,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.56 – Haus w483549893 – Teil 7/7 (Y 99–106)
+### Schritt 44.57 – Haus w483549893 – Teil 8/8 (Y 101–107)
 
-- **Y-Bereich:** 99 bis 106
-- **Blöcke:** 2.082
+- **Y-Bereich:** 101 bis 107
+- **Blöcke:** 1.615
 - **Bauteile:** `w483549893`
 
 **Teileliste**
@@ -1932,10 +1961,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.548 |
-| Orange Keramik | `orange_terracotta` | 289 |
-| Fichtenholz-Bretter | `spruce_planks` | 175 |
 | Ziegelsteine | `bricks` | 67 |
-| Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
@@ -1953,9 +1979,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.57 – Haus w483549893: Innenausbau
+### Schritt 44.58 – Haus w483549893: Innenausbau
 
-- **Y-Bereich:** 69 bis 90
+- **Y-Bereich:** 70 bis 91
 - **Blöcke:** 1.743
 - **Bauteile:** `w483549893_innen`
 
@@ -1995,7 +2021,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.58 – Reihenhaus an Via Romana – Teil 1/4 (Y 64–70)
+### Schritt 44.59 – Reihenhaus an Via Romana – Teil 1/4 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.496
@@ -2027,7 +2053,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.59 – Reihenhaus an Via Romana – Teil 2/4 (Y 71–80)
+### Schritt 44.60 – Reihenhaus an Via Romana – Teil 2/4 (Y 71–80)
 
 - **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.558
@@ -2057,7 +2083,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.60 – Reihenhaus an Via Romana – Teil 3/4 (Y 81–90)
+### Schritt 44.61 – Reihenhaus an Via Romana – Teil 3/4 (Y 81–90)
 
 - **Y-Bereich:** 81 bis 90
 - **Blöcke:** 1.550
@@ -2087,7 +2113,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.61 – Reihenhaus an Via Romana – Teil 4/4 (Y 91–100)
+### Schritt 44.62 – Reihenhaus an Via Romana – Teil 4/4 (Y 91–100)
 
 - **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.510
@@ -2120,7 +2146,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.62 – Reihenhaus an Via Romana: Innenausbau
+### Schritt 44.63 – Reihenhaus an Via Romana: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.441
@@ -2162,7 +2188,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.63 – Reihenhaus an Via Romana – Teil 1/7 (Y 62–62)
+### Schritt 44.64 – Reihenhaus an Via Romana – Teil 1/7 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.793
@@ -2190,17 +2216,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.64 – Reihenhaus an Via Romana – Teil 2/7 (Y 63–67)
+### Schritt 44.65 – Reihenhaus an Via Romana – Teil 2/7 (Y 63–67)
 
 - **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.729
+- **Blöcke:** 1.735
 - **Bauteile:** `w483549896`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.487 |
+| Orange Keramik | `orange_terracotta` | 1.493 |
 | Weißer Beton | `white_concrete` | 117 |
 | Graues Buntglas | `gray_stained_glass` | 76 |
 | Glatter Stein | `smooth_stone` | 45 |
@@ -2222,17 +2248,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.65 – Reihenhaus an Via Romana – Teil 3/7 (Y 68–72)
+### Schritt 44.66 – Reihenhaus an Via Romana – Teil 3/7 (Y 68–72)
 
 - **Y-Bereich:** 68 bis 72
-- **Blöcke:** 1.647
+- **Blöcke:** 1.677
 - **Bauteile:** `w483549896`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.430 |
+| Orange Keramik | `orange_terracotta` | 1.460 |
 | Weißer Beton | `white_concrete` | 147 |
 | Graues Buntglas | `gray_stained_glass` | 34 |
 | Glatter Stein | `smooth_stone` | 34 |
@@ -2254,7 +2280,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.66 – Reihenhaus an Via Romana – Teil 4/7 (Y 73–78)
+### Schritt 44.67 – Reihenhaus an Via Romana – Teil 4/7 (Y 73–78)
 
 - **Y-Bereich:** 73 bis 78
 - **Blöcke:** 1.867
@@ -2285,7 +2311,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.67 – Reihenhaus an Via Romana – Teil 5/7 (Y 79–83)
+### Schritt 44.68 – Reihenhaus an Via Romana – Teil 5/7 (Y 79–83)
 
 - **Y-Bereich:** 79 bis 83
 - **Blöcke:** 1.545
@@ -2316,7 +2342,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.68 – Reihenhaus an Via Romana – Teil 6/7 (Y 84–86)
+### Schritt 44.69 – Reihenhaus an Via Romana – Teil 6/7 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.973
@@ -2347,7 +2373,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.69 – Reihenhaus an Via Romana – Teil 7/7 (Y 87–93)
+### Schritt 44.70 – Reihenhaus an Via Romana – Teil 7/7 (Y 87–93)
 
 - **Y-Bereich:** 87 bis 93
 - **Blöcke:** 1.553
@@ -2376,7 +2402,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.70 – Reihenhaus an Via Romana: Innenausbau – Teil 1/2 (Y 62–71)
+### Schritt 44.71 – Reihenhaus an Via Romana: Innenausbau – Teil 1/2 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.531
@@ -2414,7 +2440,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.71 – Reihenhaus an Via Romana: Innenausbau – Teil 2/2 (Y 72–79)
+### Schritt 44.72 – Reihenhaus an Via Romana: Innenausbau – Teil 2/2 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.525
@@ -2456,7 +2482,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.72 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 65–74)
+### Schritt 44.73 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.796
@@ -2488,7 +2514,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.73 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 75–87)
+### Schritt 44.74 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 75–87)
 
 - **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.847
@@ -2519,7 +2545,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.74 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 88–97)
+### Schritt 44.75 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 88–97)
 
 - **Y-Bereich:** 88 bis 97
 - **Blöcke:** 1.917
@@ -2551,7 +2577,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.75 – Reihenhaus an Via del Ronco: Innenausbau
+### Schritt 44.76 – Reihenhaus an Via del Ronco: Innenausbau
 
 - **Y-Bereich:** 65 bis 88
 - **Blöcke:** 1.248
@@ -2591,7 +2617,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.76 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 65–74)
+### Schritt 44.77 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.438
@@ -2623,7 +2649,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.77 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 75–87)
+### Schritt 44.78 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 75–87)
 
 - **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.452
@@ -2654,7 +2680,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.78 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 88–99)
+### Schritt 44.79 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 88–99)
 
 - **Y-Bereich:** 88 bis 99
 - **Blöcke:** 1.512
@@ -2687,7 +2713,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.79 – Reihenhaus an Via del Ronco: Innenausbau
+### Schritt 44.80 – Reihenhaus an Via del Ronco: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.197
@@ -2729,7 +2755,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.80 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 65–74)
+### Schritt 44.81 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.783
@@ -2760,7 +2786,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.81 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 75–87)
+### Schritt 44.82 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 75–87)
 
 - **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.909
@@ -2791,7 +2817,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.82 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 88–100)
+### Schritt 44.83 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 88–100)
 
 - **Y-Bereich:** 88 bis 100
 - **Blöcke:** 1.758
@@ -2824,7 +2850,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.83 – Reihenhaus an Via del Ronco: Innenausbau
+### Schritt 44.84 – Reihenhaus an Via del Ronco: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.200
@@ -2866,7 +2892,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.84 – Reihenhaus an Via del Ronco – Teil 1/4 (Y 65–71)
+### Schritt 44.85 – Reihenhaus an Via del Ronco – Teil 1/4 (Y 65–71)
 
 - **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.600
@@ -2897,7 +2923,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.85 – Reihenhaus an Via del Ronco – Teil 2/4 (Y 72–81)
+### Schritt 44.86 – Reihenhaus an Via del Ronco – Teil 2/4 (Y 72–81)
 
 - **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.710
@@ -2927,7 +2953,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.86 – Reihenhaus an Via del Ronco – Teil 3/4 (Y 82–91)
+### Schritt 44.87 – Reihenhaus an Via del Ronco – Teil 3/4 (Y 82–91)
 
 - **Y-Bereich:** 82 bis 91
 - **Blöcke:** 1.700
@@ -2957,7 +2983,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.87 – Reihenhaus an Via del Ronco – Teil 4/4 (Y 92–100)
+### Schritt 44.88 – Reihenhaus an Via del Ronco – Teil 4/4 (Y 92–100)
 
 - **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.577
@@ -2989,7 +3015,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.88 – Reihenhaus an Via del Ronco: Innenausbau
+### Schritt 44.89 – Reihenhaus an Via del Ronco: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.406
@@ -3029,7 +3055,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.89 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 66–76)
+### Schritt 44.90 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 66–76)
 
 - **Y-Bereich:** 66 bis 76
 - **Blöcke:** 1.961
@@ -3061,7 +3087,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.90 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 77–89)
+### Schritt 44.91 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 77–89)
 
 - **Y-Bereich:** 77 bis 89
 - **Blöcke:** 1.925
@@ -3091,7 +3117,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.91 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 90–101)
+### Schritt 44.92 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 90–101)
 
 - **Y-Bereich:** 90 bis 101
 - **Blöcke:** 1.844
@@ -3123,7 +3149,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.92 – Reihenhaus an Via del Ronco: Innenausbau
+### Schritt 44.93 – Reihenhaus an Via del Ronco: Innenausbau
 
 - **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.140
@@ -3163,20 +3189,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.93 – Reihenhaus an Via Romana – Teil 1/4 (Y 64–70)
+### Schritt 44.94 – Reihenhaus an Via Romana – Teil 1/6 (Y 64–66)
 
-- **Y-Bereich:** 64 bis 70
-- **Blöcke:** 2.035
+- **Y-Bereich:** 64 bis 66
+- **Blöcke:** 1.442
 - **Bauteile:** `w483549905`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.147 |
-| Polierter Tuffstein | `polished_tuff` | 820 |
-| Polierter Andesit | `polished_andesite` | 59 |
-| Graues Buntglas | `gray_stained_glass` | 9 |
+| Tuffstein | `tuff` | 1.442 |
 
 **Beschreibung**
 
@@ -3194,19 +3217,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.94 – Reihenhaus an Via Romana – Teil 2/4 (Y 71–80)
+### Schritt 44.95 – Reihenhaus an Via Romana – Teil 2/6 (Y 67–72)
 
-- **Y-Bereich:** 71 bis 80
-- **Blöcke:** 2.069
+- **Y-Bereich:** 67 bis 72
+- **Blöcke:** 1.830
 - **Bauteile:** `w483549905`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.947 |
-| Polierter Andesit | `polished_andesite` | 106 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
+| Orange Keramik | `orange_terracotta` | 954 |
+| Polierter Tuffstein | `polished_tuff` | 821 |
+| Polierter Andesit | `polished_andesite` | 49 |
+| Graues Buntglas | `gray_stained_glass` | 6 |
 
 **Beschreibung**
 
@@ -3224,18 +3248,48 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.95 – Reihenhaus an Via Romana – Teil 3/4 (Y 81–90)
+### Schritt 44.96 – Reihenhaus an Via Romana – Teil 3/6 (Y 73–80)
 
-- **Y-Bereich:** 81 bis 90
-- **Blöcke:** 2.067
+- **Y-Bereich:** 73 bis 80
+- **Blöcke:** 1.654
 - **Bauteile:** `w483549905`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.921 |
-| Polierter Andesit | `polished_andesite` | 126 |
+| Orange Keramik | `orange_terracotta` | 1.555 |
+| Polierter Andesit | `polished_andesite` | 84 |
+| Graues Buntglas | `gray_stained_glass` | 15 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.97 – Reihenhaus an Via Romana – Teil 4/6 (Y 81–88)
+
+- **Y-Bereich:** 81 bis 88
+- **Blöcke:** 1.650
+- **Bauteile:** `w483549905`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.523 |
+| Polierter Andesit | `polished_andesite` | 107 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
 
 **Beschreibung**
@@ -3254,22 +3308,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.96 – Reihenhaus an Via Romana – Teil 4/4 (Y 91–99)
+### Schritt 44.98 – Reihenhaus an Via Romana – Teil 5/6 (Y 89–95)
 
-- **Y-Bereich:** 91 bis 99
-- **Blöcke:** 2.022
+- **Y-Bereich:** 89 bis 95
+- **Blöcke:** 1.493
 - **Bauteile:** `w483549905`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.064 |
-| Orange Keramik | `orange_terracotta` | 772 |
-| Fichtenholz-Bretter | `spruce_planks` | 85 |
-| Ziegelsteine | `bricks` | 47 |
-| Polierter Andesit | `polished_andesite` | 46 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
+| Orange Keramik | `orange_terracotta` | 1.402 |
+| Polierter Andesit | `polished_andesite` | 79 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**
 
@@ -3287,31 +3338,61 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.97 – Reihenhaus an Via Romana: Innenausbau
+### Schritt 44.99 – Reihenhaus an Via Romana – Teil 6/6 (Y 96–102)
 
-- **Y-Bereich:** 64 bis 88
-- **Blöcke:** 1.969
+- **Y-Bereich:** 96 bis 102
+- **Blöcke:** 1.702
+- **Bauteile:** `w483549905`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.064 |
+| Orange Keramik | `orange_terracotta` | 488 |
+| Fichtenholz-Bretter | `spruce_planks` | 85 |
+| Ziegelsteine | `bricks` | 47 |
+| Polierter Andesit | `polished_andesite` | 18 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.100 – Reihenhaus an Via Romana: Innenausbau
+
+- **Y-Bereich:** 67 bis 90
+- **Blöcke:** 1.949
 - **Bauteile:** `w483549905_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.812 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
+| Terrakotta | `terracotta` | 1.815 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Seelaterne | `sea_lantern` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Rote Keramik | `red_terracotta` | 7 |
-| Weiße Keramik | `white_terracotta` | 7 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Seelaterne | `sea_lantern` | 20 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -3329,7 +3410,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.98 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 65–74)
+### Schritt 44.101 – Reihenhaus an Via del Ronco – Teil 1/3 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.649
@@ -3362,7 +3443,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.99 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 75–92)
+### Schritt 44.102 – Reihenhaus an Via del Ronco – Teil 2/3 (Y 75–92)
 
 - **Y-Bereich:** 75 bis 92
 - **Blöcke:** 1.610
@@ -3392,7 +3473,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.100 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 93–102)
+### Schritt 44.103 – Reihenhaus an Via del Ronco – Teil 3/3 (Y 93–102)
 
 - **Y-Bereich:** 93 bis 102
 - **Blöcke:** 1.580
@@ -3424,7 +3505,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.101 – Reihenhaus an Via del Ronco: Innenausbau – Teil 1/2 (Y 65–80)
+### Schritt 44.104 – Reihenhaus an Via del Ronco: Innenausbau – Teil 1/2 (Y 65–80)
 
 - **Y-Bereich:** 65 bis 80
 - **Blöcke:** 843
@@ -3466,7 +3547,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.102 – Reihenhaus an Via del Ronco: Innenausbau – Teil 2/2 (Y 81–89)
+### Schritt 44.105 – Reihenhaus an Via del Ronco: Innenausbau – Teil 2/2 (Y 81–89)
 
 - **Y-Bereich:** 81 bis 89
 - **Blöcke:** 1.556
@@ -3508,21 +3589,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.103 – Reihenhaus an Via Romana – Teil 1/3 (Y 64–73)
+### Schritt 44.106 – Reihenhaus an Via Romana – Teil 1/4 (Y 64–68)
 
-- **Y-Bereich:** 64 bis 73
-- **Blöcke:** 2.040
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.543
 - **Bauteile:** `w483549907`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.150 |
 | Polierter Tuffstein | `polished_tuff` | 762 |
-| Hellgrauer Beton | `light_gray_concrete` | 92 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Weißer Beton | `white_concrete` | 725 |
+| Hellgrauer Beton | `light_gray_concrete` | 38 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Graues Buntglas | `gray_stained_glass` | 6 |
 
 **Beschreibung**
 
@@ -3540,19 +3621,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.104 – Reihenhaus an Via Romana – Teil 2/3 (Y 74–87)
+### Schritt 44.107 – Reihenhaus an Via Romana – Teil 2/4 (Y 69–79)
 
-- **Y-Bereich:** 74 bis 87
-- **Blöcke:** 2.012
+- **Y-Bereich:** 69 bis 79
+- **Blöcke:** 1.582
 - **Bauteile:** `w483549907`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.700 |
-| Hellgrauer Beton | `light_gray_concrete` | 248 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
+| Weißer Beton | `white_concrete` | 1.354 |
+| Hellgrauer Beton | `light_gray_concrete` | 178 |
+| Graues Buntglas | `gray_stained_glass` | 44 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -3570,10 +3652,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.105 – Reihenhaus an Via Romana – Teil 3/3 (Y 88–100)
+### Schritt 44.108 – Reihenhaus an Via Romana – Teil 3/4 (Y 80–90)
 
-- **Y-Bereich:** 88 bis 100
-- **Blöcke:** 1.940
+- **Y-Bereich:** 80 bis 90
+- **Blöcke:** 1.586
+- **Bauteile:** `w483549907`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.378 |
+| Hellgrauer Beton | `light_gray_concrete` | 168 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.109 – Reihenhaus an Via Romana – Teil 4/4 (Y 91–100)
+
+- **Y-Bereich:** 91 bis 100
+- **Blöcke:** 1.506
 - **Bauteile:** `w483549907`
 
 **Teileliste**
@@ -3581,10 +3693,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 889 |
-| Weißer Beton | `white_concrete` | 880 |
-| Hellgrauer Beton | `light_gray_concrete` | 106 |
+| Weißer Beton | `white_concrete` | 498 |
+| Hellgrauer Beton | `light_gray_concrete` | 62 |
 | Ziegelsteine | `bricks` | 41 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
 
 **Beschreibung**
 
@@ -3602,10 +3714,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.106 – Reihenhaus an Via Romana: Innenausbau
+### Schritt 44.110 – Reihenhaus an Via Romana: Innenausbau
 
 - **Y-Bereich:** 64 bis 88
-- **Blöcke:** 1.968
+- **Blöcke:** 1.972
 - **Bauteile:** `w483549907_innen`
 
 **Teileliste**
@@ -3617,8 +3729,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 20 |
-| Rote Keramik | `red_terracotta` | 7 |
-| Weiße Keramik | `white_terracotta` | 7 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3642,7 +3754,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.107 – Reihenhaus an Via del Ronco – Teil 1/2 (Y 65–81)
+### Schritt 44.111 – Reihenhaus an Via del Ronco – Teil 1/2 (Y 65–81)
 
 - **Y-Bereich:** 65 bis 81
 - **Blöcke:** 1.745
@@ -3673,7 +3785,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.108 – Reihenhaus an Via del Ronco – Teil 2/2 (Y 82–100)
+### Schritt 44.112 – Reihenhaus an Via del Ronco – Teil 2/2 (Y 82–100)
 
 - **Y-Bereich:** 82 bis 100
 - **Blöcke:** 1.761
@@ -3706,7 +3818,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.109 – Reihenhaus an Via del Ronco: Innenausbau
+### Schritt 44.113 – Reihenhaus an Via del Ronco: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.005
@@ -3748,7 +3860,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.110 – Reihenhaus an Via Romana – Teil 1/2 (Y 63–79)
+### Schritt 44.114 – Reihenhaus an Via Romana – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
 - **Blöcke:** 1.838
@@ -3780,7 +3892,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.111 – Reihenhaus an Via Romana – Teil 2/2 (Y 80–98)
+### Schritt 44.115 – Reihenhaus an Via Romana – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
 - **Blöcke:** 1.856
@@ -3812,7 +3924,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.112 – Reihenhaus an Via Romana: Innenausbau
+### Schritt 44.116 – Reihenhaus an Via Romana: Innenausbau
 
 - **Y-Bereich:** 63 bis 86
 - **Blöcke:** 1.468
@@ -3852,7 +3964,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.113 – Reihenhaus an Via del Ronco – Teil 1/2 (Y 65–81)
+### Schritt 44.117 – Reihenhaus an Via del Ronco – Teil 1/2 (Y 65–81)
 
 - **Y-Bereich:** 65 bis 81
 - **Blöcke:** 1.933
@@ -3885,7 +3997,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.114 – Reihenhaus an Via del Ronco – Teil 2/2 (Y 82–97)
+### Schritt 44.118 – Reihenhaus an Via del Ronco – Teil 2/2 (Y 82–97)
 
 - **Y-Bereich:** 82 bis 97
 - **Blöcke:** 1.853
@@ -3917,7 +4029,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.115 – Reihenhaus an Via del Ronco: Innenausbau
+### Schritt 44.119 – Reihenhaus an Via del Ronco: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.113
@@ -3959,7 +4071,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.116 – Haus w483549911 – Teil 1/3 (Y 65–76)
+### Schritt 44.120 – Haus w483549911 – Teil 1/3 (Y 65–76)
 
 - **Y-Bereich:** 65 bis 76
 - **Blöcke:** 2.004
@@ -4001,7 +4113,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.117 – Haus w483549911 – Teil 2/3 (Y 77–88)
+### Schritt 44.121 – Haus w483549911 – Teil 2/3 (Y 77–88)
 
 - **Y-Bereich:** 77 bis 88
 - **Blöcke:** 1.985
@@ -4033,7 +4145,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.118 – Haus w483549911 – Teil 3/3 (Y 89–98)
+### Schritt 44.122 – Haus w483549911 – Teil 3/3 (Y 89–98)
 
 - **Y-Bereich:** 89 bis 98
 - **Blöcke:** 1.969
@@ -4066,7 +4178,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.119 – Haus w483549911: Innenausbau & Reihenhaus an Via del Ronco – Teil 1/2 (Y 65–82)
+### Schritt 44.123 – Haus w483549911: Innenausbau & Reihenhaus an Via del Ronco – Teil 1/2 (Y 65–82)
 
 - **Y-Bereich:** 65 bis 82
 - **Blöcke:** 1.489
@@ -4099,7 +4211,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.120 – Reihenhaus an Via del Ronco – Teil 2/2 (Y 83–100)
+### Schritt 44.124 – Reihenhaus an Via del Ronco – Teil 2/2 (Y 83–100)
 
 - **Y-Bereich:** 83 bis 100
 - **Blöcke:** 1.438
@@ -4132,7 +4244,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.121 – Reihenhaus an Via del Ronco: Innenausbau
+### Schritt 44.125 – Reihenhaus an Via del Ronco: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.349
@@ -4174,10 +4286,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.122 – Palazzo des Cinquecento an Via del Ronco – Teil 1/4 (Y 64–69)
+### Schritt 44.126 – Palazzo des Cinquecento an Via del Ronco – Teil 1/4 (Y 64–69)
 
 - **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.784
+- **Blöcke:** 1.844
 - **Bauteile:** `w483549914`
 
 **Teileliste**
@@ -4185,7 +4297,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 996 |
-| Glatter Sandstein | `smooth_sandstone` | 566 |
+| Glatter Sandstein | `smooth_sandstone` | 626 |
 | Glatter Stein | `smooth_stone` | 140 |
 | Graues Buntglas | `gray_stained_glass` | 34 |
 | Polierter Andesit | `polished_andesite` | 34 |
@@ -4208,7 +4320,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.123 – Palazzo des Cinquecento an Via del Ronco – Teil 2/4 (Y 70–81)
+### Schritt 44.127 – Palazzo des Cinquecento an Via del Ronco – Teil 2/4 (Y 70–81)
 
 - **Y-Bereich:** 70 bis 81
 - **Blöcke:** 1.806
@@ -4241,7 +4353,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.124 – Palazzo des Cinquecento an Via del Ronco – Teil 3/4 (Y 82–92)
+### Schritt 44.128 – Palazzo des Cinquecento an Via del Ronco – Teil 3/4 (Y 82–92)
 
 - **Y-Bereich:** 82 bis 92
 - **Blöcke:** 1.676
@@ -4273,19 +4385,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.125 – Palazzo des Cinquecento an Via del Ronco – Teil 4/4 (Y 93–100)
+### Schritt 44.129 – Palazzo des Cinquecento an Via del Ronco – Teil 4/4 (Y 93–100)
 
 - **Y-Bereich:** 93 bis 100
-- **Blöcke:** 1.887
+- **Blöcke:** 1.891
 - **Bauteile:** `w483549914`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.308 |
+| Terrakotta | `terracotta` | 1.309 |
 | Glatter Sandstein | `smooth_sandstone` | 309 |
-| Glatter Stein | `smooth_stone` | 174 |
+| Glatter Stein | `smooth_stone` | 177 |
 | Ziegelsteine | `bricks` | 85 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
@@ -4305,7 +4417,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.126 – Palazzo des Cinquecento an Via del Ronco: Innenausbau & Straßenschilder
+### Schritt 44.130 – Palazzo des Cinquecento an Via del Ronco: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 64 bis 85
 - **Blöcke:** 1.787

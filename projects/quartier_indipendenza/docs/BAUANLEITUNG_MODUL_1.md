@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 190.787 |
+| Blöcke | 190.731 |
 | Bauschritte | 123 |
 | Y-Bereich | 56 bis 103 |
 | X-Ausdehnung | -1236 bis -1038 (199 Blöcke) |
@@ -21,11 +21,11 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 56.568 | 29,6 % |
+| Terrakotta | `terracotta` | 56.568 | 29,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 32.728 | 17,2 % |
 | Polierter Tuffstein | `polished_tuff` | 18.871 | 9,9 % |
 | Endsteinziegel | `end_stone_bricks` | 18.450 | 9,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 13.600 | 7,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 13.544 | 7,1 % |
 | Weißer Beton | `white_concrete` | 12.770 | 6,7 % |
 | Orange Keramik | `orange_terracotta` | 11.950 | 6,3 % |
 | Glatter Stein | `smooth_stone` | 7.105 | 3,7 % |
@@ -80,7 +80,7 @@
 | 16 | `w482461128_innen` | Reihenhaus an Via Faenza: Innenausbau | 1.464 | 1.85 |
 | 17 | `w482461129` | Palazzo des Cinquecento an Piazza del Crocifisso | 24.667 | 1.86–1.98 |
 | 18 | `w482461129_innen` | Palazzo des Cinquecento an Piazza del Crocifisso: Innenausbau | 6.974 | 1.99–1.102 |
-| 19 | `w482461130` | Palazzo des Ottocento an Via Bernardo Cennini | 17.483 | 1.103–1.112 |
+| 19 | `w482461130` | Palazzo des Ottocento an Via Bernardo Cennini | 17.427 | 1.103–1.112 |
 | 20 | `w482461130_innen` | Palazzo des Ottocento an Via Bernardo Cennini: Innenausbau | 3.415 | 1.113–1.114 |
 | 21 | `w482461131` | Haus w482461131 | 3.681 | 1.115–1.116 |
 | 22 | `w482461131_innen` | Haus w482461131: Innenausbau | 2 | 1.117 |
@@ -92,9 +92,9 @@
 
 ## Bauschritte
 
-### Schritt 1.1 – Reihenhaus an Via Faenza – Teil 1/5 (Y 60–62)
+### Schritt 1.1 – Reihenhaus an Via Faenza – Teil 1/5 (Y 61–63)
 
-- **Y-Bereich:** 60 bis 62
+- **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.691
 - **Bauteile:** `r7103414`
 
@@ -122,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Reihenhaus an Via Faenza – Teil 2/5 (Y 63–69)
+### Schritt 1.2 – Reihenhaus an Via Faenza – Teil 2/5 (Y 64–70)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.860
 - **Bauteile:** `r7103414`
 
@@ -153,9 +153,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Reihenhaus an Via Faenza – Teil 3/5 (Y 70–76)
+### Schritt 1.3 – Reihenhaus an Via Faenza – Teil 3/5 (Y 71–77)
 
-- **Y-Bereich:** 70 bis 76
+- **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.860
 - **Bauteile:** `r7103414`
 
@@ -184,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Reihenhaus an Via Faenza – Teil 4/5 (Y 77–82)
+### Schritt 1.4 – Reihenhaus an Via Faenza – Teil 4/5 (Y 78–83)
 
-- **Y-Bereich:** 77 bis 82
+- **Y-Bereich:** 78 bis 83
 - **Blöcke:** 1.611
 - **Bauteile:** `r7103414`
 
@@ -216,9 +216,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Reihenhaus an Via Faenza – Teil 5/5 (Y 83–88)
+### Schritt 1.5 – Reihenhaus an Via Faenza – Teil 5/5 (Y 84–89)
 
-- **Y-Bereich:** 83 bis 88
+- **Y-Bereich:** 84 bis 89
 - **Blöcke:** 1.983
 - **Bauteile:** `r7103414`
 
@@ -249,7 +249,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.6 – Reihenhaus an Via Faenza: Innenausbau
 
-- **Y-Bereich:** 60 bis 76
+- **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.885
 - **Bauteile:** `r7103414_innen`
 
@@ -2336,22 +2336,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.72 – Reihenhaus an Via Faenza – Teil 1/3 (Y 60–71)
+### Schritt 1.72 – Reihenhaus an Via Faenza – Teil 1/3 (Y 60–70)
 
-- **Y-Bereich:** 60 bis 71
-- **Blöcke:** 1.645
+- **Y-Bereich:** 60 bis 70
+- **Blöcke:** 1.592
 - **Bauteile:** `w482461123`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.054 |
+| Endsteinziegel | `end_stone_bricks` | 1.021 |
 | Polierter Tuffstein | `polished_tuff` | 472 |
-| Weißer Beton | `white_concrete` | 64 |
-| Graues Buntglas | `gray_stained_glass` | 23 |
+| Weißer Beton | `white_concrete` | 56 |
 | Glatter Stein | `smooth_stone` | 22 |
-| Grüner Beton | `green_concrete` | 10 |
+| Graues Buntglas | `gray_stained_glass` | 15 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
@@ -2369,20 +2369,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.73 – Reihenhaus an Via Faenza – Teil 2/3 (Y 72–85)
+### Schritt 1.73 – Reihenhaus an Via Faenza – Teil 2/3 (Y 71–85)
 
-- **Y-Bereich:** 72 bis 85
-- **Blöcke:** 1.670
+- **Y-Bereich:** 71 bis 85
+- **Blöcke:** 1.723
 - **Bauteile:** `w482461123`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.440 |
-| Weißer Beton | `white_concrete` | 158 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
-| Grüner Beton | `green_concrete` | 24 |
+| Endsteinziegel | `end_stone_bricks` | 1.473 |
+| Weißer Beton | `white_concrete` | 166 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Grüner Beton | `green_concrete` | 28 |
 
 **Beschreibung**
 
@@ -3541,14 +3541,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.109 – Palazzo des Ottocento an Via Bernardo Cennini – Teil 7/10 (Y 84–87)
 
 - **Y-Bereich:** 84 bis 87
-- **Blöcke:** 1.760
+- **Blöcke:** 1.704
 - **Bauteile:** `w482461130`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.240 |
+| Glatter Sandstein | `smooth_sandstone` | 1.184 |
 | Weißer Beton | `white_concrete` | 224 |
 | Graues Buntglas | `gray_stained_glass` | 184 |
 | Grüner Beton | `green_concrete` | 84 |

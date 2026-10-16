@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 289.739 |
+| Blöcke | 289.749 |
 | Bauschritte | 181 |
 | Y-Bereich | 60 bis 105 |
 | X-Ausdehnung | 1403 bis 1673 (271 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 94.773 | 32,7 % |
+| Terrakotta | `terracotta` | 94.777 | 32,7 % |
 | Endsteinziegel | `end_stone_bricks` | 30.109 | 10,4 % |
 | Rosa Keramik | `pink_terracotta` | 28.225 | 9,7 % |
 | Polierter Tuffstein | `polished_tuff` | 27.749 | 9,6 % |
@@ -42,8 +42,8 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 397 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 299 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 277 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 150 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 150 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 153 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 153 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 62 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 38 | 0,0 % |
@@ -122,8 +122,8 @@
 | 56 | `w483746923_innen` | Reihenhaus an Via Ghibellina: Innenausbau | 864 | 12.153 |
 | 57 | `w483746924` | Reihenhaus an Via Ghibellina | 2.768 | 12.154–12.155 |
 | 58 | `w483746924_innen` | Reihenhaus an Via Ghibellina: Innenausbau | 1.472 | 12.156 |
-| 59 | `w483746925` | Reihenhaus an Via dei Conciatori | 5.159 | 12.157–12.159 |
-| 60 | `w483746925_innen` | Reihenhaus an Via dei Conciatori: Innenausbau | 2.108 | 12.160–12.161 |
+| 59 | `w483746925` | Reihenhaus an Via dei Conciatori | 5.160 | 12.157–12.159 |
+| 60 | `w483746925_innen` | Reihenhaus an Via dei Conciatori: Innenausbau | 2.117 | 12.160–12.161 |
 | 61 | `w483746926` | Reihenhaus an Via Ghibellina | 7.050 | 12.162–12.165 |
 | 62 | `w483746926_innen` | Reihenhaus an Via Ghibellina: Innenausbau | 2.031 | 12.166 |
 | 63 | `w483746928` | Reihenhaus an Via delle Casine | 20.363 | 12.167–12.178 |
@@ -5378,17 +5378,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.157 – Reihenhaus an Via dei Conciatori – Teil 1/3 (Y 60–68)
+### Schritt 12.157 – Reihenhaus an Via dei Conciatori – Teil 1/3 (Y 61–70)
 
-- **Y-Bereich:** 60 bis 68
-- **Blöcke:** 1.675
+- **Y-Bereich:** 61 bis 70
+- **Blöcke:** 1.740
 - **Bauteile:** `w483746925`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 812 |
+| Endsteinziegel | `end_stone_bricks` | 877 |
 | Polierter Tuffstein | `polished_tuff` | 779 |
 | Graues Buntglas | `gray_stained_glass` | 41 |
 | Glatter Stein | `smooth_stone` | 23 |
@@ -5410,9 +5410,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.158 – Reihenhaus an Via dei Conciatori – Teil 2/3 (Y 69–84)
+### Schritt 12.158 – Reihenhaus an Via dei Conciatori – Teil 2/3 (Y 71–86)
 
-- **Y-Bereich:** 69 bis 84
+- **Y-Bereich:** 71 bis 86
 - **Blöcke:** 1.722
 - **Bauteile:** `w483746925`
 
@@ -5440,18 +5440,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.159 – Reihenhaus an Via dei Conciatori – Teil 3/3 (Y 85–97)
+### Schritt 12.159 – Reihenhaus an Via dei Conciatori – Teil 3/3 (Y 87–98)
 
-- **Y-Bereich:** 85 bis 97
-- **Blöcke:** 1.762
+- **Y-Bereich:** 87 bis 98
+- **Blöcke:** 1.698
 - **Bauteile:** `w483746925`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 993 |
-| Endsteinziegel | `end_stone_bricks` | 627 |
+| Terrakotta | `terracotta` | 994 |
+| Endsteinziegel | `end_stone_bricks` | 562 |
 | Ziegelsteine | `bricks` | 55 |
 | Graues Buntglas | `gray_stained_glass` | 51 |
 | Grüner Beton | `green_concrete` | 36 |
@@ -5472,17 +5472,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.160 – Reihenhaus an Via dei Conciatori: Innenausbau – Teil 1/2 (Y 60–75)
+### Schritt 12.160 – Reihenhaus an Via dei Conciatori: Innenausbau – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 60 bis 75
-- **Blöcke:** 742
+- **Y-Bereich:** 61 bis 76
+- **Blöcke:** 743
 - **Bauteile:** `w483746925_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 658 |
+| Terrakotta | `terracotta` | 659 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
@@ -5510,23 +5510,23 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.161 – Reihenhaus an Via dei Conciatori: Innenausbau – Teil 2/2 (Y 76–84)
+### Schritt 12.161 – Reihenhaus an Via dei Conciatori: Innenausbau – Teil 2/2 (Y 77–85)
 
-- **Y-Bereich:** 76 bis 84
-- **Blöcke:** 1.366
+- **Y-Bereich:** 77 bis 85
+- **Blöcke:** 1.374
 - **Bauteile:** `w483746925_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.316 |
+| Terrakotta | `terracotta` | 1.318 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
 | Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Rote Keramik | `red_terracotta` | 5 |
+| Weiße Keramik | `white_terracotta` | 5 |
 
 **Treppen je Material** (alle Richtungen)
 

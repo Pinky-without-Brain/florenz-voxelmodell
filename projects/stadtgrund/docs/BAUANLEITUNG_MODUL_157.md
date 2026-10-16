@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 128.234 |
+| Blöcke | 128.264 |
 | Bauschritte | 81 |
 | Y-Bereich | 83 bis 179 |
 | X-Ausdehnung | -864 bis -545 (320 Blöcke) |
 | Z-Ausdehnung | 1712 bis 2031 (320 Blöcke) |
 | Kleinster Schritt | 755 Blöcke (Schritt 157.23) |
-| Mittlerer Schritt | 1.583 Blöcke |
+| Mittlerer Schritt | 1.584 Blöcke |
 | Größter Schritt | 2.098 Blöcke (Schritt 157.18) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 72.205 | 56,3 % |
-| Stein | `stone` | 30.847 | 24,1 % |
+| Grasblock | `grass_block` | 72.201 | 56,3 % |
+| Stein | `stone` | 30.881 | 24,1 % |
 | Kies | `gravel` | 18.260 | 14,2 % |
 | Polierter Tuffstein | `polished_tuff` | 5.019 | 3,9 % |
 | Glatter Stein | `smooth_stone` | 1.047 | 0,8 % |
@@ -42,12 +42,12 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 28.416 | 157.1–157.15 |
+| 1 | `boeschung` | Böschung und Mantel | 28.450 | 157.1–157.15 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 1.287 | 157.16 |
 | 3 | `gehwege` | Gehwege | 287 | 157.17 |
 | 4 | `stufen` | Treppenflächen | 686 | 157.17 |
 | 5 | `hof_pflaster` | Höfe | 3.732 | 157.18–157.19 |
-| 6 | `rasen` | Grün und offenes Gelände | 74.636 | 157.20–157.70 |
+| 6 | `rasen` | Grün und offenes Gelände | 74.632 | 157.20–157.70 |
 | 7 | `gruen_wege` | Wege im Grün | 18.260 | 157.71–157.80 |
 | 8 | `mauern_garten` | Gartenmauern | 930 | 157.81 |
 
@@ -224,14 +224,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 157.7 – Böschung und Mantel – Teil 7/15 (Y 118–121)
 
 - **Y-Bereich:** 118 bis 121
-- **Blöcke:** 1.756
+- **Blöcke:** 1.816
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.756 |
+| Stein | `stone` | 1.816 |
 
 **Beschreibung**
 
@@ -252,14 +252,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 157.8 – Böschung und Mantel – Teil 8/15 (Y 122–125)
 
 - **Y-Bereich:** 122 bis 125
-- **Blöcke:** 1.933
+- **Blöcke:** 1.916
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.933 |
+| Stein | `stone` | 1.916 |
 
 **Beschreibung**
 
@@ -280,14 +280,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 157.9 – Böschung und Mantel – Teil 9/15 (Y 126–129)
 
 - **Y-Bereich:** 126 bis 129
-- **Blöcke:** 2.052
+- **Blöcke:** 2.026
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.052 |
+| Stein | `stone` | 2.026 |
 
 **Beschreibung**
 
@@ -420,14 +420,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 157.14 – Böschung und Mantel – Teil 14/15 (Y 150–159)
 
 - **Y-Bereich:** 150 bis 159
-- **Blöcke:** 1.928
+- **Blöcke:** 1.954
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.928 |
+| Stein | `stone` | 1.954 |
 
 **Beschreibung**
 
@@ -448,14 +448,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 157.15 – Böschung und Mantel – Teil 15/15 (Y 160–178)
 
 - **Y-Bereich:** 160 bis 178
-- **Blöcke:** 1.928
+- **Blöcke:** 1.919
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.928 |
+| Stein | `stone` | 1.919 |
 
 **Beschreibung**
 
@@ -1236,14 +1236,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 157.42 – Grün und offenes Gelände – Teil 23/51 (Y 124–124)
 
 - **Y-Bereich:** 124 bis 124
-- **Blöcke:** 1.582
+- **Blöcke:** 1.578
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.573 |
+| Grasblock | `grass_block` | 1.569 |
 | Stein | `stone` | 9 |
 
 **Beschreibung**

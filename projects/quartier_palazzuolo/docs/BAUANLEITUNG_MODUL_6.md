@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 283.624 |
+| Blöcke | 283.646 |
 | Bauschritte | 180 |
 | Y-Bereich | 54 bis 98 |
 | X-Ausdehnung | -1674 bis -1406 (269 Blöcke) |
@@ -21,30 +21,30 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 90.881 | 32,0 % |
+| Terrakotta | `terracotta` | 90.880 | 32,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 29.470 | 10,4 % |
 | Polierter Tuffstein | `polished_tuff` | 26.934 | 9,5 % |
-| Weißer Beton | `white_concrete` | 24.736 | 8,7 % |
+| Weißer Beton | `white_concrete` | 24.696 | 8,7 % |
 | Orange Keramik | `orange_terracotta` | 24.093 | 8,5 % |
-| Endsteinziegel | `end_stone_bricks` | 22.017 | 7,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 21.746 | 7,7 % |
+| Endsteinziegel | `end_stone_bricks` | 22.015 | 7,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 21.803 | 7,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 13.351 | 4,7 % |
 | Rosa Keramik | `pink_terracotta` | 10.679 | 3,8 % |
 | Graues Buntglas | `gray_stained_glass` | 4.828 | 1,7 % |
 | Glatter Stein | `smooth_stone` | 4.461 | 1,6 % |
 | Polierter Andesit | `polished_andesite` | 2.384 | 0,8 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.971 | 0,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.975 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.412 | 0,5 % |
 | Ziegelsteine | `bricks` | 1.349 | 0,5 % |
 | Grüner Beton | `green_concrete` | 832 | 0,3 % |
 | Seelaterne | `sea_lantern` | 541 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 418 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 392 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 333 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 315 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 334 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 316 | 0,1 % |
 | Tuffstein | `tuff` | 191 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 86 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 86 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 87 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 87 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 30 | 0,0 % |
@@ -56,7 +56,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.458 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.460 |
 | Steintreppe | `stone_stairs` | 80 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -67,8 +67,8 @@
 | 2 | `r7013643_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 963 | 6.5 |
 | 3 | `r7013644` | Palazzo des Cinquecento an Via Benedetta | 27.859 | 6.6–6.22 |
 | 4 | `r7013644_innen` | Palazzo des Cinquecento an Via Benedetta: Innenausbau | 8.295 | 6.22–6.26 |
-| 5 | `r7013645` | Reihenhaus an Via Palazzuolo | 8.141 | 6.27–6.31 |
-| 6 | `r7013645_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 2.560 | 6.32–6.33 |
+| 5 | `r7013645` | Reihenhaus an Via Palazzuolo | 8.198 | 6.27–6.31 |
+| 6 | `r7013645_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 2.565 | 6.32–6.33 |
 | 7 | `w477339739` | Reihenhaus an Via Benedetta | 7.446 | 6.34–6.37 |
 | 8 | `w477339739_innen` | Reihenhaus an Via Benedetta: Innenausbau | 1.959 | 6.38 |
 | 9 | `w477339742` | Reihenhaus an Via Palazzuolo | 5.122 | 6.39–6.41 |
@@ -91,7 +91,7 @@
 | 26 | `w477339755_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 915 | 6.77 |
 | 27 | `w477339758` | Haus w477339758 | 4.707 | 6.78–6.80 |
 | 28 | `w477339758_innen` | Haus w477339758: Innenausbau | 870 | 6.81 |
-| 29 | `w477339760` | Reihenhaus an Via Palazzuolo | 2.702 | 6.82–6.83 |
+| 29 | `w477339760` | Reihenhaus an Via Palazzuolo | 2.662 | 6.82–6.83 |
 | 30 | `w477339760_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 2 | 6.84 |
 | 31 | `w477339762` | Reihenhaus an Via del Porcellana | 9.410 | 6.84–6.88 |
 | 32 | `w477339762_innen` | Reihenhaus an Via del Porcellana: Innenausbau | 3.042 | 6.89–6.90 |
@@ -111,8 +111,8 @@
 | 46 | `w477339775_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 1 | 6.130 |
 | 47 | `w477339778` | Reihenhaus an Via della Scala | 8.250 | 6.130–6.134 |
 | 48 | `w477339778_innen` | Reihenhaus an Via della Scala: Innenausbau | 2.864 | 6.135–6.136 |
-| 49 | `w477339779` | Haus w477339779 | 3.792 | 6.137–6.138 |
-| 50 | `w477339779_innen` | Haus w477339779: Innenausbau | 2 | 6.139 |
+| 49 | `w477339779` | Haus w477339779 | 3.789 | 6.137–6.138 |
+| 50 | `w477339779_innen` | Haus w477339779: Innenausbau | 5 | 6.139 |
 | 51 | `w477339782` | Reihenhaus an Via del Porcellana | 4.362 | 6.139–6.141 |
 | 52 | `w477339782_innen` | Reihenhaus an Via del Porcellana: Innenausbau | 1.224 | 6.142 |
 | 53 | `w477339787` | Reihenhaus an Via Palazzuolo | 4.688 | 6.143–6.145 |
@@ -141,9 +141,9 @@
 
 ## Bauschritte
 
-### Schritt 6.1 – Reihenhaus an Via Palazzuolo – Teil 1/4 (Y 56–63)
+### Schritt 6.1 – Reihenhaus an Via Palazzuolo – Teil 1/4 (Y 57–64)
 
-- **Y-Bereich:** 56 bis 63
+- **Y-Bereich:** 57 bis 64
 - **Blöcke:** 1.746
 - **Bauteile:** `r7013643`
 
@@ -173,9 +173,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.2 – Reihenhaus an Via Palazzuolo – Teil 2/4 (Y 64–72)
+### Schritt 6.2 – Reihenhaus an Via Palazzuolo – Teil 2/4 (Y 65–73)
 
-- **Y-Bereich:** 64 bis 72
+- **Y-Bereich:** 65 bis 73
 - **Blöcke:** 1.665
 - **Bauteile:** `r7013643`
 
@@ -203,9 +203,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.3 – Reihenhaus an Via Palazzuolo – Teil 3/4 (Y 73–81)
+### Schritt 6.3 – Reihenhaus an Via Palazzuolo – Teil 3/4 (Y 74–82)
 
-- **Y-Bereich:** 73 bis 81
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.658
 - **Bauteile:** `r7013643`
 
@@ -233,9 +233,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.4 – Reihenhaus an Via Palazzuolo – Teil 4/4 (Y 82–91)
+### Schritt 6.4 – Reihenhaus an Via Palazzuolo – Teil 4/4 (Y 83–92)
 
-- **Y-Bereich:** 82 bis 91
+- **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.595
 - **Bauteile:** `r7013643`
 
@@ -267,7 +267,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.5 – Reihenhaus an Via Palazzuolo: Innenausbau
 
-- **Y-Bereich:** 56 bis 80
+- **Y-Bereich:** 57 bis 81
 - **Blöcke:** 963
 - **Bauteile:** `r7013643_innen`
 
@@ -985,7 +985,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.27 – Reihenhaus an Via Palazzuolo – Teil 1/5 (Y 56–59)
 
 - **Y-Bereich:** 56 bis 59
-- **Blöcke:** 1.572
+- **Blöcke:** 1.628
 - **Bauteile:** `r7013645`
 
 **Teileliste**
@@ -993,7 +993,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.008 |
-| Hellgrauer Beton | `light_gray_concrete` | 558 |
+| Hellgrauer Beton | `light_gray_concrete` | 614 |
 | Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
@@ -1072,17 +1072,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.30 – Reihenhaus an Via Palazzuolo – Teil 4/5 (Y 77–85)
+### Schritt 6.30 – Reihenhaus an Via Palazzuolo – Teil 4/5 (Y 77–84)
 
-- **Y-Bereich:** 77 bis 85
-- **Blöcke:** 1.765
+- **Y-Bereich:** 77 bis 84
+- **Blöcke:** 1.545
 - **Bauteile:** `r7013645`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.740 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.520 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
 
 **Beschreibung**
@@ -1101,10 +1101,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.31 – Reihenhaus an Via Palazzuolo – Teil 5/5 (Y 86–92)
+### Schritt 6.31 – Reihenhaus an Via Palazzuolo – Teil 5/5 (Y 85–92)
 
-- **Y-Bereich:** 86 bis 92
-- **Blöcke:** 1.522
+- **Y-Bereich:** 85 bis 92
+- **Blöcke:** 1.743
 - **Bauteile:** `r7013645`
 
 **Teileliste**
@@ -1112,7 +1112,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.247 |
-| Hellgrauer Beton | `light_gray_concrete` | 219 |
+| Hellgrauer Beton | `light_gray_concrete` | 440 |
 | Ziegelsteine | `bricks` | 56 |
 
 **Beschreibung**
@@ -1134,7 +1134,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.32 – Reihenhaus an Via Palazzuolo: Innenausbau – Teil 1/2 (Y 56–71)
 
 - **Y-Bereich:** 56 bis 71
-- **Blöcke:** 895
+- **Blöcke:** 896
 - **Bauteile:** `r7013645_innen`
 
 **Teileliste**
@@ -1142,18 +1142,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 805 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
 
 **Beschreibung**
 
@@ -1171,10 +1173,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.33 – Reihenhaus an Via Palazzuolo: Innenausbau – Teil 2/2 (Y 72–79)
+### Schritt 6.33 – Reihenhaus an Via Palazzuolo: Innenausbau – Teil 2/2 (Y 72–80)
 
-- **Y-Bereich:** 72 bis 79
-- **Blöcke:** 1.665
+- **Y-Bereich:** 72 bis 80
+- **Blöcke:** 1.669
 - **Bauteile:** `r7013645_innen`
 
 **Teileliste**
@@ -1186,8 +1188,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -2805,17 +2807,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.82 – Reihenhaus an Via Palazzuolo – Teil 1/2 (Y 57–73)
+### Schritt 6.82 – Reihenhaus an Via Palazzuolo – Teil 1/2 (Y 57–72)
 
-- **Y-Bereich:** 57 bis 73
-- **Blöcke:** 1.383
+- **Y-Bereich:** 57 bis 72
+- **Blöcke:** 1.310
 - **Bauteile:** `w477339760`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.091 |
+| Weißer Beton | `white_concrete` | 1.018 |
 | Polierter Tuffstein | `polished_tuff` | 245 |
 | Polierter Andesit | `polished_andesite` | 43 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
@@ -2836,17 +2838,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.83 – Reihenhaus an Via Palazzuolo – Teil 2/2 (Y 74–91)
+### Schritt 6.83 – Reihenhaus an Via Palazzuolo – Teil 2/2 (Y 73–91)
 
-- **Y-Bereich:** 74 bis 91
-- **Blöcke:** 1.319
+- **Y-Bereich:** 73 bis 91
+- **Blöcke:** 1.352
 - **Bauteile:** `w477339760`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 994 |
+| Weißer Beton | `white_concrete` | 1.027 |
 | Terrakotta | `terracotta` | 257 |
 | Polierter Andesit | `polished_andesite` | 54 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
@@ -4670,16 +4672,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.138 – Haus w477339779 – Teil 2/2 (Y 74–88)
 
 - **Y-Bereich:** 74 bis 88
-- **Blöcke:** 1.875
+- **Blöcke:** 1.872
 - **Bauteile:** `w477339779`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.294 |
+| Endsteinziegel | `end_stone_bricks` | 1.292 |
 | Weißer Beton | `white_concrete` | 299 |
-| Terrakotta | `terracotta` | 217 |
+| Terrakotta | `terracotta` | 216 |
 | Graues Buntglas | `gray_stained_glass` | 65 |
 
 **Beschreibung**
@@ -4701,7 +4703,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.139 – Haus w477339779: Innenausbau & Reihenhaus an Via del Porcellana – Teil 1/3 (Y 57–66)
 
 - **Y-Bereich:** 57 bis 66
-- **Blöcke:** 1.429
+- **Blöcke:** 1.432
 - **Bauteile:** `w477339779_innen`, `w477339782`
 
 **Teileliste**
@@ -4714,6 +4716,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Polierter Andesit | `polished_andesite` | 18 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
 | Grüner Beton | `green_concrete` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
 | Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**

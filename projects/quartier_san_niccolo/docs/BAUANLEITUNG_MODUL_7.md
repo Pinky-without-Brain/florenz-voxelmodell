@@ -8,22 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 818 |
+| Blöcke | 856 |
 | Bauschritte | 1 |
-| Y-Bereich | 89 bis 104 |
+| Y-Bereich | 90 bis 107 |
 | X-Ausdehnung | -164 bis -152 (13 Blöcke) |
 | Z-Ausdehnung | 1627 bis 1640 (14 Blöcke) |
-| Kleinster Schritt | 818 Blöcke (Schritt 7.1) |
-| Mittlerer Schritt | 818 Blöcke |
-| Größter Schritt | 818 Blöcke (Schritt 7.1) |
+| Kleinster Schritt | 856 Blöcke (Schritt 7.1) |
+| Mittlerer Schritt | 856 Blöcke |
+| Größter Schritt | 856 Blöcke (Schritt 7.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 624 | 76,3 % |
-| Terrakotta | `terracotta` | 98 | 12,0 % |
-| Polierter Tuffstein | `polished_tuff` | 92 | 11,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 624 | 72,9 % |
+| Terrakotta | `terracotta` | 98 | 11,4 % |
+| Polierter Tuffstein | `polished_tuff` | 92 | 10,7 % |
+| Tuffstein | `tuff` | 38 | 4,4 % |
 | Ziegelsteine | `bricks` | 3 | 0,4 % |
 | Seelaterne | `sea_lantern` | 1 | 0,1 % |
 
@@ -31,15 +32,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119229736` | Nebengebäude an Via del Canneto | 817 | 7.1 |
+| 1 | `w119229736` | Nebengebäude an Via del Canneto | 855 | 7.1 |
 | 2 | `w119229736_innen` | Nebengebäude an Via del Canneto: Innenausbau | 1 | 7.1 |
 
 ## Bauschritte
 
 ### Schritt 7.1 – Nebengebäude an Via del Canneto & Nebengebäude an Via del Canneto: Innenausbau
 
-- **Y-Bereich:** 89 bis 104
-- **Blöcke:** 818
+- **Y-Bereich:** 90 bis 107
+- **Blöcke:** 856
 - **Bauteile:** `w119229736`, `w119229736_innen`
 
 **Teileliste**
@@ -49,6 +50,7 @@
 | Glatter Sandstein | `smooth_sandstone` | 624 |
 | Terrakotta | `terracotta` | 98 |
 | Polierter Tuffstein | `polished_tuff` | 92 |
+| Tuffstein | `tuff` | 38 |
 | Ziegelsteine | `bricks` | 3 |
 | Seelaterne | `sea_lantern` | 1 |
 

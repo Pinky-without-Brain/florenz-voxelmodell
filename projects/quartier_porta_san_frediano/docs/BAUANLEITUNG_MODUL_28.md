@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 385.928 |
+| Blöcke | 385.919 |
 | Bauschritte | 244 |
 | Y-Bereich | 52 bis 99 |
 | X-Ausdehnung | -3071 bis -2724 (348 Blöcke) |
 | Z-Ausdehnung | 576 bis 880 (305 Blöcke) |
 | Kleinster Schritt | 49 Blöcke (Schritt 28.214) |
 | Mittlerer Schritt | 1.582 Blöcke |
-| Größter Schritt | 2.091 Blöcke (Schritt 28.61) |
+| Größter Schritt | 2.090 Blöcke (Schritt 28.120) |
 
 ## Gesamt-Stückliste
 
@@ -26,15 +26,15 @@
 | Polierter Tuffstein | `polished_tuff` | 48.559 | 12,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 24.967 | 6,5 % |
 | Rosa Keramik | `pink_terracotta` | 23.040 | 6,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 22.741 | 5,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 22.708 | 5,9 % |
 | Endsteinziegel | `end_stone_bricks` | 14.839 | 3,8 % |
 | Graues Buntglas | `gray_stained_glass` | 11.807 | 3,1 % |
 | Polierter Andesit | `polished_andesite` | 6.873 | 1,8 % |
-| Glatter Stein | `smooth_stone` | 5.603 | 1,5 % |
+| Glatter Stein | `smooth_stone` | 5.601 | 1,5 % |
 | Grüner Beton | `green_concrete` | 5.239 | 1,4 % |
 | Ziegelsteine | `bricks` | 2.878 | 0,7 % |
-| Tuffstein | `tuff` | 2.722 | 0,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 2.529 | 0,7 % |
+| Tuffstein | `tuff` | 2.775 | 0,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.502 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 897 | 0,2 % |
 | Seelaterne | `sea_lantern` | 721 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 593 | 0,2 % |
@@ -67,11 +67,11 @@
 | 4 | `w118932401_innen` | Reihenhaus an Via Pisana: Innenausbau | 1.884 | 28.46 |
 | 5 | `w474363102` | Reihenhaus an Viale Ludovico Ariosto | 5.542 | 28.47–28.49 |
 | 6 | `w474363102_innen` | Reihenhaus an Viale Ludovico Ariosto: Innenausbau | 1.379 | 28.50 |
-| 7 | `w479776881` | Reihenhaus an Viale Ludovico Ariosto | 4.999 | 28.51–28.53 |
+| 7 | `w479776881` | Reihenhaus an Viale Ludovico Ariosto | 5.052 | 28.51–28.53 |
 | 8 | `w479776881_innen` | Reihenhaus an Viale Ludovico Ariosto: Innenausbau | 748 | 28.54 |
-| 9 | `w479776882` | Reihenhaus an Viale Ludovico Ariosto | 4.370 | 28.55–28.57 |
+| 9 | `w479776882` | Reihenhaus an Viale Ludovico Ariosto | 4.343 | 28.55–28.57 |
 | 10 | `w479776882_innen` | Reihenhaus an Viale Ludovico Ariosto: Innenausbau | 868 | 28.58 |
-| 11 | `w479776890` | Palazzo des Cinquecento an Viale Ludovico Ariosto | 7.925 | 28.59–28.62 |
+| 11 | `w479776890` | Palazzo des Cinquecento an Viale Ludovico Ariosto | 7.890 | 28.59–28.62 |
 | 12 | `w479776890_innen` | Palazzo des Cinquecento an Viale Ludovico Ariosto: Innenausbau | 1.894 | 28.63 |
 | 13 | `w485405132` | Palazzo des Cinquecento an Via Pisana | 9.847 | 28.64–28.69 |
 | 14 | `w485405132_innen` | Palazzo des Cinquecento an Via Pisana: Innenausbau | 2.462 | 28.70–28.71 |
@@ -1658,18 +1658,18 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 28.51 – Reihenhaus an Viale Ludovico Ariosto – Teil 1/3 (Y 55–66)
 
 - **Y-Bereich:** 55 bis 66
-- **Blöcke:** 1.719
+- **Blöcke:** 1.631
 - **Bauteile:** `w479776881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.259 |
+| Rosa Keramik | `pink_terracotta` | 1.139 |
 | Polierter Tuffstein | `polished_tuff` | 354 |
-| Weißer Beton | `white_concrete` | 74 |
+| Tuffstein | `tuff` | 58 |
+| Weißer Beton | `white_concrete` | 53 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
-| Tuffstein | `tuff` | 5 |
 
 **Beschreibung**
 
@@ -1687,18 +1687,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.52 – Reihenhaus an Viale Ludovico Ariosto – Teil 2/3 (Y 67–78)
+### Schritt 28.52 – Reihenhaus an Viale Ludovico Ariosto – Teil 2/3 (Y 67–79)
 
-- **Y-Bereich:** 67 bis 78
-- **Blöcke:** 1.644
+- **Y-Bereich:** 67 bis 79
+- **Blöcke:** 1.785
 - **Bauteile:** `w479776881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.395 |
-| Weißer Beton | `white_concrete` | 183 |
+| Rosa Keramik | `pink_terracotta` | 1.515 |
+| Weißer Beton | `white_concrete` | 204 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 
 **Beschreibung**
@@ -1717,9 +1717,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.53 – Reihenhaus an Viale Ludovico Ariosto – Teil 3/3 (Y 79–91)
+### Schritt 28.53 – Reihenhaus an Viale Ludovico Ariosto – Teil 3/3 (Y 80–92)
 
-- **Y-Bereich:** 79 bis 91
+- **Y-Bereich:** 80 bis 92
 - **Blöcke:** 1.636
 - **Bauteile:** `w479776881`
 
@@ -1751,7 +1751,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 28.54 – Reihenhaus an Viale Ludovico Ariosto: Innenausbau
 
-- **Y-Bereich:** 56 bis 80
+- **Y-Bereich:** 57 bis 81
 - **Blöcke:** 748
 - **Bauteile:** `w479776881_innen`
 
@@ -1856,14 +1856,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 28.57 – Reihenhaus an Viale Ludovico Ariosto – Teil 3/3 (Y 82–92)
 
 - **Y-Bereich:** 82 bis 92
-- **Blöcke:** 1.442
+- **Blöcke:** 1.415
 - **Bauteile:** `w479776882`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 732 |
+| Gelbe Keramik | `yellow_terracotta` | 705 |
 | Terrakotta | `terracotta` | 489 |
 | Polierter Andesit | `polished_andesite` | 120 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
@@ -1991,21 +1991,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.61 – Palazzo des Cinquecento an Viale Ludovico Ariosto – Teil 3/4 (Y 75–87)
+### Schritt 28.61 – Palazzo des Cinquecento an Viale Ludovico Ariosto – Teil 3/4 (Y 75–86)
 
-- **Y-Bereich:** 75 bis 87
-- **Blöcke:** 2.091
+- **Y-Bereich:** 75 bis 86
+- **Blöcke:** 1.835
 - **Bauteile:** `w479776890`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.260 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.063 |
 | Polierter Andesit | `polished_andesite` | 342 |
 | Graues Buntglas | `gray_stained_glass` | 182 |
 | Grüner Beton | `green_concrete` | 154 |
-| Glatter Stein | `smooth_stone` | 153 |
+| Glatter Stein | `smooth_stone` | 94 |
 
 **Beschreibung**
 
@@ -2023,10 +2023,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 28.62 – Palazzo des Cinquecento an Viale Ludovico Ariosto – Teil 4/4 (Y 88–97)
+### Schritt 28.62 – Palazzo des Cinquecento an Viale Ludovico Ariosto – Teil 4/4 (Y 87–97)
 
-- **Y-Bereich:** 88 bis 97
-- **Blöcke:** 1.856
+- **Y-Bereich:** 87 bis 97
+- **Blöcke:** 2.077
 - **Bauteile:** `w479776890`
 
 **Teileliste**
@@ -2034,8 +2034,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.411 |
-| Hellgrauer Beton | `light_gray_concrete` | 197 |
-| Glatter Stein | `smooth_stone` | 137 |
+| Hellgrauer Beton | `light_gray_concrete` | 361 |
+| Glatter Stein | `smooth_stone` | 194 |
 | Ziegelsteine | `bricks` | 111 |
 
 **Beschreibung**

@@ -8,42 +8,42 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 391.190 |
+| Blöcke | 391.372 |
 | Bauschritte | 244 |
 | Y-Bereich | 58 bis 107 |
 | X-Ausdehnung | -1141 bis -890 (252 Blöcke) |
 | Z-Ausdehnung | 393 bis 650 (258 Blöcke) |
 | Kleinster Schritt | 504 Blöcke (Schritt 7.116) |
-| Mittlerer Schritt | 1.603 Blöcke |
+| Mittlerer Schritt | 1.604 Blöcke |
 | Größter Schritt | 2.093 Blöcke (Schritt 7.26) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 127.158 | 32,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 39.129 | 10,0 % |
-| Polierter Tuffstein | `polished_tuff` | 38.504 | 9,8 % |
+| Terrakotta | `terracotta` | 127.156 | 32,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 39.131 | 10,0 % |
+| Polierter Tuffstein | `polished_tuff` | 38.505 | 9,8 % |
 | Orange Keramik | `orange_terracotta` | 24.566 | 6,3 % |
-| Weißer Beton | `white_concrete` | 24.088 | 6,2 % |
-| Tuffstein | `tuff` | 22.354 | 5,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 21.028 | 5,4 % |
-| Rosa Keramik | `pink_terracotta` | 18.827 | 4,8 % |
+| Weißer Beton | `white_concrete` | 24.105 | 6,2 % |
+| Tuffstein | `tuff` | 22.453 | 5,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 21.050 | 5,4 % |
+| Rosa Keramik | `pink_terracotta` | 18.861 | 4,8 % |
 | Endsteinziegel | `end_stone_bricks` | 18.507 | 4,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 13.390 | 3,4 % |
 | Polierter Andesit | `polished_andesite` | 11.107 | 2,8 % |
-| Glatter Stein | `smooth_stone` | 10.288 | 2,6 % |
+| Glatter Stein | `smooth_stone` | 10.300 | 2,6 % |
 | Graues Buntglas | `gray_stained_glass` | 8.685 | 2,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.968 | 0,8 % |
 | Ziegelsteine | `bricks` | 2.474 | 0,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.701 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.665 | 0,4 % |
 | Grüner Beton | `green_concrete` | 844 | 0,2 % |
-| Seelaterne | `sea_lantern` | 749 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 616 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 566 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 564 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 520 | 0,1 % |
+| Seelaterne | `sea_lantern` | 746 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 593 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 587 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 545 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 541 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 290 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 290 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 76 | 0,0 % |
@@ -76,7 +76,7 @@
 | 8 | `w307174620_innen` | Reihenhaus an Via del Purgatorio: Innenausbau | 2.093 | 7.26 |
 | 9 | `w307174621` | Palazzo Strozzi del Poeta | 9.051 | 7.27–7.31 |
 | 10 | `w307174621_innen` | Palazzo Strozzi del Poeta: Innenausbau | 2.798 | 7.32–7.33 |
-| 11 | `w307174624` | Palazzo Gherardi Uguccioni | 14.127 | 7.34–7.41 |
+| 11 | `w307174624` | Palazzo Gherardi Uguccioni | 14.168 | 7.34–7.41 |
 | 12 | `w307174624_innen` | Palazzo Gherardi Uguccioni: Innenausbau | 4.548 | 7.42–7.45 |
 | 13 | `w307174628` | Palazzo Minerbetti | 18.961 | 7.46–7.56 |
 | 14 | `w307174628_innen` | Palazzo Minerbetti: Innenausbau | 6.248 | 7.57–7.60 |
@@ -88,8 +88,8 @@
 | 20 | `w463879819_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.973 | 7.80 |
 | 21 | `w463879827` | Reihenhaus an Via del Limbo | 6.440 | 7.81–7.84 |
 | 22 | `w463879827_innen` | Reihenhaus an Via del Limbo: Innenausbau | 1.379 | 7.85 |
-| 23 | `w463879832` | Palazzo des Cinquecento an Via dell'Inferno | 9.528 | 7.86–7.90 |
-| 24 | `w463879832_innen` | Palazzo des Cinquecento an Via dell'Inferno: Innenausbau | 2.219 | 7.91–7.92 |
+| 23 | `w463879832` | Palazzo des Cinquecento an Via dell'Inferno | 9.551 | 7.86–7.90 |
+| 24 | `w463879832_innen` | Palazzo des Cinquecento an Via dell'Inferno: Innenausbau | 2.218 | 7.91–7.92 |
 | 25 | `w463879833` | Reihenhaus an Via dell'Inferno | 3.389 | 7.93–7.94 |
 | 26 | `w463879833_innen` | Reihenhaus an Via dell'Inferno: Innenausbau | 715 | 7.95 |
 | 27 | `w463879835` | Reihenhaus an Via del Limbo | 7.519 | 7.96–7.99 |
@@ -100,7 +100,7 @@
 | 32 | `w463879847_innen` | Reihenhaus an Via del Parione: Innenausbau | 1.465 | 7.109 |
 | 33 | `w463879849` | Reihenhaus an Via del Parione | 4.593 | 7.110–7.112 |
 | 34 | `w463879849_innen` | Reihenhaus an Via del Parione: Innenausbau | 919 | 7.113 |
-| 35 | `w463879851` | Reihenhaus an Via dell'Inferno | 3.162 | 7.114–7.115 |
+| 35 | `w463879851` | Reihenhaus an Via dell'Inferno | 3.227 | 7.114–7.115 |
 | 36 | `w463879851_innen` | Reihenhaus an Via dell'Inferno: Innenausbau | 504 | 7.116 |
 | 37 | `w463879854` | Reihenhaus an Via dell'Inferno | 7.411 | 7.117–7.120 |
 | 38 | `w463879854_innen` | Reihenhaus an Via dell'Inferno: Innenausbau | 2.105 | 7.121–7.122 |
@@ -130,7 +130,7 @@
 | 62 | `w463879877_innen` | Reihenhaus an Via dell'Inferno: Innenausbau | 1.036 | 7.174 |
 | 63 | `w463879880` | Reihenhaus an Via dell'Inferno | 1.764 | 7.175 |
 | 64 | `w463879880_innen` | Reihenhaus an Via dell'Inferno: Innenausbau | 796 | 7.176 |
-| 65 | `w463879882` | Reihenhaus an Via dell'Inferno | 6.618 | 7.177–7.180 |
+| 65 | `w463879882` | Reihenhaus an Via dell'Inferno | 6.652 | 7.177–7.180 |
 | 66 | `w463879882_innen` | Reihenhaus an Via dell'Inferno: Innenausbau | 2.080 | 7.181 |
 | 67 | `w463879883` | Reihenhaus an Via del Purgatorio | 8.373 | 7.182–7.186 |
 | 68 | `w463879883_innen` | Reihenhaus an Via del Purgatorio: Innenausbau | 2.324 | 7.187–7.188 |
@@ -140,7 +140,7 @@
 | 72 | `w463879886_innen` | Reihenhaus an Via del Parione: Innenausbau | 1.528 | 7.199 |
 | 73 | `w463879888` | Reihenhaus an Via della Vigna Nuova | 3.905 | 7.200–7.201 |
 | 74 | `w463879888_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.274 | 7.202 |
-| 75 | `w463879890` | Reihenhaus an Via dell'Inferno | 3.678 | 7.203–7.204 |
+| 75 | `w463879890` | Reihenhaus an Via dell'Inferno | 3.696 | 7.203–7.204 |
 | 76 | `w463879890_innen` | Reihenhaus an Via dell'Inferno: Innenausbau | 796 | 7.205 |
 | 77 | `w463879892` | Reihenhaus an Via del Parione | 2.293 | 7.206–7.207 |
 | 78 | `w463879892_innen` | Reihenhaus an Via del Parione: Innenausbau | 1.259 | 7.208 |
@@ -160,7 +160,7 @@
 | 92 | `w463879907_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 2.053 | 7.230 |
 | 93 | `w463879912` | Reihenhaus an Via del Purgatorio | 2.530 | 7.231–7.232 |
 | 94 | `w463879912_innen` | Reihenhaus an Via del Purgatorio: Innenausbau | 731 | 7.233 |
-| 95 | `w463879916` | Reihenhaus an Via dei Tornabuoni | 6.636 | 7.234–7.237 |
+| 95 | `w463879916` | Reihenhaus an Via dei Tornabuoni | 6.638 | 7.234–7.237 |
 | 96 | `w463879916_innen` | Reihenhaus an Via dei Tornabuoni: Innenausbau | 3.933 | 7.238–7.239 |
 | 97 | `w463879919` | Reihenhaus an Via dell'Inferno | 5.392 | 7.240–7.242 |
 | 98 | `w463879919_innen` | Reihenhaus an Via dell'Inferno: Innenausbau | 2.156 | 7.243–7.244 |
@@ -1278,9 +1278,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.34 – Palazzo Gherardi Uguccioni – Teil 1/8 (Y 63–63)
+### Schritt 7.34 – Palazzo Gherardi Uguccioni – Teil 1/8 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.217
 - **Bauteile:** `w307174624`
 
@@ -1306,9 +1306,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.35 – Palazzo Gherardi Uguccioni – Teil 2/8 (Y 63–66)
+### Schritt 7.35 – Palazzo Gherardi Uguccioni – Teil 2/8 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.959
 - **Bauteile:** `w307174624`
 
@@ -1337,9 +1337,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.36 – Palazzo Gherardi Uguccioni – Teil 3/8 (Y 67–74)
+### Schritt 7.36 – Palazzo Gherardi Uguccioni – Teil 3/8 (Y 68–75)
 
-- **Y-Bereich:** 67 bis 74
+- **Y-Bereich:** 68 bis 75
 - **Blöcke:** 1.926
 - **Bauteile:** `w307174624`
 
@@ -1369,9 +1369,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.37 – Palazzo Gherardi Uguccioni – Teil 4/8 (Y 75–82)
+### Schritt 7.37 – Palazzo Gherardi Uguccioni – Teil 4/8 (Y 76–83)
 
-- **Y-Bereich:** 75 bis 82
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 2.049
 - **Bauteile:** `w307174624`
 
@@ -1400,9 +1400,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.38 – Palazzo Gherardi Uguccioni – Teil 5/8 (Y 83–88)
+### Schritt 7.38 – Palazzo Gherardi Uguccioni – Teil 5/8 (Y 84–89)
 
-- **Y-Bereich:** 83 bis 88
+- **Y-Bereich:** 84 bis 89
 - **Blöcke:** 1.611
 - **Bauteile:** `w307174624`
 
@@ -1431,18 +1431,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.39 – Palazzo Gherardi Uguccioni – Teil 6/8 (Y 89–93)
+### Schritt 7.39 – Palazzo Gherardi Uguccioni – Teil 6/8 (Y 90–94)
 
-- **Y-Bereich:** 89 bis 93
-- **Blöcke:** 1.742
+- **Y-Bereich:** 90 bis 94
+- **Blöcke:** 1.783
 - **Bauteile:** `w307174624`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 839 |
-| Glatter Stein | `smooth_stone` | 428 |
+| Tuffstein | `tuff` | 873 |
+| Glatter Stein | `smooth_stone` | 435 |
 | Polierter Andesit | `polished_andesite` | 415 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
 
@@ -1462,9 +1462,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.40 – Palazzo Gherardi Uguccioni – Teil 7/8 (Y 94–96)
+### Schritt 7.40 – Palazzo Gherardi Uguccioni – Teil 7/8 (Y 95–97)
 
-- **Y-Bereich:** 94 bis 96
+- **Y-Bereich:** 95 bis 97
 - **Blöcke:** 1.995
 - **Bauteile:** `w307174624`
 
@@ -1490,9 +1490,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.41 – Palazzo Gherardi Uguccioni – Teil 8/8 (Y 97–104)
+### Schritt 7.41 – Palazzo Gherardi Uguccioni – Teil 8/8 (Y 98–105)
 
-- **Y-Bereich:** 97 bis 104
+- **Y-Bereich:** 98 bis 105
 - **Blöcke:** 1.628
 - **Bauteile:** `w307174624`
 
@@ -1519,9 +1519,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.42 – Palazzo Gherardi Uguccioni: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 7.42 – Palazzo Gherardi Uguccioni: Innenausbau – Teil 1/4 (Y 64–75)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.148
 - **Bauteile:** `w307174624_innen`
 
@@ -1561,9 +1561,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.43 – Palazzo Gherardi Uguccioni: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 7.43 – Palazzo Gherardi Uguccioni: Innenausbau – Teil 2/4 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.128
 - **Bauteile:** `w307174624_innen`
 
@@ -1590,9 +1590,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.44 – Palazzo Gherardi Uguccioni: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 7.44 – Palazzo Gherardi Uguccioni: Innenausbau – Teil 3/4 (Y 76–84)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.135
 - **Bauteile:** `w307174624_innen`
 
@@ -1634,9 +1634,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.45 – Palazzo Gherardi Uguccioni: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 7.45 – Palazzo Gherardi Uguccioni: Innenausbau – Teil 4/4 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.137
 - **Bauteile:** `w307174624_innen`
 
@@ -2996,15 +2996,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.86 – Palazzo des Cinquecento an Via dell'Inferno – Teil 1/5 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.944
+- **Blöcke:** 1.967
 - **Bauteile:** `w463879832`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.271 |
-| Glatter Sandstein | `smooth_sandstone` | 528 |
+| Polierter Tuffstein | `polished_tuff` | 1.272 |
+| Glatter Sandstein | `smooth_sandstone` | 550 |
 | Weißer Beton | `white_concrete` | 130 |
 | Glatter Stein | `smooth_stone` | 6 |
 | Polierter Andesit | `polished_andesite` | 5 |
@@ -3093,7 +3093,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.89 – Palazzo des Cinquecento an Via dell'Inferno – Teil 4/5 (Y 85–93)
 
 - **Y-Bereich:** 85 bis 93
-- **Blöcke:** 2.069
+- **Blöcke:** 2.074
 - **Bauteile:** `w463879832`
 
 **Teileliste**
@@ -3102,7 +3102,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.401 |
 | Weißer Beton | `white_concrete` | 341 |
-| Glatter Stein | `smooth_stone` | 197 |
+| Glatter Stein | `smooth_stone` | 202 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 
 **Beschreibung**
@@ -3124,14 +3124,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.90 – Palazzo des Cinquecento an Via dell'Inferno – Teil 5/5 (Y 94–101)
 
 - **Y-Bereich:** 94 bis 101
-- **Blöcke:** 1.840
+- **Blöcke:** 1.835
 - **Bauteile:** `w463879832`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.702 |
+| Terrakotta | `terracotta` | 1.697 |
 | Ziegelsteine | `bricks` | 138 |
 
 **Beschreibung**
@@ -3153,16 +3153,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.91 – Palazzo des Cinquecento an Via dell'Inferno: Innenausbau – Teil 1/2 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.105
+- **Blöcke:** 1.104
 - **Bauteile:** `w463879832_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.044 |
+| Terrakotta | `terracotta` | 1.045 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 10 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -3202,13 +3202,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.044 |
+| Terrakotta | `terracotta` | 1.045 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
-| Seelaterne | `sea_lantern` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Seelaterne | `sea_lantern` | 5 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
@@ -3951,18 +3951,18 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.114 – Reihenhaus an Via dell'Inferno – Teil 1/2 (Y 63–80)
 
 - **Y-Bereich:** 63 bis 80
-- **Blöcke:** 1.609
+- **Blöcke:** 1.585
 - **Bauteile:** `w463879851`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.176 |
+| Orange Keramik | `orange_terracotta` | 1.087 |
 | Polierter Tuffstein | `polished_tuff` | 220 |
 | Weißer Beton | `white_concrete` | 120 |
+| Tuffstein | `tuff` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 43 |
-| Tuffstein | `tuff` | 31 |
 | Grüner Beton | `green_concrete` | 12 |
 | Polierter Andesit | `polished_andesite` | 7 |
 
@@ -3982,17 +3982,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.115 – Reihenhaus an Via dell'Inferno – Teil 2/2 (Y 81–100)
+### Schritt 7.115 – Reihenhaus an Via dell'Inferno – Teil 2/2 (Y 81–101)
 
-- **Y-Bereich:** 81 bis 100
-- **Blöcke:** 1.553
+- **Y-Bereich:** 81 bis 101
+- **Blöcke:** 1.642
 - **Bauteile:** `w463879851`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.028 |
+| Orange Keramik | `orange_terracotta` | 1.117 |
 | Terrakotta | `terracotta` | 284 |
 | Weißer Beton | `white_concrete` | 162 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
@@ -4017,7 +4017,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.116 – Reihenhaus an Via dell'Inferno: Innenausbau
 
-- **Y-Bereich:** 64 bis 88
+- **Y-Bereich:** 65 bis 89
 - **Blöcke:** 504
 - **Bauteile:** `w463879851_innen`
 
@@ -6096,7 +6096,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.177 – Reihenhaus an Via dell'Inferno – Teil 1/4 (Y 63–68)
 
 - **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.587
+- **Blöcke:** 1.621
 - **Bauteile:** `w463879882`
 
 **Teileliste**
@@ -6104,7 +6104,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 816 |
-| Rosa Keramik | `pink_terracotta` | 642 |
+| Rosa Keramik | `pink_terracotta` | 676 |
 | Weißer Beton | `white_concrete` | 78 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Glatter Stein | `smooth_stone` | 15 |
@@ -6230,13 +6230,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.920 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
 | Seelaterne | `sea_lantern` | 20 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -6975,14 +6975,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.203 – Reihenhaus an Via dell'Inferno – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
-- **Blöcke:** 1.841
+- **Blöcke:** 1.858
 - **Bauteile:** `w463879890`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.166 |
+| Weißer Beton | `white_concrete` | 1.183 |
 | Polierter Tuffstein | `polished_tuff` | 323 |
 | Glatter Stein | `smooth_stone` | 250 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
@@ -7006,7 +7006,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.204 – Reihenhaus an Via dell'Inferno – Teil 2/2 (Y 79–96)
 
 - **Y-Bereich:** 79 bis 96
-- **Blöcke:** 1.837
+- **Blöcke:** 1.838
 - **Bauteile:** `w463879890`
 
 **Teileliste**
@@ -7014,7 +7014,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.043 |
-| Terrakotta | `terracotta` | 415 |
+| Terrakotta | `terracotta` | 416 |
 | Glatter Stein | `smooth_stone` | 248 |
 | Graues Buntglas | `gray_stained_glass` | 111 |
 | Ziegelsteine | `bricks` | 20 |
@@ -8071,10 +8071,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.234 – Reihenhaus an Via dei Tornabuoni – Teil 1/4 (Y 63–70)
+### Schritt 7.234 – Reihenhaus an Via dei Tornabuoni – Teil 1/4 (Y 63–69)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.708
+- **Y-Bereich:** 63 bis 69
+- **Blöcke:** 1.638
 - **Bauteile:** `w463879916`
 
 **Teileliste**
@@ -8082,10 +8082,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.050 |
-| Hellgrauer Beton | `light_gray_concrete` | 521 |
-| Weißer Beton | `white_concrete` | 72 |
+| Hellgrauer Beton | `light_gray_concrete` | 479 |
+| Weißer Beton | `white_concrete` | 51 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 19 |
 | Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
@@ -8104,9 +8104,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.235 – Reihenhaus an Via dei Tornabuoni – Teil 2/4 (Y 71–86)
+### Schritt 7.235 – Reihenhaus an Via dei Tornabuoni – Teil 2/4 (Y 70–85)
 
-- **Y-Bereich:** 71 bis 86
+- **Y-Bereich:** 70 bis 85
 - **Blöcke:** 1.634
 - **Bauteile:** `w463879916`
 
@@ -8114,10 +8114,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.296 |
-| Weißer Beton | `white_concrete` | 248 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.268 |
+| Weißer Beton | `white_concrete` | 269 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Grüner Beton | `green_concrete` | 12 |
+| Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
 
@@ -8135,17 +8136,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.236 – Reihenhaus an Via dei Tornabuoni – Teil 3/4 (Y 87–99)
+### Schritt 7.236 – Reihenhaus an Via dei Tornabuoni – Teil 3/4 (Y 86–99)
 
-- **Y-Bereich:** 87 bis 99
-- **Blöcke:** 1.664
+- **Y-Bereich:** 86 bis 99
+- **Blöcke:** 1.736
 - **Bauteile:** `w463879916`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.326 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.398 |
 | Weißer Beton | `white_concrete` | 248 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Grüner Beton | `green_concrete` | 12 |

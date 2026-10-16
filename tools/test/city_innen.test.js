@@ -111,13 +111,23 @@ test('Ladenbögen: Ladentür im mittleren Bogen, Theke im Erdgeschoss', () => {
   assert.equal(begehbar(grid, plan).komponenten.length, 0);
 });
 
-test('Straße 2 Blöcke tiefer: Eingangsstufen in der Türlaibung, Haus erreichbar', () => {
+test('Straße 1 Block tiefer: Boden liegt eine Lage über der Straße, Haus ohne Stufen erreichbar', () => {
   const g = gebaeude('w104', ringRect(0, 0, 22, 14), 23);
   const a = akte(g, { fassade: { erdgeschoss: { art: 'portal_mittig', fenster: 'rechteck' } } });
-  // Gelände innerhalb des Grundrisses 62 (eine Ecke 63 = Hausboden), außen 61
-  const ground = (x, z) => (x >= 0 && x <= 22 && z >= 0 && z <= 14 ? (x === 22 && z === 14 ? 63 : 62) : 61);
+  // Gelände im Grundriss 62, außen 61: der Boden liegt nie unter dem Gelände im Grundriss (Boden 62)
+  const ground = (x, z) => (x >= 0 && x <= 22 && z >= 0 && z <= 14 ? 62 : 61);
   const { grid, plan } = baue(g, a, ground);
-  assert.ok(plan.eingang.stufen.size >= 3, 'Stufen gesetzt');
+  assert.equal(plan.boden, 62);
+  const r = begehbar(grid, plan, ground);
+  assert.equal(r.komponenten.length, 0, JSON.stringify(r.komponenten.slice(0, 1)));
+});
+
+test('Eingangsstufen: Grundriss fällt zur Tür hin ab, Stufen in der Türlaibung, Haus erreichbar', () => {
+  const g = gebaeude('w106', ringRect(0, 0, 22, 14), 23);
+  const a = akte(g, { fassade: { erdgeschoss: { art: 'portal_mittig', fenster: 'rechteck' } } });
+  // Umfeld 64, im Grundriss 61 (Senke): Boden = höchstes Gelände im Grundriss (Median des Umfelds begrenzt), Stufen bis zur Platte
+  const ground = (x, z) => (x >= 0 && x <= 22 && z >= 0 && z <= 14 ? (x >= 20 && z >= 12 ? 64 : 61) : 61);
+  const { grid, plan } = baue(g, a, ground);
   for (const [k, typ] of plan.eingang.stufen) {
     const [x, y, z] = k.split(',').map(Number);
     assert.equal(grid.get(x, y, z).type, typ);

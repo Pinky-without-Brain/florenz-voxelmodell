@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 113.322 |
+| Blöcke | 113.380 |
 | Bauschritte | 74 |
 | Y-Bereich | 57 bis 101 |
 | X-Ausdehnung | -1412 bis -1234 (179 Blöcke) |
 | Z-Ausdehnung | 325 bis 505 (181 Blöcke) |
 | Kleinster Schritt | 472 Blöcke (Schritt 12.7) |
-| Mittlerer Schritt | 1.531 Blöcke |
+| Mittlerer Schritt | 1.532 Blöcke |
 | Größter Schritt | 2.056 Blöcke (Schritt 12.14) |
 
 ## Gesamt-Stückliste
@@ -22,14 +22,14 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 28.250 | 24,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 14.720 | 13,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 14.749 | 13,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 11.556 | 10,2 % |
 | Endsteinziegel | `end_stone_bricks` | 11.285 | 10,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 10.572 | 9,3 % |
-| Polierter Tuffstein | `polished_tuff` | 10.491 | 9,3 % |
+| Polierter Tuffstein | `polished_tuff` | 10.492 | 9,3 % |
 | Weißer Beton | `white_concrete` | 4.535 | 4,0 % |
-| Orange Keramik | `orange_terracotta` | 4.506 | 4,0 % |
-| Tuffstein | `tuff` | 3.798 | 3,4 % |
+| Orange Keramik | `orange_terracotta` | 4.534 | 4,0 % |
+| Tuffstein | `tuff` | 3.799 | 3,4 % |
 | Rosa Keramik | `pink_terracotta` | 3.363 | 3,0 % |
 | Glatter Stein | `smooth_stone` | 2.772 | 2,4 % |
 | Polierter Andesit | `polished_andesite` | 2.746 | 2,4 % |
@@ -38,7 +38,7 @@
 | Ziegelsteine | `bricks` | 448 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 437 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 278 | 0,2 % |
-| Seelaterne | `sea_lantern` | 204 | 0,2 % |
+| Seelaterne | `sea_lantern` | 203 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 196 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 180 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 176 | 0,2 % |
@@ -98,11 +98,11 @@
 | 32 | `w477522230_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.685 | 12.63 |
 | 33 | `w477522232` | Reihenhaus an Via dei Federighi | 1.434 | 12.64 |
 | 34 | `w477522232_innen` | Reihenhaus an Via dei Federighi: Innenausbau | 838 | 12.65 |
-| 35 | `w477522234` | Reihenhaus an Via del Moro | 1.988 | 12.66 |
-| 36 | `w477522234_innen` | Reihenhaus an Via del Moro: Innenausbau | 2 | 12.67 |
+| 35 | `w477522234` | Reihenhaus an Via del Moro | 2.018 | 12.66 |
+| 36 | `w477522234_innen` | Reihenhaus an Via del Moro: Innenausbau | 1 | 12.67 |
 | 37 | `w477522235` | Palazzo des Ottocento an Via dei Federighi | 8.727 | 12.67–12.71 |
 | 38 | `w477522235_innen` | Palazzo des Ottocento an Via dei Federighi: Innenausbau | 1.886 | 12.72 |
-| 39 | `w477522245` | Reihenhaus an Via del Moro | 1.887 | 12.73 |
+| 39 | `w477522245` | Reihenhaus an Via del Moro | 1.916 | 12.73 |
 | 40 | `w477522245_innen` | Reihenhaus an Via del Moro: Innenausbau | 748 | 12.74 |
 | 41 | `strassenschilder` | Straßenschilder | 9 | 12.74 |
 
@@ -2298,21 +2298,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 12.66 – Reihenhaus an Via del Moro
 
-- **Y-Bereich:** 61 bis 96
-- **Blöcke:** 1.988
+- **Y-Bereich:** 61 bis 97
+- **Blöcke:** 2.018
 - **Bauteile:** `w477522234`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.539 |
+| Orange Keramik | `orange_terracotta` | 1.567 |
 | Terrakotta | `terracotta` | 183 |
-| Polierter Tuffstein | `polished_tuff` | 167 |
+| Polierter Tuffstein | `polished_tuff` | 168 |
 | Weißer Beton | `white_concrete` | 69 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 | Ziegelsteine | `bricks` | 3 |
+| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 
@@ -2333,7 +2334,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 12.67 – Reihenhaus an Via del Moro: Innenausbau & Palazzo des Ottocento an Via dei Federighi – Teil 1/5 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.725
+- **Blöcke:** 1.724
 - **Bauteile:** `w477522234_innen`, `w477522235`
 
 **Teileliste**
@@ -2346,7 +2347,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Polierter Andesit | `polished_andesite` | 10 |
 | Glatter Stein | `smooth_stone` | 9 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
-| Seelaterne | `sea_lantern` | 2 |
+| Seelaterne | `sea_lantern` | 1 |
 
 **Beschreibung**
 
@@ -2539,14 +2540,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 12.73 – Reihenhaus an Via del Moro
 
 - **Y-Bereich:** 60 bis 95
-- **Blöcke:** 1.887
+- **Blöcke:** 1.916
 - **Bauteile:** `w477522245`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.220 |
+| Gelbe Keramik | `yellow_terracotta` | 1.249 |
 | Terrakotta | `terracotta` | 295 |
 | Polierter Tuffstein | `polished_tuff` | 262 |
 | Weißer Beton | `white_concrete` | 66 |

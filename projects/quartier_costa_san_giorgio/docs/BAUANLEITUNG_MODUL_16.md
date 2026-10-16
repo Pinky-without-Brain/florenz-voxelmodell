@@ -8,29 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.473 |
-| Bauschritte | 7 |
-| Y-Bereich | 180 bis 220 |
+| Blöcke | 12.289 |
+| Bauschritte | 8 |
+| Y-Bereich | 181 bis 226 |
 | X-Ausdehnung | -304 bis -255 (50 Blöcke) |
 | Z-Ausdehnung | 2258 bis 2286 (29 Blöcke) |
-| Kleinster Schritt | 510 Blöcke (Schritt 16.7) |
-| Mittlerer Schritt | 1.496 Blöcke |
-| Größter Schritt | 2.022 Blöcke (Schritt 16.3) |
+| Kleinster Schritt | 510 Blöcke (Schritt 16.8) |
+| Mittlerer Schritt | 1.536 Blöcke |
+| Größter Schritt | 1.895 Blöcke (Schritt 16.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 5.953 | 56,8 % |
-| Terrakotta | `terracotta` | 1.743 | 16,6 % |
-| Weißer Beton | `white_concrete` | 1.125 | 10,7 % |
-| Polierter Tuffstein | `polished_tuff` | 586 | 5,6 % |
-| Graues Buntglas | `gray_stained_glass` | 344 | 3,3 % |
-| Tuffstein | `tuff` | 263 | 2,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 130 | 1,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 111 | 1,1 % |
-| Glatter Stein | `smooth_stone` | 49 | 0,5 % |
-| Ziegelsteine | `bricks` | 28 | 0,3 % |
+| Endsteinziegel | `end_stone_bricks` | 5.998 | 48,8 % |
+| Tuffstein | `tuff` | 2.034 | 16,6 % |
+| Terrakotta | `terracotta` | 1.743 | 14,2 % |
+| Weißer Beton | `white_concrete` | 1.125 | 9,2 % |
+| Polierter Tuffstein | `polished_tuff` | 586 | 4,8 % |
+| Graues Buntglas | `gray_stained_glass` | 344 | 2,8 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 130 | 1,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 111 | 0,9 % |
+| Glatter Stein | `smooth_stone` | 49 | 0,4 % |
+| Ziegelsteine | `bricks` | 28 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,2 % |
@@ -50,27 +50,54 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w707346987` | Reihenhaus an Costa San Giorgio | 5.882 | 16.1–16.3 |
-| 2 | `w707346987_innen` | Reihenhaus an Costa San Giorgio: Innenausbau | 681 | 16.4 |
-| 3 | `w707346991` | Porta San Giorgio | 3.400 | 16.5–16.6 |
-| 4 | `w707346991_innen` | Porta San Giorgio: Innenausbau | 510 | 16.7 |
+| 1 | `w707346987` | Reihenhaus an Costa San Giorgio | 7.359 | 16.1–16.4 |
+| 2 | `w707346987_innen` | Reihenhaus an Costa San Giorgio: Innenausbau | 681 | 16.5 |
+| 3 | `w707346991` | Porta San Giorgio | 3.739 | 16.6–16.7 |
+| 4 | `w707346991_innen` | Porta San Giorgio: Innenausbau | 510 | 16.8 |
 
 ## Bauschritte
 
-### Schritt 16.1 – Reihenhaus an Costa San Giorgio – Teil 1/3 (Y 181–194)
+### Schritt 16.1 – Reihenhaus an Costa San Giorgio – Teil 1/4 (Y 181–190)
 
-- **Y-Bereich:** 181 bis 194
-- **Blöcke:** 1.994
+- **Y-Bereich:** 181 bis 190
+- **Blöcke:** 1.740
 - **Bauteile:** `w707346987`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.152 |
+| Tuffstein | `tuff` | 1.740 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 16.2 – Reihenhaus an Costa San Giorgio – Teil 2/4 (Y 191–201)
+
+- **Y-Bereich:** 191 bis 201
+- **Blöcke:** 1.895
+- **Bauteile:** `w707346987`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.274 |
 | Polierter Tuffstein | `polished_tuff` | 353 |
-| Tuffstein | `tuff` | 263 |
-| Weißer Beton | `white_concrete` | 128 |
+| Weißer Beton | `white_concrete` | 170 |
 | Graues Buntglas | `gray_stained_glass` | 44 |
 | Glatter Stein | `smooth_stone` | 29 |
 | Polierter Andesit | `polished_andesite` | 19 |
@@ -92,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.2 – Reihenhaus an Costa San Giorgio – Teil 2/3 (Y 195–206)
+### Schritt 16.3 – Reihenhaus an Costa San Giorgio – Teil 3/4 (Y 202–213)
 
-- **Y-Bereich:** 195 bis 206
+- **Y-Bereich:** 202 bis 213
 - **Blöcke:** 1.866
 - **Bauteile:** `w707346987`
 
@@ -102,8 +129,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.375 |
-| Weißer Beton | `white_concrete` | 353 |
+| Endsteinziegel | `end_stone_bricks` | 1.358 |
+| Weißer Beton | `white_concrete` | 370 |
 | Graues Buntglas | `gray_stained_glass` | 126 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
 
@@ -123,19 +150,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.3 – Reihenhaus an Costa San Giorgio – Teil 3/3 (Y 207–220)
+### Schritt 16.4 – Reihenhaus an Costa San Giorgio – Teil 4/4 (Y 214–226)
 
-- **Y-Bereich:** 207 bis 220
-- **Blöcke:** 2.022
+- **Y-Bereich:** 214 bis 226
+- **Blöcke:** 1.858
 - **Bauteile:** `w707346987`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.254 |
+| Endsteinziegel | `end_stone_bricks` | 1.149 |
 | Terrakotta | `terracotta` | 464 |
-| Weißer Beton | `white_concrete` | 244 |
+| Weißer Beton | `white_concrete` | 185 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 | Ziegelsteine | `bricks` | 14 |
 | Fichtenholz-Bretter | `spruce_planks` | 4 |
@@ -156,9 +183,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.4 – Reihenhaus an Costa San Giorgio: Innenausbau
+### Schritt 16.5 – Reihenhaus an Costa San Giorgio: Innenausbau
 
-- **Y-Bereich:** 185 bis 209
+- **Y-Bereich:** 191 bis 215
 - **Blöcke:** 681
 - **Bauteile:** `w707346987_innen`
 
@@ -196,19 +223,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.5 – Porta San Giorgio – Teil 1/2 (Y 180–196)
+### Schritt 16.6 – Porta San Giorgio – Teil 1/2 (Y 181–197)
 
-- **Y-Bereich:** 180 bis 196
-- **Blöcke:** 1.717
+- **Y-Bereich:** 181 bis 197
+- **Blöcke:** 1.870
 - **Bauteile:** `w707346991`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.220 |
+| Endsteinziegel | `end_stone_bricks` | 1.103 |
+| Tuffstein | `tuff` | 294 |
 | Polierter Tuffstein | `polished_tuff` | 233 |
-| Weißer Beton | `white_concrete` | 184 |
+| Weißer Beton | `white_concrete` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
 | Glatter Stein | `smooth_stone` | 20 |
 
@@ -228,19 +256,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.6 – Porta San Giorgio – Teil 2/2 (Y 197–215)
+### Schritt 16.7 – Porta San Giorgio – Teil 2/2 (Y 198–218)
 
-- **Y-Bereich:** 197 bis 215
-- **Blöcke:** 1.683
+- **Y-Bereich:** 198 bis 218
+- **Blöcke:** 1.869
 - **Bauteile:** `w707346991`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 952 |
+| Endsteinziegel | `end_stone_bricks` | 1.114 |
 | Terrakotta | `terracotta` | 340 |
-| Weißer Beton | `white_concrete` | 216 |
+| Weißer Beton | `white_concrete` | 240 |
 | Fichtenholz-Bretter | `spruce_planks` | 89 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Ziegelsteine | `bricks` | 14 |
@@ -261,9 +289,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.7 – Porta San Giorgio: Innenausbau
+### Schritt 16.8 – Porta San Giorgio: Innenausbau
 
-- **Y-Bereich:** 180 bis 203
+- **Y-Bereich:** 183 bis 206
 - **Blöcke:** 510
 - **Bauteile:** `w707346991_innen`
 

@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 170.391 |
+| Blöcke | 170.549 |
 | Bauschritte | 110 |
-| Y-Bereich | 52 bis 116 |
+| Y-Bereich | 53 bis 116 |
 | X-Ausdehnung | -2980 bis -2720 (261 Blöcke) |
 | Z-Ausdehnung | -846 bis -597 (250 Blöcke) |
 | Kleinster Schritt | 766 Blöcke (Schritt 12.11) |
-| Mittlerer Schritt | 1.549 Blöcke |
+| Mittlerer Schritt | 1.550 Blöcke |
 | Größter Schritt | 2.078 Blöcke (Schritt 12.28) |
 
 ## Gesamt-Stückliste
@@ -22,12 +22,12 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 48.524 | 28,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 29.581 | 17,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 23.164 | 13,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 29.550 | 17,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 23.130 | 13,6 % |
 | Polierter Tuffstein | `polished_tuff` | 18.285 | 10,7 % |
 | Glatter Stein | `smooth_stone` | 13.409 | 7,9 % |
 | Polierter Andesit | `polished_andesite` | 12.127 | 7,1 % |
-| Tuffstein | `tuff` | 11.601 | 6,8 % |
+| Tuffstein | `tuff` | 11.824 | 6,9 % |
 | Weißer Beton | `white_concrete` | 7.298 | 4,3 % |
 | Graues Buntglas | `gray_stained_glass` | 3.277 | 1,9 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.639 | 1,0 % |
@@ -56,34 +56,35 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w484069116` | Haus w484069116 | 7.638 | 12.1–12.4 |
+| 1 | `w484069116` | Haus w484069116 | 7.861 | 12.1–12.4 |
 | 2 | `w484069116_innen` | Haus w484069116: Innenausbau | 1.075 | 12.5 |
 | 3 | `w484069134` | Renaissance-Palazzo an Via Magenta | 36.364 | 12.6–12.32 |
 | 4 | `w484069134_innen` | Renaissance-Palazzo an Via Magenta: Innenausbau | 7.609 | 12.33–12.36 |
 | 5 | `w484069154` | Reihenhaus an Viale Fratelli Rosselli | 18.906 | 12.37–12.46 |
 | 6 | `w484069154_innen` | Reihenhaus an Viale Fratelli Rosselli: Innenausbau | 6.150 | 12.47–12.51 |
-| 7 | `w484069164` | Palazzo des Ottocento an Via Montebello | 40.809 | 12.52–12.77 |
+| 7 | `w484069164` | Palazzo des Ottocento an Via Montebello | 40.775 | 12.52–12.77 |
 | 8 | `w484069164_innen` | Palazzo des Ottocento an Via Montebello: Innenausbau | 15.441 | 12.78–12.85 |
-| 9 | `w484069203` | Reihenhaus an Via Magenta | 5.846 | 12.86–12.88 |
+| 9 | `w484069203` | Reihenhaus an Via Magenta | 5.815 | 12.86–12.88 |
 | 10 | `w484069203_innen` | Reihenhaus an Via Magenta: Innenausbau | 1.292 | 12.89 |
 | 11 | `w484069221` | Palazzo des Cinquecento an Via Montebello | 24.371 | 12.90–12.106 |
 | 12 | `w484069221_innen` | Palazzo des Cinquecento an Via Montebello: Innenausbau | 4.890 | 12.107–12.110 |
 
 ## Bauschritte
 
-### Schritt 12.1 – Haus w484069116 – Teil 1/4 (Y 52–59)
+### Schritt 12.1 – Haus w484069116 – Teil 1/4 (Y 53–60)
 
-- **Y-Bereich:** 52 bis 59
-- **Blöcke:** 1.978
+- **Y-Bereich:** 53 bis 60
+- **Blöcke:** 1.986
 - **Bauteile:** `w484069116`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.209 |
+| Weißer Beton | `white_concrete` | 1.032 |
 | Polierter Tuffstein | `polished_tuff` | 533 |
-| Glatter Stein | `smooth_stone` | 165 |
+| Tuffstein | `tuff` | 223 |
+| Glatter Stein | `smooth_stone` | 127 |
 | Graues Buntglas | `gray_stained_glass` | 71 |
 
 **Beschreibung**
@@ -102,9 +103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Haus w484069116 – Teil 2/4 (Y 60–68)
+### Schritt 12.2 – Haus w484069116 – Teil 2/4 (Y 61–69)
 
-- **Y-Bereich:** 60 bis 68
+- **Y-Bereich:** 61 bis 69
 - **Blöcke:** 1.912
 - **Bauteile:** `w484069116`
 
@@ -112,8 +113,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.699 |
-| Glatter Stein | `smooth_stone` | 173 |
+| Weißer Beton | `white_concrete` | 1.661 |
+| Glatter Stein | `smooth_stone` | 211 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
@@ -132,19 +133,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.3 – Haus w484069116 – Teil 3/4 (Y 69–77)
+### Schritt 12.3 – Haus w484069116 – Teil 3/4 (Y 70–78)
 
-- **Y-Bereich:** 69 bis 77
-- **Blöcke:** 1.913
+- **Y-Bereich:** 70 bis 78
+- **Blöcke:** 1.921
 - **Bauteile:** `w484069116`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.623 |
-| Glatter Stein | `smooth_stone` | 240 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
+| Weißer Beton | `white_concrete` | 1.665 |
+| Glatter Stein | `smooth_stone` | 216 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
 
@@ -162,20 +163,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.4 – Haus w484069116 – Teil 4/4 (Y 78–86)
+### Schritt 12.4 – Haus w484069116 – Teil 4/4 (Y 79–88)
 
-- **Y-Bereich:** 78 bis 86
-- **Blöcke:** 1.835
+- **Y-Bereich:** 79 bis 88
+- **Blöcke:** 2.042
 - **Bauteile:** `w484069116`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.009 |
+| Weißer Beton | `white_concrete` | 1.182 |
 | Terrakotta | `terracotta` | 672 |
-| Glatter Stein | `smooth_stone` | 106 |
-| Graues Buntglas | `gray_stained_glass` | 30 |
+| Glatter Stein | `smooth_stone` | 130 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 | Ziegelsteine | `bricks` | 18 |
 
 **Beschreibung**
@@ -196,7 +197,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.5 – Haus w484069116: Innenausbau
 
-- **Y-Bereich:** 52 bis 76
+- **Y-Bereich:** 54 bis 78
 - **Blöcke:** 1.075
 - **Bauteile:** `w484069116_innen`
 
@@ -2006,19 +2007,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.63 – Palazzo des Ottocento an Via Montebello – Teil 12/26 (Y 73–75)
+### Schritt 12.63 – Palazzo des Ottocento an Via Montebello – Teil 12/26 (Y 73–74)
 
-- **Y-Bereich:** 73 bis 75
-- **Blöcke:** 1.983
+- **Y-Bereich:** 73 bis 74
+- **Blöcke:** 1.322
 - **Bauteile:** `w484069164`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.395 |
+| Gelbe Keramik | `yellow_terracotta` | 742 |
 | Glatter Stein | `smooth_stone` | 572 |
-| Polierter Andesit | `polished_andesite` | 16 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
@@ -2036,20 +2037,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.64 – Palazzo des Ottocento an Via Montebello – Teil 13/26 (Y 76–77)
+### Schritt 12.64 – Palazzo des Ottocento an Via Montebello – Teil 13/26 (Y 75–77)
 
-- **Y-Bereich:** 76 bis 77
-- **Blöcke:** 1.328
+- **Y-Bereich:** 75 bis 77
+- **Blöcke:** 1.989
 - **Bauteile:** `w484069164`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 971 |
+| Gelbe Keramik | `yellow_terracotta` | 1.624 |
 | Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
-| Polierter Andesit | `polished_andesite` | 36 |
+| Polierter Andesit | `polished_andesite` | 44 |
 
 **Beschreibung**
 
@@ -2132,14 +2133,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 12.67 – Palazzo des Ottocento an Via Montebello – Teil 16/26 (Y 83–84)
 
 - **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.387
+- **Blöcke:** 1.353
 - **Bauteile:** `w484069164`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.175 |
+| Gelbe Keramik | `yellow_terracotta` | 1.141 |
 | Glatter Stein | `smooth_stone` | 176 |
 | Polierter Andesit | `polished_andesite` | 36 |
 
@@ -2840,14 +2841,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 12.88 – Reihenhaus an Via Magenta – Teil 3/3 (Y 80–92)
 
 - **Y-Bereich:** 80 bis 92
-- **Blöcke:** 1.911
+- **Blöcke:** 1.880
 - **Bauteile:** `w484069203`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.145 |
+| Glatter Sandstein | `smooth_sandstone` | 1.114 |
 | Terrakotta | `terracotta` | 693 |
 | Graues Buntglas | `gray_stained_glass` | 45 |
 | Ziegelsteine | `bricks` | 28 |

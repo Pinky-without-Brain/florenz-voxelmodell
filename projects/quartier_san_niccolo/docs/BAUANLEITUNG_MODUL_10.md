@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 57.395 |
-| Bauschritte | 36 |
-| Y-Bereich | 63 bis 106 |
+| Blöcke | 57.878 |
+| Bauschritte | 37 |
+| Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | 271 bis 440 (170 Blöcke) |
 | Z-Ausdehnung | 1706 bis 1767 (62 Blöcke) |
-| Kleinster Schritt | 1.054 Blöcke (Schritt 10.35) |
-| Mittlerer Schritt | 1.594 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 10.29) |
+| Kleinster Schritt | 1.055 Blöcke (Schritt 10.36) |
+| Mittlerer Schritt | 1.564 Blöcke |
+| Größter Schritt | 2.075 Blöcke (Schritt 10.22) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 21.688 | 37,8 % |
-| Rosa Keramik | `pink_terracotta` | 7.695 | 13,4 % |
-| Weißer Beton | `white_concrete` | 7.573 | 13,2 % |
-| Polierter Tuffstein | `polished_tuff` | 6.499 | 11,3 % |
-| Orange Keramik | `orange_terracotta` | 3.940 | 6,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 2.906 | 5,1 % |
-| Tuffstein | `tuff` | 1.819 | 3,2 % |
+| Terrakotta | `terracotta` | 21.688 | 37,5 % |
+| Rosa Keramik | `pink_terracotta` | 7.595 | 13,1 % |
+| Weißer Beton | `white_concrete` | 7.573 | 13,1 % |
+| Polierter Tuffstein | `polished_tuff` | 6.499 | 11,2 % |
+| Orange Keramik | `orange_terracotta` | 3.940 | 6,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.864 | 4,9 % |
+| Tuffstein | `tuff` | 2.444 | 4,2 % |
 | Graues Buntglas | `gray_stained_glass` | 1.341 | 2,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.040 | 1,8 % |
 | Polierter Andesit | `polished_andesite` | 754 | 1,3 % |
 | Ziegelsteine | `bricks` | 655 | 1,1 % |
-| Glatter Stein | `smooth_stone` | 433 | 0,8 % |
+| Glatter Stein | `smooth_stone` | 433 | 0,7 % |
 | Grüner Beton | `green_concrete` | 399 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 236 | 0,4 % |
 | Seelaterne | `sea_lantern` | 109 | 0,2 % |
@@ -63,10 +63,10 @@
 | 4 | `w461735825_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 3.606 | 10.17–10.19 |
 | 5 | `w461735841` | Reihenhaus an Via dei Renai | 7.841 | 10.20–10.23 |
 | 6 | `w461735841_innen` | Reihenhaus an Via dei Renai: Innenausbau | 3.374 | 10.24–10.26 |
-| 7 | `w461735847` | Reihenhaus an Lungarno Serristori | 6.147 | 10.27–10.29 |
-| 8 | `w461735847_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 1.994 | 10.30 |
-| 9 | `w461735862` | Reihenhaus an Via Mario Monicelli | 7.525 | 10.31–10.34 |
-| 10 | `w461735862_innen` | Reihenhaus an Via Mario Monicelli: Innenausbau | 2.110 | 10.35–10.36 |
+| 7 | `w461735847` | Reihenhaus an Lungarno Serristori | 6.420 | 10.27–10.30 |
+| 8 | `w461735847_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 1.993 | 10.31 |
+| 9 | `w461735862` | Reihenhaus an Via Mario Monicelli | 7.735 | 10.32–10.35 |
+| 10 | `w461735862_innen` | Reihenhaus an Via Mario Monicelli: Innenausbau | 2.111 | 10.36–10.37 |
 
 ## Bauschritte
 
@@ -956,21 +956,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.27 – Reihenhaus an Lungarno Serristori – Teil 1/3 (Y 63–69)
+### Schritt 10.27 – Reihenhaus an Lungarno Serristori – Teil 1/4 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.986
+- **Y-Bereich:** 64 bis 67
+- **Blöcke:** 1.563
 - **Bauteile:** `w461735847`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.101 |
-| Glatter Sandstein | `smooth_sandstone` | 753 |
-| Weißer Beton | `white_concrete` | 75 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
-| Glatter Stein | `smooth_stone` | 12 |
+| Polierter Tuffstein | `polished_tuff` | 1.102 |
+| Tuffstein | `tuff` | 314 |
+| Glatter Sandstein | `smooth_sandstone` | 145 |
+| Glatter Stein | `smooth_stone` | 2 |
 
 **Beschreibung**
 
@@ -988,20 +987,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.28 – Reihenhaus an Lungarno Serristori – Teil 2/3 (Y 70–83)
+### Schritt 10.28 – Reihenhaus an Lungarno Serristori – Teil 2/4 (Y 68–78)
 
-- **Y-Bereich:** 70 bis 83
-- **Blöcke:** 2.062
+- **Y-Bereich:** 68 bis 78
+- **Blöcke:** 1.592
 - **Bauteile:** `w461735847`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.686 |
-| Weißer Beton | `white_concrete` | 252 |
-| Graues Buntglas | `gray_stained_glass` | 116 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Glatter Sandstein | `smooth_sandstone` | 1.322 |
+| Weißer Beton | `white_concrete` | 173 |
+| Graues Buntglas | `gray_stained_glass` | 79 |
+| Glatter Stein | `smooth_stone` | 18 |
 
 **Beschreibung**
 
@@ -1019,10 +1018,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.29 – Reihenhaus an Lungarno Serristori – Teil 3/3 (Y 84–92)
+### Schritt 10.29 – Reihenhaus an Lungarno Serristori – Teil 3/4 (Y 79–89)
 
-- **Y-Bereich:** 84 bis 92
-- **Blöcke:** 2.099
+- **Y-Bereich:** 79 bis 89
+- **Blöcke:** 1.699
+- **Bauteile:** `w461735847`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.397 |
+| Weißer Beton | `white_concrete` | 206 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.30 – Reihenhaus an Lungarno Serristori – Teil 4/4 (Y 90–95)
+
+- **Y-Bereich:** 90 bis 95
+- **Blöcke:** 1.566
 - **Bauteile:** `w461735847`
 
 **Teileliste**
@@ -1030,10 +1059,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.468 |
-| Glatter Sandstein | `smooth_sandstone` | 467 |
 | Ziegelsteine | `bricks` | 98 |
-| Weißer Beton | `white_concrete` | 52 |
-| Graues Buntglas | `gray_stained_glass` | 14 |
 
 **Beschreibung**
 
@@ -1051,21 +1077,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.30 – Reihenhaus an Lungarno Serristori: Innenausbau
+### Schritt 10.31 – Reihenhaus an Lungarno Serristori: Innenausbau
 
-- **Y-Bereich:** 63 bis 80
-- **Blöcke:** 1.994
+- **Y-Bereich:** 66 bis 83
+- **Blöcke:** 1.993
 - **Bauteile:** `w461735847_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.876 |
+| Terrakotta | `terracotta` | 1.878 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 47 |
-| Seelaterne | `sea_lantern` | 21 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 19 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 19 |
+| Seelaterne | `sea_lantern` | 18 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 
@@ -1091,20 +1117,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.31 – Reihenhaus an Via Mario Monicelli – Teil 1/4 (Y 64–68)
+### Schritt 10.32 – Reihenhaus an Via Mario Monicelli – Teil 1/4 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
-- **Blöcke:** 1.837
+- **Blöcke:** 1.945
 - **Bauteile:** `w461735862`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.201 |
-| Rosa Keramik | `pink_terracotta` | 498 |
-| Polierter Andesit | `polished_andesite` | 70 |
-| Tuffstein | `tuff` | 68 |
+| Polierter Tuffstein | `polished_tuff` | 1.200 |
+| Tuffstein | `tuff` | 379 |
+| Rosa Keramik | `pink_terracotta` | 362 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
@@ -1122,19 +1148,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.32 – Reihenhaus an Via Mario Monicelli – Teil 2/4 (Y 69–79)
+### Schritt 10.33 – Reihenhaus an Via Mario Monicelli – Teil 2/4 (Y 69–79)
 
 - **Y-Bereich:** 69 bis 79
-- **Blöcke:** 1.986
+- **Blöcke:** 2.004
 - **Bauteile:** `w461735862`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.354 |
-| Polierter Andesit | `polished_andesite` | 326 |
-| Graues Buntglas | `gray_stained_glass` | 168 |
+| Rosa Keramik | `pink_terracotta` | 1.356 |
+| Polierter Andesit | `polished_andesite` | 352 |
+| Graues Buntglas | `gray_stained_glass` | 158 |
 | Grüner Beton | `green_concrete` | 138 |
 
 **Beschreibung**
@@ -1153,19 +1179,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.33 – Reihenhaus an Via Mario Monicelli – Teil 3/4 (Y 80–88)
+### Schritt 10.34 – Reihenhaus an Via Mario Monicelli – Teil 3/4 (Y 80–88)
 
 - **Y-Bereich:** 80 bis 88
-- **Blöcke:** 1.931
+- **Blöcke:** 1.744
 - **Bauteile:** `w461735862`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.543 |
-| Polierter Andesit | `polished_andesite` | 228 |
-| Graues Buntglas | `gray_stained_glass` | 94 |
+| Rosa Keramik | `pink_terracotta` | 1.306 |
+| Polierter Andesit | `polished_andesite` | 268 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
 | Grüner Beton | `green_concrete` | 66 |
 
 **Beschreibung**
@@ -1184,10 +1210,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.34 – Reihenhaus an Via Mario Monicelli – Teil 4/4 (Y 89–97)
+### Schritt 10.35 – Reihenhaus an Via Mario Monicelli – Teil 4/4 (Y 89–98)
 
-- **Y-Bereich:** 89 bis 97
-- **Blöcke:** 1.771
+- **Y-Bereich:** 89 bis 98
+- **Blöcke:** 2.042
 - **Bauteile:** `w461735862`
 
 **Teileliste**
@@ -1195,6 +1221,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.642 |
+| Rosa Keramik | `pink_terracotta` | 271 |
 | Ziegelsteine | `bricks` | 129 |
 
 **Beschreibung**
@@ -1213,20 +1240,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.35 – Reihenhaus an Via Mario Monicelli: Innenausbau – Teil 1/2 (Y 65–74)
+### Schritt 10.36 – Reihenhaus an Via Mario Monicelli: Innenausbau – Teil 1/2 (Y 66–75)
 
-- **Y-Bereich:** 65 bis 74
-- **Blöcke:** 1.054
+- **Y-Bereich:** 66 bis 75
+- **Blöcke:** 1.055
 - **Bauteile:** `w461735862_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 999 |
+| Terrakotta | `terracotta` | 998 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 11 |
-| Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
 
 **Treppen je Material** (alle Richtungen)
@@ -1251,9 +1278,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.36 – Reihenhaus an Via Mario Monicelli: Innenausbau – Teil 2/2 (Y 75–82)
+### Schritt 10.37 – Reihenhaus an Via Mario Monicelli: Innenausbau – Teil 2/2 (Y 76–83)
 
-- **Y-Bereich:** 75 bis 82
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.056
 - **Bauteile:** `w461735862_innen`
 
@@ -1261,13 +1288,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 999 |
+| Terrakotta | `terracotta` | 998 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
+| Seelaterne | `sea_lantern` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Seelaterne | `sea_lantern` | 5 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 

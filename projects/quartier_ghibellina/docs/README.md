@@ -4,7 +4,7 @@
 
 *Projekt `quartier_ghibellina`, Art: quartier*
 
-**Statistik (generiert):** 2.191.752 Blöcke in 1.413 Bauschritten, 24 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.192.564 Blöcke in 1.412 Bauschritten, 24 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X 651 bis 1685, Y 56 bis 109, Z 346 bis 852.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -21,49 +21,49 @@ Ausdehnung des Modells: X 651 bis 1685, Y 56 bis 109, Z 346 bis 852.
 | 9 | Isolato I0688 – Via dell'Ulivo | 488 | 1 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
 | 10 | Isolato I0701 – Via dei Martiri del Popolo | 87.954 | 50 | [BAUANLEITUNG_MODUL_10.md](BAUANLEITUNG_MODUL_10.md) |
 | 11 | Isolato I0704 – Via Michelangelo Buonarroti | 27.628 | 17 | [BAUANLEITUNG_MODUL_11.md](BAUANLEITUNG_MODUL_11.md) |
-| 12 | Isolato I0707 – Borgo Allegri | 110.442 | 73 | [BAUANLEITUNG_MODUL_12.md](BAUANLEITUNG_MODUL_12.md) |
+| 12 | Isolato I0707 – Borgo Allegri | 110.033 | 72 | [BAUANLEITUNG_MODUL_12.md](BAUANLEITUNG_MODUL_12.md) |
 | 13 | Isolato I0713 – Via Michelangelo Buonarroti | 2.406 | 2 | [BAUANLEITUNG_MODUL_13.md](BAUANLEITUNG_MODUL_13.md) |
 | 14 | Isolato I0714 – Borgo Allegri | 31.942 | 22 | [BAUANLEITUNG_MODUL_14.md](BAUANLEITUNG_MODUL_14.md) |
-| 15 | Isolato I0729 – Via dell'Agnolo | 199.943 | 127 | [BAUANLEITUNG_MODUL_15.md](BAUANLEITUNG_MODUL_15.md) |
-| 16 | Isolato I0739 – Via dei Macci | 473.691 | 305 | [BAUANLEITUNG_MODUL_16.md](BAUANLEITUNG_MODUL_16.md) |
+| 15 | Isolato I0729 – Via dell'Agnolo | 199.850 | 127 | [BAUANLEITUNG_MODUL_15.md](BAUANLEITUNG_MODUL_15.md) |
+| 16 | Isolato I0739 – Via dei Macci | 474.934 | 305 | [BAUANLEITUNG_MODUL_16.md](BAUANLEITUNG_MODUL_16.md) |
 | 17 | Isolato I0740 | 2.009 | 1 | [BAUANLEITUNG_MODUL_17.md](BAUANLEITUNG_MODUL_17.md) |
 | 18 | Isolato I0746 – Via delle Conce | 98.558 | 61 | [BAUANLEITUNG_MODUL_18.md](BAUANLEITUNG_MODUL_18.md) |
 | 19 | Isolato I0757 – Via dei Macci | 80.968 | 55 | [BAUANLEITUNG_MODUL_19.md](BAUANLEITUNG_MODUL_19.md) |
-| 20 | Isolato I0759 – Via dell'Agnolo | 144.056 | 100 | [BAUANLEITUNG_MODUL_20.md](BAUANLEITUNG_MODUL_20.md) |
+| 20 | Isolato I0759 – Via dell'Agnolo | 144.127 | 100 | [BAUANLEITUNG_MODUL_20.md](BAUANLEITUNG_MODUL_20.md) |
 | 21 | Isolato I0780 – Piazza Lorenzo Ghiberti | 29.157 | 18 | [BAUANLEITUNG_MODUL_21.md](BAUANLEITUNG_MODUL_21.md) |
 | 22 | Isolato I0783 – Piazza Lorenzo Ghiberti | 41.547 | 27 | [BAUANLEITUNG_MODUL_22.md](BAUANLEITUNG_MODUL_22.md) |
 | 23 | Isolato I0788 – Via Santa Verdiana | 14.718 | 9 | [BAUANLEITUNG_MODUL_23.md](BAUANLEITUNG_MODUL_23.md) |
-| | **Summe** | **2.191.752** | **1.413** | |
+| | **Summe** | **2.192.564** | **1.412** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 668.646 | 30,5 % |
-| Polierter Tuffstein | `polished_tuff` | 205.583 | 9,4 % |
+| Terrakotta | `terracotta` | 668.295 | 30,5 % |
+| Polierter Tuffstein | `polished_tuff` | 205.584 | 9,4 % |
 | Weißer Beton | `white_concrete` | 184.948 | 8,4 % |
-| Rosa Keramik | `pink_terracotta` | 176.726 | 8,1 % |
-| Orange Keramik | `orange_terracotta` | 154.213 | 7,0 % |
-| Endsteinziegel | `end_stone_bricks` | 150.006 | 6,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 137.491 | 6,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 100.627 | 4,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 96.372 | 4,4 % |
-| Tuffstein | `tuff` | 73.464 | 3,4 % |
+| Rosa Keramik | `pink_terracotta` | 176.885 | 8,1 % |
+| Orange Keramik | `orange_terracotta` | 154.254 | 7,0 % |
+| Endsteinziegel | `end_stone_bricks` | 150.158 | 6,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 137.547 | 6,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 100.665 | 4,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 96.279 | 4,4 % |
+| Tuffstein | `tuff` | 74.406 | 3,4 % |
 | Glatter Stein | `smooth_stone` | 56.982 | 2,6 % |
 | Graues Buntglas | `gray_stained_glass` | 52.195 | 2,4 % |
 | Polierter Andesit | `polished_andesite` | 51.380 | 2,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 15.968 | 0,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 15.902 | 0,7 % |
 | Grüner Beton | `green_concrete` | 15.222 | 0,7 % |
+| Fichtenholz-Bretter | `spruce_planks` | 11.688 | 0,5 % |
 | Ziegelsteine | `bricks` | 11.684 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 11.683 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 6.628 | 0,3 % |
-| Seelaterne | `sea_lantern` | 4.119 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3.428 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3.190 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2.895 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2.693 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 2.039 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 2.039 | 0,1 % |
+| Seelaterne | `sea_lantern` | 4.109 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3.385 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3.149 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2.912 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2.710 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 2.033 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 2.033 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 444 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 416 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 272 | 0,0 % |
@@ -81,6 +81,6 @@ Ausdehnung des Modells: X 651 bis 1685, Y 56 bis 109, Z 346 bis 852.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 12.206 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 12.156 |
 | Steintreppe | `stone_stairs` | 1.394 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 25 |

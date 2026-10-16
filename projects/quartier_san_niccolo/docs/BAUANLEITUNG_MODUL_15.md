@@ -8,36 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 13.980 |
-| Bauschritte | 10 |
-| Y-Bereich | 73 bis 109 |
+| Blöcke | 14.131 |
+| Bauschritte | 9 |
+| Y-Bereich | 73 bis 111 |
 | X-Ausdehnung | 747 bis 780 (34 Blöcke) |
 | Z-Ausdehnung | 2283 bis 2360 (78 Blöcke) |
-| Kleinster Schritt | 460 Blöcke (Schritt 15.10) |
-| Mittlerer Schritt | 1.398 Blöcke |
-| Größter Schritt | 1.667 Blöcke (Schritt 15.2) |
+| Kleinster Schritt | 462 Blöcke (Schritt 15.9) |
+| Mittlerer Schritt | 1.570 Blöcke |
+| Größter Schritt | 2.099 Blöcke (Schritt 15.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 3.513 | 25,1 % |
-| Terrakotta | `terracotta` | 3.213 | 23,0 % |
-| Tuffstein | `tuff` | 1.978 | 14,1 % |
-| Orange Keramik | `orange_terracotta` | 1.801 | 12,9 % |
-| Polierter Tuffstein | `polished_tuff` | 1.259 | 9,0 % |
-| Polierter Andesit | `polished_andesite` | 621 | 4,4 % |
+| Rosa Keramik | `pink_terracotta` | 3.513 | 24,9 % |
+| Terrakotta | `terracotta` | 3.211 | 22,7 % |
+| Tuffstein | `tuff` | 2.140 | 15,1 % |
+| Orange Keramik | `orange_terracotta` | 1.784 | 12,6 % |
+| Polierter Tuffstein | `polished_tuff` | 1.257 | 8,9 % |
+| Polierter Andesit | `polished_andesite` | 626 | 4,4 % |
 | Weißer Beton | `white_concrete` | 407 | 2,9 % |
-| Glatter Stein | `smooth_stone` | 334 | 2,4 % |
+| Glatter Stein | `smooth_stone` | 335 | 2,4 % |
 | Graues Buntglas | `gray_stained_glass` | 321 | 2,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 179 | 1,3 % |
-| Ziegelsteine | `bricks` | 91 | 0,7 % |
+| Ziegelsteine | `bricks` | 91 | 0,6 % |
 | Grüner Beton | `green_concrete` | 86 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 | 0,3 % |
+| Seelaterne | `sea_lantern` | 20 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 19 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 19 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 19 | 0,1 % |
-| Seelaterne | `sea_lantern` | 16 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 | 0,1 % |
@@ -58,17 +58,17 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762568` | Reihenhaus an Via dell'Erta Canina | 6.295 | 15.1–15.4 |
+| 1 | `w119762568` | Reihenhaus an Via dell'Erta Canina | 6.462 | 15.1–15.4 |
 | 2 | `w119762568_innen` | Reihenhaus an Via dell'Erta Canina: Innenausbau | 1.129 | 15.5 |
-| 3 | `w480707969` | Palazzo des Cinquecento an Via dell'Erta Canina | 6.096 | 15.6–15.9 |
-| 4 | `w480707969_innen` | Palazzo des Cinquecento an Via dell'Erta Canina: Innenausbau | 460 | 15.10 |
+| 3 | `w480707969` | Palazzo des Cinquecento an Via dell'Erta Canina | 6.078 | 15.6–15.8 |
+| 4 | `w480707969_innen` | Palazzo des Cinquecento an Via dell'Erta Canina: Innenausbau | 462 | 15.9 |
 
 ## Bauschritte
 
-### Schritt 15.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/4 (Y 76–84)
+### Schritt 15.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/4 (Y 76–86)
 
-- **Y-Bereich:** 76 bis 84
-- **Blöcke:** 1.523
+- **Y-Bereich:** 76 bis 86
+- **Blöcke:** 1.690
 - **Bauteile:** `w119762568`
 
 **Teileliste**
@@ -77,8 +77,8 @@
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 709 |
 | Rosa Keramik | `pink_terracotta` | 641 |
-| Tuffstein | `tuff` | 78 |
-| Polierter Andesit | `polished_andesite` | 76 |
+| Tuffstein | `tuff` | 240 |
+| Polierter Andesit | `polished_andesite` | 81 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
 | Grüner Beton | `green_concrete` | 4 |
 
@@ -98,20 +98,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/4 (Y 85–93)
+### Schritt 15.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/4 (Y 87–94)
 
-- **Y-Bereich:** 85 bis 93
-- **Blöcke:** 1.667
+- **Y-Bereich:** 87 bis 94
+- **Blöcke:** 1.490
 - **Bauteile:** `w119762568`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.364 |
-| Polierter Andesit | `polished_andesite` | 202 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
-| Grüner Beton | `green_concrete` | 20 |
+| Rosa Keramik | `pink_terracotta` | 1.230 |
+| Polierter Andesit | `polished_andesite` | 180 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Grüner Beton | `green_concrete` | 16 |
 
 **Beschreibung**
 
@@ -129,20 +129,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 94–101)
+### Schritt 15.3 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 95–103)
 
-- **Y-Bereich:** 94 bis 101
-- **Blöcke:** 1.474
+- **Y-Bereich:** 95 bis 103
+- **Blöcke:** 1.651
 - **Bauteile:** `w119762568`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.165 |
-| Polierter Andesit | `polished_andesite` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 85 |
-| Grüner Beton | `green_concrete` | 20 |
+| Rosa Keramik | `pink_terracotta` | 1.299 |
+| Polierter Andesit | `polished_andesite` | 226 |
+| Graues Buntglas | `gray_stained_glass` | 102 |
+| Grüner Beton | `green_concrete` | 24 |
 
 **Beschreibung**
 
@@ -160,9 +160,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 102–109)
+### Schritt 15.4 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 104–111)
 
-- **Y-Bereich:** 102 bis 109
+- **Y-Bereich:** 104 bis 111
 - **Blöcke:** 1.631
 - **Bauteile:** `w119762568`
 
@@ -194,7 +194,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.5 – Reihenhaus an Via dell'Erta Canina: Innenausbau
 
-- **Y-Bereich:** 80 bis 97
+- **Y-Bereich:** 82 bis 99
 - **Blöcke:** 1.129
 - **Bauteile:** `w119762568_innen`
 
@@ -234,24 +234,24 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.6 – Palazzo des Cinquecento an Via dell'Erta Canina – Teil 1/4 (Y 73–85)
+### Schritt 15.6 – Palazzo des Cinquecento an Via dell'Erta Canina – Teil 1/3 (Y 73–86)
 
-- **Y-Bereich:** 73 bis 85
-- **Blöcke:** 1.564
+- **Y-Bereich:** 73 bis 86
+- **Blöcke:** 1.914
 - **Bauteile:** `w480707969`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.555 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 9 |
+| Tuffstein | `tuff` | 1.900 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 14 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 9 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 14 |
 
 **Beschreibung**
 
@@ -269,32 +269,31 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.7 – Palazzo des Cinquecento an Via dell'Erta Canina – Teil 2/4 (Y 86–91)
+### Schritt 15.7 – Palazzo des Cinquecento an Via dell'Erta Canina – Teil 2/3 (Y 87–97)
 
-- **Y-Bereich:** 86 bis 91
-- **Blöcke:** 1.501
+- **Y-Bereich:** 87 bis 97
+- **Blöcke:** 2.065
 - **Bauteile:** `w480707969`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 550 |
-| Orange Keramik | `orange_terracotta` | 474 |
-| Tuffstein | `tuff` | 345 |
-| Weißer Beton | `white_concrete` | 64 |
-| Graues Buntglas | `gray_stained_glass` | 20 |
-| Polierter Andesit | `polished_andesite` | 20 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10 |
-| Glatter Stein | `smooth_stone` | 8 |
-| Grüner Beton | `green_concrete` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Orange Keramik | `orange_terracotta` | 1.046 |
+| Polierter Tuffstein | `polished_tuff` | 548 |
+| Weißer Beton | `white_concrete` | 172 |
+| Glatter Stein | `smooth_stone` | 113 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
+| Polierter Andesit | `polished_andesite` | 70 |
+| Grüner Beton | `green_concrete` | 24 |
+| Tuffsteinziegel | `tuff_bricks` | 13 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 **Beschreibung**
 
@@ -312,44 +311,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.8 – Palazzo des Cinquecento an Via dell'Erta Canina – Teil 3/4 (Y 92–101)
+### Schritt 15.8 – Palazzo des Cinquecento an Via dell'Erta Canina – Teil 3/3 (Y 98–109)
 
-- **Y-Bereich:** 92 bis 101
-- **Blöcke:** 1.514
-- **Bauteile:** `w480707969`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 952 |
-| Weißer Beton | `white_concrete` | 226 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 105 |
-| Polierter Andesit | `polished_andesite` | 66 |
-| Grüner Beton | `green_concrete` | 36 |
-| Tuffsteinziegel | `tuff_bricks` | 9 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 2 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.9 – Palazzo des Cinquecento an Via dell'Erta Canina – Teil 4/4 (Y 102–109)
-
-- **Y-Bereich:** 102 bis 109
-- **Blöcke:** 1.517
+- **Y-Bereich:** 98 bis 109
+- **Blöcke:** 2.099
 - **Bauteile:** `w480707969`
 
 **Teileliste**
@@ -357,11 +322,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 775 |
-| Orange Keramik | `orange_terracotta` | 375 |
-| Glatter Stein | `smooth_stone` | 195 |
-| Weißer Beton | `white_concrete` | 117 |
+| Orange Keramik | `orange_terracotta` | 738 |
+| Weißer Beton | `white_concrete` | 235 |
+| Glatter Stein | `smooth_stone` | 196 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
 | Ziegelsteine | `bricks` | 41 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Polierter Andesit | `polished_andesite` | 30 |
+| Grüner Beton | `green_concrete` | 18 |
 
 **Beschreibung**
 
@@ -379,21 +346,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.10 – Palazzo des Cinquecento an Via dell'Erta Canina: Innenausbau
+### Schritt 15.9 – Palazzo des Cinquecento an Via dell'Erta Canina: Innenausbau
 
 - **Y-Bereich:** 87 bis 98
-- **Blöcke:** 460
+- **Blöcke:** 462
 - **Bauteile:** `w480707969_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 398 |
+| Terrakotta | `terracotta` | 396 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 4 |
+| Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |

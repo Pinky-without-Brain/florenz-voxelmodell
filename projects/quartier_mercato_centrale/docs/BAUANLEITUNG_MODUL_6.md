@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 765.648 |
+| Blöcke | 765.602 |
 | Bauschritte | 482 |
 | Y-Bereich | 59 bis 106 |
 | X-Ausdehnung | -1094 bis -633 (462 Blöcke) |
@@ -23,15 +23,15 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 245.969 | 32,1 % |
 | Polierter Tuffstein | `polished_tuff` | 87.428 | 11,4 % |
-| Weißer Beton | `white_concrete` | 75.312 | 9,8 % |
+| Weißer Beton | `white_concrete` | 75.282 | 9,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 72.506 | 9,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 64.204 | 8,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 63.831 | 8,3 % |
 | Endsteinziegel | `end_stone_bricks` | 42.991 | 5,6 % |
-| Orange Keramik | `orange_terracotta` | 37.494 | 4,9 % |
+| Orange Keramik | `orange_terracotta` | 37.493 | 4,9 % |
 | Graues Buntglas | `gray_stained_glass` | 15.045 | 2,0 % |
-| Rosa Keramik | `pink_terracotta` | 14.350 | 1,9 % |
 | Glatter Stein | `smooth_stone` | 14.348 | 1,9 % |
+| Rosa Keramik | `pink_terracotta` | 14.331 | 1,9 % |
 | Polierter Andesit | `polished_andesite` | 8.737 | 1,1 % |
 | Tuffstein | `tuff` | 6.149 | 0,8 % |
 | Grüner Beton | `green_concrete` | 4.144 | 0,5 % |
@@ -46,8 +46,8 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 290 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 192 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 188 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 135 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 135 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 137 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 137 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 118 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 114 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 | 0,0 % |
@@ -73,8 +73,8 @@
 | 4 | `r7079317_innen` | Reihenhaus an Via Faenza: Innenausbau | 5.588 | 6.63–6.66 |
 | 5 | `r7079318` | Reihenhaus an Via Faenza | 36.304 | 6.67–6.95 |
 | 6 | `r7079318_innen` | Reihenhaus an Via Faenza: Innenausbau | 13.202 | 6.96–6.104 |
-| 7 | `r7079319` | Reihenhaus an Via Faenza | 7.870 | 6.105–6.108 |
-| 8 | `r7079319_innen` | Reihenhaus an Via Faenza: Innenausbau | 1.644 | 6.109 |
+| 7 | `r7079319` | Reihenhaus an Via Faenza | 7.840 | 6.105–6.108 |
+| 8 | `r7079319_innen` | Reihenhaus an Via Faenza: Innenausbau | 1.648 | 6.109 |
 | 9 | `r7079320` | Palazzo des Cinquecento an Piazza del Crocifisso | 14.418 | 6.110–6.118 |
 | 10 | `r7079320_innen` | Palazzo des Cinquecento an Piazza del Crocifisso: Innenausbau | 3.058 | 6.119–6.120 |
 | 11 | `r7079321` | Convento di Sant'Onofrio | 78.347 | 6.121–6.167 |
@@ -107,7 +107,7 @@
 | 38 | `w480924502_innen` | Reihenhaus an Via Nazionale: Innenausbau | 1 | 6.240 |
 | 39 | `w480924503` | Haus w480924503 | 8.890 | 6.240–6.244 |
 | 40 | `w480924503_innen` | Haus w480924503: Innenausbau | 1.805 | 6.245 |
-| 41 | `w480924505` | Reihenhaus an Via Guelfa | 3.882 | 6.246–6.247 |
+| 41 | `w480924505` | Reihenhaus an Via Guelfa | 3.881 | 6.246–6.247 |
 | 42 | `w480924505_innen` | Reihenhaus an Via Guelfa: Innenausbau | 540 | 6.248 |
 | 43 | `w480924506` | Palazzo des Ottocento an Via Nazionale | 25.605 | 6.249–6.263 |
 | 44 | `w480924506_innen` | Palazzo des Ottocento an Via Nazionale: Innenausbau | 10.905 | 6.264–6.269 |
@@ -125,7 +125,7 @@
 | 56 | `w480924515_innen` | Reihenhaus an Via Guelfa: Innenausbau | 899 | 6.293 |
 | 57 | `w480924516` | Reihenhaus an Via Faenza | 30.825 | 6.294–6.310 |
 | 58 | `w480924516_innen` | Reihenhaus an Via Faenza: Innenausbau | 10.711 | 6.311–6.316 |
-| 59 | `w480924517` | Palazzo des Cinquecento an Via Guelfa | 16.802 | 6.317–6.326 |
+| 59 | `w480924517` | Palazzo des Cinquecento an Via Guelfa | 16.783 | 6.317–6.326 |
 | 60 | `w480924517_innen` | Palazzo des Cinquecento an Via Guelfa: Innenausbau | 3.481 | 6.327–6.328 |
 | 61 | `w480924518` | Haus w480924518 | 7.992 | 6.329–6.333 |
 | 62 | `w480924518_innen` | Haus w480924518: Innenausbau | 1.404 | 6.334 |
@@ -3390,10 +3390,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.105 – Reihenhaus an Via Faenza – Teil 1/4 (Y 60–64)
+### Schritt 6.105 – Reihenhaus an Via Faenza – Teil 1/4 (Y 61–65)
 
-- **Y-Bereich:** 60 bis 64
-- **Blöcke:** 1.958
+- **Y-Bereich:** 61 bis 65
+- **Blöcke:** 1.928
 - **Bauteile:** `r7079319`
 
 **Teileliste**
@@ -3401,7 +3401,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.019 |
-| Weißer Beton | `white_concrete` | 871 |
+| Weißer Beton | `white_concrete` | 841 |
 | Glatter Stein | `smooth_stone` | 51 |
 | Graues Buntglas | `gray_stained_glass` | 9 |
 | Fichtenholz-Bretter | `spruce_planks` | 8 |
@@ -3422,9 +3422,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.106 – Reihenhaus an Via Faenza – Teil 2/4 (Y 65–73)
+### Schritt 6.106 – Reihenhaus an Via Faenza – Teil 2/4 (Y 66–74)
 
-- **Y-Bereich:** 65 bis 73
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 2.074
 - **Bauteile:** `r7079319`
 
@@ -3453,9 +3453,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.107 – Reihenhaus an Via Faenza – Teil 3/4 (Y 74–81)
+### Schritt 6.107 – Reihenhaus an Via Faenza – Teil 3/4 (Y 75–82)
 
-- **Y-Bereich:** 74 bis 81
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.836
 - **Bauteile:** `r7079319`
 
@@ -3484,9 +3484,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.108 – Reihenhaus an Via Faenza – Teil 4/4 (Y 82–89)
+### Schritt 6.108 – Reihenhaus an Via Faenza – Teil 4/4 (Y 83–90)
 
-- **Y-Bereich:** 82 bis 89
+- **Y-Bereich:** 83 bis 90
 - **Blöcke:** 2.002
 - **Bauteile:** `r7079319`
 
@@ -3518,8 +3518,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.109 – Reihenhaus an Via Faenza: Innenausbau
 
-- **Y-Bereich:** 60 bis 77
-- **Blöcke:** 1.644
+- **Y-Bereich:** 61 bis 78
+- **Blöcke:** 1.648
 - **Bauteile:** `r7079319_innen`
 
 **Teileliste**
@@ -3531,8 +3531,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 18 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 16 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3587,14 +3587,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.111 – Palazzo des Cinquecento an Piazza del Crocifisso – Teil 2/9 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.294
+- **Blöcke:** 1.366
 - **Bauteile:** `r7079320`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.054 |
+| Endsteinziegel | `end_stone_bricks` | 1.126 |
 | Glatter Stein | `smooth_stone` | 184 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
 | Polierter Andesit | `polished_andesite` | 20 |
@@ -3616,18 +3616,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.112 – Palazzo des Cinquecento an Piazza del Crocifisso – Teil 3/9 (Y 65–70)
+### Schritt 6.112 – Palazzo des Cinquecento an Piazza del Crocifisso – Teil 3/9 (Y 65–69)
 
-- **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.869
+- **Y-Bereich:** 65 bis 69
+- **Blöcke:** 1.546
 - **Bauteile:** `r7079320`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.441 |
-| Glatter Stein | `smooth_stone` | 294 |
+| Endsteinziegel | `end_stone_bricks` | 1.258 |
+| Glatter Stein | `smooth_stone` | 154 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 | Polierter Andesit | `polished_andesite` | 31 |
 | Tuffsteinziegel | `tuff_bricks` | 7 |
@@ -3648,20 +3648,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.113 – Palazzo des Cinquecento an Piazza del Crocifisso – Teil 4/9 (Y 71–75)
+### Schritt 6.113 – Palazzo des Cinquecento an Piazza del Crocifisso – Teil 4/9 (Y 70–74)
 
-- **Y-Bereich:** 71 bis 75
-- **Blöcke:** 1.560
+- **Y-Bereich:** 70 bis 74
+- **Blöcke:** 1.585
 - **Bauteile:** `r7079320`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.251 |
-| Glatter Stein | `smooth_stone` | 182 |
-| Graues Buntglas | `gray_stained_glass` | 102 |
-| Polierter Andesit | `polished_andesite` | 25 |
+| Endsteinziegel | `end_stone_bricks` | 1.209 |
+| Glatter Stein | `smooth_stone` | 290 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
@@ -3679,20 +3679,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.114 – Palazzo des Cinquecento an Piazza del Crocifisso – Teil 5/9 (Y 76–80)
+### Schritt 6.114 – Palazzo des Cinquecento an Piazza del Crocifisso – Teil 5/9 (Y 75–80)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 1.540
+- **Y-Bereich:** 75 bis 80
+- **Blöcke:** 1.838
 - **Bauteile:** `r7079320`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.118 |
-| Glatter Stein | `smooth_stone` | 302 |
-| Graues Buntglas | `gray_stained_glass` | 102 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Endsteinziegel | `end_stone_bricks` | 1.343 |
+| Glatter Stein | `smooth_stone` | 334 |
+| Graues Buntglas | `gray_stained_glass` | 136 |
+| Polierter Andesit | `polished_andesite` | 25 |
 
 **Beschreibung**
 
@@ -3713,14 +3713,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.115 – Palazzo des Cinquecento an Piazza del Crocifisso – Teil 6/9 (Y 81–85)
 
 - **Y-Bereich:** 81 bis 85
-- **Blöcke:** 1.704
+- **Blöcke:** 1.632
 - **Bauteile:** `r7079320`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.395 |
+| Endsteinziegel | `end_stone_bricks` | 1.323 |
 | Glatter Stein | `smooth_stone` | 182 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
 | Polierter Andesit | `polished_andesite` | 25 |
@@ -7926,14 +7926,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.247 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 79–97)
 
 - **Y-Bereich:** 79 bis 97
-- **Blöcke:** 1.956
+- **Blöcke:** 1.955
 - **Bauteile:** `w480924505`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.233 |
+| Orange Keramik | `orange_terracotta` | 1.232 |
 | Terrakotta | `terracotta` | 361 |
 | Weißer Beton | `white_concrete` | 208 |
 | Fichtenholz-Bretter | `spruce_planks` | 74 |
@@ -10314,20 +10314,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.321 – Palazzo des Cinquecento an Via Guelfa – Teil 5/10 (Y 74–78)
+### Schritt 6.321 – Palazzo des Cinquecento an Via Guelfa – Teil 5/10 (Y 74–77)
 
-- **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.855
+- **Y-Bereich:** 74 bis 77
+- **Blöcke:** 1.484
 - **Bauteile:** `w480924517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.256 |
-| Polierter Andesit | `polished_andesite` | 264 |
-| Graues Buntglas | `gray_stained_glass` | 200 |
-| Grüner Beton | `green_concrete` | 135 |
+| Rosa Keramik | `pink_terracotta` | 1.006 |
+| Polierter Andesit | `polished_andesite` | 210 |
+| Graues Buntglas | `gray_stained_glass` | 160 |
+| Grüner Beton | `green_concrete` | 108 |
 
 **Beschreibung**
 
@@ -10345,21 +10345,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.322 – Palazzo des Cinquecento an Via Guelfa – Teil 6/10 (Y 79–82)
+### Schritt 6.322 – Palazzo des Cinquecento an Via Guelfa – Teil 6/10 (Y 78–82)
 
-- **Y-Bereich:** 79 bis 82
-- **Blöcke:** 1.544
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.915
 - **Bauteile:** `w480924517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.088 |
+| Rosa Keramik | `pink_terracotta` | 1.338 |
 | Glatter Stein | `smooth_stone` | 240 |
-| Polierter Andesit | `polished_andesite` | 149 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
-| Grüner Beton | `green_concrete` | 27 |
+| Polierter Andesit | `polished_andesite` | 203 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Grüner Beton | `green_concrete` | 54 |
 
 **Beschreibung**
 
@@ -10380,14 +10380,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.323 – Palazzo des Cinquecento an Via Guelfa – Teil 7/10 (Y 83–86)
 
 - **Y-Bereich:** 83 bis 86
-- **Blöcke:** 1.588
+- **Blöcke:** 1.569
 - **Bauteile:** `w480924517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.110 |
+| Rosa Keramik | `pink_terracotta` | 1.091 |
 | Polierter Andesit | `polished_andesite` | 277 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
 | Grüner Beton | `green_concrete` | 81 |

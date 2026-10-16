@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 103.933 |
+| Blöcke | 103.902 |
 | Bauschritte | 67 |
 | Y-Bereich | 66 bis 106 |
 | X-Ausdehnung | -136 bis 4 (141 Blöcke) |
@@ -22,11 +22,11 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 37.849 | 36,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 21.223 | 20,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 21.184 | 20,4 % |
 | Polierter Tuffstein | `polished_tuff` | 11.340 | 10,9 % |
 | Weißer Beton | `white_concrete` | 6.415 | 6,2 % |
 | Endsteinziegel | `end_stone_bricks` | 5.296 | 5,1 % |
-| Tuffstein | `tuff` | 4.386 | 4,2 % |
+| Tuffstein | `tuff` | 4.394 | 4,2 % |
 | Orange Keramik | `orange_terracotta` | 3.779 | 3,6 % |
 | Polierter Andesit | `polished_andesite` | 2.784 | 2,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.226 | 2,1 % |
@@ -64,11 +64,11 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1596052` | Palazzo des Cinquecento an Via dello Studio | 15.283 | 11.1–11.9 |
+| 1 | `r1596052` | Palazzo des Cinquecento an Via dello Studio | 15.291 | 11.1–11.9 |
 | 2 | `r1596052_innen` | Palazzo des Cinquecento an Via dello Studio: Innenausbau | 4.388 | 11.10–11.13 |
 | 3 | `w307544514` | Renaissance-Palazzo an Piazza degli Alberighi | 11.468 | 11.14–11.19 |
 | 4 | `w307544514_innen` | Renaissance-Palazzo an Piazza degli Alberighi: Innenausbau | 2.244 | 11.20–11.21 |
-| 5 | `w307544531` | Studio Fiorentino | 7.908 | 11.22–11.25 |
+| 5 | `w307544531` | Studio Fiorentino | 7.869 | 11.22–11.25 |
 | 6 | `w307544531_innen` | Studio Fiorentino: Innenausbau | 2.241 | 11.26–11.27 |
 | 7 | `w542315392` | Reihenhaus an Via delle Oche | 4.674 | 11.28–11.30 |
 | 8 | `w542315392_innen` | Reihenhaus an Via delle Oche: Innenausbau | 1.145 | 11.31 |
@@ -100,10 +100,10 @@
 
 ## Bauschritte
 
-### Schritt 11.1 – Palazzo des Cinquecento an Via dello Studio – Teil 1/9 (Y 66–66)
+### Schritt 11.1 – Palazzo des Cinquecento an Via dello Studio – Teil 1/9 (Y 66–67)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.289
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.297
 - **Bauteile:** `r1596052`
 
 **Teileliste**
@@ -111,6 +111,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.289 |
+| Tuffstein | `tuff` | 8 |
 
 **Beschreibung**
 
@@ -128,9 +129,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.2 – Palazzo des Cinquecento an Via dello Studio – Teil 2/9 (Y 66–68)
+### Schritt 11.2 – Palazzo des Cinquecento an Via dello Studio – Teil 2/9 (Y 67–69)
 
-- **Y-Bereich:** 66 bis 68
+- **Y-Bereich:** 67 bis 69
 - **Blöcke:** 2.014
 - **Bauteile:** `r1596052`
 
@@ -160,9 +161,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.3 – Palazzo des Cinquecento an Via dello Studio – Teil 3/9 (Y 69–73)
+### Schritt 11.3 – Palazzo des Cinquecento an Via dello Studio – Teil 3/9 (Y 70–74)
 
-- **Y-Bereich:** 69 bis 73
+- **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.820
 - **Bauteile:** `r1596052`
 
@@ -194,9 +195,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.4 – Palazzo des Cinquecento an Via dello Studio – Teil 4/9 (Y 74–77)
+### Schritt 11.4 – Palazzo des Cinquecento an Via dello Studio – Teil 4/9 (Y 75–78)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 75 bis 78
 - **Blöcke:** 1.588
 - **Bauteile:** `r1596052`
 
@@ -226,9 +227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.5 – Palazzo des Cinquecento an Via dello Studio – Teil 5/9 (Y 78–82)
+### Schritt 11.5 – Palazzo des Cinquecento an Via dello Studio – Teil 5/9 (Y 79–83)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 79 bis 83
 - **Blöcke:** 1.895
 - **Bauteile:** `r1596052`
 
@@ -259,9 +260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.6 – Palazzo des Cinquecento an Via dello Studio – Teil 6/9 (Y 83–86)
+### Schritt 11.6 – Palazzo des Cinquecento an Via dello Studio – Teil 6/9 (Y 84–87)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.498
 - **Bauteile:** `r1596052`
 
@@ -291,9 +292,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.7 – Palazzo des Cinquecento an Via dello Studio – Teil 7/9 (Y 87–89)
+### Schritt 11.7 – Palazzo des Cinquecento an Via dello Studio – Teil 7/9 (Y 88–90)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.416
 - **Bauteile:** `r1596052`
 
@@ -324,9 +325,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.8 – Palazzo des Cinquecento an Via dello Studio – Teil 8/9 (Y 90–91)
+### Schritt 11.8 – Palazzo des Cinquecento an Via dello Studio – Teil 8/9 (Y 91–92)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.946
 - **Bauteile:** `r1596052`
 
@@ -352,9 +353,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.9 – Palazzo des Cinquecento an Via dello Studio – Teil 9/9 (Y 92–99)
+### Schritt 11.9 – Palazzo des Cinquecento an Via dello Studio – Teil 9/9 (Y 93–100)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.817
 - **Bauteile:** `r1596052`
 
@@ -381,9 +382,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.10 – Palazzo des Cinquecento an Via dello Studio: Innenausbau – Teil 1/4 (Y 66–76)
+### Schritt 11.10 – Palazzo des Cinquecento an Via dello Studio: Innenausbau – Teil 1/4 (Y 67–77)
 
-- **Y-Bereich:** 66 bis 76
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.160
 - **Bauteile:** `r1596052_innen`
 
@@ -423,9 +424,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.11 – Palazzo des Cinquecento an Via dello Studio: Innenausbau – Teil 2/4 (Y 76–76)
+### Schritt 11.11 – Palazzo des Cinquecento an Via dello Studio: Innenausbau – Teil 2/4 (Y 77–77)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.041
 - **Bauteile:** `r1596052_innen`
 
@@ -452,9 +453,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.12 – Palazzo des Cinquecento an Via dello Studio: Innenausbau – Teil 3/4 (Y 77–82)
+### Schritt 11.12 – Palazzo des Cinquecento an Via dello Studio: Innenausbau – Teil 3/4 (Y 78–83)
 
-- **Y-Bereich:** 77 bis 82
+- **Y-Bereich:** 78 bis 83
 - **Blöcke:** 1.137
 - **Bauteile:** `r1596052_innen`
 
@@ -496,9 +497,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.13 – Palazzo des Cinquecento an Via dello Studio: Innenausbau – Teil 4/4 (Y 82–83)
+### Schritt 11.13 – Palazzo des Cinquecento an Via dello Studio: Innenausbau – Teil 4/4 (Y 83–84)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.050
 - **Bauteile:** `r1596052_innen`
 
@@ -876,14 +877,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.24 – Studio Fiorentino – Teil 3/4 (Y 88–97)
 
 - **Y-Bereich:** 88 bis 97
-- **Blöcke:** 1.909
+- **Blöcke:** 1.870
 - **Bauteile:** `w307544531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.595 |
+| Gelbe Keramik | `yellow_terracotta` | 1.556 |
 | Weißer Beton | `white_concrete` | 126 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Grüner Beton | `green_concrete` | 65 |

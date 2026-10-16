@@ -8,44 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 155.839 |
+| Blöcke | 155.676 |
 | Bauschritte | 96 |
-| Y-Bereich | 61 bis 104 |
+| Y-Bereich | 61 bis 105 |
 | X-Ausdehnung | -263 bis -18 (246 Blöcke) |
 | Z-Ausdehnung | -1445 bis -1309 (137 Blöcke) |
 | Kleinster Schritt | 829 Blöcke (Schritt 14.43) |
-| Mittlerer Schritt | 1.623 Blöcke |
+| Mittlerer Schritt | 1.622 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 14.40) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 50.172 | 32,2 % |
-| Orange Keramik | `orange_terracotta` | 19.256 | 12,4 % |
-| Tuffstein | `tuff` | 19.121 | 12,3 % |
-| Polierter Tuffstein | `polished_tuff` | 15.025 | 9,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 12.625 | 8,1 % |
-| Endsteinziegel | `end_stone_bricks` | 8.204 | 5,3 % |
+| Terrakotta | `terracotta` | 50.170 | 32,2 % |
+| Orange Keramik | `orange_terracotta` | 19.280 | 12,4 % |
+| Tuffstein | `tuff` | 19.096 | 12,3 % |
+| Polierter Tuffstein | `polished_tuff` | 15.025 | 9,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 12.509 | 8,0 % |
+| Endsteinziegel | `end_stone_bricks` | 8.150 | 5,2 % |
 | Polierter Andesit | `polished_andesite` | 8.053 | 5,2 % |
 | Weißer Beton | `white_concrete` | 7.129 | 4,6 % |
 | Glatter Stein | `smooth_stone` | 6.875 | 4,4 % |
 | Graues Buntglas | `gray_stained_glass` | 3.444 | 2,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.390 | 1,5 % |
 | Ziegelsteine | `bricks` | 818 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 652 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 654 | 0,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 493 | 0,3 % |
 | Grüner Beton | `green_concrete` | 455 | 0,3 % |
 | Seelaterne | `sea_lantern` | 299 | 0,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 166 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 125 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 120 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 119 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 114 | 0,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 164 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 145 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 137 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 102 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 98 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 32 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 32 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 35 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 35 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
 
@@ -53,14 +53,14 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 478 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 482 |
 | Steintreppe | `stone_stairs` | 120 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r6594371` | Renaissance-Palazzo an Via Santa Reparata | 32.371 | 14.1–14.21 |
+| 1 | `r6594371` | Renaissance-Palazzo an Via Santa Reparata | 32.408 | 14.1–14.21 |
 | 2 | `r6594371_innen` | Renaissance-Palazzo an Via Santa Reparata: Innenausbau | 7.092 | 14.22–14.25 |
 | 3 | `r7521922` | Reihenhaus an Via San Zanobi | 20.112 | 14.26–14.36 |
 | 4 | `r7521922_innen` | Reihenhaus an Via San Zanobi: Innenausbau | 6.223 | 14.37–14.39 |
@@ -72,27 +72,27 @@
 | 10 | `w519721720_innen` | Reihenhaus an Via San Zanobi: Innenausbau | 1.574 | 14.54 |
 | 11 | `w519721737` | Reihenhaus an Via Santa Reparata | 6.977 | 14.55–14.58 |
 | 12 | `w519721737_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.046 | 14.59 |
-| 13 | `w519721791` | Reihenhaus an Via Santa Reparata | 5.493 | 14.60–14.62 |
-| 14 | `w519721791_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.773 | 14.63 |
-| 15 | `w519721794` | Renaissance-Palazzo an Via Ventisette Aprile | 18.266 | 14.64–14.76 |
-| 16 | `w519721794_innen` | Renaissance-Palazzo an Via Ventisette Aprile: Innenausbau | 2.841 | 14.77–14.78 |
-| 17 | `w519721805` | Haus w519721805 | 5.991 | 14.79–14.81 |
-| 18 | `w519721805_innen` | Haus w519721805: Innenausbau | 1.749 | 14.82 |
-| 19 | `w519721823` | Reihenhaus an Via San Zanobi | 2.285 | 14.83–14.84 |
+| 13 | `w519721791` | Reihenhaus an Via Santa Reparata | 5.432 | 14.60–14.62 |
+| 14 | `w519721791_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.775 | 14.63 |
+| 15 | `w519721794` | Renaissance-Palazzo an Via Ventisette Aprile | 18.204 | 14.64–14.76 |
+| 16 | `w519721794_innen` | Renaissance-Palazzo an Via Ventisette Aprile: Innenausbau | 2.844 | 14.77–14.78 |
+| 17 | `w519721805` | Haus w519721805 | 6.015 | 14.79–14.81 |
+| 18 | `w519721805_innen` | Haus w519721805: Innenausbau | 1.756 | 14.82 |
+| 19 | `w519721823` | Reihenhaus an Via San Zanobi | 2.226 | 14.83–14.84 |
 | 20 | `w519721823_innen` | Reihenhaus an Via San Zanobi: Innenausbau | 1.523 | 14.85 |
 | 21 | `w519721828` | Reihenhaus an Via Santa Reparata | 4.701 | 14.86–14.88 |
 | 22 | `w519721828_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.917 | 14.89 |
-| 23 | `w519721832` | Palazzo des Cinquecento an Via Ventisette Aprile | 915 | 14.90 |
+| 23 | `w519721832` | Palazzo des Cinquecento an Via Ventisette Aprile | 861 | 14.90 |
 | 24 | `w519721832_innen` | Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau | 875 | 14.91 |
 | 25 | `w519721849` | Reihenhaus an Via San Zanobi | 5.761 | 14.92–14.94 |
 | 26 | `w519721849_innen` | Reihenhaus an Via San Zanobi: Innenausbau | 2.652 | 14.95–14.96 |
 
 ## Bauschritte
 
-### Schritt 14.1 – Renaissance-Palazzo an Via Santa Reparata – Teil 1/21 (Y 65–66)
+### Schritt 14.1 – Renaissance-Palazzo an Via Santa Reparata – Teil 1/21 (Y 65–67)
 
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.424
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.461
 - **Bauteile:** `r6594371`
 
 **Teileliste**
@@ -100,7 +100,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.422 |
-| Tuffstein | `tuff` | 2 |
+| Tuffstein | `tuff` | 39 |
 
 **Beschreibung**
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Renaissance-Palazzo an Via Santa Reparata – Teil 2/21 (Y 66–66)
+### Schritt 14.2 – Renaissance-Palazzo an Via Santa Reparata – Teil 2/21 (Y 67–67)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.376
 - **Bauteile:** `r6594371`
 
@@ -146,9 +146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Renaissance-Palazzo an Via Santa Reparata – Teil 3/21 (Y 66–67)
+### Schritt 14.3 – Renaissance-Palazzo an Via Santa Reparata – Teil 3/21 (Y 67–68)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 2.039
 - **Bauteile:** `r6594371`
 
@@ -178,9 +178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Renaissance-Palazzo an Via Santa Reparata – Teil 4/21 (Y 68–69)
+### Schritt 14.4 – Renaissance-Palazzo an Via Santa Reparata – Teil 4/21 (Y 69–70)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.231
 - **Bauteile:** `r6594371`
 
@@ -209,9 +209,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.5 – Renaissance-Palazzo an Via Santa Reparata – Teil 5/21 (Y 70–72)
+### Schritt 14.5 – Renaissance-Palazzo an Via Santa Reparata – Teil 5/21 (Y 71–73)
 
-- **Y-Bereich:** 70 bis 72
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.824
 - **Bauteile:** `r6594371`
 
@@ -241,9 +241,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.6 – Renaissance-Palazzo an Via Santa Reparata – Teil 6/21 (Y 73–74)
+### Schritt 14.6 – Renaissance-Palazzo an Via Santa Reparata – Teil 6/21 (Y 74–75)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.314
 - **Bauteile:** `r6594371`
 
@@ -273,9 +273,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.7 – Renaissance-Palazzo an Via Santa Reparata – Teil 7/21 (Y 75–76)
+### Schritt 14.7 – Renaissance-Palazzo an Via Santa Reparata – Teil 7/21 (Y 76–77)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.283
 - **Bauteile:** `r6594371`
 
@@ -304,9 +304,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.8 – Renaissance-Palazzo an Via Santa Reparata – Teil 8/21 (Y 77–78)
+### Schritt 14.8 – Renaissance-Palazzo an Via Santa Reparata – Teil 8/21 (Y 78–79)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.631
 - **Bauteile:** `r6594371`
 
@@ -335,9 +335,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.9 – Renaissance-Palazzo an Via Santa Reparata – Teil 9/21 (Y 79–80)
+### Schritt 14.9 – Renaissance-Palazzo an Via Santa Reparata – Teil 9/21 (Y 80–81)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.447
 - **Bauteile:** `r6594371`
 
@@ -367,9 +367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.10 – Renaissance-Palazzo an Via Santa Reparata – Teil 10/21 (Y 81–83)
+### Schritt 14.10 – Renaissance-Palazzo an Via Santa Reparata – Teil 10/21 (Y 82–84)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 2.037
 - **Bauteile:** `r6594371`
 
@@ -399,9 +399,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.11 – Renaissance-Palazzo an Via Santa Reparata – Teil 11/21 (Y 84–85)
+### Schritt 14.11 – Renaissance-Palazzo an Via Santa Reparata – Teil 11/21 (Y 85–86)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.414
 - **Bauteile:** `r6594371`
 
@@ -431,9 +431,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.12 – Renaissance-Palazzo an Via Santa Reparata – Teil 12/21 (Y 86–87)
+### Schritt 14.12 – Renaissance-Palazzo an Via Santa Reparata – Teil 12/21 (Y 87–88)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.631
 - **Bauteile:** `r6594371`
 
@@ -461,9 +461,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.13 – Renaissance-Palazzo an Via Santa Reparata – Teil 13/21 (Y 88–89)
+### Schritt 14.13 – Renaissance-Palazzo an Via Santa Reparata – Teil 13/21 (Y 89–90)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.447
 - **Bauteile:** `r6594371`
 
@@ -492,9 +492,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.14 – Renaissance-Palazzo an Via Santa Reparata – Teil 14/21 (Y 90–91)
+### Schritt 14.14 – Renaissance-Palazzo an Via Santa Reparata – Teil 14/21 (Y 91–92)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.358
 - **Bauteile:** `r6594371`
 
@@ -523,9 +523,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.15 – Renaissance-Palazzo an Via Santa Reparata – Teil 15/21 (Y 92–93)
+### Schritt 14.15 – Renaissance-Palazzo an Via Santa Reparata – Teil 15/21 (Y 93–94)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.363
 - **Bauteile:** `r6594371`
 
@@ -554,9 +554,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.16 – Renaissance-Palazzo an Via Santa Reparata – Teil 16/21 (Y 94–95)
+### Schritt 14.16 – Renaissance-Palazzo an Via Santa Reparata – Teil 16/21 (Y 95–96)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 95 bis 96
 - **Blöcke:** 2.059
 - **Bauteile:** `r6594371`
 
@@ -584,9 +584,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.17 – Renaissance-Palazzo an Via Santa Reparata – Teil 17/21 (Y 96–96)
+### Schritt 14.17 – Renaissance-Palazzo an Via Santa Reparata – Teil 17/21 (Y 97–97)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.403
 - **Bauteile:** `r6594371`
 
@@ -614,9 +614,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.18 – Renaissance-Palazzo an Via Santa Reparata – Teil 18/21 (Y 97–97)
+### Schritt 14.18 – Renaissance-Palazzo an Via Santa Reparata – Teil 18/21 (Y 98–98)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 2.058
 - **Bauteile:** `r6594371`
 
@@ -642,9 +642,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.19 – Renaissance-Palazzo an Via Santa Reparata – Teil 19/21 (Y 98–98)
+### Schritt 14.19 – Renaissance-Palazzo an Via Santa Reparata – Teil 19/21 (Y 99–99)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.110
 - **Bauteile:** `r6594371`
 
@@ -670,9 +670,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.20 – Renaissance-Palazzo an Via Santa Reparata – Teil 20/21 (Y 99–99)
+### Schritt 14.20 – Renaissance-Palazzo an Via Santa Reparata – Teil 20/21 (Y 100–100)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.077
 - **Bauteile:** `r6594371`
 
@@ -698,9 +698,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.21 – Renaissance-Palazzo an Via Santa Reparata – Teil 21/21 (Y 100–104)
+### Schritt 14.21 – Renaissance-Palazzo an Via Santa Reparata – Teil 21/21 (Y 101–105)
 
-- **Y-Bereich:** 100 bis 104
+- **Y-Bereich:** 101 bis 105
 - **Blöcke:** 1.845
 - **Bauteile:** `r6594371`
 
@@ -727,9 +727,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.22 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau – Teil 1/4 (Y 66–77)
+### Schritt 14.22 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau – Teil 1/4 (Y 67–78)
 
-- **Y-Bereich:** 66 bis 77
+- **Y-Bereich:** 67 bis 78
 - **Blöcke:** 1.819
 - **Bauteile:** `r6594371_innen`
 
@@ -765,9 +765,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.23 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau – Teil 2/4 (Y 77–77)
+### Schritt 14.23 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau – Teil 2/4 (Y 78–78)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.738
 - **Bauteile:** `r6594371_innen`
 
@@ -801,9 +801,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.24 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau – Teil 3/4 (Y 78–86)
+### Schritt 14.24 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau – Teil 3/4 (Y 79–87)
 
-- **Y-Bereich:** 78 bis 86
+- **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.795
 - **Bauteile:** `r6594371_innen`
 
@@ -841,9 +841,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.25 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau – Teil 4/4 (Y 86–87)
+### Schritt 14.25 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau – Teil 4/4 (Y 87–88)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.740
 - **Bauteile:** `r6594371_innen`
 
@@ -2069,17 +2069,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.62 – Reihenhaus an Via Santa Reparata – Teil 3/3 (Y 92–102)
 
 - **Y-Bereich:** 92 bis 102
-- **Blöcke:** 1.831
+- **Blöcke:** 1.770
 - **Bauteile:** `w519721791`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 899 |
-| Glatter Sandstein | `smooth_sandstone` | 674 |
+| Terrakotta | `terracotta` | 897 |
+| Glatter Sandstein | `smooth_sandstone` | 617 |
 | Weißer Beton | `white_concrete` | 94 |
-| Fichtenholz-Bretter | `spruce_planks` | 88 |
+| Fichtenholz-Bretter | `spruce_planks` | 86 |
 | Ziegelsteine | `bricks` | 40 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 
@@ -2102,7 +2102,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.63 – Reihenhaus an Via Santa Reparata: Innenausbau
 
 - **Y-Bereich:** 67 bis 90
-- **Blöcke:** 1.773
+- **Blöcke:** 1.775
 - **Bauteile:** `w519721791_innen`
 
 **Teileliste**
@@ -2114,6 +2114,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2137,9 +2139,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.64 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 1/13 (Y 64–64)
+### Schritt 14.64 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 1/13 (Y 65–65)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.823
 - **Bauteile:** `w519721794`
 
@@ -2165,17 +2167,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.65 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 2/13 (Y 65–66)
+### Schritt 14.65 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 2/13 (Y 66–67)
 
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 900
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 838
 - **Bauteile:** `w519721794`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 726 |
+| Tuffstein | `tuff` | 664 |
 | Tuffsteinziegel | `tuff_bricks` | 158 |
 | Glatter Stein | `smooth_stone` | 12 |
 | Polierter Andesit | `polished_andesite` | 4 |
@@ -2196,9 +2198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.66 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 3/13 (Y 67–70)
+### Schritt 14.66 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 3/13 (Y 68–71)
 
-- **Y-Bereich:** 67 bis 70
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 1.546
 - **Bauteile:** `w519721794`
 
@@ -2228,9 +2230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.67 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 4/13 (Y 71–73)
+### Schritt 14.67 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 4/13 (Y 72–74)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.203
 - **Bauteile:** `w519721794`
 
@@ -2259,9 +2261,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.68 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 5/13 (Y 74–76)
+### Schritt 14.68 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 5/13 (Y 75–77)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.452
 - **Bauteile:** `w519721794`
 
@@ -2290,9 +2292,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.69 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 6/13 (Y 77–79)
+### Schritt 14.69 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 6/13 (Y 78–80)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.331
 - **Bauteile:** `w519721794`
 
@@ -2322,9 +2324,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.70 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 7/13 (Y 80–83)
+### Schritt 14.70 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 7/13 (Y 81–84)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.722
 - **Bauteile:** `w519721794`
 
@@ -2354,9 +2356,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.71 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 8/13 (Y 84–86)
+### Schritt 14.71 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 8/13 (Y 85–87)
 
-- **Y-Bereich:** 84 bis 86
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.508
 - **Bauteile:** `w519721794`
 
@@ -2384,9 +2386,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.72 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 9/13 (Y 87–89)
+### Schritt 14.72 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 9/13 (Y 88–90)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.263
 - **Bauteile:** `w519721794`
 
@@ -2415,9 +2417,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.73 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 10/13 (Y 90–92)
+### Schritt 14.73 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 10/13 (Y 91–93)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.410
 - **Bauteile:** `w519721794`
 
@@ -2446,9 +2448,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.74 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 11/13 (Y 93–94)
+### Schritt 14.74 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 11/13 (Y 94–95)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.552
 - **Bauteile:** `w519721794`
 
@@ -2476,9 +2478,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.75 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 12/13 (Y 95–95)
+### Schritt 14.75 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 12/13 (Y 96–96)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.469
 - **Bauteile:** `w519721794`
 
@@ -2504,9 +2506,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.76 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 13/13 (Y 96–101)
+### Schritt 14.76 – Renaissance-Palazzo an Via Ventisette Aprile – Teil 13/13 (Y 97–102)
 
-- **Y-Bereich:** 96 bis 101
+- **Y-Bereich:** 97 bis 102
 - **Blöcke:** 1.087
 - **Bauteile:** `w519721794`
 
@@ -2533,9 +2535,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.77 – Renaissance-Palazzo an Via Ventisette Aprile: Innenausbau – Teil 1/2 (Y 64–75)
+### Schritt 14.77 – Renaissance-Palazzo an Via Ventisette Aprile: Innenausbau – Teil 1/2 (Y 65–76)
 
-- **Y-Bereich:** 64 bis 75
+- **Y-Bereich:** 65 bis 76
 - **Blöcke:** 1.428
 - **Bauteile:** `w519721794_innen`
 
@@ -2571,10 +2573,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.78 – Renaissance-Palazzo an Via Ventisette Aprile: Innenausbau – Teil 2/2 (Y 76–84)
+### Schritt 14.78 – Renaissance-Palazzo an Via Ventisette Aprile: Innenausbau – Teil 2/2 (Y 77–86)
 
-- **Y-Bereich:** 76 bis 84
-- **Blöcke:** 1.413
+- **Y-Bereich:** 77 bis 86
+- **Blöcke:** 1.416
 - **Bauteile:** `w519721794_innen`
 
 **Teileliste**
@@ -2586,6 +2588,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 9 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
 
@@ -2594,6 +2599,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -2614,14 +2620,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 14.79 – Haus w519721805 – Teil 1/3 (Y 64–75)
 
 - **Y-Bereich:** 64 bis 75
-- **Blöcke:** 1.991
+- **Blöcke:** 2.014
 - **Bauteile:** `w519721805`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.074 |
+| Orange Keramik | `orange_terracotta` | 1.097 |
 | Polierter Tuffstein | `polished_tuff` | 692 |
 | Glatter Stein | `smooth_stone` | 101 |
 | Graues Buntglas | `gray_stained_glass` | 68 |
@@ -2676,7 +2682,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.81 – Haus w519721805 – Teil 3/3 (Y 90–104)
 
 - **Y-Bereich:** 90 bis 104
-- **Blöcke:** 2.010
+- **Blöcke:** 2.011
 - **Bauteile:** `w519721805`
 
 **Teileliste**
@@ -2684,7 +2690,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 892 |
-| Orange Keramik | `orange_terracotta` | 885 |
+| Orange Keramik | `orange_terracotta` | 886 |
 | Glatter Stein | `smooth_stone` | 131 |
 | Graues Buntglas | `gray_stained_glass` | 59 |
 | Ziegelsteine | `bricks` | 43 |
@@ -2708,7 +2714,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.82 – Haus w519721805: Innenausbau
 
 - **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.749
+- **Blöcke:** 1.756
 - **Bauteile:** `w519721805_innen`
 
 **Teileliste**
@@ -2716,20 +2722,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.611 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 69 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Rote Keramik | `red_terracotta` | 5 |
+| Weiße Keramik | `white_terracotta` | 5 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 
@@ -2782,7 +2788,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.84 – Reihenhaus an Via San Zanobi – Teil 2/2 (Y 83–100)
 
 - **Y-Bereich:** 83 bis 100
-- **Blöcke:** 1.156
+- **Blöcke:** 1.097
 - **Bauteile:** `w519721823`
 
 **Teileliste**
@@ -2790,7 +2796,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 596 |
-| Glatter Sandstein | `smooth_sandstone` | 480 |
+| Glatter Sandstein | `smooth_sandstone` | 421 |
 | Glatter Stein | `smooth_stone` | 32 |
 | Graues Buntglas | `gray_stained_glass` | 21 |
 | Fichtenholz-Bretter | `spruce_planks` | 21 |
@@ -2824,8 +2830,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.401 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
 
 **Treppen je Material** (alle Richtungen)
@@ -2988,7 +2994,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 14.90 – Palazzo des Cinquecento an Via Ventisette Aprile
 
 - **Y-Bereich:** 65 bis 100
-- **Blöcke:** 915
+- **Blöcke:** 861
 - **Bauteile:** `w519721832`
 
 **Teileliste**
@@ -2997,7 +3003,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 457 |
 | Polierter Tuffstein | `polished_tuff` | 395 |
-| Endsteinziegel | `end_stone_bricks` | 54 |
 | Ziegelsteine | `bricks` | 9 |
 
 **Beschreibung**

@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 341.627 |
+| Blöcke | 341.673 |
 | Bauschritte | 221 |
-| Y-Bereich | 54 bis 98 |
+| Y-Bereich | 54 bis 99 |
 | X-Ausdehnung | -2698 bis -2211 (488 Blöcke) |
 | Z-Ausdehnung | -980 bis -522 (459 Blöcke) |
 | Kleinster Schritt | 671 Blöcke (Schritt 26.4) |
@@ -22,8 +22,8 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 116.395 | 34,1 % |
-| Polierter Tuffstein | `polished_tuff` | 36.868 | 10,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 34.040 | 10,0 % |
+| Polierter Tuffstein | `polished_tuff` | 36.870 | 10,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 34.108 | 10,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 30.836 | 9,0 % |
 | Tuffstein | `tuff` | 23.511 | 6,9 % |
 | Polierter Andesit | `polished_andesite` | 18.836 | 5,5 % |
@@ -32,24 +32,24 @@
 | Weißer Beton | `white_concrete` | 13.596 | 4,0 % |
 | Endsteinziegel | `end_stone_bricks` | 6.438 | 1,9 % |
 | Graues Buntglas | `gray_stained_glass` | 6.229 | 1,8 % |
-| Orange Keramik | `orange_terracotta` | 6.161 | 1,8 % |
+| Orange Keramik | `orange_terracotta` | 6.128 | 1,8 % |
 | Rosa Keramik | `pink_terracotta` | 5.213 | 1,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 3.238 | 0,9 % |
 | Ziegelsteine | `bricks` | 2.063 | 0,6 % |
-| Seelaterne | `sea_lantern` | 605 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 598 | 0,2 % |
+| Seelaterne | `sea_lantern` | 598 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 504 | 0,1 % |
 | Grüner Beton | `green_concrete` | 342 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 172 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 162 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 195 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 183 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 84 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 80 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 64 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 61 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 57 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 56 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 39 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 39 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 47 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 47 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 38 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 36 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
@@ -69,7 +69,7 @@
 | 2 | `r4085859_innen` | Palazzo Corsini al Prato: Innenausbau | 10.204 | 26.25–26.30 |
 | 3 | `r7057598` | Palazzo des Ottocento an Il Prato | 42.487 | 26.31–26.62 |
 | 4 | `r7057598_innen` | Palazzo des Ottocento an Il Prato: Innenausbau | 11.463 | 26.63–26.68 |
-| 5 | `r7057605` | Palazzo des Cinquecento an Via il Prato | 57.625 | 26.69–26.108 |
+| 5 | `r7057605` | Palazzo des Cinquecento an Via il Prato | 57.692 | 26.69–26.108 |
 | 6 | `r7057605_innen` | Palazzo des Cinquecento an Via il Prato: Innenausbau | 13.566 | 26.109–26.116 |
 | 7 | `r7057607` | Haus r7057607 | 34.125 | 26.117–26.141 |
 | 8 | `r7057607_innen` | Haus r7057607: Innenausbau | 5.851 | 26.142–26.145 |
@@ -79,8 +79,8 @@
 | 12 | `w479555954_innen` | Reihenhaus an Via il Prato: Innenausbau | 1.794 | 26.154 |
 | 13 | `w479555969` | Reihenhaus an Il Prato | 4.521 | 26.155–26.157 |
 | 14 | `w479555969_innen` | Reihenhaus an Il Prato: Innenausbau | 841 | 26.158 |
-| 15 | `w479555984` | Reihenhaus an Il Prato | 9.632 | 26.159–26.163 |
-| 16 | `w479555984_innen` | Reihenhaus an Il Prato: Innenausbau | 2.384 | 26.164–26.165 |
+| 15 | `w479555984` | Reihenhaus an Il Prato | 9.599 | 26.159–26.163 |
+| 16 | `w479555984_innen` | Reihenhaus an Il Prato: Innenausbau | 2.396 | 26.164–26.165 |
 | 17 | `w479555986` | Reihenhaus an Via il Prato | 5.460 | 26.166–26.168 |
 | 18 | `w479555986_innen` | Reihenhaus an Via il Prato: Innenausbau | 1.841 | 26.169 |
 | 19 | `w479555990` | Reihenhaus an Piazzale di Porta al Prato | 9.791 | 26.170–26.174 |
@@ -101,9 +101,9 @@
 
 ## Bauschritte
 
-### Schritt 26.1 – Palazzo Corsini al Prato – Teil 1/24 (Y 54–54)
+### Schritt 26.1 – Palazzo Corsini al Prato – Teil 1/24 (Y 55–55)
 
-- **Y-Bereich:** 54 bis 54
+- **Y-Bereich:** 55 bis 55
 - **Blöcke:** 1.914
 - **Bauteile:** `r4085859`
 
@@ -129,9 +129,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.2 – Palazzo Corsini al Prato – Teil 2/24 (Y 54–54)
+### Schritt 26.2 – Palazzo Corsini al Prato – Teil 2/24 (Y 55–55)
 
-- **Y-Bereich:** 54 bis 54
+- **Y-Bereich:** 55 bis 55
 - **Blöcke:** 1.952
 - **Bauteile:** `r4085859`
 
@@ -157,9 +157,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.3 – Palazzo Corsini al Prato – Teil 3/24 (Y 54–54)
+### Schritt 26.3 – Palazzo Corsini al Prato – Teil 3/24 (Y 55–55)
 
-- **Y-Bereich:** 54 bis 54
+- **Y-Bereich:** 55 bis 55
 - **Blöcke:** 1.902
 - **Bauteile:** `r4085859`
 
@@ -185,9 +185,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.4 – Palazzo Corsini al Prato – Teil 4/24 (Y 55–55)
+### Schritt 26.4 – Palazzo Corsini al Prato – Teil 4/24 (Y 56–56)
 
-- **Y-Bereich:** 55 bis 55
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 671
 - **Bauteile:** `r4085859`
 
@@ -216,9 +216,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.5 – Palazzo Corsini al Prato – Teil 5/24 (Y 56–57)
+### Schritt 26.5 – Palazzo Corsini al Prato – Teil 5/24 (Y 57–58)
 
-- **Y-Bereich:** 56 bis 57
+- **Y-Bereich:** 57 bis 58
 - **Blöcke:** 1.269
 - **Bauteile:** `r4085859`
 
@@ -247,9 +247,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.6 – Palazzo Corsini al Prato – Teil 6/24 (Y 58–59)
+### Schritt 26.6 – Palazzo Corsini al Prato – Teil 6/24 (Y 59–60)
 
-- **Y-Bereich:** 58 bis 59
+- **Y-Bereich:** 59 bis 60
 - **Blöcke:** 1.360
 - **Bauteile:** `r4085859`
 
@@ -279,9 +279,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.7 – Palazzo Corsini al Prato – Teil 7/24 (Y 60–61)
+### Schritt 26.7 – Palazzo Corsini al Prato – Teil 7/24 (Y 61–62)
 
-- **Y-Bereich:** 60 bis 61
+- **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.288
 - **Bauteile:** `r4085859`
 
@@ -311,9 +311,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.8 – Palazzo Corsini al Prato – Teil 8/24 (Y 62–64)
+### Schritt 26.8 – Palazzo Corsini al Prato – Teil 8/24 (Y 63–65)
 
-- **Y-Bereich:** 62 bis 64
+- **Y-Bereich:** 63 bis 65
 - **Blöcke:** 2.021
 - **Bauteile:** `r4085859`
 
@@ -342,9 +342,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.9 – Palazzo Corsini al Prato – Teil 9/24 (Y 65–66)
+### Schritt 26.9 – Palazzo Corsini al Prato – Teil 9/24 (Y 66–67)
 
-- **Y-Bereich:** 65 bis 66
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.656
 - **Bauteile:** `r4085859`
 
@@ -373,9 +373,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.10 – Palazzo Corsini al Prato – Teil 10/24 (Y 67–68)
+### Schritt 26.10 – Palazzo Corsini al Prato – Teil 10/24 (Y 68–69)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.507
 - **Bauteile:** `r4085859`
 
@@ -405,9 +405,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.11 – Palazzo Corsini al Prato – Teil 11/24 (Y 69–70)
+### Schritt 26.11 – Palazzo Corsini al Prato – Teil 11/24 (Y 70–71)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.452
 - **Bauteile:** `r4085859`
 
@@ -437,9 +437,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.12 – Palazzo Corsini al Prato – Teil 12/24 (Y 71–72)
+### Schritt 26.12 – Palazzo Corsini al Prato – Teil 12/24 (Y 72–73)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.452
 - **Bauteile:** `r4085859`
 
@@ -469,9 +469,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.13 – Palazzo Corsini al Prato – Teil 13/24 (Y 73–74)
+### Schritt 26.13 – Palazzo Corsini al Prato – Teil 13/24 (Y 74–75)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.656
 - **Bauteile:** `r4085859`
 
@@ -500,9 +500,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.14 – Palazzo Corsini al Prato – Teil 14/24 (Y 75–76)
+### Schritt 26.14 – Palazzo Corsini al Prato – Teil 14/24 (Y 76–77)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.531
 - **Bauteile:** `r4085859`
 
@@ -530,9 +530,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.15 – Palazzo Corsini al Prato – Teil 15/24 (Y 77–78)
+### Schritt 26.15 – Palazzo Corsini al Prato – Teil 15/24 (Y 78–79)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.452
 - **Bauteile:** `r4085859`
 
@@ -561,9 +561,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.16 – Palazzo Corsini al Prato – Teil 16/24 (Y 79–80)
+### Schritt 26.16 – Palazzo Corsini al Prato – Teil 16/24 (Y 80–81)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.452
 - **Bauteile:** `r4085859`
 
@@ -592,9 +592,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.17 – Palazzo Corsini al Prato – Teil 17/24 (Y 81–82)
+### Schritt 26.17 – Palazzo Corsini al Prato – Teil 17/24 (Y 82–83)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.635
 - **Bauteile:** `r4085859`
 
@@ -623,9 +623,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.18 – Palazzo Corsini al Prato – Teil 18/24 (Y 83–83)
+### Schritt 26.18 – Palazzo Corsini al Prato – Teil 18/24 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.109
 - **Bauteile:** `r4085859`
 
@@ -653,9 +653,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.19 – Palazzo Corsini al Prato – Teil 19/24 (Y 84–84)
+### Schritt 26.19 – Palazzo Corsini al Prato – Teil 19/24 (Y 85–85)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.339
 - **Bauteile:** `r4085859`
 
@@ -683,9 +683,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.20 – Palazzo Corsini al Prato – Teil 20/24 (Y 85–85)
+### Schritt 26.20 – Palazzo Corsini al Prato – Teil 20/24 (Y 86–86)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 2.008
 - **Bauteile:** `r4085859`
 
@@ -711,9 +711,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.21 – Palazzo Corsini al Prato – Teil 21/24 (Y 86–86)
+### Schritt 26.21 – Palazzo Corsini al Prato – Teil 21/24 (Y 87–87)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.100
 - **Bauteile:** `r4085859`
 
@@ -739,9 +739,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.22 – Palazzo Corsini al Prato – Teil 22/24 (Y 87–87)
+### Schritt 26.22 – Palazzo Corsini al Prato – Teil 22/24 (Y 88–88)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.205
 - **Bauteile:** `r4085859`
 
@@ -767,9 +767,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.23 – Palazzo Corsini al Prato – Teil 23/24 (Y 88–89)
+### Schritt 26.23 – Palazzo Corsini al Prato – Teil 23/24 (Y 89–90)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.812
 - **Bauteile:** `r4085859`
 
@@ -796,9 +796,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.24 – Palazzo Corsini al Prato – Teil 24/24 (Y 90–98)
+### Schritt 26.24 – Palazzo Corsini al Prato – Teil 24/24 (Y 91–99)
 
-- **Y-Bereich:** 90 bis 98
+- **Y-Bereich:** 91 bis 99
 - **Blöcke:** 1.924
 - **Bauteile:** `r4085859`
 
@@ -825,9 +825,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.25 – Palazzo Corsini al Prato: Innenausbau – Teil 1/6 (Y 54–65)
+### Schritt 26.25 – Palazzo Corsini al Prato: Innenausbau – Teil 1/6 (Y 55–66)
 
-- **Y-Bereich:** 54 bis 65
+- **Y-Bereich:** 55 bis 66
 - **Blöcke:** 1.746
 - **Bauteile:** `r4085859_innen`
 
@@ -867,9 +867,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.26 – Palazzo Corsini al Prato: Innenausbau – Teil 2/6 (Y 65–65)
+### Schritt 26.26 – Palazzo Corsini al Prato: Innenausbau – Teil 2/6 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.715
 - **Bauteile:** `r4085859_innen`
 
@@ -896,9 +896,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.27 – Palazzo Corsini al Prato: Innenausbau – Teil 3/6 (Y 65–65)
+### Schritt 26.27 – Palazzo Corsini al Prato: Innenausbau – Teil 3/6 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.654
 - **Bauteile:** `r4085859_innen`
 
@@ -925,9 +925,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.28 – Palazzo Corsini al Prato: Innenausbau – Teil 4/6 (Y 66–74)
+### Schritt 26.28 – Palazzo Corsini al Prato: Innenausbau – Teil 4/6 (Y 67–75)
 
-- **Y-Bereich:** 66 bis 74
+- **Y-Bereich:** 67 bis 75
 - **Blöcke:** 1.715
 - **Bauteile:** `r4085859_innen`
 
@@ -965,9 +965,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.29 – Palazzo Corsini al Prato: Innenausbau – Teil 5/6 (Y 74–74)
+### Schritt 26.29 – Palazzo Corsini al Prato: Innenausbau – Teil 5/6 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.715
 - **Bauteile:** `r4085859_innen`
 
@@ -994,9 +994,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.30 – Palazzo Corsini al Prato: Innenausbau – Teil 6/6 (Y 74–75)
+### Schritt 26.30 – Palazzo Corsini al Prato: Innenausbau – Teil 6/6 (Y 75–76)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.659
 - **Bauteile:** `r4085859_innen`
 
@@ -2278,14 +2278,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.71 – Palazzo des Cinquecento an Via il Prato – Teil 3/40 (Y 54–54)
 
 - **Y-Bereich:** 54 bis 54
-- **Blöcke:** 2.044
+- **Blöcke:** 2.045
 - **Bauteile:** `r7057605`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.044 |
+| Polierter Tuffstein | `polished_tuff` | 2.045 |
 
 **Beschreibung**
 
@@ -2334,14 +2334,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.73 – Palazzo des Cinquecento an Via il Prato – Teil 5/40 (Y 55–55)
 
 - **Y-Bereich:** 55 bis 55
-- **Blöcke:** 1.291
+- **Blöcke:** 1.356
 - **Bauteile:** `r7057605`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.266 |
+| Glatter Sandstein | `smooth_sandstone` | 1.331 |
 | Polierter Andesit | `polished_andesite` | 22 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
@@ -3165,14 +3165,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.101 – Palazzo des Cinquecento an Via il Prato – Teil 33/40 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.589
+- **Blöcke:** 1.590
 - **Bauteile:** `r7057605`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.570 |
+| Glatter Sandstein | `smooth_sandstone` | 1.571 |
 | Polierter Andesit | `polished_andesite` | 19 |
 
 **Beschreibung**
@@ -3194,14 +3194,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.102 – Palazzo des Cinquecento an Via il Prato – Teil 34/40 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.587
+- **Blöcke:** 1.589
 - **Bauteile:** `r7057605`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.581 |
+| Glatter Sandstein | `smooth_sandstone` | 1.583 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
@@ -3223,14 +3223,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.103 – Palazzo des Cinquecento an Via il Prato – Teil 35/40 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.731
+- **Blöcke:** 1.730
 - **Bauteile:** `r7057605`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.731 |
+| Terrakotta | `terracotta` | 1.730 |
 
 **Beschreibung**
 
@@ -3251,14 +3251,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.104 – Palazzo des Cinquecento an Via il Prato – Teil 36/40 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.753
+- **Blöcke:** 1.752
 - **Bauteile:** `r7057605`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.753 |
+| Terrakotta | `terracotta` | 1.752 |
 
 **Beschreibung**
 
@@ -3393,7 +3393,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.109 – Palazzo des Cinquecento an Via il Prato: Innenausbau – Teil 1/8 (Y 54–64)
 
 - **Y-Bereich:** 54 bis 64
-- **Blöcke:** 1.771
+- **Blöcke:** 1.770
 - **Bauteile:** `r7057605_innen`
 
 **Teileliste**
@@ -3401,13 +3401,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.675 |
-| Seelaterne | `sea_lantern` | 47 |
+| Seelaterne | `sea_lantern` | 46 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3493,7 +3493,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 26.112 – Palazzo des Cinquecento an Via il Prato: Innenausbau – Teil 4/8 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.681
+- **Blöcke:** 1.680
 - **Bauteile:** `r7057605_innen`
 
 **Teileliste**
@@ -3501,7 +3501,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.671 |
-| Seelaterne | `sea_lantern` | 10 |
+| Seelaterne | `sea_lantern` | 9 |
 
 **Beschreibung**
 
@@ -3522,7 +3522,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 26.113 – Palazzo des Cinquecento an Via il Prato: Innenausbau – Teil 5/8 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
-- **Blöcke:** 1.734
+- **Blöcke:** 1.738
 - **Bauteile:** `r7057605_innen`
 
 **Teileliste**
@@ -3534,11 +3534,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3624,7 +3624,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 26.116 – Palazzo des Cinquecento an Via il Prato: Innenausbau – Teil 8/8 (Y 74–75)
 
 - **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.688
+- **Blöcke:** 1.686
 - **Bauteile:** `r7057605_innen`
 
 **Teileliste**
@@ -3632,18 +3632,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.671 |
-| Seelaterne | `sea_lantern` | 10 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Seelaterne | `sea_lantern` | 9 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Beschreibung**
 
@@ -4998,14 +4989,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 26.159 – Reihenhaus an Il Prato – Teil 1/5 (Y 55–59)
 
 - **Y-Bereich:** 55 bis 59
-- **Blöcke:** 1.940
+- **Blöcke:** 1.941
 - **Bauteile:** `w479555984`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.000 |
+| Polierter Tuffstein | `polished_tuff` | 1.001 |
 | Orange Keramik | `orange_terracotta` | 842 |
 | Weißer Beton | `white_concrete` | 75 |
 | Polierter Andesit | `polished_andesite` | 12 |
@@ -5121,15 +5112,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.163 – Reihenhaus an Il Prato – Teil 5/5 (Y 84–92)
 
 - **Y-Bereich:** 84 bis 92
-- **Blöcke:** 1.924
+- **Blöcke:** 1.890
 - **Bauteile:** `w479555984`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.247 |
-| Orange Keramik | `orange_terracotta` | 546 |
+| Terrakotta | `terracotta` | 1.246 |
+| Orange Keramik | `orange_terracotta` | 513 |
 | Weißer Beton | `white_concrete` | 77 |
 | Ziegelsteine | `bricks` | 54 |
 
@@ -5152,20 +5143,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 26.164 – Reihenhaus an Il Prato: Innenausbau – Teil 1/2 (Y 55–70)
 
 - **Y-Bereich:** 55 bis 70
-- **Blöcke:** 838
+- **Blöcke:** 841
 - **Bauteile:** `w479555984_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 749 |
+| Terrakotta | `terracotta` | 750 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
-| Seelaterne | `sea_lantern` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
+| Seelaterne | `sea_lantern` | 10 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -5189,27 +5182,31 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.165 – Reihenhaus an Il Prato: Innenausbau – Teil 2/2 (Y 71–78)
+### Schritt 26.165 – Reihenhaus an Il Prato: Innenausbau – Teil 2/2 (Y 71–79)
 
-- **Y-Bereich:** 71 bis 78
-- **Blöcke:** 1.546
+- **Y-Bereich:** 71 bis 79
+- **Blöcke:** 1.555
 - **Bauteile:** `w479555984_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.498 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Terrakotta | `terracotta` | 1.500 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
 
 **Beschreibung**
 

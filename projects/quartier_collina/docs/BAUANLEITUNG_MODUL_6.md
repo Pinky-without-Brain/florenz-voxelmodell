@@ -8,51 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.265 |
-| Bauschritte | 6 |
-| Y-Bereich | 166 bis 191 |
+| Blöcke | 12.179 |
+| Bauschritte | 7 |
+| Y-Bereich | 166 bis 193 |
 | X-Ausdehnung | -990 bis -893 (98 Blöcke) |
 | Z-Ausdehnung | 2333 bis 2400 (68 Blöcke) |
-| Kleinster Schritt | 1.519 Blöcke (Schritt 6.3) |
-| Mittlerer Schritt | 1.878 Blöcke |
-| Größter Schritt | 2.056 Blöcke (Schritt 6.4) |
+| Kleinster Schritt | 1.324 Blöcke (Schritt 6.1) |
+| Mittlerer Schritt | 1.740 Blöcke |
+| Größter Schritt | 2.056 Blöcke (Schritt 6.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 7.213 | 64,0 % |
-| Terrakotta | `terracotta` | 1.223 | 10,9 % |
-| Polierter Andesit | `polished_andesite` | 1.075 | 9,5 % |
-| Polierter Tuffstein | `polished_tuff` | 1.044 | 9,3 % |
-| Tuffstein | `tuff` | 413 | 3,7 % |
-| Graues Buntglas | `gray_stained_glass` | 285 | 2,5 % |
-| Ziegelsteine | `bricks` | 6 | 0,1 % |
-| Seelaterne | `sea_lantern` | 6 | 0,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 7.213 | 59,2 % |
+| Tuffstein | `tuff` | 1.324 | 10,9 % |
+| Terrakotta | `terracotta` | 1.223 | 10,0 % |
+| Polierter Andesit | `polished_andesite` | 1.078 | 8,9 % |
+| Polierter Tuffstein | `polished_tuff` | 1.044 | 8,6 % |
+| Graues Buntglas | `gray_stained_glass` | 285 | 2,3 % |
+| Ziegelsteine | `bricks` | 6 | 0,0 % |
+| Seelaterne | `sea_lantern` | 6 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w375220460` | Haus w375220460 | 11.259 | 6.1–6.6 |
-| 2 | `w375220460_innen` | Haus w375220460: Innenausbau | 6 | 6.6 |
+| 1 | `w375220460` | Haus w375220460 | 12.173 | 6.1–6.7 |
+| 2 | `w375220460_innen` | Haus w375220460: Innenausbau | 6 | 6.7 |
 
 ## Bauschritte
 
-### Schritt 6.1 – Haus w375220460 – Teil 1/6 (Y 166–170)
+### Schritt 6.1 – Haus w375220460 – Teil 1/7 (Y 166–170)
 
 - **Y-Bereich:** 166 bis 170
-- **Blöcke:** 1.963
+- **Blöcke:** 1.324
 - **Bauteile:** `w375220460`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.044 |
-| Gelbe Keramik | `yellow_terracotta` | 504 |
-| Tuffstein | `tuff` | 413 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Tuffstein | `tuff` | 1.324 |
 
 **Beschreibung**
 
@@ -70,69 +67,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.2 – Haus w375220460 – Teil 2/6 (Y 171–174)
+### Schritt 6.2 – Haus w375220460 – Teil 2/7 (Y 171–173)
 
-- **Y-Bereich:** 171 bis 174
-- **Blöcke:** 2.015
-- **Bauteile:** `w375220460`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.663 |
-| Polierter Andesit | `polished_andesite` | 282 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.3 – Haus w375220460 – Teil 3/6 (Y 175–177)
-
-- **Y-Bereich:** 175 bis 177
-- **Blöcke:** 1.519
-- **Bauteile:** `w375220460`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.309 |
-| Polierter Andesit | `polished_andesite` | 175 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.4 – Haus w375220460 – Teil 4/6 (Y 178–181)
-
-- **Y-Bereich:** 178 bis 181
+- **Y-Bereich:** 171 bis 173
 - **Blöcke:** 2.056
 - **Bauteile:** `w375220460`
 
@@ -140,7 +77,96 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.810 |
+| Polierter Tuffstein | `polished_tuff` | 1.044 |
+| Gelbe Keramik | `yellow_terracotta` | 1.008 |
+| Polierter Andesit | `polished_andesite` | 4 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 6.3 – Haus w375220460 – Teil 3/7 (Y 174–177)
+
+- **Y-Bereich:** 174 bis 177
+- **Blöcke:** 2.005
+- **Bauteile:** `w375220460`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.547 |
+| Polierter Andesit | `polished_andesite` | 353 |
+| Graues Buntglas | `gray_stained_glass` | 105 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 6.4 – Haus w375220460 – Teil 4/7 (Y 178–180)
+
+- **Y-Bereich:** 178 bis 180
+- **Blöcke:** 1.539
+- **Bauteile:** `w375220460`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.434 |
+| Polierter Andesit | `polished_andesite` | 105 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 6.5 – Haus w375220460 – Teil 5/7 (Y 181–183)
+
+- **Y-Bereich:** 181 bis 183
+- **Blöcke:** 1.543
+- **Bauteile:** `w375220460`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.297 |
 | Polierter Andesit | `polished_andesite` | 210 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 
@@ -160,9 +186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.5 – Haus w375220460 – Teil 5/6 (Y 182–185)
+### Schritt 6.6 – Haus w375220460 – Teil 6/7 (Y 184–187)
 
-- **Y-Bereich:** 182 bis 185
+- **Y-Bereich:** 184 bis 187
 - **Blöcke:** 1.964
 - **Bauteile:** `w375220460`
 
@@ -190,9 +216,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.6 – Haus w375220460 – Teil 6/6 (Y 186–191) & Haus w375220460: Innenausbau
+### Schritt 6.7 – Haus w375220460 – Teil 7/7 (Y 188–193) & Haus w375220460: Innenausbau
 
-- **Y-Bereich:** 169 bis 191
+- **Y-Bereich:** 171 bis 193
 - **Blöcke:** 1.748
 - **Bauteile:** `w375220460`, `w375220460_innen`
 

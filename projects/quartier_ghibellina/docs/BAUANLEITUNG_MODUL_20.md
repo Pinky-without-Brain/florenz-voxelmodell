@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 144.056 |
+| Blöcke | 144.127 |
 | Bauschritte | 100 |
-| Y-Bereich | 62 bis 99 |
+| Y-Bereich | 62 bis 100 |
 | X-Ausdehnung | 1430 bis 1625 (196 Blöcke) |
 | Z-Ausdehnung | 586 bis 704 (119 Blöcke) |
 | Kleinster Schritt | 420 Blöcke (Schritt 20.71) |
@@ -21,28 +21,28 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 38.507 | 26,7 % |
+| Terrakotta | `terracotta` | 38.508 | 26,7 % |
 | Rosa Keramik | `pink_terracotta` | 19.617 | 13,6 % |
-| Orange Keramik | `orange_terracotta` | 17.099 | 11,9 % |
+| Orange Keramik | `orange_terracotta` | 17.134 | 11,9 % |
 | Endsteinziegel | `end_stone_bricks` | 13.901 | 9,6 % |
 | Polierter Tuffstein | `polished_tuff` | 11.531 | 8,0 % |
 | Weißer Beton | `white_concrete` | 8.593 | 6,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 6.767 | 4,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 5.914 | 4,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 5.952 | 4,1 % |
 | Tuffstein | `tuff` | 3.866 | 2,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 3.341 | 2,3 % |
 | Graues Buntglas | `gray_stained_glass` | 3.017 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 2.928 | 2,0 % |
 | Glatter Stein | `smooth_stone` | 2.160 | 1,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.889 | 1,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.888 | 1,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.390 | 1,0 % |
 | Grüner Beton | `green_concrete` | 627 | 0,4 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 494 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 456 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 470 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 434 | 0,3 % |
 | Ziegelsteine | `bricks` | 416 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 286 | 0,2 % |
 | Seelaterne | `sea_lantern` | 283 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 263 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 245 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 266 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 243 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 231 | 0,2 % |
 | Weiße Keramik | `white_terracotta` | 231 | 0,2 % |
@@ -56,7 +56,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.458 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.456 |
 | Steintreppe | `stone_stairs` | 40 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -89,11 +89,11 @@
 | 24 | `w476894528_innen` | Reihenhaus an Via dell'Agnolo: Innenausbau | 931 | 20.48 |
 | 25 | `w476894538` | Reihenhaus an Via dell'Agnolo | 3.101 | 20.49–20.50 |
 | 26 | `w476894538_innen` | Reihenhaus an Via dell'Agnolo: Innenausbau | 551 | 20.51 |
-| 27 | `w476894540` | Reihenhaus an Piazza Lorenzo Ghiberti | 6.124 | 20.52–20.55 |
-| 28 | `w476894540_innen` | Reihenhaus an Piazza Lorenzo Ghiberti: Innenausbau | 1.713 | 20.56 |
+| 27 | `w476894540` | Reihenhaus an Piazza Lorenzo Ghiberti | 6.160 | 20.52–20.55 |
+| 28 | `w476894540_innen` | Reihenhaus an Piazza Lorenzo Ghiberti: Innenausbau | 1.710 | 20.56 |
 | 29 | `w476894543` | Reihenhaus an Via dell'Agnolo | 2.754 | 20.57–20.58 |
 | 30 | `w476894543_innen` | Reihenhaus an Via dell'Agnolo: Innenausbau | 754 | 20.59 |
-| 31 | `w476894545` | Reihenhaus an Piazza Lorenzo Ghiberti | 2.901 | 20.60–20.61 |
+| 31 | `w476894545` | Reihenhaus an Piazza Lorenzo Ghiberti | 2.939 | 20.60–20.61 |
 | 32 | `w476894545_innen` | Reihenhaus an Piazza Lorenzo Ghiberti: Innenausbau | 817 | 20.62 |
 | 33 | `w476894546` | Reihenhaus an Via dei Macci | 2.700 | 20.63–20.64 |
 | 34 | `w476894546_innen` | Reihenhaus an Via dei Macci: Innenausbau | 913 | 20.65 |
@@ -1882,9 +1882,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.52 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 1/4 (Y 62–68)
+### Schritt 20.52 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 1/4 (Y 63–69)
 
-- **Y-Bereich:** 62 bis 68
+- **Y-Bereich:** 63 bis 69
 - **Blöcke:** 1.503
 - **Bauteile:** `w476894540`
 
@@ -1914,9 +1914,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.53 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 2/4 (Y 69–79)
+### Schritt 20.53 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 2/4 (Y 70–80)
 
-- **Y-Bereich:** 69 bis 79
+- **Y-Bereich:** 70 bis 80
 - **Blöcke:** 1.627
 - **Bauteile:** `w476894540`
 
@@ -1945,9 +1945,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.54 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 3/4 (Y 80–89)
+### Schritt 20.54 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 3/4 (Y 81–90)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 81 bis 90
 - **Blöcke:** 1.439
 - **Bauteile:** `w476894540`
 
@@ -1976,18 +1976,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.55 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 4/4 (Y 90–99)
+### Schritt 20.55 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 4/4 (Y 91–100)
 
-- **Y-Bereich:** 90 bis 99
-- **Blöcke:** 1.555
+- **Y-Bereich:** 91 bis 100
+- **Blöcke:** 1.591
 - **Bauteile:** `w476894540`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 939 |
-| Orange Keramik | `orange_terracotta` | 369 |
+| Terrakotta | `terracotta` | 940 |
+| Orange Keramik | `orange_terracotta` | 404 |
 | Fichtenholz-Bretter | `spruce_planks` | 122 |
 | Ziegelsteine | `bricks` | 56 |
 | Polierter Andesit | `polished_andesite` | 45 |
@@ -2012,8 +2012,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 20.56 – Reihenhaus an Piazza Lorenzo Ghiberti: Innenausbau
 
-- **Y-Bereich:** 62 bis 86
-- **Blöcke:** 1.713
+- **Y-Bereich:** 63 bis 87
+- **Blöcke:** 1.710
 - **Bauteile:** `w476894540_innen`
 
 **Teileliste**
@@ -2021,20 +2021,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.560 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 
@@ -2161,14 +2159,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 20.60 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
-- **Blöcke:** 1.447
+- **Blöcke:** 1.481
 - **Bauteile:** `w476894545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.017 |
+| Glatter Sandstein | `smooth_sandstone` | 1.051 |
 | Polierter Tuffstein | `polished_tuff` | 309 |
 | Weißer Beton | `white_concrete` | 79 |
 | Glatter Stein | `smooth_stone` | 21 |
@@ -2194,14 +2192,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 20.61 – Reihenhaus an Piazza Lorenzo Ghiberti – Teil 2/2 (Y 79–96)
 
 - **Y-Bereich:** 79 bis 96
-- **Blöcke:** 1.454
+- **Blöcke:** 1.458
 - **Bauteile:** `w476894545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 946 |
+| Glatter Sandstein | `smooth_sandstone` | 950 |
 | Terrakotta | `terracotta` | 373 |
 | Weißer Beton | `white_concrete` | 104 |
 | Graues Buntglas | `gray_stained_glass` | 25 |

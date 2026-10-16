@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 108.101 |
+| Blöcke | 108.348 |
 | Bauschritte | 77 |
 | Y-Bereich | 142 bis 203 |
 | X-Ausdehnung | 1376 bis 1695 (320 Blöcke) |
 | Z-Ausdehnung | 2352 bis 2671 (320 Blöcke) |
 | Kleinster Schritt | 459 Blöcke (Schritt 194.38) |
-| Mittlerer Schritt | 1.404 Blöcke |
-| Größter Schritt | 2.040 Blöcke (Schritt 194.25) |
+| Mittlerer Schritt | 1.407 Blöcke |
+| Größter Schritt | 2.079 Blöcke (Schritt 194.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 65.994 | 61,0 % |
-| Stein | `stone` | 17.966 | 16,6 % |
-| Polierter Tuffstein | `polished_tuff` | 12.707 | 11,8 % |
+| Grasblock | `grass_block` | 65.990 | 60,9 % |
+| Stein | `stone` | 18.250 | 16,8 % |
+| Polierter Tuffstein | `polished_tuff` | 12.674 | 11,7 % |
 | Glatter Stein | `smooth_stone` | 4.547 | 4,2 % |
 | Polierter Andesit | `polished_andesite` | 4.497 | 4,2 % |
 | Kies | `gravel` | 2.316 | 2,1 % |
@@ -42,14 +42,14 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 16.790 | 194.1–194.9 |
+| 1 | `boeschung` | Böschung und Mantel | 17.074 | 194.1–194.9 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 6.713 | 194.10–194.14 |
 | 3 | `strassen_fahrbahn` | Hauptstraßen | 4.497 | 194.15–194.17 |
 | 4 | `gehwege` | Gehwege | 4.532 | 194.18–194.21 |
 | 5 | `stufen` | Treppenflächen | 74 | 194.22 |
 | 6 | `plaetze_pflaster` | Plätze | 205 | 194.22 |
-| 7 | `hof_pflaster` | Höfe | 5.804 | 194.22–194.26 |
-| 8 | `rasen` | Grün und offenes Gelände | 67.170 | 194.26–194.75 |
+| 7 | `hof_pflaster` | Höfe | 5.771 | 194.22–194.26 |
+| 8 | `rasen` | Grün und offenes Gelände | 67.166 | 194.26–194.75 |
 | 9 | `gruen_wege` | Wege im Grün | 2.316 | 194.76–194.77 |
 
 ## Bauschritte
@@ -57,14 +57,14 @@
 ### Schritt 194.1 – Böschung und Mantel – Teil 1/9 (Y 142–158)
 
 - **Y-Bereich:** 142 bis 158
-- **Blöcke:** 1.807
+- **Blöcke:** 1.818
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.807 |
+| Stein | `stone` | 1.818 |
 
 **Beschreibung**
 
@@ -85,14 +85,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 194.2 – Böschung und Mantel – Teil 2/9 (Y 159–166)
 
 - **Y-Bereich:** 159 bis 166
-- **Blöcke:** 1.991
+- **Blöcke:** 2.015
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.991 |
+| Stein | `stone` | 2.015 |
 
 **Beschreibung**
 
@@ -138,17 +138,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 194.4 – Böschung und Mantel – Teil 4/9 (Y 173–176)
+### Schritt 194.4 – Böschung und Mantel – Teil 4/9 (Y 173–177)
 
-- **Y-Bereich:** 173 bis 176
-- **Blöcke:** 1.710
+- **Y-Bereich:** 173 bis 177
+- **Blöcke:** 2.079
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.710 |
+| Stein | `stone` | 2.079 |
 
 **Beschreibung**
 
@@ -166,17 +166,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 194.5 – Böschung und Mantel – Teil 5/9 (Y 177–181)
+### Schritt 194.5 – Böschung und Mantel – Teil 5/9 (Y 178–182)
 
-- **Y-Bereich:** 177 bis 181
-- **Blöcke:** 1.862
+- **Y-Bereich:** 178 bis 182
+- **Blöcke:** 1.927
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.862 |
+| Stein | `stone` | 1.927 |
 
 **Beschreibung**
 
@@ -194,17 +194,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 194.6 – Böschung und Mantel – Teil 6/9 (Y 182–185)
+### Schritt 194.6 – Böschung und Mantel – Teil 6/9 (Y 183–186)
 
-- **Y-Bereich:** 182 bis 185
-- **Blöcke:** 1.827
+- **Y-Bereich:** 183 bis 186
+- **Blöcke:** 1.816
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.827 |
+| Stein | `stone` | 1.816 |
 
 **Beschreibung**
 
@@ -222,17 +222,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 194.7 – Böschung und Mantel – Teil 7/9 (Y 186–190)
+### Schritt 194.7 – Böschung und Mantel – Teil 7/9 (Y 187–191)
 
-- **Y-Bereich:** 186 bis 190
-- **Blöcke:** 1.935
+- **Y-Bereich:** 187 bis 191
+- **Blöcke:** 1.853
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.935 |
+| Stein | `stone` | 1.853 |
 
 **Beschreibung**
 
@@ -250,17 +250,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 194.8 – Böschung und Mantel – Teil 8/9 (Y 191–196)
+### Schritt 194.8 – Böschung und Mantel – Teil 8/9 (Y 192–197)
 
-- **Y-Bereich:** 191 bis 196
-- **Blöcke:** 2.016
+- **Y-Bereich:** 192 bis 197
+- **Blöcke:** 2.013
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.016 |
+| Stein | `stone` | 2.013 |
 
 **Beschreibung**
 
@@ -278,17 +278,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 194.9 – Böschung und Mantel – Teil 9/9 (Y 197–203)
+### Schritt 194.9 – Böschung und Mantel – Teil 9/9 (Y 198–203)
 
-- **Y-Bereich:** 197 bis 203
-- **Blöcke:** 1.819
+- **Y-Bereich:** 198 bis 203
+- **Blöcke:** 1.730
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.819 |
+| Stein | `stone` | 1.730 |
 
 **Beschreibung**
 
@@ -684,14 +684,14 @@ Viele Treppen führen in Oltrarno die Hänge hinauf. Die Piazza della Signoria w
 ### Schritt 194.23 – Höfe – Teil 2/5 (Y 200–201)
 
 - **Y-Bereich:** 200 bis 201
-- **Blöcke:** 1.634
+- **Blöcke:** 1.628
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.634 |
+| Polierter Tuffstein | `polished_tuff` | 1.628 |
 
 **Beschreibung**
 
@@ -740,14 +740,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 194.25 – Höfe – Teil 4/5 (Y 202–202)
 
 - **Y-Bereich:** 202 bis 202
-- **Blöcke:** 2.040
+- **Blöcke:** 2.013
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.040 |
+| Polierter Tuffstein | `polished_tuff` | 2.013 |
 
 **Beschreibung**
 
@@ -853,14 +853,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 194.29 – Grün und offenes Gelände – Teil 4/50 (Y 156–159)
 
 - **Y-Bereich:** 156 bis 159
-- **Blöcke:** 1.655
+- **Blöcke:** 1.654
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.655 |
+| Grasblock | `grass_block` | 1.654 |
 
 **Beschreibung**
 
@@ -910,14 +910,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 194.31 – Grün und offenes Gelände – Teil 6/50 (Y 162–162)
 
 - **Y-Bereich:** 162 bis 162
-- **Blöcke:** 988
+- **Blöcke:** 986
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 986 |
+| Grasblock | `grass_block` | 984 |
 | Stein | `stone` | 2 |
 
 **Beschreibung**
@@ -2180,14 +2180,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 194.75 – Grün und offenes Gelände – Teil 50/50 (Y 202–203)
 
 - **Y-Bereich:** 202 bis 203
-- **Blöcke:** 1.004
+- **Blöcke:** 1.003
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.004 |
+| Grasblock | `grass_block` | 1.003 |
 
 **Beschreibung**
 

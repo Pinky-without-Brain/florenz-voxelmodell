@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 140.929 |
-| Bauschritte | 92 |
+| Blöcke | 140.102 |
+| Bauschritte | 91 |
 | Y-Bereich | 61 bis 100 |
 | X-Ausdehnung | 868 bis 1039 (172 Blöcke) |
 | Z-Ausdehnung | 755 bis 935 (181 Blöcke) |
 | Kleinster Schritt | 517 Blöcke (Schritt 1.71) |
-| Mittlerer Schritt | 1.532 Blöcke |
-| Größter Schritt | 2.089 Blöcke (Schritt 1.20) |
+| Mittlerer Schritt | 1.540 Blöcke |
+| Größter Schritt | 2.084 Blöcke (Schritt 1.85) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 42.429 | 30,1 % |
-| Polierter Tuffstein | `polished_tuff` | 13.848 | 9,8 % |
-| Endsteinziegel | `end_stone_bricks` | 13.563 | 9,6 % |
-| Tuffstein | `tuff` | 13.332 | 9,5 % |
+| Terrakotta | `terracotta` | 41.625 | 29,7 % |
+| Polierter Tuffstein | `polished_tuff` | 13.848 | 9,9 % |
+| Endsteinziegel | `end_stone_bricks` | 13.563 | 9,7 % |
+| Tuffstein | `tuff` | 13.352 | 9,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 11.351 | 8,1 % |
 | Weißer Beton | `white_concrete` | 8.457 | 6,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 7.406 | 5,3 % |
@@ -33,18 +33,18 @@
 | Glatter Sandstein | `smooth_sandstone` | 4.966 | 3,5 % |
 | Orange Keramik | `orange_terracotta` | 3.555 | 2,5 % |
 | Graues Buntglas | `gray_stained_glass` | 3.544 | 2,5 % |
-| Rosa Keramik | `pink_terracotta` | 1.623 | 1,2 % |
+| Rosa Keramik | `pink_terracotta` | 1.706 | 1,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.566 | 1,1 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.052 | 0,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 986 | 0,7 % |
 | Ziegelsteine | `bricks` | 743 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 704 | 0,5 % |
-| Seelaterne | `sea_lantern` | 254 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 248 | 0,2 % |
+| Seelaterne | `sea_lantern` | 248 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 228 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 161 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 149 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 139 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 139 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 137 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 137 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 135 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 125 | 0,1 % |
 | Grüner Beton | `green_concrete` | 123 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 34 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,0 % |
@@ -59,14 +59,14 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 786 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 736 |
 | Steintreppe | `stone_stairs` | 102 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4100879` | Palazzo Gargiolli | 20.877 | 1.1–1.13 |
+| 1 | `r4100879` | Palazzo Gargiolli | 20.897 | 1.1–1.13 |
 | 2 | `r4100879_innen` | Palazzo Gargiolli: Innenausbau | 2.619 | 1.14–1.15 |
 | 3 | `r7127838` | Reihenhaus an Via dei Pepi | 9.626 | 1.16–1.20 |
 | 4 | `r7127838_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 2.669 | 1.21–1.22 |
@@ -100,20 +100,20 @@
 | 32 | `w484324920_innen` | Reihenhaus an Largo Piero Bargellini: Innenausbau | 883 | 1.81 |
 | 33 | `w484324921` | Reihenhaus an Via dei Pepi | 2.697 | 1.82–1.83 |
 | 34 | `w484324921_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 1.048 | 1.84 |
-| 35 | `w484324923` | Reihenhaus an Via delle Pinzochere | 1.995 | 1.85 |
-| 36 | `w484324923_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 938 | 1.86 |
-| 37 | `w484324925` | Reihenhaus an Via delle Pinzochere | 3.104 | 1.87–1.88 |
-| 38 | `w484324925_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 892 | 1.89 |
-| 39 | `w484324933` | Reihenhaus an Via del Fico | 2.591 | 1.90–1.91 |
-| 40 | `w484324933_innen` | Reihenhaus an Via del Fico: Innenausbau | 1.024 | 1.92 |
-| 41 | `strassenschilder` | Straßenschilder | 9 | 1.92 |
+| 35 | `w484324923` | Reihenhaus an Via delle Pinzochere | 2.084 | 1.85 |
+| 36 | `w484324923_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 2 | 1.86 |
+| 37 | `w484324925` | Reihenhaus an Via delle Pinzochere | 3.104 | 1.86–1.87 |
+| 38 | `w484324925_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 892 | 1.88 |
+| 39 | `w484324933` | Reihenhaus an Via del Fico | 2.591 | 1.89–1.90 |
+| 40 | `w484324933_innen` | Reihenhaus an Via del Fico: Innenausbau | 1.024 | 1.91 |
+| 41 | `strassenschilder` | Straßenschilder | 9 | 1.91 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Palazzo Gargiolli – Teil 1/13 (Y 61–61)
+### Schritt 1.1 – Palazzo Gargiolli – Teil 1/13 (Y 61–62)
 
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.544
+- **Y-Bereich:** 61 bis 62
+- **Blöcke:** 1.564
 - **Bauteile:** `r4100879`
 
 **Teileliste**
@@ -121,6 +121,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.544 |
+| Tuffstein | `tuff` | 20 |
 
 **Beschreibung**
 
@@ -138,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Palazzo Gargiolli – Teil 2/13 (Y 61–61)
+### Schritt 1.2 – Palazzo Gargiolli – Teil 2/13 (Y 62–62)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.566
 - **Bauteile:** `r4100879`
 
@@ -166,9 +167,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Palazzo Gargiolli – Teil 3/13 (Y 62–64)
+### Schritt 1.3 – Palazzo Gargiolli – Teil 3/13 (Y 63–65)
 
-- **Y-Bereich:** 62 bis 64
+- **Y-Bereich:** 63 bis 65
 - **Blöcke:** 1.523
 - **Bauteile:** `r4100879`
 
@@ -197,9 +198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Palazzo Gargiolli – Teil 4/13 (Y 65–68)
+### Schritt 1.4 – Palazzo Gargiolli – Teil 4/13 (Y 66–69)
 
-- **Y-Bereich:** 65 bis 68
+- **Y-Bereich:** 66 bis 69
 - **Blöcke:** 1.923
 - **Bauteile:** `r4100879`
 
@@ -229,9 +230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Palazzo Gargiolli – Teil 5/13 (Y 69–71)
+### Schritt 1.5 – Palazzo Gargiolli – Teil 5/13 (Y 70–72)
 
-- **Y-Bereich:** 69 bis 71
+- **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.547
 - **Bauteile:** `r4100879`
 
@@ -261,9 +262,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Palazzo Gargiolli – Teil 6/13 (Y 72–73)
+### Schritt 1.6 – Palazzo Gargiolli – Teil 6/13 (Y 73–74)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.279
 - **Bauteile:** `r4100879`
 
@@ -292,9 +293,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Palazzo Gargiolli – Teil 7/13 (Y 74–76)
+### Schritt 1.7 – Palazzo Gargiolli – Teil 7/13 (Y 75–77)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.703
 - **Bauteile:** `r4100879`
 
@@ -324,9 +325,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Palazzo Gargiolli – Teil 8/13 (Y 77–79)
+### Schritt 1.8 – Palazzo Gargiolli – Teil 8/13 (Y 78–80)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.545
 - **Bauteile:** `r4100879`
 
@@ -356,9 +357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Palazzo Gargiolli – Teil 9/13 (Y 80–82)
+### Schritt 1.9 – Palazzo Gargiolli – Teil 9/13 (Y 81–83)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.740
 - **Bauteile:** `r4100879`
 
@@ -388,9 +389,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Palazzo Gargiolli – Teil 10/13 (Y 83–84)
+### Schritt 1.10 – Palazzo Gargiolli – Teil 10/13 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.945
 - **Bauteile:** `r4100879`
 
@@ -419,9 +420,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Palazzo Gargiolli – Teil 11/13 (Y 85–85)
+### Schritt 1.11 – Palazzo Gargiolli – Teil 11/13 (Y 86–86)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.703
 - **Bauteile:** `r4100879`
 
@@ -447,9 +448,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Palazzo Gargiolli – Teil 12/13 (Y 86–86)
+### Schritt 1.12 – Palazzo Gargiolli – Teil 12/13 (Y 87–87)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 950
 - **Bauteile:** `r4100879`
 
@@ -475,9 +476,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Palazzo Gargiolli – Teil 13/13 (Y 87–94)
+### Schritt 1.13 – Palazzo Gargiolli – Teil 13/13 (Y 88–95)
 
-- **Y-Bereich:** 87 bis 94
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.909
 - **Bauteile:** `r4100879`
 
@@ -504,9 +505,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Palazzo Gargiolli: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 1.14 – Palazzo Gargiolli: Innenausbau – Teil 1/2 (Y 62–73)
 
-- **Y-Bereich:** 61 bis 72
+- **Y-Bereich:** 62 bis 73
 - **Blöcke:** 1.360
 - **Bauteile:** `r4100879_innen`
 
@@ -546,9 +547,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.15 – Palazzo Gargiolli: Innenausbau – Teil 2/2 (Y 72–73)
+### Schritt 1.15 – Palazzo Gargiolli: Innenausbau – Teil 2/2 (Y 73–74)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.259
 - **Bauteile:** `r4100879_innen`
 
@@ -587,7 +588,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.16 – Reihenhaus an Via dei Pepi – Teil 1/5 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
-- **Blöcke:** 1.956
+- **Blöcke:** 2.002
 - **Bauteile:** `r7127838`
 
 **Teileliste**
@@ -595,7 +596,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.073 |
-| Endsteinziegel | `end_stone_bricks` | 786 |
+| Endsteinziegel | `end_stone_bricks` | 832 |
 | Glatter Stein | `smooth_stone` | 76 |
 | Graues Buntglas | `gray_stained_glass` | 21 |
 
@@ -676,18 +677,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Reihenhaus an Via dei Pepi – Teil 4/5 (Y 83–89)
+### Schritt 1.19 – Reihenhaus an Via dei Pepi – Teil 4/5 (Y 83–90)
 
-- **Y-Bereich:** 83 bis 89
-- **Blöcke:** 1.793
+- **Y-Bereich:** 83 bis 90
+- **Blöcke:** 2.074
 - **Bauteile:** `r7127838`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.492 |
-| Glatter Stein | `smooth_stone` | 208 |
+| Endsteinziegel | `end_stone_bricks` | 1.727 |
+| Glatter Stein | `smooth_stone` | 254 |
 | Graues Buntglas | `gray_stained_glass` | 93 |
 
 **Beschreibung**
@@ -706,10 +707,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Reihenhaus an Via dei Pepi – Teil 5/5 (Y 90–98)
+### Schritt 1.20 – Reihenhaus an Via dei Pepi – Teil 5/5 (Y 91–98)
 
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 2.089
+- **Y-Bereich:** 91 bis 98
+- **Blöcke:** 1.762
 - **Bauteile:** `r7127838`
 
 **Teileliste**
@@ -717,9 +718,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.376 |
-| Endsteinziegel | `end_stone_bricks` | 608 |
+| Endsteinziegel | `end_stone_bricks` | 327 |
 | Ziegelsteine | `bricks` | 59 |
-| Glatter Stein | `smooth_stone` | 46 |
 
 **Beschreibung**
 
@@ -1286,14 +1286,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.37 – Reihenhaus an Largo Piero Bargellini – Teil 1/3 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
-- **Blöcke:** 1.605
+- **Blöcke:** 1.646
 - **Bauteile:** `w484324879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 954 |
+| Gelbe Keramik | `yellow_terracotta` | 995 |
 | Polierter Tuffstein | `polished_tuff` | 537 |
 | Weißer Beton | `white_concrete` | 77 |
 | Glatter Stein | `smooth_stone` | 20 |
@@ -1318,14 +1318,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.38 – Reihenhaus an Largo Piero Bargellini – Teil 2/3 (Y 72–86)
 
 - **Y-Bereich:** 72 bis 86
-- **Blöcke:** 1.743
+- **Blöcke:** 1.702
 - **Bauteile:** `w484324879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.491 |
+| Gelbe Keramik | `yellow_terracotta` | 1.450 |
 | Weißer Beton | `white_concrete` | 180 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 
@@ -2936,16 +2936,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 1.85 – Reihenhaus an Via delle Pinzochere
 
-- **Y-Bereich:** 61 bis 93
-- **Blöcke:** 1.995
+- **Y-Bereich:** 62 bis 94
+- **Blöcke:** 2.084
 - **Bauteile:** `w484324923`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 957 |
-| Terrakotta | `terracotta` | 399 |
+| Rosa Keramik | `pink_terracotta` | 1.040 |
+| Terrakotta | `terracotta` | 405 |
 | Polierter Tuffstein | `polished_tuff` | 322 |
 | Glatter Stein | `smooth_stone` | 195 |
 | Graues Buntglas | `gray_stained_glass` | 81 |
@@ -2967,51 +2967,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.86 – Reihenhaus an Via delle Pinzochere: Innenausbau
-
-- **Y-Bereich:** 61 bis 85
-- **Blöcke:** 938
-- **Bauteile:** `w484324923_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 810 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
-| Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 1.87 – Reihenhaus an Via delle Pinzochere – Teil 1/2 (Y 61–76)
+### Schritt 1.86 – Reihenhaus an Via delle Pinzochere: Innenausbau & Reihenhaus an Via delle Pinzochere – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
-- **Blöcke:** 1.516
-- **Bauteile:** `w484324925`
+- **Blöcke:** 1.518
+- **Bauteile:** `w484324923_innen`, `w484324925`
 
 **Teileliste**
 
@@ -3022,24 +2982,25 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Graues Buntglas | `gray_stained_glass` | 45 |
 | Grüner Beton | `green_concrete` | 6 |
 | Polierter Andesit | `polished_andesite` | 6 |
+| Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.88 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 77–96)
+### Schritt 1.87 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 77–96)
 
 - **Y-Bereich:** 77 bis 96
 - **Blöcke:** 1.588
@@ -3071,7 +3032,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.89 – Reihenhaus an Via delle Pinzochere: Innenausbau
+### Schritt 1.88 – Reihenhaus an Via delle Pinzochere: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 892
@@ -3111,7 +3072,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.90 – Reihenhaus an Via del Fico – Teil 1/2 (Y 61–77)
+### Schritt 1.89 – Reihenhaus an Via del Fico – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.285
@@ -3144,7 +3105,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.91 – Reihenhaus an Via del Fico – Teil 2/2 (Y 78–95)
+### Schritt 1.90 – Reihenhaus an Via del Fico – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.306
@@ -3176,7 +3137,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.92 – Reihenhaus an Via del Fico: Innenausbau & Straßenschilder
+### Schritt 1.91 – Reihenhaus an Via del Fico: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.033

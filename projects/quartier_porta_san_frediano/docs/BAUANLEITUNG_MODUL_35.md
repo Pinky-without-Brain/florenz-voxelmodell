@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 181.314 |
+| Blöcke | 181.313 |
 | Bauschritte | 118 |
 | Y-Bereich | 57 bis 97 |
 | X-Ausdehnung | -2995 bis -2671 (325 Blöcke) |
@@ -21,12 +21,12 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 54.721 | 30,2 % |
-| Glatter Sandstein | `smooth_sandstone` | 19.864 | 11,0 % |
+| Terrakotta | `terracotta` | 54.723 | 30,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 19.852 | 10,9 % |
 | Polierter Tuffstein | `polished_tuff` | 18.973 | 10,5 % |
-| Endsteinziegel | `end_stone_bricks` | 18.306 | 10,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 10.526 | 5,8 % |
-| Weißer Beton | `white_concrete` | 9.953 | 5,5 % |
+| Endsteinziegel | `end_stone_bricks` | 18.281 | 10,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 10.484 | 5,8 % |
+| Weißer Beton | `white_concrete` | 9.957 | 5,5 % |
 | Glatter Stein | `smooth_stone` | 9.731 | 5,4 % |
 | Rosa Keramik | `pink_terracotta` | 9.706 | 5,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 9.240 | 5,1 % |
@@ -35,8 +35,8 @@
 | Grüner Beton | `green_concrete` | 3.067 | 1,7 % |
 | Polierter Andesit | `polished_andesite` | 2.239 | 1,2 % |
 | Ziegelsteine | `bricks` | 1.671 | 0,9 % |
+| Tuffstein | `tuff` | 768 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 734 | 0,4 % |
-| Tuffstein | `tuff` | 696 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 431 | 0,2 % |
 | Seelaterne | `sea_lantern` | 296 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 118 | 0,1 % |
@@ -70,13 +70,13 @@
 | 4 | `w118884437_innen` | Haus w118884437: Innenausbau | 1.983 | 35.19 |
 | 5 | `w118932428` | Palazzo des Ottocento an Via dell'Anconella | 13.171 | 35.20–35.26 |
 | 6 | `w118932428_innen` | Palazzo des Ottocento an Via dell'Anconella: Innenausbau | 3.217 | 35.27–35.28 |
-| 7 | `w474363105` | Palazzo des Cinquecento an Via Pisana | 18.259 | 35.29–35.41 |
+| 7 | `w474363105` | Palazzo des Cinquecento an Via Pisana | 18.335 | 35.29–35.41 |
 | 8 | `w474363105_innen` | Palazzo des Cinquecento an Via Pisana: Innenausbau | 2.542 | 35.42–35.43 |
-| 9 | `w474363107` | Palazzo des Cinquecento an Via Pisana | 40.285 | 35.44–35.74 |
+| 9 | `w474363107` | Palazzo des Cinquecento an Via Pisana | 40.260 | 35.44–35.74 |
 | 10 | `w474363107_innen` | Palazzo des Cinquecento an Via Pisana: Innenausbau | 7.878 | 35.75–35.78 |
-| 11 | `w495060139` | Reihenhaus an Via Pisana | 16.414 | 35.79–35.87 |
-| 12 | `w495060139_innen` | Reihenhaus an Via Pisana: Innenausbau | 6.170 | 35.88–35.90 |
-| 13 | `w495060146` | Haus w495060146 | 6.606 | 35.91–35.94 |
+| 11 | `w495060139` | Reihenhaus an Via Pisana | 16.371 | 35.79–35.87 |
+| 12 | `w495060139_innen` | Reihenhaus an Via Pisana: Innenausbau | 6.173 | 35.88–35.90 |
+| 13 | `w495060146` | Haus w495060146 | 6.594 | 35.91–35.94 |
 | 14 | `w495060146_innen` | Haus w495060146: Innenausbau | 1.052 | 35.95 |
 | 15 | `w495060148` | Haus w495060148 | 2.962 | 35.96–35.97 |
 | 16 | `w495060148_innen` | Haus w495060148: Innenausbau | 912 | 35.98 |
@@ -1020,10 +1020,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 35.29 – Palazzo des Cinquecento an Via Pisana – Teil 1/13 (Y 57–57)
+### Schritt 35.29 – Palazzo des Cinquecento an Via Pisana – Teil 1/13 (Y 57–58)
 
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.685
+- **Y-Bereich:** 57 bis 58
+- **Blöcke:** 1.757
 - **Bauteile:** `w474363105`
 
 **Teileliste**
@@ -1031,6 +1031,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.685 |
+| Tuffstein | `tuff` | 72 |
 
 **Beschreibung**
 
@@ -1048,10 +1049,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.30 – Palazzo des Cinquecento an Via Pisana – Teil 2/13 (Y 58–59)
+### Schritt 35.30 – Palazzo des Cinquecento an Via Pisana – Teil 2/13 (Y 59–60)
 
-- **Y-Bereich:** 58 bis 59
-- **Blöcke:** 953
+- **Y-Bereich:** 59 bis 60
+- **Blöcke:** 957
 - **Bauteile:** `w474363105`
 
 **Teileliste**
@@ -1059,7 +1060,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 858 |
-| Weißer Beton | `white_concrete` | 70 |
+| Weißer Beton | `white_concrete` | 74 |
 | Polierter Andesit | `polished_andesite` | 17 |
 | Glatter Stein | `smooth_stone` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
@@ -1080,9 +1081,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.31 – Palazzo des Cinquecento an Via Pisana – Teil 3/13 (Y 60–62)
+### Schritt 35.31 – Palazzo des Cinquecento an Via Pisana – Teil 3/13 (Y 61–63)
 
-- **Y-Bereich:** 60 bis 62
+- **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.368
 - **Bauteile:** `w474363105`
 
@@ -1114,9 +1115,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.32 – Palazzo des Cinquecento an Via Pisana – Teil 4/13 (Y 63–66)
+### Schritt 35.32 – Palazzo des Cinquecento an Via Pisana – Teil 4/13 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.786
 - **Bauteile:** `w474363105`
 
@@ -1148,20 +1149,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.33 – Palazzo des Cinquecento an Via Pisana – Teil 5/13 (Y 67–69)
+### Schritt 35.33 – Palazzo des Cinquecento an Via Pisana – Teil 5/13 (Y 68–69)
 
-- **Y-Bereich:** 67 bis 69
-- **Blöcke:** 1.428
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 952
 - **Bauteile:** `w474363105`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.091 |
+| Glatter Sandstein | `smooth_sandstone` | 721 |
 | Glatter Stein | `smooth_stone` | 210 |
-| Weißer Beton | `white_concrete` | 103 |
-| Polierter Andesit | `polished_andesite` | 20 |
+| Polierter Andesit | `polished_andesite` | 17 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
@@ -1180,21 +1180,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.34 – Palazzo des Cinquecento an Via Pisana – Teil 6/13 (Y 70–72)
+### Schritt 35.34 – Palazzo des Cinquecento an Via Pisana – Teil 6/13 (Y 70–73)
 
-- **Y-Bereich:** 70 bis 72
-- **Blöcke:** 1.287
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 1.763
 - **Bauteile:** `w474363105`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 828 |
+| Glatter Sandstein | `smooth_sandstone` | 1.198 |
+| Weißer Beton | `white_concrete` | 238 |
 | Graues Buntglas | `gray_stained_glass` | 177 |
-| Weißer Beton | `white_concrete` | 135 |
 | Grüner Beton | `green_concrete` | 120 |
-| Polierter Andesit | `polished_andesite` | 27 |
+| Polierter Andesit | `polished_andesite` | 30 |
 
 **Beschreibung**
 
@@ -1212,9 +1212,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.35 – Palazzo des Cinquecento an Via Pisana – Teil 7/13 (Y 73–75)
+### Schritt 35.35 – Palazzo des Cinquecento an Via Pisana – Teil 7/13 (Y 74–76)
 
-- **Y-Bereich:** 73 bis 75
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.334
 - **Bauteile:** `w474363105`
 
@@ -1244,9 +1244,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.36 – Palazzo des Cinquecento an Via Pisana – Teil 8/13 (Y 76–78)
+### Schritt 35.36 – Palazzo des Cinquecento an Via Pisana – Teil 8/13 (Y 77–79)
 
-- **Y-Bereich:** 76 bis 78
+- **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.428
 - **Bauteile:** `w474363105`
 
@@ -1275,9 +1275,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.37 – Palazzo des Cinquecento an Via Pisana – Teil 9/13 (Y 79–81)
+### Schritt 35.37 – Palazzo des Cinquecento an Via Pisana – Teil 9/13 (Y 80–82)
 
-- **Y-Bereich:** 79 bis 81
+- **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.334
 - **Bauteile:** `w474363105`
 
@@ -1307,9 +1307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.38 – Palazzo des Cinquecento an Via Pisana – Teil 10/13 (Y 82–84)
+### Schritt 35.38 – Palazzo des Cinquecento an Via Pisana – Teil 10/13 (Y 83–85)
 
-- **Y-Bereich:** 82 bis 84
+- **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.287
 - **Bauteile:** `w474363105`
 
@@ -1339,9 +1339,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.39 – Palazzo des Cinquecento an Via Pisana – Teil 11/13 (Y 85–87)
+### Schritt 35.39 – Palazzo des Cinquecento an Via Pisana – Teil 11/13 (Y 86–88)
 
-- **Y-Bereich:** 85 bis 87
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.813
 - **Bauteile:** `w474363105`
 
@@ -1370,9 +1370,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.40 – Palazzo des Cinquecento an Via Pisana – Teil 12/13 (Y 88–88)
+### Schritt 35.40 – Palazzo des Cinquecento an Via Pisana – Teil 12/13 (Y 89–89)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.339
 - **Bauteile:** `w474363105`
 
@@ -1398,9 +1398,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.41 – Palazzo des Cinquecento an Via Pisana – Teil 13/13 (Y 89–95)
+### Schritt 35.41 – Palazzo des Cinquecento an Via Pisana – Teil 13/13 (Y 90–96)
 
-- **Y-Bereich:** 89 bis 95
+- **Y-Bereich:** 90 bis 96
 - **Blöcke:** 1.217
 - **Bauteile:** `w474363105`
 
@@ -1427,9 +1427,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.42 – Palazzo des Cinquecento an Via Pisana: Innenausbau – Teil 1/2 (Y 57–67)
+### Schritt 35.42 – Palazzo des Cinquecento an Via Pisana: Innenausbau – Teil 1/2 (Y 58–68)
 
-- **Y-Bereich:** 57 bis 67
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.268
 - **Bauteile:** `w474363105_innen`
 
@@ -1469,9 +1469,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 35.43 – Palazzo des Cinquecento an Via Pisana: Innenausbau – Teil 2/2 (Y 68–78)
+### Schritt 35.43 – Palazzo des Cinquecento an Via Pisana: Innenausbau – Teil 2/2 (Y 69–79)
 
-- **Y-Bereich:** 68 bis 78
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.274
 - **Bauteile:** `w474363105_innen`
 
@@ -2261,14 +2261,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 35.68 – Palazzo des Cinquecento an Via Pisana – Teil 25/31 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.723
+- **Blöcke:** 1.698
 - **Bauteile:** `w474363107`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 992 |
+| Endsteinziegel | `end_stone_bricks` | 967 |
 | Glatter Stein | `smooth_stone` | 724 |
 | Polierter Andesit | `polished_andesite` | 7 |
 
@@ -2808,14 +2808,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 35.85 – Reihenhaus an Via Pisana – Teil 7/9 (Y 84–88)
 
 - **Y-Bereich:** 84 bis 88
-- **Blöcke:** 1.964
+- **Blöcke:** 1.922
 - **Bauteile:** `w495060139`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.662 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.620 |
 | Polierter Andesit | `polished_andesite` | 137 |
 | Graues Buntglas | `gray_stained_glass` | 90 |
 | Grüner Beton | `green_concrete` | 75 |
@@ -2839,14 +2839,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 35.86 – Reihenhaus an Via Pisana – Teil 8/9 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.657
+- **Blöcke:** 1.656
 - **Bauteile:** `w495060139`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.657 |
+| Terrakotta | `terracotta` | 1.656 |
 
 **Beschreibung**
 
@@ -2896,14 +2896,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 35.88 – Reihenhaus an Via Pisana: Innenausbau – Teil 1/3 (Y 58–67)
 
 - **Y-Bereich:** 58 bis 67
-- **Blöcke:** 2.065
+- **Blöcke:** 2.066
 - **Bauteile:** `w495060139_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.993 |
+| Terrakotta | `terracotta` | 1.994 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
 | Seelaterne | `sea_lantern` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
@@ -2936,14 +2936,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 35.89 – Reihenhaus an Via Pisana: Innenausbau – Teil 2/3 (Y 68–74)
 
 - **Y-Bereich:** 68 bis 74
-- **Blöcke:** 2.048
+- **Blöcke:** 2.049
 - **Bauteile:** `w495060139_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.993 |
+| Terrakotta | `terracotta` | 1.994 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
 | Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
@@ -2976,14 +2976,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 35.90 – Reihenhaus an Via Pisana: Innenausbau – Teil 3/3 (Y 75–82)
 
 - **Y-Bereich:** 75 bis 82
-- **Blöcke:** 2.057
+- **Blöcke:** 2.058
 - **Bauteile:** `w495060139_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.993 |
+| Terrakotta | `terracotta` | 1.994 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
@@ -3048,17 +3048,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.92 – Haus w495060146 – Teil 2/4 (Y 67–75)
+### Schritt 35.92 – Haus w495060146 – Teil 2/4 (Y 67–74)
 
-- **Y-Bereich:** 67 bis 75
-- **Blöcke:** 1.668
+- **Y-Bereich:** 67 bis 74
+- **Blöcke:** 1.474
 - **Bauteile:** `w495060146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.240 |
+| Glatter Sandstein | `smooth_sandstone` | 1.046 |
 | Weißer Beton | `white_concrete` | 312 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 | Grüner Beton | `green_concrete` | 15 |
@@ -3080,17 +3080,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.93 – Haus w495060146 – Teil 3/4 (Y 76–83)
+### Schritt 35.93 – Haus w495060146 – Teil 3/4 (Y 75–83)
 
-- **Y-Bereich:** 76 bis 83
-- **Blöcke:** 1.474
+- **Y-Bereich:** 75 bis 83
+- **Blöcke:** 1.668
 - **Bauteile:** `w495060146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.051 |
+| Glatter Sandstein | `smooth_sandstone` | 1.245 |
 | Weißer Beton | `white_concrete` | 312 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 | Grüner Beton | `green_concrete` | 15 |
@@ -3114,14 +3114,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 35.94 – Haus w495060146 – Teil 4/4 (Y 84–93)
 
 - **Y-Bereich:** 84 bis 93
-- **Blöcke:** 1.735
+- **Blöcke:** 1.723
 - **Bauteile:** `w495060146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 781 |
+| Glatter Sandstein | `smooth_sandstone` | 769 |
 | Terrakotta | `terracotta` | 597 |
 | Weißer Beton | `white_concrete` | 281 |
 | Graues Buntglas | `gray_stained_glass` | 64 |

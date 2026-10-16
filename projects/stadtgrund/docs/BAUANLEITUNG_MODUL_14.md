@@ -8,37 +8,37 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 93.669 |
+| Blöcke | 94.188 |
 | Bauschritte | 54 |
 | Y-Bereich | 66 bis 81 |
 | X-Ausdehnung | 1376 bis 1695 (320 Blöcke) |
 | Z-Ausdehnung | -1488 bis -1169 (320 Blöcke) |
 | Kleinster Schritt | 455 Blöcke (Schritt 14.8) |
-| Mittlerer Schritt | 1.735 Blöcke |
+| Mittlerer Schritt | 1.744 Blöcke |
 | Größter Schritt | 2.080 Blöcke (Schritt 14.47) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 57.234 | 61,1 % |
-| Polierter Andesit | `polished_andesite` | 13.409 | 14,3 % |
-| Polierter Tuffstein | `polished_tuff` | 9.547 | 10,2 % |
-| Glatter Stein | `smooth_stone` | 5.854 | 6,2 % |
-| Stein | `stone` | 5.182 | 5,5 % |
-| Kies | `gravel` | 1.459 | 1,6 % |
-| Steinziegel | `stone_bricks` | 984 | 1,1 % |
+| Grasblock | `grass_block` | 57.225 | 60,8 % |
+| Polierter Andesit | `polished_andesite` | 13.409 | 14,2 % |
+| Polierter Tuffstein | `polished_tuff` | 9.546 | 10,1 % |
+| Glatter Stein | `smooth_stone` | 5.849 | 6,2 % |
+| Stein | `stone` | 5.716 | 6,1 % |
+| Kies | `gravel` | 1.459 | 1,5 % |
+| Steinziegel | `stone_bricks` | 984 | 1,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 5.081 | 14.1–14.3 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 7.046 | 14.4–14.8 |
+| 1 | `boeschung` | Böschung und Mantel | 5.615 | 14.1–14.3 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 7.045 | 14.4–14.8 |
 | 3 | `strassen_fahrbahn` | Hauptstraßen | 13.409 | 14.9–14.16 |
-| 4 | `gehwege` | Gehwege | 5.608 | 14.17–14.20 |
+| 4 | `gehwege` | Gehwege | 5.603 | 14.17–14.20 |
 | 5 | `hof_pflaster` | Höfe | 2.501 | 14.21–14.22 |
-| 6 | `rasen` | Grün und offenes Gelände | 57.335 | 14.23–14.52 |
+| 6 | `rasen` | Grün und offenes Gelände | 57.326 | 14.23–14.52 |
 | 7 | `gruen_wege` | Wege im Grün | 1.459 | 14.53 |
 | 8 | `mauern_garten` | Gartenmauern | 1.230 | 14.54 |
 
@@ -47,14 +47,14 @@
 ### Schritt 14.1 – Böschung und Mantel – Teil 1/3 (Y 66–70)
 
 - **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.712
+- **Blöcke:** 2.036
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.712 |
+| Stein | `stone` | 2.036 |
 
 **Beschreibung**
 
@@ -75,14 +75,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 14.2 – Böschung und Mantel – Teil 2/3 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.705
+- **Blöcke:** 2.049
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.705 |
+| Stein | `stone` | 2.049 |
 
 **Beschreibung**
 
@@ -103,14 +103,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 14.3 – Böschung und Mantel – Teil 3/3 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
-- **Blöcke:** 1.664
+- **Blöcke:** 1.530
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.664 |
+| Stein | `stone` | 1.530 |
 
 **Beschreibung**
 
@@ -187,14 +187,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 14.6 – Straßenpflaster – Teil 3/5 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.839
+- **Blöcke:** 1.838
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.839 |
+| Polierter Tuffstein | `polished_tuff` | 1.838 |
 
 **Beschreibung**
 
@@ -523,14 +523,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 14.18 – Gehwege – Teil 2/4 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.585
+- **Blöcke:** 1.605
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.585 |
+| Glatter Stein | `smooth_stone` | 1.605 |
 
 **Beschreibung**
 
@@ -551,14 +551,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 14.19 – Gehwege – Teil 3/4 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.609
+- **Blöcke:** 1.584
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.609 |
+| Glatter Stein | `smooth_stone` | 1.584 |
 
 **Beschreibung**
 
@@ -918,14 +918,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 14.32 – Grün und offenes Gelände – Teil 10/30 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.967
+- **Blöcke:** 1.961
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.967 |
+| Grasblock | `grass_block` | 1.961 |
 
 **Beschreibung**
 
@@ -946,14 +946,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 14.33 – Grün und offenes Gelände – Teil 11/30 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.980
+- **Blöcke:** 1.977
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.958 |
+| Grasblock | `grass_block` | 1.955 |
 | Stein | `stone` | 22 |
 
 **Beschreibung**

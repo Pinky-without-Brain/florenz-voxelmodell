@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 88.581 |
+| Blöcke | 88.537 |
 | Bauschritte | 59 |
 | Y-Bereich | 70 bis 132 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
@@ -21,8 +21,8 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Stein | `stone` | 28.132 | 31,8 % |
-| Grasblock | `grass_block` | 27.132 | 30,6 % |
+| Stein | `stone` | 28.098 | 31,7 % |
+| Grasblock | `grass_block` | 27.122 | 30,6 % |
 | Polierter Tuffstein | `polished_tuff` | 22.771 | 25,7 % |
 | Kies | `gravel` | 6.469 | 7,3 % |
 | Glatter Stein | `smooth_stone` | 3.046 | 3,4 % |
@@ -47,13 +47,13 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 26.030 | 156.1–156.15 |
+| 1 | `boeschung` | Böschung und Mantel | 25.996 | 156.1–156.15 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 2.489 | 156.16–156.17 |
 | 3 | `gehwege` | Gehwege | 1.169 | 156.18 |
 | 4 | `stufen` | Treppenflächen | 866 | 156.19 |
 | 5 | `plaetze_pflaster` | Plätze | 11.038 | 156.20–156.27 |
 | 6 | `hof_pflaster` | Höfe | 10.706 | 156.28–156.34 |
-| 7 | `rasen` | Grün und offenes Gelände | 29.234 | 156.35–156.54 |
+| 7 | `rasen` | Grün und offenes Gelände | 29.224 | 156.35–156.54 |
 | 8 | `gruen_wege` | Wege im Grün | 6.469 | 156.55–156.58 |
 | 9 | `mauern_garten` | Gartenmauern | 580 | 156.59 |
 
@@ -370,14 +370,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 156.12 – Böschung und Mantel – Teil 12/15 (Y 110–112)
 
 - **Y-Bereich:** 110 bis 112
-- **Blöcke:** 1.621
+- **Blöcke:** 1.645
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.621 |
+| Stein | `stone` | 1.645 |
 
 **Beschreibung**
 
@@ -398,14 +398,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 156.13 – Böschung und Mantel – Teil 13/15 (Y 113–116)
 
 - **Y-Bereich:** 113 bis 116
-- **Blöcke:** 1.884
+- **Blöcke:** 1.881
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.884 |
+| Stein | `stone` | 1.881 |
 
 **Beschreibung**
 
@@ -426,14 +426,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 156.14 – Böschung und Mantel – Teil 14/15 (Y 117–120)
 
 - **Y-Bereich:** 117 bis 120
-- **Blöcke:** 1.846
+- **Blöcke:** 1.825
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.846 |
+| Stein | `stone` | 1.825 |
 
 **Beschreibung**
 
@@ -454,14 +454,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 156.15 – Böschung und Mantel – Teil 15/15 (Y 121–131)
 
 - **Y-Bereich:** 121 bis 131
-- **Blöcke:** 1.872
+- **Blöcke:** 1.838
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.872 |
+| Stein | `stone` | 1.838 |
 
 **Beschreibung**
 
@@ -1472,14 +1472,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 156.50 – Grün und offenes Gelände – Teil 16/20 (Y 119–119)
 
 - **Y-Bereich:** 119 bis 119
-- **Blöcke:** 1.338
+- **Blöcke:** 1.336
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.266 |
+| Grasblock | `grass_block` | 1.264 |
 | Stein | `stone` | 72 |
 
 **Beschreibung**
@@ -1501,14 +1501,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 156.51 – Grün und offenes Gelände – Teil 17/20 (Y 120–120)
 
 - **Y-Bereich:** 120 bis 120
-- **Blöcke:** 1.706
+- **Blöcke:** 1.703
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.637 |
+| Grasblock | `grass_block` | 1.634 |
 | Stein | `stone` | 69 |
 
 **Beschreibung**
@@ -1530,14 +1530,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 156.52 – Grün und offenes Gelände – Teil 18/20 (Y 121–123)
 
 - **Y-Bereich:** 121 bis 123
-- **Blöcke:** 1.168
+- **Blöcke:** 1.163
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 990 |
+| Grasblock | `grass_block` | 985 |
 | Stein | `stone` | 178 |
 
 **Beschreibung**

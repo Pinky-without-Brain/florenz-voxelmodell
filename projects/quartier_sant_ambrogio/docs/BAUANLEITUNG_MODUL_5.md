@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 319.988 |
+| Blöcke | 320.076 |
 | Bauschritte | 214 |
 | Y-Bereich | 63 bis 102 |
 | X-Ausdehnung | 996 bis 1210 (215 Blöcke) |
 | Z-Ausdehnung | -127 bis 179 (307 Blöcke) |
 | Kleinster Schritt | 387 Blöcke (Schritt 5.62) |
-| Mittlerer Schritt | 1.495 Blöcke |
+| Mittlerer Schritt | 1.496 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 5.42) |
 
 ## Gesamt-Stückliste
@@ -24,9 +24,9 @@
 | Terrakotta | `terracotta` | 92.239 | 28,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 42.949 | 13,4 % |
 | Weißer Beton | `white_concrete` | 41.519 | 13,0 % |
-| Endsteinziegel | `end_stone_bricks` | 38.024 | 11,9 % |
+| Endsteinziegel | `end_stone_bricks` | 38.066 | 11,9 % |
 | Polierter Tuffstein | `polished_tuff` | 28.256 | 8,8 % |
-| Orange Keramik | `orange_terracotta` | 20.023 | 6,3 % |
+| Orange Keramik | `orange_terracotta` | 20.064 | 6,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 15.184 | 4,7 % |
 | Rosa Keramik | `pink_terracotta` | 14.937 | 4,7 % |
 | Graues Buntglas | `gray_stained_glass` | 4.835 | 1,5 % |
@@ -34,7 +34,7 @@
 | Polierter Andesit | `polished_andesite` | 3.567 | 1,1 % |
 | Glatter Stein | `smooth_stone` | 3.099 | 1,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.983 | 0,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.532 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.533 | 0,5 % |
 | Ziegelsteine | `bricks` | 1.228 | 0,4 % |
 | Grüner Beton | `green_concrete` | 1.031 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 761 | 0,2 % |
@@ -43,8 +43,8 @@
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 397 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 367 | 0,1 % |
 | Tuffstein | `tuff` | 361 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 267 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 267 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 269 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 269 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 | 0,0 % |
@@ -117,7 +117,7 @@
 | 52 | `w496186214_innen` | Haus w496186214: Innenausbau | 2.440 | 5.128–5.129 |
 | 53 | `w496186218` | Reihenhaus an Via Fiesolana | 2.928 | 5.130–5.131 |
 | 54 | `w496186218_innen` | Reihenhaus an Via Fiesolana: Innenausbau | 928 | 5.132 |
-| 55 | `w496186219` | Haus w496186219 | 2.044 | 5.133 |
+| 55 | `w496186219` | Haus w496186219 | 2.043 | 5.133 |
 | 56 | `w496186219_innen` | Haus w496186219: Innenausbau | 276 | 5.134 |
 | 57 | `w496186220` | Nebengebäude an Via Fiesolana | 1.619 | 5.134 |
 | 58 | `w496186220_innen` | Nebengebäude an Via Fiesolana: Innenausbau | 4 | 5.135 |
@@ -143,7 +143,7 @@
 | 78 | `w496186240_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 640 | 5.159 |
 | 79 | `w496186241` | Reihenhaus an Via dei Pepi | 5.171 | 5.160–5.162 |
 | 80 | `w496186241_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 1.185 | 5.163 |
-| 81 | `w496186245` | Reihenhaus an Via dei Pepi | 1.475 | 5.164 |
+| 81 | `w496186245` | Reihenhaus an Via dei Pepi | 1.517 | 5.164 |
 | 82 | `w496186245_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 1.169 | 5.165 |
 | 83 | `w496186247` | Reihenhaus an Via Fiesolana | 1.296 | 5.166 |
 | 84 | `w496186247_innen` | Reihenhaus an Via Fiesolana: Innenausbau | 657 | 5.167 |
@@ -165,8 +165,8 @@
 | 100 | `w496186263_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.188 | 5.198 |
 | 101 | `w496186264` | Reihenhaus an Via Fiesolana | 6.319 | 5.199–5.202 |
 | 102 | `w496186264_innen` | Reihenhaus an Via Fiesolana: Innenausbau | 2.236 | 5.203–5.204 |
-| 103 | `w496186266` | Reihenhaus an Via dei Pepi | 4.584 | 5.205–5.207 |
-| 104 | `w496186266_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 1.433 | 5.208 |
+| 103 | `w496186266` | Reihenhaus an Via dei Pepi | 4.627 | 5.205–5.207 |
+| 104 | `w496186266_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 1.437 | 5.208 |
 | 105 | `w496186267` | Reihenhaus an Via dei Pepi | 5.442 | 5.209–5.211 |
 | 106 | `w496186267_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 2.521 | 5.212–5.213 |
 | 107 | `w496186268` | Reihenhaus an Via dei Pepi | 1.152 | 5.214 |
@@ -2253,9 +2253,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.66 – Reihenhaus an Via dei Pepi – Teil 1/3 (Y 63–72)
+### Schritt 5.66 – Reihenhaus an Via dei Pepi – Teil 1/3 (Y 64–73)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.423
 - **Bauteile:** `w496186181`
 
@@ -2284,9 +2284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.67 – Reihenhaus an Via dei Pepi – Teil 2/3 (Y 73–85)
+### Schritt 5.67 – Reihenhaus an Via dei Pepi – Teil 2/3 (Y 74–86)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 74 bis 86
 - **Blöcke:** 1.573
 - **Bauteile:** `w496186181`
 
@@ -2314,9 +2314,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.68 – Reihenhaus an Via dei Pepi – Teil 3/3 (Y 86–95)
+### Schritt 5.68 – Reihenhaus an Via dei Pepi – Teil 3/3 (Y 87–96)
 
-- **Y-Bereich:** 86 bis 95
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.438
 - **Bauteile:** `w496186181`
 
@@ -2347,7 +2347,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.69 – Reihenhaus an Via dei Pepi: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 811
 - **Bauteile:** `w496186181_innen`
 
@@ -4530,7 +4530,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.133 – Haus w496186219
 
 - **Y-Bereich:** 65 bis 99
-- **Blöcke:** 2.044
+- **Blöcke:** 2.043
 - **Bauteile:** `w496186219`
 
 **Teileliste**
@@ -4542,7 +4542,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Terrakotta | `terracotta` | 165 |
 | Polierter Tuffstein | `polished_tuff` | 122 |
 | Graues Buntglas | `gray_stained_glass` | 53 |
-| Fichtenholz-Bretter | `spruce_planks` | 40 |
+| Fichtenholz-Bretter | `spruce_planks` | 39 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Grüner Beton | `green_concrete` | 27 |
 | Ziegelsteine | `bricks` | 6 |
@@ -5622,19 +5622,19 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.164 – Reihenhaus an Via dei Pepi
 
 - **Y-Bereich:** 63 bis 98
-- **Blöcke:** 1.475
+- **Blöcke:** 1.517
 - **Bauteile:** `w496186245`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 518 |
+| Orange Keramik | `orange_terracotta` | 559 |
 | Terrakotta | `terracotta` | 444 |
 | Polierter Tuffstein | `polished_tuff` | 372 |
 | Weißer Beton | `white_concrete` | 96 |
+| Fichtenholz-Bretter | `spruce_planks` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
-| Fichtenholz-Bretter | `spruce_planks` | 18 |
 | Ziegelsteine | `bricks` | 9 |
 
 **Beschreibung**
@@ -7040,14 +7040,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.205 – Reihenhaus an Via dei Pepi – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.480
+- **Blöcke:** 1.522
 - **Bauteile:** `w496186266`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 826 |
+| Endsteinziegel | `end_stone_bricks` | 868 |
 | Polierter Tuffstein | `polished_tuff` | 553 |
 | Weißer Beton | `white_concrete` | 53 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
@@ -7102,7 +7102,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.207 – Reihenhaus an Via dei Pepi – Teil 3/3 (Y 88–98)
 
 - **Y-Bereich:** 88 bis 98
-- **Blöcke:** 1.487
+- **Blöcke:** 1.488
 - **Bauteile:** `w496186266`
 
 **Teileliste**
@@ -7111,7 +7111,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 733 |
 | Endsteinziegel | `end_stone_bricks` | 534 |
-| Fichtenholz-Bretter | `spruce_planks` | 72 |
+| Fichtenholz-Bretter | `spruce_planks` | 73 |
 | Weißer Beton | `white_concrete` | 65 |
 | Graues Buntglas | `gray_stained_glass` | 43 |
 | Ziegelsteine | `bricks` | 40 |
@@ -7135,7 +7135,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.208 – Reihenhaus an Via dei Pepi: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.433
+- **Blöcke:** 1.437
 - **Bauteile:** `w496186266_innen`
 
 **Teileliste**
@@ -7147,8 +7147,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
+| Rote Keramik | `red_terracotta` | 8 |
+| Weiße Keramik | `white_terracotta` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 262.380 |
+| Blöcke | 262.467 |
 | Bauschritte | 166 |
 | Y-Bereich | 60 bis 102 |
 | X-Ausdehnung | -877 bis -600 (278 Blöcke) |
@@ -21,29 +21,29 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 87.704 | 33,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 28.915 | 11,0 % |
+| Terrakotta | `terracotta` | 87.702 | 33,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 28.950 | 11,0 % |
 | Polierter Tuffstein | `polished_tuff` | 25.951 | 9,9 % |
 | Orange Keramik | `orange_terracotta` | 22.096 | 8,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 16.021 | 6,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 16.047 | 6,1 % |
 | Weißer Beton | `white_concrete` | 14.582 | 5,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 13.782 | 5,3 % |
 | Endsteinziegel | `end_stone_bricks` | 11.322 | 4,3 % |
-| Rosa Keramik | `pink_terracotta` | 11.237 | 4,3 % |
+| Rosa Keramik | `pink_terracotta` | 11.258 | 4,3 % |
 | Glatter Stein | `smooth_stone` | 8.673 | 3,3 % |
 | Graues Buntglas | `gray_stained_glass` | 7.011 | 2,7 % |
-| Tuffstein | `tuff` | 2.978 | 1,1 % |
+| Tuffstein | `tuff` | 2.991 | 1,1 % |
 | Polierter Andesit | `polished_andesite` | 2.956 | 1,1 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.749 | 0,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.747 | 0,7 % |
 | Ziegelsteine | `bricks` | 1.744 | 0,7 % |
 | Grüner Beton | `green_concrete` | 1.483 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.190 | 0,5 % |
 | Seelaterne | `sea_lantern` | 524 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 349 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 347 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 347 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 321 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 321 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 348 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 344 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 322 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 318 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 245 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 245 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 86 | 0,0 % |
@@ -59,7 +59,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.336 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.332 |
 | Steintreppe | `stone_stairs` | 260 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -74,7 +74,7 @@
 | 6 | `w493525528_innen` | Casa Acciaiuoli: Innenausbau | 1.571 | 0.23 |
 | 7 | `w495057042` | Reihenhaus an Via del Fiordaliso | 8.748 | 0.24–0.28 |
 | 8 | `w495057042_innen` | Reihenhaus an Via del Fiordaliso: Innenausbau | 2.220 | 0.29–0.30 |
-| 9 | `w495057046` | Reihenhaus an Borgo Santi Apostoli | 4.762 | 0.31–0.33 |
+| 9 | `w495057046` | Reihenhaus an Borgo Santi Apostoli | 4.775 | 0.31–0.33 |
 | 10 | `w495057046_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 844 | 0.34 |
 | 11 | `w495057051` | Reihenhaus an Chiasso Ricasoli | 8.745 | 0.35–0.39 |
 | 12 | `w495057051_innen` | Reihenhaus an Chiasso Ricasoli: Innenausbau | 2.771 | 0.40–0.41 |
@@ -86,7 +86,7 @@
 | 18 | `w495057063_innen` | Reihenhaus an Via delle Terme: Innenausbau | 3.283 | 0.54–0.56 |
 | 19 | `w495057066` | Reihenhaus an Chiasso Ricasoli | 2.904 | 0.57–0.58 |
 | 20 | `w495057066_innen` | Reihenhaus an Chiasso Ricasoli: Innenausbau | 510 | 0.59 |
-| 21 | `w495057067` | Reihenhaus an Borgo Santi Apostoli | 4.878 | 0.60–0.62 |
+| 21 | `w495057067` | Reihenhaus an Borgo Santi Apostoli | 4.877 | 0.60–0.62 |
 | 22 | `w495057067_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 974 | 0.63 |
 | 23 | `w495057069` | Reihenhaus an Via delle Bombarde | 6.866 | 0.64–0.67 |
 | 24 | `w495057069_innen` | Reihenhaus an Via delle Bombarde: Innenausbau | 2.188 | 0.68–0.69 |
@@ -102,9 +102,9 @@
 | 34 | `w495057088_innen` | Palazzo des Ottocento an Via delle Bombarde: Innenausbau | 1.018 | 0.94 |
 | 35 | `w495057089` | Reihenhaus an Chiasso Cornino | 5.689 | 0.95–0.97 |
 | 36 | `w495057089_innen` | Reihenhaus an Chiasso Cornino: Innenausbau | 1.930 | 0.98 |
-| 37 | `w495057094` | Reihenhaus an Borgo Santi Apostoli | 5.692 | 0.99–0.101 |
+| 37 | `w495057094` | Reihenhaus an Borgo Santi Apostoli | 5.691 | 0.99–0.101 |
 | 38 | `w495057094_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 3.683 | 0.102–0.104 |
-| 39 | `w495057099` | Nebengebäude an Borgo Santi Apostoli | 1.467 | 0.105 |
+| 39 | `w495057099` | Nebengebäude an Borgo Santi Apostoli | 1.493 | 0.105 |
 | 40 | `w495057099_innen` | Nebengebäude an Borgo Santi Apostoli: Innenausbau | 1 | 0.106 |
 | 41 | `w495057100` | Reihenhaus an Via delle Bombarde | 2.846 | 0.106–0.107 |
 | 42 | `w495057100_innen` | Reihenhaus an Via delle Bombarde: Innenausbau | 733 | 0.108 |
@@ -112,15 +112,15 @@
 | 44 | `w495057101_innen` | Palazzo des Ottocento an Via del Fiordaliso: Innenausbau | 2.576 | 0.115–0.116 |
 | 45 | `w495057103` | Palazzo degli Altoviti | 9.504 | 0.117–0.121 |
 | 46 | `w495057103_innen` | Palazzo degli Altoviti: Innenausbau | 1.559 | 0.122 |
-| 47 | `w495057104` | Reihenhaus an Borgo Santi Apostoli | 1.526 | 0.123 |
-| 48 | `w495057104_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 1.202 | 0.124 |
+| 47 | `w495057104` | Reihenhaus an Borgo Santi Apostoli | 1.561 | 0.123 |
+| 48 | `w495057104_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 1.196 | 0.124 |
 | 49 | `w495057105` | Reihenhaus an Chiasso Ricasoli | 2.627 | 0.125–0.126 |
 | 50 | `w495057105_innen` | Reihenhaus an Chiasso Ricasoli: Innenausbau | 1.130 | 0.127 |
 | 51 | `w495057108` | Reihenhaus an Chiasso Ricasoli | 2.901 | 0.128–0.129 |
 | 52 | `w495057108_innen` | Reihenhaus an Chiasso Ricasoli: Innenausbau | 1.698 | 0.130 |
 | 53 | `w495057109` | Reihenhaus an Via delle Terme | 8.263 | 0.131–0.135 |
 | 54 | `w495057109_innen` | Reihenhaus an Via delle Terme: Innenausbau | 3.356 | 0.136–0.138 |
-| 55 | `w495057110` | Reihenhaus an Borgo Santi Apostoli | 5.999 | 0.139–0.141 |
+| 55 | `w495057110` | Reihenhaus an Borgo Santi Apostoli | 6.020 | 0.139–0.141 |
 | 56 | `w495057110_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 1.695 | 0.142 |
 | 57 | `w495057112` | Reihenhaus an Chiasso Ricasoli | 1.599 | 0.143 |
 | 58 | `w495057112_innen` | Reihenhaus an Chiasso Ricasoli: Innenausbau | 713 | 0.144 |
@@ -1166,21 +1166,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.31 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 61–71)
+### Schritt 0.31 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 62–73)
 
-- **Y-Bereich:** 61 bis 71
-- **Blöcke:** 1.652
+- **Y-Bereich:** 62 bis 73
+- **Blöcke:** 1.656
 - **Bauteile:** `w495057046`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.163 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.154 |
 | Polierter Tuffstein | `polished_tuff` | 374 |
 | Weißer Beton | `white_concrete` | 78 |
 | Graues Buntglas | `gray_stained_glass` | 21 |
 | Glatter Stein | `smooth_stone` | 16 |
+| Tuffstein | `tuff` | 13 |
 
 **Beschreibung**
 
@@ -1198,9 +1199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.32 – Reihenhaus an Borgo Santi Apostoli – Teil 2/3 (Y 72–83)
+### Schritt 0.32 – Reihenhaus an Borgo Santi Apostoli – Teil 2/3 (Y 74–85)
 
-- **Y-Bereich:** 72 bis 83
+- **Y-Bereich:** 74 bis 85
 - **Blöcke:** 1.516
 - **Bauteile:** `w495057046`
 
@@ -1228,17 +1229,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.33 – Reihenhaus an Borgo Santi Apostoli – Teil 3/3 (Y 84–95)
+### Schritt 0.33 – Reihenhaus an Borgo Santi Apostoli – Teil 3/3 (Y 86–97)
 
-- **Y-Bereich:** 84 bis 95
-- **Blöcke:** 1.594
+- **Y-Bereich:** 86 bis 97
+- **Blöcke:** 1.603
 - **Bauteile:** `w495057046`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 922 |
+| Hellgrauer Beton | `light_gray_concrete` | 931 |
 | Terrakotta | `terracotta` | 491 |
 | Weißer Beton | `white_concrete` | 75 |
 | Fichtenholz-Bretter | `spruce_planks` | 73 |
@@ -1263,7 +1264,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 0.34 – Reihenhaus an Borgo Santi Apostoli: Innenausbau
 
-- **Y-Bereich:** 61 bis 85
+- **Y-Bereich:** 63 bis 87
 - **Blöcke:** 844
 - **Bauteile:** `w495057046_innen`
 
@@ -2148,9 +2149,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.60 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 60–70)
+### Schritt 0.60 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 61–71)
 
-- **Y-Bereich:** 60 bis 70
+- **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.656
 - **Bauteile:** `w495057067`
 
@@ -2181,9 +2182,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.61 – Reihenhaus an Borgo Santi Apostoli – Teil 2/3 (Y 71–82)
+### Schritt 0.61 – Reihenhaus an Borgo Santi Apostoli – Teil 2/3 (Y 72–83)
 
-- **Y-Bereich:** 71 bis 82
+- **Y-Bereich:** 72 bis 83
 - **Blöcke:** 1.542
 - **Bauteile:** `w495057067`
 
@@ -2212,10 +2213,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.62 – Reihenhaus an Borgo Santi Apostoli – Teil 3/3 (Y 83–95)
+### Schritt 0.62 – Reihenhaus an Borgo Santi Apostoli – Teil 3/3 (Y 84–96)
 
-- **Y-Bereich:** 83 bis 95
-- **Blöcke:** 1.680
+- **Y-Bereich:** 84 bis 96
+- **Blöcke:** 1.679
 - **Bauteile:** `w495057067`
 
 **Teileliste**
@@ -2225,7 +2226,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Glatter Sandstein | `smooth_sandstone` | 936 |
 | Terrakotta | `terracotta` | 548 |
 | Weißer Beton | `white_concrete` | 76 |
-| Fichtenholz-Bretter | `spruce_planks` | 65 |
+| Fichtenholz-Bretter | `spruce_planks` | 64 |
 | Ziegelsteine | `bricks` | 29 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 | Grüner Beton | `green_concrete` | 10 |
@@ -2248,7 +2249,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 0.63 – Reihenhaus an Borgo Santi Apostoli: Innenausbau
 
-- **Y-Bereich:** 60 bis 84
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 974
 - **Bauteile:** `w495057067_innen`
 
@@ -3482,10 +3483,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.99 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 62–70)
+### Schritt 0.99 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 62–69)
 
-- **Y-Bereich:** 62 bis 70
-- **Blöcke:** 1.926
+- **Y-Bereich:** 62 bis 69
+- **Blöcke:** 1.880
 - **Bauteile:** `w495057094`
 
 **Teileliste**
@@ -3493,7 +3494,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.270 |
-| Rosa Keramik | `pink_terracotta` | 536 |
+| Rosa Keramik | `pink_terracotta` | 490 |
 | Glatter Stein | `smooth_stone` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 | Fichtenholz-Bretter | `spruce_planks` | 6 |
@@ -3514,17 +3515,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.100 – Reihenhaus an Borgo Santi Apostoli – Teil 2/3 (Y 71–91)
+### Schritt 0.100 – Reihenhaus an Borgo Santi Apostoli – Teil 2/3 (Y 70–91)
 
-- **Y-Bereich:** 71 bis 91
-- **Blöcke:** 1.820
+- **Y-Bereich:** 70 bis 91
+- **Blöcke:** 1.909
 - **Bauteile:** `w495057094`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.443 |
+| Rosa Keramik | `pink_terracotta` | 1.532 |
 | Glatter Stein | `smooth_stone` | 233 |
 | Graues Buntglas | `gray_stained_glass` | 115 |
 | Fichtenholz-Bretter | `spruce_planks` | 29 |
@@ -3548,17 +3549,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.101 – Reihenhaus an Borgo Santi Apostoli – Teil 3/3 (Y 92–100)
 
 - **Y-Bereich:** 92 bis 100
-- **Blöcke:** 1.946
+- **Blöcke:** 1.902
 - **Bauteile:** `w495057094`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.691 |
-| Rosa Keramik | `pink_terracotta` | 132 |
+| Terrakotta | `terracotta` | 1.689 |
+| Rosa Keramik | `pink_terracotta` | 89 |
 | Ziegelsteine | `bricks` | 69 |
-| Fichtenholz-Bretter | `spruce_planks` | 54 |
+| Fichtenholz-Bretter | `spruce_planks` | 55 |
 
 **Beschreibung**
 
@@ -3701,14 +3702,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.105 – Nebengebäude an Borgo Santi Apostoli
 
 - **Y-Bereich:** 61 bis 95
-- **Blöcke:** 1.467
+- **Blöcke:** 1.493
 - **Bauteile:** `w495057099`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.223 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.249 |
 | Terrakotta | `terracotta` | 87 |
 | Polierter Tuffstein | `polished_tuff` | 86 |
 | Fichtenholz-Bretter | `spruce_planks` | 39 |
@@ -4316,14 +4317,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.123 – Reihenhaus an Borgo Santi Apostoli
 
 - **Y-Bereich:** 60 bis 95
-- **Blöcke:** 1.526
+- **Blöcke:** 1.561
 - **Bauteile:** `w495057104`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 517 |
+| Gelbe Keramik | `yellow_terracotta` | 552 |
 | Terrakotta | `terracotta` | 463 |
 | Polierter Tuffstein | `polished_tuff` | 382 |
 | Polierter Andesit | `polished_andesite` | 77 |
@@ -4350,7 +4351,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.124 – Reihenhaus an Borgo Santi Apostoli: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
-- **Blöcke:** 1.202
+- **Blöcke:** 1.196
 - **Bauteile:** `w495057104_innen`
 
 **Teileliste**
@@ -4358,20 +4359,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.056 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -4881,14 +4880,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.139 – Reihenhaus an Borgo Santi Apostoli – Teil 1/3 (Y 60–69)
 
 - **Y-Bereich:** 60 bis 69
-- **Blöcke:** 1.966
+- **Blöcke:** 1.987
 - **Bauteile:** `w495057110`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.137 |
+| Rosa Keramik | `pink_terracotta` | 1.158 |
 | Polierter Tuffstein | `polished_tuff` | 674 |
 | Weißer Beton | `white_concrete` | 82 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
@@ -4987,13 +4986,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.539 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 28 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 26 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

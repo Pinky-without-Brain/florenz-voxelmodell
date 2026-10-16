@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 155.785 |
+| Blöcke | 155.712 |
 | Bauschritte | 96 |
-| Y-Bereich | 54 bis 99 |
+| Y-Bereich | 55 bis 99 |
 | X-Ausdehnung | -2747 bis -2580 (168 Blöcke) |
 | Z-Ausdehnung | 1488 bis 1669 (182 Blöcke) |
 | Kleinster Schritt | 607 Blöcke (Schritt 32.85) |
-| Mittlerer Schritt | 1.623 Blöcke |
+| Mittlerer Schritt | 1.622 Blöcke |
 | Größter Schritt | 2.091 Blöcke (Schritt 32.52) |
 
 ## Gesamt-Stückliste
@@ -22,12 +22,12 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 50.010 | 32,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 16.558 | 10,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 16.542 | 10,6 % |
 | Polierter Tuffstein | `polished_tuff` | 15.374 | 9,9 % |
-| Rosa Keramik | `pink_terracotta` | 15.042 | 9,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 14.031 | 9,0 % |
+| Rosa Keramik | `pink_terracotta` | 15.001 | 9,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 14.015 | 9,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 11.492 | 7,4 % |
-| Weißer Beton | `white_concrete` | 8.175 | 5,2 % |
+| Weißer Beton | `white_concrete` | 8.175 | 5,3 % |
 | Tuffstein | `tuff` | 4.548 | 2,9 % |
 | Orange Keramik | `orange_terracotta` | 4.331 | 2,8 % |
 | Graues Buntglas | `gray_stained_glass` | 3.701 | 2,4 % |
@@ -45,12 +45,10 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 176 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 109 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 109 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 25 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 12 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -74,19 +72,19 @@
 | 8 | `w442946794_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 2.514 | 32.27–32.28 |
 | 9 | `w442946798` | Reihenhaus an Via Minima | 5.740 | 32.29–32.31 |
 | 10 | `w442946798_innen` | Reihenhaus an Via Minima: Innenausbau | 1.514 | 32.32 |
-| 11 | `w464120078` | Haus w464120078 | 5.961 | 32.33–32.35 |
+| 11 | `w464120078` | Haus w464120078 | 5.957 | 32.33–32.35 |
 | 12 | `w464120078_innen` | Haus w464120078: Innenausbau | 959 | 32.36 |
 | 13 | `w464120088` | Reihenhaus an Viale Francesco Petrarca | 6.836 | 32.37–32.40 |
 | 14 | `w464120088_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 2.026 | 32.41 |
 | 15 | `w464120090` | Reihenhaus an Via Minima | 9.441 | 32.42–32.46 |
 | 16 | `w464120090_innen` | Reihenhaus an Via Minima: Innenausbau | 3.323 | 32.47–32.49 |
-| 17 | `w464120093` | Haus w464120093 | 9.395 | 32.50–32.54 |
+| 17 | `w464120093` | Haus w464120093 | 9.354 | 32.50–32.54 |
 | 18 | `w464120093_innen` | Haus w464120093: Innenausbau | 2.127 | 32.55–32.56 |
-| 19 | `w464120108` | Haus w464120108 | 5.462 | 32.57–32.59 |
+| 19 | `w464120108` | Haus w464120108 | 5.446 | 32.57–32.59 |
 | 20 | `w464120108_innen` | Haus w464120108: Innenausbau | 1.397 | 32.60 |
 | 21 | `w464120123` | Reihenhaus an Viale Francesco Petrarca | 7.156 | 32.61–32.64 |
 | 22 | `w464120123_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 2.270 | 32.65–32.66 |
-| 23 | `w464120124` | Palazzo des Cinquecento an Via dei Villani | 16.670 | 32.67–32.76 |
+| 23 | `w464120124` | Palazzo des Cinquecento an Via dei Villani | 16.658 | 32.67–32.76 |
 | 24 | `w464120124_innen` | Palazzo des Cinquecento an Via dei Villani: Innenausbau | 3.390 | 32.77–32.78 |
 | 25 | `w464120143` | Haus w464120143 | 4.697 | 32.79–32.81 |
 | 26 | `w464120143_innen` | Haus w464120143: Innenausbau | 743 | 32.82 |
@@ -1179,17 +1177,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 32.33 – Haus w464120078 – Teil 1/3 (Y 54–63)
+### Schritt 32.33 – Haus w464120078 – Teil 1/3 (Y 55–64)
 
-- **Y-Bereich:** 54 bis 63
-- **Blöcke:** 1.951
+- **Y-Bereich:** 55 bis 64
+- **Blöcke:** 1.947
 - **Bauteile:** `w464120078`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.463 |
+| Glatter Sandstein | `smooth_sandstone` | 1.459 |
 | Polierter Tuffstein | `polished_tuff` | 452 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
 | Glatter Stein | `smooth_stone` | 18 |
@@ -1210,9 +1208,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 32.34 – Haus w464120078 – Teil 2/3 (Y 64–75)
+### Schritt 32.34 – Haus w464120078 – Teil 2/3 (Y 65–76)
 
-- **Y-Bereich:** 64 bis 75
+- **Y-Bereich:** 65 bis 76
 - **Blöcke:** 1.980
 - **Bauteile:** `w464120078`
 
@@ -1239,9 +1237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 32.35 – Haus w464120078 – Teil 3/3 (Y 76–89)
+### Schritt 32.35 – Haus w464120078 – Teil 3/3 (Y 77–90)
 
-- **Y-Bereich:** 76 bis 89
+- **Y-Bereich:** 77 bis 90
 - **Blöcke:** 2.030
 - **Bauteile:** `w464120078`
 
@@ -1272,7 +1270,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 32.36 – Haus w464120078: Innenausbau
 
-- **Y-Bereich:** 54 bis 78
+- **Y-Bereich:** 55 bis 79
 - **Blöcke:** 959
 - **Bauteile:** `w464120078_innen`
 
@@ -1853,14 +1851,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 32.53 – Haus w464120093 – Teil 4/5 (Y 79–88)
 
 - **Y-Bereich:** 79 bis 88
-- **Blöcke:** 2.045
+- **Blöcke:** 2.004
 - **Bauteile:** `w464120093`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.862 |
+| Rosa Keramik | `pink_terracotta` | 1.821 |
 | Polierter Andesit | `polished_andesite` | 135 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
@@ -2064,14 +2062,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 32.59 – Haus w464120108 – Teil 3/3 (Y 82–94)
 
 - **Y-Bereich:** 82 bis 94
-- **Blöcke:** 1.874
+- **Blöcke:** 1.858
 - **Bauteile:** `w464120108`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 779 |
+| Gelbe Keramik | `yellow_terracotta` | 763 |
 | Terrakotta | `terracotta` | 762 |
 | Fichtenholz-Bretter | `spruce_planks` | 129 |
 | Polierter Andesit | `polished_andesite` | 100 |
@@ -2597,7 +2595,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 32.75 – Palazzo des Cinquecento an Via dei Villani – Teil 9/10 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.588
+- **Blöcke:** 1.576
 - **Bauteile:** `w464120124`
 
 **Teileliste**
@@ -2605,7 +2603,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 980 |
-| Glatter Sandstein | `smooth_sandstone` | 393 |
+| Glatter Sandstein | `smooth_sandstone` | 381 |
 | Glatter Stein | `smooth_stone` | 211 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
@@ -2657,7 +2655,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 32.77 – Palazzo des Cinquecento an Via dei Villani: Innenausbau – Teil 1/2 (Y 62–72)
 
 - **Y-Bereich:** 62 bis 72
-- **Blöcke:** 1.707
+- **Blöcke:** 1.710
 - **Bauteile:** `w464120124_innen`
 
 **Teileliste**
@@ -2667,14 +2665,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.639 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -2692,10 +2694,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 32.78 – Palazzo des Cinquecento an Via dei Villani: Innenausbau – Teil 2/2 (Y 73–79)
+### Schritt 32.78 – Palazzo des Cinquecento an Via dei Villani: Innenausbau – Teil 2/2 (Y 73–78)
 
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.683
+- **Y-Bereich:** 73 bis 78
+- **Blöcke:** 1.680
 - **Bauteile:** `w464120124_innen`
 
 **Teileliste**
@@ -2705,18 +2707,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Terrakotta | `terracotta` | 1.639 |
 | Glatter Stein | `smooth_stone` | 18 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 4 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 12 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 

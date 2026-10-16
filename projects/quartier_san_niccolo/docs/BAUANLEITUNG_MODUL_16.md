@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 67.919 |
+| Blöcke | 68.176 |
 | Bauschritte | 40 |
 | Y-Bereich | 69 bis 117 |
 | X-Ausdehnung | 655 bis 849 (195 Blöcke) |
 | Z-Ausdehnung | 2089 bis 2208 (120 Blöcke) |
 | Kleinster Schritt | 935 Blöcke (Schritt 16.17) |
-| Mittlerer Schritt | 1.698 Blöcke |
+| Mittlerer Schritt | 1.704 Blöcke |
 | Größter Schritt | 2.089 Blöcke (Schritt 16.25) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.156 | 25,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 10.472 | 15,4 % |
+| Terrakotta | `terracotta` | 17.156 | 25,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 10.414 | 15,3 % |
 | Rosa Keramik | `pink_terracotta` | 9.602 | 14,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 8.860 | 13,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 8.905 | 13,1 % |
 | Polierter Tuffstein | `polished_tuff` | 5.788 | 8,5 % |
+| Tuffstein | `tuff` | 2.767 | 4,1 % |
 | Weißer Beton | `white_concrete` | 2.635 | 3,9 % |
-| Tuffstein | `tuff` | 2.497 | 3,7 % |
 | Graues Buntglas | `gray_stained_glass` | 2.301 | 3,4 % |
 | Endsteinziegel | `end_stone_bricks` | 2.126 | 3,1 % |
 | Polierter Andesit | `polished_andesite` | 1.521 | 2,2 % |
@@ -57,9 +57,9 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w480707947` | Reihenhaus an Via del Monte alle Croci | 8.023 | 16.1–16.5 |
+| 1 | `w480707947` | Reihenhaus an Via del Monte alle Croci | 8.293 | 16.1–16.5 |
 | 2 | `w480707947_innen` | Reihenhaus an Via del Monte alle Croci: Innenausbau | 1.927 | 16.6 |
-| 3 | `w480707950` | Reihenhaus an Via del Monte alle Croci | 8.660 | 16.7–16.11 |
+| 3 | `w480707950` | Reihenhaus an Via del Monte alle Croci | 8.705 | 16.7–16.11 |
 | 4 | `w480707950_innen` | Reihenhaus an Via del Monte alle Croci: Innenausbau | 1.481 | 16.12 |
 | 5 | `w480707953` | Reihenhaus an Via di Belvedere | 2.724 | 16.13–16.14 |
 | 6 | `w480707953_innen` | Reihenhaus an Via di Belvedere: Innenausbau | 210 | 16.14 |
@@ -69,7 +69,7 @@
 | 10 | `w480707963_innen` | Reihenhaus an Via di Belvedere: Innenausbau | 1.579 | 16.23 |
 | 11 | `w480707980` | Reihenhaus an Via di Belvedere | 7.904 | 16.24–16.27 |
 | 12 | `w480707980_innen` | Reihenhaus an Via di Belvedere: Innenausbau | 1.272 | 16.28 |
-| 13 | `w480707982` | Reihenhaus an Via dell'Erta Canina | 7.198 | 16.29–16.32 |
+| 13 | `w480707982` | Reihenhaus an Via dell'Erta Canina | 7.140 | 16.29–16.32 |
 | 14 | `w480707982_innen` | Reihenhaus an Via dell'Erta Canina: Innenausbau | 1.356 | 16.33 |
 | 15 | `w480707983` | Reihenhaus an Via di Belvedere | 6.931 | 16.34–16.37 |
 | 16 | `w480707983_innen` | Reihenhaus an Via di Belvedere: Innenausbau | 1.813 | 16.38 |
@@ -78,10 +78,10 @@
 
 ## Bauschritte
 
-### Schritt 16.1 – Reihenhaus an Via del Monte alle Croci – Teil 1/5 (Y 72–76)
+### Schritt 16.1 – Reihenhaus an Via del Monte alle Croci – Teil 1/5 (Y 72–78)
 
-- **Y-Bereich:** 72 bis 76
-- **Blöcke:** 1.574
+- **Y-Bereich:** 72 bis 78
+- **Blöcke:** 1.666
 - **Bauteile:** `w480707947`
 
 **Teileliste**
@@ -89,10 +89,9 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 808 |
-| Rosa Keramik | `pink_terracotta` | 708 |
-| Graues Buntglas | `gray_stained_glass` | 26 |
-| Fichtenholz-Bretter | `spruce_planks` | 24 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Rosa Keramik | `pink_terracotta` | 582 |
+| Tuffstein | `tuff` | 270 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -110,20 +109,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.2 – Reihenhaus an Via del Monte alle Croci – Teil 2/5 (Y 77–84)
+### Schritt 16.2 – Reihenhaus an Via del Monte alle Croci – Teil 2/5 (Y 79–87)
 
-- **Y-Bereich:** 77 bis 84
-- **Blöcke:** 1.562
+- **Y-Bereich:** 79 bis 87
+- **Blöcke:** 1.740
 - **Bauteile:** `w480707947`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.366 |
-| Graues Buntglas | `gray_stained_glass` | 107 |
-| Fichtenholz-Bretter | `spruce_planks` | 76 |
-| Glatter Stein | `smooth_stone` | 13 |
+| Rosa Keramik | `pink_terracotta` | 1.492 |
+| Graues Buntglas | `gray_stained_glass` | 133 |
+| Fichtenholz-Bretter | `spruce_planks` | 100 |
+| Glatter Stein | `smooth_stone` | 15 |
 
 **Beschreibung**
 
@@ -141,18 +140,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.3 – Reihenhaus an Via del Monte alle Croci – Teil 3/5 (Y 85–93)
+### Schritt 16.3 – Reihenhaus an Via del Monte alle Croci – Teil 3/5 (Y 88–95)
 
-- **Y-Bereich:** 85 bis 93
-- **Blöcke:** 1.747
+- **Y-Bereich:** 88 bis 95
+- **Blöcke:** 1.558
 - **Bauteile:** `w480707947`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.479 |
-| Graues Buntglas | `gray_stained_glass` | 164 |
+| Rosa Keramik | `pink_terracotta` | 1.314 |
+| Graues Buntglas | `gray_stained_glass` | 140 |
 | Fichtenholz-Bretter | `spruce_planks` | 104 |
 
 **Beschreibung**
@@ -171,19 +170,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.4 – Reihenhaus an Via del Monte alle Croci – Teil 4/5 (Y 94–101)
+### Schritt 16.4 – Reihenhaus an Via del Monte alle Croci – Teil 4/5 (Y 96–103)
 
-- **Y-Bereich:** 94 bis 101
-- **Blöcke:** 1.604
+- **Y-Bereich:** 96 bis 103
+- **Blöcke:** 1.560
 - **Bauteile:** `w480707947`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.389 |
-| Graues Buntglas | `gray_stained_glass` | 111 |
-| Fichtenholz-Bretter | `spruce_planks` | 104 |
+| Rosa Keramik | `pink_terracotta` | 1.347 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Fichtenholz-Bretter | `spruce_planks` | 78 |
 
 **Beschreibung**
 
@@ -201,10 +200,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.5 – Reihenhaus an Via del Monte alle Croci – Teil 5/5 (Y 102–110)
+### Schritt 16.5 – Reihenhaus an Via del Monte alle Croci – Teil 5/5 (Y 104–113)
 
-- **Y-Bereich:** 102 bis 110
-- **Blöcke:** 1.536
+- **Y-Bereich:** 104 bis 113
+- **Blöcke:** 1.769
 - **Bauteile:** `w480707947`
 
 **Teileliste**
@@ -212,8 +211,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.151 |
-| Rosa Keramik | `pink_terracotta` | 207 |
-| Fichtenholz-Bretter | `spruce_planks` | 127 |
+| Rosa Keramik | `pink_terracotta` | 414 |
+| Fichtenholz-Bretter | `spruce_planks` | 153 |
 | Ziegelsteine | `bricks` | 51 |
 
 **Beschreibung**
@@ -234,7 +233,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 16.6 – Reihenhaus an Via del Monte alle Croci: Innenausbau
 
-- **Y-Bereich:** 72 bis 96
+- **Y-Bereich:** 75 bis 99
 - **Blöcke:** 1.927
 - **Bauteile:** `w480707947_innen`
 
@@ -275,7 +274,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 16.7 – Reihenhaus an Via del Monte alle Croci – Teil 1/5 (Y 69–73)
 
 - **Y-Bereich:** 69 bis 73
-- **Blöcke:** 1.846
+- **Blöcke:** 1.861
 - **Bauteile:** `w480707950`
 
 **Teileliste**
@@ -283,7 +282,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 971 |
-| Gelbe Keramik | `yellow_terracotta` | 767 |
+| Gelbe Keramik | `yellow_terracotta` | 782 |
 | Polierter Andesit | `polished_andesite` | 77 |
 | Tuffstein | `tuff` | 31 |
 
@@ -306,14 +305,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 16.8 – Reihenhaus an Via del Monte alle Croci – Teil 2/5 (Y 74–79)
 
 - **Y-Bereich:** 74 bis 79
-- **Blöcke:** 1.565
+- **Blöcke:** 1.595
 - **Bauteile:** `w480707950`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.276 |
+| Gelbe Keramik | `yellow_terracotta` | 1.306 |
 | Polierter Andesit | `polished_andesite` | 189 |
 | Graues Buntglas | `gray_stained_glass` | 61 |
 | Grüner Beton | `green_concrete` | 39 |
@@ -1084,20 +1083,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.31 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 92–101)
+### Schritt 16.31 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 92–100)
 
-- **Y-Bereich:** 92 bis 101
-- **Blöcke:** 1.888
+- **Y-Bereich:** 92 bis 100
+- **Blöcke:** 1.704
 - **Bauteile:** `w480707982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.357 |
-| Weißer Beton | `white_concrete` | 251 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
-| Fichtenholz-Bretter | `spruce_planks` | 126 |
+| Glatter Sandstein | `smooth_sandstone` | 1.236 |
+| Weißer Beton | `white_concrete` | 228 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Fichtenholz-Bretter | `spruce_planks` | 108 |
 
 **Beschreibung**
 
@@ -1115,10 +1114,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.32 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 102–110)
+### Schritt 16.32 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 101–110)
 
-- **Y-Bereich:** 102 bis 110
-- **Blöcke:** 1.734
+- **Y-Bereich:** 101 bis 110
+- **Blöcke:** 1.860
 - **Bauteile:** `w480707982`
 
 **Teileliste**
@@ -1126,11 +1125,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.043 |
-| Glatter Sandstein | `smooth_sandstone` | 534 |
-| Weißer Beton | `white_concrete` | 68 |
+| Glatter Sandstein | `smooth_sandstone` | 597 |
+| Weißer Beton | `white_concrete` | 91 |
 | Ziegelsteine | `bricks` | 49 |
-| Graues Buntglas | `gray_stained_glass` | 22 |
-| Fichtenholz-Bretter | `spruce_planks` | 18 |
+| Graues Buntglas | `gray_stained_glass` | 44 |
+| Fichtenholz-Bretter | `spruce_planks` | 36 |
 
 **Beschreibung**
 

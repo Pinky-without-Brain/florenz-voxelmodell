@@ -8,44 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 222.405 |
+| Blöcke | 222.831 |
 | Bauschritte | 138 |
-| Y-Bereich | 62 bis 107 |
+| Y-Bereich | 62 bis 108 |
 | X-Ausdehnung | -1330 bis -1129 (202 Blöcke) |
 | Z-Ausdehnung | 1490 bis 1724 (235 Blöcke) |
-| Kleinster Schritt | 387 Blöcke (Schritt 8.30) |
-| Mittlerer Schritt | 1.612 Blöcke |
+| Kleinster Schritt | 720 Blöcke (Schritt 8.122) |
+| Mittlerer Schritt | 1.615 Blöcke |
 | Größter Schritt | 2.090 Blöcke (Schritt 8.35) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 70.514 | 31,7 % |
-| Endsteinziegel | `end_stone_bricks` | 32.949 | 14,8 % |
+| Terrakotta | `terracotta` | 70.515 | 31,6 % |
+| Endsteinziegel | `end_stone_bricks` | 32.899 | 14,8 % |
 | Weißer Beton | `white_concrete` | 23.859 | 10,7 % |
-| Polierter Tuffstein | `polished_tuff` | 21.492 | 9,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 15.764 | 7,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 15.429 | 6,9 % |
-| Tuffstein | `tuff` | 10.067 | 4,5 % |
-| Rosa Keramik | `pink_terracotta` | 9.451 | 4,2 % |
+| Polierter Tuffstein | `polished_tuff` | 21.491 | 9,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 15.777 | 7,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 15.404 | 6,9 % |
+| Tuffstein | `tuff` | 10.540 | 4,7 % |
+| Rosa Keramik | `pink_terracotta` | 9.464 | 4,2 % |
 | Polierter Andesit | `polished_andesite` | 7.494 | 3,4 % |
-| Glatter Stein | `smooth_stone` | 5.402 | 2,4 % |
+| Glatter Stein | `smooth_stone` | 5.405 | 2,4 % |
 | Graues Buntglas | `gray_stained_glass` | 2.695 | 1,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.379 | 0,6 % |
 | Ziegelsteine | `bricks` | 1.239 | 0,6 % |
 | Orange Keramik | `orange_terracotta` | 1.143 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 956 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 828 | 0,4 % |
-| Seelaterne | `sea_lantern` | 423 | 0,2 % |
+| Seelaterne | `sea_lantern` | 424 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 256 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 236 | 0,1 % |
 | Grüner Beton | `green_concrete` | 181 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 125 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 117 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 84 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 81 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 81 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 80 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 80 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 76 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
@@ -69,17 +69,17 @@
 | 4 | `r7118014_innen` | Reihenhaus an Piazza dei Pitti: Innenausbau | 3.627 | 8.20–8.22 |
 | 5 | `r7118015` | Reihenhaus an Via Maggio | 9.806 | 8.23–8.27 |
 | 6 | `r7118015_innen` | Reihenhaus an Via Maggio: Innenausbau | 2.739 | 8.28–8.29 |
-| 7 | `r9572898` | Palazzo des Cinquecento an Piazza dei Pitti | 18.007 | 8.30–8.40 |
+| 7 | `r9572898` | Palazzo des Cinquecento an Piazza dei Pitti | 18.483 | 8.30–8.40 |
 | 8 | `r9572898_innen` | Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau | 3.299 | 8.41–8.42 |
 | 9 | `w306811238` | Casa di Bernardo Buontalenti | 7.595 | 8.43–8.46 |
 | 10 | `w306811238_innen` | Casa di Bernardo Buontalenti: Innenausbau | 1.560 | 8.47 |
 | 11 | `w306811247` | Casa Velluti | 7.802 | 8.48–8.51 |
 | 12 | `w306811247_innen` | Casa Velluti: Innenausbau | 1.248 | 8.52 |
-| 13 | `w483437553` | Reihenhaus an Via Maggio | 11.015 | 8.53–8.58 |
+| 13 | `w483437553` | Reihenhaus an Via Maggio | 11.028 | 8.53–8.58 |
 | 14 | `w483437553_innen` | Reihenhaus an Via Maggio: Innenausbau | 2.648 | 8.59–8.60 |
-| 15 | `w483437554` | Palazzo des Cinquecento an Piazza dei Pitti | 11.546 | 8.61–8.67 |
-| 16 | `w483437554_innen` | Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau | 2.674 | 8.68–8.69 |
-| 17 | `w483437555` | Reihenhaus an Sdrucciolo dei Pitti | 11.164 | 8.70–8.75 |
+| 15 | `w483437554` | Palazzo des Cinquecento an Piazza dei Pitti | 11.496 | 8.61–8.67 |
+| 16 | `w483437554_innen` | Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau | 2.672 | 8.68–8.69 |
+| 17 | `w483437555` | Reihenhaus an Sdrucciolo dei Pitti | 11.194 | 8.70–8.75 |
 | 18 | `w483437555_innen` | Reihenhaus an Sdrucciolo dei Pitti: Innenausbau | 3.806 | 8.76–8.78 |
 | 19 | `w483437556` | Renaissance-Palazzo an Via dei Marsili | 12.424 | 8.79–8.86 |
 | 20 | `w483437556_innen` | Renaissance-Palazzo an Via dei Marsili: Innenausbau | 2.989 | 8.87–8.88 |
@@ -89,11 +89,11 @@
 | 24 | `w483437558_innen` | Reihenhaus an Piazza dei Pitti: Innenausbau | 1.579 | 8.93 |
 | 25 | `w483437559` | Reihenhaus an Via Maggio | 9.826 | 8.94–8.98 |
 | 26 | `w483437559_innen` | Reihenhaus an Via Maggio: Innenausbau | 3.279 | 8.99–8.101 |
-| 27 | `w483437560` | Reihenhaus an Piazza dei Pitti | 1.213 | 8.102 |
-| 28 | `w483437560_innen` | Reihenhaus an Piazza dei Pitti: Innenausbau | 2 | 8.103 |
+| 27 | `w483437560` | Reihenhaus an Piazza dei Pitti | 1.157 | 8.102 |
+| 28 | `w483437560_innen` | Reihenhaus an Piazza dei Pitti: Innenausbau | 3 | 8.103 |
 | 29 | `w483437562` | Reihenhaus an Sdrucciolo dei Pitti | 10.118 | 8.103–8.108 |
 | 30 | `w483437562_innen` | Reihenhaus an Sdrucciolo dei Pitti: Innenausbau | 3.131 | 8.109–8.110 |
-| 31 | `w483437563` | Reihenhaus an Via Maggio | 7.298 | 8.111–8.114 |
+| 31 | `w483437563` | Reihenhaus an Via Maggio | 7.311 | 8.111–8.114 |
 | 32 | `w483437563_innen` | Reihenhaus an Via Maggio: Innenausbau | 806 | 8.115 |
 | 33 | `w483437564` | Reihenhaus an Via Maggio | 4.691 | 8.116–8.118 |
 | 34 | `w483437564_innen` | Reihenhaus an Via Maggio: Innenausbau | 1.789 | 8.119 |
@@ -103,7 +103,7 @@
 | 38 | `w483437566_innen` | Reihenhaus an Via Maggio: Innenausbau | 1.679 | 8.125 |
 | 39 | `w483437568` | Palazzo des Cinquecento an Sdrucciolo dei Pitti | 6.332 | 8.126–8.129 |
 | 40 | `w483437568_innen` | Palazzo des Cinquecento an Sdrucciolo dei Pitti: Innenausbau | 2.023 | 8.130 |
-| 41 | `w483437569` | Haus w483437569 | 2.469 | 8.131–8.132 |
+| 41 | `w483437569` | Haus w483437569 | 2.470 | 8.131–8.132 |
 | 42 | `w483437569_innen` | Haus w483437569: Innenausbau | 4 | 8.133 |
 | 43 | `w483437570` | Reihenhaus an Via Maggio | 2.841 | 8.133–8.134 |
 | 44 | `w483437570_innen` | Reihenhaus an Via Maggio: Innenausbau | 1.928 | 8.135 |
@@ -1071,17 +1071,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.30 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 1/11 (Y 65–66)
+### Schritt 8.30 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 1/11 (Y 65–67)
 
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 387
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 860
 - **Bauteile:** `r9572898`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 387 |
+| Tuffstein | `tuff` | 860 |
 
 **Beschreibung**
 
@@ -1099,9 +1099,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.31 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 2/11 (Y 67–67)
+### Schritt 8.31 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 2/11 (Y 68–68)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 2.015
 - **Bauteile:** `r9572898`
 
@@ -1127,10 +1127,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.32 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 3/11 (Y 68–71)
+### Schritt 8.32 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 3/11 (Y 69–72)
 
-- **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.704
+- **Y-Bereich:** 69 bis 72
+- **Blöcke:** 1.707
 - **Bauteile:** `r9572898`
 
 **Teileliste**
@@ -1138,7 +1138,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.555 |
-| Glatter Stein | `smooth_stone` | 127 |
+| Glatter Stein | `smooth_stone` | 130 |
 | Graues Buntglas | `gray_stained_glass` | 10 |
 | Polierter Andesit | `polished_andesite` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
@@ -1159,9 +1159,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.33 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 4/11 (Y 72–75)
+### Schritt 8.33 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 4/11 (Y 73–76)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.686
 - **Bauteile:** `r9572898`
 
@@ -1191,9 +1191,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.34 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 5/11 (Y 76–79)
+### Schritt 8.34 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 5/11 (Y 77–80)
 
-- **Y-Bereich:** 76 bis 79
+- **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.713
 - **Bauteile:** `r9572898`
 
@@ -1220,9 +1220,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.35 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 6/11 (Y 80–84)
+### Schritt 8.35 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 6/11 (Y 81–85)
 
-- **Y-Bereich:** 80 bis 84
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 2.090
 - **Bauteile:** `r9572898`
 
@@ -1250,9 +1250,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.36 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 7/11 (Y 85–88)
+### Schritt 8.36 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 7/11 (Y 86–89)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.704
 - **Bauteile:** `r9572898`
 
@@ -1279,9 +1279,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.37 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 8/11 (Y 89–92)
+### Schritt 8.37 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 8/11 (Y 90–93)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 90 bis 93
 - **Blöcke:** 1.689
 - **Bauteile:** `r9572898`
 
@@ -1309,9 +1309,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.38 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 9/11 (Y 93–96)
+### Schritt 8.38 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 9/11 (Y 94–97)
 
-- **Y-Bereich:** 93 bis 96
+- **Y-Bereich:** 94 bis 97
 - **Blöcke:** 1.720
 - **Bauteile:** `r9572898`
 
@@ -1340,9 +1340,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.39 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 10/11 (Y 97–98)
+### Schritt 8.39 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 10/11 (Y 98–99)
 
-- **Y-Bereich:** 97 bis 98
+- **Y-Bereich:** 98 bis 99
 - **Blöcke:** 1.723
 - **Bauteile:** `r9572898`
 
@@ -1370,9 +1370,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.40 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 11/11 (Y 99–107)
+### Schritt 8.40 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 11/11 (Y 100–108)
 
-- **Y-Bereich:** 99 bis 107
+- **Y-Bereich:** 100 bis 108
 - **Blöcke:** 1.576
 - **Bauteile:** `r9572898`
 
@@ -1399,9 +1399,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.41 – Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau – Teil 1/2 (Y 67–77)
+### Schritt 8.41 – Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau – Teil 1/2 (Y 68–78)
 
-- **Y-Bereich:** 67 bis 77
+- **Y-Bereich:** 68 bis 78
 - **Blöcke:** 1.650
 - **Bauteile:** `r9572898_innen`
 
@@ -1441,9 +1441,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.42 – Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau – Teil 2/2 (Y 78–88)
+### Schritt 8.42 – Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau – Teil 2/2 (Y 79–89)
 
-- **Y-Bereich:** 78 bis 88
+- **Y-Bereich:** 79 bis 89
 - **Blöcke:** 1.649
 - **Bauteile:** `r9572898_innen`
 
@@ -1860,14 +1860,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.54 – Reihenhaus an Via Maggio – Teil 2/6 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.656
+- **Blöcke:** 1.669
 - **Bauteile:** `w483437553`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.557 |
+| Rosa Keramik | `pink_terracotta` | 1.570 |
 | Weißer Beton | `white_concrete` | 52 |
 | Glatter Stein | `smooth_stone` | 23 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
@@ -2154,20 +2154,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.63 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 3/7 (Y 75–81)
+### Schritt 8.63 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 3/7 (Y 75–80)
 
-- **Y-Bereich:** 75 bis 81
-- **Blöcke:** 1.750
+- **Y-Bereich:** 75 bis 80
+- **Blöcke:** 1.507
 - **Bauteile:** `w483437554`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.441 |
-| Glatter Stein | `smooth_stone` | 264 |
-| Graues Buntglas | `gray_stained_glass` | 25 |
-| Polierter Andesit | `polished_andesite` | 20 |
+| Endsteinziegel | `end_stone_bricks` | 1.245 |
+| Glatter Stein | `smooth_stone` | 234 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**
 
@@ -2185,20 +2185,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.64 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 4/7 (Y 82–87)
+### Schritt 8.64 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 4/7 (Y 81–87)
 
-- **Y-Bereich:** 82 bis 87
-- **Blöcke:** 1.466
+- **Y-Bereich:** 81 bis 87
+- **Blöcke:** 1.709
 - **Bauteile:** `w483437554`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.190 |
-| Glatter Stein | `smooth_stone` | 193 |
-| Graues Buntglas | `gray_stained_glass` | 65 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Endsteinziegel | `end_stone_bricks` | 1.386 |
+| Glatter Stein | `smooth_stone` | 223 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
+| Polierter Andesit | `polished_andesite` | 22 |
 
 **Beschreibung**
 
@@ -2250,14 +2250,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.66 – Palazzo des Cinquecento an Piazza dei Pitti – Teil 6/7 (Y 95–99)
 
 - **Y-Bereich:** 95 bis 99
-- **Blöcke:** 1.981
+- **Blöcke:** 1.931
 - **Bauteile:** `w483437554`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 948 |
+| Endsteinziegel | `end_stone_bricks` | 898 |
 | Terrakotta | `terracotta` | 803 |
 | Fichtenholz-Bretter | `spruce_planks` | 132 |
 | Glatter Stein | `smooth_stone` | 73 |
@@ -2350,7 +2350,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.69 – Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau – Teil 2/2 (Y 79–89)
 
 - **Y-Bereich:** 79 bis 89
-- **Blöcke:** 1.337
+- **Blöcke:** 1.335
 - **Bauteile:** `w483437554_innen`
 
 **Teileliste**
@@ -2362,8 +2362,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2418,17 +2418,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.71 – Reihenhaus an Sdrucciolo dei Pitti – Teil 2/6 (Y 67–74)
+### Schritt 8.71 – Reihenhaus an Sdrucciolo dei Pitti – Teil 2/6 (Y 67–73)
 
-- **Y-Bereich:** 67 bis 74
-- **Blöcke:** 2.057
+- **Y-Bereich:** 67 bis 73
+- **Blöcke:** 1.837
 - **Bauteile:** `w483437555`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.843 |
+| Gelbe Keramik | `yellow_terracotta` | 1.623 |
 | Weißer Beton | `white_concrete` | 107 |
 | Glatter Stein | `smooth_stone` | 50 |
 | Graues Buntglas | `gray_stained_glass` | 46 |
@@ -2450,17 +2450,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.72 – Reihenhaus an Sdrucciolo dei Pitti – Teil 3/6 (Y 75–81)
+### Schritt 8.72 – Reihenhaus an Sdrucciolo dei Pitti – Teil 3/6 (Y 74–81)
 
-- **Y-Bereich:** 75 bis 81
-- **Blöcke:** 1.726
+- **Y-Bereich:** 74 bis 81
+- **Blöcke:** 1.976
 - **Bauteile:** `w483437555`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.455 |
+| Gelbe Keramik | `yellow_terracotta` | 1.705 |
 | Weißer Beton | `white_concrete` | 223 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
@@ -3465,16 +3465,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.102 – Reihenhaus an Piazza dei Pitti
 
 - **Y-Bereich:** 68 bis 100
-- **Blöcke:** 1.213
+- **Blöcke:** 1.157
 - **Bauteile:** `w483437560`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 672 |
+| Gelbe Keramik | `yellow_terracotta` | 617 |
 | Terrakotta | `terracotta` | 276 |
-| Polierter Tuffstein | `polished_tuff` | 265 |
+| Polierter Tuffstein | `polished_tuff` | 264 |
 
 **Beschreibung**
 
@@ -3495,7 +3495,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.103 – Reihenhaus an Piazza dei Pitti: Innenausbau & Reihenhaus an Sdrucciolo dei Pitti – Teil 1/6 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.722
+- **Blöcke:** 1.723
 - **Bauteile:** `w483437560_innen`, `w483437562`
 
 **Teileliste**
@@ -3505,7 +3505,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Polierter Tuffstein | `polished_tuff` | 1.246 |
 | Endsteinziegel | `end_stone_bricks` | 468 |
 | Glatter Stein | `smooth_stone` | 6 |
-| Seelaterne | `sea_lantern` | 2 |
+| Seelaterne | `sea_lantern` | 3 |
 
 **Beschreibung**
 
@@ -3758,14 +3758,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.111 – Reihenhaus an Via Maggio – Teil 1/4 (Y 62–68)
 
 - **Y-Bereich:** 62 bis 68
-- **Blöcke:** 1.820
+- **Blöcke:** 1.833
 - **Bauteile:** `w483437563`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.192 |
 | Polierter Tuffstein | `polished_tuff` | 595 |
 | Weißer Beton | `white_concrete` | 20 |
 | Glatter Stein | `smooth_stone` | 14 |
@@ -4475,7 +4475,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.132 – Haus w483437569 – Teil 2/2 (Y 83–100)
 
 - **Y-Bereich:** 83 bis 100
-- **Blöcke:** 1.235
+- **Blöcke:** 1.236
 - **Bauteile:** `w483437569`
 
 **Teileliste**
@@ -4483,7 +4483,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.047 |
-| Terrakotta | `terracotta` | 137 |
+| Terrakotta | `terracotta` | 138 |
 | Weißer Beton | `white_concrete` | 39 |
 | Graues Buntglas | `gray_stained_glass` | 9 |
 | Ziegelsteine | `bricks` | 3 |

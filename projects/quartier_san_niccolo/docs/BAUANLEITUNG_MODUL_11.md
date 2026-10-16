@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 284.511 |
+| Blöcke | 284.803 |
 | Bauschritte | 173 |
-| Y-Bereich | 62 bis 107 |
+| Y-Bereich | 62 bis 108 |
 | X-Ausdehnung | 228 bis 682 (455 Blöcke) |
 | Z-Ausdehnung | 1773 bis 1906 (134 Blöcke) |
 | Kleinster Schritt | 598 Blöcke (Schritt 11.43) |
-| Mittlerer Schritt | 1.645 Blöcke |
+| Mittlerer Schritt | 1.646 Blöcke |
 | Größter Schritt | 2.098 Blöcke (Schritt 11.50) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 105.460 | 37,1 % |
+| Terrakotta | `terracotta` | 105.462 | 37,0 % |
 | Orange Keramik | `orange_terracotta` | 31.770 | 11,2 % |
-| Polierter Tuffstein | `polished_tuff` | 31.173 | 11,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 28.282 | 9,9 % |
+| Polierter Tuffstein | `polished_tuff` | 31.173 | 10,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 28.413 | 10,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 18.099 | 6,4 % |
 | Endsteinziegel | `end_stone_bricks` | 16.477 | 5,8 % |
 | Gelbe Keramik | `yellow_terracotta` | 12.423 | 4,4 % |
-| Weißer Beton | `white_concrete` | 9.142 | 3,2 % |
+| Weißer Beton | `white_concrete` | 9.147 | 3,2 % |
 | Graues Buntglas | `gray_stained_glass` | 6.536 | 2,3 % |
 | Glatter Stein | `smooth_stone` | 5.445 | 1,9 % |
 | Rosa Keramik | `pink_terracotta` | 4.604 | 1,6 % |
@@ -36,20 +36,20 @@
 | Ziegelsteine | `bricks` | 2.836 | 1,0 % |
 | Grüner Beton | `green_concrete` | 2.472 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.627 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.454 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.453 | 0,5 % |
 | Seelaterne | `sea_lantern` | 589 | 0,2 % |
-| Tuffstein | `tuff` | 361 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 302 | 0,1 % |
+| Tuffstein | `tuff` | 518 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 301 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 296 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 286 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 285 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 276 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 228 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 228 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 100 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 96 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 92 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 80 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 72 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 60 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 60 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
@@ -58,7 +58,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.160 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.158 |
 | Steintreppe | `stone_stairs` | 272 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
@@ -82,8 +82,8 @@
 | 14 | `w306695192_innen` | Haus w306695192: Innenausbau | 2.082 | 11.48 |
 | 15 | `w306695193` | Reihenhaus an Via di San Niccolò | 6.156 | 11.49–11.51 |
 | 16 | `w306695193_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.755 | 11.52 |
-| 17 | `w306695199` | Palazzo des Cinquecento an Piazza dei Mozzi | 19.431 | 11.53–11.64 |
-| 18 | `w306695199_innen` | Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau | 6.312 | 11.65–11.68 |
+| 17 | `w306695199` | Palazzo des Cinquecento an Piazza dei Mozzi | 19.726 | 11.53–11.64 |
+| 18 | `w306695199_innen` | Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau | 6.309 | 11.65–11.68 |
 | 19 | `w480707949` | Palazzo des Cinquecento an Via di San Niccolò | 18.031 | 11.69–11.78 |
 | 20 | `w480707949_innen` | Palazzo des Cinquecento an Via di San Niccolò: Innenausbau | 3.546 | 11.79–11.80 |
 | 21 | `w480707951` | Reihenhaus an Via di San Niccolò | 4.117 | 11.81–11.82 |
@@ -1888,10 +1888,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.53 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 1/12 (Y 66–66)
+### Schritt 11.53 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 1/12 (Y 66–67)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.700
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.857
 - **Bauteile:** `w306695199`
 
 **Teileliste**
@@ -1899,6 +1899,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.700 |
+| Tuffstein | `tuff` | 157 |
 
 **Beschreibung**
 
@@ -1916,9 +1917,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.54 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 2/12 (Y 66–66)
+### Schritt 11.54 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 2/12 (Y 67–67)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.758
 - **Bauteile:** `w306695199`
 
@@ -1944,10 +1945,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.55 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 3/12 (Y 67–70)
+### Schritt 11.55 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 3/12 (Y 68–71)
 
-- **Y-Bereich:** 67 bis 70
-- **Blöcke:** 1.430
+- **Y-Bereich:** 68 bis 71
+- **Blöcke:** 1.435
 - **Bauteile:** `w306695199`
 
 **Teileliste**
@@ -1955,7 +1956,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.033 |
-| Weißer Beton | `white_concrete` | 268 |
+| Weißer Beton | `white_concrete` | 273 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Grüner Beton | `green_concrete` | 33 |
 | Polierter Andesit | `polished_andesite` | 26 |
@@ -1978,9 +1979,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.56 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 4/12 (Y 71–75)
+### Schritt 11.56 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 4/12 (Y 72–76)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.639
 - **Bauteile:** `w306695199`
 
@@ -2012,22 +2013,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.57 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 5/12 (Y 76–80)
+### Schritt 11.57 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 5/12 (Y 77–80)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 1.704
+- **Y-Bereich:** 77 bis 80
+- **Blöcke:** 1.389
 - **Bauteile:** `w306695199`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.095 |
+| Hellgrauer Beton | `light_gray_concrete` | 923 |
 | Glatter Stein | `smooth_stone` | 203 |
-| Weißer Beton | `white_concrete` | 196 |
-| Graues Buntglas | `gray_stained_glass` | 116 |
-| Grüner Beton | `green_concrete` | 72 |
-| Polierter Andesit | `polished_andesite` | 22 |
+| Weißer Beton | `white_concrete` | 150 |
+| Graues Buntglas | `gray_stained_glass` | 58 |
+| Grüner Beton | `green_concrete` | 36 |
+| Polierter Andesit | `polished_andesite` | 19 |
 
 **Beschreibung**
 
@@ -2045,21 +2046,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.58 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 6/12 (Y 81–84)
+### Schritt 11.58 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 6/12 (Y 81–85)
 
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.375
+- **Y-Bereich:** 81 bis 85
+- **Blöcke:** 1.726
 - **Bauteile:** `w306695199`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 829 |
-| Weißer Beton | `white_concrete` | 242 |
-| Graues Buntglas | `gray_stained_glass` | 174 |
-| Grüner Beton | `green_concrete` | 108 |
-| Polierter Andesit | `polished_andesite` | 22 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.037 |
+| Weißer Beton | `white_concrete` | 288 |
+| Graues Buntglas | `gray_stained_glass` | 232 |
+| Grüner Beton | `green_concrete` | 144 |
+| Polierter Andesit | `polished_andesite` | 25 |
 
 **Beschreibung**
 
@@ -2077,9 +2078,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.59 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 7/12 (Y 85–88)
+### Schritt 11.59 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 7/12 (Y 86–89)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.576
 - **Bauteile:** `w306695199`
 
@@ -2108,9 +2109,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.60 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 8/12 (Y 89–93)
+### Schritt 11.60 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 8/12 (Y 90–94)
 
-- **Y-Bereich:** 89 bis 93
+- **Y-Bereich:** 90 bis 94
 - **Blöcke:** 1.755
 - **Bauteile:** `w306695199`
 
@@ -2140,17 +2141,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.61 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 9/12 (Y 94–96)
+### Schritt 11.61 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 9/12 (Y 95–97)
 
-- **Y-Bereich:** 94 bis 96
-- **Blöcke:** 1.496
+- **Y-Bereich:** 95 bis 97
+- **Blöcke:** 1.591
 - **Bauteile:** `w306695199`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.230 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.325 |
 | Weißer Beton | `white_concrete` | 252 |
 | Polierter Andesit | `polished_andesite` | 14 |
 
@@ -2170,17 +2171,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.62 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 10/12 (Y 97–98)
+### Schritt 11.62 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 10/12 (Y 98–99)
 
-- **Y-Bereich:** 97 bis 98
-- **Blöcke:** 2.004
+- **Y-Bereich:** 98 bis 99
+- **Blöcke:** 2.006
 - **Bauteile:** `w306695199`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.004 |
+| Terrakotta | `terracotta` | 2.006 |
 
 **Beschreibung**
 
@@ -2198,9 +2199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.63 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 11/12 (Y 99–100)
+### Schritt 11.63 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 11/12 (Y 100–101)
 
-- **Y-Bereich:** 99 bis 100
+- **Y-Bereich:** 100 bis 101
 - **Blöcke:** 1.444
 - **Bauteile:** `w306695199`
 
@@ -2227,9 +2228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.64 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 12/12 (Y 101–107)
+### Schritt 11.64 – Palazzo des Cinquecento an Piazza dei Mozzi – Teil 12/12 (Y 102–108)
 
-- **Y-Bereich:** 101 bis 107
+- **Y-Bereich:** 102 bis 108
 - **Blöcke:** 1.550
 - **Bauteile:** `w306695199`
 
@@ -2256,9 +2257,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.65 – Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau – Teil 1/4 (Y 66–76)
+### Schritt 11.65 – Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau – Teil 1/4 (Y 67–77)
 
-- **Y-Bereich:** 66 bis 76
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.647
 - **Bauteile:** `w306695199_innen`
 
@@ -2269,8 +2270,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.574 |
 | Seelaterne | `sea_lantern` | 26 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -2298,9 +2299,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.66 – Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau – Teil 2/4 (Y 76–76)
+### Schritt 11.66 – Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau – Teil 2/4 (Y 77–77)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.528
 - **Bauteile:** `w306695199_innen`
 
@@ -2310,7 +2311,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.518 |
 | Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2334,10 +2335,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.67 – Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau – Teil 3/4 (Y 77–86)
+### Schritt 11.67 – Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau – Teil 3/4 (Y 78–87)
 
-- **Y-Bereich:** 77 bis 86
-- **Blöcke:** 1.569
+- **Y-Bereich:** 78 bis 87
+- **Blöcke:** 1.566
 - **Bauteile:** `w306695199_innen`
 
 **Teileliste**
@@ -2346,21 +2347,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.507 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 18 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -2378,9 +2375,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.68 – Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau – Teil 4/4 (Y 86–87)
+### Schritt 11.68 – Palazzo des Cinquecento an Piazza dei Mozzi: Innenausbau – Teil 4/4 (Y 87–88)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.568
 - **Bauteile:** `w306695199_innen`
 
@@ -2392,7 +2389,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
