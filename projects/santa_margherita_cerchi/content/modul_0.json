@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Boden der kleinen Kirche",
+  "icon": "🪨",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter Y 65 liegt, füllst du es mit Bruchstein auf; der Umriss ist ein Rechteck von 25 × 18 Blöcken (12,5 × 9 m).",
+      "tip": "Beginne an der Westkante zur Via Santa Margherita.",
+      "caution": "Auf drei Seiten stehen Nachbarhäuser; nur die Westseite grenzt an die Straße.",
+      "fact": "Umriss: it.wikipedia „Chiesa di Santa Margherita dei Cerchi“; Umriss aus OpenStreetMap (Way 307545799)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Du legst auf Y 66 den Boden: im Schiff Cotto mit einem Streifen aus Pietra serena in der Mittelachse, in der Apsis ein Schachbrett aus weißem Marmor und Pietra serena.",
+      "tip": "Der Streifen führt vom Portal zum Hochaltar.",
+      "caution": "Die Muster sind frei entworfen.",
+      "fact": "Vereinfacht, nicht nach Vorbild (Stufe C)."
+    }
+  }
+}
