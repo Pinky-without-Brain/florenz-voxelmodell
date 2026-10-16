@@ -1,7 +1,7 @@
 {
   "id": "w238431529",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "romanisch begonnen, gotischer Umbau um 1350",
   "geschosse": [
     {
       "art": "eg",
@@ -19,15 +19,15 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 2,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "material": "bruchstein",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "rundbogen",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -35,15 +35,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "archetti_ciechi_pensili",
+      "zweites_portal_rechts",
+      "monofora_ueber_portal",
+      "kleiner_kreuzgang"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Giebelfassade (a capanna) aus Pietra forte, zentrales Portal mit steinernem Architrav und Lünette unter Spitzbogen, kleineres zweites Portal rechts mit Rundbogenlünette, blinde Hängebögen an beiden Giebelflanken und am linken Seitenschiff, Einzelfenster über dem Hauptportal, kleiner Kreuzgang neben der Kirche. Annahme: Dachform, Höhenaufteilung, Stein als Bruchstein umgesetzt.",
   "name": "Chiesa di San Remigio"
 }

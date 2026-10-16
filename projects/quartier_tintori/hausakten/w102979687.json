@@ -1,7 +1,7 @@
 {
   "id": "w102979687",
   "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "epoche": "1911-1935 (Cesare Bazzani)",
   "geschosse": [
     {
       "art": "eg",
@@ -31,18 +31,20 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "turmpaar_statuen_dante_galilei"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia belegt: Baubeginn 1911, Eröffnung 30. Oktober 1935, Entwurf Cesare Bazzani, eklektischer Stil mit Jugendstil-Anklängen, zwei Türme oben an der Fassade mit Statuen von Dante und Galilei, geplantes Attikageschoss entfiel. Annahme: Geschosse (OSM-Höhe), Material, Achsen, Fensterform und Dach.",
   "name": "Biblioteca Nazionale Centrale di Firenze"
 }

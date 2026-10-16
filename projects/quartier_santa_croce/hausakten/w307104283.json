@@ -1,28 +1,32 @@
 {
   "id": "w307104283",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "1485-1490 (Giuliano da Sangallo?)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "achsen": 3,
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "bottega_arcata",
+      "art": "portal_mittig",
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "rundbogen",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -30,15 +34,21 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "pilaster_kapitelle",
+      "wappen_schilde_verwittert",
+      "balkon_offen",
+      "gedenktafel"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Cocchi-Serristori",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: würfelförmiger Renaissancebau von 1485-90, drei Geschosse, drei Achsen, Rustika an den Sockelpfeilern, Rundbogenöffnungen im Piano nobile mit Pilastern, Architravfenster oben, verwitterte Schildwappen, offener Balkon (um 1717). Annahme: Material der Obergeschosse, Portalform, Gesims und Dach.",
   "name": "Palazzo Cocchi-Serristori"
 }

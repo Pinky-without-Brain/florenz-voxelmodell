@@ -1,19 +1,23 @@
 {
   "id": "r4100898",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "um 1850 (Vittorio Bellini)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
-    },
-    {
-      "art": "nobile",
       "hoeheBl": 9
     },
     {
-      "art": "og",
+      "art": "nobile",
       "hoeheBl": 10
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 4
     }
   ],
   "fassade": {
@@ -22,28 +26,33 @@
     "material": "bugnato_abgestuft",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "tabernakel",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
+      "art": "gronda_holz",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "balkon_portalachse",
+      "wappen_alberti_ecke",
+      "wappen_rasponi_spinelli_portal"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Tempi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: um 1850 von Vittorio Bellini, drei Hauptgeschosse plus Mezzanin, neun Achsen zur Via de Benci und sieben zum Lungarno, Kniefenster im Erdgeschoss, Halbkreisgiebel im ersten, Architravfenster im zweiten und kleine Rechteckfenster im obersten Geschoss, Gurtgesimse, Konsolgesims mit weit überstehender römischer Traufe, Balkon über dem Portal, Wappen an den Ecken und über dem Eingang. Annahme: Putzfarbe, Material und Dach.",
   "name": "Palazzo Bardi-Tempi"
 }

@@ -1,15 +1,15 @@
 {
   "id": "r4107745",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "um 1570-1577 (Bartolomeo Ammannati)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -18,32 +18,38 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 5,
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_forte",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "steinbank_zwei",
+      "wappen_kopie_1950",
+      "portal_dorisches_gebaelk"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: Bau um 1570-77 von Bartolomeo Ammannati, fünf Fenster pro Reihe in zwei Obergeschossreihen, Rustikaportal mit Rundbogen und dorischem Gebälk auf Volutenkonsolen, zwei kurze Steinbänke beidseits des Portals, Kniefenster mit Giebeln im Erdgeschoss, schlichte Rahmenfenster oben, Gurtgesimse, Eckquader, Wappen (Kopie von 1950). Annahme: Putzfarbe, Traufgesims, Dach.",
   "name": "Palazzo Giugni"
 }

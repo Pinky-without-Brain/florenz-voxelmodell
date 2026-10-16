@@ -1,15 +1,15 @@
 {
   "id": "w307106636",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "um Mitte 13. Jh. gegründet, vor 1334 neu gebaut, Aufstockungen 1832-49 und um 1900",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
-      "art": "nobile",
-      "hoeheBl": 8
+      "art": "og",
+      "hoeheBl": 9
     },
     {
       "art": "og",
@@ -23,12 +23,12 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -39,15 +39,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "eisentor_eingang"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Alberti",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: vier Geschosse, Erdgeschoss aus regelmäßigen Pietra-forte-Quadern mit vier großen Öffnungen und einer kleineren Tür (mittelalterliche Arkaden), die beiden Obergeschosse verputzt mit Steingurten, Fenster auf den Gurtgesimsen, schmiedeeisernes Tor. Annahme: Putzfarbe, Achsen, Fensterform, Gesims und Dach.",
   "name": "Palazzo Alberti"
 }

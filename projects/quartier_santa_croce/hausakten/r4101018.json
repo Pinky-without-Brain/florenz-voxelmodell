@@ -1,19 +1,19 @@
 {
   "id": "r4101018",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "14. Jh. (Kern), ab 1640er erweitert (Silvani?)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -22,12 +22,12 @@
     "material": "putz",
     "putzfarbe": "terrakotta",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -35,15 +35,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "terrasse_ueber_portal",
+      "maskaron_portal"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_di_Ubaldino_Peruzzi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Trecento-Kern, ab den 1640er Jahren erweitert, wahrscheinlich nach Plänen Gherardo Silvanis, Hauptportal mit Segmentbogen und kleiner Terrasse, zwei Kniefenster neben dem Portal, Architravfenster im ersten Geschoss auf einem Gurtgesims, leichtere Fenster mit gebrochenen Rahmen im zweiten Geschoss. Annahme: Achsen, Putzfarbe, Traufgesims und Dach.",
   "name": "Palazzo di Ubaldino Peruzzi"
 }

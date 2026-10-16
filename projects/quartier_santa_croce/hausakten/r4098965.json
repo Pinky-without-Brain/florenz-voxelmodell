@@ -1,11 +1,15 @@
 {
   "id": "r4098965",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1830er (Baccani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
@@ -13,7 +17,7 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -22,28 +26,32 @@
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "rahmen_stuck",
       "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "wappen_portal_adler",
+      "fruchtfries_fenster"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Borghese-Aldobrandini",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Fassade von Gaetano Baccani aus vier älteren Häusern, lange gleichförmige Fensterreihe, Sockelzone aus Erdgeschoss und Mezzanin mit mittigem Portal, breites Gesims über dem Sockel, Piano-nobile-Fenster mit Blumenschmuck, Borghese-Wappen mit zwei Adlern über dem Portal. Annahme: Zahl der Obergeschosse, Achsen, Putzfarbe und Dach.",
   "name": "Palazzo Borghese-Aldobrandini"
 }

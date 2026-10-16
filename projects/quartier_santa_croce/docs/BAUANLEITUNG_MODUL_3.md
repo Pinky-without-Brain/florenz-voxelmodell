@@ -8,37 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 147.231 |
+| Blöcke | 147.000 |
 | Bauschritte | 96 |
 | Y-Bereich | 61 bis 115 |
-| X-Ausdehnung | 394 bis 585 (192 Blöcke) |
+| X-Ausdehnung | 394 bis 584 (191 Blöcke) |
 | Z-Ausdehnung | 890 bis 1021 (132 Blöcke) |
 | Kleinster Schritt | 801 Blöcke (Schritt 3.91) |
-| Mittlerer Schritt | 1.534 Blöcke |
+| Mittlerer Schritt | 1.531 Blöcke |
 | Größter Schritt | 2.068 Blöcke (Schritt 3.65) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 50.193 | 34,1 % |
-| Glatter Sandstein | `smooth_sandstone` | 19.976 | 13,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 14.990 | 10,2 % |
-| Polierter Tuffstein | `polished_tuff` | 12.286 | 8,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 10.902 | 7,4 % |
-| Rosa Keramik | `pink_terracotta` | 8.463 | 5,7 % |
-| Polierter Andesit | `polished_andesite` | 6.745 | 4,6 % |
-| Glatter Stein | `smooth_stone` | 6.523 | 4,4 % |
-| Tuffstein | `tuff` | 4.353 | 3,0 % |
+| Terrakotta | `terracotta` | 50.323 | 34,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 19.827 | 13,5 % |
+| Tuffstein | `tuff` | 18.909 | 12,9 % |
+| Polierter Tuffstein | `polished_tuff` | 12.286 | 8,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 11.054 | 7,5 % |
+| Rosa Keramik | `pink_terracotta` | 8.463 | 5,8 % |
+| Polierter Andesit | `polished_andesite` | 6.258 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 4.025 | 2,7 % |
 | Endsteinziegel | `end_stone_bricks` | 3.238 | 2,2 % |
-| Graues Buntglas | `gray_stained_glass` | 2.841 | 1,9 % |
+| Graues Buntglas | `gray_stained_glass` | 3.147 | 2,1 % |
+| Weißer Beton | `white_concrete` | 2.730 | 1,9 % |
 | Orange Keramik | `orange_terracotta` | 2.331 | 1,6 % |
 | Ziegelsteine | `bricks` | 967 | 0,7 % |
-| Grüner Beton | `green_concrete` | 710 | 0,5 % |
-| Weißer Beton | `white_concrete` | 541 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 414 | 0,3 % |
-| Fichtenholz-Bretter | `spruce_planks` | 368 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 301 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 839 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 672 | 0,5 % |
+| Grüner Beton | `green_concrete` | 422 | 0,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 418 | 0,3 % |
 | Seelaterne | `sea_lantern` | 270 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 126 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 116 | 0,1 % |
@@ -46,8 +45,8 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 96 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 85 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 85 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 72 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 66 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 73 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 67 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 30 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 26 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
@@ -59,22 +58,22 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 340 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 342 |
 | Steintreppe | `stone_stairs` | 298 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4100893` | Palazzo Caccia Peruzzi | 31.748 | 3.1–3.22 |
-| 2 | `r4100893_innen` | Palazzo Caccia Peruzzi: Innenausbau | 10.067 | 3.23–3.30 |
-| 3 | `r4100935` | Palazzo Peruzzi-Bourbon del Monte | 25.594 | 3.31–3.46 |
+| 1 | `r4100893` | Palazzo Caccia Peruzzi | 31.527 | 3.1–3.22 |
+| 2 | `r4100893_innen` | Palazzo Caccia Peruzzi: Innenausbau | 10.073 | 3.23–3.30 |
+| 3 | `r4100935` | Palazzo Peruzzi-Bourbon del Monte | 25.723 | 3.31–3.46 |
 | 4 | `r4100935_innen` | Palazzo Peruzzi-Bourbon del Monte: Innenausbau | 7.987 | 3.47–3.52 |
 | 5 | `w115554542` | Reihenhaus an Borgo de' Greci | 8.402 | 3.53–3.57 |
 | 6 | `w115554542_innen` | Reihenhaus an Borgo de' Greci: Innenausbau | 1.959 | 3.58 |
 | 7 | `w115554651` | Renaissance-Palazzo an Borgo de' Greci | 10.238 | 3.59–3.64 |
 | 8 | `w115554651_innen` | Renaissance-Palazzo an Borgo de' Greci: Innenausbau | 2.068 | 3.65 |
-| 9 | `w307106619` | Palazzo Mari | 8.750 | 3.66–3.70 |
+| 9 | `w307106619` | Palazzo Mari | 8.605 | 3.66–3.70 |
 | 10 | `w307106619_innen` | Palazzo Mari: Innenausbau | 3.079 | 3.71–3.72 |
 | 11 | `w486626746` | Reihenhaus an Borgo de' Greci | 4.869 | 3.73–3.75 |
 | 12 | `w486626746_innen` | Reihenhaus an Borgo de' Greci: Innenausbau | 1.033 | 3.76 |
@@ -104,7 +103,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -116,7 +115,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.2 – Palazzo Caccia Peruzzi – Teil 2/22 (Y 61–61)
 
@@ -132,7 +131,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -144,25 +143,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.3 – Palazzo Caccia Peruzzi – Teil 3/22 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
-- **Blöcke:** 1.108
+- **Blöcke:** 1.066
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.088 |
-| Polierter Andesit | `polished_andesite` | 17 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Hellgrauer Beton | `light_gray_concrete` | 942 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Glatter Stein | `smooth_stone` | 52 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -174,27 +174,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.4 – Palazzo Caccia Peruzzi – Teil 4/22 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.647
+- **Blöcke:** 1.587
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.285 |
-| Polierter Andesit | `polished_andesite` | 244 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-| Grüner Beton | `green_concrete` | 48 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.276 |
+| Graues Buntglas | `gray_stained_glass` | 118 |
+| Weißer Beton | `white_concrete` | 101 |
+| Glatter Stein | `smooth_stone` | 78 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -206,27 +206,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.5 – Palazzo Caccia Peruzzi – Teil 5/22 (Y 67–69)
 
 - **Y-Bereich:** 67 bis 69
-- **Blöcke:** 1.637
+- **Blöcke:** 1.622
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.315 |
-| Polierter Andesit | `polished_andesite` | 233 |
-| Grüner Beton | `green_concrete` | 48 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.317 |
+| Glatter Stein | `smooth_stone` | 110 |
+| Weißer Beton | `white_concrete` | 101 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -238,7 +238,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.6 – Palazzo Caccia Peruzzi – Teil 6/22 (Y 70–71)
 
@@ -250,13 +250,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 898 |
-| Glatter Stein | `smooth_stone` | 218 |
+| Hellgrauer Beton | `light_gray_concrete` | 902 |
+| Glatter Stein | `smooth_stone` | 214 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -268,26 +268,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.7 – Palazzo Caccia Peruzzi – Teil 7/22 (Y 72–74)
 
 - **Y-Bereich:** 72 bis 74
-- **Blöcke:** 1.683
+- **Blöcke:** 1.657
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.437 |
-| Polierter Andesit | `polished_andesite` | 185 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.437 |
+| Weißer Beton | `white_concrete` | 145 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 | Grüner Beton | `green_concrete` | 26 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -299,26 +300,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.8 – Palazzo Caccia Peruzzi – Teil 8/22 (Y 75–76)
+### Schritt 3.8 – Palazzo Caccia Peruzzi – Teil 8/22 (Y 75–77)
 
-- **Y-Bereich:** 75 bis 76
-- **Blöcke:** 1.070
+- **Y-Bereich:** 75 bis 77
+- **Blöcke:** 1.631
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 830 |
-| Polierter Andesit | `polished_andesite` | 118 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.299 |
+| Weißer Beton | `white_concrete` | 200 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Grüner Beton | `green_concrete` | 52 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -330,25 +332,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.9 – Palazzo Caccia Peruzzi – Teil 9/22 (Y 77–79)
+### Schritt 3.9 – Palazzo Caccia Peruzzi – Teil 9/22 (Y 78–79)
 
-- **Y-Bereich:** 77 bis 79
-- **Blöcke:** 1.683
+- **Y-Bereich:** 78 bis 79
+- **Blöcke:** 1.122
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.229 |
-| Polierter Andesit | `polished_andesite` | 326 |
-| Glatter Stein | `smooth_stone` | 128 |
+| Hellgrauer Beton | `light_gray_concrete` | 760 |
+| Glatter Stein | `smooth_stone` | 218 |
+| Weißer Beton | `white_concrete` | 138 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -360,26 +363,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.10 – Palazzo Caccia Peruzzi – Teil 10/22 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
-- **Blöcke:** 1.683
+- **Blöcke:** 1.657
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.437 |
-| Polierter Andesit | `polished_andesite` | 185 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.437 |
+| Weißer Beton | `white_concrete` | 145 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 | Grüner Beton | `green_concrete` | 26 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -391,7 +395,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.11 – Palazzo Caccia Peruzzi – Teil 11/22 (Y 83–84)
 
@@ -403,14 +407,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 830 |
-| Polierter Andesit | `polished_andesite` | 118 |
+| Hellgrauer Beton | `light_gray_concrete` | 830 |
+| Weißer Beton | `white_concrete` | 110 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Grüner Beton | `green_concrete` | 52 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -422,7 +427,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.12 – Palazzo Caccia Peruzzi – Teil 12/22 (Y 85–87)
 
@@ -434,13 +439,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.229 |
-| Polierter Andesit | `polished_andesite` | 236 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.229 |
+| Weißer Beton | `white_concrete` | 228 |
 | Glatter Stein | `smooth_stone` | 218 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -452,24 +458,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.13 – Palazzo Caccia Peruzzi – Teil 13/22 (Y 88–89)
+### Schritt 3.13 – Palazzo Caccia Peruzzi – Teil 13/22 (Y 88–90)
 
-- **Y-Bereich:** 88 bis 89
-- **Blöcke:** 1.148
+- **Y-Bereich:** 88 bis 90
+- **Blöcke:** 1.657
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.024 |
-| Polierter Andesit | `polished_andesite` | 124 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.437 |
+| Weißer Beton | `white_concrete` | 145 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
+| Grüner Beton | `green_concrete` | 26 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -481,26 +490,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.14 – Palazzo Caccia Peruzzi – Teil 14/22 (Y 90–92)
+### Schritt 3.14 – Palazzo Caccia Peruzzi – Teil 14/22 (Y 91–92)
 
-- **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.605
+- **Y-Bereich:** 91 bis 92
+- **Blöcke:** 1.070
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.243 |
-| Polierter Andesit | `polished_andesite` | 179 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
-| Grüner Beton | `green_concrete` | 78 |
+| Hellgrauer Beton | `light_gray_concrete` | 830 |
+| Weißer Beton | `white_concrete` | 110 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Grüner Beton | `green_concrete` | 52 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -512,7 +522,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.15 – Palazzo Caccia Peruzzi – Teil 15/22 (Y 93–95)
 
@@ -524,14 +534,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.303 |
-| Polierter Andesit | `polished_andesite` | 293 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.303 |
+| Weißer Beton | `white_concrete` | 283 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 | Grüner Beton | `green_concrete` | 26 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -543,7 +554,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.16 – Palazzo Caccia Peruzzi – Teil 16/22 (Y 96–97)
 
@@ -555,13 +566,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 902 |
+| Hellgrauer Beton | `light_gray_concrete` | 902 |
 | Glatter Stein | `smooth_stone` | 218 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -573,26 +584,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.17 – Palazzo Caccia Peruzzi – Teil 17/22 (Y 98–100)
 
 - **Y-Bereich:** 98 bis 100
-- **Blöcke:** 1.683
+- **Blöcke:** 1.657
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.437 |
-| Polierter Andesit | `polished_andesite` | 185 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.437 |
+| Weißer Beton | `white_concrete` | 145 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 | Grüner Beton | `green_concrete` | 26 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -604,7 +616,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.18 – Palazzo Caccia Peruzzi – Teil 18/22 (Y 101–103)
 
@@ -616,14 +628,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.299 |
-| Polierter Andesit | `polished_andesite` | 210 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.299 |
+| Weißer Beton | `white_concrete` | 200 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Grüner Beton | `green_concrete` | 52 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -635,7 +648,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.19 – Palazzo Caccia Peruzzi – Teil 19/22 (Y 104–105)
 
@@ -647,12 +660,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.190 |
-| Polierter Andesit | `polished_andesite` | 146 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.190 |
+| Weißer Beton | `white_concrete` | 138 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -664,7 +678,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.20 – Palazzo Caccia Peruzzi – Teil 20/22 (Y 106–106)
 
@@ -680,7 +694,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -692,7 +706,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.21 – Palazzo Caccia Peruzzi – Teil 21/22 (Y 107–108)
 
@@ -708,7 +722,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -720,7 +734,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.22 – Palazzo Caccia Peruzzi – Teil 22/22 (Y 109–115)
 
@@ -737,7 +751,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -749,12 +763,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.23 – Palazzo Caccia Peruzzi: Innenausbau – Teil 1/8 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
-- **Blöcke:** 1.271
+- **Blöcke:** 1.274
 - **Bauteile:** `r4100893_innen`
 
 **Teileliste**
@@ -766,9 +780,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 20 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -779,7 +793,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -808,7 +822,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -825,7 +839,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 3.25 – Palazzo Caccia Peruzzi: Innenausbau – Teil 3/8 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
-- **Blöcke:** 1.252
+- **Blöcke:** 1.255
 - **Bauteile:** `r4100893_innen`
 
 **Teileliste**
@@ -839,16 +853,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -877,7 +895,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -921,7 +939,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -950,7 +968,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -982,8 +1000,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -994,7 +1012,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1025,7 +1043,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1053,7 +1071,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1065,7 +1083,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.32 – Palazzo Peruzzi-Bourbon del Monte – Teil 2/16 (Y 62–62)
 
@@ -1081,7 +1099,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1093,26 +1111,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.33 – Palazzo Peruzzi-Bourbon del Monte – Teil 3/16 (Y 63–65)
+### Schritt 3.33 – Palazzo Peruzzi-Bourbon del Monte – Teil 3/16 (Y 63–66)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.513
+- **Y-Bereich:** 63 bis 66
+- **Blöcke:** 1.922
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.315 |
-| Glatter Stein | `smooth_stone` | 165 |
-| Polierter Andesit | `polished_andesite` | 30 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Tuffstein | `tuff` | 1.626 |
+| Polierter Andesit | `polished_andesite` | 174 |
+| Tuffsteinziegel | `tuff_bricks` | 78 |
+| Graues Buntglas | `gray_stained_glass` | 44 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1124,28 +1142,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.34 – Palazzo Peruzzi-Bourbon del Monte – Teil 4/16 (Y 66–69)
+### Schritt 3.34 – Palazzo Peruzzi-Bourbon del Monte – Teil 4/16 (Y 67–69)
 
-- **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.809
+- **Y-Bereich:** 67 bis 69
+- **Blöcke:** 1.379
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.456 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
-| Glatter Stein | `smooth_stone` | 121 |
-| Grüner Beton | `green_concrete` | 48 |
-| Polierter Andesit | `polished_andesite` | 34 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Tuffstein | `tuff` | 1.086 |
+| Polierter Andesit | `polished_andesite` | 164 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Tuffsteinziegel | `tuff_bricks` | 43 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1157,7 +1173,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.35 – Palazzo Peruzzi-Bourbon del Monte – Teil 5/16 (Y 70–72)
 
@@ -1169,14 +1185,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.225 |
-| Glatter Stein | `smooth_stone` | 227 |
-| Polierter Andesit | `polished_andesite` | 20 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Tuffstein | `tuff` | 1.241 |
+| Glatter Stein | `smooth_stone` | 157 |
+| Tuffsteinziegel | `tuff_bricks` | 54 |
+| Polierter Andesit | `polished_andesite` | 27 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1188,27 +1204,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.36 – Palazzo Peruzzi-Bourbon del Monte – Teil 6/16 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
-- **Blöcke:** 1.935
+- **Blöcke:** 1.929
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.650 |
-| Glatter Stein | `smooth_stone` | 157 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
-| Polierter Andesit | `polished_andesite` | 28 |
-| Grüner Beton | `green_concrete` | 24 |
+| Tuffstein | `tuff` | 1.601 |
+| Polierter Andesit | `polished_andesite` | 192 |
+| Graues Buntglas | `gray_stained_glass` | 88 |
+| Tuffsteinziegel | `tuff_bricks` | 48 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1220,27 +1235,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.37 – Palazzo Peruzzi-Bourbon del Monte – Teil 7/16 (Y 77–79)
 
 - **Y-Bereich:** 77 bis 79
-- **Blöcke:** 1.413
+- **Blöcke:** 1.401
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.161 |
-| Glatter Stein | `smooth_stone` | 128 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
-| Grüner Beton | `green_concrete` | 24 |
-| Polierter Andesit | `polished_andesite` | 24 |
+| Tuffstein | `tuff` | 1.123 |
+| Polierter Andesit | `polished_andesite` | 147 |
+| Graues Buntglas | `gray_stained_glass` | 94 |
+| Tuffsteinziegel | `tuff_bricks` | 37 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1252,7 +1266,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.38 – Palazzo Peruzzi-Bourbon del Monte – Teil 8/16 (Y 80–82)
 
@@ -1264,13 +1278,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.217 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Tuffstein | `tuff` | 1.235 |
+| Glatter Stein | `smooth_stone` | 157 |
+| Tuffsteinziegel | `tuff_bricks` | 62 |
+| Polierter Andesit | `polished_andesite` | 25 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1282,27 +1297,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.39 – Palazzo Peruzzi-Bourbon del Monte – Teil 9/16 (Y 83–86)
 
 - **Y-Bereich:** 83 bis 86
-- **Blöcke:** 1.902
+- **Blöcke:** 1.891
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.537 |
-| Glatter Stein | `smooth_stone` | 187 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 28 |
+| Tuffstein | `tuff` | 1.487 |
+| Polierter Andesit | `polished_andesite` | 221 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Tuffsteinziegel | `tuff_bricks` | 51 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1314,27 +1328,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.40 – Palazzo Peruzzi-Bourbon del Monte – Teil 10/16 (Y 87–89)
 
 - **Y-Bereich:** 87 bis 89
-- **Blöcke:** 1.446
+- **Blöcke:** 1.439
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.177 |
-| Glatter Stein | `smooth_stone` | 195 |
-| Graues Buntglas | `gray_stained_glass` | 38 |
-| Polierter Andesit | `polished_andesite` | 24 |
-| Grüner Beton | `green_concrete` | 12 |
+| Tuffstein | `tuff` | 1.211 |
+| Polierter Andesit | `polished_andesite` | 135 |
+| Graues Buntglas | `gray_stained_glass` | 50 |
+| Tuffsteinziegel | `tuff_bricks` | 43 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1346,25 +1359,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.41 – Palazzo Peruzzi-Bourbon del Monte – Teil 11/16 (Y 90–92)
 
 - **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.508
+- **Blöcke:** 1.512
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.240 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Tuffstein | `tuff` | 1.189 |
+| Glatter Stein | `smooth_stone` | 157 |
+| Polierter Andesit | `polished_andesite` | 120 |
+| Tuffsteinziegel | `tuff_bricks` | 46 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1376,27 +1390,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.42 – Palazzo Peruzzi-Bourbon del Monte – Teil 12/16 (Y 93–96)
 
 - **Y-Bereich:** 93 bis 96
-- **Blöcke:** 1.840
+- **Blöcke:** 1.824
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.492 |
-| Graues Buntglas | `gray_stained_glass` | 152 |
-| Glatter Stein | `smooth_stone` | 120 |
-| Grüner Beton | `green_concrete` | 48 |
-| Polierter Andesit | `polished_andesite` | 28 |
+| Tuffstein | `tuff` | 1.448 |
+| Graues Buntglas | `gray_stained_glass` | 173 |
+| Polierter Andesit | `polished_andesite` | 148 |
+| Tuffsteinziegel | `tuff_bricks` | 55 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1408,25 +1421,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.43 – Palazzo Peruzzi-Bourbon del Monte – Teil 13/16 (Y 97–98)
+### Schritt 3.43 – Palazzo Peruzzi-Bourbon del Monte – Teil 13/16 (Y 97–99)
 
-- **Y-Bereich:** 97 bis 98
-- **Blöcke:** 1.101
+- **Y-Bereich:** 97 bis 99
+- **Blöcke:** 1.777
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 922 |
-| Glatter Stein | `smooth_stone` | 165 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Tuffstein | `tuff` | 1.309 |
+| Fichtenholz-Bretter | `spruce_planks` | 304 |
+| Polierter Andesit | `polished_andesite` | 102 |
+| Tuffsteinziegel | `tuff_bricks` | 53 |
+| Graues Buntglas | `gray_stained_glass` | 9 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1438,25 +1453,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.44 – Palazzo Peruzzi-Bourbon del Monte – Teil 14/16 (Y 99–100)
+### Schritt 3.44 – Palazzo Peruzzi-Bourbon del Monte – Teil 14/16 (Y 100–100)
 
-- **Y-Bereich:** 99 bis 100
-- **Blöcke:** 2.043
+- **Y-Bereich:** 100 bis 100
+- **Blöcke:** 1.565
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.435 |
-| Hellgrauer Beton | `light_gray_concrete` | 598 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Terrakotta | `terracotta` | 1.565 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1468,7 +1481,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.45 – Palazzo Peruzzi-Bourbon del Monte – Teil 15/16 (Y 101–102)
 
@@ -1484,7 +1497,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1496,7 +1509,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.46 – Palazzo Peruzzi-Bourbon del Monte – Teil 16/16 (Y 103–108)
 
@@ -1513,7 +1526,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., neugotisch restauriert (19. Jh., 1980er)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1525,7 +1538,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.47 – Palazzo Peruzzi-Bourbon del Monte: Innenausbau – Teil 1/6 (Y 62–72)
 
@@ -2194,7 +2207,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 3.66 – Palazzo Mari – Teil 1/5 (Y 62–66)
 
 - **Y-Bereich:** 62 bis 66
-- **Blöcke:** 1.789
+- **Blöcke:** 1.765
 - **Bauteile:** `w307106619`
 
 **Teileliste**
@@ -2202,15 +2215,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.137 |
-| Gelbe Keramik | `yellow_terracotta` | 467 |
-| Glatter Stein | `smooth_stone` | 138 |
+| Gelbe Keramik | `yellow_terracotta` | 492 |
+| Polierter Andesit | `polished_andesite` | 109 |
 | Graues Buntglas | `gray_stained_glass` | 23 |
-| Polierter Andesit | `polished_andesite` | 16 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mari, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2222,27 +2234,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.67 – Palazzo Mari – Teil 2/5 (Y 67–77)
 
 - **Y-Bereich:** 67 bis 77
-- **Blöcke:** 1.713
+- **Blöcke:** 1.720
 - **Bauteile:** `w307106619`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.176 |
-| Glatter Stein | `smooth_stone` | 355 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
-| Polierter Andesit | `polished_andesite` | 29 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Gelbe Keramik | `yellow_terracotta` | 1.174 |
+| Polierter Andesit | `polished_andesite` | 310 |
+| Graues Buntglas | `gray_stained_glass` | 134 |
+| Glatter Stein | `smooth_stone` | 95 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mari, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2254,26 +2266,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.68 – Palazzo Mari – Teil 3/5 (Y 78–88)
 
 - **Y-Bereich:** 78 bis 88
-- **Blöcke:** 1.726
+- **Blöcke:** 1.688
 - **Bauteile:** `w307106619`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.113 |
-| Glatter Stein | `smooth_stone` | 465 |
-| Graues Buntglas | `gray_stained_glass` | 130 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Gelbe Keramik | `yellow_terracotta` | 1.099 |
+| Polierter Andesit | `polished_andesite` | 312 |
+| Graues Buntglas | `gray_stained_glass` | 182 |
+| Glatter Stein | `smooth_stone` | 95 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mari, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2285,26 +2297,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.69 – Palazzo Mari – Teil 4/5 (Y 89–98)
 
 - **Y-Bereich:** 89 bis 98
-- **Blöcke:** 1.638
+- **Blöcke:** 1.619
 - **Bauteile:** `w307106619`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 994 |
-| Glatter Stein | `smooth_stone` | 521 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Polierter Andesit | `polished_andesite` | 19 |
+| Gelbe Keramik | `yellow_terracotta` | 1.080 |
+| Polierter Andesit | `polished_andesite` | 314 |
+| Graues Buntglas | `gray_stained_glass` | 130 |
+| Glatter Stein | `smooth_stone` | 95 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mari, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2316,12 +2328,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.70 – Palazzo Mari – Teil 5/5 (Y 99–107)
 
 - **Y-Bereich:** 99 bis 107
-- **Blöcke:** 1.884
+- **Blöcke:** 1.813
 - **Bauteile:** `w307106619`
 
 **Teileliste**
@@ -2329,14 +2341,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.507 |
-| Gelbe Keramik | `yellow_terracotta` | 161 |
-| Glatter Stein | `smooth_stone` | 128 |
+| Gelbe Keramik | `yellow_terracotta` | 218 |
 | Ziegelsteine | `bricks` | 85 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mari, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2348,7 +2359,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.71 – Palazzo Mari: Innenausbau – Teil 1/2 (Y 62–80)
 

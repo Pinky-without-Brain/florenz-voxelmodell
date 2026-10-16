@@ -1,49 +1,55 @@
 {
   "id": "r4107736",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "1542-1548 (Domenico di Baccio d Agnolo), Sgraffito 1854",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 6,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "sgraffito_nischen_figuren_1854",
+      "tondi_tugenden_putti",
+      "altana_restauriert"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Niccolini",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: Bau 1542-48 für die Niccolini, Straßenblock mit Erdgeschoss und zwei Obergeschossen, sechs Achsen, Eckrustika aus Stein, außermittiges Portal zwischen Rechteckfenstern mit einfachen Steinrahmen, zwei Reihen Bogenfenster in den Obergeschossen, Gurtgesimse, weit ausladende florentinische Traufe, Obergeschosse 1854 verputzt und mit Sgraffito (Nischen mit Figuren, Tondi mit Tugenden und Putten) verziert, Altana (2009 restauriert) und Loggetta des 19. Jh.. Annahme: Putzfarbe, Steinrahmen der Bogenfenster.",
   "name": "Palazzo Niccolini"
 }

@@ -8,44 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.276 |
+| Blöcke | 85.890 |
 | Bauschritte | 55 |
 | Y-Bereich | 62 bis 100 |
 | X-Ausdehnung | 448 bis 627 (180 Blöcke) |
 | Z-Ausdehnung | 747 bis 873 (127 Blöcke) |
 | Kleinster Schritt | 461 Blöcke (Schritt 5.23) |
-| Mittlerer Schritt | 1.532 Blöcke |
+| Mittlerer Schritt | 1.562 Blöcke |
 | Größter Schritt | 2.039 Blöcke (Schritt 5.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 25.207 | 29,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 8.672 | 10,3 % |
-| Polierter Tuffstein | `polished_tuff` | 8.233 | 9,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 8.024 | 9,5 % |
-| Endsteinziegel | `end_stone_bricks` | 7.461 | 8,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 7.173 | 8,5 % |
-| Orange Keramik | `orange_terracotta` | 7.168 | 8,5 % |
-| Rosa Keramik | `pink_terracotta` | 2.828 | 3,4 % |
-| Weißer Beton | `white_concrete` | 2.554 | 3,0 % |
-| Glatter Stein | `smooth_stone` | 1.819 | 2,2 % |
-| Graues Buntglas | `gray_stained_glass` | 1.404 | 1,7 % |
+| Terrakotta | `terracotta` | 26.858 | 31,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 8.672 | 10,1 % |
+| Polierter Tuffstein | `polished_tuff` | 8.233 | 9,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 8.024 | 9,3 % |
+| Endsteinziegel | `end_stone_bricks` | 7.461 | 8,7 % |
+| Orange Keramik | `orange_terracotta` | 7.168 | 8,3 % |
+| Tuffstein | `tuff` | 4.078 | 4,7 % |
+| Glatter Stein | `smooth_stone` | 2.978 | 3,5 % |
+| Rosa Keramik | `pink_terracotta` | 2.828 | 3,3 % |
+| Polierter Andesit | `polished_andesite` | 1.919 | 2,2 % |
+| Weißer Beton | `white_concrete` | 1.665 | 1,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 1.257 | 1,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.142 | 1,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 851 | 1,0 % |
-| Grüner Beton | `green_concrete` | 651 | 0,8 % |
-| Polierter Andesit | `polished_andesite` | 521 | 0,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 649 | 0,8 % |
 | Ziegelsteine | `bricks` | 451 | 0,5 % |
+| Grüner Beton | `green_concrete` | 376 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 244 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 187 | 0,2 % |
+| Seelaterne | `sea_lantern` | 178 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 173 | 0,2 % |
-| Seelaterne | `sea_lantern` | 167 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 150 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 140 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 85 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 85 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 16 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
@@ -56,7 +58,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 650 |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 32 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -64,8 +66,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7156245` | Reihenhaus an Via Torta | 7.897 | 5.1–5.4 |
 | 2 | `r7156245_innen` | Reihenhaus an Via Torta: Innenausbau | 2.029 | 5.5 |
-| 3 | `w307104283` | Palazzo Cocchi-Serristori | 13.511 | 5.6–5.13 |
-| 4 | `w307104283_innen` | Palazzo Cocchi-Serristori: Innenausbau | 1.725 | 5.14 |
+| 3 | `w307104283` | Palazzo Cocchi-Serristori | 13.437 | 5.6–5.12 |
+| 4 | `w307104283_innen` | Palazzo Cocchi-Serristori: Innenausbau | 3.413 | 5.13–5.14 |
 | 5 | `w486624925` | Reihenhaus an Via Torta | 5.430 | 5.15–5.17 |
 | 6 | `w486624925_innen` | Reihenhaus an Via Torta: Innenausbau | 1.483 | 5.18 |
 | 7 | `w486624926` | Reihenhaus an Via Torta | 2.801 | 5.19–5.20 |
@@ -269,7 +271,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.6 – Palazzo Cocchi-Serristori – Teil 1/8 (Y 62–62)
+### Schritt 5.6 – Palazzo Cocchi-Serristori – Teil 1/7 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 2.039
@@ -283,7 +285,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1485-1490 (Giuliano da Sangallo?)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Cocchi-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -295,28 +297,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 5.7 – Palazzo Cocchi-Serristori – Teil 2/8 (Y 63–66)
+### Schritt 5.7 – Palazzo Cocchi-Serristori – Teil 2/7 (Y 63–68)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.382
+- **Y-Bereich:** 63 bis 68
+- **Blöcke:** 1.928
 - **Bauteile:** `w307104283`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 987 |
-| Graues Buntglas | `gray_stained_glass` | 149 |
-| Glatter Stein | `smooth_stone` | 112 |
-| Weißer Beton | `white_concrete` | 85 |
-| Grüner Beton | `green_concrete` | 25 |
-| Polierter Andesit | `polished_andesite` | 24 |
+| Tuffstein | `tuff` | 1.220 |
+| Glatter Stein | `smooth_stone` | 355 |
+| Tuffsteinziegel | `tuff_bricks` | 249 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Polierter Andesit | `polished_andesite` | 44 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1485-1490 (Giuliano da Sangallo?)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Cocchi-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -328,28 +329,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 5.8 – Palazzo Cocchi-Serristori – Teil 3/8 (Y 67–71)
+### Schritt 5.8 – Palazzo Cocchi-Serristori – Teil 3/7 (Y 69–73)
 
-- **Y-Bereich:** 67 bis 71
-- **Blöcke:** 1.738
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.882
 - **Bauteile:** `w307104283`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.037 |
-| Graues Buntglas | `gray_stained_glass` | 197 |
-| Weißer Beton | `white_concrete` | 175 |
-| Glatter Stein | `smooth_stone` | 171 |
-| Grüner Beton | `green_concrete` | 100 |
-| Polierter Andesit | `polished_andesite` | 58 |
+| Tuffstein | `tuff` | 941 |
+| Glatter Stein | `smooth_stone` | 394 |
+| Polierter Andesit | `polished_andesite` | 265 |
+| Tuffsteinziegel | `tuff_bricks` | 249 |
+| Graues Buntglas | `gray_stained_glass` | 33 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1485-1490 (Giuliano da Sangallo?)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Cocchi-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -361,25 +361,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 5.9 – Palazzo Cocchi-Serristori – Teil 4/8 (Y 72–75)
+### Schritt 5.9 – Palazzo Cocchi-Serristori – Teil 4/7 (Y 74–78)
 
-- **Y-Bereich:** 72 bis 75
-- **Blöcke:** 1.520
+- **Y-Bereich:** 74 bis 78
+- **Blöcke:** 1.827
 - **Bauteile:** `w307104283`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.303 |
-| Glatter Stein | `smooth_stone` | 202 |
-| Polierter Andesit | `polished_andesite` | 15 |
+| Tuffstein | `tuff` | 797 |
+| Glatter Stein | `smooth_stone` | 453 |
+| Polierter Andesit | `polished_andesite` | 330 |
+| Tuffsteinziegel | `tuff_bricks` | 151 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1485-1490 (Giuliano da Sangallo?)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Cocchi-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -391,27 +393,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 5.10 – Palazzo Cocchi-Serristori – Teil 5/8 (Y 76–80)
+### Schritt 5.10 – Palazzo Cocchi-Serristori – Teil 5/7 (Y 79–83)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 1.808
+- **Y-Bereich:** 79 bis 83
+- **Blöcke:** 1.831
 - **Bauteile:** `w307104283`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.231 |
-| Weißer Beton | `white_concrete` | 294 |
-| Graues Buntglas | `gray_stained_glass` | 156 |
-| Grüner Beton | `green_concrete` | 100 |
-| Polierter Andesit | `polished_andesite` | 27 |
+| Tuffstein | `tuff` | 772 |
+| Polierter Andesit | `polished_andesite` | 592 |
+| Glatter Stein | `smooth_stone` | 338 |
+| Graues Buntglas | `gray_stained_glass` | 129 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1485-1490 (Giuliano da Sangallo?)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Cocchi-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -423,28 +424,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 5.11 – Palazzo Cocchi-Serristori – Teil 6/8 (Y 81–84)
+### Schritt 5.11 – Palazzo Cocchi-Serristori – Teil 6/7 (Y 84–86)
 
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.580
+- **Y-Bereich:** 84 bis 86
+- **Blöcke:** 1.999
 - **Bauteile:** `w307104283`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 987 |
-| Weißer Beton | `white_concrete` | 335 |
-| Glatter Stein | `smooth_stone` | 106 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
-| Grüner Beton | `green_concrete` | 50 |
-| Polierter Andesit | `polished_andesite` | 24 |
+| Terrakotta | `terracotta` | 888 |
+| Glatter Stein | `smooth_stone` | 439 |
+| Tuffstein | `tuff` | 348 |
+| Polierter Andesit | `polished_andesite` | 324 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1485-1490 (Giuliano da Sangallo?)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Cocchi-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -456,55 +455,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 5.12 – Palazzo Cocchi-Serristori – Teil 7/8 (Y 85–87)
+### Schritt 5.12 – Palazzo Cocchi-Serristori – Teil 7/7 (Y 87–93)
 
-- **Y-Bereich:** 85 bis 87
-- **Blöcke:** 1.975
+- **Y-Bereich:** 87 bis 93
+- **Blöcke:** 1.931
 - **Bauteile:** `w307104283`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.350 |
-| Gelbe Keramik | `yellow_terracotta` | 371 |
-| Glatter Stein | `smooth_stone` | 245 |
-| Polierter Andesit | `polished_andesite` | 9 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.13 – Palazzo Cocchi-Serristori – Teil 8/8 (Y 88–93)
-
-- **Y-Bereich:** 88 bis 93
-- **Blöcke:** 1.469
-- **Bauteile:** `w307104283`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.364 |
+| Terrakotta | `terracotta` | 1.826 |
 | Ziegelsteine | `bricks` | 105 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1485-1490 (Giuliano da Sangallo?)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Cocchi-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -516,12 +484,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 5.14 – Palazzo Cocchi-Serristori: Innenausbau
+### Schritt 5.13 – Palazzo Cocchi-Serristori: Innenausbau – Teil 1/2 (Y 62–70)
 
-- **Y-Bereich:** 62 bis 74
-- **Blöcke:** 1.725
+- **Y-Bereich:** 62 bis 70
+- **Blöcke:** 1.711
 - **Bauteile:** `w307104283_innen`
 
 **Teileliste**
@@ -529,10 +497,48 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.651 |
-| Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 22 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 16 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 5.14 – Palazzo Cocchi-Serristori: Innenausbau – Teil 2/2 (Y 71–78)
+
+- **Y-Bereich:** 71 bis 78
+- **Blöcke:** 1.702
+- **Bauteile:** `w307104283_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.651 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
 
@@ -540,11 +546,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 16 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

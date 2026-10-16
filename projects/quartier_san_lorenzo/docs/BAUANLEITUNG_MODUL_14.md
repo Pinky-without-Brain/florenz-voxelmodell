@@ -77,7 +77,7 @@
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -89,7 +89,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.2 – Chiesa di San Giovannino degli Scolopi – Teil 2/9 (Y 64–66)
 
@@ -107,7 +107,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -119,7 +119,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.3 – Chiesa di San Giovannino degli Scolopi – Teil 3/9 (Y 67–72)
 
@@ -137,7 +137,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -149,7 +149,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.4 – Chiesa di San Giovannino degli Scolopi – Teil 4/9 (Y 73–77)
 
@@ -167,7 +167,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -179,7 +179,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.5 – Chiesa di San Giovannino degli Scolopi – Teil 5/9 (Y 78–82)
 
@@ -197,7 +197,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -209,7 +209,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.6 – Chiesa di San Giovannino degli Scolopi – Teil 6/9 (Y 83–87)
 
@@ -227,7 +227,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -239,7 +239,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.7 – Chiesa di San Giovannino degli Scolopi – Teil 7/9 (Y 88–93)
 
@@ -257,7 +257,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -269,7 +269,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.8 – Chiesa di San Giovannino degli Scolopi – Teil 8/9 (Y 94–96)
 
@@ -287,7 +287,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -299,7 +299,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.9 – Chiesa di San Giovannino degli Scolopi – Teil 9/9 (Y 97–104)
 
@@ -316,7 +316,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1579 (Ammannati), vollendet 1661, Fassade 1836 (Pasqui)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -328,7 +328,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.10 – Chiesa di San Giovannino degli Scolopi: Innenausbau – Teil 1/4 (Y 64–78)
 

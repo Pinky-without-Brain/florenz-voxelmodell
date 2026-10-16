@@ -1,19 +1,19 @@
 {
   "id": "r7501450",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -22,28 +22,32 @@
     "material": "putz",
     "putzfarbe": "terrakotta",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "pietra_forte",
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
       "laeden": "gruen"
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_vivarelli_colonna_ecke",
+      "zwei_portale_eines_vermauert"
+    ],
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: ab 1701 unter Gabburri zu einem großen Haus zusammengefasst, drei Geschosse, verputzt, Rustika-Ecken, zwei Rundbogenportale (eines vermauert) mit flachen Bossenbändern, vier Kniefenster mit Giebeln im Erdgeschoss, eng gesetzte Fenster mit glatten Steinrahmen und Segmentgiebeln im ersten Geschoss, schlichte Steinrahmen oben, Wappen an der Ecke Via Ghibellina und Via delle Conce. Annahme: Achsenzahl, Putzfarbe, Gesims, Dach.",
   "name": "Palazzo Vivarelli Colonna"
 }

@@ -8,46 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 259.771 |
+| Blöcke | 260.800 |
 | Bauschritte | 170 |
 | Y-Bereich | 64 bis 108 |
-| X-Ausdehnung | 339 bis 745 (407 Blöcke) |
-| Z-Ausdehnung | -8 bis 261 (270 Blöcke) |
+| X-Ausdehnung | 339 bis 747 (409 Blöcke) |
+| Z-Ausdehnung | -8 bis 263 (272 Blöcke) |
 | Kleinster Schritt | 717 Blöcke (Schritt 7.140) |
-| Mittlerer Schritt | 1.528 Blöcke |
+| Mittlerer Schritt | 1.534 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 7.129) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 89.667 | 34,5 % |
-| Endsteinziegel | `end_stone_bricks` | 55.645 | 21,4 % |
-| Polierter Tuffstein | `polished_tuff` | 29.597 | 11,4 % |
+| Terrakotta | `terracotta` | 90.554 | 34,7 % |
+| Endsteinziegel | `end_stone_bricks` | 55.501 | 21,3 % |
+| Polierter Tuffstein | `polished_tuff` | 29.597 | 11,3 % |
 | Rosa Keramik | `pink_terracotta` | 17.117 | 6,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 11.642 | 4,5 % |
 | Weißer Beton | `white_concrete` | 9.820 | 3,8 % |
 | Orange Keramik | `orange_terracotta` | 8.262 | 3,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 7.137 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 6.949 | 2,7 % |
-| Tuffstein | `tuff` | 5.429 | 2,1 % |
-| Graues Buntglas | `gray_stained_glass` | 5.315 | 2,0 % |
-| Polierter Andesit | `polished_andesite` | 5.162 | 2,0 % |
+| Glatter Stein | `smooth_stone` | 6.604 | 2,5 % |
+| Polierter Andesit | `polished_andesite` | 5.476 | 2,1 % |
+| Tuffstein | `tuff` | 5.419 | 2,1 % |
+| Graues Buntglas | `gray_stained_glass` | 5.348 | 2,1 % |
 | Grüner Beton | `green_concrete` | 2.030 | 0,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.588 | 0,6 % |
 | Ziegelsteine | `bricks` | 1.508 | 0,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 758 | 0,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 651 | 0,3 % |
-| Seelaterne | `sea_lantern` | 443 | 0,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 270 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 699 | 0,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 695 | 0,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 558 | 0,2 % |
+| Seelaterne | `sea_lantern` | 448 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 142 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 134 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 132 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 118 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 110 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 76 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 66 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 65 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 65 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 126 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 68 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 68 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 64 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 56 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
@@ -56,8 +56,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 502 |
-| Steintreppe | `stone_stairs` | 142 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 534 |
+| Steintreppe | `stone_stairs` | 120 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -67,8 +67,8 @@
 | 2 | `r4103317_innen` | Palazzo des Ottocento an Via Sant'Egidio: Innenausbau | 33.877 | 7.86–7.103 |
 | 3 | `w113610241` | Reihenhaus an Via Sant'Egidio | 5.743 | 7.104–7.106 |
 | 4 | `w113610241_innen` | Reihenhaus an Via Sant'Egidio: Innenausbau | 1.155 | 7.107 |
-| 5 | `w306984423` | Palazzo degli Sporti | 7.663 | 7.108–7.111 |
-| 6 | `w306984423_innen` | Palazzo degli Sporti: Innenausbau | 779 | 7.112 |
+| 5 | `w306984423` | Palazzo degli Sporti | 7.948 | 7.108–7.111 |
+| 6 | `w306984423_innen` | Palazzo degli Sporti: Innenausbau | 1.523 | 7.112 |
 | 7 | `w480206992` | Reihenhaus an Via dell'Oriuolo | 3.207 | 7.113–7.114 |
 | 8 | `w480206992_innen` | Reihenhaus an Via dell'Oriuolo: Innenausbau | 2 | 7.115 |
 | 9 | `w480206993` | Palazzo des Cinquecento an Via Sant'Egidio | 8.916 | 7.115–7.119 |
@@ -3363,10 +3363,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.108 – Palazzo degli Sporti – Teil 1/4 (Y 64–68)
+### Schritt 7.108 – Palazzo degli Sporti – Teil 1/4 (Y 64–69)
 
-- **Y-Bereich:** 64 bis 68
-- **Blöcke:** 1.848
+- **Y-Bereich:** 64 bis 69
+- **Blöcke:** 2.046
 - **Bauteile:** `w306984423`
 
 **Teileliste**
@@ -3374,15 +3374,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 952 |
-| Tuffstein | `tuff` | 413 |
-| Polierter Andesit | `polished_andesite` | 257 |
-| Tuffsteinziegel | `tuff_bricks` | 178 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Tuffstein | `tuff` | 495 |
+| Polierter Andesit | `polished_andesite` | 374 |
+| Tuffsteinziegel | `tuff_bricks` | 168 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (16. Jh. (um 1532 Luca Albizi)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Sporti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -3394,27 +3393,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.109 – Palazzo degli Sporti – Teil 2/4 (Y 69–77)
+### Schritt 7.109 – Palazzo degli Sporti – Teil 2/4 (Y 70–77)
 
-- **Y-Bereich:** 69 bis 77
-- **Blöcke:** 2.082
+- **Y-Bereich:** 70 bis 77
+- **Blöcke:** 1.845
 - **Bauteile:** `w306984423`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 935 |
-| Polierter Andesit | `polished_andesite` | 638 |
-| Glatter Stein | `smooth_stone` | 233 |
-| Tuffsteinziegel | `tuff_bricks` | 195 |
+| Tuffstein | `tuff` | 843 |
+| Polierter Andesit | `polished_andesite` | 775 |
+| Tuffsteinziegel | `tuff_bricks` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 81 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (16. Jh. (um 1532 Luca Albizi)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Sporti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -3426,26 +3424,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.110 – Palazzo degli Sporti – Teil 3/4 (Y 78–85)
+### Schritt 7.110 – Palazzo degli Sporti – Teil 3/4 (Y 78–86)
 
-- **Y-Bereich:** 78 bis 85
-- **Blöcke:** 1.785
+- **Y-Bereich:** 78 bis 86
+- **Blöcke:** 2.058
 - **Bauteile:** `w306984423`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 795 |
-| Tuffstein | `tuff` | 780 |
+| Polierter Andesit | `polished_andesite` | 966 |
+| Tuffstein | `tuff` | 894 |
 | Graues Buntglas | `gray_stained_glass` | 162 |
-| Glatter Stein | `smooth_stone` | 48 |
+| Fichtenholz-Bretter | `spruce_planks` | 36 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (16. Jh. (um 1532 Luca Albizi)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Sporti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -3457,28 +3455,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.111 – Palazzo degli Sporti – Teil 4/4 (Y 86–94)
+### Schritt 7.111 – Palazzo degli Sporti – Teil 4/4 (Y 87–94)
 
-- **Y-Bereich:** 86 bis 94
-- **Blöcke:** 1.948
+- **Y-Bereich:** 87 bis 94
+- **Blöcke:** 1.999
 - **Bauteile:** `w306984423`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.258 |
-| Polierter Andesit | `polished_andesite` | 234 |
-| Tuffstein | `tuff` | 228 |
-| Endsteinziegel | `end_stone_bricks` | 144 |
+| Terrakotta | `terracotta` | 1.438 |
+| Fichtenholz-Bretter | `spruce_planks` | 252 |
+| Polierter Andesit | `polished_andesite` | 123 |
+| Tuffstein | `tuff` | 114 |
 | Ziegelsteine | `bricks` | 72 |
-| Glatter Stein | `smooth_stone` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (16. Jh. (um 1532 Luca Albizi)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Sporti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -3490,39 +3487,35 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.112 – Palazzo degli Sporti: Innenausbau
 
-- **Y-Bereich:** 64 bis 76
-- **Blöcke:** 779
+- **Y-Bereich:** 64 bis 81
+- **Blöcke:** 1.523
 - **Bauteile:** `w306984423_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 707 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Terrakotta | `terracotta` | 1.414 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 18 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 18 |
+| Seelaterne | `sea_lantern` | 15 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 36 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

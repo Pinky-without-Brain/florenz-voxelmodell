@@ -1,7 +1,7 @@
 {
   "id": "w307126295",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "ab 1243, Umbau 17. Jh. (Silvani)",
   "geschosse": [
     {
       "art": "eg",
@@ -28,22 +28,27 @@
     },
     "fenster": {
       "typ": "rundbogen",
-      "rahmen": "pietra_forte",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "portal_saeulen_pietra_serena",
+      "lunette_relief",
+      "seitennischen_alte_fenster",
+      "marmortafel_13jh"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Simone_e_Giuda_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Baubeginn 1243, Fassade im 17. Jh. von Gherardo Silvani erneuert, Portal mit zwei kannelierten Pietra-serena-Säulen und Bogen mit Reliefs, Lünette mit Madonna zwischen den Heiligen, zwei kleine Seitennischen anstelle blockierter mittelalterlicher Fenster, Marmortafel des 13. Jh.. Annahme: Giebelform, Putzfarbe, Höhenaufteilung und Dach.",
   "name": "Chiesa dei Santi Simone e Giuda"
 }

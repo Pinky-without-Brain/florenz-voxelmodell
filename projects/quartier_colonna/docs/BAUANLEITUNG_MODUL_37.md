@@ -22,13 +22,12 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 18.930 | 40,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 17.810 | 38,1 % |
+| Glatter Stein | `smooth_stone` | 17.900 | 38,3 % |
 | Polierter Tuffstein | `polished_tuff` | 6.196 | 13,3 % |
-| Glatter Stein | `smooth_stone` | 2.346 | 5,0 % |
+| Polierter Andesit | `polished_andesite` | 2.326 | 5,0 % |
 | Graues Buntglas | `gray_stained_glass` | 1.028 | 2,2 % |
 | Ziegelsteine | `bricks` | 223 | 0,5 % |
 | Seelaterne | `sea_lantern` | 84 | 0,2 % |
-| Polierter Andesit | `polished_andesite` | 70 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
@@ -65,7 +64,7 @@
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -77,7 +76,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.2 – Tempio Maggiore Israelitico - Sinagoga – Teil 2/21 (Y 65–65)
 
@@ -93,7 +92,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -105,7 +104,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.3 – Tempio Maggiore Israelitico - Sinagoga – Teil 3/21 (Y 65–65)
 
@@ -121,7 +120,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -133,7 +132,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.4 – Tempio Maggiore Israelitico - Sinagoga – Teil 4/21 (Y 66–66)
 
@@ -145,12 +144,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 715 |
-| Glatter Stein | `smooth_stone` | 3 |
+| Glatter Stein | `smooth_stone` | 718 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -162,7 +160,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.5 – Tempio Maggiore Israelitico - Sinagoga – Teil 5/21 (Y 67–68)
 
@@ -174,12 +172,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.282 |
-| Glatter Stein | `smooth_stone` | 194 |
+| Glatter Stein | `smooth_stone` | 1.288 |
+| Polierter Andesit | `polished_andesite` | 188 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -191,7 +189,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.6 – Tempio Maggiore Israelitico - Sinagoga – Teil 6/21 (Y 69–71)
 
@@ -203,14 +201,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.593 |
-| Glatter Stein | `smooth_stone` | 243 |
+| Glatter Stein | `smooth_stone` | 1.602 |
+| Polierter Andesit | `polished_andesite` | 304 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
-| Polierter Andesit | `polished_andesite` | 70 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -222,7 +219,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.7 – Tempio Maggiore Israelitico - Sinagoga – Teil 7/21 (Y 72–73)
 
@@ -234,13 +231,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.072 |
-| Glatter Stein | `smooth_stone` | 156 |
+| Glatter Stein | `smooth_stone` | 1.072 |
+| Polierter Andesit | `polished_andesite` | 156 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -252,7 +249,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.8 – Tempio Maggiore Israelitico - Sinagoga – Teil 8/21 (Y 74–75)
 
@@ -264,13 +261,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.286 |
-| Glatter Stein | `smooth_stone` | 156 |
+| Glatter Stein | `smooth_stone` | 1.294 |
+| Polierter Andesit | `polished_andesite` | 148 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -282,7 +279,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.9 – Tempio Maggiore Israelitico - Sinagoga – Teil 9/21 (Y 76–77)
 
@@ -294,13 +291,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.434 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Glatter Stein | `smooth_stone` | 1.442 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -312,7 +308,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.10 – Tempio Maggiore Israelitico - Sinagoga – Teil 10/21 (Y 78–79)
 
@@ -324,11 +320,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.448 |
+| Glatter Stein | `smooth_stone` | 1.448 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -340,7 +336,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.11 – Tempio Maggiore Israelitico - Sinagoga – Teil 11/21 (Y 80–81)
 
@@ -352,12 +348,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.292 |
-| Glatter Stein | `smooth_stone` | 199 |
+| Glatter Stein | `smooth_stone` | 1.292 |
+| Polierter Andesit | `polished_andesite` | 199 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -369,7 +365,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.12 – Tempio Maggiore Israelitico - Sinagoga – Teil 12/21 (Y 82–84)
 
@@ -381,13 +377,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.578 |
-| Glatter Stein | `smooth_stone` | 246 |
+| Glatter Stein | `smooth_stone` | 1.578 |
+| Polierter Andesit | `polished_andesite` | 246 |
 | Graues Buntglas | `gray_stained_glass` | 222 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -399,7 +395,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.13 – Tempio Maggiore Israelitico - Sinagoga – Teil 13/21 (Y 85–87)
 
@@ -411,13 +407,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.620 |
-| Glatter Stein | `smooth_stone` | 320 |
+| Glatter Stein | `smooth_stone` | 1.620 |
+| Polierter Andesit | `polished_andesite` | 320 |
 | Graues Buntglas | `gray_stained_glass` | 148 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -429,7 +425,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.14 – Tempio Maggiore Israelitico - Sinagoga – Teil 14/21 (Y 88–89)
 
@@ -441,12 +437,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.292 |
-| Glatter Stein | `smooth_stone` | 199 |
+| Glatter Stein | `smooth_stone` | 1.292 |
+| Polierter Andesit | `polished_andesite` | 199 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -458,7 +454,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.15 – Tempio Maggiore Israelitico - Sinagoga – Teil 15/21 (Y 90–92)
 
@@ -470,13 +466,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.578 |
-| Glatter Stein | `smooth_stone` | 246 |
+| Glatter Stein | `smooth_stone` | 1.578 |
+| Polierter Andesit | `polished_andesite` | 246 |
 | Graues Buntglas | `gray_stained_glass` | 222 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -488,7 +484,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.16 – Tempio Maggiore Israelitico - Sinagoga – Teil 16/21 (Y 93–95)
 
@@ -500,13 +496,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.620 |
-| Glatter Stein | `smooth_stone` | 320 |
+| Glatter Stein | `smooth_stone` | 1.620 |
+| Polierter Andesit | `polished_andesite` | 320 |
 | Graues Buntglas | `gray_stained_glass` | 148 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -518,7 +514,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.17 – Tempio Maggiore Israelitico - Sinagoga – Teil 17/21 (Y 96–96)
 
@@ -534,7 +530,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -546,7 +542,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.18 – Tempio Maggiore Israelitico - Sinagoga – Teil 18/21 (Y 97–98)
 
@@ -562,7 +558,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -574,7 +570,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.19 – Tempio Maggiore Israelitico - Sinagoga – Teil 19/21 (Y 99–100)
 
@@ -591,7 +587,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -603,7 +599,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.20 – Tempio Maggiore Israelitico - Sinagoga – Teil 20/21 (Y 101–103)
 
@@ -620,7 +616,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -632,7 +628,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.21 – Tempio Maggiore Israelitico - Sinagoga – Teil 21/21 (Y 104–107)
 
@@ -649,7 +645,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -661,7 +657,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.22 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 1/6 (Y 65–79)
 

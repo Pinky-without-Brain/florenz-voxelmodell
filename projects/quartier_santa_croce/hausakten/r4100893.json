@@ -1,7 +1,7 @@
 {
   "id": "r4100893",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -28,30 +28,32 @@
     "kanten": "strasse",
     "achsen": 9,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "grau",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rahmen_stuck",
+      "rahmen": "putz",
       "laeden": "gruen"
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "hufeisen_eisen"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Caccia_Peruzzi",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: Bau 1317-19 unter Maestro Alchieri da Como, große kräftige Trecento-Arkaden und Rundbogenportale an der Via de Benci, zahlreiche Hufeisen aus dem 14. Jh. an der Fassade, Obergeschosse im 19. und frühen 20. Jh. verändert. Annahme: Achsen, Putzfarbe, Fensterform, Gesims und Dach.",
   "name": "Palazzo Caccia Peruzzi"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w306156988",
   "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "epoche": "13./14. Jh. Ursprung, 1832 umgebaut (Giuseppe Martelli)",
   "geschosse": [
     {
       "art": "eg",
@@ -43,15 +43,19 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "wappen_landini_terrakotta",
+      "steinlilien_achtzackstern",
+      "monumentalportal_via_pandolfini"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_dell'Arte_dei_Giudici_e_Notai",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: Ursprung unsicher (13./14. Jh., möglicherweise auf einem Turm des 11. Jh.), 1832 durch Giuseppe Martelli radikal umgestaltet, Landini-Wappen aus Terrakotta, steinerne Lilien mit achtzackigem Stern, Gedenktafel von 1878, Monumentalportal Via dei Pandolfini 34. Annahme: Geschosse (OSM-Höhe), Achsen, Material, Fenster, Gesims, Dach.",
   "name": "Palazzo dell'Arte dei Giudici e Notai"
 }

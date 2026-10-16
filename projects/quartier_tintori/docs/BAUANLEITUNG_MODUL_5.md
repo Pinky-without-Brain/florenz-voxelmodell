@@ -8,60 +8,61 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 96.203 |
+| Blöcke | 96.104 |
 | Bauschritte | 64 |
 | Y-Bereich | 60 bis 96 |
 | X-Ausdehnung | 350 bis 521 (172 Blöcke) |
 | Z-Ausdehnung | 985 bis 1192 (208 Blöcke) |
-| Kleinster Schritt | 1.081 Blöcke (Schritt 5.8) |
-| Mittlerer Schritt | 1.503 Blöcke |
+| Kleinster Schritt | 1.066 Blöcke (Schritt 5.7) |
+| Mittlerer Schritt | 1.502 Blöcke |
 | Größter Schritt | 2.040 Blöcke (Schritt 5.62) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 37.362 | 38,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 24.544 | 25,5 % |
+| Terrakotta | `terracotta` | 37.362 | 38,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 21.394 | 22,3 % |
 | Polierter Tuffstein | `polished_tuff` | 12.399 | 12,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 12.198 | 12,7 % |
-| Glatter Stein | `smooth_stone` | 4.355 | 4,5 % |
+| Glatter Stein | `smooth_stone` | 4.373 | 4,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 2.879 | 3,0 % |
 | Weißer Beton | `white_concrete` | 1.876 | 2,0 % |
-| Graues Buntglas | `gray_stained_glass` | 1.294 | 1,3 % |
+| Graues Buntglas | `gray_stained_glass` | 1.396 | 1,5 % |
 | Ziegelsteine | `bricks` | 668 | 0,7 % |
-| Grüner Beton | `green_concrete` | 561 | 0,6 % |
+| Grüner Beton | `green_concrete` | 587 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 312 | 0,3 % |
-| Polierter Andesit | `polished_andesite` | 271 | 0,3 % |
+| Polierter Andesit | `polished_andesite` | 310 | 0,3 % |
 | Seelaterne | `sea_lantern` | 192 | 0,2 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 34 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 23 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 38 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 12 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 13 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 12 | 0,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 108 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 8 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 10 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1605483` | Palazzo Peruzzi-Lotti | 44.025 | 5.1–5.33 |
-| 2 | `r1605483_innen` | Palazzo Peruzzi-Lotti: Innenausbau | 13.118 | 5.34–5.41 |
+| 1 | `r1605483` | Palazzo Peruzzi-Lotti | 43.929 | 5.1–5.33 |
+| 2 | `r1605483_innen` | Palazzo Peruzzi-Lotti: Innenausbau | 13.115 | 5.34–5.41 |
 | 3 | `r4100894` | Palazzo des Cinquecento an Via dei Neri | 24.665 | 5.42–5.55 |
 | 4 | `r4100894_innen` | Palazzo des Cinquecento an Via dei Neri: Innenausbau | 6.115 | 5.56–5.59 |
 | 5 | `w307106630` | Chiesa evangelica metodista | 6.069 | 5.60–5.62 |
@@ -84,7 +85,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -96,7 +97,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.2 – Palazzo Peruzzi-Lotti – Teil 2/33 (Y 61–61)
 
@@ -112,7 +113,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -124,7 +125,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.3 – Palazzo Peruzzi-Lotti – Teil 3/33 (Y 61–61)
 
@@ -140,7 +141,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -152,7 +153,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.4 – Palazzo Peruzzi-Lotti – Teil 4/33 (Y 61–61)
 
@@ -168,7 +169,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -180,218 +181,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.5 – Palazzo Peruzzi-Lotti – Teil 5/33 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.116
+- **Blöcke:** 1.093
 - **Bauteile:** `r1605483`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.100 |
-| Polierter Andesit | `polished_andesite` | 12 |
-| Glatter Stein | `smooth_stone` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.6 – Palazzo Peruzzi-Lotti – Teil 6/33 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.116
-- **Bauteile:** `r1605483`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.108 |
-| Polierter Andesit | `polished_andesite` | 4 |
-| Glatter Stein | `smooth_stone` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.7 – Palazzo Peruzzi-Lotti – Teil 7/33 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.153
-- **Bauteile:** `r1605483`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 941 |
-| Glatter Stein | `smooth_stone` | 199 |
-| Polierter Andesit | `polished_andesite` | 12 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.8 – Palazzo Peruzzi-Lotti – Teil 8/33 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.081
-- **Bauteile:** `r1605483`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 888 |
-| Glatter Stein | `smooth_stone` | 101 |
-| Graues Buntglas | `gray_stained_glass` | 61 |
-| Grüner Beton | `green_concrete` | 26 |
-| Polierter Andesit | `polished_andesite` | 4 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.9 – Palazzo Peruzzi-Lotti – Teil 9/33 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.087
-- **Bauteile:** `r1605483`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 882 |
-| Glatter Stein | `smooth_stone` | 105 |
-| Graues Buntglas | `gray_stained_glass` | 61 |
-| Grüner Beton | `green_concrete` | 26 |
-| Polierter Andesit | `polished_andesite` | 12 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.10 – Palazzo Peruzzi-Lotti – Teil 10/33 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.087
-- **Bauteile:** `r1605483`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 890 |
-| Glatter Stein | `smooth_stone` | 98 |
-| Graues Buntglas | `gray_stained_glass` | 61 |
-| Grüner Beton | `green_concrete` | 26 |
-| Polierter Andesit | `polished_andesite` | 7 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.11 – Palazzo Peruzzi-Lotti – Teil 11/33 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.088
-- **Bauteile:** `r1605483`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 918 |
-| Glatter Stein | `smooth_stone` | 98 |
-| Graues Buntglas | `gray_stained_glass` | 61 |
+| Glatter Sandstein | `smooth_sandstone` | 1.018 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Glatter Stein | `smooth_stone` | 26 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -403,7 +212,193 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 5.6 – Palazzo Peruzzi-Lotti – Teil 6/33 (Y 63–63)
+
+- **Y-Bereich:** 63 bis 63
+- **Blöcke:** 1.122
+- **Bauteile:** `r1605483`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 905 |
+| Glatter Stein | `smooth_stone` | 176 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 5.7 – Palazzo Peruzzi-Lotti – Teil 7/33 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.066
+- **Bauteile:** `r1605483`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 844 |
+| Glatter Stein | `smooth_stone` | 99 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Grüner Beton | `green_concrete` | 26 |
+| Polierter Andesit | `polished_andesite` | 11 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 5.8 – Palazzo Peruzzi-Lotti – Teil 8/33 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.066
+- **Bauteile:** `r1605483`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 852 |
+| Glatter Stein | `smooth_stone` | 99 |
+| Polierter Andesit | `polished_andesite` | 51 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Grüner Beton | `green_concrete` | 26 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 5.9 – Palazzo Peruzzi-Lotti – Teil 9/33 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.075
+- **Bauteile:** `r1605483`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 853 |
+| Glatter Stein | `smooth_stone` | 102 |
+| Graues Buntglas | `gray_stained_glass` | 83 |
+| Grüner Beton | `green_concrete` | 26 |
+| Polierter Andesit | `polished_andesite` | 11 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 5.10 – Palazzo Peruzzi-Lotti – Teil 10/33 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.123
+- **Bauteile:** `r1605483`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 936 |
+| Glatter Stein | `smooth_stone` | 184 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 5.11 – Palazzo Peruzzi-Lotti – Teil 11/33 (Y 68–68)
+
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 1.123
+- **Bauteile:** `r1605483`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.112 |
+| Polierter Andesit | `polished_andesite` | 11 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.12 – Palazzo Peruzzi-Lotti – Teil 12/33 (Y 69–69)
 
@@ -415,13 +410,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 963 |
-| Glatter Stein | `smooth_stone` | 157 |
-| Polierter Andesit | `polished_andesite` | 3 |
+| Glatter Sandstein | `smooth_sandstone` | 684 |
+| Glatter Stein | `smooth_stone` | 439 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -433,7 +427,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.13 – Palazzo Peruzzi-Lotti – Teil 13/33 (Y 70–70)
 
@@ -445,12 +439,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.112 |
+| Glatter Sandstein | `smooth_sandstone` | 1.112 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -462,40 +456,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.14 – Palazzo Peruzzi-Lotti – Teil 14/33 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.123
-- **Bauteile:** `r1605483`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 680 |
-| Glatter Stein | `smooth_stone` | 443 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.15 – Palazzo Peruzzi-Lotti – Teil 15/33 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.162
 - **Bauteile:** `r1605483`
 
@@ -503,13 +468,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 949 |
+| Glatter Sandstein | `smooth_sandstone` | 957 |
 | Glatter Stein | `smooth_stone` | 202 |
-| Polierter Andesit | `polished_andesite` | 11 |
+| Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -521,7 +486,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 5.15 – Palazzo Peruzzi-Lotti – Teil 15/33 (Y 72–72)
+
+- **Y-Bereich:** 72 bis 72
+- **Blöcke:** 1.087
+- **Bauteile:** `r1605483`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 887 |
+| Glatter Stein | `smooth_stone` | 100 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
+| Grüner Beton | `green_concrete` | 26 |
+| Polierter Andesit | `polished_andesite` | 11 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.16 – Palazzo Peruzzi-Lotti – Teil 16/33 (Y 73–73)
 
@@ -533,7 +530,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 895 |
+| Glatter Sandstein | `smooth_sandstone` | 895 |
 | Glatter Stein | `smooth_stone` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Grüner Beton | `green_concrete` | 26 |
@@ -541,7 +538,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -553,7 +550,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.17 – Palazzo Peruzzi-Lotti – Teil 17/33 (Y 74–74)
 
@@ -565,7 +562,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 887 |
+| Glatter Sandstein | `smooth_sandstone` | 887 |
 | Glatter Stein | `smooth_stone` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Grüner Beton | `green_concrete` | 26 |
@@ -573,7 +570,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -585,7 +582,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.18 – Palazzo Peruzzi-Lotti – Teil 18/33 (Y 75–75)
 
@@ -597,13 +594,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 957 |
+| Glatter Sandstein | `smooth_sandstone` | 957 |
 | Glatter Stein | `smooth_stone` | 163 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -615,7 +612,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.19 – Palazzo Peruzzi-Lotti – Teil 19/33 (Y 76–76)
 
@@ -627,13 +624,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 844 |
+| Glatter Sandstein | `smooth_sandstone` | 844 |
 | Glatter Stein | `smooth_stone` | 268 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -645,7 +642,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.20 – Palazzo Peruzzi-Lotti – Teil 20/33 (Y 77–77)
 
@@ -657,12 +654,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 680 |
+| Glatter Sandstein | `smooth_sandstone` | 680 |
 | Glatter Stein | `smooth_stone` | 443 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -674,7 +671,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.21 – Palazzo Peruzzi-Lotti – Teil 21/33 (Y 78–78)
 
@@ -686,13 +683,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 949 |
+| Glatter Sandstein | `smooth_sandstone` | 949 |
 | Glatter Stein | `smooth_stone` | 202 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -704,7 +701,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.22 – Palazzo Peruzzi-Lotti – Teil 22/33 (Y 79–79)
 
@@ -716,7 +713,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 895 |
+| Glatter Sandstein | `smooth_sandstone` | 895 |
 | Glatter Stein | `smooth_stone` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Grüner Beton | `green_concrete` | 26 |
@@ -724,7 +721,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -736,7 +733,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.23 – Palazzo Peruzzi-Lotti – Teil 23/33 (Y 80–80)
 
@@ -748,7 +745,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 887 |
+| Glatter Sandstein | `smooth_sandstone` | 887 |
 | Glatter Stein | `smooth_stone` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Grüner Beton | `green_concrete` | 26 |
@@ -756,7 +753,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -768,7 +765,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.24 – Palazzo Peruzzi-Lotti – Teil 24/33 (Y 81–81)
 
@@ -780,7 +777,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 895 |
+| Glatter Sandstein | `smooth_sandstone` | 895 |
 | Glatter Stein | `smooth_stone` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Grüner Beton | `green_concrete` | 26 |
@@ -788,7 +785,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -800,7 +797,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.25 – Palazzo Peruzzi-Lotti – Teil 25/33 (Y 82–82)
 
@@ -812,13 +809,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 949 |
+| Glatter Sandstein | `smooth_sandstone` | 949 |
 | Glatter Stein | `smooth_stone` | 163 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -830,7 +827,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.26 – Palazzo Peruzzi-Lotti – Teil 26/33 (Y 83–83)
 
@@ -842,13 +839,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.068 |
+| Glatter Sandstein | `smooth_sandstone` | 1.068 |
 | Glatter Stein | `smooth_stone` | 268 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -860,7 +857,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.27 – Palazzo Peruzzi-Lotti – Teil 27/33 (Y 84–84)
 
@@ -872,12 +869,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.328 |
+| Glatter Sandstein | `smooth_sandstone` | 1.328 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -889,7 +886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.28 – Palazzo Peruzzi-Lotti – Teil 28/33 (Y 85–85)
 
@@ -905,7 +902,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -917,7 +914,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.29 – Palazzo Peruzzi-Lotti – Teil 29/33 (Y 85–85)
 
@@ -933,7 +930,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -945,7 +942,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.30 – Palazzo Peruzzi-Lotti – Teil 30/33 (Y 86–86)
 
@@ -961,7 +958,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -973,7 +970,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.31 – Palazzo Peruzzi-Lotti – Teil 31/33 (Y 87–87)
 
@@ -989,7 +986,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1001,7 +998,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.32 – Palazzo Peruzzi-Lotti – Teil 32/33 (Y 88–88)
 
@@ -1018,7 +1015,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1030,7 +1027,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.33 – Palazzo Peruzzi-Lotti – Teil 33/33 (Y 89–94)
 
@@ -1047,7 +1044,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1059,12 +1056,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 5.34 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 1/8 (Y 61–71)
+### Schritt 5.34 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 1/8 (Y 61–69)
 
-- **Y-Bereich:** 61 bis 71
-- **Blöcke:** 1.690
+- **Y-Bereich:** 61 bis 69
+- **Blöcke:** 1.682
 - **Bauteile:** `r1605483_innen`
 
 **Teileliste**
@@ -1073,23 +1070,23 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.597 |
 | Seelaterne | `sea_lantern` | 46 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 14 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1103,9 +1100,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.35 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 2/8 (Y 71–71)
+### Schritt 5.35 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 2/8 (Y 69–69)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.668
 - **Bauteile:** `r1605483_innen`
 
@@ -1118,7 +1115,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1132,9 +1129,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.36 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 3/8 (Y 71–71)
+### Schritt 5.36 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 3/8 (Y 69–69)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.590
 - **Bauteile:** `r1605483_innen`
 
@@ -1154,7 +1151,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1168,9 +1165,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.37 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 4/8 (Y 71–71)
+### Schritt 5.37 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 4/8 (Y 69–69)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.632
 - **Bauteile:** `r1605483_innen`
 
@@ -1183,7 +1180,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1197,10 +1194,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.38 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 5/8 (Y 72–77)
+### Schritt 5.38 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 5/8 (Y 70–77)
 
-- **Y-Bereich:** 72 bis 77
-- **Blöcke:** 1.639
+- **Y-Bereich:** 70 bis 77
+- **Blöcke:** 1.650
 - **Bauteile:** `r1605483_innen`
 
 **Teileliste**
@@ -1208,22 +1205,26 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.597 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 4 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 10 |
+| Steintreppe | `stone_stairs` | 14 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1252,7 +1253,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1288,7 +1289,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1305,7 +1306,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.41 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 8/8 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.641
+- **Blöcke:** 1.635
 - **Bauteile:** `r1605483_innen`
 
 **Teileliste**
@@ -1314,11 +1315,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.623 |
 | Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1328,7 +1327,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

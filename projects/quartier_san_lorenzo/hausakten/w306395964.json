@@ -1,15 +1,15 @@
 {
   "id": "w306395964",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "um 1500 (Baccio d Agnolo für Taddeo Taddei)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -20,30 +20,35 @@
     "kanten": "strasse",
     "achsen": 8,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "tor_und_fenster",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": "gruen"
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "gittertor_ginori_wappen",
+      "glatte_ecksrustika"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: von Baccio d Agnolo für Taddeo Taddei nach Modellen des 15. Jh., drei Geschosse in zwei Fensterreihen, blanker Putz zwischen Steinelementen (Fensterrahmen, Gurtgesimse, Erdgeschossrahmen), Rundbogenfenster mit radialem Steinrahmen, glatte Eckrustika nach oben dünner und regelmäßiger, steinumrahmtes Element und mehrere Rechteckportale (Läden) im Erdgeschoss, schmiedeeisernes Tor mit Ginori-Wappen. Annahme: Putzfarbe, Traufgesims, Dach.",
   "name": "Palazzo Taddei"
 }

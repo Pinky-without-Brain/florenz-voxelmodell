@@ -1,45 +1,55 @@
 {
   "id": "r4107741",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh. (Ammannati zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 7,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 6,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_frosini_matteucci",
+      "wappen_medici_toledo_ecke",
+      "loewenkoepfe",
+      "schildkroeten_gitter",
+      "eckspitz_balkon"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_di_Sforza_Almeni",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Bau des 16. Jh. (Ammannati nur vermutet), drei Geschosse, sechs Achsen zur Via dei Servi, Putzfläche mit Elementen aus grauem Stein (pietra bigia), großes Portal zwischen zwei prunkvollen Kniefenstern mit Löwenköpfen, Mäanderband und Waffentrophäen, Gitter von Schildkröten getragen, Gronda 1926 erneuert, Eckspitze an der Via del Castellaccio mit kleinem Balkon, Frosini-Matteucci- und Medici-Toledo-Wappen. Annahme: Putzfarbe, Fensterform der Obergeschosse, Dach.",
   "name": "Palazzo di Sforza Almeni"
 }

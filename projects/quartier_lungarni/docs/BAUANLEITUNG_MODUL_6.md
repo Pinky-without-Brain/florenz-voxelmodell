@@ -8,29 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 61.962 |
+| Blöcke | 61.815 |
 | Bauschritte | 43 |
 | Y-Bereich | 61 bis 97 |
 | X-Ausdehnung | -53 bis 136 (190 Blöcke) |
 | Z-Ausdehnung | 1202 bis 1301 (100 Blöcke) |
 | Kleinster Schritt | 3 Blöcke (Schritt 6.43) |
-| Mittlerer Schritt | 1.441 Blöcke |
+| Mittlerer Schritt | 1.438 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 6.42) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
+| Endsteinziegel | `end_stone_bricks` | 22.946 | 37,1 % |
 | Terrakotta | `terracotta` | 21.168 | 34,2 % |
-| Tuffstein | `tuff` | 15.269 | 24,6 % |
 | Polierter Tuffstein | `polished_tuff` | 9.531 | 15,4 % |
-| Polierter Andesit | `polished_andesite` | 5.604 | 9,0 % |
-| Glatter Stein | `smooth_stone` | 4.439 | 7,2 % |
-| Graues Buntglas | `gray_stained_glass` | 2.067 | 3,3 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.564 | 2,5 % |
+| Glatter Stein | `smooth_stone` | 3.764 | 6,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.721 | 2,8 % |
 | Ziegelsteine | `bricks` | 1.457 | 2,4 % |
-| Endsteinziegel | `end_stone_bricks` | 738 | 1,2 % |
+| Grüner Beton | `green_concrete` | 865 | 1,4 % |
+| Polierter Andesit | `polished_andesite` | 218 | 0,4 % |
 | Seelaterne | `sea_lantern` | 88 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 3 | 0,0 % |
@@ -53,7 +53,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1602101` | Palazzo della Borsa | 53.594 | 6.1–6.38 |
+| 1 | `r1602101` | Palazzo della Borsa | 53.447 | 6.1–6.38 |
 | 2 | `r1602101_innen` | Palazzo della Borsa: Innenausbau | 8.365 | 6.38–6.42 |
 | 3 | `strassenschilder` | Straßenschilder | 3 | 6.43 |
 
@@ -73,7 +73,7 @@
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -85,7 +85,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.2 – Palazzo della Borsa – Teil 2/38 (Y 61–61)
 
@@ -101,7 +101,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -113,7 +113,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.3 – Palazzo della Borsa – Teil 3/38 (Y 61–61)
 
@@ -129,7 +129,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -141,7 +141,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.4 – Palazzo della Borsa – Teil 4/38 (Y 61–61)
 
@@ -157,7 +157,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -169,7 +169,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.5 – Palazzo della Borsa – Teil 5/38 (Y 61–61)
 
@@ -185,7 +185,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -197,7 +197,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.6 – Palazzo della Borsa – Teil 6/38 (Y 62–62)
 
@@ -209,14 +209,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 734 |
-| Polierter Andesit | `polished_andesite` | 275 |
-| Tuffsteinziegel | `tuff_bricks` | 270 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Endsteinziegel | `end_stone_bricks` | 1.276 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -228,7 +228,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.7 – Palazzo della Borsa – Teil 7/38 (Y 63–63)
 
@@ -240,14 +240,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 734 |
-| Polierter Andesit | `polished_andesite` | 282 |
-| Tuffsteinziegel | `tuff_bricks` | 273 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Endsteinziegel | `end_stone_bricks` | 1.286 |
+| Polierter Andesit | `polished_andesite` | 5 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -259,26 +259,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.8 – Palazzo della Borsa – Teil 8/38 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.443
+- **Blöcke:** 1.400
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 734 |
-| Glatter Stein | `smooth_stone` | 538 |
-| Polierter Andesit | `polished_andesite` | 93 |
-| Tuffsteinziegel | `tuff_bricks` | 78 |
+| Endsteinziegel | `end_stone_bricks` | 965 |
+| Glatter Stein | `smooth_stone` | 418 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -290,27 +290,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.9 – Palazzo della Borsa – Teil 9/38 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.111
+- **Blöcke:** 1.164
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 551 |
-| Graues Buntglas | `gray_stained_glass` | 223 |
+| Endsteinziegel | `end_stone_bricks` | 757 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
 | Glatter Stein | `smooth_stone` | 156 |
-| Polierter Andesit | `polished_andesite` | 94 |
-| Tuffsteinziegel | `tuff_bricks` | 87 |
+| Grüner Beton | `green_concrete` | 85 |
+| Polierter Andesit | `polished_andesite` | 5 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -322,27 +323,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.10 – Palazzo della Borsa – Teil 10/38 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.111
+- **Blöcke:** 1.164
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 551 |
-| Graues Buntglas | `gray_stained_glass` | 223 |
-| Glatter Stein | `smooth_stone` | 166 |
-| Polierter Andesit | `polished_andesite` | 107 |
-| Tuffsteinziegel | `tuff_bricks` | 64 |
+| Endsteinziegel | `end_stone_bricks` | 747 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Grüner Beton | `green_concrete` | 85 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -354,27 +356,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.11 – Palazzo della Borsa – Teil 11/38 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.111
+- **Blöcke:** 1.164
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 551 |
-| Graues Buntglas | `gray_stained_glass` | 223 |
+| Endsteinziegel | `end_stone_bricks` | 757 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
 | Glatter Stein | `smooth_stone` | 156 |
-| Polierter Andesit | `polished_andesite` | 114 |
-| Tuffsteinziegel | `tuff_bricks` | 67 |
+| Grüner Beton | `green_concrete` | 85 |
+| Polierter Andesit | `polished_andesite` | 5 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -386,27 +389,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.12 – Palazzo della Borsa – Teil 12/38 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.123
+- **Blöcke:** 1.164
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 560 |
-| Graues Buntglas | `gray_stained_glass` | 210 |
-| Glatter Stein | `smooth_stone` | 182 |
-| Polierter Andesit | `polished_andesite` | 93 |
-| Tuffsteinziegel | `tuff_bricks` | 78 |
+| Endsteinziegel | `end_stone_bricks` | 762 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Grüner Beton | `green_concrete` | 70 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -418,26 +422,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.13 – Palazzo della Borsa – Teil 13/38 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.297
+- **Blöcke:** 1.201
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 735 |
-| Glatter Stein | `smooth_stone` | 365 |
-| Polierter Andesit | `polished_andesite` | 100 |
-| Tuffsteinziegel | `tuff_bricks` | 97 |
+| Endsteinziegel | `end_stone_bricks` | 883 |
+| Glatter Stein | `smooth_stone` | 198 |
+| Graues Buntglas | `gray_stained_glass` | 113 |
+| Polierter Andesit | `polished_andesite` | 5 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -449,7 +454,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.14 – Palazzo della Borsa – Teil 14/38 (Y 70–70)
 
@@ -461,14 +466,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 737 |
-| Polierter Andesit | `polished_andesite` | 275 |
-| Tuffsteinziegel | `tuff_bricks` | 271 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Endsteinziegel | `end_stone_bricks` | 1.031 |
+| Glatter Stein | `smooth_stone` | 252 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -480,7 +485,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.15 – Palazzo della Borsa – Teil 15/38 (Y 71–71)
 
@@ -492,14 +497,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 740 |
-| Polierter Andesit | `polished_andesite` | 283 |
-| Tuffsteinziegel | `tuff_bricks` | 274 |
-| Glatter Stein | `smooth_stone` | 11 |
+| Endsteinziegel | `end_stone_bricks` | 1.294 |
+| Glatter Stein | `smooth_stone` | 7 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -511,26 +516,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.16 – Palazzo della Borsa – Teil 16/38 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.677
+- **Blöcke:** 1.308
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 928 |
-| Tuffstein | `tuff` | 740 |
+| Endsteinziegel | `end_stone_bricks` | 740 |
+| Glatter Stein | `smooth_stone` | 559 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -542,7 +547,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.17 – Palazzo della Borsa – Teil 17/38 (Y 73–73)
 
@@ -554,13 +559,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 740 |
-| Polierter Andesit | `polished_andesite` | 564 |
-| Glatter Stein | `smooth_stone` | 4 |
+| Endsteinziegel | `end_stone_bricks` | 1.304 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -572,7 +576,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.18 – Palazzo della Borsa – Teil 18/38 (Y 74–74)
 
@@ -584,13 +588,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 740 |
-| Polierter Andesit | `polished_andesite` | 554 |
-| Glatter Stein | `smooth_stone` | 14 |
+| Endsteinziegel | `end_stone_bricks` | 1.294 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -602,25 +605,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.19 – Palazzo della Borsa – Teil 19/38 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.439
+- **Blöcke:** 1.414
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 740 |
-| Glatter Stein | `smooth_stone` | 488 |
-| Polierter Andesit | `polished_andesite` | 211 |
+| Endsteinziegel | `end_stone_bricks` | 988 |
+| Glatter Stein | `smooth_stone` | 422 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -632,26 +635,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.20 – Palazzo della Borsa – Teil 20/38 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.144
+- **Blöcke:** 1.175
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 577 |
-| Polierter Andesit | `polished_andesite` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 198 |
-| Glatter Stein | `smooth_stone` | 168 |
+| Endsteinziegel | `end_stone_bricks` | 753 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Grüner Beton | `green_concrete` | 90 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -663,26 +667,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.21 – Palazzo della Borsa – Teil 21/38 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.144
+- **Blöcke:** 1.175
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 577 |
-| Polierter Andesit | `polished_andesite` | 211 |
-| Graues Buntglas | `gray_stained_glass` | 198 |
-| Glatter Stein | `smooth_stone` | 158 |
+| Endsteinziegel | `end_stone_bricks` | 763 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Grüner Beton | `green_concrete` | 90 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -694,26 +699,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.22 – Palazzo della Borsa – Teil 22/38 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.144
+- **Blöcke:** 1.175
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 577 |
-| Polierter Andesit | `polished_andesite` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 198 |
-| Glatter Stein | `smooth_stone` | 168 |
+| Endsteinziegel | `end_stone_bricks` | 753 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Grüner Beton | `green_concrete` | 90 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -725,26 +731,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.23 – Palazzo della Borsa – Teil 23/38 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.144
+- **Blöcke:** 1.175
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 577 |
-| Polierter Andesit | `polished_andesite` | 211 |
-| Graues Buntglas | `gray_stained_glass` | 198 |
-| Glatter Stein | `smooth_stone` | 158 |
+| Endsteinziegel | `end_stone_bricks` | 763 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Grüner Beton | `green_concrete` | 90 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -756,26 +763,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.24 – Palazzo della Borsa – Teil 24/38 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.144
+- **Blöcke:** 1.175
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 577 |
-| Polierter Andesit | `polished_andesite` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 198 |
-| Glatter Stein | `smooth_stone` | 168 |
+| Endsteinziegel | `end_stone_bricks` | 753 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Grüner Beton | `green_concrete` | 90 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -787,26 +795,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.25 – Palazzo della Borsa – Teil 25/38 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.144
+- **Blöcke:** 1.175
 - **Bauteile:** `r1602101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 577 |
-| Polierter Andesit | `polished_andesite` | 211 |
-| Graues Buntglas | `gray_stained_glass` | 198 |
-| Glatter Stein | `smooth_stone` | 158 |
+| Endsteinziegel | `end_stone_bricks` | 763 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Grüner Beton | `green_concrete` | 90 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -818,7 +827,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.26 – Palazzo della Borsa – Teil 26/38 (Y 82–82)
 
@@ -830,13 +839,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 740 |
-| Glatter Stein | `smooth_stone` | 367 |
-| Polierter Andesit | `polished_andesite` | 201 |
+| Endsteinziegel | `end_stone_bricks` | 978 |
+| Glatter Stein | `smooth_stone` | 316 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -848,7 +857,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.27 – Palazzo della Borsa – Teil 27/38 (Y 83–83)
 
@@ -860,14 +869,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 740 |
-| Polierter Andesit | `polished_andesite` | 564 |
-| Endsteinziegel | `end_stone_bricks` | 369 |
-| Glatter Stein | `smooth_stone` | 4 |
+| Endsteinziegel | `end_stone_bricks` | 1.673 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -879,7 +886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.28 – Palazzo della Borsa – Teil 28/38 (Y 84–84)
 
@@ -891,14 +898,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 740 |
-| Polierter Andesit | `polished_andesite` | 554 |
-| Endsteinziegel | `end_stone_bricks` | 369 |
-| Glatter Stein | `smooth_stone` | 14 |
+| Endsteinziegel | `end_stone_bricks` | 1.663 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -910,7 +915,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.29 – Palazzo della Borsa – Teil 29/38 (Y 85–85)
 
@@ -926,7 +931,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -938,7 +943,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.30 – Palazzo della Borsa – Teil 30/38 (Y 85–85)
 
@@ -954,7 +959,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -966,7 +971,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.31 – Palazzo della Borsa – Teil 31/38 (Y 86–86)
 
@@ -982,7 +987,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -994,7 +999,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.32 – Palazzo della Borsa – Teil 32/38 (Y 86–86)
 
@@ -1010,7 +1015,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1022,7 +1027,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.33 – Palazzo della Borsa – Teil 33/38 (Y 87–87)
 
@@ -1038,7 +1043,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1050,7 +1055,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.34 – Palazzo della Borsa – Teil 34/38 (Y 87–87)
 
@@ -1066,7 +1071,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1078,7 +1083,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.35 – Palazzo della Borsa – Teil 35/38 (Y 88–88)
 
@@ -1095,7 +1100,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1107,7 +1112,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.36 – Palazzo della Borsa – Teil 36/38 (Y 89–89)
 
@@ -1124,7 +1129,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1136,7 +1141,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.37 – Palazzo della Borsa – Teil 37/38 (Y 90–91)
 
@@ -1153,7 +1158,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1165,7 +1170,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.38 – Palazzo della Borsa – Teil 38/38 (Y 92–97) & Palazzo della Borsa: Innenausbau – Teil 1/5 (Y 61–71)
 
@@ -1196,7 +1201,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Palazzo des Ottocento (1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch), 2 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze), Angaben belegt (Sicherheit 0,75). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1208,7 +1213,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
 ### Schritt 6.39 – Palazzo della Borsa: Innenausbau – Teil 2/5 (Y 72–72)
 

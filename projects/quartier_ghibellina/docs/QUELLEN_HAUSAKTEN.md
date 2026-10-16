@@ -1,0 +1,9 @@
+# Quellen der recherchierten Hausakten – Quartier ghibellina
+
+R1a, Hausakten-Recherche. Quelle jeweils der genannte it.Wikipedia-Artikel; Geschosshöhen verteilt auf die Gebäudehöhe aus `gebaeude.json`. Was die Quelle nicht nennt (Putzfarbe, Fensterrahmen, Gesims, Dach), bleibt Annahme (siehe `notiz` der Akte).
+
+| OSM-ID | Name | Quelle | Übernommene Merkmale | Sicherheit |
+|---|---|---|---|---|
+| r10837675 | Palazzo Guicciardini Corsi Salviati | [it.Wikipedia](https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati) | Bau von Pietro Paolo Giovannozzi für Cosimo Del Sera, 1697 vollendet, drei Geschosse (zwei erhöht) mit Mezzanin im obersten, ausgewogene Öffnungsanordnung mit Mittelportal und kleiner Terrasse darüber (1696-97 genehmigt), Fenster mit Rustikarahmen und Bogenverdachungen mit Voluten (im Erdgeschoss laut Limburger einzigartig in Florenz), Balkonfenster mit gesprengtem Giebel, großes Corsi-Wappen in der Mitte | 0,75 |
+| r4098973 | Palazzo Salvetti Sebregondi | [it.Wikipedia](https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi) | von Lorenzo Sirigatti für die Della Fonte aus älteren Bauten vereinheitlicht, drei Geschosse, fünf Achsen an der Hauptfassade, Bogenfenster auf schlichten Steingurten mit Bossenrahmung (im ersten Geschoss leicht erhöht, im zweiten bündig mit der Wand), auffällige Eckrustika und Eckleuchte an der Via del Fico, verputzte Wandfläche | 0,75 |
+| w204144329 | Casa Buonarroti | [it.Wikipedia](https://it.wikipedia.org/wiki/Casa_Buonarroti) | Bau ab 1612 durch Michelangelo den Jüngeren (mit zwei Zeichnungen Michelangelos), 1964 in schlichtem Charakter restauriert, drei Geschosse über acht Achsen, Steinprofile an den Fenstern auf Steingurten, Straßenportal als Hauptmerkmal, Büste Michelangelos (1875) über dem Portal, Buonarroti-Wappen an der Ecke | 0,75 |

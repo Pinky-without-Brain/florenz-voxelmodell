@@ -131,7 +131,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -143,7 +143,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.2 – Palazzo Bartolommei-De Rossi – Teil 2/13 (Y 63–63)
 
@@ -159,7 +159,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -171,7 +171,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.3 – Palazzo Bartolommei-De Rossi – Teil 3/13 (Y 64–66)
 
@@ -190,7 +190,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -202,7 +202,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.4 – Palazzo Bartolommei-De Rossi – Teil 4/13 (Y 67–69)
 
@@ -223,7 +223,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -235,7 +235,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.5 – Palazzo Bartolommei-De Rossi – Teil 5/13 (Y 70–72)
 
@@ -256,7 +256,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -268,7 +268,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.6 – Palazzo Bartolommei-De Rossi – Teil 6/13 (Y 73–74)
 
@@ -286,7 +286,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -298,7 +298,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.7 – Palazzo Bartolommei-De Rossi – Teil 7/13 (Y 75–77)
 
@@ -318,7 +318,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -330,7 +330,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.8 – Palazzo Bartolommei-De Rossi – Teil 8/13 (Y 78–80)
 
@@ -348,7 +348,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -360,7 +360,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.9 – Palazzo Bartolommei-De Rossi – Teil 9/13 (Y 81–83)
 
@@ -380,7 +380,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -392,7 +392,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.10 – Palazzo Bartolommei-De Rossi – Teil 10/13 (Y 84–86)
 
@@ -412,7 +412,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -424,7 +424,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.11 – Palazzo Bartolommei-De Rossi – Teil 11/13 (Y 87–87)
 
@@ -440,7 +440,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -452,7 +452,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.12 – Palazzo Bartolommei-De Rossi – Teil 12/13 (Y 88–88)
 
@@ -468,7 +468,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -480,7 +480,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.13 – Palazzo Bartolommei-De Rossi – Teil 13/13 (Y 89–97)
 
@@ -497,7 +497,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -509,7 +509,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.14 – Palazzo Bartolommei-De Rossi: Innenausbau – Teil 1/4 (Y 63–73)
 

@@ -8,48 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.420.123 |
+| Blöcke | 2.420.233 |
 | Bauschritte | 1.515 |
 | Y-Bereich | 62 bis 114 |
 | X-Ausdehnung | 341 bis 1410 (1.070 Blöcke) |
 | Z-Ausdehnung | -1235 bis -324 (912 Blöcke) |
 | Kleinster Schritt | 376 Blöcke (Schritt 6.1314) |
-| Mittlerer Schritt | 1.597 Blöcke |
+| Mittlerer Schritt | 1.598 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 6.1514) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 782.167 | 32,3 % |
-| Polierter Tuffstein | `polished_tuff` | 286.067 | 11,8 % |
+| Terrakotta | `terracotta` | 782.168 | 32,3 % |
+| Polierter Tuffstein | `polished_tuff` | 286.065 | 11,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 190.920 | 7,9 % |
-| Weißer Beton | `white_concrete` | 190.600 | 7,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 159.095 | 6,6 % |
-| Tuffstein | `tuff` | 127.713 | 5,3 % |
-| Rosa Keramik | `pink_terracotta` | 121.336 | 5,0 % |
+| Weißer Beton | `white_concrete` | 190.725 | 7,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 159.091 | 6,6 % |
+| Tuffstein | `tuff` | 127.733 | 5,3 % |
+| Rosa Keramik | `pink_terracotta` | 121.405 | 5,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 117.084 | 4,8 % |
 | Orange Keramik | `orange_terracotta` | 108.446 | 4,5 % |
-| Endsteinziegel | `end_stone_bricks` | 92.856 | 3,8 % |
-| Polierter Andesit | `polished_andesite` | 73.009 | 3,0 % |
-| Glatter Stein | `smooth_stone` | 66.746 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 45.325 | 1,9 % |
-| Tuffsteinziegel | `tuff_bricks` | 12.410 | 0,5 % |
+| Endsteinziegel | `end_stone_bricks` | 92.923 | 3,8 % |
+| Polierter Andesit | `polished_andesite` | 71.832 | 3,0 % |
+| Glatter Stein | `smooth_stone` | 68.037 | 2,8 % |
+| Graues Buntglas | `gray_stained_glass` | 45.037 | 1,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 12.408 | 0,5 % |
 | Ziegelsteine | `bricks` | 11.746 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 9.450 | 0,4 % |
-| Grüner Beton | `green_concrete` | 7.750 | 0,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 6.266 | 0,3 % |
-| Seelaterne | `sea_lantern` | 4.267 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.315 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.229 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1.089 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1.023 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 486 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 442 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 352 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 336 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 273 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 273 | 0,0 % |
+| Grüner Beton | `green_concrete` | 7.754 | 0,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 6.270 | 0,3 % |
+| Seelaterne | `sea_lantern` | 4.273 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.318 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.232 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1.090 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1.024 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 502 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 458 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 340 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 316 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 267 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 267 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 12 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 11 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 10 | 0,0 % |
@@ -62,7 +62,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4.656 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4.664 |
 | Steintreppe | `stone_stairs` | 1.616 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 19 |
 
@@ -72,8 +72,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r4086115` | Renaissance-Palazzo an Via Gino Capponi | 118.969 | 6.1–6.71 |
 | 2 | `r4086115_innen` | Renaissance-Palazzo an Via Gino Capponi: Innenausbau | 43.791 | 6.71–6.93 |
-| 3 | `r4107745` | Palazzo Giugni | 25.149 | 6.94–6.109 |
-| 4 | `r4107745_innen` | Palazzo Giugni: Innenausbau | 7.699 | 6.110–6.113 |
+| 3 | `r4107745` | Palazzo Giugni | 25.244 | 6.94–6.109 |
+| 4 | `r4107745_innen` | Palazzo Giugni: Innenausbau | 7.698 | 6.110–6.113 |
 | 5 | `r6593744` | Palazzo des Ottocento an Via Laura | 34.888 | 6.114–6.139 |
 | 6 | `r6593744_innen` | Palazzo des Ottocento an Via Laura: Innenausbau | 7.613 | 6.140–6.143 |
 | 7 | `r6593745` | Renaissance-Palazzo an Via della Colonna | 19.088 | 6.144–6.154 |
@@ -218,8 +218,8 @@
 | 146 | `w481356975_innen` | Reihenhaus an Via Laura: Innenausbau | 1.389 | 6.1036 |
 | 147 | `w481356976` | Haus w481356976 | 3.056 | 6.1037–6.1038 |
 | 148 | `w481356976_innen` | Haus w481356976: Innenausbau | 1 | 6.1039 |
-| 149 | `w481356979` | Casa di Benvenuto Cellini | 13.515 | 6.1039–6.1046 |
-| 150 | `w481356979_innen` | Casa di Benvenuto Cellini: Innenausbau | 4.477 | 6.1047–6.1049 |
+| 149 | `w481356979` | Casa di Benvenuto Cellini | 13.504 | 6.1039–6.1046 |
+| 150 | `w481356979_innen` | Casa di Benvenuto Cellini: Innenausbau | 4.472 | 6.1047–6.1049 |
 | 151 | `w481356981` | Reihenhaus an Borgo Pinti | 5.750 | 6.1050–6.1052 |
 | 152 | `w481356981_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 1.325 | 6.1053 |
 | 153 | `w481356983` | Haus w481356983 | 18.189 | 6.1054–6.1063 |
@@ -256,8 +256,8 @@
 | 184 | `w481357004_innen` | Reihenhaus an Via degli Alfani: Innenausbau | 1.307 | 6.1144 |
 | 185 | `w481357005` | Reihenhaus an Via Giuseppe Giusti | 11.027 | 6.1145–6.1150 |
 | 186 | `w481357005_innen` | Reihenhaus an Via Giuseppe Giusti: Innenausbau | 3.001 | 6.1151–6.1152 |
-| 187 | `w481357006` | Renaissance-Palazzo an Via della Pergola | 15.516 | 6.1153–6.1161 |
-| 188 | `w481357006_innen` | Renaissance-Palazzo an Via della Pergola: Innenausbau | 3.153 | 6.1162–6.1163 |
+| 187 | `w481357006` | Renaissance-Palazzo an Via della Pergola | 15.536 | 6.1153–6.1161 |
+| 188 | `w481357006_innen` | Renaissance-Palazzo an Via della Pergola: Innenausbau | 3.161 | 6.1162–6.1163 |
 | 189 | `w481357007` | Palazzo des Cinquecento an Via Laura | 10.629 | 6.1164–6.1169 |
 | 190 | `w481357007_innen` | Palazzo des Cinquecento an Via Laura: Innenausbau | 2.469 | 6.1170–6.1171 |
 | 191 | `w481357009` | Reihenhaus an Via Laura | 11.081 | 6.1172–6.1177 |
@@ -276,7 +276,7 @@
 | 204 | `w481357017_innen` | Reihenhaus an Via Laura: Innenausbau | 1.320 | 6.1213 |
 | 205 | `w481357019` | Reihenhaus an Via Giuseppe Giusti | 6.736 | 6.1214–6.1217 |
 | 206 | `w481357019_innen` | Reihenhaus an Via Giuseppe Giusti: Innenausbau | 1.203 | 6.1218 |
-| 207 | `w481357020` | Reihenhaus an Via della Colonna | 11.535 | 6.1219–6.1224 |
+| 207 | `w481357020` | Reihenhaus an Via della Colonna | 11.539 | 6.1219–6.1224 |
 | 208 | `w481357020_innen` | Reihenhaus an Via della Colonna: Innenausbau | 2.462 | 6.1225–6.1226 |
 | 209 | `w481357022` | Reihenhaus an Via Laura | 9.482 | 6.1227–6.1231 |
 | 210 | `w481357022_innen` | Reihenhaus an Via Laura: Innenausbau | 2.757 | 6.1232–6.1233 |
@@ -3166,7 +3166,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3178,7 +3178,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.95 – Palazzo Giugni – Teil 2/16 (Y 67–67)
 
@@ -3194,7 +3194,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3206,23 +3206,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.96 – Palazzo Giugni – Teil 3/16 (Y 67–67)
+### Schritt 6.96 – Palazzo Giugni – Teil 3/16 (Y 67–68)
 
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.452
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 2.074
 - **Bauteile:** `r4107745`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.452 |
+| Polierter Tuffstein | `polished_tuff` | 1.451 |
+| Rosa Keramik | `pink_terracotta` | 617 |
+| Polierter Andesit | `polished_andesite` | 3 |
+| Glatter Stein | `smooth_stone` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3234,25 +3237,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.97 – Palazzo Giugni – Teil 4/16 (Y 68–70)
+### Schritt 6.97 – Palazzo Giugni – Teil 4/16 (Y 69–70)
 
-- **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.886
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.338
 - **Bauteile:** `r4107745`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.756 |
-| Polierter Andesit | `polished_andesite` | 126 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Rosa Keramik | `pink_terracotta` | 1.086 |
+| Glatter Stein | `smooth_stone` | 246 |
+| Polierter Andesit | `polished_andesite` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3264,26 +3268,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.98 – Palazzo Giugni – Teil 5/16 (Y 71–73)
+### Schritt 6.98 – Palazzo Giugni – Teil 5/16 (Y 71–72)
 
-- **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.821
+- **Y-Bereich:** 71 bis 72
+- **Blöcke:** 1.214
 - **Bauteile:** `r4107745`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.519 |
-| Polierter Andesit | `polished_andesite` | 233 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Tuffsteinziegel | `tuff_bricks` | 9 |
+| Rosa Keramik | `pink_terracotta` | 1.022 |
+| Glatter Stein | `smooth_stone` | 130 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Polierter Andesit | `polished_andesite` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3295,25 +3300,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.99 – Palazzo Giugni – Teil 6/16 (Y 74–75)
+### Schritt 6.99 – Palazzo Giugni – Teil 6/16 (Y 73–75)
 
-- **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.238
+- **Y-Bereich:** 73 bis 75
+- **Blöcke:** 1.887
 - **Bauteile:** `r4107745`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.054 |
-| Polierter Andesit | `polished_andesite` | 154 |
-| Graues Buntglas | `gray_stained_glass` | 30 |
+| Rosa Keramik | `pink_terracotta` | 1.513 |
+| Glatter Stein | `smooth_stone` | 365 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3325,25 +3331,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.100 – Palazzo Giugni – Teil 7/16 (Y 76–78)
+### Schritt 6.100 – Palazzo Giugni – Teil 7/16 (Y 76–77)
 
-- **Y-Bereich:** 76 bis 78
-- **Blöcke:** 1.907
+- **Y-Bereich:** 76 bis 77
+- **Blöcke:** 1.278
 - **Bauteile:** `r4107745`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.514 |
-| Glatter Stein | `smooth_stone` | 277 |
-| Polierter Andesit | `polished_andesite` | 116 |
+| Rosa Keramik | `pink_terracotta` | 1.162 |
+| Glatter Stein | `smooth_stone` | 116 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3355,25 +3360,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.101 – Palazzo Giugni – Teil 8/16 (Y 79–80)
+### Schritt 6.101 – Palazzo Giugni – Teil 8/16 (Y 78–80)
 
-- **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.216
+- **Y-Bereich:** 78 bis 80
+- **Blöcke:** 1.824
 - **Bauteile:** `r4107745`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.024 |
-| Polierter Andesit | `polished_andesite` | 130 |
-| Graues Buntglas | `gray_stained_glass` | 62 |
+| Rosa Keramik | `pink_terracotta` | 1.536 |
+| Glatter Stein | `smooth_stone` | 195 |
+| Graues Buntglas | `gray_stained_glass` | 93 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3385,7 +3390,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.102 – Palazzo Giugni – Teil 9/16 (Y 81–83)
 
@@ -3398,13 +3403,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.397 |
-| Glatter Stein | `smooth_stone` | 277 |
-| Polierter Andesit | `polished_andesite` | 161 |
+| Glatter Stein | `smooth_stone` | 438 |
 | Graues Buntglas | `gray_stained_glass` | 31 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3416,7 +3420,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.103 – Palazzo Giugni – Teil 10/16 (Y 84–85)
 
@@ -3429,12 +3433,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.045 |
-| Polierter Andesit | `polished_andesite` | 181 |
+| Glatter Stein | `smooth_stone` | 181 |
 | Graues Buntglas | `gray_stained_glass` | 31 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3446,7 +3450,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.104 – Palazzo Giugni – Teil 11/16 (Y 86–88)
 
@@ -3459,12 +3463,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.536 |
-| Polierter Andesit | `polished_andesite` | 195 |
+| Glatter Stein | `smooth_stone` | 195 |
 | Graues Buntglas | `gray_stained_glass` | 93 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3476,7 +3480,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.105 – Palazzo Giugni – Teil 12/16 (Y 89–90)
 
@@ -3489,12 +3493,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.162 |
-| Glatter Stein | `smooth_stone` | 429 |
-| Polierter Andesit | `polished_andesite` | 96 |
+| Glatter Stein | `smooth_stone` | 525 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3506,7 +3509,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.106 – Palazzo Giugni – Teil 13/16 (Y 91–91)
 
@@ -3522,7 +3525,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3534,7 +3537,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.107 – Palazzo Giugni – Teil 14/16 (Y 92–92)
 
@@ -3550,7 +3553,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3562,7 +3565,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.108 – Palazzo Giugni – Teil 15/16 (Y 93–94)
 
@@ -3579,7 +3582,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3591,7 +3594,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.109 – Palazzo Giugni – Teil 16/16 (Y 95–100)
 
@@ -3608,7 +3611,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (um 1570-1577 (Bartolomeo Ammannati)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -3620,12 +3623,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.110 – Palazzo Giugni: Innenausbau – Teil 1/4 (Y 67–77)
+### Schritt 6.110 – Palazzo Giugni: Innenausbau – Teil 1/4 (Y 67–75)
 
-- **Y-Bereich:** 67 bis 77
-- **Blöcke:** 1.954
+- **Y-Bereich:** 67 bis 75
+- **Blöcke:** 1.947
 - **Bauteile:** `r4107745_innen`
 
 **Teileliste**
@@ -3633,10 +3636,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.874 |
-| Seelaterne | `sea_lantern` | 31 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Seelaterne | `sea_lantern` | 32 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -3645,7 +3648,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -3664,9 +3667,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.111 – Palazzo Giugni: Innenausbau – Teil 2/4 (Y 77–77)
+### Schritt 6.111 – Palazzo Giugni: Innenausbau – Teil 2/4 (Y 75–75)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.910
 - **Bauteile:** `r4107745_innen`
 
@@ -3674,8 +3677,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.899 |
-| Seelaterne | `sea_lantern` | 11 |
+| Terrakotta | `terracotta` | 1.898 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Beschreibung**
 
@@ -3693,10 +3696,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.112 – Palazzo Giugni: Innenausbau – Teil 3/4 (Y 78–83)
+### Schritt 6.112 – Palazzo Giugni: Innenausbau – Teil 3/4 (Y 76–83)
 
-- **Y-Bereich:** 78 bis 83
-- **Blöcke:** 1.916
+- **Y-Bereich:** 76 bis 83
+- **Blöcke:** 1.926
 - **Bauteile:** `r4107745_innen`
 
 **Teileliste**
@@ -3704,18 +3707,18 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.874 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 4 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 12 |
+| Steintreppe | `stone_stairs` | 16 |
 
 **Beschreibung**
 
@@ -3736,20 +3739,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.113 – Palazzo Giugni: Innenausbau – Teil 4/4 (Y 83–84)
 
 - **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.919
+- **Blöcke:** 1.915
 - **Bauteile:** `r4107745_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.899 |
-| Seelaterne | `sea_lantern` | 11 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Terrakotta | `terracotta` | 1.898 |
+| Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -13108,7 +13111,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13120,7 +13123,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.412 – Palazzo della Crocetta – Teil 2/81 (Y 68–68)
 
@@ -13136,7 +13139,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13148,7 +13151,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.413 – Palazzo della Crocetta – Teil 3/81 (Y 68–68)
 
@@ -13164,7 +13167,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13176,7 +13179,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.414 – Palazzo della Crocetta – Teil 4/81 (Y 68–68)
 
@@ -13192,7 +13195,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13204,7 +13207,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.415 – Palazzo della Crocetta – Teil 5/81 (Y 68–68)
 
@@ -13220,7 +13223,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13232,7 +13235,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.416 – Palazzo della Crocetta – Teil 6/81 (Y 68–68)
 
@@ -13248,7 +13251,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13260,7 +13263,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.417 – Palazzo della Crocetta – Teil 7/81 (Y 68–68)
 
@@ -13276,7 +13279,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13288,7 +13291,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.418 – Palazzo della Crocetta – Teil 8/81 (Y 68–68)
 
@@ -13304,7 +13307,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13316,7 +13319,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.419 – Palazzo della Crocetta – Teil 9/81 (Y 68–68)
 
@@ -13332,7 +13335,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13344,7 +13347,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.420 – Palazzo della Crocetta – Teil 10/81 (Y 68–68)
 
@@ -13360,7 +13363,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13372,7 +13375,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.421 – Palazzo della Crocetta – Teil 11/81 (Y 69–69)
 
@@ -13390,7 +13393,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13402,7 +13405,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.422 – Palazzo della Crocetta – Teil 12/81 (Y 69–69)
 
@@ -13419,7 +13422,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13431,7 +13434,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.423 – Palazzo della Crocetta – Teil 13/81 (Y 70–70)
 
@@ -13450,7 +13453,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13462,7 +13465,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.424 – Palazzo della Crocetta – Teil 14/81 (Y 70–70)
 
@@ -13479,7 +13482,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13491,7 +13494,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.425 – Palazzo della Crocetta – Teil 15/81 (Y 71–71)
 
@@ -13510,7 +13513,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13522,7 +13525,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.426 – Palazzo della Crocetta – Teil 16/81 (Y 71–71)
 
@@ -13540,7 +13543,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13552,7 +13555,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.427 – Palazzo della Crocetta – Teil 17/81 (Y 72–72)
 
@@ -13573,7 +13576,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13585,7 +13588,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.428 – Palazzo della Crocetta – Teil 18/81 (Y 72–72)
 
@@ -13605,7 +13608,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13617,7 +13620,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.429 – Palazzo della Crocetta – Teil 19/81 (Y 73–73)
 
@@ -13637,7 +13640,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13649,7 +13652,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.430 – Palazzo della Crocetta – Teil 20/81 (Y 73–73)
 
@@ -13669,7 +13672,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13681,7 +13684,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.431 – Palazzo della Crocetta – Teil 21/81 (Y 74–74)
 
@@ -13695,14 +13698,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.054 |
 | Weißer Beton | `white_concrete` | 198 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Polierter Andesit | `polished_andesite` | 106 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 | Glatter Stein | `smooth_stone` | 1 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13714,7 +13716,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.432 – Palazzo della Crocetta – Teil 22/81 (Y 74–74)
 
@@ -13728,13 +13730,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.070 |
 | Weißer Beton | `white_concrete` | 187 |
-| Graues Buntglas | `gray_stained_glass` | 95 |
+| Polierter Andesit | `polished_andesite` | 98 |
 | Grüner Beton | `green_concrete` | 4 |
-| Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13746,7 +13747,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.433 – Palazzo della Crocetta – Teil 23/81 (Y 75–75)
 
@@ -13766,7 +13767,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13778,7 +13779,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.434 – Palazzo della Crocetta – Teil 24/81 (Y 75–75)
 
@@ -13798,7 +13799,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13810,7 +13811,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.435 – Palazzo della Crocetta – Teil 25/81 (Y 76–76)
 
@@ -13829,7 +13830,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13841,7 +13842,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.436 – Palazzo della Crocetta – Teil 26/81 (Y 76–76)
 
@@ -13853,14 +13854,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.074 |
+| Glatter Sandstein | `smooth_sandstone` | 1.070 |
 | Weißer Beton | `white_concrete` | 187 |
 | Graues Buntglas | `gray_stained_glass` | 95 |
+| Grüner Beton | `green_concrete` | 4 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13872,7 +13874,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.437 – Palazzo della Crocetta – Teil 27/81 (Y 77–77)
 
@@ -13890,7 +13892,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13902,7 +13904,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.438 – Palazzo della Crocetta – Teil 28/81 (Y 77–77)
 
@@ -13920,7 +13922,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13932,7 +13934,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.439 – Palazzo della Crocetta – Teil 29/81 (Y 78–78)
 
@@ -13949,7 +13951,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13961,7 +13963,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.440 – Palazzo della Crocetta – Teil 30/81 (Y 78–78)
 
@@ -13978,7 +13980,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -13990,7 +13992,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.441 – Palazzo della Crocetta – Teil 31/81 (Y 79–79)
 
@@ -14007,7 +14009,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14019,7 +14021,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.442 – Palazzo della Crocetta – Teil 32/81 (Y 79–79)
 
@@ -14036,7 +14038,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14048,7 +14050,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.443 – Palazzo della Crocetta – Teil 33/81 (Y 80–80)
 
@@ -14065,7 +14067,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14077,7 +14079,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.444 – Palazzo della Crocetta – Teil 34/81 (Y 80–80)
 
@@ -14094,7 +14096,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14106,7 +14108,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.445 – Palazzo della Crocetta – Teil 35/81 (Y 81–81)
 
@@ -14124,7 +14126,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14136,7 +14138,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.446 – Palazzo della Crocetta – Teil 36/81 (Y 81–81)
 
@@ -14154,7 +14156,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14166,7 +14168,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.447 – Palazzo della Crocetta – Teil 37/81 (Y 82–82)
 
@@ -14185,7 +14187,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14197,7 +14199,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.448 – Palazzo della Crocetta – Teil 38/81 (Y 82–82)
 
@@ -14217,7 +14219,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14229,7 +14231,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.449 – Palazzo della Crocetta – Teil 39/81 (Y 83–83)
 
@@ -14248,7 +14250,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14260,7 +14262,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.450 – Palazzo della Crocetta – Teil 40/81 (Y 83–83)
 
@@ -14280,7 +14282,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14292,7 +14294,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.451 – Palazzo della Crocetta – Teil 41/81 (Y 84–84)
 
@@ -14311,7 +14313,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14323,7 +14325,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.452 – Palazzo della Crocetta – Teil 42/81 (Y 84–84)
 
@@ -14343,7 +14345,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14355,7 +14357,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.453 – Palazzo della Crocetta – Teil 43/81 (Y 85–85)
 
@@ -14374,7 +14376,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14386,7 +14388,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.454 – Palazzo della Crocetta – Teil 44/81 (Y 85–85)
 
@@ -14406,7 +14408,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14418,370 +14420,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.455 – Palazzo della Crocetta – Teil 45/81 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.419
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.110 |
-| Weißer Beton | `white_concrete` | 306 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.456 – Palazzo della Crocetta – Teil 46/81 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.411
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.126 |
-| Weißer Beton | `white_concrete` | 282 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.457 – Palazzo della Crocetta – Teil 47/81 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.419
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 904 |
-| Weißer Beton | `white_concrete` | 510 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.458 – Palazzo della Crocetta – Teil 48/81 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.411
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 940 |
-| Weißer Beton | `white_concrete` | 463 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.459 – Palazzo della Crocetta – Teil 49/81 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.419
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 828 |
-| Glatter Sandstein | `smooth_sandstone` | 591 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.460 – Palazzo della Crocetta – Teil 50/81 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.411
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 709 |
-| Glatter Sandstein | `smooth_sandstone` | 702 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.461 – Palazzo della Crocetta – Teil 51/81 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.419
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.412 |
-| Polierter Andesit | `polished_andesite` | 7 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.462 – Palazzo della Crocetta – Teil 52/81 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.411
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.403 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.463 – Palazzo della Crocetta – Teil 53/81 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.419
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.110 |
-| Weißer Beton | `white_concrete` | 306 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.464 – Palazzo della Crocetta – Teil 54/81 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.411
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.126 |
-| Weißer Beton | `white_concrete` | 282 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.465 – Palazzo della Crocetta – Teil 55/81 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.362
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.049 |
-| Weißer Beton | `white_concrete` | 203 |
-| Graues Buntglas | `gray_stained_glass` | 103 |
-| Polierter Andesit | `polished_andesite` | 7 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.466 – Palazzo della Crocetta – Teil 56/81 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.359
-- **Bauteile:** `r19738392`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.065 |
-| Weißer Beton | `white_concrete` | 187 |
-| Graues Buntglas | `gray_stained_glass` | 95 |
-| Polierter Andesit | `polished_andesite` | 8 |
-| Grüner Beton | `green_concrete` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.467 – Palazzo della Crocetta – Teil 57/81 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.362
 - **Bauteile:** `r19738392`
 
@@ -14796,7 +14439,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14808,11 +14451,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.468 – Palazzo della Crocetta – Teil 58/81 (Y 92–92)
+### Schritt 6.456 – Palazzo della Crocetta – Teil 46/81 (Y 86–86)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.359
 - **Bauteile:** `r19738392`
 
@@ -14828,7 +14471,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14840,7 +14483,366 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.457 – Palazzo della Crocetta – Teil 47/81 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.362
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.049 |
+| Weißer Beton | `white_concrete` | 203 |
+| Graues Buntglas | `gray_stained_glass` | 103 |
+| Polierter Andesit | `polished_andesite` | 7 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.458 – Palazzo della Crocetta – Teil 48/81 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.359
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.065 |
+| Weißer Beton | `white_concrete` | 187 |
+| Graues Buntglas | `gray_stained_glass` | 95 |
+| Polierter Andesit | `polished_andesite` | 8 |
+| Grüner Beton | `green_concrete` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.459 – Palazzo della Crocetta – Teil 49/81 (Y 88–88)
+
+- **Y-Bereich:** 88 bis 88
+- **Blöcke:** 1.419
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.110 |
+| Weißer Beton | `white_concrete` | 306 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.460 – Palazzo della Crocetta – Teil 50/81 (Y 88–88)
+
+- **Y-Bereich:** 88 bis 88
+- **Blöcke:** 1.411
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.126 |
+| Weißer Beton | `white_concrete` | 282 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.461 – Palazzo della Crocetta – Teil 51/81 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
+- **Blöcke:** 1.419
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 904 |
+| Weißer Beton | `white_concrete` | 510 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.462 – Palazzo della Crocetta – Teil 52/81 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
+- **Blöcke:** 1.411
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 940 |
+| Weißer Beton | `white_concrete` | 463 |
+| Polierter Andesit | `polished_andesite` | 8 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.463 – Palazzo della Crocetta – Teil 53/81 (Y 90–90)
+
+- **Y-Bereich:** 90 bis 90
+- **Blöcke:** 1.419
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 828 |
+| Glatter Sandstein | `smooth_sandstone` | 591 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.464 – Palazzo della Crocetta – Teil 54/81 (Y 90–90)
+
+- **Y-Bereich:** 90 bis 90
+- **Blöcke:** 1.411
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 709 |
+| Glatter Sandstein | `smooth_sandstone` | 702 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.465 – Palazzo della Crocetta – Teil 55/81 (Y 91–91)
+
+- **Y-Bereich:** 91 bis 91
+- **Blöcke:** 1.419
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.412 |
+| Polierter Andesit | `polished_andesite` | 7 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.466 – Palazzo della Crocetta – Teil 56/81 (Y 91–91)
+
+- **Y-Bereich:** 91 bis 91
+- **Blöcke:** 1.411
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.403 |
+| Polierter Andesit | `polished_andesite` | 8 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.467 – Palazzo della Crocetta – Teil 57/81 (Y 92–92)
+
+- **Y-Bereich:** 92 bis 92
+- **Blöcke:** 1.419
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.110 |
+| Weißer Beton | `white_concrete` | 306 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.468 – Palazzo della Crocetta – Teil 58/81 (Y 92–92)
+
+- **Y-Bereich:** 92 bis 92
+- **Blöcke:** 1.411
+- **Bauteile:** `r19738392`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.126 |
+| Weißer Beton | `white_concrete` | 282 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.469 – Palazzo della Crocetta – Teil 59/81 (Y 93–93)
 
@@ -14859,7 +14861,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14871,7 +14873,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.470 – Palazzo della Crocetta – Teil 60/81 (Y 93–93)
 
@@ -14891,7 +14893,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14903,7 +14905,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.471 – Palazzo della Crocetta – Teil 61/81 (Y 94–94)
 
@@ -14922,7 +14924,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14934,7 +14936,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.472 – Palazzo della Crocetta – Teil 62/81 (Y 94–94)
 
@@ -14954,7 +14956,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14966,7 +14968,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.473 – Palazzo della Crocetta – Teil 63/81 (Y 95–95)
 
@@ -14985,7 +14987,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -14997,7 +14999,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.474 – Palazzo della Crocetta – Teil 64/81 (Y 95–95)
 
@@ -15017,7 +15019,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15029,7 +15031,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.475 – Palazzo della Crocetta – Teil 65/81 (Y 96–96)
 
@@ -15047,7 +15049,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15059,7 +15061,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.476 – Palazzo della Crocetta – Teil 66/81 (Y 96–96)
 
@@ -15077,7 +15079,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15089,7 +15091,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.477 – Palazzo della Crocetta – Teil 67/81 (Y 97–97)
 
@@ -15107,7 +15109,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15119,7 +15121,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.478 – Palazzo della Crocetta – Teil 68/81 (Y 97–97)
 
@@ -15137,7 +15139,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15149,7 +15151,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.479 – Palazzo della Crocetta – Teil 69/81 (Y 98–98)
 
@@ -15166,7 +15168,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15178,7 +15180,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.480 – Palazzo della Crocetta – Teil 70/81 (Y 98–98)
 
@@ -15195,7 +15197,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15207,7 +15209,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.481 – Palazzo della Crocetta – Teil 71/81 (Y 98–98)
 
@@ -15224,7 +15226,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15236,7 +15238,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.482 – Palazzo della Crocetta – Teil 72/81 (Y 98–98)
 
@@ -15254,7 +15256,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15266,7 +15268,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.483 – Palazzo della Crocetta – Teil 73/81 (Y 98–98)
 
@@ -15283,7 +15285,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15295,7 +15297,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.484 – Palazzo della Crocetta – Teil 74/81 (Y 98–98)
 
@@ -15312,7 +15314,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15324,7 +15326,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.485 – Palazzo della Crocetta – Teil 75/81 (Y 98–98)
 
@@ -15341,7 +15343,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15353,7 +15355,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.486 – Palazzo della Crocetta – Teil 76/81 (Y 98–98)
 
@@ -15370,7 +15372,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15382,7 +15384,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.487 – Palazzo della Crocetta – Teil 77/81 (Y 98–98)
 
@@ -15400,7 +15402,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15412,7 +15414,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.488 – Palazzo della Crocetta – Teil 78/81 (Y 99–99)
 
@@ -15428,7 +15430,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15440,7 +15442,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.489 – Palazzo della Crocetta – Teil 79/81 (Y 99–99)
 
@@ -15456,7 +15458,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15468,7 +15470,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.490 – Palazzo della Crocetta – Teil 80/81 (Y 100–100)
 
@@ -15484,7 +15486,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15496,7 +15498,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.491 – Palazzo della Crocetta – Teil 81/81 (Y 100–100)
 
@@ -15512,7 +15514,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1619-1651 (Giulio Parigi), spätmanieristisch), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Crocetta, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -15524,7 +15526,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.492 – Palazzo della Crocetta: Innenausbau – Teil 1/16 (Y 68–79)
 
@@ -15781,10 +15783,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.500 – Palazzo della Crocetta: Innenausbau – Teil 9/16 (Y 80–88)
+### Schritt 6.500 – Palazzo della Crocetta: Innenausbau – Teil 9/16 (Y 80–90)
 
-- **Y-Bereich:** 80 bis 88
-- **Blöcke:** 1.981
+- **Y-Bereich:** 80 bis 90
+- **Blöcke:** 1.989
 - **Bauteile:** `r19738392_innen`
 
 **Teileliste**
@@ -15792,10 +15794,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.927 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -15806,7 +15808,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -15825,9 +15827,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.501 – Palazzo della Crocetta: Innenausbau – Teil 10/16 (Y 88–88)
+### Schritt 6.501 – Palazzo della Crocetta: Innenausbau – Teil 10/16 (Y 90–90)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.912
 - **Bauteile:** `r19738392_innen`
 
@@ -15854,9 +15856,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.502 – Palazzo della Crocetta: Innenausbau – Teil 11/16 (Y 88–88)
+### Schritt 6.502 – Palazzo della Crocetta: Innenausbau – Teil 11/16 (Y 90–90)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.909
 - **Bauteile:** `r19738392_innen`
 
@@ -15883,9 +15885,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.503 – Palazzo della Crocetta: Innenausbau – Teil 12/16 (Y 88–88)
+### Schritt 6.503 – Palazzo della Crocetta: Innenausbau – Teil 12/16 (Y 90–90)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.924
 - **Bauteile:** `r19738392_innen`
 
@@ -15912,9 +15914,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.504 – Palazzo della Crocetta: Innenausbau – Teil 13/16 (Y 88–88)
+### Schritt 6.504 – Palazzo della Crocetta: Innenausbau – Teil 13/16 (Y 90–90)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.887
 - **Bauteile:** `r19738392_innen`
 
@@ -15941,9 +15943,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.505 – Palazzo della Crocetta: Innenausbau – Teil 14/16 (Y 88–88)
+### Schritt 6.505 – Palazzo della Crocetta: Innenausbau – Teil 14/16 (Y 90–90)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.962
 - **Bauteile:** `r19738392_innen`
 
@@ -15977,9 +15979,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.506 – Palazzo della Crocetta: Innenausbau – Teil 15/16 (Y 88–88)
+### Schritt 6.506 – Palazzo della Crocetta: Innenausbau – Teil 15/16 (Y 90–90)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.922
 - **Bauteile:** `r19738392_innen`
 
@@ -16013,10 +16015,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.507 – Palazzo della Crocetta: Innenausbau – Teil 16/16 (Y 88–98)
+### Schritt 6.507 – Palazzo della Crocetta: Innenausbau – Teil 16/16 (Y 90–98)
 
-- **Y-Bereich:** 88 bis 98
-- **Blöcke:** 1.954
+- **Y-Bereich:** 90 bis 98
+- **Blöcke:** 1.946
 - **Bauteile:** `r19738392_innen`
 
 **Teileliste**
@@ -16024,10 +16026,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.894 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
 
@@ -16035,7 +16037,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
 
 **Beschreibung**
 
@@ -32925,9 +32927,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.1039 – Haus w481356976: Innenausbau & Casa di Benvenuto Cellini – Teil 1/8 (Y 67–67)
+### Schritt 6.1039 – Haus w481356976: Innenausbau & Casa di Benvenuto Cellini – Teil 1/8 (Y 66–66)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.762
 - **Bauteile:** `w481356976_innen`, `w481356979`
 
@@ -32940,7 +32942,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -32952,27 +32954,27 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.1040 – Casa di Benvenuto Cellini – Teil 2/8 (Y 68–73)
+### Schritt 6.1040 – Casa di Benvenuto Cellini – Teil 2/8 (Y 67–71)
 
-- **Y-Bereich:** 68 bis 73
-- **Blöcke:** 1.758
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.511
 - **Bauteile:** `w481356979`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.382 |
-| Graues Buntglas | `gray_stained_glass` | 149 |
-| Weißer Beton | `white_concrete` | 112 |
-| Glatter Stein | `smooth_stone` | 103 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Endsteinziegel | `end_stone_bricks` | 1.260 |
+| Weißer Beton | `white_concrete` | 175 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Polierter Andesit | `polished_andesite` | 19 |
+| Glatter Stein | `smooth_stone` | 19 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -32984,26 +32986,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.1041 – Casa di Benvenuto Cellini – Teil 3/8 (Y 74–78)
+### Schritt 6.1041 – Casa di Benvenuto Cellini – Teil 3/8 (Y 72–77)
 
-- **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.554
+- **Y-Bereich:** 72 bis 77
+- **Blöcke:** 1.867
 - **Bauteile:** `w481356979`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.357 |
-| Weißer Beton | `white_concrete` | 140 |
-| Glatter Stein | `smooth_stone` | 36 |
+| Endsteinziegel | `end_stone_bricks` | 1.685 |
+| Weißer Beton | `white_concrete` | 161 |
 | Graues Buntglas | `gray_stained_glass` | 21 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -33015,25 +33016,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.1042 – Casa di Benvenuto Cellini – Teil 4/8 (Y 79–83)
+### Schritt 6.1042 – Casa di Benvenuto Cellini – Teil 4/8 (Y 78–82)
 
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.532
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.521
 - **Bauteile:** `w481356979`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.284 |
-| Weißer Beton | `white_concrete` | 185 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
+| Endsteinziegel | `end_stone_bricks` | 1.211 |
+| Weißer Beton | `white_concrete` | 226 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -33045,11 +33046,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.1043 – Casa di Benvenuto Cellini – Teil 5/8 (Y 84–89)
+### Schritt 6.1043 – Casa di Benvenuto Cellini – Teil 5/8 (Y 83–88)
 
-- **Y-Bereich:** 84 bis 89
+- **Y-Bereich:** 83 bis 88
 - **Blöcke:** 1.834
 - **Bauteile:** `w481356979`
 
@@ -33063,7 +33064,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -33075,25 +33076,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.1044 – Casa di Benvenuto Cellini – Teil 6/8 (Y 90–95)
+### Schritt 6.1044 – Casa di Benvenuto Cellini – Teil 6/8 (Y 89–93)
 
-- **Y-Bereich:** 90 bis 95
-- **Blöcke:** 1.834
+- **Y-Bereich:** 89 bis 93
+- **Blöcke:** 1.532
 - **Bauteile:** `w481356979`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.524 |
-| Weißer Beton | `white_concrete` | 226 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
+| Endsteinziegel | `end_stone_bricks` | 1.284 |
+| Weißer Beton | `white_concrete` | 185 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -33105,25 +33106,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.1045 – Casa di Benvenuto Cellini – Teil 7/8 (Y 96–98)
+### Schritt 6.1045 – Casa di Benvenuto Cellini – Teil 7/8 (Y 94–97)
 
-- **Y-Bereich:** 96 bis 98
-- **Blöcke:** 1.763
+- **Y-Bereich:** 94 bis 97
+- **Blöcke:** 1.999
 - **Bauteile:** `w481356979`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 974 |
 | Terrakotta | `terracotta` | 901 |
-| Endsteinziegel | `end_stone_bricks` | 800 |
-| Weißer Beton | `white_concrete` | 62 |
+| Weißer Beton | `white_concrete` | 103 |
+| Graues Buntglas | `gray_stained_glass` | 21 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -33135,11 +33137,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.1046 – Casa di Benvenuto Cellini – Teil 8/8 (Y 99–105)
+### Schritt 6.1046 – Casa di Benvenuto Cellini – Teil 8/8 (Y 98–104)
 
-- **Y-Bereich:** 99 bis 105
+- **Y-Bereich:** 98 bis 104
 - **Blöcke:** 1.479
 - **Bauteile:** `w481356979`
 
@@ -33152,7 +33154,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -33164,12 +33166,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.1047 – Casa di Benvenuto Cellini: Innenausbau – Teil 1/3 (Y 67–76)
+### Schritt 6.1047 – Casa di Benvenuto Cellini: Innenausbau – Teil 1/3 (Y 66–74)
 
-- **Y-Bereich:** 67 bis 76
-- **Blöcke:** 1.500
+- **Y-Bereich:** 66 bis 74
+- **Blöcke:** 1.496
 - **Bauteile:** `w481356979_innen`
 
 **Teileliste**
@@ -33177,20 +33179,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.440 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Seelaterne | `sea_lantern` | 18 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -33204,10 +33206,50 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.1048 – Casa di Benvenuto Cellini: Innenausbau – Teil 2/3 (Y 77–83)
+### Schritt 6.1048 – Casa di Benvenuto Cellini: Innenausbau – Teil 2/3 (Y 75–82)
 
-- **Y-Bereich:** 77 bis 83
-- **Blöcke:** 1.488
+- **Y-Bereich:** 75 bis 82
+- **Blöcke:** 1.490
+- **Bauteile:** `w481356979_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.440 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 23 |
+| Seelaterne | `sea_lantern` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 6.1049 – Casa di Benvenuto Cellini: Innenausbau – Teil 3/3 (Y 83–90)
+
+- **Y-Bereich:** 83 bis 90
+- **Blöcke:** 1.486
 - **Bauteile:** `w481356979_innen`
 
 **Teileliste**
@@ -33221,8 +33263,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -33232,47 +33272,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 6.1049 – Casa di Benvenuto Cellini: Innenausbau – Teil 3/3 (Y 84–91)
-
-- **Y-Bereich:** 84 bis 91
-- **Blöcke:** 1.489
-- **Bauteile:** `w481356979_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.440 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 14 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -36705,14 +36705,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.1153 – Renaissance-Palazzo an Via della Pergola – Teil 1/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.887
+- **Blöcke:** 1.886
 - **Bauteile:** `w481357006`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.887 |
+| Polierter Tuffstein | `polished_tuff` | 1.886 |
 
 **Beschreibung**
 
@@ -36922,16 +36922,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.1160 – Renaissance-Palazzo an Via della Pergola – Teil 8/9 (Y 96–98)
 
 - **Y-Bereich:** 96 bis 98
-- **Blöcke:** 1.791
+- **Blöcke:** 1.812
 - **Bauteile:** `w481357006`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 863 |
+| Terrakotta | `terracotta` | 864 |
 | Polierter Andesit | `polished_andesite` | 433 |
-| Tuffstein | `tuff` | 284 |
+| Tuffstein | `tuff` | 304 |
 | Endsteinziegel | `end_stone_bricks` | 202 |
 | Glatter Stein | `smooth_stone` | 9 |
 
@@ -36983,24 +36983,28 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.1162 – Renaissance-Palazzo an Via della Pergola: Innenausbau – Teil 1/2 (Y 67–78)
 
 - **Y-Bereich:** 67 bis 78
-- **Blöcke:** 1.584
+- **Blöcke:** 1.588
 - **Bauteile:** `w481357006_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.516 |
+| Terrakotta | `terracotta` | 1.515 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 18 |
+| Seelaterne | `sea_lantern` | 20 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -37021,26 +37025,28 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.1163 – Renaissance-Palazzo an Via della Pergola: Innenausbau – Teil 2/2 (Y 79–88)
 
 - **Y-Bereich:** 79 bis 88
-- **Blöcke:** 1.569
+- **Blöcke:** 1.573
 - **Bauteile:** `w481357006_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.516 |
+| Terrakotta | `terracotta` | 1.515 |
 | Glatter Stein | `smooth_stone` | 24 |
+| Seelaterne | `sea_lantern` | 10 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
@@ -39040,14 +39046,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.1224 – Reihenhaus an Via della Colonna – Teil 6/6 (Y 97–104)
 
 - **Y-Bereich:** 97 bis 104
-- **Blöcke:** 2.057
+- **Blöcke:** 2.061
 - **Bauteile:** `w481357020`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.500 |
+| Terrakotta | `terracotta` | 1.504 |
 | Orange Keramik | `orange_terracotta` | 295 |
 | Fichtenholz-Bretter | `spruce_planks` | 197 |
 | Ziegelsteine | `bricks` | 65 |

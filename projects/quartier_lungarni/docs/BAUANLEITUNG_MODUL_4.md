@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 109.192 |
+| Blöcke | 109.728 |
 | Bauschritte | 65 |
 | Y-Bereich | 60 bis 115 |
-| X-Ausdehnung | -95 bis 45 (141 Blöcke) |
-| Z-Ausdehnung | 998 bis 1192 (195 Blöcke) |
+| X-Ausdehnung | -95 bis 48 (144 Blöcke) |
+| Z-Ausdehnung | 995 bis 1192 (198 Blöcke) |
 | Kleinster Schritt | 547 Blöcke (Schritt 4.60) |
-| Mittlerer Schritt | 1.680 Blöcke |
-| Größter Schritt | 2.086 Blöcke (Schritt 4.16) |
+| Mittlerer Schritt | 1.688 Blöcke |
+| Größter Schritt | 2.089 Blöcke (Schritt 4.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 36.269 | 33,2 % |
-| Endsteinziegel | `end_stone_bricks` | 23.218 | 21,3 % |
+| Terrakotta | `terracotta` | 36.400 | 33,2 % |
+| Endsteinziegel | `end_stone_bricks` | 23.218 | 21,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 13.480 | 12,3 % |
 | Polierter Tuffstein | `polished_tuff` | 9.173 | 8,4 % |
-| Glatter Stein | `smooth_stone` | 6.067 | 5,6 % |
+| Glatter Stein | `smooth_stone` | 6.513 | 5,9 % |
 | Weißer Beton | `white_concrete` | 5.327 | 4,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.797 | 3,5 % |
 | Orange Keramik | `orange_terracotta` | 2.958 | 2,7 % |
-| Graues Buntglas | `gray_stained_glass` | 1.817 | 1,7 % |
+| Graues Buntglas | `gray_stained_glass` | 1.806 | 1,6 % |
 | Tuffstein | `tuff` | 1.530 | 1,4 % |
-| Polierter Andesit | `polished_andesite` | 1.109 | 1,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 820 | 0,8 % |
+| Polierter Andesit | `polished_andesite` | 1.079 | 1,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 820 | 0,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 721 | 0,7 % |
 | Rosa Keramik | `pink_terracotta` | 599 | 0,5 % |
 | Ziegelsteine | `bricks` | 529 | 0,5 % |
@@ -65,7 +65,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w115535254` | Reihenhaus an Via dei Castellani | 8.266 | 4.1–4.5 |
 | 2 | `w115535254_innen` | Reihenhaus an Via dei Castellani: Innenausbau | 2.084 | 4.6 |
-| 3 | `w307129126` | Loggia del Grano | 9.391 | 4.7–4.11 |
+| 3 | `w307129126` | Loggia del Grano | 9.927 | 4.7–4.11 |
 | 4 | `w307129126_innen` | Loggia del Grano: Innenausbau | 2.507 | 4.12–4.13 |
 | 5 | `w307129129` | Ex-Cinema Capitol | 18.440 | 4.14–4.23 |
 | 6 | `w307129129_innen` | Ex-Cinema Capitol: Innenausbau | 8.189 | 4.24–4.27 |
@@ -305,7 +305,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Loggia (14.–15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Loggia (1619 (Giulio Parigi), Obergeschoss 1868), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Grano, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -317,26 +317,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.8 – Loggia del Grano – Teil 2/5 (Y 66–73)
+### Schritt 4.8 – Loggia del Grano – Teil 2/5 (Y 66–74)
 
-- **Y-Bereich:** 66 bis 73
-- **Blöcke:** 1.852
+- **Y-Bereich:** 66 bis 74
+- **Blöcke:** 2.086
 - **Bauteile:** `w307129126`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.290 |
-| Tuffstein | `tuff` | 408 |
-| Polierter Andesit | `polished_andesite` | 143 |
-| Graues Buntglas | `gray_stained_glass` | 11 |
+| Glatter Stein | `smooth_stone` | 1.432 |
+| Tuffstein | `tuff` | 459 |
+| Polierter Andesit | `polished_andesite` | 173 |
+| Graues Buntglas | `gray_stained_glass` | 22 |
 
 **Beschreibung**
 
-Loggia (14.–15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Loggia (1619 (Giulio Parigi), Obergeschoss 1868), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Grano, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -348,42 +348,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.9 – Loggia del Grano – Teil 3/5 (Y 74–81)
+### Schritt 4.9 – Loggia del Grano – Teil 3/5 (Y 75–82)
 
-- **Y-Bereich:** 74 bis 81
-- **Blöcke:** 1.892
-- **Bauteile:** `w307129126`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.150 |
-| Tuffstein | `tuff` | 408 |
-| Polierter Andesit | `polished_andesite` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-
-**Beschreibung**
-
-Loggia (14.–15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.10 – Loggia del Grano – Teil 4/5 (Y 82–89)
-
-- **Y-Bereich:** 82 bis 89
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.899
 - **Bauteile:** `w307129126`
 
@@ -398,7 +367,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Loggia (14.–15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Loggia (1619 (Giulio Parigi), Obergeschoss 1868), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Grano, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -410,27 +379,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.11 – Loggia del Grano – Teil 5/5 (Y 90–98)
+### Schritt 4.10 – Loggia del Grano – Teil 4/5 (Y 83–90)
 
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 1.844
+- **Y-Bereich:** 83 bis 90
+- **Blöcke:** 2.089
 - **Bauteile:** `w307129126`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.290 |
-| Glatter Stein | `smooth_stone` | 339 |
-| Tuffstein | `tuff` | 102 |
-| Ziegelsteine | `bricks` | 72 |
-| Polierter Andesit | `polished_andesite` | 41 |
+| Glatter Stein | `smooth_stone` | 1.388 |
+| Tuffstein | `tuff` | 408 |
+| Polierter Andesit | `polished_andesite` | 249 |
+| Graues Buntglas | `gray_stained_glass` | 44 |
 
 **Beschreibung**
 
-Loggia (14.–15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Loggia (1619 (Giulio Parigi), Obergeschoss 1868), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Grano, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -442,7 +410,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 4.11 – Loggia del Grano – Teil 5/5 (Y 91–98)
+
+- **Y-Bereich:** 91 bis 98
+- **Blöcke:** 1.949
+- **Bauteile:** `w307129126`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.421 |
+| Glatter Stein | `smooth_stone` | 405 |
+| Ziegelsteine | `bricks` | 72 |
+| Tuffstein | `tuff` | 51 |
+
+**Beschreibung**
+
+Loggia (1619 (Giulio Parigi), Obergeschoss 1868), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Grano, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.12 – Loggia del Grano: Innenausbau – Teil 1/2 (Y 61–76)
 

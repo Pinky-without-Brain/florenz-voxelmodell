@@ -8,29 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 43.165 |
+| Blöcke | 43.199 |
 | Bauschritte | 26 |
 | Y-Bereich | 60 bis 100 |
 | X-Ausdehnung | 214 bis 299 (86 Blöcke) |
 | Z-Ausdehnung | 1026 bis 1114 (89 Blöcke) |
 | Kleinster Schritt | 585 Blöcke (Schritt 1.26) |
-| Mittlerer Schritt | 1.660 Blöcke |
+| Mittlerer Schritt | 1.662 Blöcke |
 | Größter Schritt | 2.089 Blöcke (Schritt 1.22) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 16.179 | 37,5 % |
 | Terrakotta | `terracotta` | 13.963 | 32,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 10.705 | 24,8 % |
+| Tuffstein | `tuff` | 4.935 | 11,4 % |
 | Polierter Tuffstein | `polished_tuff` | 4.187 | 9,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 2.470 | 5,7 % |
 | Weißer Beton | `white_concrete` | 1.541 | 3,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 1.340 | 3,1 % |
-| Graues Buntglas | `gray_stained_glass` | 1.125 | 2,6 % |
-| Polierter Andesit | `polished_andesite` | 1.117 | 2,6 % |
+| Polierter Andesit | `polished_andesite` | 1.103 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.091 | 2,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 463 | 1,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 267 | 0,6 % |
 | Ziegelsteine | `bricks` | 222 | 0,5 % |
+| Endsteinziegel | `end_stone_bricks` | 158 | 0,4 % |
 | Glatter Stein | `smooth_stone` | 146 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 134 | 0,3 % |
 | Seelaterne | `sea_lantern` | 97 | 0,2 % |
@@ -61,7 +64,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7087288` | Reihenhaus an Via Don Giancarlo Setti | 12.605 | 1.1–1.7 |
 | 2 | `r7087288_innen` | Reihenhaus an Via Don Giancarlo Setti: Innenausbau | 2.866 | 1.8–1.9 |
-| 3 | `w238431529` | Chiesa di San Remigio | 11.357 | 1.10–1.15 |
+| 3 | `w238431529` | Chiesa di San Remigio | 11.391 | 1.10–1.15 |
 | 4 | `w238431529_innen` | Chiesa di San Remigio: Innenausbau | 3.162 | 1.16–1.17 |
 | 5 | `w481445932` | Reihenhaus an Via dei Neri | 3.550 | 1.18–1.19 |
 | 6 | `w481445932_innen` | Reihenhaus an Via dei Neri: Innenausbau | 956 | 1.20 |
@@ -378,12 +381,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.769 |
-| Gelbe Keramik | `yellow_terracotta` | 234 |
+| Tuffstein | `tuff` | 208 |
+| Tuffsteinziegel | `tuff_bricks` | 26 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (romanisch begonnen, gotischer Umbau um 1350), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -395,7 +399,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.11 – Chiesa di San Remigio – Teil 2/6 (Y 63–70)
 
@@ -407,13 +411,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.309 |
-| Polierter Andesit | `polished_andesite` | 358 |
+| Tuffstein | `tuff` | 1.182 |
+| Polierter Andesit | `polished_andesite` | 370 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
+| Tuffsteinziegel | `tuff_bricks` | 115 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (romanisch begonnen, gotischer Umbau um 1350), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -425,7 +430,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.12 – Chiesa di San Remigio – Teil 3/6 (Y 71–78)
 
@@ -437,13 +442,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.749 |
+| Tuffstein | `tuff` | 1.582 |
+| Tuffsteinziegel | `tuff_bricks` | 167 |
 | Polierter Andesit | `polished_andesite` | 157 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (romanisch begonnen, gotischer Umbau um 1350), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -455,25 +461,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.13 – Chiesa di San Remigio – Teil 4/6 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
-- **Blöcke:** 1.842
+- **Blöcke:** 1.859
 - **Bauteile:** `w238431529`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.290 |
-| Polierter Andesit | `polished_andesite` | 352 |
-| Graues Buntglas | `gray_stained_glass` | 200 |
+| Tuffstein | `tuff` | 1.230 |
+| Polierter Andesit | `polished_andesite` | 339 |
+| Graues Buntglas | `gray_stained_glass` | 183 |
+| Tuffsteinziegel | `tuff_bricks` | 107 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (romanisch begonnen, gotischer Umbau um 1350), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -485,26 +492,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.14 – Chiesa di San Remigio – Teil 5/6 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
-- **Blöcke:** 2.045
+- **Blöcke:** 2.062
 - **Bauteile:** `w238431529`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 892 |
 | Terrakotta | `terracotta` | 778 |
-| Polierter Andesit | `polished_andesite` | 215 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
+| Tuffstein | `tuff` | 733 |
+| Polierter Andesit | `polished_andesite` | 202 |
+| Endsteinziegel | `end_stone_bricks` | 158 |
+| Graues Buntglas | `gray_stained_glass` | 143 |
+| Tuffsteinziegel | `tuff_bricks` | 48 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (romanisch begonnen, gotischer Umbau um 1350), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -516,7 +525,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.15 – Chiesa di San Remigio – Teil 6/6 (Y 93–100)
 
@@ -533,7 +542,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (romanisch begonnen, gotischer Umbau um 1350), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -545,7 +554,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.16 – Chiesa di San Remigio: Innenausbau – Teil 1/2 (Y 61–75)
 

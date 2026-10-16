@@ -1,11 +1,11 @@
 {
   "id": "r7021615",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Fassade 1850er (Giuseppe Poggi), 1938 restauriert",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
@@ -13,37 +13,46 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 4
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "terrakotta",
+    "achsen": 9,
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "putz",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_gerini_maskaron",
+      "portal_dreiecksgiebel",
+      "neobrunelleschi_arkaden"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Gerini",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Fassade in den 1850ern von Giuseppe Poggi umgestaltet, 1938 restauriert, drei Geschosse plus Mezzanin unter dem Dach, neun Achsen, Rustikaquader am Piano nobile, Kniefenster im Erdgeschoss, neobrunelleschische Arkaden anstelle der drei ursprünglichen Fenster, außermittiges Rundbogenportal mit Dreiecksgiebel, Gerini-Wappen mit Maskaron und Wahlspruch. Annahme: Gesims, Dach, Putz- und Steinfarben.",
   "name": "Palazzo Gerini"
 }

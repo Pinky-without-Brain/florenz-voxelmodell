@@ -1,15 +1,15 @@
 {
   "id": "r1605483",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "13./14. Jh., Fassaden 1. Hälfte 19. Jh. umgestaltet",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -18,13 +18,13 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 5,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "tabernakel",
@@ -35,15 +35,19 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "wappen_peruzzi_ecke",
+      "hufeisen_unter_wappen",
+      "wappen_fossi"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Lotti",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: Kern 13./14. Jh., Fassaden in der ersten Hälfte des 19. Jh. umgestaltet und 1995-96 restauriert, fünf Achsen zur Via de Benci, Erdgeschoss mit Bogenöffnungen (ehemalige Färberwerkstätten) und Resten von Pietra-forte-Rustika des 15. Jh., Peruzzi-Wappen mit Hufeisen an der Ecke, Fossi-Wappen. Annahme: Putzfarbe, Fensterform, Gesims, Dach, Geschosse (OSM-Höhe; die Via-de-Benci-Seite hat laut Quelle vier).",
   "name": "Palazzo Peruzzi-Lotti"
 }

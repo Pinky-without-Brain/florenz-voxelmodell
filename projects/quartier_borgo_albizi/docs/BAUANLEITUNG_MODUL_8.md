@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 203.628 |
+| Blöcke | 203.547 |
 | Bauschritte | 128 |
 | Y-Bereich | 53 bis 106 |
 | X-Ausdehnung | 493 bis 708 (216 Blöcke) |
 | Z-Ausdehnung | 349 bis 481 (133 Blöcke) |
 | Kleinster Schritt | 456 Blöcke (Schritt 8.42) |
-| Mittlerer Schritt | 1.591 Blöcke |
+| Mittlerer Schritt | 1.590 Blöcke |
 | Größter Schritt | 2.079 Blöcke (Schritt 8.91) |
 
 ## Gesamt-Stückliste
@@ -22,23 +22,23 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 70.663 | 34,7 % |
-| Polierter Tuffstein | `polished_tuff` | 25.349 | 12,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 22.368 | 11,0 % |
-| Weißer Beton | `white_concrete` | 18.421 | 9,0 % |
+| Polierter Tuffstein | `polished_tuff` | 25.337 | 12,4 % |
+| Tuffstein | `tuff` | 22.168 | 10,9 % |
+| Weißer Beton | `white_concrete` | 18.636 | 9,2 % |
 | Orange Keramik | `orange_terracotta` | 12.532 | 6,2 % |
-| Tuffstein | `tuff` | 9.924 | 4,9 % |
 | Rosa Keramik | `pink_terracotta` | 8.315 | 4,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.970 | 3,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.826 | 3,8 % |
 | Gelbe Keramik | `yellow_terracotta` | 6.513 | 3,2 % |
 | Endsteinziegel | `end_stone_bricks` | 4.608 | 2,3 % |
-| Graues Buntglas | `gray_stained_glass` | 4.209 | 2,1 % |
-| Glatter Stein | `smooth_stone` | 4.180 | 2,1 % |
-| Polierter Andesit | `polished_andesite` | 2.633 | 1,3 % |
+| Polierter Andesit | `polished_andesite` | 4.212 | 2,1 % |
+| Glatter Stein | `smooth_stone` | 4.200 | 2,1 % |
+| Graues Buntglas | `gray_stained_glass` | 4.146 | 2,0 % |
 | Ziegelsteine | `bricks` | 1.416 | 0,7 % |
-| Grüner Beton | `green_concrete` | 1.162 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 969 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 509 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 425 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 978 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 966 | 0,5 % |
+| Grüner Beton | `green_concrete` | 934 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 509 | 0,3 % |
 | Seelaterne | `sea_lantern` | 407 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 221 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 205 | 0,1 % |
@@ -48,7 +48,9 @@
 | Weiße Keramik | `white_terracotta` | 141 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 74 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 66 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 
@@ -58,13 +60,14 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 766 |
 | Steintreppe | `stone_stairs` | 140 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4098972` | Palazzo degli Alessandri | 25.504 | 8.1–8.17 |
-| 2 | `r4098972_innen` | Palazzo degli Alessandri: Innenausbau | 8.275 | 8.17–8.21 |
+| 1 | `r4098972` | Palazzo degli Alessandri | 25.426 | 8.1–8.17 |
+| 2 | `r4098972_innen` | Palazzo degli Alessandri: Innenausbau | 8.272 | 8.17–8.21 |
 | 3 | `r7065448` | Reihenhaus an Borgo degli Albizi | 6.405 | 8.22–8.25 |
 | 4 | `r7065448_innen` | Reihenhaus an Borgo degli Albizi: Innenausbau | 1.965 | 8.26 |
 | 5 | `w306984391` | Reihenhaus an Borgo degli Albizi | 5.163 | 8.27–8.29 |
@@ -104,19 +107,27 @@
 ### Schritt 8.1 – Palazzo degli Alessandri – Teil 1/17 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.902
+- **Blöcke:** 1.901
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.546 |
-| Tuffstein | `tuff` | 356 |
+| Polierter Tuffstein | `polished_tuff` | 1.544 |
+| Tuffstein | `tuff` | 350 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 7 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -128,23 +139,31 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.2 – Palazzo degli Alessandri – Teil 2/17 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.503
+- **Blöcke:** 1.501
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.503 |
+| Polierter Tuffstein | `polished_tuff` | 1.499 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -156,23 +175,30 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.3 – Palazzo degli Alessandri – Teil 3/17 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.506
+- **Blöcke:** 1.503
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.506 |
+| Polierter Tuffstein | `polished_tuff` | 1.500 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -184,25 +210,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.4 – Palazzo degli Alessandri – Teil 4/17 (Y 68–69)
 
 - **Y-Bereich:** 68 bis 69
-- **Blöcke:** 950
+- **Blöcke:** 958
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 858 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Glatter Stein | `smooth_stone` | 32 |
+| Tuffstein | `tuff` | 872 |
+| Tuffsteinziegel | `tuff_bricks` | 80 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -214,27 +241,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.5 – Palazzo degli Alessandri – Teil 5/17 (Y 70–72)
+### Schritt 8.5 – Palazzo degli Alessandri – Teil 5/17 (Y 70–73)
 
-- **Y-Bereich:** 70 bis 72
-- **Blöcke:** 1.422
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 1.824
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.217 |
-| Graues Buntglas | `gray_stained_glass` | 113 |
-| Glatter Stein | `smooth_stone` | 48 |
-| Weißer Beton | `white_concrete` | 32 |
-| Grüner Beton | `green_concrete` | 12 |
+| Tuffstein | `tuff` | 1.536 |
+| Weißer Beton | `white_concrete` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Tuffsteinziegel | `tuff_bricks` | 56 |
+| Polierter Andesit | `polished_andesite` | 32 |
+| Glatter Stein | `smooth_stone` | 8 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -246,28 +274,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.6 – Palazzo degli Alessandri – Teil 6/17 (Y 73–75)
+### Schritt 8.6 – Palazzo degli Alessandri – Teil 6/17 (Y 74–76)
 
-- **Y-Bereich:** 73 bis 75
-- **Blöcke:** 1.456
+- **Y-Bereich:** 74 bis 76
+- **Blöcke:** 1.427
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.223 |
-| Graues Buntglas | `gray_stained_glass` | 127 |
-| Glatter Stein | `smooth_stone` | 56 |
-| Weißer Beton | `white_concrete` | 24 |
-| Grüner Beton | `green_concrete` | 18 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Tuffstein | `tuff` | 1.210 |
+| Weißer Beton | `white_concrete` | 91 |
+| Graues Buntglas | `gray_stained_glass` | 58 |
+| Tuffsteinziegel | `tuff_bricks` | 53 |
+| Glatter Stein | `smooth_stone` | 11 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -279,25 +307,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.7 – Palazzo degli Alessandri – Teil 7/17 (Y 76–78)
+### Schritt 8.7 – Palazzo degli Alessandri – Teil 7/17 (Y 77–78)
 
-- **Y-Bereich:** 76 bis 78
-- **Blöcke:** 1.575
+- **Y-Bereich:** 77 bis 78
+- **Blöcke:** 1.119
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.389 |
-| Glatter Stein | `smooth_stone` | 170 |
-| Weißer Beton | `white_concrete` | 16 |
+| Tuffstein | `tuff` | 848 |
+| Glatter Stein | `smooth_stone` | 221 |
+| Tuffsteinziegel | `tuff_bricks` | 46 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -309,26 +338,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.8 – Palazzo degli Alessandri – Teil 8/17 (Y 79–81)
 
 - **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.551
+- **Blöcke:** 1.541
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.433 |
-| Weißer Beton | `white_concrete` | 72 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Grüner Beton | `green_concrete` | 22 |
+| Tuffstein | `tuff` | 1.156 |
+| Polierter Andesit | `polished_andesite` | 148 |
+| Tuffsteinziegel | `tuff_bricks` | 118 |
+| Weißer Beton | `white_concrete` | 84 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -340,26 +370,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.9 – Palazzo degli Alessandri – Teil 9/17 (Y 82–84)
 
 - **Y-Bereich:** 82 bis 84
-- **Blöcke:** 1.503
+- **Blöcke:** 1.473
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.293 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Weißer Beton | `white_concrete` | 72 |
-| Grüner Beton | `green_concrete` | 66 |
+| Tuffstein | `tuff` | 1.086 |
+| Polierter Andesit | `polished_andesite` | 123 |
+| Graues Buntglas | `gray_stained_glass` | 105 |
+| Tuffsteinziegel | `tuff_bricks` | 84 |
+| Weißer Beton | `white_concrete` | 75 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -371,25 +402,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.10 – Palazzo degli Alessandri – Teil 10/17 (Y 85–87)
 
 - **Y-Bereich:** 85 bis 87
-- **Blöcke:** 1.575
+- **Blöcke:** 1.507
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.325 |
-| Weißer Beton | `white_concrete` | 170 |
-| Glatter Stein | `smooth_stone` | 80 |
+| Tuffstein | `tuff` | 1.121 |
+| Weißer Beton | `white_concrete` | 109 |
+| Polierter Andesit | `polished_andesite` | 105 |
+| Tuffsteinziegel | `tuff_bricks` | 102 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -401,26 +434,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.11 – Palazzo degli Alessandri – Teil 11/17 (Y 88–90)
 
 - **Y-Bereich:** 88 bis 90
-- **Blöcke:** 1.551
+- **Blöcke:** 1.668
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.433 |
-| Weißer Beton | `white_concrete` | 72 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Grüner Beton | `green_concrete` | 22 |
+| Tuffstein | `tuff` | 1.191 |
+| Glatter Stein | `smooth_stone` | 162 |
+| Polierter Andesit | `polished_andesite` | 158 |
+| Weißer Beton | `white_concrete` | 143 |
+| Tuffsteinziegel | `tuff_bricks` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -432,26 +466,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.12 – Palazzo degli Alessandri – Teil 12/17 (Y 91–93)
 
 - **Y-Bereich:** 91 bis 93
-- **Blöcke:** 1.503
+- **Blöcke:** 1.507
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.293 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Weißer Beton | `white_concrete` | 72 |
-| Grüner Beton | `green_concrete` | 66 |
+| Tuffstein | `tuff` | 1.121 |
+| Polierter Andesit | `polished_andesite` | 207 |
+| Weißer Beton | `white_concrete` | 109 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -463,27 +497,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.13 – Palazzo degli Alessandri – Teil 13/17 (Y 94–96)
 
 - **Y-Bereich:** 94 bis 96
-- **Blöcke:** 1.663
+- **Blöcke:** 1.653
 - **Bauteile:** `r4098972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.359 |
-| Weißer Beton | `white_concrete` | 146 |
+| Tuffstein | `tuff` | 1.156 |
+| Polierter Andesit | `polished_andesite` | 182 |
+| Weißer Beton | `white_concrete` | 168 |
 | Glatter Stein | `smooth_stone` | 112 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Grüner Beton | `green_concrete` | 22 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -495,7 +529,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.14 – Palazzo degli Alessandri – Teil 14/17 (Y 97–97)
 
@@ -508,12 +542,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.330 |
-| Hellgrauer Beton | `light_gray_concrete` | 215 |
+| Tuffstein | `tuff` | 168 |
 | Glatter Stein | `smooth_stone` | 76 |
+| Polierter Andesit | `polished_andesite` | 47 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -525,7 +560,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.15 – Palazzo degli Alessandri – Teil 15/17 (Y 97–97)
 
@@ -538,12 +573,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.382 |
-| Hellgrauer Beton | `light_gray_concrete` | 126 |
+| Tuffstein | `tuff` | 89 |
 | Glatter Stein | `smooth_stone` | 68 |
+| Polierter Andesit | `polished_andesite` | 37 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -555,7 +591,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.16 – Palazzo degli Alessandri – Teil 16/17 (Y 97–97)
 
@@ -568,12 +604,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.333 |
-| Hellgrauer Beton | `light_gray_concrete` | 184 |
+| Tuffstein | `tuff` | 140 |
 | Glatter Stein | `smooth_stone` | 80 |
+| Polierter Andesit | `polished_andesite` | 44 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -585,24 +622,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.17 – Palazzo degli Alessandri – Teil 17/17 (Y 98–99) & Palazzo degli Alessandri: Innenausbau – Teil 1/5 (Y 67–77)
 
 - **Y-Bereich:** 67 bis 99
-- **Blöcke:** 1.127
+- **Blöcke:** 1.124
 - **Bauteile:** `r4098972`, `r4098972_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.050 |
+| Tuffstein | `tuff` | 556 |
+| Polierter Andesit | `polished_andesite` | 494 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 23 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -615,7 +653,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Renaissance-Palazzo (14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri, Angaben belegt (Sicherheit 0,75). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -627,7 +665,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
 ### Schritt 8.18 – Palazzo degli Alessandri: Innenausbau – Teil 2/5 (Y 78–78)
 
@@ -651,7 +689,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -665,10 +703,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.19 – Palazzo degli Alessandri: Innenausbau – Teil 3/5 (Y 78–86)
+### Schritt 8.19 – Palazzo degli Alessandri: Innenausbau – Teil 3/5 (Y 78–88)
 
-- **Y-Bereich:** 78 bis 86
-- **Blöcke:** 2.048
+- **Y-Bereich:** 78 bis 88
+- **Blöcke:** 2.056
 - **Bauteile:** `r4098972_innen`
 
 **Teileliste**
@@ -676,10 +714,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.987 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -690,12 +728,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -709,9 +747,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.20 – Palazzo degli Alessandri: Innenausbau – Teil 4/5 (Y 87–87)
+### Schritt 8.20 – Palazzo degli Alessandri: Innenausbau – Teil 4/5 (Y 89–89)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 2.048
 - **Bauteile:** `r4098972_innen`
 
@@ -731,7 +769,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -745,10 +783,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.21 – Palazzo degli Alessandri: Innenausbau – Teil 5/5 (Y 87–97)
+### Schritt 8.21 – Palazzo degli Alessandri: Innenausbau – Teil 5/5 (Y 89–97)
 
-- **Y-Bereich:** 87 bis 97
-- **Blöcke:** 2.054
+- **Y-Bereich:** 89 bis 97
+- **Blöcke:** 2.046
 - **Bauteile:** `r4098972_innen`
 
 **Teileliste**
@@ -756,10 +794,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.987 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -770,12 +808,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

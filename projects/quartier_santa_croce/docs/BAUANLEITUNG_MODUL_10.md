@@ -8,41 +8,41 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 103.897 |
+| Blöcke | 103.540 |
 | Bauschritte | 68 |
-| Y-Bereich | 61 bis 103 |
+| Y-Bereich | 61 bis 108 |
 | X-Ausdehnung | 607 bis 807 (201 Blöcke) |
 | Z-Ausdehnung | 482 bis 612 (131 Blöcke) |
 | Kleinster Schritt | 74 Blöcke (Schritt 10.1) |
-| Mittlerer Schritt | 1.528 Blöcke |
+| Mittlerer Schritt | 1.523 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 10.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 33.557 | 32,3 % |
-| Tuffstein | `tuff` | 20.673 | 19,9 % |
-| Polierter Tuffstein | `polished_tuff` | 11.355 | 10,9 % |
-| Glatter Stein | `smooth_stone` | 7.957 | 7,7 % |
-| Polierter Andesit | `polished_andesite` | 6.986 | 6,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 5.584 | 5,4 % |
+| Terrakotta | `terracotta` | 33.587 | 32,4 % |
+| Tuffstein | `tuff` | 23.985 | 23,2 % |
+| Polierter Tuffstein | `polished_tuff` | 11.355 | 11,0 % |
+| Polierter Andesit | `polished_andesite` | 9.246 | 8,9 % |
+| Glatter Stein | `smooth_stone` | 8.200 | 7,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 3.414 | 3,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.328 | 3,2 % |
-| Weißer Beton | `white_concrete` | 3.243 | 3,1 % |
-| Graues Buntglas | `gray_stained_glass` | 3.126 | 3,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 2.671 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 3.282 | 3,2 % |
 | Orange Keramik | `orange_terracotta` | 2.660 | 2,6 % |
-| Ziegelsteine | `bricks` | 939 | 0,9 % |
+| Weißer Beton | `white_concrete` | 2.028 | 2,0 % |
+| Ziegelsteine | `bricks` | 937 | 0,9 % |
 | Endsteinziegel | `end_stone_bricks` | 806 | 0,8 % |
-| Grüner Beton | `green_concrete` | 628 | 0,6 % |
+| Grüner Beton | `green_concrete` | 178 | 0,2 % |
 | Seelaterne | `sea_lantern` | 165 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 51 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 140 | 0,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 53 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 46 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 18 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 18 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 15 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 15 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 18 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 18 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 17 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 5 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 | 0,0 % |
@@ -53,8 +53,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 80 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Steintreppe | `stone_stairs` | 84 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 44 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -63,8 +63,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1598976` | Renaissance-Palazzo an Via dei Pandolfini | 60.368 | 10.1–10.42 |
 | 2 | `r1598976_innen` | Renaissance-Palazzo an Via dei Pandolfini: Innenausbau | 13.850 | 10.43–10.50 |
-| 3 | `w306984401` | Palazzo Salviati-Quaratesi | 13.429 | 10.51–10.58 |
-| 4 | `w306984401_innen` | Palazzo Salviati-Quaratesi: Innenausbau | 3.655 | 10.59–10.60 |
+| 3 | `w306984401` | Palazzo Salviati-Quaratesi | 13.058 | 10.51–10.58 |
+| 4 | `w306984401_innen` | Palazzo Salviati-Quaratesi: Innenausbau | 3.669 | 10.59–10.60 |
 | 5 | `w306984428` | Reihenhaus an Via dei Pandolfini | 5.326 | 10.61–10.63 |
 | 6 | `w306984428_innen` | Reihenhaus an Via dei Pandolfini: Innenausbau | 1.330 | 10.64 |
 | 7 | `w306984429` | Reihenhaus an Via Giuseppe Verdi | 4.235 | 10.65–10.67 |
@@ -1646,7 +1646,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), 16./17. Jh. umgebaut), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1658,161 +1658,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.52 – Palazzo Salviati-Quaratesi – Teil 2/8 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
-- **Blöcke:** 1.395
+- **Blöcke:** 1.129
 - **Bauteile:** `w306984401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 984 |
-| Weißer Beton | `white_concrete` | 213 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-| Grüner Beton | `green_concrete` | 60 |
-| Polierter Andesit | `polished_andesite` | 39 |
-| Glatter Stein | `smooth_stone` | 23 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.53 – Palazzo Salviati-Quaratesi – Teil 3/8 (Y 69–74)
-
-- **Y-Bereich:** 69 bis 74
-- **Blöcke:** 1.636
-- **Bauteile:** `w306984401`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
-| Glatter Stein | `smooth_stone` | 166 |
-| Weißer Beton | `white_concrete` | 121 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-| Grüner Beton | `green_concrete` | 60 |
-| Polierter Andesit | `polished_andesite` | 39 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.54 – Palazzo Salviati-Quaratesi – Teil 4/8 (Y 75–80)
-
-- **Y-Bereich:** 75 bis 80
-- **Blöcke:** 1.565
-- **Bauteile:** `w306984401`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 942 |
-| Weißer Beton | `white_concrete` | 229 |
-| Graues Buntglas | `gray_stained_glass` | 190 |
-| Grüner Beton | `green_concrete` | 165 |
-| Polierter Andesit | `polished_andesite` | 39 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.55 – Palazzo Salviati-Quaratesi – Teil 5/8 (Y 81–86)
-
-- **Y-Bereich:** 81 bis 86
-- **Blöcke:** 1.657
-- **Bauteile:** `w306984401`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.107 |
-| Weißer Beton | `white_concrete` | 347 |
-| Glatter Stein | `smooth_stone` | 97 |
-| Graues Buntglas | `gray_stained_glass` | 38 |
-| Polierter Andesit | `polished_andesite` | 35 |
-| Grüner Beton | `green_concrete` | 33 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.56 – Palazzo Salviati-Quaratesi – Teil 6/8 (Y 87–92)
-
-- **Y-Bereich:** 87 bis 92
-- **Blöcke:** 1.684
-- **Bauteile:** `w306984401`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 960 |
-| Weißer Beton | `white_concrete` | 305 |
+| Tuffstein | `tuff` | 606 |
+| Polierter Andesit | `polished_andesite` | 184 |
 | Graues Buntglas | `gray_stained_glass` | 152 |
-| Grüner Beton | `green_concrete` | 132 |
-| Glatter Stein | `smooth_stone` | 96 |
-| Polierter Andesit | `polished_andesite` | 39 |
+| Tuffsteinziegel | `tuff_bricks` | 152 |
+| Glatter Stein | `smooth_stone` | 35 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), 16./17. Jh. umgebaut), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1824,7 +1690,134 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 10.53 – Palazzo Salviati-Quaratesi – Teil 3/8 (Y 69–75)
+
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.737
+- **Bauteile:** `w306984401`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 912 |
+| Polierter Andesit | `polished_andesite` | 305 |
+| Glatter Stein | `smooth_stone` | 195 |
+| Tuffsteinziegel | `tuff_bricks` | 195 |
+| Graues Buntglas | `gray_stained_glass` | 130 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (14. Jh. (Kern), 16./17. Jh. umgebaut), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 10.54 – Palazzo Salviati-Quaratesi – Teil 4/8 (Y 76–81)
+
+- **Y-Bereich:** 76 bis 81
+- **Blöcke:** 1.560
+- **Bauteile:** `w306984401`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 539 |
+| Tuffstein | `tuff` | 535 |
+| Tuffsteinziegel | `tuff_bricks` | 228 |
+| Graues Buntglas | `gray_stained_glass` | 219 |
+| Glatter Stein | `smooth_stone` | 39 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (14. Jh. (Kern), 16./17. Jh. umgebaut), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 10.55 – Palazzo Salviati-Quaratesi – Teil 5/8 (Y 82–87)
+
+- **Y-Bereich:** 82 bis 87
+- **Blöcke:** 1.699
+- **Bauteile:** `w306984401`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 674 |
+| Polierter Andesit | `polished_andesite` | 623 |
+| Glatter Stein | `smooth_stone` | 201 |
+| Tuffsteinziegel | `tuff_bricks` | 179 |
+| Graues Buntglas | `gray_stained_glass` | 22 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (14. Jh. (Kern), 16./17. Jh. umgebaut), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 10.56 – Palazzo Salviati-Quaratesi – Teil 6/8 (Y 88–92)
+
+- **Y-Bereich:** 88 bis 92
+- **Blöcke:** 1.397
+- **Bauteile:** `w306984401`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 642 |
+| Tuffstein | `tuff` | 471 |
+| Graues Buntglas | `gray_stained_glass` | 153 |
+| Glatter Stein | `smooth_stone` | 131 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (14. Jh. (Kern), 16./17. Jh. umgebaut), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.57 – Palazzo Salviati-Quaratesi – Teil 7/8 (Y 93–95)
 
@@ -1837,13 +1830,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.301 |
-| Hellgrauer Beton | `light_gray_concrete` | 276 |
-| Glatter Stein | `smooth_stone` | 216 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Glatter Stein | `smooth_stone` | 220 |
+| Polierter Andesit | `polished_andesite` | 162 |
+| Tuffstein | `tuff` | 114 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), 16./17. Jh. umgebaut), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1855,24 +1848,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 10.58 – Palazzo Salviati-Quaratesi – Teil 8/8 (Y 96–103)
+### Schritt 10.58 – Palazzo Salviati-Quaratesi – Teil 8/8 (Y 96–108)
 
-- **Y-Bereich:** 96 bis 103
-- **Blöcke:** 1.648
+- **Y-Bereich:** 96 bis 108
+- **Blöcke:** 1.692
 - **Bauteile:** `w306984401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.461 |
-| Ziegelsteine | `bricks` | 187 |
+| Terrakotta | `terracotta` | 1.491 |
+| Ziegelsteine | `bricks` | 185 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), 16./17. Jh. umgebaut), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1884,12 +1878,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 10.59 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 10.59 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 1/2 (Y 63–74)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.828
+- **Y-Bereich:** 63 bis 74
+- **Blöcke:** 1.832
 - **Bauteile:** `w306984401_innen`
 
 **Teileliste**
@@ -1897,24 +1891,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.759 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 20 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Steintreppe | `stone_stairs` | 22 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1928,10 +1919,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.60 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 10.60 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 2/2 (Y 75–86)
 
-- **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.827
+- **Y-Bereich:** 75 bis 86
+- **Blöcke:** 1.837
 - **Bauteile:** `w306984401_innen`
 
 **Teileliste**
@@ -1939,28 +1930,26 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.759 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

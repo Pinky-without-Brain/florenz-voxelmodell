@@ -1,7 +1,7 @@
 {
   "id": "r1586356",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "1473-1480 erbaut, Fassade 1713-1720 (Ferri), Portal Foggini 1716-17",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,46 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 11,
+    "achsen": 7,
     "material": "bugnato_abgestuft",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rundbogen",
-      "rahmen": "pietra_forte",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "terrasse_ueber_portal",
+      "wappen_gherardesca_giebel",
+      "gedenktafel_scala"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_della_Gherardesca",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Straßenfassade am Borgo Pinti im frühen 18. Jh. (Antonio Maria Ferri 1713-20) erneuert, Portal von Foggini, drei Geschosse, sieben Achsen mit Gurtgesimsen, mittiges Portal mit kleiner Terrasse, Fenstertür am Piano nobile mit gesprengtem Segmentgiebel, Gherardesca-Wappen im Giebel, Gedenktafel für Bartolomeo Scala. Annahme: Material, Putzfarbe, Traufgesims, Dach.",
   "name": "Palazzo della Gherardesca"
 }

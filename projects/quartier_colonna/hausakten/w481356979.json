@@ -5,11 +5,11 @@
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "nobile",
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -22,11 +22,11 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 2,
+    "achsen": 4,
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "bottega_arcata",
+      "art": "portal_seitlich",
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
@@ -38,15 +38,17 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "gedenktafel_cellini"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_di_Benvenuto_Cellini",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia belegt: vier Geschosse über vier Achsen, Haupteingang ungewöhnlich ganz rechts am Rand (Erdgeschoss wohl in jüngerer Zeit verändert), Gedenktafel Casa di Benvenuto Cellini. Annahme: Epoche, Putzfarbe, Fenster, Gesims und Dach.",
   "name": "Casa di Benvenuto Cellini"
 }

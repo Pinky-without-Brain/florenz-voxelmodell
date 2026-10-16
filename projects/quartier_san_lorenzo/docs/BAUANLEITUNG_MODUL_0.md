@@ -8,45 +8,45 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 92.214 |
-| Bauschritte | 57 |
+| Blöcke | 93.493 |
+| Bauschritte | 58 |
 | Y-Bereich | 62 bis 104 |
 | X-Ausdehnung | -880 bis -692 (189 Blöcke) |
 | Z-Ausdehnung | -42 bis 103 (146 Blöcke) |
 | Kleinster Schritt | 1.099 Blöcke (Schritt 0.12) |
-| Mittlerer Schritt | 1.618 Blöcke |
+| Mittlerer Schritt | 1.612 Blöcke |
 | Größter Schritt | 1.992 Blöcke (Schritt 0.17) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 30.560 | 33,1 % |
-| Orange Keramik | `orange_terracotta` | 12.193 | 13,2 % |
-| Polierter Tuffstein | `polished_tuff` | 9.923 | 10,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.957 | 8,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 6.847 | 7,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 6.655 | 7,2 % |
+| Terrakotta | `terracotta` | 32.157 | 34,4 % |
+| Orange Keramik | `orange_terracotta` | 12.193 | 13,0 % |
+| Polierter Tuffstein | `polished_tuff` | 9.923 | 10,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.957 | 8,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 6.847 | 7,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.655 | 7,1 % |
+| Weißer Beton | `white_concrete` | 5.590 | 6,0 % |
 | Tuffstein | `tuff` | 4.467 | 4,8 % |
-| Weißer Beton | `white_concrete` | 4.246 | 4,6 % |
-| Polierter Andesit | `polished_andesite` | 3.006 | 3,3 % |
-| Glatter Stein | `smooth_stone` | 2.908 | 3,2 % |
-| Graues Buntglas | `gray_stained_glass` | 1.901 | 2,1 % |
+| Glatter Stein | `smooth_stone` | 2.844 | 3,0 % |
+| Graues Buntglas | `gray_stained_glass` | 1.920 | 2,1 % |
+| Polierter Andesit | `polished_andesite` | 1.538 | 1,6 % |
 | Ziegelsteine | `bricks` | 523 | 0,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 405 | 0,4 % |
-| Seelaterne | `sea_lantern` | 165 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 80 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 229 | 0,2 % |
+| Seelaterne | `sea_lantern` | 174 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 84 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 64 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 62 | 0,1 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 58 | 0,1 % |
 | Grüner Beton | `green_concrete` | 56 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 33 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 33 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 31 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 29 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 36 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 36 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 33 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 31 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 9 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 8 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
@@ -57,8 +57,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 160 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 78 |
+| Steintreppe | `stone_stairs` | 166 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 80 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -71,11 +71,11 @@
 | 4 | `r4101350_innen` | Palazzo Pasquali: Innenausbau | 3.868 | 0.23–0.24 |
 | 5 | `w307153285` | Palazzo Portigiani | 11.982 | 0.25–0.31 |
 | 6 | `w307153285_innen` | Palazzo Portigiani: Innenausbau | 2.504 | 0.32–0.33 |
-| 7 | `w307153301` | Palazzo delle Cento Finestre | 14.040 | 0.34–0.41 |
-| 8 | `w307153301_innen` | Palazzo delle Cento Finestre: Innenausbau | 3.334 | 0.42–0.43 |
-| 9 | `w307153312` | Palazzo des Cinquecento an Via dei Rondinelli | 16.323 | 0.44–0.53 |
-| 10 | `w307153312_innen` | Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau | 5.227 | 0.54–0.57 |
-| 11 | `strassenschilder` | Straßenschilder | 10 | 0.57 |
+| 7 | `w307153301` | Palazzo delle Cento Finestre | 13.683 | 0.34–0.41 |
+| 8 | `w307153301_innen` | Palazzo delle Cento Finestre: Innenausbau | 4.970 | 0.42–0.44 |
+| 9 | `w307153312` | Palazzo des Cinquecento an Via dei Rondinelli | 16.323 | 0.45–0.54 |
+| 10 | `w307153312_innen` | Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau | 5.227 | 0.55–0.58 |
+| 11 | `strassenschilder` | Straßenschilder | 10 | 0.58 |
 
 ## Bauschritte
 
@@ -1191,7 +1191,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1203,27 +1203,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.35 – Palazzo delle Cento Finestre – Teil 2/8 (Y 64–69)
 
 - **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.609
+- **Blöcke:** 1.499
 - **Bauteile:** `w307153301`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 822 |
-| Polierter Andesit | `polished_andesite` | 406 |
-| Tuffsteinziegel | `tuff_bricks` | 219 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-| Glatter Stein | `smooth_stone` | 27 |
+| Tuffstein | `tuff` | 751 |
+| Graues Buntglas | `gray_stained_glass` | 210 |
+| Weißer Beton | `white_concrete` | 160 |
+| Tuffsteinziegel | `tuff_bricks` | 140 |
+| Glatter Stein | `smooth_stone` | 124 |
+| Polierter Andesit | `polished_andesite` | 114 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1235,75 +1236,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.36 – Palazzo delle Cento Finestre – Teil 3/8 (Y 70–75)
 
 - **Y-Bereich:** 70 bis 75
-- **Blöcke:** 1.771
-- **Bauteile:** `w307153301`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 886 |
-| Polierter Andesit | `polished_andesite` | 381 |
-| Glatter Stein | `smooth_stone` | 264 |
-| Tuffsteinziegel | `tuff_bricks` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.37 – Palazzo delle Cento Finestre – Teil 4/8 (Y 76–81)
-
-- **Y-Bereich:** 76 bis 81
-- **Blöcke:** 1.621
-- **Bauteile:** `w307153301`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 795 |
-| Polierter Andesit | `polished_andesite` | 597 |
-| Graues Buntglas | `gray_stained_glass` | 199 |
-| Glatter Stein | `smooth_stone` | 30 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.38 – Palazzo delle Cento Finestre – Teil 5/8 (Y 82–87)
-
-- **Y-Bereich:** 82 bis 87
-- **Blöcke:** 1.843
+- **Blöcke:** 1.676
 - **Bauteile:** `w307153301`
 
 **Teileliste**
@@ -1311,13 +1249,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 896 |
-| Polierter Andesit | `polished_andesite` | 573 |
-| Glatter Stein | `smooth_stone` | 278 |
+| Polierter Andesit | `polished_andesite` | 318 |
+| Glatter Stein | `smooth_stone` | 169 |
+| Weißer Beton | `white_concrete` | 144 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
+| Tuffsteinziegel | `tuff_bricks` | 53 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1329,26 +1269,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.39 – Palazzo delle Cento Finestre – Teil 6/8 (Y 88–92)
+### Schritt 0.37 – Palazzo delle Cento Finestre – Teil 4/8 (Y 76–81)
 
-- **Y-Bereich:** 88 bis 92
-- **Blöcke:** 1.745
+- **Y-Bereich:** 76 bis 81
+- **Blöcke:** 1.676
 - **Bauteile:** `w307153301`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 724 |
-| Polierter Andesit | `polished_andesite` | 520 |
-| Glatter Stein | `smooth_stone` | 398 |
-| Graues Buntglas | `gray_stained_glass` | 103 |
+| Tuffstein | `tuff` | 896 |
+| Weißer Beton | `white_concrete` | 416 |
+| Polierter Andesit | `polished_andesite` | 191 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Glatter Stein | `smooth_stone` | 77 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1360,7 +1301,71 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 0.38 – Palazzo delle Cento Finestre – Teil 5/8 (Y 82–88)
+
+- **Y-Bereich:** 82 bis 88
+- **Blöcke:** 1.924
+- **Bauteile:** `w307153301`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.014 |
+| Weißer Beton | `white_concrete` | 368 |
+| Polierter Andesit | `polished_andesite` | 238 |
+| Glatter Stein | `smooth_stone` | 160 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 0.39 – Palazzo delle Cento Finestre – Teil 6/8 (Y 89–92)
+
+- **Y-Bereich:** 89 bis 92
+- **Blöcke:** 1.457
+- **Bauteile:** `w307153301`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 566 |
+| Glatter Stein | `smooth_stone` | 391 |
+| Weißer Beton | `white_concrete` | 256 |
+| Polierter Andesit | `polished_andesite` | 148 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.40 – Palazzo delle Cento Finestre – Teil 7/8 (Y 93–95)
 
@@ -1379,7 +1384,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1391,7 +1396,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.41 – Palazzo delle Cento Finestre – Teil 8/8 (Y 96–104)
 
@@ -1408,7 +1413,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (wohl ab 1720, Außenseite nach 1868 (Giuseppe Poggi)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Cento_Finestre, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1420,12 +1425,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.42 – Palazzo delle Cento Finestre: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 0.42 – Palazzo delle Cento Finestre: Innenausbau – Teil 1/3 (Y 63–71)
 
-- **Y-Bereich:** 63 bis 74
-- **Blöcke:** 1.668
+- **Y-Bereich:** 63 bis 71
+- **Blöcke:** 1.659
 - **Bauteile:** `w307153301_innen`
 
 **Teileliste**
@@ -1433,11 +1438,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.597 |
-| Glatter Stein | `smooth_stone` | 28 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -1445,12 +1450,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1464,10 +1469,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.43 – Palazzo delle Cento Finestre: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 0.43 – Palazzo delle Cento Finestre: Innenausbau – Teil 2/3 (Y 72–79)
 
-- **Y-Bereich:** 75 bis 84
-- **Blöcke:** 1.666
+- **Y-Bereich:** 72 bis 79
+- **Blöcke:** 1.653
 - **Bauteile:** `w307153301_innen`
 
 **Teileliste**
@@ -1475,26 +1480,26 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.597 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1508,7 +1513,53 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.44 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 1/10 (Y 62–63)
+### Schritt 0.44 – Palazzo delle Cento Finestre: Innenausbau – Teil 3/3 (Y 80–87)
+
+- **Y-Bereich:** 80 bis 87
+- **Blöcke:** 1.658
+- **Bauteile:** `w307153301_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.597 |
+| Glatter Stein | `smooth_stone` | 20 |
+| Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 14 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 0.45 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 1/10 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.543
@@ -1544,7 +1595,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.45 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 2/10 (Y 63–64)
+### Schritt 0.46 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 2/10 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.726
@@ -1574,7 +1625,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.46 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 3/10 (Y 65–69)
+### Schritt 0.47 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 3/10 (Y 65–69)
 
 - **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.518
@@ -1607,7 +1658,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.47 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 4/10 (Y 70–75)
+### Schritt 0.48 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 4/10 (Y 70–75)
 
 - **Y-Bereich:** 70 bis 75
 - **Blöcke:** 1.881
@@ -1640,7 +1691,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.48 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 5/10 (Y 76–80)
+### Schritt 0.49 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 5/10 (Y 76–80)
 
 - **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.480
@@ -1672,7 +1723,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.49 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 6/10 (Y 81–85)
+### Schritt 0.50 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 6/10 (Y 81–85)
 
 - **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.585
@@ -1703,7 +1754,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.50 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 7/10 (Y 86–91)
+### Schritt 0.51 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 7/10 (Y 86–91)
 
 - **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.797
@@ -1735,7 +1786,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.51 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 8/10 (Y 92–94)
+### Schritt 0.52 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 8/10 (Y 92–94)
 
 - **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.863
@@ -1767,7 +1818,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.52 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 9/10 (Y 95–96)
+### Schritt 0.53 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 9/10 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.184
@@ -1795,7 +1846,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.53 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 10/10 (Y 97–103)
+### Schritt 0.54 – Palazzo des Cinquecento an Via dei Rondinelli – Teil 10/10 (Y 97–103)
 
 - **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.746
@@ -1824,7 +1875,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.54 – Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 0.55 – Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau – Teil 1/4 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
 - **Blöcke:** 1.331
@@ -1866,7 +1917,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.55 – Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 0.56 – Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau – Teil 2/4 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.282
@@ -1902,7 +1953,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.56 – Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 0.57 – Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau – Teil 3/4 (Y 74–83)
 
 - **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.323
@@ -1946,7 +1997,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.57 – Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau – Teil 4/4 (Y 83–84) & Straßenschilder
+### Schritt 0.58 – Palazzo des Cinquecento an Via dei Rondinelli: Innenausbau – Teil 4/4 (Y 83–84) & Straßenschilder
 
 - **Y-Bereich:** 69 bis 84
 - **Blöcke:** 1.301
