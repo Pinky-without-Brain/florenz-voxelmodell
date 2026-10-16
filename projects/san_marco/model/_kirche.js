@@ -130,7 +130,7 @@ function plan() {
   const unzug = (p, b, x, y, z) => { const k = p + '|' + b; if (!unz.has(k)) unz.set(k, []); unz.get(k).push({ x, y, z }); };
   const N4 = [[1, 0], [-1, 0], [0, 1], [0, -1]];
   const N8 = N4.concat([[1, 1], [1, -1], [-1, 1], [-1, -1]]);
-  const api = { D, set, ersetze, hat, frei, istFrei, oeffnung, unzug, key, Y, T, zellen, teile, zelleBei, N4, N8 };
+  const api = { ausstattenKirche: (a) => require('./_kirche_ausstattung.js').ausstatten(a), D, set, ersetze, hat, frei, istFrei, oeffnung, unzug, key, Y, T, zellen, teile, zelleBei, N4, N8 };
 
   const DACH = new Map();
   for (const c of D.cells) DACH.set(P.ck(c.x, c.z), dach(c));
