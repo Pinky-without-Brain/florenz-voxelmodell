@@ -1,19 +1,23 @@
 {
   "id": "w306798526",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "um 1512 (Baccio d'Agnolo); oberstes Geschoss Aufstockung",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -27,7 +31,7 @@
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -35,15 +39,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "vier_kleine_quadratfenster_eg_historisch",
+      "hofloggia_dorisch"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Lanfredini",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Gebaut von Lanfredino Lanfredini nach Baccio d'Agnolo, vier kleine quadratische EG-Fenster in Achse mit den Obergeschossen (Bellotto 1742), oberstes Geschoss spätere Aufstockung, Hofloggia mit dorischen Säulchen. Annahme: Achsenzahl, Putzfarbe, Gesims.",
   "name": "Palazzo Lanfredini"
 }

@@ -1,15 +1,19 @@
 {
   "id": "r4088610",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "18. Jh. (Zanobi Del Rosso, bis 1778)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -20,7 +24,7 @@
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -31,15 +35,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "wappen_feroni_mittig",
+      "blinde_fenster"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Del_Pugliese",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Bossenwerk im EG mit sechs Gitterfenstern und mittlerem Portal, darüber verputzte Geschosse mit Gurtgesimsen und neun Rundbogenfenstern (teils blind) in Pietra-serena-Rahmen auf weißem Grund, großes Feroni-Wappen am Piano nobile. Annahme: Geschosszahl 3 (Höhe aus OSM), Gesims.",
   "name": "Palazzo Del Pugliese"
 }
