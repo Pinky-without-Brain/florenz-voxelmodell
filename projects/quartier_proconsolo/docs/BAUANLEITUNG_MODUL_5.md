@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 100.401 |
+| Blöcke | 100.400 |
 | Bauschritte | 65 |
 | Y-Bereich | 60 bis 101 |
 | X-Ausdehnung | 245 bis 396 (152 Blöcke) |
@@ -21,30 +21,31 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 33.414 | 33,3 % |
-| Orange Keramik | `orange_terracotta` | 19.584 | 19,5 % |
-| Weißer Beton | `white_concrete` | 13.734 | 13,7 % |
-| Polierter Tuffstein | `polished_tuff` | 10.154 | 10,1 % |
+| Terrakotta | `terracotta` | 33.412 | 33,3 % |
+| Orange Keramik | `orange_terracotta` | 15.038 | 15,0 % |
+| Weißer Beton | `white_concrete` | 13.171 | 13,1 % |
+| Polierter Tuffstein | `polished_tuff` | 10.153 | 10,1 % |
 | Tuffstein | `tuff` | 4.950 | 4,9 % |
+| Rosa Keramik | `pink_terracotta` | 4.627 | 4,6 % |
 | Endsteinziegel | `end_stone_bricks` | 4.076 | 4,1 % |
-| Polierter Andesit | `polished_andesite` | 2.962 | 3,0 % |
-| Graues Buntglas | `gray_stained_glass` | 2.919 | 2,9 % |
-| Glatter Stein | `smooth_stone` | 2.844 | 2,8 % |
+| Polierter Andesit | `polished_andesite` | 3.423 | 3,4 % |
+| Graues Buntglas | `gray_stained_glass` | 2.936 | 2,9 % |
+| Glatter Stein | `smooth_stone` | 2.846 | 2,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.836 | 1,8 % |
 | Grüner Beton | `green_concrete` | 1.616 | 1,6 % |
 | Ziegelsteine | `bricks` | 706 | 0,7 % |
-| Tuffsteinziegel | `tuff_bricks` | 665 | 0,7 % |
+| Tuffsteinziegel | `tuff_bricks` | 662 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 239 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 206 | 0,2 % |
-| Seelaterne | `sea_lantern` | 172 | 0,2 % |
+| Seelaterne | `sea_lantern` | 175 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 77 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 71 | 0,1 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 38 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 18 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 19 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 19 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 18 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
@@ -57,7 +58,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 160 |
-| Steintreppe | `stone_stairs` | 120 |
+| Steintreppe | `stone_stairs` | 122 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -67,8 +68,8 @@
 | 2 | `r1599929_innen` | Reihenhaus an Borgo de' Greci: Innenausbau | 7.162 | 5.18–5.23 |
 | 3 | `r4100934` | Palazzo des Cinquecento an Via dei Magalotti | 22.882 | 5.24–5.37 |
 | 4 | `r4100934_innen` | Palazzo des Cinquecento an Via dei Magalotti: Innenausbau | 5.200 | 5.38–5.41 |
-| 5 | `w307111265` | Palazzo Peruzzi | 8.267 | 5.42–5.46 |
-| 6 | `w307111265_innen` | Palazzo Peruzzi: Innenausbau | 2.017 | 5.47 |
+| 5 | `w307111265` | Palazzo Peruzzi | 8.259 | 5.42–5.46 |
+| 6 | `w307111265_innen` | Palazzo Peruzzi: Innenausbau | 2.024 | 5.47 |
 | 7 | `w307111268` | Reihenhaus an Via dei Magalotti | 7.274 | 5.48–5.51 |
 | 8 | `w307111268_innen` | Reihenhaus an Via dei Magalotti: Innenausbau | 2.020 | 5.52 |
 | 9 | `w307111269` | Palazzo Venerosi Pesciolini | 10.781 | 5.53–5.59 |
@@ -1401,22 +1402,21 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.42 – Palazzo Peruzzi – Teil 1/5 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.706
+- **Blöcke:** 1.686
 - **Bauteile:** `w307111265`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.147 |
-| Orange Keramik | `orange_terracotta` | 473 |
-| Weißer Beton | `white_concrete` | 68 |
-| Polierter Andesit | `polished_andesite` | 12 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 1.146 |
+| Rosa Keramik | `pink_terracotta` | 489 |
+| Polierter Andesit | `polished_andesite` | 47 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (aus zwei mittelalterlichen Kaufmannshöfen; im 18. Jh. stark verändert; Restaurierung 1970er), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi_(via_de'_Rustici), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1428,28 +1428,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.43 – Palazzo Peruzzi – Teil 2/5 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
-- **Blöcke:** 1.626
+- **Blöcke:** 1.635
 - **Bauteile:** `w307111265`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.361 |
-| Weißer Beton | `white_concrete` | 122 |
+| Rosa Keramik | `pink_terracotta` | 1.363 |
+| Polierter Andesit | `polished_andesite` | 144 |
 | Glatter Stein | `smooth_stone` | 73 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Polierter Andesit | `polished_andesite` | 18 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (aus zwei mittelalterlichen Kaufmannshöfen; im 18. Jh. stark verändert; Restaurierung 1970er), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi_(via_de'_Rustici), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1461,26 +1460,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.44 – Palazzo Peruzzi – Teil 3/5 (Y 74–82)
 
 - **Y-Bereich:** 74 bis 82
-- **Blöcke:** 1.626
+- **Blöcke:** 1.620
 - **Bauteile:** `w307111265`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.317 |
-| Weißer Beton | `white_concrete` | 171 |
+| Rosa Keramik | `pink_terracotta` | 1.330 |
+| Polierter Andesit | `polished_andesite` | 139 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
 | Glatter Stein | `smooth_stone` | 73 |
-| Graues Buntglas | `gray_stained_glass` | 65 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (aus zwei mittelalterlichen Kaufmannshöfen; im 18. Jh. stark verändert; Restaurierung 1970er), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi_(via_de'_Rustici), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1492,26 +1491,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.45 – Palazzo Peruzzi – Teil 4/5 (Y 83–91)
 
 - **Y-Bereich:** 83 bis 91
-- **Blöcke:** 1.772
+- **Blöcke:** 1.781
 - **Bauteile:** `w307111265`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.395 |
-| Weißer Beton | `white_concrete` | 202 |
+| Rosa Keramik | `pink_terracotta` | 1.445 |
+| Polierter Andesit | `polished_andesite` | 161 |
 | Glatter Stein | `smooth_stone` | 110 |
 | Graues Buntglas | `gray_stained_glass` | 65 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (aus zwei mittelalterlichen Kaufmannshöfen; im 18. Jh. stark verändert; Restaurierung 1970er), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi_(via_de'_Rustici), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1523,7 +1522,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.46 – Palazzo Peruzzi – Teil 5/5 (Y 92–99)
 
@@ -1540,7 +1539,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (aus zwei mittelalterlichen Kaufmannshöfen; im 18. Jh. stark verändert; Restaurierung 1970er), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi_(via_de'_Rustici), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1552,29 +1551,31 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.47 – Palazzo Peruzzi: Innenausbau
 
-- **Y-Bereich:** 61 bis 81
-- **Blöcke:** 2.017
+- **Y-Bereich:** 61 bis 82
+- **Blöcke:** 2.024
 - **Bauteile:** `w307111265_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.910 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
-| Seelaterne | `sea_lantern` | 15 |
+| Terrakotta | `terracotta` | 1.908 |
+| Glatter Stein | `smooth_stone` | 54 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
+| Seelaterne | `sea_lantern` | 18 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 
 **Beschreibung**
 
@@ -2071,7 +2072,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich, Umbauten Capoquadri Ende 18. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Peruzzi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2083,7 +2084,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.63 – Torre dei Peruzzi – Teil 2/3 (Y 72–87)
 
@@ -2102,7 +2103,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich, Umbauten Capoquadri Ende 18. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Peruzzi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2114,7 +2115,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.64 – Torre dei Peruzzi – Teil 3/3 (Y 88–97)
 
@@ -2136,7 +2137,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich, Umbauten Capoquadri Ende 18. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Peruzzi, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2148,7 +2149,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.65 – Torre dei Peruzzi: Innenausbau & Straßenschilder
 

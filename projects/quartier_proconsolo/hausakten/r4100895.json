@@ -1,49 +1,53 @@
 {
   "id": "r4100895",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "achsen": 11,
+    "material": "putz",
+    "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_serena",
+      "typ": "rechteck",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "bossenrahmen_fenster",
+      "wappen_visconti_mittig",
+      "portale_kunststein_1928"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Umbau von vier mittelalterlichen Peruzzi-Höfen, Fassade quattrocentesk, aber großteils Restaurierung (um 1928), drei hohe Geschosse, elf Fensterachsen, steinerne Bossen-Einfassungen und Gurtgesims, Portale und Fenster in Kunststein neu gestaltet, Eisengitter im EG, großes Wappen in der Mitte. Annahme: Putzfarbe, Gesims, Dachform.",
   "name": "Palazzo Visconti di Modrone"
 }

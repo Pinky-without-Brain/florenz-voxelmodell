@@ -1,37 +1,33 @@
 {
   "id": "r4101019",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "15. Jh.; Neuaufbau und Restaurierung 1928",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 13
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 13
     },
     {
       "art": "og",
-      "hoeheBl": 9
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 11
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 6,
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "portalBreiteBl": 5,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "rundbogen",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -39,15 +35,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "doppelportal_rundbogen",
+      "gurtgesimse",
+      "wappen_tafani_drei_bremsen",
+      "inschrift_restaurierung_1928"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Tafani_da_Barberino",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Palast des 15. Jh., 1928 stark erneuert, EG mit doppeltem Rundbogenportal und rechteckigen Fenstern, darüber eine doppelte Reihe von sechs Bogenfenstern, Gurtgesimse, Wappen mit drei Bremsen (Tafani). Annahme: Geschosszahl 3, Putz und Farbe, Gesims, Dachform.",
   "name": "Palazzo Tafani da Barberino"
 }

@@ -8,42 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.925 |
+| Blöcke | 40.977 |
 | Bauschritte | 25 |
 | Y-Bereich | 60 bis 108 |
 | X-Ausdehnung | 361 bis 441 (81 Blöcke) |
 | Z-Ausdehnung | 970 bis 1076 (107 Blöcke) |
 | Kleinster Schritt | 718 Blöcke (Schritt 7.7) |
-| Mittlerer Schritt | 1.637 Blöcke |
-| Größter Schritt | 2.092 Blöcke (Schritt 7.24) |
+| Mittlerer Schritt | 1.639 Blöcke |
+| Größter Schritt | 2.100 Blöcke (Schritt 7.23) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 11.863 | 29,0 % |
-| Tuffstein | `tuff` | 9.094 | 22,2 % |
-| Glatter Stein | `smooth_stone` | 4.572 | 11,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.934 | 24,2 % |
+| Glatter Stein | `smooth_stone` | 3.925 | 9,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.718 | 9,1 % |
+| Tuffstein | `tuff` | 3.567 | 8,7 % |
 | Polierter Tuffstein | `polished_tuff` | 3.358 | 8,2 % |
-| Polierter Andesit | `polished_andesite` | 2.993 | 7,3 % |
 | Orange Keramik | `orange_terracotta` | 2.091 | 5,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.181 | 2,9 % |
-| Graues Buntglas | `gray_stained_glass` | 824 | 2,0 % |
+| Graues Buntglas | `gray_stained_glass` | 831 | 2,0 % |
 | Weißer Beton | `white_concrete` | 639 | 1,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 211 | 0,5 % |
+| Polierter Andesit | `polished_andesite` | 184 | 0,4 % |
 | Ziegelsteine | `bricks` | 157 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 138 | 0,3 % |
+| Grüner Beton | `green_concrete` | 64 | 0,2 % |
 | Seelaterne | `sea_lantern` | 62 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 52 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 31 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 30 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 29 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 26 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 6 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 4 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
@@ -53,7 +55,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 106 |
-| Steintreppe | `stone_stairs` | 56 |
+| Steintreppe | `stone_stairs` | 60 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -65,8 +67,8 @@
 | 4 | `w486626748_innen` | Reihenhaus an Via delle Brache: Innenausbau | 718 | 7.7 |
 | 5 | `w486626749` | Wohnturm an Via delle Brache | 4.681 | 7.8–7.10 |
 | 6 | `w486626749_innen` | Wohnturm an Via delle Brache: Innenausbau | 5 | 7.11 |
-| 7 | `w486626750` | Palazzo Salutati | 20.036 | 7.11–7.22 |
-| 8 | `w486626750_innen` | Palazzo Salutati: Innenausbau | 6.295 | 7.22–7.25 |
+| 7 | `w486626750` | Palazzo Salutati | 20.084 | 7.11–7.22 |
+| 8 | `w486626750_innen` | Palazzo Salutati: Innenausbau | 6.299 | 7.22–7.25 |
 | 9 | `strassenschilder` | Straßenschilder | 9 | 7.25 |
 
 ## Bauschritte
@@ -433,7 +435,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -445,12 +447,12 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.12 – Palazzo Salutati – Teil 2/12 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.854
+- **Blöcke:** 1.926
 - **Bauteile:** `w486626750`
 
 **Teileliste**
@@ -458,14 +460,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.198 |
-| Tuffstein | `tuff` | 457 |
-| Tuffsteinziegel | `tuff_bricks` | 179 |
-| Glatter Stein | `smooth_stone` | 17 |
-| Polierter Andesit | `polished_andesite` | 3 |
+| Gelbe Keramik | `yellow_terracotta` | 707 |
+| Polierter Andesit | `polished_andesite` | 12 |
+| Glatter Stein | `smooth_stone` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -477,27 +479,90 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.13 – Palazzo Salutati – Teil 3/12 (Y 64–69)
+### Schritt 7.13 – Palazzo Salutati – Teil 3/12 (Y 64–68)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.906
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.780
 - **Bauteile:** `w486626750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.094 |
-| Glatter Stein | `smooth_stone` | 432 |
-| Tuffsteinziegel | `tuff_bricks` | 216 |
+| Gelbe Keramik | `yellow_terracotta` | 1.279 |
+| Glatter Stein | `smooth_stone` | 320 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Polierter Andesit | `polished_andesite` | 35 |
+| Grüner Beton | `green_concrete` | 16 |
+| Tuffsteinziegel | `tuff_bricks` | 10 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 7.14 – Palazzo Salutati – Teil 4/12 (Y 69–73)
+
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.868
+- **Bauteile:** `w486626750`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.432 |
+| Glatter Stein | `smooth_stone` | 418 |
+| Polierter Andesit | `polished_andesite` | 18 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 7.15 – Palazzo Salutati – Teil 5/12 (Y 74–78)
+
+- **Y-Bereich:** 74 bis 78
+- **Blöcke:** 1.750
+- **Bauteile:** `w486626750`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.275 |
+| Glatter Stein | `smooth_stone` | 275 |
 | Graues Buntglas | `gray_stained_glass` | 155 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Polierter Andesit | `polished_andesite` | 25 |
+| Grüner Beton | `green_concrete` | 20 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -509,89 +574,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.14 – Palazzo Salutati – Teil 4/12 (Y 70–74)
-
-- **Y-Bereich:** 70 bis 74
-- **Blöcke:** 1.872
-- **Bauteile:** `w486626750`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 864 |
-| Glatter Stein | `smooth_stone` | 561 |
-| Tuffsteinziegel | `tuff_bricks` | 257 |
-| Polierter Andesit | `polished_andesite` | 190 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.15 – Palazzo Salutati – Teil 5/12 (Y 75–78)
-
-- **Y-Bereich:** 75 bis 78
-- **Blöcke:** 1.420
-- **Bauteile:** `w486626750`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 492 |
-| Glatter Stein | `smooth_stone` | 303 |
-| Tuffsteinziegel | `tuff_bricks` | 280 |
-| Polierter Andesit | `polished_andesite` | 246 |
-| Graues Buntglas | `gray_stained_glass` | 99 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.16 – Palazzo Salutati – Teil 6/12 (Y 79–82)
 
 - **Y-Bereich:** 79 bis 82
-- **Blöcke:** 1.610
+- **Blöcke:** 1.460
 - **Bauteile:** `w486626750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 621 |
-| Tuffstein | `tuff` | 552 |
-| Polierter Andesit | `polished_andesite` | 386 |
-| Tuffsteinziegel | `tuff_bricks` | 51 |
+| Gelbe Keramik | `yellow_terracotta` | 903 |
+| Glatter Stein | `smooth_stone` | 511 |
+| Graues Buntglas | `gray_stained_glass` | 31 |
+| Polierter Andesit | `polished_andesite` | 11 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -603,26 +606,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.17 – Palazzo Salutati – Teil 7/12 (Y 83–87)
 
 - **Y-Bereich:** 83 bis 87
-- **Blöcke:** 1.770
+- **Blöcke:** 1.808
 - **Bauteile:** `w486626750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 660 |
-| Tuffstein | `tuff` | 610 |
-| Glatter Stein | `smooth_stone` | 368 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
+| Gelbe Keramik | `yellow_terracotta` | 1.414 |
+| Glatter Stein | `smooth_stone` | 269 |
+| Graues Buntglas | `gray_stained_glass` | 93 |
+| Polierter Andesit | `polished_andesite` | 20 |
+| Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -634,25 +638,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.18 – Palazzo Salutati – Teil 8/12 (Y 88–91)
 
 - **Y-Bereich:** 88 bis 91
-- **Blöcke:** 1.589
+- **Blöcke:** 1.460
 - **Bauteile:** `w486626750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 552 |
-| Polierter Andesit | `polished_andesite` | 528 |
-| Glatter Stein | `smooth_stone` | 509 |
+| Gelbe Keramik | `yellow_terracotta` | 898 |
+| Glatter Stein | `smooth_stone` | 511 |
+| Graues Buntglas | `gray_stained_glass` | 31 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -664,26 +670,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.19 – Palazzo Salutati – Teil 9/12 (Y 92–96)
 
 - **Y-Bereich:** 92 bis 96
-- **Blöcke:** 1.922
+- **Blöcke:** 1.939
 - **Bauteile:** `w486626750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 655 |
-| Tuffstein | `tuff` | 630 |
-| Glatter Stein | `smooth_stone` | 538 |
-| Graues Buntglas | `gray_stained_glass` | 99 |
+| Gelbe Keramik | `yellow_terracotta` | 1.433 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Graues Buntglas | `gray_stained_glass` | 62 |
+| Polierter Andesit | `polished_andesite` | 25 |
+| Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -695,7 +702,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.20 – Palazzo Salutati – Teil 10/12 (Y 97–98)
 
@@ -707,13 +714,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 812 |
-| Polierter Andesit | `polished_andesite` | 303 |
-| Tuffstein | `tuff` | 276 |
+| Glatter Stein | `smooth_stone` | 789 |
+| Gelbe Keramik | `yellow_terracotta` | 593 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -725,7 +732,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.21 – Palazzo Salutati – Teil 11/12 (Y 99–100)
 
@@ -741,7 +748,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -753,12 +760,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.22 – Palazzo Salutati – Teil 12/12 (Y 101–108) & Palazzo Salutati: Innenausbau – Teil 1/4 (Y 61–71)
+### Schritt 7.22 – Palazzo Salutati – Teil 12/12 (Y 101–108) & Palazzo Salutati: Innenausbau – Teil 1/4 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 108
-- **Blöcke:** 1.956
+- **Blöcke:** 1.952
 - **Bauteile:** `w486626750`, `w486626750_innen`
 
 **Teileliste**
@@ -767,20 +774,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.760 |
 | Ziegelsteine | `bricks` | 137 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 18 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Palazzo des Cinquecento (grundlegender Umbau im 18. Jh. (Limburger: 17. Jh.)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Salutati, Angaben belegt (Sicherheit 0,65). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -792,12 +799,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.23 – Palazzo Salutati: Innenausbau – Teil 2/4 (Y 72–79)
+### Schritt 7.23 – Palazzo Salutati: Innenausbau – Teil 2/4 (Y 71–81)
 
-- **Y-Bereich:** 72 bis 79
-- **Blöcke:** 2.090
+- **Y-Bereich:** 71 bis 81
+- **Blöcke:** 2.100
 - **Bauteile:** `w486626750_innen`
 
 **Teileliste**
@@ -805,18 +812,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.039 |
-| Glatter Stein | `smooth_stone` | 22 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 22 |
 
 **Beschreibung**
 
@@ -834,9 +839,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.24 – Palazzo Salutati: Innenausbau – Teil 3/4 (Y 80–88)
+### Schritt 7.24 – Palazzo Salutati: Innenausbau – Teil 3/4 (Y 82–90)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 82 bis 90
 - **Blöcke:** 2.092
 - **Bauteile:** `w486626750_innen`
 
@@ -847,8 +852,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Terrakotta | `terracotta` | 2.039 |
 | Glatter Stein | `smooth_stone` | 24 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -872,10 +877,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.25 – Palazzo Salutati: Innenausbau – Teil 4/4 (Y 89–90) & Straßenschilder
+### Schritt 7.25 – Palazzo Salutati: Innenausbau – Teil 4/4 (Y 91–91) & Straßenschilder
 
-- **Y-Bereich:** 67 bis 90
-- **Blöcke:** 2.063
+- **Y-Bereich:** 67 bis 91
+- **Blöcke:** 2.061
 - **Bauteile:** `w486626750_innen`, `strassenschilder`
 
 **Teileliste**
@@ -887,10 +892,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

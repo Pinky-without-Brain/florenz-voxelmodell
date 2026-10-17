@@ -1,49 +1,57 @@
 {
   "id": "w306156987",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Umbau 1865-71 (Hauptstadtzeit), neorenaissance; Restaurierung um 1989",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
-    "material": "putz",
+    "achsen": 6,
+    "material": "bugnato_glatt",
     "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "bugnato_kunststein_eg_und_ecken",
+      "loggia_16jh_eg_freigelegt",
+      "dante_gedenktafel_1865"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Columbia-Parlamento",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Fassade im Stil des 19. Jh. (Umbau 1865-71 in Anlehnung an die Renaissance) auf Resten Peruzzi-Häuser des 14./15. Jh., vier Stockwerke, sechs Achsen zum Borgo dei Greci und sechs zur Via dei Leoni, EG und Ecken in Bossenwerk aus Kunststein, Loggia des 16. Jh. in den 1980ern freigelegt, Dante-Tafel von 1865. Annahme: Fenstertyp, Gesims, Dachform.",
   "name": "Palazzo Columbia-Parlamento"
 }

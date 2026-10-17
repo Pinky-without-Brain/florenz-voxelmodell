@@ -1,7 +1,7 @@
 {
   "id": "w307111270",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "mittelalterlich, Umbauten Capoquadri Ende 18. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -38,15 +38,22 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "fassade_gebrochen_eckturm",
+      "wappen_peruzzi",
+      "wappen_capoquadri_portal",
+      "ruestloecher_mit_konsolen",
+      "relief_bartholomaeus_15jh",
+      "rustika_bogen_borgo_greci"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Peruzzi",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: ausgedehnter Bau mit gebrochener Fassadenlinie (integrierter Eckturm), Capoquadri entfernten den Putz und veränderten die Fenster (Ende 18. Jh.), Peruzzi-Wappen oben, Capoquadri-Wappen am Hauptportal, Rüstlöcher mit Konsolen, Relief des hl. Bartholomäus (15. Jh.). Annahme: Geschosszahl, Achsen, Dach (kein Baudatum im Artikel).",
   "name": "Torre dei Peruzzi"
 }

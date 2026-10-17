@@ -8,55 +8,56 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 106.343 |
-| Bauschritte | 66 |
+| Blöcke | 107.461 |
+| Bauschritte | 67 |
 | Y-Bereich | 60 bis 100 |
 | X-Ausdehnung | 278 bis 408 (131 Blöcke) |
 | Z-Ausdehnung | 943 bis 1155 (213 Blöcke) |
 | Kleinster Schritt | 422 Blöcke (Schritt 6.56) |
-| Mittlerer Schritt | 1.611 Blöcke |
+| Mittlerer Schritt | 1.604 Blöcke |
 | Größter Schritt | 2.070 Blöcke (Schritt 6.38) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 31.886 | 30,0 % |
-| Endsteinziegel | `end_stone_bricks` | 16.666 | 15,7 % |
-| Tuffstein | `tuff` | 13.130 | 12,3 % |
-| Polierter Tuffstein | `polished_tuff` | 10.605 | 10,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.769 | 7,3 % |
-| Polierter Andesit | `polished_andesite` | 6.889 | 6,5 % |
-| Glatter Stein | `smooth_stone` | 6.880 | 6,5 % |
+| Terrakotta | `terracotta` | 32.845 | 30,6 % |
+| Endsteinziegel | `end_stone_bricks` | 16.666 | 15,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 13.429 | 12,5 % |
+| Polierter Tuffstein | `polished_tuff` | 10.605 | 9,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.769 | 7,2 % |
+| Glatter Stein | `smooth_stone` | 5.913 | 5,5 % |
+| Orange Keramik | `orange_terracotta` | 5.006 | 4,7 % |
 | Rosa Keramik | `pink_terracotta` | 4.710 | 4,4 % |
-| Graues Buntglas | `gray_stained_glass` | 2.505 | 2,4 % |
+| Polierter Andesit | `polished_andesite` | 3.708 | 3,5 % |
+| Graues Buntglas | `gray_stained_glass` | 2.607 | 2,4 % |
 | Weißer Beton | `white_concrete` | 2.046 | 1,9 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.213 | 1,1 % |
 | Ziegelsteine | `bricks` | 675 | 0,6 % |
-| Grüner Beton | `green_concrete` | 405 | 0,4 % |
+| Grüner Beton | `green_concrete` | 450 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 274 | 0,3 % |
-| Seelaterne | `sea_lantern` | 177 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 160 | 0,2 % |
+| Seelaterne | `sea_lantern` | 185 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 161 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 66 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 60 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 58 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 54 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 25 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 25 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 62 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 59 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 57 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 47 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 26 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 26 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 9 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 160 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 126 |
+| Steintreppe | `stone_stairs` | 168 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 128 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -64,19 +65,19 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1605478` | Palazzo des Cinquecento an Via del Canto Rivolto | 23.722 | 6.1–6.17 |
 | 2 | `r1605478_innen` | Palazzo des Cinquecento an Via del Canto Rivolto: Innenausbau | 4.704 | 6.18–6.21 |
-| 3 | `r4100895` | Palazzo Visconti di Modrone | 24.485 | 6.22–6.35 |
-| 4 | `r4100895_innen` | Palazzo Visconti di Modrone: Innenausbau | 3.599 | 6.36–6.37 |
+| 3 | `r4100895` | Palazzo Visconti di Modrone | 24.399 | 6.22–6.35 |
+| 4 | `r4100895_innen` | Palazzo Visconti di Modrone: Innenausbau | 3.603 | 6.36–6.37 |
 | 5 | `r4101053` | Palazzo di Alberto di Zanobi | 14.817 | 6.38–6.45 |
 | 6 | `r4101053_innen` | Palazzo di Alberto di Zanobi: Innenausbau | 3.600 | 6.46–6.47 |
 | 7 | `w115554511` | Reihenhaus an Via dei Rustici | 6.102 | 6.48–6.50 |
 | 8 | `w115554511_innen` | Reihenhaus an Via dei Rustici: Innenausbau | 2.489 | 6.51–6.52 |
 | 9 | `w307106620` | Reihenhaus an Piazza dei Peruzzi | 4.429 | 6.53–6.55 |
 | 10 | `w307106620_innen` | Reihenhaus an Piazza dei Peruzzi: Innenausbau | 422 | 6.56 |
-| 11 | `w307106626` | Palazzo Borgianni | 9.710 | 6.57–6.61 |
-| 12 | `w307106626_innen` | Palazzo Borgianni: Innenausbau | 2.044 | 6.62 |
-| 13 | `w307106631` | Reihenhaus an Via dei Rustici | 4.360 | 6.63–6.65 |
-| 14 | `w307106631_innen` | Reihenhaus an Via dei Rustici: Innenausbau | 1.843 | 6.66 |
-| 15 | `strassenschilder` | Straßenschilder | 17 | 6.66 |
+| 11 | `w307106626` | Palazzo Borgianni | 9.920 | 6.57–6.61 |
+| 12 | `w307106626_innen` | Palazzo Borgianni: Innenausbau | 3.034 | 6.62–6.63 |
+| 13 | `w307106631` | Reihenhaus an Via dei Rustici | 4.360 | 6.64–6.66 |
+| 14 | `w307106631_innen` | Reihenhaus an Via dei Rustici: Innenausbau | 1.843 | 6.67 |
+| 15 | `strassenschilder` | Straßenschilder | 17 | 6.67 |
 
 ## Bauschritte
 
@@ -743,7 +744,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -755,12 +756,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.23 – Palazzo Visconti di Modrone – Teil 2/14 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.784
+- **Blöcke:** 1.785
 - **Bauteile:** `r4100895`
 
 **Teileliste**
@@ -768,14 +769,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.185 |
-| Tuffstein | `tuff` | 335 |
-| Polierter Andesit | `polished_andesite` | 143 |
-| Tuffsteinziegel | `tuff_bricks` | 109 |
-| Glatter Stein | `smooth_stone` | 12 |
+| Glatter Sandstein | `smooth_sandstone` | 584 |
+| Polierter Andesit | `polished_andesite` | 14 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -787,27 +787,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.24 – Palazzo Visconti di Modrone – Teil 3/14 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.798
+- **Blöcke:** 1.797
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 960 |
-| Polierter Andesit | `polished_andesite` | 272 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Tuffsteinziegel | `tuff_bricks` | 254 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
+| Glatter Sandstein | `smooth_sandstone` | 1.424 |
+| Polierter Andesit | `polished_andesite` | 296 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Grüner Beton | `green_concrete` | 3 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -819,27 +819,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.25 – Palazzo Visconti di Modrone – Teil 4/14 (Y 66–68)
 
 - **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.683
+- **Blöcke:** 1.665
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 879 |
-| Polierter Andesit | `polished_andesite` | 258 |
-| Glatter Stein | `smooth_stone` | 221 |
-| Graues Buntglas | `gray_stained_glass` | 174 |
-| Tuffsteinziegel | `tuff_bricks` | 151 |
+| Glatter Sandstein | `smooth_sandstone` | 1.179 |
+| Polierter Andesit | `polished_andesite` | 331 |
+| Graues Buntglas | `gray_stained_glass` | 140 |
+| Grüner Beton | `green_concrete` | 9 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -851,27 +851,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.26 – Palazzo Visconti di Modrone – Teil 5/14 (Y 69–71)
 
 - **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.773
+- **Blöcke:** 1.947
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 969 |
-| Polierter Andesit | `polished_andesite` | 314 |
-| Tuffsteinziegel | `tuff_bricks` | 230 |
-| Glatter Stein | `smooth_stone` | 202 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
+| Glatter Sandstein | `smooth_sandstone` | 1.391 |
+| Glatter Stein | `smooth_stone` | 397 |
+| Polierter Andesit | `polished_andesite` | 159 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -883,25 +881,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.27 – Palazzo Visconti di Modrone – Teil 6/14 (Y 72–74)
 
 - **Y-Bereich:** 72 bis 74
-- **Blöcke:** 1.993
+- **Blöcke:** 1.816
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.014 |
-| Glatter Stein | `smooth_stone` | 584 |
-| Polierter Andesit | `polished_andesite` | 395 |
+| Glatter Sandstein | `smooth_sandstone` | 1.437 |
+| Polierter Andesit | `polished_andesite` | 304 |
+| Graues Buntglas | `gray_stained_glass` | 72 |
+| Grüner Beton | `green_concrete` | 3 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -913,26 +912,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.28 – Palazzo Visconti di Modrone – Teil 7/14 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.680
+- **Blöcke:** 1.659
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 876 |
-| Polierter Andesit | `polished_andesite` | 404 |
-| Glatter Stein | `smooth_stone` | 217 |
-| Graues Buntglas | `gray_stained_glass` | 183 |
+| Glatter Sandstein | `smooth_sandstone` | 1.181 |
+| Polierter Andesit | `polished_andesite` | 253 |
+| Graues Buntglas | `gray_stained_glass` | 216 |
+| Grüner Beton | `green_concrete` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -944,26 +943,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.29 – Palazzo Visconti di Modrone – Teil 8/14 (Y 78–80)
 
 - **Y-Bereich:** 78 bis 80
-- **Blöcke:** 1.726
+- **Blöcke:** 1.712
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 922 |
-| Polierter Andesit | `polished_andesite` | 397 |
-| Glatter Stein | `smooth_stone` | 285 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
+| Glatter Sandstein | `smooth_sandstone` | 1.230 |
+| Polierter Andesit | `polished_andesite` | 332 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -975,25 +974,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.30 – Palazzo Visconti di Modrone – Teil 9/14 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
-- **Blöcke:** 1.993
+- **Blöcke:** 1.947
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.014 |
-| Glatter Stein | `smooth_stone` | 584 |
-| Polierter Andesit | `polished_andesite` | 395 |
+| Glatter Sandstein | `smooth_sandstone` | 1.544 |
+| Glatter Stein | `smooth_stone` | 397 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1005,26 +1004,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.31 – Palazzo Visconti di Modrone – Teil 10/14 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.680
+- **Blöcke:** 1.763
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 876 |
-| Polierter Andesit | `polished_andesite` | 397 |
-| Glatter Stein | `smooth_stone` | 224 |
-| Graues Buntglas | `gray_stained_glass` | 183 |
+| Glatter Sandstein | `smooth_sandstone` | 1.230 |
+| Polierter Andesit | `polished_andesite` | 383 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1036,26 +1035,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.32 – Palazzo Visconti di Modrone – Teil 11/14 (Y 87–89)
 
 - **Y-Bereich:** 87 bis 89
-- **Blöcke:** 1.869
+- **Blöcke:** 1.802
 - **Bauteile:** `r4100895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 922 |
-| Glatter Stein | `smooth_stone` | 421 |
-| Polierter Andesit | `polished_andesite` | 404 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
+| Glatter Sandstein | `smooth_sandstone` | 1.181 |
+| Polierter Andesit | `polished_andesite` | 253 |
+| Graues Buntglas | `gray_stained_glass` | 216 |
+| Glatter Stein | `smooth_stone` | 143 |
+| Grüner Beton | `green_concrete` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1067,7 +1067,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.33 – Palazzo Visconti di Modrone – Teil 12/14 (Y 90–91)
 
@@ -1079,13 +1079,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 778 |
-| Tuffstein | `tuff` | 676 |
-| Polierter Andesit | `polished_andesite` | 523 |
+| Glatter Sandstein | `smooth_sandstone` | 1.048 |
+| Glatter Stein | `smooth_stone` | 765 |
+| Polierter Andesit | `polished_andesite` | 164 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1097,7 +1097,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.34 – Palazzo Visconti di Modrone – Teil 13/14 (Y 92–92)
 
@@ -1113,7 +1113,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1125,7 +1125,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.35 – Palazzo Visconti di Modrone – Teil 14/14 (Y 93–100)
 
@@ -1142,7 +1142,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento-Formen, aus vier mittelalterlichen Kaufmannshöfen; Restaurierung um 1928), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Visconti_di_Modrone_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1154,12 +1154,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.36 – Palazzo Visconti di Modrone: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 6.36 – Palazzo Visconti di Modrone: Innenausbau – Teil 1/2 (Y 61–71)
 
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.803
+- **Y-Bereich:** 61 bis 71
+- **Blöcke:** 1.799
 - **Bauteile:** `r4100895_innen`
 
 **Teileliste**
@@ -1167,9 +1167,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.728 |
-| Glatter Stein | `smooth_stone` | 28 |
+| Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 22 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
@@ -1179,7 +1179,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1198,10 +1198,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.37 – Palazzo Visconti di Modrone: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 6.37 – Palazzo Visconti di Modrone: Innenausbau – Teil 2/2 (Y 72–83)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.796
+- **Y-Bereich:** 72 bis 83
+- **Blöcke:** 1.804
 - **Bauteile:** `r4100895_innen`
 
 **Teileliste**
@@ -1209,10 +1209,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.728 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -1223,7 +1223,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1882,7 +1882,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.57 – Palazzo Borgianni – Teil 1/5 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
-- **Blöcke:** 2.004
+- **Blöcke:** 2.062
 - **Bauteile:** `w307106626`
 
 **Teileliste**
@@ -1890,14 +1890,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.193 |
-| Tuffstein | `tuff` | 582 |
-| Polierter Andesit | `polished_andesite` | 110 |
-| Tuffsteinziegel | `tuff_bricks` | 98 |
-| Graues Buntglas | `gray_stained_glass` | 21 |
+| Orange Keramik | `orange_terracotta` | 683 |
+| Glatter Stein | `smooth_stone` | 132 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Renaissance, Umbauten ab 1518 (Matteo di Matteo Borgianni); Arbeiten des 19. Jh. im Renaissancestil), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Borgianni, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1909,27 +1910,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.58 – Palazzo Borgianni – Teil 2/5 (Y 66–74)
+### Schritt 6.58 – Palazzo Borgianni – Teil 2/5 (Y 66–73)
 
-- **Y-Bereich:** 66 bis 74
-- **Blöcke:** 1.961
+- **Y-Bereich:** 66 bis 73
+- **Blöcke:** 1.826
 - **Bauteile:** `w307106626`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.212 |
-| Polierter Andesit | `polished_andesite` | 331 |
-| Tuffsteinziegel | `tuff_bricks` | 187 |
-| Glatter Stein | `smooth_stone` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 83 |
+| Orange Keramik | `orange_terracotta` | 1.385 |
+| Glatter Stein | `smooth_stone` | 363 |
+| Graues Buntglas | `gray_stained_glass` | 65 |
+| Polierter Andesit | `polished_andesite` | 8 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Renaissance, Umbauten ab 1518 (Matteo di Matteo Borgianni); Arbeiten des 19. Jh. im Renaissancestil), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Borgianni, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1941,27 +1942,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.59 – Palazzo Borgianni – Teil 3/5 (Y 75–82)
+### Schritt 6.59 – Palazzo Borgianni – Teil 3/5 (Y 74–82)
 
-- **Y-Bereich:** 75 bis 82
-- **Blöcke:** 1.784
+- **Y-Bereich:** 74 bis 82
+- **Blöcke:** 2.015
 - **Bauteile:** `w307106626`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 887 |
-| Polierter Andesit | `polished_andesite` | 479 |
-| Tuffsteinziegel | `tuff_bricks` | 160 |
-| Glatter Stein | `smooth_stone` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
+| Orange Keramik | `orange_terracotta` | 1.429 |
+| Glatter Stein | `smooth_stone` | 456 |
+| Graues Buntglas | `gray_stained_glass` | 130 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Renaissance, Umbauten ab 1518 (Matteo di Matteo Borgianni); Arbeiten des 19. Jh. im Renaissancestil), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Borgianni, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1973,26 +1972,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.60 – Palazzo Borgianni – Teil 4/5 (Y 83–90)
 
 - **Y-Bereich:** 83 bis 90
-- **Blöcke:** 1.911
+- **Blöcke:** 1.967
 - **Bauteile:** `w307106626`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 887 |
-| Polierter Andesit | `polished_andesite` | 761 |
-| Glatter Stein | `smooth_stone` | 153 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
+| Orange Keramik | `orange_terracotta` | 1.283 |
+| Glatter Stein | `smooth_stone` | 597 |
+| Graues Buntglas | `gray_stained_glass` | 87 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Renaissance, Umbauten ab 1518 (Matteo di Matteo Borgianni); Arbeiten des 19. Jh. im Renaissancestil), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Borgianni, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2004,7 +2002,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.61 – Palazzo Borgianni – Teil 5/5 (Y 91–97)
 
@@ -2017,14 +2015,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.582 |
+| Orange Keramik | `orange_terracotta` | 226 |
 | Glatter Stein | `smooth_stone` | 162 |
-| Tuffstein | `tuff` | 119 |
-| Polierter Andesit | `polished_andesite` | 107 |
 | Ziegelsteine | `bricks` | 80 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Renaissance, Umbauten ab 1518 (Matteo di Matteo Borgianni); Arbeiten des 19. Jh. im Renaissancestil), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Borgianni, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2036,36 +2033,34 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.62 – Palazzo Borgianni: Innenausbau
+### Schritt 6.62 – Palazzo Borgianni: Innenausbau – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 61 bis 81
-- **Blöcke:** 2.044
+- **Y-Bereich:** 61 bis 76
+- **Blöcke:** 1.057
 - **Bauteile:** `w307106626_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.918 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Seelaterne | `sea_lantern` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
+| Terrakotta | `terracotta` | 959 |
+| Glatter Stein | `smooth_stone` | 44 |
+| Seelaterne | `sea_lantern` | 16 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 16 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 14 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 30 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
@@ -2084,7 +2079,51 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.63 – Reihenhaus an Via dei Rustici – Teil 1/3 (Y 61–72)
+### Schritt 6.63 – Palazzo Borgianni: Innenausbau – Teil 2/2 (Y 77–84)
+
+- **Y-Bereich:** 77 bis 84
+- **Blöcke:** 1.977
+- **Bauteile:** `w307106626_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.918 |
+| Glatter Stein | `smooth_stone` | 20 |
+| Seelaterne | `sea_lantern` | 16 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 6 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 6.64 – Reihenhaus an Via dei Rustici – Teil 1/3 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.487
@@ -2116,7 +2155,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.64 – Reihenhaus an Via dei Rustici – Teil 2/3 (Y 73–87)
+### Schritt 6.65 – Reihenhaus an Via dei Rustici – Teil 2/3 (Y 73–87)
 
 - **Y-Bereich:** 73 bis 87
 - **Blöcke:** 1.450
@@ -2147,7 +2186,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.65 – Reihenhaus an Via dei Rustici – Teil 3/3 (Y 88–97)
+### Schritt 6.66 – Reihenhaus an Via dei Rustici – Teil 3/3 (Y 88–97)
 
 - **Y-Bereich:** 88 bis 97
 - **Blöcke:** 1.423
@@ -2181,7 +2220,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.66 – Reihenhaus an Via dei Rustici: Innenausbau & Straßenschilder
+### Schritt 6.67 – Reihenhaus an Via dei Rustici: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.860
