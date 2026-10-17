@@ -919,7 +919,7 @@ Lage und Form der Treppe sind frei gewählt (vereinfacht).
 
 **Beschreibung**
 
-Über den Schäften sitzt eine offene Laterne mit Hufeisenöffnungen auf allen vier Seiten.
+Über den Schäften sitzt eine offene Laterne mit Bogenöffnungen auf allen vier Seiten.
 
 **Tipp**
 
@@ -931,7 +931,7 @@ In den Türmen hängen keine Glocken.
 
 **Fakt**
 
-Die Türme tragen Hufeisenbögen und Zwiebelkuppeln (en.wikipedia).
+Die Türme tragen Hufeisenbögen und Zwiebelkuppeln (en.wikipedia); im Modell sind es Rundbögen und eine gestufte Kuppel.
 
 ### Schritt 1.30 – Turmlaternen – Teil 2/2 (Y 115–118)
 
@@ -948,7 +948,7 @@ Die Türme tragen Hufeisenbögen und Zwiebelkuppeln (en.wikipedia).
 
 **Beschreibung**
 
-Über den Schäften sitzt eine offene Laterne mit Hufeisenöffnungen auf allen vier Seiten.
+Über den Schäften sitzt eine offene Laterne mit Bogenöffnungen auf allen vier Seiten.
 
 **Tipp**
 
@@ -960,7 +960,7 @@ In den Türmen hängen keine Glocken.
 
 **Fakt**
 
-Die Türme tragen Hufeisenbögen und Zwiebelkuppeln (en.wikipedia).
+Die Türme tragen Hufeisenbögen und Zwiebelkuppeln (en.wikipedia); im Modell sind es Rundbögen und eine gestufte Kuppel.
 
 ### Schritt 1.31 – Turmkuppeln – Teil 1/2 (Y 119–124)
 
