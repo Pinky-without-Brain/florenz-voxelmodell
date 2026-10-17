@@ -1,7 +1,7 @@
 {
   "id": "w307153239",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "Ursprung 14./15. Jh., heutige Form nach 1490",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,48 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
+      "art": "portal_mittig",
+      "portalBreiteBl": 5,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "sgraffito_feltrini_erneuert",
+      "sertini_wappen_steinschild",
+      "fahnenhalter_eisen",
+      "kreuzstabfenster"
+    ],
+    "marcapiano": "flach",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Sertini",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Ursprung im 14./15. Jh., heutige Form im Wesentlichen nach 1490 (Ähnlichkeit zur Manier Baccio d'Agnolos), drei Geschosse, sieben Achsen an der Via de' Corsi, Bossenquader an der Ecke im Erdgeschoss, architraviertes Steinportal zwei Stufen über der Straße, Rechteckfenster mit Steinkreuzstäben auf durchlaufendem Steingesims, florentinische Gronda mit starkem Überstand, Sgraffiti (Andrea Feltrini zugeschrieben, im 19. Jh. erneuert, 1903 restauriert), Sertini-Wappen und eiserne Fahnenhalter. Annahme: Putzfarbe, Portalbreite.",
   "name": "Palazzo Sertini"
 }

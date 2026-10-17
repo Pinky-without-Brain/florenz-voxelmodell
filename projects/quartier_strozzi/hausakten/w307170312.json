@@ -1,24 +1,28 @@
 {
   "id": "w307170312",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "1578–84 (Ammannati), Umbau 1912/13 (Coppedè)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
+    "achsen": 8,
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
@@ -27,23 +31,30 @@
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "rucellai_wappen_nische",
+      "terrassentuer_giebel_muschel",
+      "stucktabernakel_madonna_15jh",
+      "gedenktafel_dudley_1895",
+      "ueberdachte_loggia_sporn"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Bau ab 1578, bis 1584 weitgehend fertig (Entwurf Bartolomeo Ammannati), Umbau 1912/13 durch Adolfo Coppedè, Front an der Via della Vigna Nuova drei Geschosse plus Attika, ursprünglich zehn, heute acht Achsen, verputzte Flächen mit Steinrahmungen, Hauptportal an der Vigna Nuova, Loggia am Sporn mit balustrierter Terrasse, Rucellai-Wappen, Stuck-Tabernakel mit Madonna (frühes 15. Jh.). Annahme: Putzfarbe, Fenstertyp, Gesims.",
   "name": "Palazzo Dudley"
 }

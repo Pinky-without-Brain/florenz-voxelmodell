@@ -1,15 +1,15 @@
 {
   "id": "w307295758",
   "typ": "loggia",
-  "epoche": "14.–15. Jh.",
+  "epoche": "Renaissance, um 1463–66 (Entwurf Leon Battista Alberti)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 6
+      "hoeheBl": 7
     },
     {
       "art": "og",
@@ -22,12 +22,13 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 3,
     "material": "stein_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
       "art": "loggia_offen",
-      "fenster": "keine"
+      "fenster": "keine",
+      "portalBreiteBl": 8
     },
     "fenster": {
       "typ": "rundbogen",
@@ -35,18 +36,23 @@
       "laeden": null
     },
     "gesims": {
-      "art": "keiner",
-      "tiefeBl": 0
+      "art": "cornicione_stein",
+      "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "drei_rundbogen_kannelierte_rahmung",
+      "korinthische_kapitelle",
+      "opus_sectile_fries_segel_ring_emblem",
+      "1677_zugemauert_1963_geoeffnet"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ loggia nach Name (Loggia); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Loggia_Rucellai",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: um 1463–66 nach Entwurf Leon Battista Albertis, drei große Rundbogen-Arkaden, kannelierte Rahmungen, Eckpfeiler, Halbsäulen und zwei freistehende Mittelsäulen mit korinthischen Kapitellen, Pietraforte, oberer Fries mit Rucellai-Emblemen (Segel, Ring mit Federn) in weißem Marmor-Opus-sectile, 1677 zugemauert und 1963 wieder geöffnet. Annahme: Gesims, Dach, Geschosshöhen.",
   "name": "Loggia Rucellai"
 }

@@ -1,11 +1,15 @@
 {
   "id": "w307170310",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "18. Jh. (Zusammenlegung älterer Gebäude)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
@@ -13,37 +17,43 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 9,
     "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "tropfen_schlusssteine",
+      "radiale_keilsteine",
+      "tornabuoni_wappen_zwei",
+      "ladengalerie_belle_donne"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzetto_Tornabuoni",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: 18. Jh., aus älteren Gebäuden der Giacomini und Strozzi unter den Tornabuoni zusammengelegt, vier Geschosse, in den beiden Obergeschossen je eine Reihe von neun Rundbogenfenstern mit Steinrahmen, tropfenförmigen Schlusssteinen und radialen Keilsteinen, großes zentrales Portal flankiert von Bogenportalen für Läden, Marcapiani, zwei kleine Tornabuoni-Wappen, Ladengalerie zur Via delle Belle Donne. Annahme: Putzfarbe, Gesims, Mezzanin als eigenes Geschoss.",
   "name": "Palazzetto Tornabuoni"
 }

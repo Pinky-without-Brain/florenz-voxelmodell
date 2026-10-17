@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 54.010 |
+| Blöcke | 54.056 |
 | Bauschritte | 35 |
 | Y-Bereich | 66 bis 103 |
 | X-Ausdehnung | -132 bis -39 (94 Blöcke) |
 | Z-Ausdehnung | 279 bis 364 (86 Blöcke) |
 | Kleinster Schritt | 652 Blöcke (Schritt 23.29) |
-| Mittlerer Schritt | 1.543 Blöcke |
+| Mittlerer Schritt | 1.544 Blöcke |
 | Größter Schritt | 2.038 Blöcke (Schritt 23.25) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.387 | 32,2 % |
+| Terrakotta | `terracotta` | 17.419 | 32,2 % |
 | Rosa Keramik | `pink_terracotta` | 7.495 | 13,9 % |
 | Orange Keramik | `orange_terracotta` | 5.643 | 10,4 % |
 | Weißer Beton | `white_concrete` | 5.340 | 9,9 % |
 | Polierter Tuffstein | `polished_tuff` | 5.083 | 9,4 % |
-| Endsteinziegel | `end_stone_bricks` | 4.966 | 9,2 % |
+| Glatter Stein | `smooth_stone` | 3.512 | 6,5 % |
+| Tuffstein | `tuff` | 2.250 | 4,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 1.941 | 3,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 1.651 | 3,1 % |
-| Graues Buntglas | `gray_stained_glass` | 1.444 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 640 | 1,2 % |
+| Graues Buntglas | `gray_stained_glass` | 1.394 | 2,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 556 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 510 | 0,9 % |
+| Polierter Andesit | `polished_andesite` | 420 | 0,8 % |
 | Ziegelsteine | `bricks` | 365 | 0,7 % |
 | Grüner Beton | `green_concrete` | 154 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 136 | 0,3 % |
@@ -44,7 +44,7 @@
 | Rote Keramik | `red_terracotta` | 72 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 72 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
@@ -54,7 +54,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 438 |
-| Steintreppe | `stone_stairs` | 44 |
+| Steintreppe | `stone_stairs` | 42 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -62,8 +62,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7752926` | Reihenhaus an Via del Corso | 6.617 | 23.1–23.4 |
 | 2 | `r7752926_innen` | Reihenhaus an Via del Corso: Innenausbau | 1.893 | 23.5 |
-| 3 | `w307544546` | Chiesa di Santa Margherita in Santa Maria de' Ricci | 8.764 | 23.6–23.10 |
-| 4 | `w307544546_innen` | Chiesa di Santa Margherita in Santa Maria de' Ricci: Innenausbau | 2.349 | 23.11–23.12 |
+| 3 | `w307544546` | Chiesa di Santa Margherita in Santa Maria de' Ricci | 8.814 | 23.6–23.10 |
+| 4 | `w307544546_innen` | Chiesa di Santa Margherita in Santa Maria de' Ricci: Innenausbau | 2.345 | 23.11–23.12 |
 | 5 | `w542315395` | Reihenhaus an Via Sant'Elisabetta | 5.321 | 23.13–23.15 |
 | 6 | `w542315395_innen` | Reihenhaus an Via Sant'Elisabetta: Innenausbau | 1.569 | 23.16 |
 | 7 | `w542315399` | Reihenhaus an Via del Corso | 3.786 | 23.17–23.18 |
@@ -249,10 +249,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.6 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 1/5 (Y 66–68)
+### Schritt 23.6 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 1/5 (Y 66–69)
 
-- **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.683
+- **Y-Bereich:** 66 bis 69
+- **Blöcke:** 1.837
 - **Bauteile:** `w307544546`
 
 **Teileliste**
@@ -260,12 +260,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.315 |
-| Endsteinziegel | `end_stone_bricks` | 364 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Glatter Stein | `smooth_stone` | 285 |
+| Tuffstein | `tuff` | 225 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (17. Jh., Barock (Gherardo Silvani)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_in_Santa_Maria_de'_Ricci, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -277,25 +278,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 23.7 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 2/5 (Y 69–78)
+### Schritt 23.7 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 2/5 (Y 70–78)
 
-- **Y-Bereich:** 69 bis 78
-- **Blöcke:** 1.822
+- **Y-Bereich:** 70 bis 78
+- **Blöcke:** 1.622
 - **Bauteile:** `w307544546`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.633 |
-| Polierter Andesit | `polished_andesite` | 139 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
+| Glatter Stein | `smooth_stone` | 903 |
+| Tuffstein | `tuff` | 675 |
+| Polierter Andesit | `polished_andesite` | 44 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (17. Jh., Barock (Gherardo Silvani)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_in_Santa_Maria_de'_Ricci, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -307,25 +308,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 23.8 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 3/5 (Y 79–87)
+### Schritt 23.8 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 3/5 (Y 79–88)
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 1.715
+- **Y-Bereich:** 79 bis 88
+- **Blöcke:** 1.913
 - **Bauteile:** `w307544546`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.497 |
-| Polierter Andesit | `polished_andesite` | 136 |
+| Glatter Stein | `smooth_stone` | 934 |
+| Tuffstein | `tuff` | 750 |
+| Polierter Andesit | `polished_andesite` | 147 |
 | Graues Buntglas | `gray_stained_glass` | 82 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (17. Jh., Barock (Gherardo Silvani)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_in_Santa_Maria_de'_Ricci, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -337,25 +339,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 23.9 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 4/5 (Y 88–96)
+### Schritt 23.9 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 4/5 (Y 89–96)
 
-- **Y-Bereich:** 88 bis 96
-- **Blöcke:** 1.715
+- **Y-Bereich:** 89 bis 96
+- **Blöcke:** 1.581
 - **Bauteile:** `w307544546`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.472 |
-| Polierter Andesit | `polished_andesite` | 161 |
+| Glatter Stein | `smooth_stone` | 752 |
+| Tuffstein | `tuff` | 600 |
+| Polierter Andesit | `polished_andesite` | 147 |
 | Graues Buntglas | `gray_stained_glass` | 82 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (17. Jh., Barock (Gherardo Silvani)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_in_Santa_Maria_de'_Ricci, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -367,24 +370,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 23.10 – Chiesa di Santa Margherita in Santa Maria de' Ricci – Teil 5/5 (Y 97–103)
 
 - **Y-Bereich:** 97 bis 103
-- **Blöcke:** 1.829
+- **Blöcke:** 1.861
 - **Bauteile:** `w307544546`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.712 |
+| Terrakotta | `terracotta` | 1.744 |
 | Ziegelsteine | `bricks` | 117 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (17. Jh., Barock (Gherardo Silvani)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_in_Santa_Maria_de'_Ricci, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -396,12 +399,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 23.11 – Chiesa di Santa Margherita in Santa Maria de' Ricci: Innenausbau – Teil 1/2 (Y 66–80)
+### Schritt 23.11 – Chiesa di Santa Margherita in Santa Maria de' Ricci: Innenausbau – Teil 1/2 (Y 66–78)
 
-- **Y-Bereich:** 66 bis 80
-- **Blöcke:** 1.189
+- **Y-Bereich:** 66 bis 78
+- **Blöcke:** 1.181
 - **Bauteile:** `w307544546_innen`
 
 **Teileliste**
@@ -409,10 +412,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.108 |
-| Glatter Stein | `smooth_stone` | 34 |
+| Glatter Stein | `smooth_stone` | 30 |
 | Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -421,7 +424,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
+| Steintreppe | `stone_stairs` | 24 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -440,10 +443,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.12 – Chiesa di Santa Margherita in Santa Maria de' Ricci: Innenausbau – Teil 2/2 (Y 81–89)
+### Schritt 23.12 – Chiesa di Santa Margherita in Santa Maria de' Ricci: Innenausbau – Teil 2/2 (Y 79–88)
 
-- **Y-Bereich:** 81 bis 89
-- **Blöcke:** 1.160
+- **Y-Bereich:** 79 bis 88
+- **Blöcke:** 1.164
 - **Bauteile:** `w307544546_innen`
 
 **Teileliste**
@@ -451,9 +454,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.108 |
-| Glatter Stein | `smooth_stone` | 22 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
@@ -463,7 +466,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 18 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**

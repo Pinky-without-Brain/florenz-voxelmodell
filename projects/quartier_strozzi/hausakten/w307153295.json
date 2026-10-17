@@ -1,19 +1,19 @@
 {
   "id": "w307153295",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh. (Umbau zum Palazzo 1570, Ammannati)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,15 +35,17 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "wappen_ricasoli_eck_ersetzt"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Mondragone",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: 16. Jh., 1570 Umbau zum Palazzo durch Bartolomeo Ammannati, Hauptfassade an der Via dei Banchi, großes Wappen an der Ecke zur Piazza Santa Maria Novella (Ricasoli, später durch das der Mondragone ersetzt; Angabe im Artikel nicht eindeutig). Annahme: alle Fassadenmerkmale außer Epoche und Architekt aus der Typologie.",
   "name": "Palazzo Mondragone"
 }

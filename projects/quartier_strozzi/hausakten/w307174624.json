@@ -1,49 +1,63 @@
 {
   "id": "w307174624",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Restaurierung 1831 (Roberto Franceschi)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 3
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 9,
     "material": "bugnato_abgestuft",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "alamanni_wappen_balkon",
+      "strahlenfoermige_rustika_portale",
+      "balkone_aussenportale",
+      "doppeltes_geschossgesims"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi_Uguccioni",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: heutiges Erscheinungsbild von der Restaurierung 1831 (Roberto Franceschi), Erdgeschoss, Mezzanin, Piano nobile, zweites und oberstes Geschoss, neun Achsen, Rustika im Erdgeschoss und ersten Stock, mittiges Rundbogenportal mit Balkon flankiert von je drei Rechteckportalen mit strahlenförmiger Rustika, vorspringende Architrave auf Konsolen am Piano nobile, doppeltes Geschossgesims, Kranzgesims mit Konsolen, Alamanni-Wappen. Annahme: Material über dem ersten Stock, Fensterrahmenstein.",
   "name": "Palazzo Gherardi Uguccioni"
 }
