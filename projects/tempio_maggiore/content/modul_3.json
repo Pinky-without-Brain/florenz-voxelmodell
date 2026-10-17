@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Gewölbe, Pendentifs und Dächer",
+  "subtitle": "Bautüte 3: Decken, Pendentifs unter der Kuppel, Dachhaut",
+  "icon": "🏺",
+  "parts": {
+    "gewoelbe": {
+      "title": "Decken und Mauermassen",
+      "description": "Die Räume haben flache Decken und darüber massives Mauerwerk bis zur Dachhaut. Das Mittelquadrat trägt die Ecken der Kuppel bis Lage 44.",
+      "tip": "Fülle von der Decke aufwärts, damit nichts hohl bleibt.",
+      "caution": "Die Höhen sind je Raum verschieden (22 bis 44 Lagen).",
+      "fact": "Höhen sind Stufe C."
+    },
+    "pendentifs": {
+      "title": "Pendentifs",
+      "description": "In den vier Ecken des Mittelquadrats wächst das Quadrat über Hängezwickel in den Kreis des Tambours. Die Zwickel sind Teile einer Kugel durch die Ecken und mit Gold, Rot und Blau bemalt.",
+      "tip": "Die Zwickel steigen von Lage 24 bis Lage 42.",
+      "caution": "Die Fläche bleibt glatt, ohne Stufen nach innen.",
+      "fact": "Zentralkuppel über Pendentifs, an die Hagia Sophia erinnernd (en.wikipedia)."
+    },
+    "deckenmalerei": {
+      "title": "Deckenmalerei",
+      "description": "Die Decken der Räume sind blau, mit goldenen Sternen im Raster.",
+      "tip": "Setze die Sterne in jeden vierten Block.",
+      "caution": "Nur die unterste Lage der Decke ist bemalt.",
+      "fact": "Ausmalung nach neumaurischem Vorbild, frei entworfen."
+    },
+    "daecher": {
+      "title": "Dachhaut",
+      "description": "Die obere Lage aller Dächer ist Terrakotta. Die Dächer sind flach; der Hauptraum liegt auf Lage 31, die Nebenräume auf Lage 22.",
+      "tip": "Lege die Terrakotta als letzte Lage.",
+      "caution": "Die Dächer sind nicht begehbar.",
+      "fact": "Dachform vereinfacht (Stufe C)."
+    }
+  }
+}

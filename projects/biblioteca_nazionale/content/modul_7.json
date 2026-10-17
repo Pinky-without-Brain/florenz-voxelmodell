@@ -1,0 +1,85 @@
+{
+  "module": 7,
+  "title": "Tribuna, Verteilerhalle, Lesesäle und Magazine",
+  "subtitle": "Bautüte 7: Tribuna Dante e Galileo, Verteilerhalle, Katalog-, Zeitschriften- und Lesesäle, Magazine",
+  "icon": "📚",
+  "parts": {
+    "tribuna": {
+      "title": "Tribuna Dante e Galileo",
+      "description": "Runder Saal im Westende hinter dem Portal am Corso dei Tintori: Boden mit rotem und goldenem Kreis in Schachbrett aus Marmor und Pietra serena, Wandfelder in Weiß und Blau mit Goldrahmen und eine Kassettendecke. Zwei Marmorfiguren auf Sockeln stehen für Dante und Galileo.",
+      "tip": "Boden zuerst, dann Wandfelder, Decke und die beiden Figuren.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Figuren sind Blockfiguren ohne Gesichtszüge, die Zuordnung zu Dante und Galileo ist symbolisch.",
+      "fact": "Die monumentale Tribüne an der Ecke Corso dei Tintori und Via Antonio Magliabechi ist 1929 für Dante und Galileo eröffnet worden (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "verteilerhalle": {
+      "title": "Verteilerhalle",
+      "description": "Die große Halle im Mitteltrakt, in der sich die beiden Achsen kreuzen: Marmorboden mit rotem Kreis um die Wendeltreppe, vier Säulen aus weißem Marmor, Wandfelder zwischen Pilastern und Kassettendecke.",
+      "tip": "Die Wendeltreppe in der Mitte lässt du frei.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die monumentale Treppe der Bibliothek ist hier eine Wendeltreppe.",
+      "fact": "Zwei Achsen kreuzen sich in einer großen Verteilerhalle; innen gibt es klassizistische Bögen, Säulen und eine monumentale Treppe (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "katalogsaal": {
+      "title": "Katalogsaal",
+      "description": "Saal im Erdgeschoss des Westflügels mit Schachboden aus Marmor, Wandfeldern in Weiß und Gelb, Kassettendecke und drei Reihen eine Lage hoher Katalogkästen.",
+      "tip": "Die Kästen bestehen aus Holzblöcken.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Kästen sind Blöcke ohne Schubladen.",
+      "fact": "Entlang der Flussachse liegen Büros, Zeitschriften, Lesesäle und Kataloge (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "zeitschriftensaal": {
+      "title": "Zeitschriftensaal",
+      "description": "Saal im Erdgeschoss des mittleren Westtrakts mit Schachboden, Wandfeldern in Weiß und Blau, Kassettendecke und drei Reihen Tische.",
+      "tip": "Die Tische sind eine Lage hoch.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Lage der Zeitschriften im Gebäude ist nicht belegt.",
+      "fact": "Zeitschriften gehören zu den Räumen entlang der Flussachse (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "sala_lettura": {
+      "title": "Sala di lettura",
+      "description": "Der rechteckige Lesesaal im Piano 1 hat zwei Reihen weißer Säulen mit Kapitell und Architrav, dazwischen Lesetische; Wandfelder in Weiß und Grün und eine Kassettendecke.",
+      "tip": "Säulen zuerst, dann der Architrav.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Arkaden sind als Gebälk auf Säulen vereinfacht, nicht als Bögen; die Kapitelle sind nicht ionisch ausgebildet.",
+      "fact": "Der Lesesaal ist rechteckig, mit Arkaden auf Säulen mit ionischen Kapitellen (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "sala_consultazione": {
+      "title": "Sala di consultazione",
+      "description": "Ein zweiter Saal im Piano 1 des mittleren Westtrakts mit Schachboden, Wandfeldern in Weiß und Gelb, Kassettendecke und zwei Tischreihen.",
+      "tip": "Die Tische sind eine Lage hoch.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Der Name und die Lage sind nicht belegt.",
+      "fact": "Die Bibliothek hat mehrere Lesesäle (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "lesesaal_oben": {
+      "title": "Lesesaal im Piano 2",
+      "description": "Der Lesesaal im obersten Geschoss des Westflügels hat blaue Wandfelder, eine Kassettendecke und drei Tischreihen.",
+      "tip": "Die Tische sind eine Lage hoch.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Raumfolge ist nicht belegt.",
+      "fact": "Die Bibliothek hat mehrere Lesesäle (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "magazin_nord": {
+      "title": "Magazin im Mitteltrakt",
+      "description": "Der rückwärtige Teil des Mitteltrakts auf allen drei Geschossen ist als Magazin gebaut: Doppelregale vom Boden bis zur Decke (Holz mit braunen und roten Bücherreihen), Gänge und Querwege.",
+      "tip": "Die Regale bleiben vom Rand und von den Türen vier Blöcke entfernt.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Regale reichen bis zur Decke und sind nicht begehbar; die Zahl der Magazingeschosse ist nicht belegt.",
+      "fact": "Die zweite Achse führt vom Portikus zu den Magazinen im Rücken des Baus; die Regale sind insgesamt 138 km lang (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "magazin_ost": {
+      "title": "Magazin im Ostflügel",
+      "description": "Der Ostflügel ist auf drei Geschossen mit Regalreihen gefüllt, mit Querwegen alle 20 Blöcke und einem Gang an der Wand.",
+      "tip": "Nach der Wand bleibt der Gang frei.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Verteilung der Regale ist nicht belegt.",
+      "fact": "Der Block von 1962 hat vier Geschosse über der Erde und eine Verkleidung aus Pietra forte (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze); die Zuordnung zum Ostflügel ist Stufe C."
+    },
+    "verwaltung": {
+      "title": "Verwaltungsräume",
+      "description": "Zwei Säle im Erdgeschoss des nördlichen Westflügels mit Boden aus Cotto und Marmor und Wandfeldern in Weiß und Gelb.",
+      "tip": "Wie in den Lesesälen: Boden, Wandfelder, Decke.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Nutzung ist nicht belegt.",
+      "fact": "Die Büros liegen an der Flussachse (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

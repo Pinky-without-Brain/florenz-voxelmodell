@@ -1,0 +1,57 @@
+{
+  "module": 6,
+  "title": "Ausstattung",
+  "subtitle": "Bautüte 6: Aron ha-Kodesh, Bima, Bankreihen, Oratorium",
+  "icon": "✡️",
+  "parts": {
+    "aron": {
+      "title": "Aron ha-Kodesh",
+      "description": "Am Ostende der Apsis steht der Toraschrein: ein Mosaikfeld in Blau, Rot, Weiß und Gold im Goldrahmen, flankiert von zwei weißen Säulen, mit Sturz und goldenen Gesetzestafeln darüber.",
+      "tip": "Das Mosaik gehört zur Wandmalerei; die Säulen und die Tafeln setzt du danach.",
+      "caution": "Die Tafeln bleiben schmal, damit der Sturz nicht begehbar wird.",
+      "fact": "Aron ha-Kodesh, mit Mosaiken bedeckt, mit Baldachin und den Tafeln des Gesetzes darüber (it.wikipedia). Maße und Muster vereinfacht."
+    },
+    "bima": {
+      "title": "Bima",
+      "description": "Vor dem Aron liegt die Bima, eine erhöhte Plattform aus Holz mit Treppenblöcken an der Westkante und einem Lesepult.",
+      "tip": "Die Plattform ist einen Block hoch.",
+      "caution": "Das Pult ist nur einen Block hoch.",
+      "fact": "Aron und Bima stehen in der halbrunden Apsis (Reiseführer, Jewish Heritage Europe). Lage Stufe C."
+    },
+    "gitter": {
+      "title": "Gitter vor der Bima",
+      "description": "Ein zwei Blöcke hohes Gitter aus dunklem Stein trennt die Bima vom Hauptraum, in der Mitte bleibt ein Durchgang von vier Blöcken.",
+      "tip": "Lass den Durchgang frei.",
+      "caution": "Das Gitter ist vereinfacht.",
+      "fact": "Ein fein gearbeitetes Gitter trennt die Apsis vom Gebetsraum (Reiseführer)."
+    },
+    "ner_tamid": {
+      "title": "Ewiges Licht",
+      "description": "Unter dem Sturz des Aron hängt das Ewige Licht: ein Goldblock mit einer Seelaterne darunter.",
+      "tip": "Hänge ihn mittig unter den Sturz.",
+      "caution": "Das Licht ist nur ein Block.",
+      "fact": "Ewiges Licht vor dem Aron (it.wikipedia)."
+    },
+    "baenke": {
+      "title": "Bankreihen",
+      "description": "Im Hauptraum stehen Reihen von Holzbänken zu beiden Seiten eines mittleren Ganges von acht Blöcken Breite.",
+      "tip": "Jede Bank ist ein Block hoch.",
+      "caution": "Die Reihen lassen die Gänge frei.",
+      "fact": "Bankreihen sind frei ergänzt (Stufe C)."
+    },
+    "oratorium": {
+      "title": "Oratorium Margulies",
+      "description": "Im Südarm liegt das aschkenasische Oratorium Samuel Zvi Margulies mit zwei Toraschreinen an der Südwand, Plattformen davor und zwei Bankreihen.",
+      "tip": "Die Schreine sind Farbfelder in der Wandlage.",
+      "caution": "Halte den Gang zum Hauptraum frei.",
+      "fact": "Aschkenasisches Oratorium rechts vom Seitenschiff, mit zwei Toraschreinen (it.wikipedia)."
+    },
+    "leuchter": {
+      "title": "Leuchter auf der Brüstung",
+      "description": "Auf der Emporenbrüstung stehen Goldblöcke als Leuchter, vereinfacht für die siebenarmigen Kandelaber.",
+      "tip": "Setze sie in jede zweite Arkade.",
+      "caution": "Ein Goldblock je Leuchter.",
+      "fact": "Siebenarmige Leuchter nach Modellen von Francesco Marini auf den Gittern der Matronei (it.wikipedia)."
+    }
+  }
+}

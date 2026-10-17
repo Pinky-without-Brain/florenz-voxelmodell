@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein flaches Walmdach aus Dachziegeln steigt von der Traufe (Y 101) bis Y 105; der Dachraum darunter ist unzugänglich.",
+      "tip": "Von außen nach innen bauen.",
+      "caution": "Der Dachraum darunter ist unzugänglich.",
+      "fact": "Emilio De Fabris restaurierte den Palast um 1883 bis 1884, Bruno Pacciani leitete 1984 bis 1988 eine große Restaurierung (Quelle: it.wikipedia, Palazzo della Crocetta)."
+    }
+  }
+}

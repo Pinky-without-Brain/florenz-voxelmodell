@@ -1,0 +1,11 @@
+{
+  "id": "palazzo_della_crocetta",
+  "title": "Palazzo della Crocetta (Museo Archeologico Nazionale)",
+  "type": "wahrzeichen",
+  "gebaeude": ["r19738392"],
+  "bodenY": 68,
+  "rahmen": { "ox": 716.5, "oz": -848.5, "thetaDeg": 33.6 },
+  "masken": {},
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
+}

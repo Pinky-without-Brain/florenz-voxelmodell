@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein flaches Walmdach aus Dachziegeln steigt von der Traufe (Y 96) bis Y 100; der Dachraum darunter ist unzugänglich.",
+      "tip": "Von außen nach innen bauen.",
+      "caution": "Der Dachraum darunter ist unzugänglich.",
+      "fact": "Eine Aufstockung (Attika), ein geplanter Platz am Arno und drei von sechs geplanten Magazinen wurden nie gebaut (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    }
+  }
+}

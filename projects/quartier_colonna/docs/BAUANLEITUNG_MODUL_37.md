@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 37: Isolato I0756
+# Bauanleitung Modul 37: Isolato I0760
 
 *Quartier Via della Colonna: 1 Haus*
 
@@ -8,63 +8,123 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.734 |
-| Bauschritte | 27 |
-| Y-Bereich | 65 bis 107 |
-| X-Ausdehnung | 1452 bis 1569 (118 Blöcke) |
-| Z-Ausdehnung | 1 bis 106 (106 Blöcke) |
-| Kleinster Schritt | 718 Blöcke (Schritt 37.4) |
-| Mittlerer Schritt | 1.731 Blöcke |
-| Größter Schritt | 2.088 Blöcke (Schritt 37.13) |
+| Blöcke | 24.330 |
+| Bauschritte | 16 |
+| Y-Bereich | 59 bis 97 |
+| X-Ausdehnung | 1492 bis 1563 (72 Blöcke) |
+| Z-Ausdehnung | -72 bis 9 (82 Blöcke) |
+| Kleinster Schritt | 982 Blöcke (Schritt 37.4) |
+| Mittlerer Schritt | 1.521 Blöcke |
+| Größter Schritt | 2.062 Blöcke (Schritt 37.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 18.930 | 40,5 % |
-| Glatter Stein | `smooth_stone` | 17.900 | 38,3 % |
-| Polierter Tuffstein | `polished_tuff` | 6.196 | 13,3 % |
-| Polierter Andesit | `polished_andesite` | 2.326 | 5,0 % |
-| Graues Buntglas | `gray_stained_glass` | 1.028 | 2,2 % |
-| Ziegelsteine | `bricks` | 223 | 0,5 % |
-| Seelaterne | `sea_lantern` | 84 | 0,2 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
+| Endsteinziegel | `end_stone_bricks` | 10.743 | 44,2 % |
+| Tuffstein | `tuff` | 3.347 | 13,8 % |
+| Polierter Tuffstein | `polished_tuff` | 2.868 | 11,8 % |
+| Terrakotta | `terracotta` | 2.354 | 9,7 % |
+| Weißer Beton | `white_concrete` | 1.872 | 7,7 % |
+| Graues Buntglas | `gray_stained_glass` | 1.029 | 4,2 % |
+| Grüner Beton | `green_concrete` | 928 | 3,8 % |
+| Glatter Stein | `smooth_stone` | 719 | 3,0 % |
+| Polierter Andesit | `polished_andesite` | 372 | 1,5 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 28 | 0,1 % |
+| Seelaterne | `sea_lantern` | 24 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 11 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 44 |
+| Steintreppe | `stone_stairs` | 60 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w102979678` | Tempio Maggiore Israelitico - Sinagoga | 35.619 | 37.1–37.21 |
-| 2 | `w102979678_innen` | Tempio Maggiore Israelitico - Sinagoga: Innenausbau | 11.115 | 37.22–37.27 |
+| 1 | `w113558233` | Haus w113558233 | 21.811 | 37.1–37.14 |
+| 2 | `w113558233_innen` | Haus w113558233: Innenausbau | 2.519 | 37.15–37.16 |
 
 ## Bauschritte
 
-### Schritt 37.1 – Tempio Maggiore Israelitico - Sinagoga – Teil 1/21 (Y 65–65)
+### Schritt 37.1 – Haus w113558233 – Teil 1/14 (Y 59–62)
+
+- **Y-Bereich:** 59 bis 62
+- **Blöcke:** 1.565
+- **Bauteile:** `w113558233`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.565 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 37.2 – Haus w113558233 – Teil 2/14 (Y 63–64)
+
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 1.782
+- **Bauteile:** `w113558233`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.782 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 37.3 – Haus w113558233 – Teil 3/14 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 2.073
-- **Bauteile:** `w102979678`
+- **Blöcke:** 1.683
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.073 |
+| Polierter Tuffstein | `polished_tuff` | 1.683 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -76,23 +136,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.2 – Tempio Maggiore Israelitico - Sinagoga – Teil 2/21 (Y 65–65)
+### Schritt 37.4 – Haus w113558233 – Teil 4/14 (Y 66–67)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 2.074
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 982
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.074 |
+| Endsteinziegel | `end_stone_bricks` | 946 |
+| Polierter Andesit | `polished_andesite` | 28 |
+| Glatter Stein | `smooth_stone` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -104,23 +167,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.3 – Tempio Maggiore Israelitico - Sinagoga – Teil 3/21 (Y 65–65)
+### Schritt 37.5 – Haus w113558233 – Teil 5/14 (Y 68–71)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 2.049
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 68 bis 71
+- **Blöcke:** 1.861
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.049 |
+| Endsteinziegel | `end_stone_bricks` | 1.067 |
+| Weißer Beton | `white_concrete` | 333 |
+| Graues Buntglas | `gray_stained_glass` | 195 |
+| Grüner Beton | `green_concrete` | 186 |
+| Polierter Andesit | `polished_andesite` | 58 |
+| Glatter Stein | `smooth_stone` | 13 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -132,23 +201,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.4 – Tempio Maggiore Israelitico - Sinagoga – Teil 4/21 (Y 66–66)
+### Schritt 37.6 – Haus w113558233 – Teil 6/14 (Y 72–74)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 718
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 72 bis 74
+- **Blöcke:** 1.417
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 718 |
+| Endsteinziegel | `end_stone_bricks` | 925 |
+| Weißer Beton | `white_concrete` | 261 |
+| Graues Buntglas | `gray_stained_glass` | 124 |
+| Grüner Beton | `green_concrete` | 62 |
+| Polierter Andesit | `polished_andesite` | 45 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -160,24 +233,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.5 – Tempio Maggiore Israelitico - Sinagoga – Teil 5/21 (Y 67–68)
+### Schritt 37.7 – Haus w113558233 – Teil 7/14 (Y 75–77)
 
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.476
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 75 bis 77
+- **Blöcke:** 1.494
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.288 |
-| Polierter Andesit | `polished_andesite` | 188 |
+| Endsteinziegel | `end_stone_bricks` | 1.169 |
+| Glatter Stein | `smooth_stone` | 311 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -189,25 +263,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.6 – Tempio Maggiore Israelitico - Sinagoga – Teil 6/21 (Y 69–71)
+### Schritt 37.8 – Haus w113558233 – Teil 8/14 (Y 78–81)
 
-- **Y-Bereich:** 69 bis 71
-- **Blöcke:** 2.046
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 78 bis 81
+- **Blöcke:** 1.863
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.602 |
-| Polierter Andesit | `polished_andesite` | 304 |
-| Graues Buntglas | `gray_stained_glass` | 140 |
+| Endsteinziegel | `end_stone_bricks` | 1.039 |
+| Weißer Beton | `white_concrete` | 355 |
+| Graues Buntglas | `gray_stained_glass` | 213 |
+| Grüner Beton | `green_concrete` | 204 |
+| Polierter Andesit | `polished_andesite` | 52 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -219,171 +295,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.7 – Tempio Maggiore Israelitico - Sinagoga – Teil 7/21 (Y 72–73)
-
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.368
-- **Bauteile:** `w102979678`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.072 |
-| Polierter Andesit | `polished_andesite` | 156 |
-| Graues Buntglas | `gray_stained_glass` | 140 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.8 – Tempio Maggiore Israelitico - Sinagoga – Teil 8/21 (Y 74–75)
-
-- **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.446
-- **Bauteile:** `w102979678`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.294 |
-| Polierter Andesit | `polished_andesite` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 4 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.9 – Tempio Maggiore Israelitico - Sinagoga – Teil 9/21 (Y 76–77)
-
-- **Y-Bereich:** 76 bis 77
-- **Blöcke:** 1.446
-- **Bauteile:** `w102979678`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.442 |
-| Graues Buntglas | `gray_stained_glass` | 4 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.10 – Tempio Maggiore Israelitico - Sinagoga – Teil 10/21 (Y 78–79)
-
-- **Y-Bereich:** 78 bis 79
-- **Blöcke:** 1.448
-- **Bauteile:** `w102979678`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.448 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.11 – Tempio Maggiore Israelitico - Sinagoga – Teil 11/21 (Y 80–81)
-
-- **Y-Bereich:** 80 bis 81
-- **Blöcke:** 1.491
-- **Bauteile:** `w102979678`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.292 |
-| Polierter Andesit | `polished_andesite` | 199 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.12 – Tempio Maggiore Israelitico - Sinagoga – Teil 12/21 (Y 82–84)
+### Schritt 37.9 – Haus w113558233 – Teil 9/14 (Y 82–84)
 
 - **Y-Bereich:** 82 bis 84
-- **Blöcke:** 2.046
-- **Bauteile:** `w102979678`
+- **Blöcke:** 1.408
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.578 |
-| Polierter Andesit | `polished_andesite` | 246 |
-| Graues Buntglas | `gray_stained_glass` | 222 |
+| Endsteinziegel | `end_stone_bricks` | 801 |
+| Weißer Beton | `white_concrete` | 284 |
+| Graues Buntglas | `gray_stained_glass` | 142 |
+| Grüner Beton | `green_concrete` | 136 |
+| Polierter Andesit | `polished_andesite` | 45 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -395,25 +327,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.13 – Tempio Maggiore Israelitico - Sinagoga – Teil 13/21 (Y 85–87)
+### Schritt 37.10 – Haus w113558233 – Teil 10/14 (Y 85–87)
 
 - **Y-Bereich:** 85 bis 87
-- **Blöcke:** 2.088
-- **Bauteile:** `w102979678`
+- **Blöcke:** 1.494
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.620 |
-| Polierter Andesit | `polished_andesite` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 148 |
+| Endsteinziegel | `end_stone_bricks` | 1.015 |
+| Glatter Stein | `smooth_stone` | 311 |
+| Weißer Beton | `white_concrete` | 142 |
+| Polierter Andesit | `polished_andesite` | 26 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -425,24 +358,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.14 – Tempio Maggiore Israelitico - Sinagoga – Teil 14/21 (Y 88–89)
+### Schritt 37.11 – Haus w113558233 – Teil 11/14 (Y 88–90)
 
-- **Y-Bereich:** 88 bis 89
-- **Blöcke:** 1.491
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 88 bis 90
+- **Blöcke:** 1.365
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.292 |
-| Polierter Andesit | `polished_andesite` | 199 |
+| Endsteinziegel | `end_stone_bricks` | 690 |
+| Graues Buntglas | `gray_stained_glass` | 213 |
+| Weißer Beton | `white_concrete` | 213 |
+| Grüner Beton | `green_concrete` | 204 |
+| Polierter Andesit | `polished_andesite` | 45 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -454,25 +390,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.15 – Tempio Maggiore Israelitico - Sinagoga – Teil 15/21 (Y 90–92)
+### Schritt 37.12 – Haus w113558233 – Teil 12/14 (Y 91–94)
 
-- **Y-Bereich:** 90 bis 92
-- **Blöcke:** 2.046
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 91 bis 94
+- **Blöcke:** 2.062
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.578 |
-| Polierter Andesit | `polished_andesite` | 246 |
-| Graues Buntglas | `gray_stained_glass` | 222 |
+| Endsteinziegel | `end_stone_bricks` | 1.448 |
+| Weißer Beton | `white_concrete` | 284 |
+| Graues Buntglas | `gray_stained_glass` | 142 |
+| Grüner Beton | `green_concrete` | 136 |
+| Polierter Andesit | `polished_andesite` | 52 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -484,25 +422,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.16 – Tempio Maggiore Israelitico - Sinagoga – Teil 16/21 (Y 93–95)
+### Schritt 37.13 – Haus w113558233 – Teil 13/14 (Y 95–95)
 
-- **Y-Bereich:** 93 bis 95
-- **Blöcke:** 2.088
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 95 bis 95
+- **Blöcke:** 1.839
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.620 |
-| Polierter Andesit | `polished_andesite` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 148 |
+| Polierter Tuffstein | `polished_tuff` | 1.185 |
+| Endsteinziegel | `end_stone_bricks` | 647 |
+| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -514,23 +452,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.17 – Tempio Maggiore Israelitico - Sinagoga – Teil 17/21 (Y 96–96)
+### Schritt 37.14 – Haus w113558233 – Teil 14/14 (Y 96–97)
 
-- **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.402
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 96 bis 97
+- **Blöcke:** 996
+- **Bauteile:** `w113558233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.402 |
+| Endsteinziegel | `end_stone_bricks` | 996 |
 
 **Beschreibung**
 
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -542,306 +480,75 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.18 – Tempio Maggiore Israelitico - Sinagoga – Teil 18/21 (Y 97–98)
+### Schritt 37.15 – Haus w113558233: Innenausbau – Teil 1/2 (Y 65–80)
 
-- **Y-Bereich:** 97 bis 98
-- **Blöcke:** 1.796
-- **Bauteile:** `w102979678`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.796 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.19 – Tempio Maggiore Israelitico - Sinagoga – Teil 19/21 (Y 99–100)
-
-- **Y-Bereich:** 99 bis 100
-- **Blöcke:** 1.645
-- **Bauteile:** `w102979678`
+- **Y-Bereich:** 65 bis 80
+- **Blöcke:** 1.259
+- **Bauteile:** `w113558233_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.601 |
-| Ziegelsteine | `bricks` | 44 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.20 – Tempio Maggiore Israelitico - Sinagoga – Teil 20/21 (Y 101–103)
-
-- **Y-Bereich:** 101 bis 103
-- **Blöcke:** 1.878
-- **Bauteile:** `w102979678`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.825 |
-| Ziegelsteine | `bricks` | 53 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.21 – Tempio Maggiore Israelitico - Sinagoga – Teil 21/21 (Y 104–107)
-
-- **Y-Bereich:** 104 bis 107
-- **Blöcke:** 1.504
-- **Bauteile:** `w102979678`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.378 |
-| Ziegelsteine | `bricks` | 126 |
-
-**Beschreibung**
-
-Kleine Kirche (1874-1882 (Marco Treves), neumaurisch), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tempio_maggiore_israelitico_di_Firenze, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 37.22 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 1/6 (Y 65–79)
-
-- **Y-Bereich:** 65 bis 79
-- **Blöcke:** 1.951
-- **Bauteile:** `w102979678_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.849 |
-| Seelaterne | `sea_lantern` | 37 |
-| Glatter Stein | `smooth_stone` | 34 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Terrakotta | `terracotta` | 1.177 |
+| Glatter Stein | `smooth_stone` | 36 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
+| Seelaterne | `sea_lantern` | 16 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
+| Steintreppe | `stone_stairs` | 30 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 37.16 – Haus w113558233: Innenausbau – Teil 2/2 (Y 81–95)
+
+- **Y-Bereich:** 81 bis 95
+- **Blöcke:** 1.260
+- **Bauteile:** `w113558233_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.177 |
+| Glatter Stein | `smooth_stone` | 42 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 30 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 37.23 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 2/6 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.798
-- **Bauteile:** `w102979678_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.790 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 37.24 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 3/6 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.836
-- **Bauteile:** `w102979678_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.825 |
-| Seelaterne | `sea_lantern` | 11 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 37.25 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 4/6 (Y 80–87)
-
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.896
-- **Bauteile:** `w102979678_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.849 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 37.26 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 5/6 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.798
-- **Bauteile:** `w102979678_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.790 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 37.27 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 6/6 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.836
-- **Bauteile:** `w102979678_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.825 |
-| Seelaterne | `sea_lantern` | 11 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
