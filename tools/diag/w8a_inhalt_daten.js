@@ -80,5 +80,35 @@ module.exports = {
       decke: 'Ende des 18. und Anfang des 19. Jahrhunderts baute Gasparo Maria Paoletti den Palast um',
       dach: 'Im 19. und 20. Jahrhundert wurden barocke Elemente entfernt, um einen mittelalterlichen Eindruck herzustellen'
     }
+  },
+  palazzo_corsini_parione: {
+    bodenY: 59, traufe: 30, quelle: 'it.wikipedia, Palazzo Corsini al Parione', loggiaBoden: true,
+    ohne: [],
+    hofText: 'Der Haupthof (45 × 56 Blöcke) bleibt offen; sein Boden aus Pflaster, Marmor und Pietra serena liegt auf Y 59. Drei kleinere Höfe (Lichthöfe) liegen im Westen und Süden.',
+    fassadeTitel: 'Außenwände aus gelbem Putz mit Lisenen, Portal mit Säulen, Kranzgesims',
+    aussenText: 'Die Außenwände sind zwei Blöcke dick: gelber Putz (der Mittelteil der Lungarno-Fassade heller) mit Lisenen aus Pietra serena zwischen den Fensterachsen im Abstand von 12 Blöcken, Sockel und Gesimse aus Pietra serena; innen Putz. Das Portal am Lungarno ist 7 Blöcke breit und liegt in der Achse des Haupthofs.',
+    aussenTip: 'Die Lisenen stehen auf jedem zwölften Block; Fensterachsen dazwischen.',
+    fensterText: 'Rundbogenfenster mit Glas im Raster 12 in allen drei Geschossen (Sohle 3 / 3 / 2, Höhe 5 / 5 / 4), das Portal liegt in einer Achse.',
+    kranzText: 'Das Kranzgesims aus Pietra serena schließt die Fassade bei Y 89 ab; darüber liegt das flache Dach als Terrasse.',
+    arkadenText: 'Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Haupthof (fünf Blöcke Joch); dahinter liegt eine Galerie von drei Blöcken Tiefe.',
+    trennText: 'Trennwände teilen den Palast im Erdgeschoss in die Räume um das Vestibül, die Räume im Westflügel, den Ostflügel und den südlichen Trakt; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.',
+    dachTitel: 'Flachdach als Terrasse', dachTeilTitel: 'Flachdach', dachText: 'Das flache Dach aus Pflaster liegt auf Y 90 über allen Flügeln und ist als Terrasse begehbar; Balustrade und Statuen gehören zu Bautüte 6.',
+    fakt: {
+      fundament: 'Bartolomeo Corsini begann 1656 den Neubau; Alfonso Parigi der Jüngere, Ferdinando Tacca, Pierfrancesco Silvani und ab 1685 Antonio Maria Ferri waren die Architekten',
+      boden: 'Der Entwurf in U-Form wird Silvani zugeschrieben; drei Flügel liegen um einen zentralen Innenhof',
+      hof: 'Drei Flügel sind um einen zentralen Innenhof angeordnet; der rechte Flügel ist doppelt so breit wie der linke',
+      treppe: 'Der Wendeltreppe wird Silvani zugeschrieben; sie ergänzt hier den Zugang zu allen Geschossen',
+      aussenwand: 'Die Fassade zum Lungarno ist asymmetrisch, weil der linke Flügel zur Ponte alla Carraia fehlt; ihr Mittelteil ist zurückgesetzt',
+      fenster: 'Die Fassade zum Lungarno wurde 1690 vollendet',
+      kranzgesims: 'Das Dach zeigt eine Terrasse aus dem 18. Jahrhundert mit Steinbalustrade',
+      hofarkaden: 'Eine Balustrade verläuft im Hof auf Höhe des Piano nobile; sie ist hier nicht gebaut',
+      hofwaende: 'Ein Portal mit geschnitztem Corsini-Wappen und seitlichen Säulen führt in den Hof',
+      hoffenster: 'Die Fenster des Hofs folgen hier dem Raster der Fassade',
+      innenwaende: 'Der Flussflügel wurde 1687 vollendet, die Fassade 1690',
+      geschossboeden: 'Im Piano nobile liegt eine Loggetta mit Fresken von 1650–1653; sie ist hier nicht gebaut',
+      decke: 'Die Arbeiten am Palast dauerten bis 1737, auch wenn nicht alles verwirklicht wurde',
+      innenwaende_og: 'Im ersten Stock liegen die Galleria Corsini, der Salone del Trono und die Sala da Ballo',
+      dach: 'Die Terrasse trägt Statuen und Terrakotta-Vasen'
+    }
   }
 };

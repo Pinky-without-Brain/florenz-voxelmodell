@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Hof",
+  "subtitle": "Bautüte 2: Hofarkaden, Hofwände und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Hofarkaden",
+      "description": "Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Haupthof (fünf Blöcke Joch); dahinter liegt eine Galerie von drei Blöcken Tiefe.",
+      "tip": "Die Säulen stehen in gleichem Abstand am Hofrand.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Eine Balustrade verläuft im Hof auf Höhe des Piano nobile; sie ist hier nicht gebaut (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Über den Arkaden steigen die Hofwände bis Y 89, verputzt, mit Gesimsen auf Höhe der Geschossböden.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Ein Portal mit geschnitztem Corsini-Wappen und seitlichen Säulen führt in den Hof (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zum Hof öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe.",
+      "fact": "Die Fenster des Hofs folgen hier dem Raster der Fassade (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "innenwaende": {
+      "title": "Innenwände",
+      "description": "Zwischen Galerie und Räumen steht im Erdgeschoss eine Innenwand mit Türen von 3 Blöcken Breite.",
+      "tip": "Türen in der Mitte jeder Hofseite.",
+      "caution": "Türen frei lassen.",
+      "fact": "Der Flussflügel wurde 1687 vollendet, die Fassade 1690 (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Trennwände teilen den Palast im Erdgeschoss in die Räume um das Vestibül, die Räume im Westflügel, den Ostflügel und den südlichen Trakt; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses.",
+      "fact": "Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst."
+    }
+  }
+}

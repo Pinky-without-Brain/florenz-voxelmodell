@@ -1,0 +1,17 @@
+{
+  "id": "palazzo_corsini_parione",
+  "title": "Palazzo Corsini al Parione",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "r4103612"
+  ],
+  "bodenY": 59,
+  "rahmen": {
+    "ox": -1197.5,
+    "oz": 694.5,
+    "thetaDeg": -149.13
+  },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}
