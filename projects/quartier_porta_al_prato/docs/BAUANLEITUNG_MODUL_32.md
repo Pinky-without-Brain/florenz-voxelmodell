@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 569.043 |
+| Blöcke | 569.039 |
 | Bauschritte | 357 |
 | Y-Bereich | 53 bis 99 |
 | X-Ausdehnung | -2417 bis -1771 (647 Blöcke) |
@@ -27,7 +27,7 @@
 | Weißer Beton | `white_concrete` | 52.961 | 9,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 42.326 | 7,4 % |
 | Tuffstein | `tuff` | 24.786 | 4,4 % |
-| Glatter Stein | `smooth_stone` | 21.718 | 3,8 % |
+| Glatter Stein | `smooth_stone` | 21.716 | 3,8 % |
 | Polierter Andesit | `polished_andesite` | 15.431 | 2,7 % |
 | Endsteinziegel | `end_stone_bricks` | 10.857 | 1,9 % |
 | Graues Buntglas | `gray_stained_glass` | 8.921 | 1,6 % |
@@ -43,7 +43,7 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 162 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 144 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 106 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 98 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 96 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 59 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 55 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 18 | 0,0 % |
@@ -55,7 +55,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 544 |
+| Steintreppe | `stone_stairs` | 542 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 124 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -67,7 +67,7 @@
 | 3 | `w117767569` | Haus w117767569 | 19.612 | 32.107–32.118 |
 | 4 | `w117767569_innen` | Haus w117767569: Innenausbau | 4.200 | 32.118–32.120 |
 | 5 | `w306398158` | Chiesa di San Jacopo di Ripoli | 16.034 | 32.121–32.129 |
-| 6 | `w306398158_innen` | Chiesa di San Jacopo di Ripoli: Innenausbau | 5.393 | 32.130–32.133 |
+| 6 | `w306398158_innen` | Chiesa di San Jacopo di Ripoli: Innenausbau | 5.389 | 32.130–32.133 |
 | 7 | `w306398160` | Palazzo des Cinquecento an Via della Scala | 8.457 | 32.134–32.138 |
 | 8 | `w306398160_innen` | Palazzo des Cinquecento an Via della Scala: Innenausbau | 1.142 | 32.139 |
 | 9 | `w482739745` | Haus w482739745 | 15.609 | 32.140–32.148 |
@@ -3764,18 +3764,18 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 32.121 – Chiesa di San Jacopo di Ripoli – Teil 1/9 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.484
+- **Blöcke:** 1.486
 - **Bauteile:** `w306398158`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.484 |
+| Polierter Tuffstein | `polished_tuff` | 1.486 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3787,25 +3787,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 32.122 – Chiesa di San Jacopo di Ripoli – Teil 2/9 (Y 57–59)
 
 - **Y-Bereich:** 57 bis 59
-- **Blöcke:** 2.055
+- **Blöcke:** 2.053
 - **Bauteile:** `w306398158`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.455 |
+| Polierter Tuffstein | `polished_tuff` | 1.453 |
 | Gelbe Keramik | `yellow_terracotta` | 596 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3817,7 +3817,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 32.123 – Chiesa di San Jacopo di Ripoli – Teil 3/9 (Y 60–65)
 
@@ -3829,14 +3829,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.491 |
-| Glatter Stein | `smooth_stone` | 210 |
+| Gelbe Keramik | `yellow_terracotta` | 1.484 |
+| Glatter Stein | `smooth_stone` | 217 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3848,25 +3848,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 32.124 – Chiesa di San Jacopo di Ripoli – Teil 4/9 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.838
+- **Blöcke:** 1.851
 - **Bauteile:** `w306398158`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.764 |
-| Glatter Stein | `smooth_stone` | 66 |
+| Gelbe Keramik | `yellow_terracotta` | 1.720 |
+| Glatter Stein | `smooth_stone` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3878,25 +3878,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 32.125 – Chiesa di San Jacopo di Ripoli – Teil 5/9 (Y 72–77)
 
 - **Y-Bereich:** 72 bis 77
-- **Blöcke:** 1.811
+- **Blöcke:** 1.787
 - **Bauteile:** `w306398158`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.543 |
-| Glatter Stein | `smooth_stone` | 188 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
+| Gelbe Keramik | `yellow_terracotta` | 1.481 |
+| Glatter Stein | `smooth_stone` | 206 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3908,7 +3908,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 32.126 – Chiesa di San Jacopo di Ripoli – Teil 6/9 (Y 78–83)
 
@@ -3920,13 +3920,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.554 |
-| Glatter Stein | `smooth_stone` | 208 |
+| Gelbe Keramik | `yellow_terracotta` | 1.605 |
+| Glatter Stein | `smooth_stone` | 157 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3938,25 +3938,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 32.127 – Chiesa di San Jacopo di Ripoli – Teil 7/9 (Y 84–87)
 
 - **Y-Bereich:** 84 bis 87
-- **Blöcke:** 1.356
+- **Blöcke:** 1.367
 - **Bauteile:** `w306398158`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.152 |
-| Glatter Stein | `smooth_stone` | 144 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
+| Gelbe Keramik | `yellow_terracotta` | 1.214 |
+| Glatter Stein | `smooth_stone` | 113 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3968,7 +3968,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 32.128 – Chiesa di San Jacopo di Ripoli – Teil 8/9 (Y 88–89)
 
@@ -3984,7 +3984,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3996,7 +3996,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 32.129 – Chiesa di San Jacopo di Ripoli – Teil 9/9 (Y 90–95)
 
@@ -4013,7 +4013,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (15. Jh. (Relief Giovanni della Robbia 1522)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_di_Ripoli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4025,29 +4025,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 32.130 – Chiesa di San Jacopo di Ripoli: Innenausbau – Teil 1/4 (Y 57–71)
+### Schritt 32.130 – Chiesa di San Jacopo di Ripoli: Innenausbau – Teil 1/4 (Y 57–69)
 
-- **Y-Bereich:** 57 bis 71
-- **Blöcke:** 1.398
+- **Y-Bereich:** 57 bis 69
+- **Blöcke:** 1.396
 - **Bauteile:** `w306398158_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.313 |
-| Glatter Stein | `smooth_stone` | 34 |
-| Seelaterne | `sea_lantern` | 23 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
+| Terrakotta | `terracotta` | 1.323 |
+| Glatter Stein | `smooth_stone` | 30 |
+| Seelaterne | `sea_lantern` | 21 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
+| Steintreppe | `stone_stairs` | 22 |
 
 **Beschreibung**
 
@@ -4065,18 +4065,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 32.131 – Chiesa di San Jacopo di Ripoli: Innenausbau – Teil 2/4 (Y 71–71)
+### Schritt 32.131 – Chiesa di San Jacopo di Ripoli: Innenausbau – Teil 2/4 (Y 69–69)
 
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.318
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.312
 - **Bauteile:** `w306398158_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.311 |
-| Seelaterne | `sea_lantern` | 7 |
+| Terrakotta | `terracotta` | 1.301 |
+| Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 
@@ -4094,21 +4101,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 32.132 – Chiesa di San Jacopo di Ripoli: Innenausbau – Teil 3/4 (Y 72–79)
+### Schritt 32.132 – Chiesa di San Jacopo di Ripoli: Innenausbau – Teil 3/4 (Y 70–78)
 
-- **Y-Bereich:** 72 bis 79
-- **Blöcke:** 1.359
+- **Y-Bereich:** 70 bis 78
+- **Blöcke:** 1.369
 - **Bauteile:** `w306398158_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.313 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Terrakotta | `terracotta` | 1.323 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Seelaterne | `sea_lantern` | 6 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4132,18 +4139,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 32.133 – Chiesa di San Jacopo di Ripoli: Innenausbau – Teil 4/4 (Y 79–79)
+### Schritt 32.133 – Chiesa di San Jacopo di Ripoli: Innenausbau – Teil 4/4 (Y 78–78)
 
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.318
+- **Y-Bereich:** 78 bis 78
+- **Blöcke:** 1.312
 - **Bauteile:** `w306398158_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.311 |
-| Seelaterne | `sea_lantern` | 7 |
+| Terrakotta | `terracotta` | 1.301 |
+| Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 

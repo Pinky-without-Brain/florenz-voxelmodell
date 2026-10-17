@@ -1,49 +1,51 @@
 {
   "id": "r4088966",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "um 1520 (Baccio d'Agnolo vermutet)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 15
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
-    },
-    {
-      "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 15
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
+      "portalBreiteBl": 6,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "portal_mit_bugnato_profil",
+      "alter_loggiato_links",
+      "oculi_dienstgeschoss",
+      "wappen_gartenseite"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_di_Valfonda",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: erbaut um 1520 (Baccio d'Agnolo vermutet), zwei Geschosse, schlichte rustikale Fassade, mittiges Portal mit vorspringendem Bugnato-Profil, links ein alter Loggiato, architravierte Fenster im Obergeschoss, Gurtgesims, Oculi des obersten Dienstgeschosses, Gartenseite mit zwei erhöhten Seitenkörpern und großem Wappen. Annahme: Putz, Putzfarbe, Achsen, Dach.",
   "name": "Palazzo di Valfonda"
 }
