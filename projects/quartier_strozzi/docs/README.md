@@ -4,7 +4,7 @@
 
 *Projekt `quartier_strozzi`, Art: quartier*
 
-**Statistik (generiert):** 2.872.334 Blöcke in 1.804 Bauschritten, 25 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.872.415 Blöcke in 1.804 Bauschritten, 25 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -1225 bis 159, Y 58 bis 119, Z -324 bis 811.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -13,7 +13,7 @@ Ausdehnung des Modells: X -1225 bis 159, Y 58 bis 119, Z -324 bis 811.
 | 1 | Isolato I0339 – Via del Sole | 105.707 | 67 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
 | 2 | Isolato I0342 – Via della Vigna Nuova | 229.762 | 153 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Isolato I0347 – Via delle Belle Donne | 129.063 | 76 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
-| 4 | Isolato I0348 – Lungarno Corsini | 202.231 | 129 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
+| 4 | Isolato I0348 – Lungarno Corsini | 202.312 | 129 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
 | 5 | Isolato I0349 – Via Panzani | 234.320 | 146 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
 | 6 | Isolato I0350 – Via delle Belle Donne | 57.039 | 35 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
 | 7 | Isolato I0355 – Via dell'Inferno | 400.402 | 250 | [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md) |
@@ -34,19 +34,19 @@ Ausdehnung des Modells: X -1225 bis 159, Y 58 bis 119, Z -324 bis 811.
 | 22 | Isolato I0501 – Via del Corso | 84.212 | 53 | [BAUANLEITUNG_MODUL_22.md](BAUANLEITUNG_MODUL_22.md) |
 | 23 | Isolato I0520 – Via del Corso | 54.056 | 35 | [BAUANLEITUNG_MODUL_23.md](BAUANLEITUNG_MODUL_23.md) |
 | 24 | Isolato I0541 – Via del Corso | 73.741 | 45 | [BAUANLEITUNG_MODUL_24.md](BAUANLEITUNG_MODUL_24.md) |
-| | **Summe** | **2.872.334** | **1.804** | |
+| | **Summe** | **2.872.415** | **1.804** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 1.034.076 | 36,0 % |
+| Terrakotta | `terracotta` | 1.034.103 | 36,0 % |
 | Polierter Tuffstein | `polished_tuff` | 308.872 | 10,8 % |
 | Weißer Beton | `white_concrete` | 175.813 | 6,1 % |
 | Tuffstein | `tuff` | 170.745 | 5,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 164.820 | 5,7 % |
 | Endsteinziegel | `end_stone_bricks` | 159.017 | 5,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 151.566 | 5,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 151.620 | 5,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 134.653 | 4,7 % |
 | Rosa Keramik | `pink_terracotta` | 120.875 | 4,2 % |
 | Glatter Stein | `smooth_stone` | 108.307 | 3,8 % |

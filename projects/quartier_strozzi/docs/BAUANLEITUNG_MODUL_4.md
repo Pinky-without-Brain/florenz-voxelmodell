@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 202.231 |
+| Blöcke | 202.312 |
 | Bauschritte | 129 |
 | Y-Bereich | 59 bis 106 |
 | X-Ausdehnung | -1185 bis -913 (273 Blöcke) |
 | Z-Ausdehnung | 569 bis 811 (243 Blöcke) |
 | Kleinster Schritt | 994 Blöcke (Schritt 4.69) |
 | Mittlerer Schritt | 1.568 Blöcke |
-| Größter Schritt | 2.038 Blöcke (Schritt 4.106) |
+| Größter Schritt | 2.069 Blöcke (Schritt 4.111) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 74.721 | 36,9 % |
+| Terrakotta | `terracotta` | 74.748 | 36,9 % |
 | Weißer Beton | `white_concrete` | 31.229 | 15,4 % |
 | Polierter Tuffstein | `polished_tuff` | 26.118 | 12,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 18.179 | 9,0 % |
+| Glatter Sandstein | `smooth_sandstone` | 18.233 | 9,0 % |
 | Endsteinziegel | `end_stone_bricks` | 15.204 | 7,5 % |
 | Tuffstein | `tuff` | 10.051 | 5,0 % |
 | Glatter Stein | `smooth_stone` | 7.808 | 3,9 % |
@@ -76,7 +76,7 @@
 | 10 | `w116673410_innen` | Torre dei Gianfigliazzi: Innenausbau | 6 | 4.99 |
 | 11 | `w307174625` | Palazzo Piccioli | 8.116 | 4.99–4.103 |
 | 12 | `w307174625_innen` | Palazzo Piccioli: Innenausbau | 1.996 | 4.104 |
-| 13 | `w307295759` | Reihenhaus an Via del Parioncino | 14.431 | 4.105–4.112 |
+| 13 | `w307295759` | Reihenhaus an Via del Parioncino | 14.512 | 4.105–4.112 |
 | 14 | `w307295759_innen` | Reihenhaus an Via del Parioncino: Innenausbau | 4.420 | 4.113–4.116 |
 | 15 | `w307295763` | Haus w307295763 | 3.854 | 4.117–4.118 |
 | 16 | `w307295763_innen` | Haus w307295763: Innenausbau | 1.986 | 4.119 |
@@ -3540,14 +3540,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.110 – Reihenhaus an Via del Parioncino – Teil 6/8 (Y 77–81)
 
 - **Y-Bereich:** 77 bis 81
-- **Blöcke:** 1.833
+- **Blöcke:** 1.860
 - **Bauteile:** `w307295759`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.101 |
+| Glatter Sandstein | `smooth_sandstone` | 1.128 |
 | Weißer Beton | `white_concrete` | 432 |
 | Graues Buntglas | `gray_stained_glass` | 159 |
 | Grüner Beton | `green_concrete` | 141 |
@@ -3571,15 +3571,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.111 – Reihenhaus an Via del Parioncino – Teil 7/8 (Y 82–84)
 
 - **Y-Bereich:** 82 bis 84
-- **Blöcke:** 2.015
+- **Blöcke:** 2.069
 - **Bauteile:** `w307295759`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.556 |
-| Glatter Sandstein | `smooth_sandstone` | 459 |
+| Terrakotta | `terracotta` | 1.583 |
+| Glatter Sandstein | `smooth_sandstone` | 486 |
 
 **Beschreibung**
 

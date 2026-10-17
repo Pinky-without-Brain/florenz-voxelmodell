@@ -273,8 +273,8 @@ Nutzer: „mach weiter“ nach Welle 7, Verfahren wie W7 (fünf Sonnet-Agenten, 
 - **Wahrzeichen (zehn Projekte, 1.207.116 Blöcke):** W8a Palazzo Corsini al Parione (Terrasse, Galleria), Guadagni (Dachloggia), Lenzi (Graffito), Mozzi (Hang 65–92); W8b Tempio Maggiore (Kupferkuppel, Emporen; Spaltenmodell), Palazzo della Crocetta (Museo Archeologico), Biblioteca Nazionale (Portikus, zwei Türme, Lesesäle; 5 Zellen des Primo Chiostro abgezogen); W8c **Forte di Belvedere** (Plateau Y 185, Wälle, sechs Bastionen, Tor, Palazzina w160800063; 190.786 Blöcke), Loggia del Grano, Torre degli Alberti. Alle `pflicht`, R13 0 Komponenten, R14 0 Lücken. 13 Hausakten aus acht Quartieren gelöst. `vorrang.json` 84 IDs.
 - **Hausakten-Recherche R2 (170 Akten, 24 Quartiere):** R2a Zentrum/Norden 93 (u. a. Strozzi 28, San Marco 15, Signoria 15), R2b Osten/Oltrarno 77 (u. a. Pergola 20, Conce 10); jetzt **315 Akten mit `quelle: recherche`**. Welle-9-Kandidaten in UEBERSICHT_WELLE8 §8.
 - **Werkzeuge:** `palazzo.js` Option `entlangGlatt`, neu `tools/wahrzeichen/strasse.js` (`aufStrasseFuer`), `campanile.js` Option `ohneGlocken`, Content-Erzeuger `tools/diag/w8*_inhalt.js`.
-- **Integration:** `besitz.js` 42 Projekte, Stadtgrund neu, `webindex.js` __INDEX__, `--cross` __CROSS__, Tests __TESTS__.
-- **Minecraft-Export (Build-Ordner):** __EXPORT__
+- **Integration:** `besitz.js` 42 Projekte, Stadtgrund neu, `webindex.js` 96 Einträge, `--cross` 96 Projekte, 4.560 Paare, 0 Konflikte (78 min zusammen mit `--all --no-emit`; danach `quartier_strozzi` wegen R9 neu gebaut), Tests 707 / 0 / 0 (11,6 min, einschließlich Cross-Test auf dem echten Repository).
+- **Minecraft-Export (Build-Ordner):** 825 s (parallel zum Cross-Lauf), 96 Projekte, **105.336.955 Projektblöcke** (das Forte di Belvedere stand zuvor als 61.000-Zellen-Haus, daher kaum Zuwachs), 2.759 Straßenschilder, 78.496 Chunks, db 57,6 MB, Heap 2,8 GB; als `florenz_voxelmodell_2026-10-17_w8.mcworld` an den Nutzer.
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
