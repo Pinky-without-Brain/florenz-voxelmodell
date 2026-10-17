@@ -8,42 +8,43 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 64.285 |
+| Blöcke | 65.068 |
 | Bauschritte | 39 |
 | Y-Bereich | 61 bis 100 |
 | X-Ausdehnung | 810 bis 946 (137 Blöcke) |
 | Z-Ausdehnung | 651 bis 750 (100 Blöcke) |
 | Kleinster Schritt | 739 Blöcke (Schritt 3.24) |
-| Mittlerer Schritt | 1.648 Blöcke |
-| Größter Schritt | 1.993 Blöcke (Schritt 3.25) |
+| Mittlerer Schritt | 1.668 Blöcke |
+| Größter Schritt | 2.071 Blöcke (Schritt 3.36) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 19.080 | 29,7 % |
-| Tuffstein | `tuff` | 10.233 | 15,9 % |
-| Weißer Beton | `white_concrete` | 8.802 | 13,7 % |
-| Polierter Tuffstein | `polished_tuff` | 7.060 | 11,0 % |
-| Glatter Stein | `smooth_stone` | 6.264 | 9,7 % |
-| Endsteinziegel | `end_stone_bricks` | 4.700 | 7,3 % |
-| Graues Buntglas | `gray_stained_glass` | 2.509 | 3,9 % |
-| Polierter Andesit | `polished_andesite` | 1.744 | 2,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 1.684 | 2,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 951 | 1,5 % |
+| Terrakotta | `terracotta` | 19.434 | 29,9 % |
+| Tuffstein | `tuff` | 10.233 | 15,7 % |
+| Glatter Stein | `smooth_stone` | 8.062 | 12,4 % |
+| Polierter Tuffstein | `polished_tuff` | 7.061 | 10,9 % |
+| Rosa Keramik | `pink_terracotta` | 6.450 | 9,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 4.711 | 7,2 % |
+| Weißer Beton | `white_concrete` | 2.787 | 4,3 % |
+| Graues Buntglas | `gray_stained_glass` | 2.296 | 3,5 % |
+| Polierter Andesit | `polished_andesite` | 1.749 | 2,7 % |
+| Tuffsteinziegel | `tuff_bricks` | 974 | 1,5 % |
 | Ziegelsteine | `bricks` | 430 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 306 | 0,5 % |
-| Seelaterne | `sea_lantern` | 104 | 0,2 % |
-| Grüner Beton | `green_concrete` | 86 | 0,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 300 | 0,5 % |
+| Seelaterne | `sea_lantern` | 105 | 0,2 % |
+| Grüner Beton | `green_concrete` | 72 | 0,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 | 0,0 % |
+| Fichtenholz-Bretter | `spruce_planks` | 68 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 50 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 50 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 27 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 27 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 28 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 28 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
@@ -55,7 +56,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 140 |
+| Steintreppe | `stone_stairs` | 142 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 60 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -66,10 +67,10 @@
 | 2 | `r1606439_innen` | Renaissance-Palazzo an Via dei Pepi: Innenausbau | 6.565 | 3.17–3.20 |
 | 3 | `w306984386` | Reihenhaus an Via del Fico | 4.176 | 3.21–3.23 |
 | 4 | `w306984386_innen` | Reihenhaus an Via del Fico: Innenausbau | 739 | 3.24 |
-| 5 | `w306984415` | Casa natale di Giovanni da Verrazzano | 7.678 | 3.25–3.28 |
-| 6 | `w306984415_innen` | Casa natale di Giovanni da Verrazzano: Innenausbau | 1.104 | 3.29 |
-| 7 | `w306984417` | Palazzo Jacometti Ciofi | 13.163 | 3.30–3.37 |
-| 8 | `w306984417_innen` | Palazzo Jacometti Ciofi: Innenausbau | 3.040 | 3.38–3.39 |
+| 5 | `w306984415` | Casa natale di Giovanni da Verrazzano | 7.781 | 3.25–3.28 |
+| 6 | `w306984415_innen` | Casa natale di Giovanni da Verrazzano: Innenausbau | 1.587 | 3.29 |
+| 7 | `w306984417` | Palazzo Jacometti Ciofi | 13.359 | 3.30–3.37 |
+| 8 | `w306984417_innen` | Palazzo Jacometti Ciofi: Innenausbau | 3.041 | 3.38–3.39 |
 | 9 | `strassenschilder` | Straßenschilder | 7 | 3.39 |
 
 ## Bauschritte
@@ -860,23 +861,24 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 3.25 – Casa natale di Giovanni da Verrazzano – Teil 1/4 (Y 61–68)
 
 - **Y-Bereich:** 61 bis 68
-- **Blöcke:** 1.993
+- **Blöcke:** 2.042
 - **Bauteile:** `w306984415`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 943 |
-| Polierter Tuffstein | `polished_tuff` | 683 |
-| Graues Buntglas | `gray_stained_glass` | 158 |
-| Glatter Stein | `smooth_stone` | 157 |
-| Polierter Andesit | `polished_andesite` | 36 |
-| Grüner Beton | `green_concrete` | 16 |
+| Glatter Sandstein | `smooth_sandstone` | 1.046 |
+| Polierter Tuffstein | `polished_tuff` | 684 |
+| Glatter Stein | `smooth_stone` | 189 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Polierter Andesit | `polished_andesite` | 34 |
+| Grüner Beton | `green_concrete` | 12 |
+| Tuffsteinziegel | `tuff_bricks` | 11 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade erste Hälfte 19. Jh. auf älterem Bau), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_natale_di_Giovanni_da_Verrazzano, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -888,27 +890,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.26 – Casa natale di Giovanni da Verrazzano – Teil 2/4 (Y 69–77)
 
 - **Y-Bereich:** 69 bis 77
-- **Blöcke:** 1.799
+- **Blöcke:** 1.818
 - **Bauteile:** `w306984415`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.342 |
-| Glatter Stein | `smooth_stone` | 318 |
-| Graues Buntglas | `gray_stained_glass` | 103 |
-| Polierter Andesit | `polished_andesite` | 20 |
-| Grüner Beton | `green_concrete` | 16 |
+| Glatter Sandstein | `smooth_sandstone` | 1.222 |
+| Glatter Stein | `smooth_stone` | 478 |
+| Graues Buntglas | `gray_stained_glass` | 75 |
+| Polierter Andesit | `polished_andesite` | 26 |
+| Grüner Beton | `green_concrete` | 12 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade erste Hälfte 19. Jh. auf älterem Bau), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_natale_di_Giovanni_da_Verrazzano, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -920,27 +923,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.27 – Casa natale di Giovanni da Verrazzano – Teil 3/4 (Y 78–87)
 
 - **Y-Bereich:** 78 bis 87
-- **Blöcke:** 1.985
+- **Blöcke:** 2.020
 - **Bauteile:** `w306984415`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.385 |
-| Glatter Stein | `smooth_stone` | 426 |
-| Graues Buntglas | `gray_stained_glass` | 125 |
-| Polierter Andesit | `polished_andesite` | 29 |
-| Grüner Beton | `green_concrete` | 20 |
+| Glatter Sandstein | `smooth_sandstone` | 1.413 |
+| Glatter Stein | `smooth_stone` | 466 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
+| Polierter Andesit | `polished_andesite` | 25 |
+| Grüner Beton | `green_concrete` | 16 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade erste Hälfte 19. Jh. auf älterem Bau), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_natale_di_Giovanni_da_Verrazzano, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -952,7 +955,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.28 – Casa natale di Giovanni da Verrazzano – Teil 4/4 (Y 88–93)
 
@@ -964,7 +967,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.030 |
+| Glatter Sandstein | `smooth_sandstone` | 1.030 |
 | Polierter Tuffstein | `polished_tuff` | 473 |
 | Glatter Stein | `smooth_stone` | 357 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
@@ -973,7 +976,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade erste Hälfte 19. Jh. auf älterem Bau), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_natale_di_Giovanni_da_Verrazzano, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -985,39 +988,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.29 – Casa natale di Giovanni da Verrazzano: Innenausbau
 
 - **Y-Bereich:** 61 bis 91
-- **Blöcke:** 1.104
+- **Blöcke:** 1.587
 - **Bauteile:** `w306984415_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 936 |
-| Glatter Stein | `smooth_stone` | 78 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 |
-| Seelaterne | `sea_lantern` | 15 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Terrakotta | `terracotta` | 1.407 |
+| Glatter Stein | `smooth_stone` | 84 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 32 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 28 |
+| Seelaterne | `sea_lantern` | 16 |
+| Rote Keramik | `red_terracotta` | 7 |
+| Weiße Keramik | `white_terracotta` | 7 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 60 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1045,7 +1048,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1057,63 +1060,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.31 – Palazzo Jacometti Ciofi – Teil 2/8 (Y 62–66)
+### Schritt 3.31 – Palazzo Jacometti Ciofi – Teil 2/8 (Y 62–67)
 
-- **Y-Bereich:** 62 bis 66
-- **Blöcke:** 1.483
+- **Y-Bereich:** 62 bis 67
+- **Blöcke:** 1.690
 - **Bauteile:** `w306984417`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.051 |
-| Hellgrauer Beton | `light_gray_concrete` | 305 |
-| Graues Buntglas | `gray_stained_glass` | 98 |
-| Glatter Stein | `smooth_stone` | 15 |
-| Polierter Andesit | `polished_andesite` | 5 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
-| Grüner Beton | `green_concrete` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.32 – Palazzo Jacometti Ciofi – Teil 3/8 (Y 67–72)
-
-- **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.736
-- **Bauteile:** `w306984417`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.252 |
-| Glatter Stein | `smooth_stone` | 184 |
-| Hellgrauer Beton | `light_gray_concrete` | 181 |
-| Graues Buntglas | `gray_stained_glass` | 98 |
+| Rosa Keramik | `pink_terracotta` | 1.289 |
+| Glatter Stein | `smooth_stone` | 242 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
 | Polierter Andesit | `polished_andesite` | 9 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
-| Grüner Beton | `green_concrete` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1125,26 +1093,59 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 3.32 – Palazzo Jacometti Ciofi – Teil 3/8 (Y 68–72)
+
+- **Y-Bereich:** 68 bis 72
+- **Blöcke:** 1.465
+- **Bauteile:** `w306984417`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.102 |
+| Glatter Stein | `smooth_stone` | 295 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
+| Tuffsteinziegel | `tuff_bricks` | 11 |
+| Polierter Andesit | `polished_andesite` | 10 |
+| Grüner Beton | `green_concrete` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.33 – Palazzo Jacometti Ciofi – Teil 4/8 (Y 73–78)
 
 - **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.647
+- **Blöcke:** 1.690
 - **Bauteile:** `w306984417`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.049 |
-| Hellgrauer Beton | `light_gray_concrete` | 328 |
+| Rosa Keramik | `pink_terracotta` | 1.049 |
+| Glatter Stein | `smooth_stone` | 371 |
 | Graues Buntglas | `gray_stained_glass` | 260 |
 | Grüner Beton | `green_concrete` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1156,27 +1157,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.34 – Palazzo Jacometti Ciofi – Teil 5/8 (Y 79–83)
+### Schritt 3.34 – Palazzo Jacometti Ciofi – Teil 5/8 (Y 79–84)
 
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.477
+- **Y-Bereich:** 79 bis 84
+- **Blöcke:** 1.822
 - **Bauteile:** `w306984417`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.010 |
-| Hellgrauer Beton | `light_gray_concrete` | 242 |
-| Glatter Stein | `smooth_stone` | 171 |
+| Rosa Keramik | `pink_terracotta` | 1.171 |
+| Glatter Stein | `smooth_stone` | 597 |
 | Graues Buntglas | `gray_stained_glass` | 52 |
 | Grüner Beton | `green_concrete` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1188,26 +1188,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 3.35 – Palazzo Jacometti Ciofi – Teil 6/8 (Y 84–89)
+### Schritt 3.35 – Palazzo Jacometti Ciofi – Teil 6/8 (Y 85–89)
 
-- **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.647
+- **Y-Bereich:** 85 bis 89
+- **Blöcke:** 1.378
 - **Bauteile:** `w306984417`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.049 |
-| Hellgrauer Beton | `light_gray_concrete` | 328 |
-| Graues Buntglas | `gray_stained_glass` | 260 |
-| Grüner Beton | `green_concrete` | 10 |
+| Rosa Keramik | `pink_terracotta` | 880 |
+| Glatter Stein | `smooth_stone` | 282 |
+| Graues Buntglas | `gray_stained_glass` | 208 |
+| Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1219,25 +1219,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.36 – Palazzo Jacometti Ciofi – Teil 7/8 (Y 90–92)
 
 - **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.930
+- **Blöcke:** 2.071
 - **Bauteile:** `w306984417`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.088 |
-| Weißer Beton | `white_concrete` | 604 |
-| Fichtenholz-Bretter | `spruce_planks` | 238 |
+| Terrakotta | `terracotta` | 971 |
+| Rosa Keramik | `pink_terracotta` | 959 |
+| Glatter Stein | `smooth_stone` | 141 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1249,7 +1249,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.37 – Palazzo Jacometti Ciofi – Teil 8/8 (Y 93–99)
 
@@ -1266,7 +1266,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1278,7 +1278,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 3.38 – Palazzo Jacometti Ciofi: Innenausbau – Teil 1/2 (Y 61–71)
 
@@ -1293,8 +1293,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.450 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -1322,10 +1322,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.39 – Palazzo Jacometti Ciofi: Innenausbau – Teil 2/2 (Y 72–82) & Straßenschilder
+### Schritt 3.39 – Palazzo Jacometti Ciofi: Innenausbau – Teil 2/2 (Y 72–83) & Straßenschilder
 
-- **Y-Bereich:** 68 bis 82
-- **Blöcke:** 1.530
+- **Y-Bereich:** 68 bis 83
+- **Blöcke:** 1.531
 - **Bauteile:** `w306984417_innen`, `strassenschilder`
 
 **Teileliste**
@@ -1333,26 +1333,26 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.450 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+| Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 

@@ -8,54 +8,53 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 27.628 |
+| Blöcke | 27.684 |
 | Bauschritte | 17 |
 | Y-Bereich | 59 bis 98 |
 | X-Ausdehnung | 1094 bis 1175 (82 Blöcke) |
 | Z-Ausdehnung | 512 bis 589 (78 Blöcke) |
 | Kleinster Schritt | 553 Blöcke (Schritt 11.9) |
-| Mittlerer Schritt | 1.625 Blöcke |
-| Größter Schritt | 2.089 Blöcke (Schritt 11.7) |
+| Mittlerer Schritt | 1.628 Blöcke |
+| Größter Schritt | 2.032 Blöcke (Schritt 11.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 7.355 | 26,6 % |
-| Terrakotta | `terracotta` | 6.505 | 23,5 % |
-| Endsteinziegel | `end_stone_bricks` | 5.350 | 19,4 % |
+| Endsteinziegel | `end_stone_bricks` | 12.903 | 46,6 % |
+| Terrakotta | `terracotta` | 6.390 | 23,1 % |
 | Polierter Tuffstein | `polished_tuff` | 2.764 | 10,0 % |
-| Glatter Stein | `smooth_stone` | 1.446 | 5,2 % |
-| Polierter Andesit | `polished_andesite` | 1.378 | 5,0 % |
-| Graues Buntglas | `gray_stained_glass` | 1.175 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 1.555 | 5,6 % |
+| Polierter Andesit | `polished_andesite` | 1.360 | 4,9 % |
+| Graues Buntglas | `gray_stained_glass` | 1.298 | 4,7 % |
 | Tuffstein | `tuff` | 706 | 2,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 591 | 2,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 344 | 1,2 % |
 | Ziegelsteine | `bricks` | 201 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 29 | 0,1 % |
 | Seelaterne | `sea_lantern` | 28 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 14 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 11 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 18 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 12 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 28 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1606434` | Palazzo Lapi | 12.539 | 11.1–11.7 |
-| 2 | `r1606434_innen` | Palazzo Lapi: Innenausbau | 1.575 | 11.8 |
+| 1 | `r1606434` | Palazzo Lapi | 12.591 | 11.1–11.7 |
+| 2 | `r1606434_innen` | Palazzo Lapi: Innenausbau | 1.579 | 11.8 |
 | 3 | `w307276584` | Reihenhaus an Via dell'Agnolo | 12.202 | 11.9–11.16 |
 | 4 | `w307276584_innen` | Reihenhaus an Via dell'Agnolo: Innenausbau | 1.312 | 11.17 |
 
@@ -64,7 +63,7 @@
 ### Schritt 11.1 – Palazzo Lapi – Teil 1/7 (Y 60–64)
 
 - **Y-Bereich:** 60 bis 64
-- **Blöcke:** 1.867
+- **Blöcke:** 1.849
 - **Bauteile:** `r1606434`
 
 **Teileliste**
@@ -72,15 +71,15 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.060 |
-| Rosa Keramik | `pink_terracotta` | 572 |
+| Endsteinziegel | `end_stone_bricks` | 608 |
 | Tuffstein | `tuff` | 153 |
-| Glatter Stein | `smooth_stone` | 58 |
-| Polierter Andesit | `polished_andesite` | 22 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Polierter Andesit | `polished_andesite` | 21 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Graffito kurz nach 1452 (Tommaso Lapi); EG-Fensterrahmen 17. Jh.; Restaurierung 1916), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Lapi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -92,27 +91,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.2 – Palazzo Lapi – Teil 2/7 (Y 65–70)
 
 - **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.876
+- **Blöcke:** 1.863
 - **Bauteile:** `r1606434`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.368 |
-| Glatter Stein | `smooth_stone` | 322 |
-| Graues Buntglas | `gray_stained_glass` | 112 |
-| Polierter Andesit | `polished_andesite` | 67 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Endsteinziegel | `end_stone_bricks` | 1.332 |
+| Glatter Stein | `smooth_stone` | 306 |
+| Graues Buntglas | `gray_stained_glass` | 152 |
+| Polierter Andesit | `polished_andesite` | 63 |
+| Tuffsteinziegel | `tuff_bricks` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Graffito kurz nach 1452 (Tommaso Lapi); EG-Fensterrahmen 17. Jh.; Restaurierung 1916), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Lapi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -124,27 +123,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.3 – Palazzo Lapi – Teil 3/7 (Y 71–75)
 
 - **Y-Bereich:** 71 bis 75
-- **Blöcke:** 1.637
+- **Blöcke:** 1.712
 - **Bauteile:** `r1606434`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.267 |
-| Glatter Stein | `smooth_stone` | 278 |
-| Polierter Andesit | `polished_andesite` | 56 |
-| Graues Buntglas | `gray_stained_glass` | 31 |
+| Endsteinziegel | `end_stone_bricks` | 1.252 |
+| Glatter Stein | `smooth_stone` | 360 |
+| Polierter Andesit | `polished_andesite` | 55 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Graffito kurz nach 1452 (Tommaso Lapi); EG-Fensterrahmen 17. Jh.; Restaurierung 1916), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Lapi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -156,26 +155,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.4 – Palazzo Lapi – Teil 4/7 (Y 76–81)
 
 - **Y-Bereich:** 76 bis 81
-- **Blöcke:** 1.847
+- **Blöcke:** 1.848
 - **Bauteile:** `r1606434`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.385 |
-| Glatter Stein | `smooth_stone` | 247 |
-| Graues Buntglas | `gray_stained_glass` | 155 |
+| Endsteinziegel | `end_stone_bricks` | 1.343 |
+| Glatter Stein | `smooth_stone` | 253 |
+| Graues Buntglas | `gray_stained_glass` | 192 |
 | Polierter Andesit | `polished_andesite` | 60 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Graffito kurz nach 1452 (Tommaso Lapi); EG-Fensterrahmen 17. Jh.; Restaurierung 1916), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Lapi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -187,26 +186,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.5 – Palazzo Lapi – Teil 5/7 (Y 82–86)
 
 - **Y-Bereich:** 82 bis 86
-- **Blöcke:** 1.614
+- **Blöcke:** 1.712
 - **Bauteile:** `r1606434`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.198 |
-| Glatter Stein | `smooth_stone` | 314 |
-| Graues Buntglas | `gray_stained_glass` | 62 |
-| Polierter Andesit | `polished_andesite` | 40 |
+| Endsteinziegel | `end_stone_bricks` | 1.284 |
+| Glatter Stein | `smooth_stone` | 360 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
+| Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Graffito kurz nach 1452 (Tommaso Lapi); EG-Fensterrahmen 17. Jh.; Restaurierung 1916), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Lapi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -218,27 +217,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.6 – Palazzo Lapi – Teil 6/7 (Y 87–91)
 
 - **Y-Bereich:** 87 bis 91
-- **Blöcke:** 1.609
+- **Blöcke:** 1.633
 - **Bauteile:** `r1606434`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.242 |
-| Glatter Stein | `smooth_stone` | 175 |
-| Graues Buntglas | `gray_stained_glass` | 93 |
+| Endsteinziegel | `end_stone_bricks` | 1.207 |
+| Glatter Stein | `smooth_stone` | 218 |
+| Graues Buntglas | `gray_stained_glass` | 152 |
 | Polierter Andesit | `polished_andesite` | 56 |
-| Fichtenholz-Bretter | `spruce_planks` | 43 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Graffito kurz nach 1452 (Tommaso Lapi); EG-Fensterrahmen 17. Jh.; Restaurierung 1916), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Lapi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -250,27 +248,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.7 – Palazzo Lapi – Teil 7/7 (Y 92–98)
 
 - **Y-Bereich:** 92 bis 98
-- **Blöcke:** 2.089
+- **Blöcke:** 1.974
 - **Bauteile:** `r1606434`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.500 |
-| Rosa Keramik | `pink_terracotta` | 323 |
-| Fichtenholz-Bretter | `spruce_planks` | 204 |
+| Terrakotta | `terracotta` | 1.385 |
+| Endsteinziegel | `end_stone_bricks` | 527 |
 | Ziegelsteine | `bricks` | 58 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Graffito kurz nach 1452 (Tommaso Lapi); EG-Fensterrahmen 17. Jh.; Restaurierung 1916), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Lapi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -282,12 +279,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.8 – Palazzo Lapi: Innenausbau
 
-- **Y-Bereich:** 62 bis 83
-- **Blöcke:** 1.575
+- **Y-Bereich:** 62 bis 84
+- **Blöcke:** 1.579
 - **Bauteile:** `r1606434_innen`
 
 **Teileliste**
@@ -295,23 +292,23 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.450 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
+| Glatter Stein | `smooth_stone` | 54 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 **Beschreibung**
