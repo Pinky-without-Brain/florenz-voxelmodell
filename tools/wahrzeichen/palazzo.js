@@ -18,6 +18,7 @@
 //              (Innocenti); Rückwand (Bauteil loggiawand) mit Türen alle zwei Joche
 //   fenster.versatz?: Verschiebung des Fensterrasters (lokal)
 //   fenster.aus?(c) -> bool   Außenwandzellen ohne Fenster (W6c, z. B. Wand zu einem Nachbarbau desselben Projekts)
+//   entlangGlatt?: true       W8a: Außennormale je Zelle aus dem Umkreis 3 statt aus der ersten Außennachbarzelle (für Rahmen mit θ nicht nahe 0/90/180/270°)
 //   treppe?: { u, w } | false   bevorzugte Lage der Wendeltreppe (lokal); false = keine (eigene Treppen über extra.vorher)
 //   innenwandTuer?(c, s, v) -> bool   Türen der Innenwand um den Hof je Geschoss s (v = Lage entlang der Wand); Vorgabe: Raster 14, Breite 3
 //   extra?(api)         zusätzliche Bauteile, api = { D, set, hat, frei, oeffnung, unzug, key, Y, T, zelleBei }
@@ -83,6 +84,14 @@ function palazzo(cfg) {
         entlang = Math.abs(l.u - c.u) > Math.abs(l.w - c.w) ? 'w' : 'u';
         break;
       }
+      if (cfg.entlangGlatt) {                                          // W8a: Außennormale aus allen Außenzellen im Umkreis 3 (stabil bei Rahmen, die nicht achsparallel liegen)
+        let sx = 0, sz = 0;
+        for (let dx = -3; dx <= 3; dx++) for (let dz = -3; dz <= 3; dz++) if (!H.innen(c.x + dx, c.z + dz)) { sx += dx; sz += dz; }
+        if (sx || sz) {
+          const a = R.toLocal(c.x, c.z), b = R.toLocal(c.x + sx, c.z + sz);
+          entlang = Math.abs(b.u - a.u) > Math.abs(b.w - a.w) ? 'w' : 'u';
+        }
+      }
       c.entlang = entlang;
       let hofEntlang = null;
       if (c.dHof <= 2) for (const [dx, dz] of N8) {
@@ -100,6 +109,14 @@ function palazzo(cfg) {
           bd = d;
           const l = R.toLocal(c.x + dx, c.z + dz);
           hofEntlang = Math.abs(l.u - c.u) > Math.abs(l.w - c.w) ? 'w' : 'u';
+        }
+      }
+      if (cfg.entlangGlatt && hofEntlang) {                            // Hofseite: Mittel der Lochzellen im Umkreis 3
+        let sx = 0, sz = 0;
+        for (let dx = -3; dx <= 3; dx++) for (let dz = -3; dz <= 3; dz++) if (H.innen(c.x + dx, c.z + dz) && !H.has(c.x + dx, c.z + dz)) { sx += dx; sz += dz; }
+        if (sx || sz) {
+          const a = R.toLocal(c.x, c.z), b = R.toLocal(c.x + sx, c.z + sz);
+          hofEntlang = Math.abs(b.u - a.u) > Math.abs(b.w - a.w) ? 'w' : 'u';
         }
       }
       c.hofEntlang = hofEntlang;

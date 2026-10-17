@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände aus gelbem Putz mit Lisenen, Portal mit Säulen, Kranzgesims",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick: gelber Putz (der Mittelteil der Lungarno-Fassade heller) mit Lisenen aus Pietra serena zwischen den Fensterachsen im Abstand von 12 Blöcken, Sockel und Gesimse aus Pietra serena; innen Putz. Das Portal am Lungarno ist 7 Blöcke breit und liegt in der Achse des Haupthofs.",
+      "tip": "Die Lisenen stehen auf jedem zwölften Block; Fensterachsen dazwischen.",
+      "caution": "Fenster und Portale bleiben beim Bauen frei.",
+      "fact": "Die Fassade zum Lungarno ist asymmetrisch, weil der linke Flügel zur Ponte alla Carraia fehlt; ihr Mittelteil ist zurückgesetzt (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster mit Glas im Raster 12 in allen drei Geschossen (Sohle 3 / 3 / 2, Höhe 5 / 5 / 4), das Portal liegt in einer Achse.",
+      "tip": "Die Fenster sitzen im gleichen Raster in allen Geschossen.",
+      "caution": "Die Fenster sind mit Glas gefüllt.",
+      "fact": "Die Fassade zum Lungarno wurde 1690 vollendet (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Das Kranzgesims aus Pietra serena schließt die Fassade bei Y 89 ab; darüber liegt das flache Dach als Terrasse.",
+      "tip": "Das Gesims springt nicht vor, es besteht aus der obersten Wandlage.",
+      "caution": "Bis hierher reicht die Traufe, darüber beginnt das Dach.",
+      "fact": "Das Dach zeigt eine Terrasse aus dem 18. Jahrhundert mit Steinbalustrade (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    }
+  }
+}

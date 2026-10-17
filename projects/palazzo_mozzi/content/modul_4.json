@@ -1,0 +1,22 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach und Turm",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Dachziegeln deckt das Haus bis zu vier Lagen über der Traufe; darunter liegt der Dachraum.",
+      "tip": "Von der Außenkante und der Hofkante steigt das Dach lagenweise an.",
+      "caution": "Der Dachraum hat keinen Zugang.",
+      "fact": "Im 19. und 20. Jahrhundert wurden barocke Elemente entfernt, um einen mittelalterlichen Eindruck herzustellen (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "turm": {
+      "title": "Turm",
+      "description": "Über der Fassadenmitte steht ein Turm von 12 × 12 Blöcken bis Y 112: zwei Blöcke dicke Wände aus Bruchstein und Pietra forte, innen hohl, oben mit einer Platte aus Pietra serena geschlossen.",
+      "tip": "Erst die Wandschale, dann die Platte.",
+      "caution": "Der Schaft hat keinen Zugang; Maße und Lage des Turms sind Entwurf, Zinnen sind nicht gebaut.",
+      "fact": "Im Zentrum der Fassade steht ein hoher Turm; seine guelfischen Zinnen wurden im 19. Jahrhundert entfernt (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    }
+  }
+}

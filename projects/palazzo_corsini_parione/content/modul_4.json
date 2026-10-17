@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Flachdach als Terrasse",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Flachdach",
+      "description": "Das flache Dach aus Pflaster liegt auf Y 90 über allen Flügeln und ist als Terrasse begehbar; Balustrade und Statuen gehören zu Bautüte 6.",
+      "tip": "Von der Außenkante und der Hofkante steigt das Dach lagenweise an.",
+      "caution": "Der Dachraum hat keinen Zugang.",
+      "fact": "Die Terrasse trägt Statuen und Terrakotta-Vasen (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    }
+  }
+}
