@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 176.282 |
+| Blöcke | 176.278 |
 | Bauschritte | 119 |
 | Y-Bereich | 62 bis 106 |
 | X-Ausdehnung | -2901 bis -2683 (219 Blöcke) |
@@ -29,7 +29,7 @@
 | Hellgrauer Beton | `light_gray_concrete` | 6.540 | 3,7 % |
 | Polierter Andesit | `polished_andesite` | 4.048 | 2,3 % |
 | Weißer Beton | `white_concrete` | 3.268 | 1,9 % |
-| Glatter Stein | `smooth_stone` | 3.169 | 1,8 % |
+| Glatter Stein | `smooth_stone` | 3.167 | 1,8 % |
 | Graues Buntglas | `gray_stained_glass` | 2.762 | 1,6 % |
 | Ziegelsteine | `bricks` | 1.312 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 411 | 0,2 % |
@@ -39,9 +39,9 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 51 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 47 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 15 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 14 | 0,0 % |
@@ -55,7 +55,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 130 |
-| Steintreppe | `stone_stairs` | 84 |
+| Steintreppe | `stone_stairs` | 82 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -65,7 +65,7 @@
 | 1 | `r4081049` | Reihenhaus an Via Giano della Bella | 66.764 | 19.1–19.51 |
 | 2 | `r4081049_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 8.967 | 19.52–19.56 |
 | 3 | `w305954432` | Chiesa di Maria Mater Misericordiae | 9.035 | 19.57–19.61 |
-| 4 | `w305954432_innen` | Chiesa di Maria Mater Misericordiae: Innenausbau | 1.504 | 19.62 |
+| 4 | `w305954432_innen` | Chiesa di Maria Mater Misericordiae: Innenausbau | 1.500 | 19.62 |
 | 5 | `w461683378` | Reihenhaus an Via dei Villani | 8.875 | 19.63–19.67 |
 | 6 | `w461683378_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.816 | 19.68 |
 | 7 | `w461683379` | Palazzo des Cinquecento an Via dei Villani | 13.770 | 19.69–19.76 |
@@ -1756,7 +1756,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1893-96, Neugotik (Karmelitinnen, Teresa von Ávila)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Maria_Mater_Misericordiae, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1768,25 +1768,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.58 – Chiesa di Maria Mater Misericordiae – Teil 2/5 (Y 74–82)
 
 - **Y-Bereich:** 74 bis 82
-- **Blöcke:** 1.749
+- **Blöcke:** 1.762
 - **Bauteile:** `w305954432`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.554 |
-| Glatter Stein | `smooth_stone` | 143 |
+| Gelbe Keramik | `yellow_terracotta` | 1.509 |
+| Glatter Stein | `smooth_stone` | 201 |
 | Graues Buntglas | `gray_stained_glass` | 52 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1893-96, Neugotik (Karmelitinnen, Teresa von Ávila)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Maria_Mater_Misericordiae, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1798,25 +1798,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.59 – Chiesa di Maria Mater Misericordiae – Teil 3/5 (Y 83–90)
 
 - **Y-Bereich:** 83 bis 90
-- **Blöcke:** 1.884
+- **Blöcke:** 1.871
 - **Bauteile:** `w305954432`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.556 |
-| Glatter Stein | `smooth_stone` | 253 |
+| Gelbe Keramik | `yellow_terracotta` | 1.601 |
+| Glatter Stein | `smooth_stone` | 195 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1893-96, Neugotik (Karmelitinnen, Teresa von Ávila)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Maria_Mater_Misericordiae, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1828,25 +1828,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.60 – Chiesa di Maria Mater Misericordiae – Teil 4/5 (Y 91–96)
 
 - **Y-Bereich:** 91 bis 96
-- **Blöcke:** 1.563
+- **Blöcke:** 1.556
 - **Bauteile:** `w305954432`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.325 |
-| Glatter Stein | `smooth_stone` | 178 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
+| Gelbe Keramik | `yellow_terracotta` | 1.273 |
+| Glatter Stein | `smooth_stone` | 208 |
+| Graues Buntglas | `gray_stained_glass` | 75 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1893-96, Neugotik (Karmelitinnen, Teresa von Ávila)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Maria_Mater_Misericordiae, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1858,12 +1858,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.61 – Chiesa di Maria Mater Misericordiae – Teil 5/5 (Y 97–105)
 
 - **Y-Bereich:** 97 bis 105
-- **Blöcke:** 1.953
+- **Blöcke:** 1.960
 - **Bauteile:** `w305954432`
 
 **Teileliste**
@@ -1871,14 +1871,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.184 |
-| Gelbe Keramik | `yellow_terracotta` | 429 |
-| Glatter Stein | `smooth_stone` | 258 |
+| Gelbe Keramik | `yellow_terracotta` | 481 |
+| Glatter Stein | `smooth_stone` | 228 |
 | Ziegelsteine | `bricks` | 67 |
-| Graues Buntglas | `gray_stained_glass` | 15 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1893-96, Neugotik (Karmelitinnen, Teresa von Ávila)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Maria_Mater_Misericordiae, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1890,12 +1889,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.62 – Chiesa di Maria Mater Misericordiae: Innenausbau
 
-- **Y-Bereich:** 68 bis 90
-- **Blöcke:** 1.504
+- **Y-Bereich:** 68 bis 89
+- **Blöcke:** 1.500
 - **Bauteile:** `w305954432_innen`
 
 **Teileliste**
@@ -1903,9 +1902,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.386 |
-| Glatter Stein | `smooth_stone` | 56 |
+| Glatter Stein | `smooth_stone` | 54 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
 | Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
@@ -1915,7 +1914,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 44 |
+| Steintreppe | `stone_stairs` | 42 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
