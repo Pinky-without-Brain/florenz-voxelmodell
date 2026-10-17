@@ -26,5 +26,30 @@ module.exports = {
       decke: 'Das oberste Geschoss ist eine große Loggia mit architravierten Säulen',
       dach: 'Die Loggia liegt unter einer weit vorspringenden Traufe; das Vordach ist hier nicht ausgeformt'
     }
+  },
+  palazzo_lenzi: {
+    bodenY: 55, traufe: 30, quelle: 'it.wikipedia, Palazzo Lenzi', loggiaBoden: false,
+    ohne: ['hof', 'hofarkaden', 'hofwaende', 'hoffenster', 'innenwaende', 'innenwaende_og'],
+    hofText: '',
+    modul2: { title: 'Trennwände', subtitle: 'Bautüte 2: Trennwände des Erdgeschosses', icon: '🧱' },
+    modul0: { title: 'Fundament, Boden und Treppe', subtitle: 'Bautüte 0: Fundament, Boden auf Y 55 und Wendeltreppe' },
+    fassadeTitel: 'Außenwände mit Graffito-Fassade, Portale, Rundbogenfenster',
+    aussenText: 'Die Außenwände sind zwei Blöcke dick und verputzt: Die Piazza-Fassade trägt in den Obergeschossen Graffito aus hellem und dunklem Putz (Bänder an den Geschossgrenzen, gemalte Säulchen zwischen den Fensterachsen), die übrigen Seiten und das Erdgeschoss sind schlichter Putz; fünf Portale öffnen sich zur Piazza, ein sechstes zum Borgo Ognissanti.',
+    aussenTip: 'Die Bänder liegen in der untersten und obersten Lage jedes Geschosses, die Säulchen alle 13,7 Blöcke.',
+    fensterText: 'Einfache Rundbogenfenster mit Glas in zwei Reihen (erstes und zweites Obergeschoss), Raster 13,7 in fünf Achsen über den fünf Portalen.',
+    kranzText: 'Das Kranzgesims aus Pietra serena schließt die Fassade bei Y 85 ab; darüber das Walmdach.',
+    arkadenText: '', trennText: 'Trennwände teilen den Palast im Erdgeschoss in fünf Vorderräume hinter den Portalen, den Ausstellungssaal, den Raum daneben und den Flügel zur Via Montebello; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.',
+    dachTitel: 'Walmdach', dachTeilTitel: 'Walmdach', dachText: 'Ein Walmdach aus Dachziegeln deckt das Haus bis zu drei Lagen über der Traufe; darunter liegt der Dachraum.',
+    fakt: {
+      fundament: 'Der Baubeginn ist nicht bekannt und wird ungefähr um 1470 angesetzt; die Infobox nennt das 15. Jahrhundert',
+      boden: 'Von den fünf großen Portalen zur Piazza ist im Erdgeschoss nur das zentrale ursprünglich',
+      treppe: 'Der Palast hat drei Stockwerke; die Lage der Treppen nennt die Quelle nicht',
+      aussenwand: 'Die Graffiti ersetzen Gesimse, Marcapiano und gemalte Säulchen; die heutigen stammen wahrscheinlich aus dem 19. Jahrhundert und folgen vermutlich alten Vorlagen',
+      fenster: 'Die Obergeschosse haben zwei Fensterreihen mit einfachen Rundbogenfenstern',
+      kranzgesims: 'Im obersten Geschoss sitzt eine Loggetta, die vermutlich auf alte Ansichten zurückgeht',
+      geschossboeden: 'Im ersten Stock gibt es ein Theater',
+      decke: 'Der Palast hat drei Stockwerke',
+      dach: 'Die Fassade wurde 1950 und 1965 restauriert'
+    }
   }
 };

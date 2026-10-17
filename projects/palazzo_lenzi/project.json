@@ -1,0 +1,17 @@
+{
+  "id": "palazzo_lenzi",
+  "title": "Palazzo Lenzi",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "w307320369"
+  ],
+  "bodenY": 55,
+  "rahmen": {
+    "ox": -1829,
+    "oz": 182,
+    "thetaDeg": 133.82
+  },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

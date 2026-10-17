@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände mit Graffito-Fassade, Portale, Rundbogenfenster",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick und verputzt: Die Piazza-Fassade trägt in den Obergeschossen Graffito aus hellem und dunklem Putz (Bänder an den Geschossgrenzen, gemalte Säulchen zwischen den Fensterachsen), die übrigen Seiten und das Erdgeschoss sind schlichter Putz; fünf Portale öffnen sich zur Piazza, ein sechstes zum Borgo Ognissanti.",
+      "tip": "Die Bänder liegen in der untersten und obersten Lage jedes Geschosses, die Säulchen alle 13,7 Blöcke.",
+      "caution": "Fenster und Portale bleiben beim Bauen frei.",
+      "fact": "Die Graffiti ersetzen Gesimse, Marcapiano und gemalte Säulchen; die heutigen stammen wahrscheinlich aus dem 19. Jahrhundert und folgen vermutlich alten Vorlagen (Quelle: it.wikipedia, Palazzo Lenzi)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Einfache Rundbogenfenster mit Glas in zwei Reihen (erstes und zweites Obergeschoss), Raster 13,7 in fünf Achsen über den fünf Portalen.",
+      "tip": "Die Fenster sitzen im gleichen Raster in allen Geschossen.",
+      "caution": "Die Fenster sind mit Glas gefüllt.",
+      "fact": "Die Obergeschosse haben zwei Fensterreihen mit einfachen Rundbogenfenstern (Quelle: it.wikipedia, Palazzo Lenzi)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Das Kranzgesims aus Pietra serena schließt die Fassade bei Y 85 ab; darüber das Walmdach.",
+      "tip": "Das Gesims springt nicht vor, es besteht aus der obersten Wandlage.",
+      "caution": "Bis hierher reicht die Traufe, darüber beginnt das Dach.",
+      "fact": "Im obersten Geschoss sitzt eine Loggetta, die vermutlich auf alte Ansichten zurückgeht (Quelle: it.wikipedia, Palazzo Lenzi)."
+    }
+  }
+}
