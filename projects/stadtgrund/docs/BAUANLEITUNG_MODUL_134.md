@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 57.008 |
+| Blöcke | 57.009 |
 | Bauschritte | 35 |
 | Y-Bereich | 57 bis 68 |
 | X-Ausdehnung | 1376 bis 1695 (320 Blöcke) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Polierter Tuffstein | `polished_tuff` | 45.729 | 80,2 % |
 | Stein | `stone` | 7.369 | 12,9 % |
-| Glatter Stein | `smooth_stone` | 2.898 | 5,1 % |
+| Glatter Stein | `smooth_stone` | 2.899 | 5,1 % |
 | Grasblock | `grass_block` | 709 | 1,2 % |
 | Steinziegel | `stone_bricks` | 292 | 0,5 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 11 | 0,0 % |
@@ -40,7 +40,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 7.369 | 134.1–134.5 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 10.318 | 134.6–134.12 |
-| 3 | `gehwege` | Gehwege | 2.825 | 134.13–134.14 |
+| 3 | `gehwege` | Gehwege | 2.826 | 134.13–134.14 |
 | 4 | `stufen` | Treppenflächen | 11 | 134.14 |
 | 5 | `hof_pflaster` | Höfe | 35.411 | 134.14–134.33 |
 | 6 | `rasen` | Grün und offenes Gelände | 709 | 134.34 |
@@ -107,14 +107,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 134.3 – Böschung und Mantel – Teil 3/5 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.313
+- **Blöcke:** 1.314
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.313 |
+| Stein | `stone` | 1.314 |
 
 **Beschreibung**
 
@@ -163,14 +163,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 134.5 – Böschung und Mantel – Teil 5/5 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.014
+- **Blöcke:** 1.013
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.014 |
+| Stein | `stone` | 1.013 |
 
 **Beschreibung**
 
@@ -415,14 +415,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 134.14 – Gehwege – Teil 2/2 (Y 64–65) & Treppenflächen & Höfe – Teil 1/20 (Y 57–60)
 
 - **Y-Bereich:** 57 bis 65
-- **Blöcke:** 1.476
+- **Blöcke:** 1.477
 - **Bauteile:** `gehwege`, `stufen`, `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.280 |
+| Glatter Stein | `smooth_stone` | 1.281 |
 | Polierter Tuffstein | `polished_tuff` | 185 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 11 |
 

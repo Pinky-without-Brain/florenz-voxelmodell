@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 37.277 |
-| Bauschritte | 25 |
+| Blöcke | 37.287 |
+| Bauschritte | 24 |
 | Y-Bereich | 59 bis 70 |
 | X-Ausdehnung | -864 bis -545 (320 Blöcke) |
 | Z-Ausdehnung | -208 bis 111 (320 Blöcke) |
 | Kleinster Schritt | 645 Blöcke (Schritt 67.6) |
-| Mittlerer Schritt | 1.491 Blöcke |
-| Größter Schritt | 1.996 Blöcke (Schritt 67.23) |
+| Mittlerer Schritt | 1.554 Blöcke |
+| Größter Schritt | 2.100 Blöcke (Schritt 67.17) |
 
 ## Gesamt-Stückliste
 
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Polierter Tuffstein | `polished_tuff` | 21.836 | 58,6 % |
 | Stein | `stone` | 6.984 | 18,7 % |
-| Glatter Stein | `smooth_stone` | 6.366 | 17,1 % |
+| Glatter Stein | `smooth_stone` | 6.376 | 17,1 % |
 | Grasblock | `grass_block` | 1.914 | 5,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 76 | 0,2 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 27 | 0,1 % |
@@ -47,26 +47,26 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 6.984 | 67.1–67.5 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 16.211 | 67.6–67.16 |
-| 3 | `gehwege` | Gehwege | 6.037 | 67.17–67.20 |
-| 4 | `stufen` | Treppenflächen | 157 | 67.21 |
-| 5 | `plaetze_pflaster` | Plätze | 2.230 | 67.21–67.22 |
-| 6 | `hof_pflaster` | Höfe | 3.719 | 67.23–67.24 |
-| 7 | `rasen` | Grün und offenes Gelände | 1.914 | 67.25 |
-| 8 | `mauern_garten` | Gartenmauern | 25 | 67.25 |
+| 3 | `gehwege` | Gehwege | 6.047 | 67.16–67.19 |
+| 4 | `stufen` | Treppenflächen | 157 | 67.20 |
+| 5 | `plaetze_pflaster` | Plätze | 2.230 | 67.20–67.21 |
+| 6 | `hof_pflaster` | Höfe | 3.719 | 67.22–67.23 |
+| 7 | `rasen` | Grün und offenes Gelände | 1.914 | 67.24 |
+| 8 | `mauern_garten` | Gartenmauern | 25 | 67.24 |
 
 ## Bauschritte
 
 ### Schritt 67.1 – Böschung und Mantel – Teil 1/5 (Y 59–60)
 
 - **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.149
+- **Blöcke:** 1.144
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.149 |
+| Stein | `stone` | 1.144 |
 
 **Beschreibung**
 
@@ -87,14 +87,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 67.2 – Böschung und Mantel – Teil 2/5 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.805
+- **Blöcke:** 1.822
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.805 |
+| Stein | `stone` | 1.822 |
 
 **Beschreibung**
 
@@ -115,14 +115,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 67.3 – Böschung und Mantel – Teil 3/5 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.868
+- **Blöcke:** 1.856
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.868 |
+| Stein | `stone` | 1.856 |
 
 **Beschreibung**
 
@@ -476,73 +476,46 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 67.16 – Straßenpflaster – Teil 11/11 (Y 65–66)
+### Schritt 67.16 – Straßenpflaster – Teil 11/11 (Y 65–66) & Gehwege – Teil 1/4 (Y 60–60)
 
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.296
-- **Bauteile:** `strassen_pflaster`
+- **Y-Bereich:** 60 bis 66
+- **Blöcke:** 1.531
+- **Bauteile:** `strassen_pflaster`, `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.296 |
+| Glatter Stein | `smooth_stone` | 235 |
 
 **Beschreibung**
 
-Gassen, Wohn- und Fußgängerstraßen als glatte Pflasterfläche auf der obersten Geländezelle.
+Gassen, Wohn- und Fußgängerstraßen als glatte Pflasterfläche auf der obersten Geländezelle. Gehwege, Fuß- und Radwege in Pietra serena.
 
 **Tipp**
 
-Reihe für Reihe entlang der Straße legen.
+Reihe für Reihe entlang der Straße legen. Neben der Fahrbahn auf gleicher Höhe.
 
 **Achtung**
 
-Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
+Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen. Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 **Fakt**
 
-Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
+Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert. Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 67.17 – Gehwege – Teil 1/4 (Y 60–61)
-
-- **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.294
-- **Bauteile:** `gehwege`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.294 |
-
-**Beschreibung**
-
-Gehwege, Fuß- und Radwege in Pietra serena.
-
-**Tipp**
-
-Neben der Fahrbahn auf gleicher Höhe.
-
-**Achtung**
-
-Wo ein anderer Straßentyp liegt, gewinnt dieser.
-
-**Fakt**
-
-Pietra serena ist der graue Sandstein der Florentiner Renaissance.
-
-### Schritt 67.18 – Gehwege – Teil 2/4 (Y 61–61)
+### Schritt 67.17 – Gehwege – Teil 2/4 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.043
+- **Blöcke:** 2.100
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.043 |
+| Glatter Stein | `smooth_stone` | 2.100 |
 
 **Beschreibung**
 
@@ -560,17 +533,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 67.19 – Gehwege – Teil 3/4 (Y 62–63)
+### Schritt 67.18 – Gehwege – Teil 3/4 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
-- **Blöcke:** 1.992
+- **Blöcke:** 2.004
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.992 |
+| Glatter Stein | `smooth_stone` | 2.004 |
 
 **Beschreibung**
 
@@ -588,7 +561,7 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 67.20 – Gehwege – Teil 4/4 (Y 64–65)
+### Schritt 67.19 – Gehwege – Teil 4/4 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.708
@@ -616,7 +589,7 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 67.21 – Treppenflächen & Plätze – Teil 1/2 (Y 62–63)
+### Schritt 67.20 – Treppenflächen & Plätze – Teil 1/2 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 66
 - **Blöcke:** 1.396
@@ -659,7 +632,7 @@ Treppenblöcke folgen in einer späteren Stufe. Das Muster ist geschätzt, das P
 
 Viele Treppen führen in Oltrarno die Hänge hinauf. Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 67.22 – Plätze – Teil 2/2 (Y 64–64)
+### Schritt 67.21 – Plätze – Teil 2/2 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 991
@@ -688,7 +661,7 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 67.23 – Höfe – Teil 1/2 (Y 60–63)
+### Schritt 67.22 – Höfe – Teil 1/2 (Y 60–63)
 
 - **Y-Bereich:** 60 bis 63
 - **Blöcke:** 1.996
@@ -716,7 +689,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 67.24 – Höfe – Teil 2/2 (Y 64–66)
+### Schritt 67.23 – Höfe – Teil 2/2 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.723
@@ -744,7 +717,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 67.25 – Grün und offenes Gelände & Gartenmauern
+### Schritt 67.24 – Grün und offenes Gelände & Gartenmauern
 
 - **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.939

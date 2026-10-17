@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 87.850 |
+| Blöcke | 87.837 |
 | Bauschritte | 52 |
 | Y-Bereich | 54 bis 72 |
 | X-Ausdehnung | -1504 bis -1185 (320 Blöcke) |
@@ -22,20 +22,20 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Grasblock | `grass_block` | 50.800 | 57,8 % |
-| Polierter Tuffstein | `polished_tuff` | 21.093 | 24,0 % |
-| Stein | `stone` | 10.615 | 12,1 % |
-| Glatter Stein | `smooth_stone` | 3.726 | 4,2 % |
+| Polierter Tuffstein | `polished_tuff` | 21.091 | 24,0 % |
+| Stein | `stone` | 10.605 | 12,1 % |
+| Glatter Stein | `smooth_stone` | 3.725 | 4,2 % |
 | Steinziegel | `stone_bricks` | 1.616 | 1,8 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 10.131 | 5.1–5.7 |
+| 1 | `boeschung` | Böschung und Mantel | 10.121 | 5.1–5.7 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 10.527 | 5.8–5.14 |
-| 3 | `gehwege` | Gehwege | 3.269 | 5.15–5.16 |
+| 3 | `gehwege` | Gehwege | 3.268 | 5.15–5.16 |
 | 4 | `stufen` | Treppenflächen | 53 | 5.17 |
-| 5 | `hof_pflaster` | Höfe | 10.566 | 5.17–5.22 |
+| 5 | `hof_pflaster` | Höfe | 10.564 | 5.17–5.22 |
 | 6 | `rasen` | Grün und offenes Gelände | 51.284 | 5.23–5.51 |
 | 7 | `mauern_garten` | Gartenmauern | 2.020 | 5.52 |
 
@@ -100,14 +100,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 5.3 – Böschung und Mantel – Teil 3/7 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.087
+- **Blöcke:** 1.099
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.087 |
+| Stein | `stone` | 1.099 |
 
 **Beschreibung**
 
@@ -128,14 +128,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 5.4 – Böschung und Mantel – Teil 4/7 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.864
+- **Blöcke:** 1.842
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.864 |
+| Stein | `stone` | 1.842 |
 
 **Beschreibung**
 
@@ -436,14 +436,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 5.15 – Gehwege – Teil 1/2 (Y 57–60)
 
 - **Y-Bereich:** 57 bis 60
-- **Blöcke:** 1.862
+- **Blöcke:** 1.861
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.862 |
+| Glatter Stein | `smooth_stone` | 1.861 |
 
 **Beschreibung**
 
@@ -605,14 +605,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 5.21 – Höfe – Teil 5/6 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 2.027
+- **Blöcke:** 2.025
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.027 |
+| Polierter Tuffstein | `polished_tuff` | 2.025 |
 
 **Beschreibung**
 

@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 56.998 |
+| Blöcke | 57.006 |
 | Bauschritte | 34 |
 | Y-Bereich | 63 bis 68 |
 | X-Ausdehnung | -544 bis -225 (320 Blöcke) |
 | Z-Ausdehnung | 112 bis 431 (320 Blöcke) |
 | Kleinster Schritt | 489 Blöcke (Schritt 83.34) |
-| Mittlerer Schritt | 1.676 Blöcke |
+| Mittlerer Schritt | 1.677 Blöcke |
 | Größter Schritt | 2.090 Blöcke (Schritt 83.12) |
 
 ## Gesamt-Stückliste
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Polierter Tuffstein | `polished_tuff` | 40.294 | 70,7 % |
 | Stein | `stone` | 8.413 | 14,8 % |
-| Glatter Stein | `smooth_stone` | 5.252 | 9,2 % |
+| Glatter Stein | `smooth_stone` | 5.260 | 9,2 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 746 | 1,3 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 726 | 1,3 % |
 | Grasblock | `grass_block` | 489 | 0,9 % |
@@ -47,7 +47,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 8.413 | 83.1–83.5 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 18.344 | 83.6–83.15 |
-| 3 | `gehwege` | Gehwege | 2.547 | 83.16–83.17 |
+| 3 | `gehwege` | Gehwege | 2.555 | 83.16–83.17 |
 | 4 | `stufen` | Treppenflächen | 2.550 | 83.18–83.19 |
 | 5 | `plaetze_pflaster` | Plätze | 22.038 | 83.20–83.31 |
 | 6 | `hof_pflaster` | Höfe | 2.617 | 83.32–83.33 |
@@ -58,14 +58,14 @@
 ### Schritt 83.1 – Böschung und Mantel – Teil 1/5 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.417
+- **Blöcke:** 1.425
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.417 |
+| Stein | `stone` | 1.425 |
 
 **Beschreibung**
 
@@ -114,14 +114,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 83.3 – Böschung und Mantel – Teil 3/5 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 2.029
+- **Blöcke:** 2.021
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.029 |
+| Stein | `stone` | 2.021 |
 
 **Beschreibung**
 
@@ -478,14 +478,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 83.16 – Gehwege – Teil 1/2 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.673
+- **Blöcke:** 1.681
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.673 |
+| Glatter Stein | `smooth_stone` | 1.681 |
 
 **Beschreibung**
 

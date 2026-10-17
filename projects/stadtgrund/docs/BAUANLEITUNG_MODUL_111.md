@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 221.594 |
+| Blöcke | 221.590 |
 | Bauschritte | 115 |
 | Y-Bereich | 48 bis 66 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
@@ -23,10 +23,10 @@
 | :--- | :--- | ---: | ---: |
 | Wasser | `water` | 129.748 | 58,6 % |
 | Kies | `gravel` | 64.874 | 29,3 % |
-| Polierter Tuffstein | `polished_tuff` | 9.338 | 4,2 % |
+| Polierter Tuffstein | `polished_tuff` | 9.340 | 4,2 % |
 | Polierter Andesit | `polished_andesite` | 5.098 | 2,3 % |
-| Glatter Stein | `smooth_stone` | 4.352 | 2,0 % |
-| Grasblock | `grass_block` | 4.009 | 1,8 % |
+| Glatter Stein | `smooth_stone` | 4.345 | 2,0 % |
+| Grasblock | `grass_block` | 4.010 | 1,8 % |
 | Stein | `stone` | 3.442 | 1,6 % |
 | Steinziegel | `stone_bricks` | 312 | 0,1 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 90 | 0,0 % |
@@ -52,10 +52,10 @@
 | 2 | `arno_bett` | Flussbett | 64.874 | 111.5–111.36 |
 | 3 | `arno_wasser` | Arno | 129.748 | 111.37–111.99 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 6.557 | 111.100–111.104 |
-| 5 | `gehwege` | Gehwege | 3.948 | 111.105–111.107 |
+| 5 | `gehwege` | Gehwege | 3.941 | 111.105–111.107 |
 | 6 | `stufen` | Treppenflächen | 421 | 111.108 |
-| 7 | `hof_pflaster` | Höfe | 3.065 | 111.109–111.110 |
-| 8 | `rasen` | Grün und offenes Gelände | 4.337 | 111.111–111.113 |
+| 7 | `hof_pflaster` | Höfe | 3.067 | 111.109–111.110 |
+| 8 | `rasen` | Grün und offenes Gelände | 4.338 | 111.111–111.113 |
 | 9 | `ufer_bruestung` | Brüstung der Lungarni | 520 | 111.114 |
 | 10 | `mauern_garten` | Gartenmauern | 390 | 111.115 |
 
@@ -3014,14 +3014,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 111.106 – Gehwege – Teil 2/3 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.213
+- **Blöcke:** 1.207
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.093 |
+| Glatter Stein | `smooth_stone` | 1.087 |
 | Polierter Andesit | `polished_andesite` | 120 |
 
 **Beschreibung**
@@ -3043,14 +3043,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 111.107 – Gehwege – Teil 3/3 (Y 62–65)
 
 - **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.502
+- **Blöcke:** 1.501
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.499 |
+| Glatter Stein | `smooth_stone` | 1.498 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -3142,14 +3142,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 111.110 – Höfe – Teil 2/2 (Y 52–63)
 
 - **Y-Bereich:** 52 bis 63
-- **Blöcke:** 1.456
+- **Blöcke:** 1.458
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.456 |
+| Polierter Tuffstein | `polished_tuff` | 1.458 |
 
 **Beschreibung**
 
@@ -3229,14 +3229,14 @@ Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 ### Schritt 111.113 – Grün und offenes Gelände – Teil 3/3 (Y 55–64)
 
 - **Y-Bereich:** 55 bis 64
-- **Blöcke:** 1.332
+- **Blöcke:** 1.333
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.147 |
+| Grasblock | `grass_block` | 1.148 |
 | Polierter Andesit | `polished_andesite` | 104 |
 | Stein | `stone` | 81 |
 

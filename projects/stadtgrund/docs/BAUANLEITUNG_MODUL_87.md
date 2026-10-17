@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.377 |
+| Blöcke | 40.580 |
 | Bauschritte | 28 |
 | Y-Bereich | 55 bis 68 |
 | X-Ausdehnung | 736 bis 1055 (320 Blöcke) |
 | Z-Ausdehnung | 112 bis 431 (320 Blöcke) |
 | Kleinster Schritt | 665 Blöcke (Schritt 87.20) |
-| Mittlerer Schritt | 1.442 Blöcke |
-| Größter Schritt | 1.934 Blöcke (Schritt 87.6) |
+| Mittlerer Schritt | 1.449 Blöcke |
+| Größter Schritt | 1.936 Blöcke (Schritt 87.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 26.266 | 65,1 % |
-| Stein | `stone` | 8.973 | 22,2 % |
-| Glatter Stein | `smooth_stone` | 3.327 | 8,2 % |
-| Grasblock | `grass_block` | 1.694 | 4,2 % |
+| Polierter Tuffstein | `polished_tuff` | 26.268 | 64,7 % |
+| Stein | `stone` | 9.109 | 22,4 % |
+| Glatter Stein | `smooth_stone` | 3.381 | 8,3 % |
+| Grasblock | `grass_block` | 1.705 | 4,2 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 37 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 33 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 27 | 0,1 % |
@@ -40,26 +40,26 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 8.973 | 87.1–87.7 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 16.351 | 87.8–87.17 |
-| 3 | `gehwege` | Gehwege | 3.327 | 87.18–87.19 |
+| 1 | `boeschung` | Böschung und Mantel | 9.109 | 87.1–87.7 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 16.353 | 87.8–87.17 |
+| 3 | `gehwege` | Gehwege | 3.381 | 87.18–87.19 |
 | 4 | `stufen` | Treppenflächen | 117 | 87.20 |
 | 5 | `hof_pflaster` | Höfe | 9.915 | 87.20–87.27 |
-| 6 | `rasen` | Grün und offenes Gelände | 1.694 | 87.28 |
+| 6 | `rasen` | Grün und offenes Gelände | 1.705 | 87.28 |
 
 ## Bauschritte
 
 ### Schritt 87.1 – Böschung und Mantel – Teil 1/7 (Y 55–61)
 
 - **Y-Bereich:** 55 bis 61
-- **Blöcke:** 1.291
+- **Blöcke:** 1.492
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.291 |
+| Stein | `stone` | 1.492 |
 
 **Beschreibung**
 
@@ -80,14 +80,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 87.2 – Böschung und Mantel – Teil 2/7 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.316
+- **Blöcke:** 1.293
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.316 |
+| Stein | `stone` | 1.293 |
 
 **Beschreibung**
 
@@ -108,14 +108,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 87.3 – Böschung und Mantel – Teil 3/7 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.313
+- **Blöcke:** 1.295
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.313 |
+| Stein | `stone` | 1.295 |
 
 **Beschreibung**
 
@@ -136,14 +136,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 87.4 – Böschung und Mantel – Teil 4/7 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.064
+- **Blöcke:** 1.056
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.064 |
+| Stein | `stone` | 1.056 |
 
 **Beschreibung**
 
@@ -164,14 +164,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 87.5 – Böschung und Mantel – Teil 5/7 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.075
+- **Blöcke:** 1.059
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.075 |
+| Stein | `stone` | 1.059 |
 
 **Beschreibung**
 
@@ -192,14 +192,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 87.6 – Böschung und Mantel – Teil 6/7 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.934
+- **Blöcke:** 1.936
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.934 |
+| Stein | `stone` | 1.936 |
 
 **Beschreibung**
 
@@ -220,14 +220,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 87.7 – Böschung und Mantel – Teil 7/7 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 980
+- **Blöcke:** 978
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 980 |
+| Stein | `stone` | 978 |
 
 **Beschreibung**
 
@@ -500,14 +500,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 87.17 – Straßenpflaster – Teil 10/10 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.783
+- **Blöcke:** 1.785
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.783 |
+| Polierter Tuffstein | `polished_tuff` | 1.785 |
 
 **Beschreibung**
 
@@ -528,14 +528,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 87.18 – Gehwege – Teil 1/2 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.437
+- **Blöcke:** 1.477
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.437 |
+| Glatter Stein | `smooth_stone` | 1.477 |
 
 **Beschreibung**
 
@@ -556,14 +556,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 87.19 – Gehwege – Teil 2/2 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.890
+- **Blöcke:** 1.904
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.890 |
+| Glatter Stein | `smooth_stone` | 1.904 |
 
 **Beschreibung**
 
@@ -818,14 +818,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 87.28 – Grün und offenes Gelände
 
 - **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.694
+- **Blöcke:** 1.705
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.694 |
+| Grasblock | `grass_block` | 1.705 |
 
 **Beschreibung**
 

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 41.801 |
+| Blöcke | 41.797 |
 | Bauschritte | 24 |
 | Y-Bereich | 59 bis 68 |
 | X-Ausdehnung | 416 bis 735 (320 Blöcke) |
@@ -21,9 +21,9 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 33.524 | 80,2 % |
+| Polierter Tuffstein | `polished_tuff` | 33.521 | 80,2 % |
 | Stein | `stone` | 6.376 | 15,3 % |
-| Glatter Stein | `smooth_stone` | 1.296 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 1.295 | 3,1 % |
 | Steinziegel | `stone_bricks` | 216 | 0,5 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 127 | 0,3 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 82 | 0,2 % |
@@ -47,8 +47,8 @@
 | 1 | `boeschung` | Böschung und Mantel | 6.412 | 116.1–116.4 |
 | 2 | `arno_bett` | Flussbett | 24 | 116.5 |
 | 3 | `arno_wasser` | Arno | 48 | 116.5 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 25.469 | 116.5–116.18 |
-| 5 | `gehwege` | Gehwege | 1.242 | 116.19 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 25.466 | 116.5–116.18 |
+| 5 | `gehwege` | Gehwege | 1.241 | 116.19 |
 | 6 | `stufen` | Treppenflächen | 279 | 116.20 |
 | 7 | `hof_pflaster` | Höfe | 8.055 | 116.20–116.24 |
 | 8 | `rasen` | Grün und offenes Gelände | 2 | 116.24 |
@@ -59,14 +59,14 @@
 ### Schritt 116.1 – Böschung und Mantel – Teil 1/4 (Y 59–60)
 
 - **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.066
+- **Blöcke:** 1.065
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.048 |
+| Stein | `stone` | 1.047 |
 | Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
@@ -145,14 +145,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 116.4 – Böschung und Mantel – Teil 4/4 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
-- **Blöcke:** 1.693
+- **Blöcke:** 1.694
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.693 |
+| Stein | `stone` | 1.694 |
 
 **Beschreibung**
 
@@ -203,14 +203,14 @@ Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell). B
 ### Schritt 116.6 – Straßenpflaster – Teil 2/14 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.406
+- **Blöcke:** 1.403
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.406 |
+| Polierter Tuffstein | `polished_tuff` | 1.403 |
 
 **Beschreibung**
 
@@ -567,14 +567,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 116.19 – Gehwege
 
 - **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.242
+- **Blöcke:** 1.241
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.242 |
+| Glatter Stein | `smooth_stone` | 1.241 |
 
 **Beschreibung**
 

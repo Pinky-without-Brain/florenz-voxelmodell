@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 44.500 |
+| Blöcke | 44.483 |
 | Bauschritte | 28 |
 | Y-Bereich | 59 bis 65 |
 | X-Ausdehnung | 736 bis 1055 (320 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 36.972 | 83,1 % |
+| Polierter Tuffstein | `polished_tuff` | 36.955 | 83,1 % |
 | Stein | `stone` | 6.601 | 14,8 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 319 | 0,7 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 167 | 0,4 % |
@@ -43,11 +43,11 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 6.601 | 117.1–117.5 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 28.872 | 117.6–117.22 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 28.858 | 117.6–117.22 |
 | 3 | `gehwege` | Gehwege | 3 | 117.23 |
 | 4 | `stufen` | Treppenflächen | 647 | 117.23 |
 | 5 | `plaetze_pflaster` | Plätze | 1.754 | 117.24 |
-| 6 | `hof_pflaster` | Höfe | 6.509 | 117.25–117.28 |
+| 6 | `hof_pflaster` | Höfe | 6.506 | 117.25–117.28 |
 | 7 | `rasen` | Grün und offenes Gelände | 114 | 117.28 |
 
 ## Bauschritte
@@ -55,14 +55,14 @@
 ### Schritt 117.1 – Böschung und Mantel – Teil 1/5 (Y 59–60)
 
 - **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.500
+- **Blöcke:** 1.497
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.500 |
+| Stein | `stone` | 1.497 |
 
 **Beschreibung**
 
@@ -83,14 +83,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 117.2 – Böschung und Mantel – Teil 2/5 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.305
+- **Blöcke:** 1.291
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.305 |
+| Stein | `stone` | 1.291 |
 
 **Beschreibung**
 
@@ -111,14 +111,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 117.3 – Böschung und Mantel – Teil 3/5 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.095
+- **Blöcke:** 1.108
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.095 |
+| Stein | `stone` | 1.108 |
 
 **Beschreibung**
 
@@ -139,14 +139,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 117.4 – Böschung und Mantel – Teil 4/5 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.100
+- **Blöcke:** 1.104
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.100 |
+| Stein | `stone` | 1.104 |
 
 **Beschreibung**
 
@@ -419,14 +419,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 117.14 – Straßenpflaster – Teil 9/17 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 2.066
+- **Blöcke:** 2.056
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.066 |
+| Polierter Tuffstein | `polished_tuff` | 2.056 |
 
 **Beschreibung**
 
@@ -447,14 +447,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 117.15 – Straßenpflaster – Teil 10/17 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 2.017
+- **Blöcke:** 2.013
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.017 |
+| Polierter Tuffstein | `polished_tuff` | 2.013 |
 
 **Beschreibung**
 
@@ -740,14 +740,14 @@ Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 ### Schritt 117.25 – Höfe – Teil 1/4 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
-- **Blöcke:** 2.065
+- **Blöcke:** 2.062
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.065 |
+| Polierter Tuffstein | `polished_tuff` | 2.062 |
 
 **Beschreibung**
 

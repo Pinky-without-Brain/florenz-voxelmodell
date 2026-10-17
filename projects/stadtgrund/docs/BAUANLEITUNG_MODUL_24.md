@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 39.171 |
+| Blöcke | 39.170 |
 | Bauschritte | 24 |
 | Y-Bereich | 60 bis 72 |
 | X-Ausdehnung | -224 bis 95 (320 Blöcke) |
@@ -21,9 +21,9 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 24.559 | 62,7 % |
+| Polierter Tuffstein | `polished_tuff` | 24.556 | 62,7 % |
 | Stein | `stone` | 9.496 | 24,2 % |
-| Glatter Stein | `smooth_stone` | 4.143 | 10,6 % |
+| Glatter Stein | `smooth_stone` | 4.145 | 10,6 % |
 | Grasblock | `grass_block` | 824 | 2,1 % |
 | Steinziegel | `stone_bricks` | 112 | 0,3 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 13 | 0,0 % |
@@ -46,8 +46,8 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 9.496 | 24.1–24.6 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 8.579 | 24.7–24.12 |
-| 3 | `gehwege` | Gehwege | 4.032 | 24.12–24.14 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 8.576 | 24.7–24.12 |
+| 3 | `gehwege` | Gehwege | 4.034 | 24.12–24.14 |
 | 4 | `stufen` | Treppenflächen | 120 | 24.15 |
 | 5 | `hof_pflaster` | Höfe | 15.980 | 24.15–24.23 |
 | 6 | `rasen` | Grün und offenes Gelände | 824 | 24.24 |
@@ -86,14 +86,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 24.2 – Böschung und Mantel – Teil 2/6 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.076
+- **Blöcke:** 2.075
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.076 |
+| Stein | `stone` | 2.075 |
 
 **Beschreibung**
 
@@ -142,14 +142,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 24.4 – Böschung und Mantel – Teil 4/6 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.520
+- **Blöcke:** 1.521
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.520 |
+| Stein | `stone` | 1.521 |
 
 **Beschreibung**
 
@@ -282,14 +282,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 24.9 – Straßenpflaster – Teil 3/6 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.136
+- **Blöcke:** 1.133
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.136 |
+| Polierter Tuffstein | `polished_tuff` | 1.133 |
 
 **Beschreibung**
 
@@ -366,14 +366,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 24.12 – Straßenpflaster – Teil 6/6 (Y 67–67) & Gehwege – Teil 1/3 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.559
+- **Blöcke:** 1.561
 - **Bauteile:** `strassen_pflaster`, `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.438 |
+| Glatter Stein | `smooth_stone` | 1.440 |
 | Polierter Tuffstein | `polished_tuff` | 121 |
 
 **Beschreibung**

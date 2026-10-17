@@ -8,32 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 38.767 |
+| Blöcke | 38.863 |
 | Bauschritte | 25 |
 | Y-Bereich | 59 bis 71 |
 | X-Ausdehnung | 736 bis 1055 (320 Blöcke) |
 | Z-Ausdehnung | -208 bis 111 (320 Blöcke) |
 | Kleinster Schritt | 535 Blöcke (Schritt 72.11) |
-| Mittlerer Schritt | 1.551 Blöcke |
-| Größter Schritt | 1.980 Blöcke (Schritt 72.3) |
+| Mittlerer Schritt | 1.555 Blöcke |
+| Größter Schritt | 1.942 Blöcke (Schritt 72.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 24.088 | 62,1 % |
-| Stein | `stone` | 8.036 | 20,7 % |
-| Grasblock | `grass_block` | 6.108 | 15,8 % |
+| Polierter Tuffstein | `polished_tuff` | 24.064 | 61,9 % |
+| Stein | `stone` | 8.156 | 21,0 % |
+| Grasblock | `grass_block` | 6.108 | 15,7 % |
 | Glatter Stein | `smooth_stone` | 535 | 1,4 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 8.034 | 72.1–72.6 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 6.958 | 72.7–72.10 |
+| 1 | `boeschung` | Böschung und Mantel | 8.154 | 72.1–72.6 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 6.935 | 72.7–72.10 |
 | 3 | `gehwege` | Gehwege | 535 | 72.11 |
-| 4 | `hof_pflaster` | Höfe | 17.130 | 72.12–72.21 |
+| 4 | `hof_pflaster` | Höfe | 17.129 | 72.12–72.21 |
 | 5 | `rasen` | Grün und offenes Gelände | 6.110 | 72.22–72.25 |
 
 ## Bauschritte
@@ -41,14 +41,14 @@
 ### Schritt 72.1 – Böschung und Mantel – Teil 1/6 (Y 59–62)
 
 - **Y-Bereich:** 59 bis 62
-- **Blöcke:** 738
+- **Blöcke:** 731
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 738 |
+| Stein | `stone` | 731 |
 
 **Beschreibung**
 
@@ -69,14 +69,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 72.2 – Böschung und Mantel – Teil 2/6 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.659
+- **Blöcke:** 1.814
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.659 |
+| Stein | `stone` | 1.814 |
 
 **Beschreibung**
 
@@ -97,14 +97,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 72.3 – Böschung und Mantel – Teil 3/6 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.980
+- **Blöcke:** 1.942
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.980 |
+| Stein | `stone` | 1.942 |
 
 **Beschreibung**
 
@@ -125,14 +125,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 72.4 – Böschung und Mantel – Teil 4/6 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.474
+- **Blöcke:** 1.485
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.474 |
+| Stein | `stone` | 1.485 |
 
 **Beschreibung**
 
@@ -153,14 +153,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 72.5 – Böschung und Mantel – Teil 5/6 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.406
+- **Blöcke:** 1.405
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.406 |
+| Stein | `stone` | 1.405 |
 
 **Beschreibung**
 
@@ -209,14 +209,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 72.7 – Straßenpflaster – Teil 1/4 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.610
+- **Blöcke:** 1.603
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.610 |
+| Polierter Tuffstein | `polished_tuff` | 1.603 |
 
 **Beschreibung**
 
@@ -237,14 +237,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 72.8 – Straßenpflaster – Teil 2/4 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.894
+- **Blöcke:** 1.916
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.894 |
+| Polierter Tuffstein | `polished_tuff` | 1.916 |
 
 **Beschreibung**
 
@@ -265,14 +265,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 72.9 – Straßenpflaster – Teil 3/4 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.922
+- **Blöcke:** 1.893
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.922 |
+| Polierter Tuffstein | `polished_tuff` | 1.893 |
 
 **Beschreibung**
 
@@ -293,14 +293,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 72.10 – Straßenpflaster – Teil 4/4 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.532
+- **Blöcke:** 1.523
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.532 |
+| Polierter Tuffstein | `polished_tuff` | 1.523 |
 
 **Beschreibung**
 
@@ -377,14 +377,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 72.13 – Höfe – Teil 2/10 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.929
+- **Blöcke:** 1.927
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.929 |
+| Polierter Tuffstein | `polished_tuff` | 1.927 |
 
 **Beschreibung**
 
@@ -461,14 +461,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 72.16 – Höfe – Teil 5/10 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.806
+- **Blöcke:** 1.807
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.806 |
+| Polierter Tuffstein | `polished_tuff` | 1.807 |
 
 **Beschreibung**
 
