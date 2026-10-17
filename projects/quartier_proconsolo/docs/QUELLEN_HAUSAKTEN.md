@@ -13,3 +13,9 @@ Quelle ist jeweils der verlinkte Artikel der italienischen Wikipedia (Abruf 17.1
 | w307129119 | Torre dei Filipetri | https://it.wikipedia.org/wiki/Torre_dei_Filipetri | Nach it.Wikipedia: massiver Turm des Trecento in sichtbarem Filaretto (nur Mitte der oberen Geschosse verputzt), später viele Fenster eingebrochen, zwei Tore und ein drittes schmales zur Via dei Leoni, über dem Dach eine steinerne Altana (heute vermauert und befenstert). Annahme: Geschosszahl 5, Achsen, Fenstertyp. | 0,7 |
 | w307544525 | Torre dei Donati | https://it.wikipedia.org/wiki/Torre_dei_Donati | Nach it.Wikipedia: Turm mit quadratischem Grundriss in die Straßenfront eingefügt, sichtbares Quadermauerwerk (Filaretto), Rüstlöcher, Dante-Gedenktafel zum Tod des Corso Donati. Annahme: Geschosszahl 4, Achsenzahl, Fenstertyp (Artikel nennt kein Baudatum). | 0,65 |
 | w486626750 | Palazzo Salutati | https://it.wikipedia.org/wiki/Palazzo_Salutati | Nach it.Wikipedia: heutige Fassade nach grundlegendem Umbau im 18. Jh. (Limburger 17. Jh.), drei Stockwerke mit Aufbau (volume in soprelevazione), vier Achsen, Portal nicht mittig. Annahme: Putz und Farbe, Fenstertyp, Gesims, Dachform. | 0,65 |
+
+## Ergänzung R2b
+
+| OSM-ID | Name | Quelle | Übernommene Merkmale und Annahmen | Sicherheit |
+|---|---|---|---|---|
+| w307111269 | Palazzo Venerosi Pesciolini | https://it.wikipedia.org/wiki/Palazzo_Venerosi_Pesciolini_(Firenze) | Nach it.Wikipedia: Umbau und Zusammenlegung zweier mittelalterlicher Kaufmannshäuser, Fassade im 18. Jh. durch die Malaspina umgestaltet, erstes Geschoss in glatter Pietraforte-Rustika (zuvor unter Steinimitations-Putz), zwei Obergeschosse mit aufeinanderfolgenden Bögen unter strengem Profil und reicheren Gesimsen, Steinportal mit Rundbogen (18. Jh.), zugemauerte Fondaci-Eingänge, Restaurierung bis 1986. Annahme: Achsenzahl, Putzfarbe, Dachform. | 0,7 |
