@@ -1,7 +1,7 @@
 {
   "id": "r4088608",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -23,27 +23,33 @@
     "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "zwei_gleichartige_portale_seitlich",
+      "zwei_reihen_einfache_rechteckfenster",
+      "marcapiano",
+      "wappen_antinori",
+      "tabernakel_verkuendigung_mit_lampe"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Besitz seit 1444-47, rechter Gebäudeteil von Giuseppe Poggi 1856 bis ca. 1870 umgebaut, EG mit zwei gleichartigen Portalen an den Seiten, in den Obergeschossen zwei Reihen einfacher Rechteckfenster mit Gurtgesimsen, Antinori-Wappen, Tabernakel mit Lampe am linken Rand. Annahme: Geschosszahl 3, Achsen, Material, Gesimsart, Dachform.",
   "name": "Palazzo Antinori di Brindisi"
 }
