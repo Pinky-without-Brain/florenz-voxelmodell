@@ -1,7 +1,7 @@
 {
   "id": "r4088607",
   "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "epoche": "1610 geweiht (Gherardo Silvani); Front 20. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -38,15 +38,19 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "erker_sporto_eg_links_vom_portal",
+      "loggia_rueckfront_garten",
+      "kutschendurchfahrt_via_maffia"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach mittlere Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Bau 1610 geweiht (Gherardo Silvani), heutige Front des 20. Jh. in anonymen Formen, letztes EG-Fenster links vom Portal zum Erker (sporto) umgebaut, Front 2013 nach Brand restauriert. Annahme: alle übrigen Merkmale.",
   "name": "Istituto Emily Gould"
 }
