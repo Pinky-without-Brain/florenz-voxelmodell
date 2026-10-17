@@ -1,30 +1,30 @@
 {
   "id": "w306395974",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Gotik, 1309–1350 (Umbau um 1810)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 2,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "material": "bruchstein",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 6,
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -35,15 +35,20 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "spitzbogenportal_architrav_lunette",
+      "robbia_madonna_1528_30",
+      "drei_wappen_lilie_popolo_parte_guelfa",
+      "dachreiter_dreibogig"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Baubeginn 1309, fertig bis 1350, Satteldachfassade (a capanna), spitzbogiges Portal mit Architrav und Lünette (Madonna in glasierter Terrakotta, Robbia 1528–30), drei Wappen (Stadt, Popolo, Parte Guelfa), dreibogiger Campanile a vela über der Apsis, schlanke gotische Monoforen an der Seitenwand. Annahme: Mauerwerk Bruchstein.",
   "name": "Chiesa di San Barnaba"
 }
