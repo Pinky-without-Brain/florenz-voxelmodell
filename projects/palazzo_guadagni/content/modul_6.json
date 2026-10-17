@@ -1,0 +1,71 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume, Treppe und Dachloggia",
+  "subtitle": "Bautüte 6: Torweg, Treppe in Pietra serena, Hofhalle mit Wandbrunnen, Saal, Dachloggia",
+  "icon": "🏛️",
+  "parts": {
+    "androne": {
+      "title": "Torweg",
+      "description": "Durchgang hinter dem Portal an der Piazza: Schachboden aus Pietra serena und Pflaster, Wandfelder zwischen Lisenen aus Pietra serena und eine Decke mit Diagonalrippen über zwei Jochen als Kreuzgewölbe.",
+      "tip": "Boden zuerst, dann Wandraster, zuletzt die Rippen unter der Decke.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Gewölbe sind nur als Rippenmuster unter einer flachen Decke angedeutet; Lage und Breite Stufe C.",
+      "fact": "Der Torweg hat ein Kreuzgewölbe auf Lisenen und Säulen mit Renaissance-Kapitellen (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "treppenhaus": {
+      "title": "Treppenhaus",
+      "description": "Raum links hinter dem Torweg um die Treppe: Pflaster im Schachmuster, Wandfelder zwischen Pilastern aus Pietra serena.",
+      "tip": "Die Treppe steht vor dem Wandraster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage Stufe C; die Zubauten des 19. Jahrhunderts sind nicht unterschieden.",
+      "fact": "Die Treppe auf der linken Seite gilt als ursprünglich, die übrigen Elemente des Treppenhauses stammen aus dem 19. Jahrhundert (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "scalone": {
+      "title": "Treppe aus Pietra serena",
+      "description": "Gerade Treppe aus acht Treppenblöcken aus Pietra serena, zwei Blöcke breit, vom Erdgeschoss zum 1. Obergeschoss; unter jeder Stufe trägt ein Kragstein, darüber ist der Boden offen (Kopffreiheit drei Blöcke).",
+      "tip": "Stufe für Stufe von unten, Kragstein zuerst.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Der Lauf ist als gerade Treppe vereinfacht; Länge und Lage Stufe C.",
+      "fact": "Die Treppe aus Pietra serena auf der linken Seite des Eingangs gilt als die ursprüngliche des 16. Jahrhunderts (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "hofhalle": {
+      "title": "Hofhalle",
+      "description": "Halle hinter dem Torweg: Pflaster mit Wegekreuz aus Pietra serena, Wandfelder zwischen Pilastern. Im Modell überdeckt; die OSM-Fläche hat keinen offenen Hof.",
+      "tip": "Erst das Pflaster, dann die Wandfelder.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Der Hof des Palastes ist im OSM-Umriss nicht ausgespart und deshalb als überdachte Halle gebaut; Lage Stufe C.",
+      "fact": "Der Hof hat Reste einer zugemauerten Loggia mit Kapitellen aus Delfinen, Voluten und Muscheln sowie zwei gedrückte Barockbögen auf Renaissance-Säulen (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "wandbrunnen": {
+      "title": "Wandbrunnen mit Einhorn",
+      "description": "Becken aus Pietra serena mit Wasserfläche an der Rückwand der Hofhalle; dahinter steht das Einhorn der Guadagni als weiße Blockfigur mit goldenem Horn.",
+      "tip": "Becken, Wasser, dann die Figur.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Muschelbecken und Nische sind nur als Becken und Figur angedeutet; Lage Stufe C.",
+      "fact": "Der Wandbrunnen mit Muschelbecken hat eine Nische mit einem Einhorn, dem Wappentier der Guadagni; das Wasser kam laut Inschrift mit großherzoglicher Genehmigung aus dem Boboli-Garten (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "sala_piano_nobile": {
+      "title": "Saal im Piano nobile",
+      "description": "Saal über der Hofhalle: Schachboden aus Cotto und Marmor, Wandfelder in Gelb und Weiß mit Schilden in Rot und Blau (geteiltes Wappen), Kassettendecke aus Holz und Gold, eine Tafel.",
+      "tip": "Boden, Wandraster mit Schilden, Decke, zuletzt die Tafel.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Wappen ist als Schildfeld angedeutet, seine Farben sind nicht belegt; Raum und Lage Stufe C.",
+      "fact": "Im Inneren ist ein geteiltes Wappen der Guadagni und der Dufour Berte erhalten (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "dachloggia": {
+      "title": "Dachloggia",
+      "description": "Oberstes Geschoss: Cottoboden im Schachmuster und Balkendecke; die Außenwände zur Piazza und zur Via Mazzetta sind zwischen Pfeilern mit Rechtecköffnungen offen (Brüstung zwei Blöcke hoch), darüber der Architrav und das Walmdach.",
+      "tip": "Boden und Decke zuerst, die Öffnungen bleiben frei.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Zahl der Joche ist nicht belegt (Entwurf: Joch 5); das weit vorspringende Dach ist nicht ausgeformt, und die Pfeiler sind Wandblöcke statt Säulen.",
+      "fact": "Das oberste Geschoss ist eine große Loggia mit architravierten Säulen unter einer weit vorspringenden Traufe (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "panca": {
+      "title": "Sockelbank (panca di via)",
+      "description": "Steinbank aus Pietra serena entlang der Fassade zur Piazza Santo Spirito, am Portal unterbrochen, eine Lage hoch auf dem Straßenpflaster.",
+      "tip": "Die Bank liegt einen Block hoch auf dem Pflaster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die gezahnte Basis ist nicht nachgebildet; nur innerhalb des Luftraums von 2 Blöcken.",
+      "fact": "Die Fassade hat eine Straßenbank (panca di via) mit gezahnter Basis (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

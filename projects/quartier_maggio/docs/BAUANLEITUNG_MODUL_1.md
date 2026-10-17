@@ -2,122 +2,120 @@
 
 # Bauanleitung Modul 1: Isolato I0303 – Borgo Tegolaio
 
-*Quartier Via Maggio: 19 Häuser*
+*Quartier Via Maggio: 18 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 175.925 |
-| Bauschritte | 107 |
+| Blöcke | 151.780 |
+| Bauschritte | 94 |
 | Y-Bereich | 60 bis 107 |
-| X-Ausdehnung | -1553 bis -1358 (196 Blöcke) |
+| X-Ausdehnung | -1521 bis -1358 (164 Blöcke) |
 | Z-Ausdehnung | 1432 bis 1685 (254 Blöcke) |
-| Kleinster Schritt | 580 Blöcke (Schritt 1.60) |
-| Mittlerer Schritt | 1.644 Blöcke |
-| Größter Schritt | 2.092 Blöcke (Schritt 1.16) |
+| Kleinster Schritt | 580 Blöcke (Schritt 1.47) |
+| Mittlerer Schritt | 1.615 Blöcke |
+| Größter Schritt | 2.072 Blöcke (Schritt 1.54) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 60.346 | 34,3 % |
-| Endsteinziegel | `end_stone_bricks` | 31.662 | 18,0 % |
-| Glatter Sandstein | `smooth_sandstone` | 21.350 | 12,1 % |
-| Polierter Tuffstein | `polished_tuff` | 17.122 | 9,7 % |
-| Orange Keramik | `orange_terracotta` | 12.369 | 7,0 % |
-| Weißer Beton | `white_concrete` | 7.180 | 4,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 6.029 | 3,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 4.436 | 2,5 % |
-| Glatter Stein | `smooth_stone` | 3.123 | 1,8 % |
-| Rosa Keramik | `pink_terracotta` | 3.043 | 1,7 % |
-| Graues Buntglas | `gray_stained_glass` | 2.804 | 1,6 % |
-| Polierter Andesit | `polished_andesite` | 1.700 | 1,0 % |
-| Ziegelsteine | `bricks` | 1.110 | 0,6 % |
-| Grüner Beton | `green_concrete` | 869 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 801 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 669 | 0,4 % |
-| Seelaterne | `sea_lantern` | 364 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 223 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 203 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 86 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 84 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 82 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 76 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 64 | 0,0 % |
+| Terrakotta | `terracotta` | 51.187 | 33,7 % |
+| Endsteinziegel | `end_stone_bricks` | 30.402 | 20,0 % |
+| Polierter Tuffstein | `polished_tuff` | 14.763 | 9,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 13.037 | 8,6 % |
+| Orange Keramik | `orange_terracotta` | 12.369 | 8,1 % |
+| Weißer Beton | `white_concrete` | 7.153 | 4,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 6.029 | 4,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 4.436 | 2,9 % |
+| Rosa Keramik | `pink_terracotta` | 3.043 | 2,0 % |
+| Graues Buntglas | `gray_stained_glass` | 2.513 | 1,7 % |
+| Glatter Stein | `smooth_stone` | 2.277 | 1,5 % |
+| Ziegelsteine | `bricks` | 961 | 0,6 % |
+| Grüner Beton | `green_concrete` | 869 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 802 | 0,5 % |
+| Polierter Andesit | `polished_andesite` | 379 | 0,2 % |
+| Fichtenholz-Bretter | `spruce_planks` | 359 | 0,2 % |
+| Seelaterne | `sea_lantern` | 316 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 203 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 181 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 105 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 97 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 60 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 60 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 55 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 22 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 22 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 20 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 584 |
-| Steintreppe | `stone_stairs` | 250 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 586 |
+| Steintreppe | `stone_stairs` | 200 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r7101373` | Palazzo des Cinquecento an Borgo Tegolaio | 18.947 | 1.1–1.11 |
-| 2 | `r7101373_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 3.012 | 1.12–1.13 |
-| 3 | `w306798512` | Palazzo Guadagni | 16.794 | 1.14–1.23 |
-| 4 | `w306798512_innen` | Palazzo Guadagni: Innenausbau | 6.169 | 1.24–1.26 |
-| 5 | `w482302657` | Palazzo des Cinquecento an Borgo Tegolaio | 8.822 | 1.27–1.31 |
-| 6 | `w482302657_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 1.811 | 1.32 |
-| 7 | `w482302663` | Palazzo des Cinquecento an Borgo Tegolaio | 7.540 | 1.33–1.36 |
-| 8 | `w482302663_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 1.188 | 1.37 |
-| 9 | `w482302664` | Reihenhaus an Borgo Tegolaio | 2.831 | 1.38–1.39 |
-| 10 | `w482302664_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 2 | 1.40 |
-| 11 | `w482302665` | Reihenhaus an Piazza di Santo Spirito | 6.103 | 1.40–1.42 |
-| 12 | `w482302665_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 1.995 | 1.43 |
-| 13 | `w482302666` | Reihenhaus an Piazza di Santo Spirito | 7.760 | 1.44–1.47 |
-| 14 | `w482302666_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 2.212 | 1.48–1.49 |
-| 15 | `w482302671` | Reihenhaus an Borgo Tegolaio | 3.742 | 1.50–1.51 |
-| 16 | `w482302671_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 2 | 1.52 |
-| 17 | `w482302674` | Reihenhaus an Piazza di Santo Spirito | 6.598 | 1.52–1.55 |
-| 18 | `w482302674_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 2.603 | 1.56–1.57 |
-| 19 | `w482302676` | Reihenhaus an Borgo Tegolaio | 2.322 | 1.58–1.59 |
-| 20 | `w482302676_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 580 | 1.60 |
-| 21 | `w482302678` | Reihenhaus an Piazza di Santo Spirito | 5.828 | 1.61–1.63 |
-| 22 | `w482302678_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 2.632 | 1.64–1.65 |
-| 23 | `w482302682` | Reihenhaus an Piazza di Santo Spirito | 4.132 | 1.66–1.67 |
-| 24 | `w482302682_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 1.662 | 1.68 |
-| 25 | `w482302692` | Palazzo des Cinquecento an Borgo Tegolaio | 6.347 | 1.69–1.72 |
-| 26 | `w482302692_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 1.908 | 1.73 |
-| 27 | `w482302697` | Reihenhaus an Via Mazzetta | 5.569 | 1.74–1.76 |
-| 28 | `w482302697_innen` | Reihenhaus an Via Mazzetta: Innenausbau | 1.446 | 1.77 |
-| 29 | `w482302698` | Reihenhaus an Borgo Tegolaio | 1.580 | 1.78 |
-| 30 | `w482302698_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 801 | 1.79 |
-| 31 | `w482302699` | Reihenhaus an Piazza di Santo Spirito | 7.127 | 1.80–1.83 |
-| 32 | `w482302699_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 4.405 | 1.84–1.87 |
-| 33 | `w482302700` | Palazzo des Cinquecento an Borgo Tegolaio | 10.415 | 1.88–1.93 |
-| 34 | `w482302700_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 2.465 | 1.94–1.95 |
-| 35 | `w482302704` | Reihenhaus an Piazza di Santo Spirito | 7.556 | 1.96–1.100 |
-| 36 | `w482302704_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 4.632 | 1.101–1.103 |
-| 37 | `w482302707` | Reihenhaus an Via Mazzetta | 4.974 | 1.104–1.106 |
-| 38 | `w482302707_innen` | Reihenhaus an Via Mazzetta: Innenausbau | 1.407 | 1.107 |
-| 39 | `strassenschilder` | Straßenschilder | 6 | 1.107 |
+| 1 | `r7101373` | Palazzo des Cinquecento an Borgo Tegolaio | 17.688 | 1.1–1.11 |
+| 2 | `r7101373_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 3.088 | 1.12–1.13 |
+| 3 | `w482302657` | Palazzo des Cinquecento an Borgo Tegolaio | 8.822 | 1.14–1.18 |
+| 4 | `w482302657_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 1.811 | 1.19 |
+| 5 | `w482302663` | Palazzo des Cinquecento an Borgo Tegolaio | 7.540 | 1.20–1.23 |
+| 6 | `w482302663_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 1.188 | 1.24 |
+| 7 | `w482302664` | Reihenhaus an Borgo Tegolaio | 2.831 | 1.25–1.26 |
+| 8 | `w482302664_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 2 | 1.27 |
+| 9 | `w482302665` | Reihenhaus an Piazza di Santo Spirito | 6.103 | 1.27–1.29 |
+| 10 | `w482302665_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 1.995 | 1.30 |
+| 11 | `w482302666` | Reihenhaus an Piazza di Santo Spirito | 7.760 | 1.31–1.34 |
+| 12 | `w482302666_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 2.212 | 1.35–1.36 |
+| 13 | `w482302671` | Reihenhaus an Borgo Tegolaio | 3.742 | 1.37–1.38 |
+| 14 | `w482302671_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 2 | 1.39 |
+| 15 | `w482302674` | Reihenhaus an Piazza di Santo Spirito | 6.598 | 1.39–1.42 |
+| 16 | `w482302674_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 2.603 | 1.43–1.44 |
+| 17 | `w482302676` | Reihenhaus an Borgo Tegolaio | 2.322 | 1.45–1.46 |
+| 18 | `w482302676_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 580 | 1.47 |
+| 19 | `w482302678` | Reihenhaus an Piazza di Santo Spirito | 5.828 | 1.48–1.50 |
+| 20 | `w482302678_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 2.632 | 1.51–1.52 |
+| 21 | `w482302682` | Reihenhaus an Piazza di Santo Spirito | 4.132 | 1.53–1.54 |
+| 22 | `w482302682_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 1.662 | 1.55 |
+| 23 | `w482302692` | Palazzo des Cinquecento an Borgo Tegolaio | 6.347 | 1.56–1.59 |
+| 24 | `w482302692_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 1.908 | 1.60 |
+| 25 | `w482302697` | Reihenhaus an Via Mazzetta | 5.569 | 1.61–1.63 |
+| 26 | `w482302697_innen` | Reihenhaus an Via Mazzetta: Innenausbau | 1.446 | 1.64 |
+| 27 | `w482302698` | Reihenhaus an Borgo Tegolaio | 1.580 | 1.65 |
+| 28 | `w482302698_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 801 | 1.66 |
+| 29 | `w482302699` | Reihenhaus an Piazza di Santo Spirito | 7.127 | 1.67–1.70 |
+| 30 | `w482302699_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 4.405 | 1.71–1.74 |
+| 31 | `w482302700` | Palazzo des Cinquecento an Borgo Tegolaio | 10.415 | 1.75–1.80 |
+| 32 | `w482302700_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 2.465 | 1.81–1.82 |
+| 33 | `w482302704` | Reihenhaus an Piazza di Santo Spirito | 7.556 | 1.83–1.87 |
+| 34 | `w482302704_innen` | Reihenhaus an Piazza di Santo Spirito: Innenausbau | 4.632 | 1.88–1.90 |
+| 35 | `w482302707` | Reihenhaus an Via Mazzetta | 4.947 | 1.91–1.93 |
+| 36 | `w482302707_innen` | Reihenhaus an Via Mazzetta: Innenausbau | 1.437 | 1.94 |
+| 37 | `strassenschilder` | Straßenschilder | 4 | 1.94 |
 
 ## Bauschritte
 
 ### Schritt 1.1 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/11 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.922
+- **Blöcke:** 1.923
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.922 |
+| Polierter Tuffstein | `polished_tuff` | 1.923 |
 
 **Beschreibung**
 
@@ -138,14 +136,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.2 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/11 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
-- **Blöcke:** 1.422
+- **Blöcke:** 1.296
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.344 |
+| Endsteinziegel | `end_stone_bricks` | 1.218 |
 | Weißer Beton | `white_concrete` | 52 |
 | Polierter Andesit | `polished_andesite` | 15 |
 | Glatter Stein | `smooth_stone` | 6 |
@@ -170,14 +168,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.3 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/11 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
-- **Blöcke:** 1.865
+- **Blöcke:** 1.697
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.571 |
+| Endsteinziegel | `end_stone_bricks` | 1.403 |
 | Weißer Beton | `white_concrete` | 116 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
 | Grüner Beton | `green_concrete` | 52 |
@@ -204,14 +202,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.4 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/11 (Y 69–71)
 
 - **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.443
+- **Blöcke:** 1.317
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.226 |
+| Endsteinziegel | `end_stone_bricks` | 1.100 |
 | Glatter Stein | `smooth_stone` | 161 |
 | Weißer Beton | `white_concrete` | 52 |
 | Polierter Andesit | `polished_andesite` | 4 |
@@ -235,14 +233,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.5 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 5/11 (Y 72–75)
 
 - **Y-Bereich:** 72 bis 75
-- **Blöcke:** 1.894
+- **Blöcke:** 1.726
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.682 |
+| Endsteinziegel | `end_stone_bricks` | 1.514 |
 | Weißer Beton | `white_concrete` | 122 |
 | Graues Buntglas | `gray_stained_glass` | 52 |
 | Grüner Beton | `green_concrete` | 30 |
@@ -267,14 +265,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.6 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 6/11 (Y 76–79)
 
 - **Y-Bereich:** 76 bis 79
-- **Blöcke:** 1.864
+- **Blöcke:** 1.696
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.564 |
+| Endsteinziegel | `end_stone_bricks` | 1.396 |
 | Weißer Beton | `white_concrete` | 128 |
 | Graues Buntglas | `gray_stained_glass` | 104 |
 | Grüner Beton | `green_concrete` | 60 |
@@ -296,19 +294,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 7/11 (Y 80–82)
+### Schritt 1.7 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 7/11 (Y 80–83)
 
-- **Y-Bereich:** 80 bis 82
-- **Blöcke:** 1.443
+- **Y-Bereich:** 80 bis 83
+- **Blöcke:** 1.756
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.216 |
+| Endsteinziegel | `end_stone_bricks` | 1.471 |
 | Glatter Stein | `smooth_stone` | 161 |
-| Weißer Beton | `white_concrete` | 58 |
+| Weißer Beton | `white_concrete` | 116 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
@@ -327,18 +325,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 8/11 (Y 83–86)
+### Schritt 1.8 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 8/11 (Y 84–86)
 
-- **Y-Bereich:** 83 bis 86
-- **Blöcke:** 1.879
+- **Y-Bereich:** 84 bis 86
+- **Blöcke:** 1.272
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.594 |
-| Weißer Beton | `white_concrete` | 154 |
+| Endsteinziegel | `end_stone_bricks` | 1.045 |
+| Weißer Beton | `white_concrete` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Grüner Beton | `green_concrete` | 45 |
 | Polierter Andesit | `polished_andesite` | 8 |
@@ -362,14 +360,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.9 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 9/11 (Y 87–90)
 
 - **Y-Bereich:** 87 bis 90
-- **Blöcke:** 1.931
+- **Blöcke:** 1.763
 - **Bauteile:** `r7101373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.682 |
+| Endsteinziegel | `end_stone_bricks` | 1.514 |
 | Weißer Beton | `white_concrete` | 122 |
 | Graues Buntglas | `gray_stained_glass` | 52 |
 | Fichtenholz-Bretter | `spruce_planks` | 37 |
@@ -395,7 +393,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.10 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 10/11 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.980
+- **Blöcke:** 1.938
 - **Bauteile:** `r7101373`
 
 **Teileliste**
@@ -403,7 +401,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.339 |
-| Endsteinziegel | `end_stone_bricks` | 481 |
+| Endsteinziegel | `end_stone_bricks` | 439 |
 | Fichtenholz-Bretter | `spruce_planks` | 160 |
 
 **Beschreibung**
@@ -454,16 +452,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.12 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau – Teil 1/2 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
-- **Blöcke:** 1.504
+- **Blöcke:** 1.545
 - **Bauteile:** `r7101373_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.433 |
+| Terrakotta | `terracotta` | 1.476 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 22 |
+| Seelaterne | `sea_lantern` | 20 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -496,30 +494,30 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.13 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau – Teil 2/2 (Y 72–82)
 
 - **Y-Bereich:** 72 bis 82
-- **Blöcke:** 1.508
+- **Blöcke:** 1.543
 - **Bauteile:** `r7101373_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.433 |
+| Terrakotta | `terracotta` | 1.476 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 11 |
+| Seelaterne | `sea_lantern` | 10 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -537,423 +535,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.14 – Palazzo Guadagni – Teil 1/10 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.215
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.215 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.15 – Palazzo Guadagni – Teil 2/10 (Y 60–62)
-
-- **Y-Bereich:** 60 bis 62
-- **Blöcke:** 1.902
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.145 |
-| Glatter Sandstein | `smooth_sandstone` | 678 |
-| Polierter Andesit | `polished_andesite` | 77 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.16 – Palazzo Guadagni – Teil 3/10 (Y 63–68)
-
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 2.092
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.721 |
-| Polierter Andesit | `polished_andesite` | 304 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.17 – Palazzo Guadagni – Teil 4/10 (Y 69–72)
-
-- **Y-Bereich:** 69 bis 72
-- **Blöcke:** 1.483
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.079 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Polierter Andesit | `polished_andesite` | 129 |
-| Graues Buntglas | `gray_stained_glass` | 21 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.18 – Palazzo Guadagni – Teil 5/10 (Y 73–77)
-
-- **Y-Bereich:** 73 bis 77
-- **Blöcke:** 1.699
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.370 |
-| Polierter Andesit | `polished_andesite` | 245 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.19 – Palazzo Guadagni – Teil 6/10 (Y 78–82)
-
-- **Y-Bereich:** 78 bis 82
-- **Blöcke:** 1.806
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.272 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Polierter Andesit | `polished_andesite` | 217 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.20 – Palazzo Guadagni – Teil 7/10 (Y 83–86)
-
-- **Y-Bereich:** 83 bis 86
-- **Blöcke:** 1.483
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.016 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Polierter Andesit | `polished_andesite` | 192 |
-| Graues Buntglas | `gray_stained_glass` | 21 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.21 – Palazzo Guadagni – Teil 8/10 (Y 87–90)
-
-- **Y-Bereich:** 87 bis 90
-- **Blöcke:** 1.686
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.177 |
-| Fichtenholz-Bretter | `spruce_planks` | 310 |
-| Polierter Andesit | `polished_andesite` | 157 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.22 – Palazzo Guadagni – Teil 9/10 (Y 91–92)
-
-- **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.654
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.654 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.23 – Palazzo Guadagni – Teil 10/10 (Y 93–103)
-
-- **Y-Bereich:** 93 bis 103
-- **Blöcke:** 1.774
-- **Bauteile:** `w306798512`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.609 |
-| Ziegelsteine | `bricks` | 149 |
-| Glatter Stein | `smooth_stone` | 16 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (1502-1506 (Rinieri Dei); Restaurierungen 1932, 1969-72, 1991-93), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Guadagni, Angaben belegt (Sicherheit 0,75).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 1.24 – Palazzo Guadagni: Innenausbau – Teil 1/3 (Y 60–69)
-
-- **Y-Bereich:** 60 bis 69
-- **Blöcke:** 2.067
-- **Bauteile:** `w306798512_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.001 |
-| Seelaterne | `sea_lantern` | 24 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 1.25 – Palazzo Guadagni: Innenausbau – Teil 2/3 (Y 70–78)
-
-- **Y-Bereich:** 70 bis 78
-- **Blöcke:** 2.055
-- **Bauteile:** `w306798512_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.001 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 1.26 – Palazzo Guadagni: Innenausbau – Teil 3/3 (Y 79–85)
-
-- **Y-Bereich:** 79 bis 85
-- **Blöcke:** 2.047
-- **Bauteile:** `w306798512_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.001 |
-| Glatter Stein | `smooth_stone` | 20 |
-| Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 14 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 1.27 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/5 (Y 61–64)
+### Schritt 1.14 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/5 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.688
@@ -986,7 +568,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.28 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/5 (Y 65–73)
+### Schritt 1.15 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/5 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
 - **Blöcke:** 1.895
@@ -1020,7 +602,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.29 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/5 (Y 74–81)
+### Schritt 1.16 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/5 (Y 74–81)
 
 - **Y-Bereich:** 74 bis 81
 - **Blöcke:** 1.656
@@ -1052,7 +634,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.30 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/5 (Y 82–90)
+### Schritt 1.17 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/5 (Y 82–90)
 
 - **Y-Bereich:** 82 bis 90
 - **Blöcke:** 1.908
@@ -1083,7 +665,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.31 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 5/5 (Y 91–100)
+### Schritt 1.18 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 5/5 (Y 91–100)
 
 - **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.675
@@ -1113,7 +695,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.32 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau
+### Schritt 1.19 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau
 
 - **Y-Bereich:** 61 bis 82
 - **Blöcke:** 1.811
@@ -1155,7 +737,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.33 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/4 (Y 61–67)
+### Schritt 1.20 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/4 (Y 61–67)
 
 - **Y-Bereich:** 61 bis 67
 - **Blöcke:** 1.861
@@ -1189,7 +771,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.34 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/4 (Y 68–77)
+### Schritt 1.21 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/4 (Y 68–77)
 
 - **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.892
@@ -1221,7 +803,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.35 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/4 (Y 78–87)
+### Schritt 1.22 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/4 (Y 78–87)
 
 - **Y-Bereich:** 78 bis 87
 - **Blöcke:** 1.890
@@ -1253,7 +835,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.36 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/4 (Y 88–96)
+### Schritt 1.23 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/4 (Y 88–96)
 
 - **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.897
@@ -1287,7 +869,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.37 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau
+### Schritt 1.24 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau
 
 - **Y-Bereich:** 61 bis 81
 - **Blöcke:** 1.188
@@ -1325,7 +907,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.38 – Reihenhaus an Borgo Tegolaio – Teil 1/2 (Y 61–77)
+### Schritt 1.25 – Reihenhaus an Borgo Tegolaio – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.447
@@ -1356,7 +938,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.39 – Reihenhaus an Borgo Tegolaio – Teil 2/2 (Y 78–96)
+### Schritt 1.26 – Reihenhaus an Borgo Tegolaio – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 1.384
@@ -1388,7 +970,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.40 – Reihenhaus an Borgo Tegolaio: Innenausbau & Reihenhaus an Piazza di Santo Spirito – Teil 1/3 (Y 61–73)
+### Schritt 1.27 – Reihenhaus an Borgo Tegolaio: Innenausbau & Reihenhaus an Piazza di Santo Spirito – Teil 1/3 (Y 61–73)
 
 - **Y-Bereich:** 61 bis 73
 - **Blöcke:** 2.052
@@ -1421,7 +1003,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.41 – Reihenhaus an Piazza di Santo Spirito – Teil 2/3 (Y 74–89)
+### Schritt 1.28 – Reihenhaus an Piazza di Santo Spirito – Teil 2/3 (Y 74–89)
 
 - **Y-Bereich:** 74 bis 89
 - **Blöcke:** 1.986
@@ -1451,7 +1033,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.42 – Reihenhaus an Piazza di Santo Spirito – Teil 3/3 (Y 90–103)
+### Schritt 1.29 – Reihenhaus an Piazza di Santo Spirito – Teil 3/3 (Y 90–103)
 
 - **Y-Bereich:** 90 bis 103
 - **Blöcke:** 2.067
@@ -1483,7 +1065,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.43 – Reihenhaus an Piazza di Santo Spirito: Innenausbau
+### Schritt 1.30 – Reihenhaus an Piazza di Santo Spirito: Innenausbau
 
 - **Y-Bereich:** 61 bis 91
 - **Blöcke:** 1.995
@@ -1521,7 +1103,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.44 – Reihenhaus an Piazza di Santo Spirito – Teil 1/4 (Y 61–69)
+### Schritt 1.31 – Reihenhaus an Piazza di Santo Spirito – Teil 1/4 (Y 61–69)
 
 - **Y-Bereich:** 61 bis 69
 - **Blöcke:** 1.969
@@ -1552,7 +1134,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.45 – Reihenhaus an Piazza di Santo Spirito – Teil 2/4 (Y 70–81)
+### Schritt 1.32 – Reihenhaus an Piazza di Santo Spirito – Teil 2/4 (Y 70–81)
 
 - **Y-Bereich:** 70 bis 81
 - **Blöcke:** 1.961
@@ -1581,7 +1163,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.46 – Reihenhaus an Piazza di Santo Spirito – Teil 3/4 (Y 82–92)
+### Schritt 1.33 – Reihenhaus an Piazza di Santo Spirito – Teil 3/4 (Y 82–92)
 
 - **Y-Bereich:** 82 bis 92
 - **Blöcke:** 1.810
@@ -1610,7 +1192,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.47 – Reihenhaus an Piazza di Santo Spirito – Teil 4/4 (Y 93–105)
+### Schritt 1.34 – Reihenhaus an Piazza di Santo Spirito – Teil 4/4 (Y 93–105)
 
 - **Y-Bereich:** 93 bis 105
 - **Blöcke:** 2.020
@@ -1642,7 +1224,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.48 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/2 (Y 61–77)
+### Schritt 1.35 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.112
@@ -1680,7 +1262,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.49 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/2 (Y 78–91)
+### Schritt 1.36 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/2 (Y 78–91)
 
 - **Y-Bereich:** 78 bis 91
 - **Blöcke:** 1.100
@@ -1718,7 +1300,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.50 – Reihenhaus an Borgo Tegolaio – Teil 1/2 (Y 61–77)
+### Schritt 1.37 – Reihenhaus an Borgo Tegolaio – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.919
@@ -1749,7 +1331,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.51 – Reihenhaus an Borgo Tegolaio – Teil 2/2 (Y 78–93)
+### Schritt 1.38 – Reihenhaus an Borgo Tegolaio – Teil 2/2 (Y 78–93)
 
 - **Y-Bereich:** 78 bis 93
 - **Blöcke:** 1.823
@@ -1780,7 +1362,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.52 – Reihenhaus an Borgo Tegolaio: Innenausbau & Reihenhaus an Piazza di Santo Spirito – Teil 1/4 (Y 60–65)
+### Schritt 1.39 – Reihenhaus an Borgo Tegolaio: Innenausbau & Reihenhaus an Piazza di Santo Spirito – Teil 1/4 (Y 60–65)
 
 - **Y-Bereich:** 60 bis 65
 - **Blöcke:** 1.706
@@ -1812,7 +1394,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.53 – Reihenhaus an Piazza di Santo Spirito – Teil 2/4 (Y 66–76)
+### Schritt 1.40 – Reihenhaus an Piazza di Santo Spirito – Teil 2/4 (Y 66–76)
 
 - **Y-Bereich:** 66 bis 76
 - **Blöcke:** 1.608
@@ -1841,7 +1423,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.54 – Reihenhaus an Piazza di Santo Spirito – Teil 3/4 (Y 77–87)
+### Schritt 1.41 – Reihenhaus an Piazza di Santo Spirito – Teil 3/4 (Y 77–87)
 
 - **Y-Bereich:** 77 bis 87
 - **Blöcke:** 1.605
@@ -1870,7 +1452,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.55 – Reihenhaus an Piazza di Santo Spirito – Teil 4/4 (Y 88–96)
+### Schritt 1.42 – Reihenhaus an Piazza di Santo Spirito – Teil 4/4 (Y 88–96)
 
 - **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.681
@@ -1901,7 +1483,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.56 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/2 (Y 60–75)
+### Schritt 1.43 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/2 (Y 60–75)
 
 - **Y-Bereich:** 60 bis 75
 - **Blöcke:** 909
@@ -1939,7 +1521,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.57 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/2 (Y 76–83)
+### Schritt 1.44 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/2 (Y 76–83)
 
 - **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.694
@@ -1977,7 +1559,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.58 – Reihenhaus an Borgo Tegolaio – Teil 1/2 (Y 61–77)
+### Schritt 1.45 – Reihenhaus an Borgo Tegolaio – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.169
@@ -2009,7 +1591,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.59 – Reihenhaus an Borgo Tegolaio – Teil 2/2 (Y 78–96)
+### Schritt 1.46 – Reihenhaus an Borgo Tegolaio – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 1.153
@@ -2042,7 +1624,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.60 – Reihenhaus an Borgo Tegolaio: Innenausbau
+### Schritt 1.47 – Reihenhaus an Borgo Tegolaio: Innenausbau
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 580
@@ -2080,7 +1662,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.61 – Reihenhaus an Piazza di Santo Spirito – Teil 1/3 (Y 61–72)
+### Schritt 1.48 – Reihenhaus an Piazza di Santo Spirito – Teil 1/3 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.918
@@ -2112,7 +1694,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.62 – Reihenhaus an Piazza di Santo Spirito – Teil 2/3 (Y 73–90)
+### Schritt 1.49 – Reihenhaus an Piazza di Santo Spirito – Teil 2/3 (Y 73–90)
 
 - **Y-Bereich:** 73 bis 90
 - **Blöcke:** 1.980
@@ -2142,7 +1724,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.63 – Reihenhaus an Piazza di Santo Spirito – Teil 3/3 (Y 91–104)
+### Schritt 1.50 – Reihenhaus an Piazza di Santo Spirito – Teil 3/3 (Y 91–104)
 
 - **Y-Bereich:** 91 bis 104
 - **Blöcke:** 1.930
@@ -2174,7 +1756,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.64 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/2 (Y 61–77)
+### Schritt 1.51 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.322
@@ -2212,7 +1794,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.65 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/2 (Y 78–91)
+### Schritt 1.52 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/2 (Y 78–91)
 
 - **Y-Bereich:** 78 bis 91
 - **Blöcke:** 1.310
@@ -2250,7 +1832,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.66 – Reihenhaus an Piazza di Santo Spirito – Teil 1/2 (Y 61–77)
+### Schritt 1.53 – Reihenhaus an Piazza di Santo Spirito – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 2.060
@@ -2282,7 +1864,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.67 – Reihenhaus an Piazza di Santo Spirito – Teil 2/2 (Y 78–98)
+### Schritt 1.54 – Reihenhaus an Piazza di Santo Spirito – Teil 2/2 (Y 78–98)
 
 - **Y-Bereich:** 78 bis 98
 - **Blöcke:** 2.072
@@ -2314,7 +1896,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.68 – Reihenhaus an Piazza di Santo Spirito: Innenausbau
+### Schritt 1.55 – Reihenhaus an Piazza di Santo Spirito: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.662
@@ -2352,7 +1934,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.69 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/4 (Y 61–65)
+### Schritt 1.56 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/4 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.538
@@ -2386,7 +1968,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.70 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/4 (Y 66–78)
+### Schritt 1.57 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/4 (Y 66–78)
 
 - **Y-Bereich:** 66 bis 78
 - **Blöcke:** 1.660
@@ -2419,7 +2001,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.71 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/4 (Y 79–90)
+### Schritt 1.58 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/4 (Y 79–90)
 
 - **Y-Bereich:** 79 bis 90
 - **Blöcke:** 1.570
@@ -2450,7 +2032,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.72 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/4 (Y 91–100)
+### Schritt 1.59 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/4 (Y 91–100)
 
 - **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.579
@@ -2480,7 +2062,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.73 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau
+### Schritt 1.60 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau
 
 - **Y-Bereich:** 61 bis 81
 - **Blöcke:** 1.908
@@ -2518,7 +2100,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.74 – Reihenhaus an Via Mazzetta – Teil 1/3 (Y 61–70)
+### Schritt 1.61 – Reihenhaus an Via Mazzetta – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.824
@@ -2550,7 +2132,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.75 – Reihenhaus an Via Mazzetta – Teil 2/3 (Y 71–84)
+### Schritt 1.62 – Reihenhaus an Via Mazzetta – Teil 2/3 (Y 71–84)
 
 - **Y-Bereich:** 71 bis 84
 - **Blöcke:** 1.922
@@ -2580,7 +2162,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.76 – Reihenhaus an Via Mazzetta – Teil 3/3 (Y 85–98)
+### Schritt 1.63 – Reihenhaus an Via Mazzetta – Teil 3/3 (Y 85–98)
 
 - **Y-Bereich:** 85 bis 98
 - **Blöcke:** 1.823
@@ -2612,7 +2194,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.77 – Reihenhaus an Via Mazzetta: Innenausbau
+### Schritt 1.64 – Reihenhaus an Via Mazzetta: Innenausbau
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.446
@@ -2650,7 +2232,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.78 – Reihenhaus an Borgo Tegolaio
+### Schritt 1.65 – Reihenhaus an Borgo Tegolaio
 
 - **Y-Bereich:** 61 bis 93
 - **Blöcke:** 1.580
@@ -2683,7 +2265,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.79 – Reihenhaus an Borgo Tegolaio: Innenausbau
+### Schritt 1.66 – Reihenhaus an Borgo Tegolaio: Innenausbau
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 801
@@ -2723,7 +2305,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.80 – Reihenhaus an Piazza di Santo Spirito – Teil 1/4 (Y 61–67)
+### Schritt 1.67 – Reihenhaus an Piazza di Santo Spirito – Teil 1/4 (Y 61–67)
 
 - **Y-Bereich:** 61 bis 67
 - **Blöcke:** 1.820
@@ -2755,7 +2337,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.81 – Reihenhaus an Piazza di Santo Spirito – Teil 2/4 (Y 68–82)
+### Schritt 1.68 – Reihenhaus an Piazza di Santo Spirito – Teil 2/4 (Y 68–82)
 
 - **Y-Bereich:** 68 bis 82
 - **Blöcke:** 1.691
@@ -2785,7 +2367,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.82 – Reihenhaus an Piazza di Santo Spirito – Teil 3/4 (Y 83–97)
+### Schritt 1.69 – Reihenhaus an Piazza di Santo Spirito – Teil 3/4 (Y 83–97)
 
 - **Y-Bereich:** 83 bis 97
 - **Blöcke:** 1.832
@@ -2815,7 +2397,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.83 – Reihenhaus an Piazza di Santo Spirito – Teil 4/4 (Y 98–107)
+### Schritt 1.70 – Reihenhaus an Piazza di Santo Spirito – Teil 4/4 (Y 98–107)
 
 - **Y-Bereich:** 98 bis 107
 - **Blöcke:** 1.784
@@ -2846,7 +2428,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.84 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/4 (Y 61–70)
+### Schritt 1.71 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/4 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.109
@@ -2884,7 +2466,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.85 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/4 (Y 71–77)
+### Schritt 1.72 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/4 (Y 71–77)
 
 - **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.096
@@ -2924,7 +2506,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.86 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 3/4 (Y 78–84)
+### Schritt 1.73 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 3/4 (Y 78–84)
 
 - **Y-Bereich:** 78 bis 84
 - **Blöcke:** 1.098
@@ -2964,7 +2546,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.87 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 4/4 (Y 85–92)
+### Schritt 1.74 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 4/4 (Y 85–92)
 
 - **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.102
@@ -3004,7 +2586,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.88 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/6 (Y 61–62)
+### Schritt 1.75 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 1/6 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.644
@@ -3034,7 +2616,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.89 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/6 (Y 63–70)
+### Schritt 1.76 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 2/6 (Y 63–70)
 
 - **Y-Bereich:** 63 bis 70
 - **Blöcke:** 1.867
@@ -3067,7 +2649,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.90 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/6 (Y 71–77)
+### Schritt 1.77 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 3/6 (Y 71–77)
 
 - **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.611
@@ -3099,7 +2681,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.91 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/6 (Y 78–85)
+### Schritt 1.78 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 4/6 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.860
@@ -3131,7 +2713,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.92 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 5/6 (Y 86–91)
+### Schritt 1.79 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 5/6 (Y 86–91)
 
 - **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.510
@@ -3162,7 +2744,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.93 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 6/6 (Y 92–100)
+### Schritt 1.80 – Palazzo des Cinquecento an Borgo Tegolaio – Teil 6/6 (Y 92–100)
 
 - **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.923
@@ -3191,7 +2773,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.94 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau – Teil 1/2 (Y 61–71)
+### Schritt 1.81 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau – Teil 1/2 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.234
@@ -3233,7 +2815,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.95 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau – Teil 2/2 (Y 72–82)
+### Schritt 1.82 – Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau – Teil 2/2 (Y 72–82)
 
 - **Y-Bereich:** 72 bis 82
 - **Blöcke:** 1.231
@@ -3277,7 +2859,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.96 – Reihenhaus an Piazza di Santo Spirito – Teil 1/5 (Y 60–60)
+### Schritt 1.83 – Reihenhaus an Piazza di Santo Spirito – Teil 1/5 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.630
@@ -3305,7 +2887,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.97 – Reihenhaus an Piazza di Santo Spirito – Teil 2/5 (Y 61–71)
+### Schritt 1.84 – Reihenhaus an Piazza di Santo Spirito – Teil 2/5 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.407
@@ -3337,7 +2919,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.98 – Reihenhaus an Piazza di Santo Spirito – Teil 3/5 (Y 72–83)
+### Schritt 1.85 – Reihenhaus an Piazza di Santo Spirito – Teil 3/5 (Y 72–83)
 
 - **Y-Bereich:** 72 bis 83
 - **Blöcke:** 1.511
@@ -3367,7 +2949,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.99 – Reihenhaus an Piazza di Santo Spirito – Teil 4/5 (Y 84–91)
+### Schritt 1.86 – Reihenhaus an Piazza di Santo Spirito – Teil 4/5 (Y 84–91)
 
 - **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.514
@@ -3398,7 +2980,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.100 – Reihenhaus an Piazza di Santo Spirito – Teil 5/5 (Y 92–98)
+### Schritt 1.87 – Reihenhaus an Piazza di Santo Spirito – Teil 5/5 (Y 92–98)
 
 - **Y-Bereich:** 92 bis 98
 - **Blöcke:** 1.494
@@ -3427,7 +3009,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.101 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/3 (Y 60–69)
+### Schritt 1.88 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 1/3 (Y 60–69)
 
 - **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.555
@@ -3465,7 +3047,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.102 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/3 (Y 70–76)
+### Schritt 1.89 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 2/3 (Y 70–76)
 
 - **Y-Bereich:** 70 bis 76
 - **Blöcke:** 1.538
@@ -3505,7 +3087,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.103 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 3/3 (Y 77–84)
+### Schritt 1.90 – Reihenhaus an Piazza di Santo Spirito: Innenausbau – Teil 3/3 (Y 77–84)
 
 - **Y-Bereich:** 77 bis 84
 - **Blöcke:** 1.539
@@ -3545,7 +3127,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.104 – Reihenhaus an Via Mazzetta – Teil 1/3 (Y 61–70)
+### Schritt 1.91 – Reihenhaus an Via Mazzetta – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.646
@@ -3577,7 +3159,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.105 – Reihenhaus an Via Mazzetta – Teil 2/3 (Y 71–83)
+### Schritt 1.92 – Reihenhaus an Via Mazzetta – Teil 2/3 (Y 71–83)
 
 - **Y-Bereich:** 71 bis 83
 - **Blöcke:** 1.621
@@ -3607,17 +3189,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.106 – Reihenhaus an Via Mazzetta – Teil 3/3 (Y 84–96)
+### Schritt 1.93 – Reihenhaus an Via Mazzetta – Teil 3/3 (Y 84–96)
 
 - **Y-Bereich:** 84 bis 96
-- **Blöcke:** 1.707
+- **Blöcke:** 1.680
 - **Bauteile:** `w482302707`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 873 |
+| Weißer Beton | `white_concrete` | 846 |
 | Terrakotta | `terracotta` | 650 |
 | Glatter Stein | `smooth_stone` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
@@ -3639,33 +3221,35 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.107 – Reihenhaus an Via Mazzetta: Innenausbau & Straßenschilder
+### Schritt 1.94 – Reihenhaus an Via Mazzetta: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 61 bis 85
-- **Blöcke:** 1.413
+- **Blöcke:** 1.441
 - **Bauteile:** `w482302707_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.272 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 |
-| Seelaterne | `sea_lantern` | 13 |
+| Terrakotta | `terracotta` | 1.293 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 

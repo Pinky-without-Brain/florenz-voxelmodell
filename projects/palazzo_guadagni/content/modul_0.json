@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Treppe",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 61 und Wendeltreppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Palast tiefer liegt als Y 60, füllst du mit Bruchstein bis Y 60 auf; höher liegendes Gelände wurde bis Y 60 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 60 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Der Palast entstand etwa 1502–1506 für den Seidenhändler Rinieri di Bernardo Dei; als Architekt wird Cronaca oder Baccio d'Agnolo angenommen (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 61 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Das Portal zur Piazza ist rundbogig und von Bugnen und quadratischen Fenstern gerahmt (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt vom Erdgeschoss bis ins oberste Geschoss (Y 91).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Die Treppe auf der linken Seite besteht aus Pietra serena und gilt als ursprünglich (Quelle: it.wikipedia, Palazzo Guadagni)."
+    }
+  }
+}

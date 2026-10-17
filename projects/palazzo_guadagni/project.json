@@ -1,0 +1,17 @@
+{
+  "id": "palazzo_guadagni",
+  "title": "Palazzo Guadagni",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "w306798512"
+  ],
+  "bodenY": 61,
+  "rahmen": {
+    "ox": -1550.5,
+    "oz": 1595,
+    "thetaDeg": -47.76
+  },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}
