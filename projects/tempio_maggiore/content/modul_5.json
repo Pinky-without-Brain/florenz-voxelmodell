@@ -1,0 +1,22 @@
+{
+  "module": 5,
+  "title": "Licht",
+  "subtitle": "Bautüte 5: Seelaternen im Boden",
+  "icon": "💡",
+  "parts": {
+    "licht": {
+      "title": "Seelaternen im Boden",
+      "description": "Im Erdgeschoss und auf der Empore sitzen Seelaternen im Boden, so dass jede Stelle höchstens 12 Blöcke von einem Licht entfernt liegt.",
+      "tip": "Setze die Laternen in den Fußboden, nicht darauf.",
+      "caution": "Zu dunkle Ecken füllst du nach.",
+      "fact": "Beleuchtung ist eine Spielregel (Minecraft)."
+    },
+    "campanile_licht": {
+      "title": "Turmlicht",
+      "description": "In den Wänden der Türme sitzen alle acht Lagen Seelaternen.",
+      "tip": "Setze sie in die innere Wandlage.",
+      "caution": "Die Treppe bleibt frei.",
+      "fact": "Gleiche Spielregel wie im Hauptraum."
+    }
+  }
+}

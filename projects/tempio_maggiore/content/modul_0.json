@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Sockel, Marmorboden und Stern unter der Kuppel",
+  "icon": "🪨",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter Y 65 liegt, füllst du es mit Bruchstein auf. Der Umriss ist ein Rechteck von rund 100 × 62 Blöcken (50 × 31 m), um 32° gegen die Himmelsrichtungen gedreht.",
+      "tip": "Beginne an der Westkante zur Via Farini und arbeite dich nach Osten vor.",
+      "caution": "Die Zellen der beiden Ecktürme gehören schon zum Boden.",
+      "fact": "Umriss: OpenStreetMap, sieben Teilflächen (Mittelquadrat, vier Arme, Apsis, Kuppelkreis)."
+    },
+    "boden": {
+      "title": "Boden mit Stern",
+      "description": "Im Hauptraum wechseln weißer Marmor und Pietra serena in Quadraten zu 3 × 3 Blöcken. Unter der Kuppel liegt ein achtzackiger Stern aus schwarzem und gelbem Marmor. Die Vorhalle hat Pflaster und Ornamentmarmor, die Apsis weiß und rot.",
+      "tip": "Der Stern ist 20 Blöcke breit; sein Mittelpunkt liegt unter der Kuppelachse.",
+      "caution": "Die Muster sind frei entworfen, nur der Stern ist belegt.",
+      "fact": "Ein Stern aus schwarzem und gelbem Marmor in der Mitte des Fußbodens stammt von der Bruderschaft Mattir Assurim (it.wikipedia). Form und Maße sind vereinfacht (Stufe C)."
+    }
+  }
+}

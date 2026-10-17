@@ -1,0 +1,11 @@
+{
+  "id": "tempio_maggiore",
+  "title": "Tempio Maggiore Israelitico",
+  "type": "wahrzeichen",
+  "gebaeude": ["w102979678"],
+  "bodenY": 66,
+  "rahmen": { "ox": 1483.5, "oz": 0.5, "thetaDeg": 32 },
+  "masken": {},
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
+}

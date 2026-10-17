@@ -9,7 +9,7 @@
 //      T: wand, sockel, gesims, dach, spitze, holz, glocke, fenster, licht
 // o:   { rect: {u0,u1,w0,w1}, top, glocke0, glocke1, spitze0, abschluss: 'pyramide'|'kuppel', sockel (Lagen), gesimse: [lagen],
 //        tueren: [[{x,z}, …]] (Zellen, durch die eine Tür von 4 Lagen führt), zugang: {u, w} (automatische Tür von der Außenlage nahe (u, w) zum Treppenfuß), schlitze: {periode,a,b,bis},
-//        bogen: {anzahl, breite}, kleineGlocken: n, lichtAbstand, rolle }
+//        bogen: {anzahl, breite}, kleineGlocken: n, lichtAbstand, rolle, ohneGlocken (W8b: keine Glocken und kein Joch) }
 const P = require('../city/poly.js');
 const treppe = require('./treppe.js');
 
@@ -128,7 +128,7 @@ function baueCampanile(env, o) {
 
   // 4. Glocken und Joche: 2 × 2 an der Wand (r = 2, 3), Unterkante 4 Lagen über dem Stubenboden (Kopffreiheit), Joch darüber
   const cu = (R.u0 + R.u1) / 2, cw = (R.w0 + R.w1) / 2;
-  const ziele = [[R.u0 + 3, cw], [R.u1 - 3, cw], [cu, R.w0 + 3], [cu, R.w1 - 3]];
+  const ziele = o.ohneGlocken ? [] : [[R.u0 + 3, cw], [R.u1 - 3, cw], [cu, R.w0 + 3], [cu, R.w1 - 3]];   // ohneGlocken (W8b): Turm ohne Glocken und Joch (Synagoge)
   if ((o.kleineGlocken || 0) > 0) ziele.push([R.u1 - 3, R.w1 - 3]);                // fünfter Platz in der Ecke für die kleinen Glocken
   const frei2 = (x, z) => { const c = byK.get(P.ck(x, z)); return c && c.r >= 2 && c.r <= 3 && Math.max(Math.abs(x - mitte.x), Math.abs(z - mitte.z)) >= 3; };
   const yb = Y(o.glocke0) + 4;
@@ -144,7 +144,7 @@ function baueCampanile(env, o) {
   }
   const nKlein = o.kleineGlocken || 0;
   // Joch: umlaufender Holzbalken in der Innenlage der Stube (r = 2), an den Wänden verankert; die Glocken hängen darunter
-  for (const c of cells) if (c.r === 2) {
+  for (const c of cells) if (!o.ohneGlocken && c.r === 2) {
     set(c.x, yb + 3, c.z, T.holz, 'glockenjoch');
     for (let h = 4; h <= 6; h++) unzug('glockenjoch', 'Oberseite des Glockenjochs (nur zum Läuten, ohne Zugang)', c.x, yb + h, c.z);
   }

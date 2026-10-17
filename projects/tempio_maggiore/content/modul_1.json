@@ -1,0 +1,71 @@
+{
+  "module": 1,
+  "title": "Außenwände, Fassade und Ecktürme",
+  "subtitle": "Bautüte 1: gestreiftes Mauerwerk, drei Hufeisenportale, zwei Türme",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick. Außen wechseln alle zwei Lagen Travertin (hell) und rosa Pomato-Stein. Die Sockel- und Randlagen bestehen aus Pietra serena.",
+      "tip": "Setze die Streifen von unten nach oben, immer zwei Lagen je Farbe.",
+      "caution": "Die Fenster der Nord-, Süd- und Ostseite sind als eigenes Bauteil gebaut; lass sie frei.",
+      "fact": "Verkleidung aus weißem Travertin und rosa Pomato (it.wikipedia). Die Streifen sind auf alten Fotos rot und beige, heute verblasst (en.wikipedia)."
+    },
+    "fassade": {
+      "title": "Westfassade",
+      "description": "Die Fassade an der Via Farini ist 38 Lagen hoch. Drei Hufeisenbögen bilden die Portale (7 Blöcke breit, bis zum Boden offen). Die Keilsteine der Bögen wechseln zwischen Travertin und Pomato. Darüber sitzen paarweise Fenster (Ajimez), je Portal zwei.",
+      "tip": "Schneide zuerst die Portale aus, dann setze die Keilsteine im Wechsel.",
+      "caution": "Die Portale sind bis zum Boden offen; bau keine Schwelle.",
+      "fact": "Drei Hufeisenbögen als Haupteingang mit Ajimez-Fenstern darüber (en.wikipedia). Breite und Höhe der Bögen sind Stufe C."
+    },
+    "mauerkern": {
+      "title": "Mauerkern",
+      "description": "Zwischen Außen- und Innenlage füllt Steinziegel-Mauerwerk die Wände und die Trennwände zwischen den Räumen. Nur wo eine Wand innen oder außen sichtbar ist, bekommt sie eine eigene Lage.",
+      "tip": "Fülle die Wände Schicht für Schicht, damit nichts in der Luft hängt.",
+      "caution": "Die Trennwände sind zwei Blöcke dick; die großen Bögen und Türen bleiben frei.",
+      "fact": "Wandstärke und Raumteilung sind vereinfacht (Stufe C)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Hohe Fenster mit Buntglas sitzen in der Apsis, im Chorraum, in den Querarmen, in den Nebenräumen und über den Dächern der Nebenräume im Hauptraum.",
+      "tip": "Setze die Glasblöcke in die Aussparungen der Wände.",
+      "caution": "Alle Fenster sind verglast; lass keine Öffnung offen.",
+      "fact": "Mehrfarbige Glasfenster (it.wikipedia). Lage und Form sind vereinfacht."
+    },
+    "campanile_schaft": {
+      "title": "Ecktürme",
+      "description": "Zwei Türme von rund 17 × 15 Blöcken stehen an den Westecken. Ihre Wände sind zwei Blöcke dick, innen führt eine Wendeltreppe 5 × 5 bis zur Laterne. Je eine Tür vom Vorraum am Boden und eine Tür auf Höhe der Empore (Lage 13 bis 16).",
+      "tip": "Baue die Wände mit den hellen Travertin-Lagen und rosa Gesimsbändern.",
+      "caution": "Die Türen sind drei Blöcke breit und vier hoch.",
+      "fact": "Zwei Ecktürme mit Kuppeln an der Fassade (it.wikipedia). Die Höhen sind Stufe C."
+    },
+    "campanile_treppe": {
+      "title": "Turmtreppen",
+      "description": "Die Wendeltreppe aus Treppenblöcken windet sich um einen Kern von 1 × 1 Block. Je Viertelumlauf steigt sie einen Block.",
+      "tip": "Setze die Treppenblöcke mit der richtigen Ausrichtung.",
+      "caution": "Über jeder Stufe bleiben drei Blöcke Luft.",
+      "fact": "Lage und Form der Treppe sind frei gewählt (vereinfacht)."
+    },
+    "glockenstube": {
+      "title": "Turmlaternen",
+      "description": "Über den Schäften sitzt eine offene Laterne mit Bogenöffnungen auf allen vier Seiten.",
+      "tip": "Die Öffnungen sind vier Blöcke breit.",
+      "caution": "In den Türmen hängen keine Glocken.",
+      "fact": "Die Türme tragen Hufeisenbögen und Zwiebelkuppeln (en.wikipedia); im Modell sind es Rundbögen und eine gestufte Kuppel."
+    },
+    "campanile_spitze": {
+      "title": "Turmkuppeln",
+      "description": "Die Türme enden in grünen Kupferkuppeln mit goldener Spitze. Die Kuppeln sind innen hohl und nicht begehbar.",
+      "tip": "Baue die Ringe von unten nach oben enger.",
+      "caution": "Kupfer ist oxidiert und wird hier mit dunklem Prismarin nachgebildet.",
+      "fact": "Kupferdächer, durch Oxidation grün (en.wikipedia)."
+    },
+    "turm_empore": {
+      "title": "Turmboden zur Empore",
+      "description": "Auf Lage 12 liegt in jedem Turm ein Holzboden rund um die Treppe. Von dort führt die Tür in die Frauenempore.",
+      "tip": "Der Boden endet an der Treppe.",
+      "caution": "Über der Treppe bleibt die Kopffreiheit frei.",
+      "fact": "Zugang zu den Emporen über die Türme (Aufgabenstellung); die Lage der Türen ist Stufe C."
+    }
+  }
+}
