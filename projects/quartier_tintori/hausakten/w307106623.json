@@ -1,15 +1,15 @@
 {
   "id": "w307106623",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "vor 1357 (Hofhaus), 1495-1502 Umbau für die Corsi",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "nobile",
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -18,32 +18,39 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 4,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_seitlich",
       "portalBreiteBl": 5,
-      "fenster": "rundbogen"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "keiner",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": "gruen"
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "steinbank_panca",
+      "loggia_dreiseitig_oben",
+      "ballatoi_hof",
+      "sgraffito_fries"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach mittlere Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Museo_Horne",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Kern vor 1357, Renaissanceumbau 1495-1502 (Sangallo bzw. Cronaca zugeschrieben), Aufstockung 1832-49, zwei Straßengeschosse plus zurückgesetzte Loggia oben, je vier Fenster pro Geschoss, verputzt mit Eckrustika und vereinzelter Rustika, Bogenfenster, Gurtgesimse mit Sgraffito-Pflanzenmotiven, überwiegend zugesetzte Erdgeschossbögen, einer als Eingang, umlaufende Steinbank. Annahme: Putzfarbe, Rahmenmaterial, Gesims und Dach.",
   "name": "Museo Horne"
 }

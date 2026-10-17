@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Portikus, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den Block bis Y 92: zur Piazza Santissima Annunziata die Loggia aus neun Rundbögen auf Säulen aus Pietra serena mit Wand und Fenstern darüber, an den anderen Seiten Putz mit Bruchsteinbändern. Gesimse trennen die Geschosse (Y 81).",
+      "tip": "Zwei Blöcke dick: außen Putz oder Stein, innen Putz.",
+      "caution": "Lass Portale und Tore frei.",
+      "fact": "Der Loggiato entstand 1516 bis 1525 nach Antonio da Sangallo dem Älteren und Baccio d'Agnolo, Baccio war nur bis 1519 auf der Baustelle (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    },
+    "portikus": {
+      "title": "Portikus",
+      "description": "Neun Rundbögen auf Säulen aus Pietra serena öffnen die Loggia zur Piazza; die Bögen reichen bis zum Boden, darüber trägt ein Gesims das Obergeschoss.",
+      "tip": "Die Säulen stehen im gleichen Abstand, die Bögen bleiben bis zum Boden offen.",
+      "caution": "Die Zahl der Bögen ist Stufe C, die Quelle nennt keine Gesamtzahl.",
+      "fact": "Der Portikus soll die Piazza vereinheitlichen und sich am gegenüberliegenden Spedale degli Innocenti Brunelleschis orientieren (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Im Obergeschoss sitzt über jedem Bogen ein hohes Fenster; an den übrigen Wänden folgen Fenster demselben Raster.",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Das Obergeschoss war bis 1574 fertig, die gesamte Anlage erst 1720 (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims die Fassade ab (Y 91 bis Y 92).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Ein Kranzgesims schließt florentiner Fassaden nach oben ab."
+    }
+  }
+}

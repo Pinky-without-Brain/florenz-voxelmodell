@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Treppe",
+  "subtitle": "Bautüte 0: Boden und Wendeltreppe",
+  "icon": "🪨",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Erdgeschoss liegt, füllst du es mit Bruchstein auf; der Umriss ist ein unregelmäßiger Block von rund 130 × 160 Blöcken (65 × 80 m), um 33,7° gedreht.",
+      "tip": "Beginne an der Südwestkante zur Piazza del Duomo.",
+      "caution": "Der Umriss besteht aus alten und neuen Bauteilen und hat mehrere Knicke.",
+      "fact": "Umriss: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“; Umriss aus OpenStreetMap (Way 456578419)."
+    },
+    "boden": {
+      "title": "Boden des Erdgeschosses",
+      "description": "Du legst auf Y 65 den Boden: Terrakotta und weißer Marmor im Schachbrett; in den Sälen folgen Muster aus Marmor, Holz und Cotto.",
+      "tip": "Die Muster sind frei entworfen.",
+      "caution": "Der Boden liegt bündig mit der Piazza.",
+      "fact": "Vereinfacht, nicht nach Vorbild (Stufe C)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra-serena-Treppenblöcken führt in der Treppenhalle durch alle drei Geschosse; über jeder Stufe bleiben 3 Blöcke Luft.",
+      "tip": "Baue die Treppe vor den Böden, damit die Löcher frei bleiben.",
+      "caution": "Lage und Form der Treppe sind frei gewählt (Stufe C). Die Quelle nennt eine Treppe mit einer Lünette für die Domportal-Mosaike im ersten Stock.",
+      "fact": "Treppe zum ersten Stock mit Lünette: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“; Umriss aus OpenStreetMap (Way 456578419)."
+    }
+  }
+}

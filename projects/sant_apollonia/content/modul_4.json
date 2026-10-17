@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Dachziegeln steigt von der Traufe (Y 96) bis Y 101; der Dachraum darunter ist unzugänglich.",
+      "tip": "Von außen nach innen bauen.",
+      "caution": "Der Dachraum darunter ist unzugänglich.",
+      "fact": "Das Kloster wurde 1808 aufgehoben, 1824 wiederhergestellt und steht seit 1901 auf der Liste der nationalen Kunstdenkmäler (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    }
+  }
+}

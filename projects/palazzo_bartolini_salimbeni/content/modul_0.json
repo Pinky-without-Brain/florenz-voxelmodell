@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 62, Hof und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Palast tiefer liegt als Y 61, füllst du mit Bruchstein bis Y 61 auf; höher liegendes Gelände wurde bis Y 61 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 61 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Baccio d'Agnolo baute den Palast 1520 bis 1523 für Giovanni Bartolini (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 62 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor; unter den Hofarkaden liegt Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Der Palast steht an der Piazza di Santa Trinita, an der Ecke von Via Porta Rossa und Via delle Terme (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "hof": {
+      "title": "Hof",
+      "description": "Der Hof bleibt offen; sein Boden aus Pflaster und Marmor liegt auf Y 62. Ein Durchgang führt von der Piazza hinein.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Den Hof erreicht man durch einen tonnengewölbten Durchgang (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt vom Erdgeschoss bis ins oberste Geschoss (Y 92).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Der Palast gilt als erste Florentiner Residenz im römischen Stil (alla romana) (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sant_apollonia",
+  "title": "Ex monastero di Sant'Apollonia",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "r6818342",
+    "w1239428647"
+  ],
+  "bodenY": 66,
+  "rahmen": {
+    "ox": -96.5,
+    "oz": -1252,
+    "thetaDeg": 28.75
+  },
+  "masken": {},
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
+}

@@ -1,28 +1,32 @@
 {
   "id": "r4090626",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "ab 1653 (Silvani), Eingang 1834 (Baccani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 9,
     "material": "putz",
     "putzfarbe": "grau",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
@@ -35,15 +39,19 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "portikus_vier_ionische_saeulen",
+      "terrasse_radiales_gitter",
+      "wappen_salviati_klein"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casino_Salviati",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Bau ab etwa 1653 nach Entwurf von Gherardo Silvani, 1834 von Gaetano Baccani umgestaltet mit klassizistischem Portikus mit vier ionischen Säulen, vier Geschosse (das oberste später aufgesetzt), neun Achsen zur Straße, kleine Terrasse über dem Portikus mit strahlenförmigem Geländer, kleines Salviati-Wappen. Annahme: Putzfarbe, Material, Fensterform, Gesims, Dach.",
   "name": "Casino Salviati"
 }

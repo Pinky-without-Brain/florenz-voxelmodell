@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 61, Hof und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Palast tiefer liegt als Y 60, füllst du mit Bruchstein bis Y 60 auf; höher liegendes Gelände wurde bis Y 60 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 60 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Der Bau begann 1289 für den Kaufmann und Politiker Geri Spini (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 61 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Im Erdgeschoss liegt eine Loggia, in der heute Schaufenster stehen (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "hof": {
+      "title": "Hof",
+      "description": "Der Hof bleibt offen; sein Boden aus Pflaster, Marmor und Pietra serena liegt auf Y 61. Vier Türen aus dem Erdgeschoss führen hinein.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Der Palast steht in gotischem Stil mit unverputzter Steinfassade (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt vom Erdgeschoss bis ins oberste Geschoss (Y 91).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Der Palast hat drei Geschosse, bekrönt von einem Ballatoio auf Konsolen (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    }
+  }
+}

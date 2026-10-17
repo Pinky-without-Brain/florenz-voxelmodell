@@ -1,7 +1,7 @@
 {
   "id": "r4101354",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "casa_a_schiera",
+  "epoche": "14. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -32,18 +32,20 @@
       "laeden": "gruen"
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "sporti_reihe"
+    ]
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Gaddi_(Firenze)",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia belegt: Gebäude des 14. Jh., dessen mittelalterliches Erscheinungsbild von einer Reihe auskragender Sporti (Konsolvorbauten) geprägt ist. Annahme: alle übrigen Merkmale (Achsen, Farbe, Fenster, Erdgeschoss, Dach) bleiben typologische Schätzung.",
   "name": "Palazzo Gaddi"
 }

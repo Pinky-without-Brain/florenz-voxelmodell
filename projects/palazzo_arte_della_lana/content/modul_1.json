@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Außenwände und Fenster",
+  "subtitle": "Bautüte 1: Quader, gewölbte Fenster, Portale",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwand",
+      "description": "Die Außenwand ist 2 Blöcke dick: außen Quader aus Pietra forte (jede dritte Lage rustiziert), innen Putz. Zwei Portale: an der Via Calimala im Westen und an der Via dell’Arte della Lana im Osten, 5 Blöcke breit, bis zum Boden offen.",
+      "tip": "Setze zuerst die Wand, dann schneide Portale und Fenster aus.",
+      "caution": "Die Wand folgt dem gedrehten Umriss; die Ecken sind Treppenlinien.",
+      "fact": "Quaderverkleidung („filaretto“) und Zinnen auf Konsolen: it.wikipedia „Palazzo dell’Arte della Lana“; Umriss aus OpenStreetMap (Way 95537272)."
+    },
+    "fenster": {
+      "title": "Gewölbte Fenster",
+      "description": "Fünf Geschosse mit Fenstern im Abstand von 8 Blöcken (3 breit, oben gerundet); ab dem ersten Obergeschoss mit Mittelsäule als Biphore. Alle Fenster sind verglast.",
+      "tip": "Das Glas steht in der Mittelebene der Wand.",
+      "caution": "Spitzbögen sind in der Palette nicht darstellbar; die Fenster sind rundbogig.",
+      "fact": "Gewölbte Fenster an der Via dell’Arte della Lana: it.wikipedia „Palazzo dell’Arte della Lana“; Umriss aus OpenStreetMap (Way 95537272)."
+    },
+    "kranzgesims": {
+      "title": "Gesims",
+      "description": "Die beiden obersten Lagen der Wand bilden ein Gesims aus Pietra serena.",
+      "tip": "Es trägt die Zinnen.",
+      "caution": "Die Konsolen (Beccatelli) sind nicht einzeln gebaut.",
+      "fact": "Gesimse und Zinnen auf Beccatelli: it.wikipedia „Palazzo dell’Arte della Lana“; Umriss aus OpenStreetMap (Way 95537272)."
+    },
+    "bruecke_tuer": {
+      "title": "Tür zur Brücke",
+      "description": "Im vierten Obergeschoss liegt in der Ostwand eine Nische, 4 Blöcke breit und 4 hoch, mit geschlossenem Holztürblatt zwischen Pfeilern aus Pietra serena; sie ist die Stelle, an der die Brücke von Orsanmichele ankommt.",
+      "tip": "Das Türblatt sitzt in der äußeren Wandlage, davor bleibt eine Luftzelle.",
+      "caution": "Orsanmichele hat an seinem Westende keine Öffnung zur Brücke; deshalb ist die Tür im Modell blind.",
+      "fact": "1569 ließ Cosimo I. nach einem Entwurf Buontalentis einen Verbindungsbau zu den Obergeschossen von Orsanmichele errichten (Quelle: it.wikipedia „Palazzo dell’Arte della Lana“; Umriss aus OpenStreetMap (Way 95537272).)."
+    }
+  }
+}

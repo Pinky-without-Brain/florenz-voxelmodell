@@ -1,0 +1,29 @@
+{
+  "module": 2,
+  "title": "Mauern, Decke und Apsis",
+  "subtitle": "Bautüte 2: Schiff, Triumphbogen, Apsis",
+  "icon": "🧱",
+  "parts": {
+    "aussenwaende": {
+      "title": "Mauern und Triumphbogen",
+      "description": "Seiten- und Ostwand sind 2 Blöcke dick (außen Pietra forte, innen Putz). Eine Querwand mit einem 8 Blöcke breiten Rundbogen trennt das Schiff von der quadratischen Apsis.",
+      "tip": "Lasse den Bogen frei, bevor du die Querwand schließt.",
+      "caution": "Neben der Apsis sind die Mauern massiv; hier gibt es keine Räume.",
+      "fact": "Einschiffig mit quadratischer Apsis: belegt. Alle Maße sind Stufe C."
+    },
+    "decke": {
+      "title": "Schiffsdecke",
+      "description": "Über dem Schiff liegt eine flache Decke aus Putz mit Holzbalken im Abstand von 3 Blöcken.",
+      "tip": "Baue die Decke in einem Zug von Westen nach Osten.",
+      "caution": "Die Decke des Schiffs ist in der Quelle nicht beschrieben; eine Kassettendecke ist nicht belegt und fehlt.",
+      "fact": "Vereinfacht, Stufe C."
+    },
+    "gewoelbe_apsis": {
+      "title": "Tonnengewölbe der Apsis",
+      "description": "Die Apsis hat ein leicht gesenktes Tonnengewölbe, innen blau gefasst; darüber ist der Raum bis zum Dach massiv gefüllt.",
+      "tip": "Baue das Gewölbe von den Kämpfern zum Scheitel.",
+      "caution": "Das Gewölbe ist in der Quelle als freskiert beschrieben; die Malerei ist nicht bekannt und nur als blaue Fläche angedeutet.",
+      "fact": "Belegt: Tonnengewölbe, leicht gesenkt, mit Fresken (it.wikipedia)."
+    }
+  }
+}

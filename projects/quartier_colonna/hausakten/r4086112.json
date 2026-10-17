@@ -1,7 +1,7 @@
 {
   "id": "r4086112",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41",
   "geschosse": [
     {
       "art": "eg",
@@ -22,7 +22,7 @@
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
@@ -35,15 +35,19 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "balkon_ueber_portal",
+      "wappen_gross_1707",
+      "gedenktafel_1894"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: Bau ab etwa 1700 (Carlo oder Francesco Fontana zugeschrieben), U-förmiger Grundriss, Straßenfront in florentinischer Tradition mit gerahmtem Mittelportal, kleinem vorkragenden Balkon und großem Wappen (1707 gesetzt), Gartenfassade 1736-41 mit tiefer Portikus, Gedenktafel von 1894 für Gino Capponi und Giuseppe Giusti. Annahme: Geschosse (OSM-Höhe), Achsen, Material, Fensterform, Gesims, Dach.",
   "name": "Palazzo di Gino Capponi"
 }

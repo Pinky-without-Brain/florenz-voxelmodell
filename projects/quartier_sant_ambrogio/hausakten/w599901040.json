@@ -1,7 +1,7 @@
 {
   "id": "w599901040",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "ab 13. Jh. gotisch, Fassade 1880 neugotisch",
   "geschosse": [
     {
       "art": "eg",
@@ -20,7 +20,7 @@
     "kanten": "strasse",
     "achsen": 2,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "weiss",
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
@@ -35,15 +35,17 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "campanile"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Neubau im späten 13. Jh. in gotischen Formen, Fassade 1880 neugotisch erneuert, schlicht und schmucklos in weißem Putz (intonaco bianco), Glockenturm vorhanden, Vollendung 1888. Annahme: Portalform, Giebel und Dach.",
   "name": "Sant'Ambrogio"
 }

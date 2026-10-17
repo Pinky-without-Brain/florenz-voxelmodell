@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 76.110 |
+| Blöcke | 76.212 |
 | Bauschritte | 52 |
 | Y-Bereich | 54 bis 100 |
 | X-Ausdehnung | -2143 bis -1968 (176 Blöcke) |
 | Z-Ausdehnung | -747 bis -564 (184 Blöcke) |
 | Kleinster Schritt | 744 Blöcke (Schritt 37.5) |
-| Mittlerer Schritt | 1.464 Blöcke |
+| Mittlerer Schritt | 1.466 Blöcke |
 | Größter Schritt | 1.925 Blöcke (Schritt 37.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 24.954 | 32,8 % |
-| Rosa Keramik | `pink_terracotta` | 18.026 | 23,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 12.909 | 17,0 % |
+| Terrakotta | `terracotta` | 24.954 | 32,7 % |
+| Rosa Keramik | `pink_terracotta` | 18.288 | 24,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 12.909 | 16,9 % |
 | Polierter Tuffstein | `polished_tuff` | 8.351 | 11,0 % |
-| Weißer Beton | `white_concrete` | 5.070 | 6,7 % |
-| Glatter Stein | `smooth_stone` | 2.254 | 3,0 % |
+| Weißer Beton | `white_concrete` | 4.691 | 6,2 % |
+| Glatter Stein | `smooth_stone` | 2.674 | 3,5 % |
 | Tuffstein | `tuff` | 1.925 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 1.246 | 1,6 % |
-| Polierter Andesit | `polished_andesite` | 680 | 0,9 % |
+| Graues Buntglas | `gray_stained_glass` | 1.060 | 1,4 % |
+| Polierter Andesit | `polished_andesite` | 661 | 0,9 % |
 | Ziegelsteine | `bricks` | 451 | 0,6 % |
 | Seelaterne | `sea_lantern` | 120 | 0,2 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 44 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 25 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 5 | 0,0 % |
@@ -45,15 +45,15 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 80 |
+| Steintreppe | `stone_stairs` | 84 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1617032` | Palazzo Venturi Ginori | 37.259 | 37.1–37.25 |
-| 2 | `r1617032_innen` | Palazzo Venturi Ginori: Innenausbau | 9.388 | 37.26–37.31 |
+| 1 | `r1617032` | Palazzo Venturi Ginori | 37.353 | 37.1–37.25 |
+| 2 | `r1617032_innen` | Palazzo Venturi Ginori: Innenausbau | 9.396 | 37.26–37.31 |
 | 3 | `w306222204` | Palazzo des Cinquecento an Via della Scala | 24.506 | 37.32–37.48 |
 | 4 | `w306222204_innen` | Palazzo des Cinquecento an Via della Scala: Innenausbau | 4.957 | 37.49–37.52 |
 
@@ -73,7 +73,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -85,7 +85,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.2 – Palazzo Venturi Ginori – Teil 2/25 (Y 57–57)
 
@@ -101,7 +101,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -113,7 +113,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.3 – Palazzo Venturi Ginori – Teil 3/25 (Y 57–57)
 
@@ -129,7 +129,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -141,7 +141,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.4 – Palazzo Venturi Ginori – Teil 4/25 (Y 57–57)
 
@@ -157,7 +157,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -169,7 +169,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.5 – Palazzo Venturi Ginori – Teil 5/25 (Y 58–58)
 
@@ -182,13 +182,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 726 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Polierter Andesit | `polished_andesite` | 14 |
 | Glatter Stein | `smooth_stone` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -200,12 +200,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.6 – Palazzo Venturi Ginori – Teil 6/25 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 807
+- **Blöcke:** 805
 - **Bauteile:** `r1617032`
 
 **Teileliste**
@@ -213,13 +213,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 642 |
-| Weißer Beton | `white_concrete` | 155 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Weißer Beton | `white_concrete` | 153 |
+| Polierter Andesit | `polished_andesite` | 5 |
 | Glatter Stein | `smooth_stone` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -231,20 +232,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.7 – Palazzo Venturi Ginori – Teil 7/25 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.547
+- **Blöcke:** 1.545
 - **Bauteile:** `r1617032`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.162 |
-| Weißer Beton | `white_concrete` | 312 |
+| Rosa Keramik | `pink_terracotta` | 1.163 |
+| Weißer Beton | `white_concrete` | 309 |
 | Graues Buntglas | `gray_stained_glass` | 45 |
 | Polierter Andesit | `polished_andesite` | 19 |
 | Glatter Stein | `smooth_stone` | 6 |
@@ -252,7 +253,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -264,28 +265,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.8 – Palazzo Venturi Ginori – Teil 8/25 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
-- **Blöcke:** 1.452
+- **Blöcke:** 1.454
 - **Bauteile:** `r1617032`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.142 |
+| Rosa Keramik | `pink_terracotta` | 1.144 |
 | Weißer Beton | `white_concrete` | 184 |
 | Graues Buntglas | `gray_stained_glass` | 90 |
-| Polierter Andesit | `polished_andesite` | 22 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Polierter Andesit | `polished_andesite` | 23 |
 | Tuffsteinziegel | `tuff_bricks` | 7 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -297,26 +298,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.9 – Palazzo Venturi Ginori – Teil 9/25 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.476
+- **Blöcke:** 1.500
 - **Bauteile:** `r1617032`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.186 |
-| Weißer Beton | `white_concrete` | 229 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
+| Rosa Keramik | `pink_terracotta` | 1.347 |
+| Weißer Beton | `white_concrete` | 137 |
 | Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -328,7 +328,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.10 – Palazzo Venturi Ginori – Teil 10/25 (Y 66–67)
 
@@ -340,13 +340,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.071 |
+| Rosa Keramik | `pink_terracotta` | 1.079 |
 | Glatter Stein | `smooth_stone` | 417 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -358,7 +358,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.11 – Palazzo Venturi Ginori – Teil 11/25 (Y 68–69)
 
@@ -370,13 +370,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.343 |
-| Weißer Beton | `white_concrete` | 141 |
+| Rosa Keramik | `pink_terracotta` | 1.484 |
 | Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -388,26 +387,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.12 – Palazzo Venturi Ginori – Teil 12/25 (Y 70–71)
 
 - **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.452
+- **Blöcke:** 1.500
 - **Bauteile:** `r1617032`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.154 |
-| Weißer Beton | `white_concrete` | 188 |
-| Graues Buntglas | `gray_stained_glass` | 94 |
-| Polierter Andesit | `polished_andesite` | 16 |
+| Rosa Keramik | `pink_terracotta` | 1.079 |
+| Glatter Stein | `smooth_stone` | 417 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -419,42 +417,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.13 – Palazzo Venturi Ginori – Teil 13/25 (Y 72–73)
 
 - **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.452
-- **Bauteile:** `r1617032`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.154 |
-| Weißer Beton | `white_concrete` | 188 |
-| Graues Buntglas | `gray_stained_glass` | 94 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 37.14 – Palazzo Venturi Ginori – Teil 14/25 (Y 74–75)
-
-- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.476
 - **Bauteile:** `r1617032`
 
@@ -469,7 +436,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -481,72 +448,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 37.15 – Palazzo Venturi Ginori – Teil 15/25 (Y 76–77)
+### Schritt 37.14 – Palazzo Venturi Ginori – Teil 14/25 (Y 74–75)
 
-- **Y-Bereich:** 76 bis 77
-- **Blöcke:** 1.500
-- **Bauteile:** `r1617032`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 834 |
-| Glatter Stein | `smooth_stone` | 417 |
-| Weißer Beton | `white_concrete` | 237 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 37.16 – Palazzo Venturi Ginori – Teil 16/25 (Y 78–79)
-
-- **Y-Bereich:** 78 bis 79
-- **Blöcke:** 1.500
-- **Bauteile:** `r1617032`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.343 |
-| Weißer Beton | `white_concrete` | 141 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 37.17 – Palazzo Venturi Ginori – Teil 17/25 (Y 80–81)
-
-- **Y-Bereich:** 80 bis 81
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.452
 - **Bauteile:** `r1617032`
 
@@ -561,7 +467,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -573,7 +479,99 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 37.15 – Palazzo Venturi Ginori – Teil 15/25 (Y 76–77)
+
+- **Y-Bereich:** 76 bis 77
+- **Blöcke:** 1.476
+- **Bauteile:** `r1617032`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.178 |
+| Weißer Beton | `white_concrete` | 235 |
+| Graues Buntglas | `gray_stained_glass` | 47 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 37.16 – Palazzo Venturi Ginori – Teil 16/25 (Y 78–79)
+
+- **Y-Bereich:** 78 bis 79
+- **Blöcke:** 1.500
+- **Bauteile:** `r1617032`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 834 |
+| Glatter Stein | `smooth_stone` | 417 |
+| Weißer Beton | `white_concrete` | 237 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 37.17 – Palazzo Venturi Ginori – Teil 17/25 (Y 80–81)
+
+- **Y-Bereich:** 80 bis 81
+- **Blöcke:** 1.500
+- **Bauteile:** `r1617032`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.343 |
+| Weißer Beton | `white_concrete` | 141 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.18 – Palazzo Venturi Ginori – Teil 18/25 (Y 82–83)
 
@@ -592,7 +590,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -604,7 +602,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.19 – Palazzo Venturi Ginori – Teil 19/25 (Y 84–85)
 
@@ -623,7 +621,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -635,7 +633,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.20 – Palazzo Venturi Ginori – Teil 20/25 (Y 86–87)
 
@@ -653,7 +651,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -665,7 +663,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.21 – Palazzo Venturi Ginori – Teil 21/25 (Y 88–88)
 
@@ -681,7 +679,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -693,7 +691,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.22 – Palazzo Venturi Ginori – Teil 22/25 (Y 89–89)
 
@@ -709,7 +707,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -721,7 +719,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.23 – Palazzo Venturi Ginori – Teil 23/25 (Y 90–90)
 
@@ -737,7 +735,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -749,7 +747,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.24 – Palazzo Venturi Ginori – Teil 24/25 (Y 91–92)
 
@@ -766,7 +764,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -778,7 +776,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 37.25 – Palazzo Venturi Ginori – Teil 25/25 (Y 93–100)
 
@@ -795,7 +793,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1498 (Rucellai); Fassade Via della Scala 1679 (P. F. Silvani); 19. Jh. Poggi), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_Ginori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -807,12 +805,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 37.26 – Palazzo Venturi Ginori: Innenausbau – Teil 1/6 (Y 57–67)
+### Schritt 37.26 – Palazzo Venturi Ginori: Innenausbau – Teil 1/6 (Y 57–70)
 
-- **Y-Bereich:** 57 bis 67
-- **Blöcke:** 1.634
+- **Y-Bereich:** 57 bis 70
+- **Blöcke:** 1.646
 - **Bauteile:** `r1617032_innen`
 
 **Teileliste**
@@ -821,15 +819,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.554 |
 | Seelaterne | `sea_lantern` | 34 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Glatter Stein | `smooth_stone` | 32 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 14 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 26 |
 
 **Beschreibung**
 
@@ -847,9 +845,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.27 – Palazzo Venturi Ginori: Innenausbau – Teil 2/6 (Y 67–67)
+### Schritt 37.27 – Palazzo Venturi Ginori: Innenausbau – Teil 2/6 (Y 70–70)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.538
 - **Bauteile:** `r1617032_innen`
 
@@ -876,9 +874,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.28 – Palazzo Venturi Ginori: Innenausbau – Teil 3/6 (Y 67–67)
+### Schritt 37.28 – Palazzo Venturi Ginori: Innenausbau – Teil 3/6 (Y 70–70)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.530
 - **Bauteile:** `r1617032_innen`
 
@@ -905,10 +903,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.29 – Palazzo Venturi Ginori: Innenausbau – Teil 4/6 (Y 68–77)
+### Schritt 37.29 – Palazzo Venturi Ginori: Innenausbau – Teil 4/6 (Y 71–79)
 
-- **Y-Bereich:** 68 bis 77
-- **Blöcke:** 1.613
+- **Y-Bereich:** 71 bis 79
+- **Blöcke:** 1.609
 - **Bauteile:** `r1617032_innen`
 
 **Teileliste**
@@ -916,10 +914,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.554 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 24 |
 | Seelaterne | `sea_lantern` | 10 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -928,7 +926,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 18 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -947,9 +945,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.30 – Palazzo Venturi Ginori: Innenausbau – Teil 5/6 (Y 77–77)
+### Schritt 37.30 – Palazzo Venturi Ginori: Innenausbau – Teil 5/6 (Y 79–79)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.538
 - **Bauteile:** `r1617032_innen`
 
@@ -976,9 +974,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.31 – Palazzo Venturi Ginori: Innenausbau – Teil 6/6 (Y 77–78)
+### Schritt 37.31 – Palazzo Venturi Ginori: Innenausbau – Teil 6/6 (Y 79–80)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.535
 - **Bauteile:** `r1617032_innen`
 

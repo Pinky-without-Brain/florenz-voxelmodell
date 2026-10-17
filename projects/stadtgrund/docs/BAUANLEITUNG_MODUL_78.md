@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 184.956 |
+| Blöcke | 185.066 |
 | Bauschritte | 105 |
 | Y-Bereich | 38 bis 62 |
 | X-Ausdehnung | -2144 bis -1825 (320 Blöcke) |
 | Z-Ausdehnung | 112 bis 431 (320 Blöcke) |
 | Kleinster Schritt | 710 Blöcke (Schritt 78.105) |
-| Mittlerer Schritt | 1.761 Blöcke |
+| Mittlerer Schritt | 1.763 Blöcke |
 | Größter Schritt | 2.096 Blöcke (Schritt 78.46) |
 
 ## Gesamt-Stückliste
@@ -23,11 +23,11 @@
 | :--- | :--- | ---: | ---: |
 | Wasser | `water` | 98.764 | 53,4 % |
 | Kies | `gravel` | 49.382 | 26,7 % |
-| Polierter Tuffstein | `polished_tuff` | 17.613 | 9,5 % |
-| Glatter Stein | `smooth_stone` | 7.097 | 3,8 % |
+| Polierter Tuffstein | `polished_tuff` | 17.614 | 9,5 % |
+| Glatter Stein | `smooth_stone` | 7.101 | 3,8 % |
 | Polierter Andesit | `polished_andesite` | 5.138 | 2,8 % |
+| Stein | `stone` | 3.466 | 1,9 % |
 | Grasblock | `grass_block` | 3.445 | 1,9 % |
-| Stein | `stone` | 3.361 | 1,8 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 73 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 43 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 11 | 0,0 % |
@@ -48,13 +48,13 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 7.583 | 78.1–78.5 |
+| 1 | `boeschung` | Böschung und Mantel | 7.688 | 78.1–78.5 |
 | 2 | `arno_bett` | Flussbett | 49.382 | 78.6–78.34 |
 | 3 | `arno_wasser` | Arno | 98.764 | 78.34–78.86 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 10.296 | 78.86–78.92 |
-| 5 | `gehwege` | Gehwege | 5.728 | 78.93–78.96 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 10.292 | 78.86–78.92 |
+| 5 | `gehwege` | Gehwege | 5.731 | 78.93–78.96 |
 | 6 | `stufen` | Treppenflächen | 156 | 78.97 |
-| 7 | `plaetze_pflaster` | Plätze | 6.436 | 78.97–78.100 |
+| 7 | `plaetze_pflaster` | Plätze | 6.442 | 78.97–78.100 |
 | 8 | `hof_pflaster` | Höfe | 1.596 | 78.101 |
 | 9 | `rasen` | Grün und offenes Gelände | 4.305 | 78.102–78.104 |
 | 10 | `ufer_bruestung` | Brüstung der Lungarni | 710 | 78.105 |
@@ -122,14 +122,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 78.3 – Böschung und Mantel – Teil 3/5 (Y 54–55)
 
 - **Y-Bereich:** 54 bis 55
-- **Blöcke:** 1.407
+- **Blöcke:** 1.521
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 732 |
+| Stein | `stone` | 846 |
 | Polierter Andesit | `polished_andesite` | 675 |
 
 **Beschreibung**
@@ -151,14 +151,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 78.4 – Böschung und Mantel – Teil 4/5 (Y 56–57)
 
 - **Y-Bereich:** 56 bis 57
-- **Blöcke:** 1.833
+- **Blöcke:** 1.824
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.198 |
+| Stein | `stone` | 1.189 |
 | Polierter Andesit | `polished_andesite` | 635 |
 
 **Beschreibung**
@@ -2450,14 +2450,14 @@ Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Me
 ### Schritt 78.86 – Arno – Teil 53/53 (Y 52–52) & Straßenpflaster – Teil 1/7 (Y 54–55)
 
 - **Y-Bereich:** 52 bis 55
-- **Blöcke:** 1.629
+- **Blöcke:** 1.625
 - **Bauteile:** `arno_wasser`, `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.363 |
+| Polierter Tuffstein | `polished_tuff` | 1.359 |
 | Wasser | `water` | 266 |
 
 **Beschreibung**
@@ -2648,14 +2648,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 78.93 – Gehwege – Teil 1/4 (Y 54–57)
 
 - **Y-Bereich:** 54 bis 57
-- **Blöcke:** 899
+- **Blöcke:** 902
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 896 |
+| Glatter Stein | `smooth_stone` | 899 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -2764,15 +2764,15 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 78.97 – Treppenflächen & Plätze – Teil 1/4 (Y 55–56)
 
 - **Y-Bereich:** 55 bis 59
-- **Blöcke:** 1.691
+- **Blöcke:** 1.697
 - **Bauteile:** `stufen`, `plaetze_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.400 |
-| Glatter Stein | `smooth_stone` | 135 |
+| Polierter Tuffstein | `polished_tuff` | 1.405 |
+| Glatter Stein | `smooth_stone` | 136 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 73 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 43 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 11 |

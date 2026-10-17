@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den Block bis Y 96: schlichte weiße Putzfassaden mit Sockel aus Bruchstein und ockerfarbenen Bändern, zur Via XXVII Aprile das Portal des Museums, an der Via San Gallo das Kirchenportal und an der Via Santa Reparata der Eingang der Mensa. Gesimse trennen die Geschosse (Y 84).",
+      "tip": "Zwei Blöcke dick: außen Putz oder Stein, innen Putz.",
+      "caution": "Lass Portale und Tore frei.",
+      "fact": "Ein Teil des Klosters wurde abgerissen, um die Via XXVII Aprile zu öffnen; 1863 wurde es militärisch genutzt, 1866 kam es in Staatsbesitz (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Im Erdgeschoss sitzen hohe Fenster (Y 72 bis 80), im Obergeschoss etwas niedrigere (Y 87 bis 93); sie folgen einem festen Raster von 9 Blöcken entlang jeder Wand. Die Fensterreihe an der Straße gehört zum Refektorium.",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims die Fassade ab (Y 95 bis Y 96).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Ein Kranzgesims schließt florentiner Fassaden nach oben ab."
+    }
+  }
+}

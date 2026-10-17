@@ -8,34 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 17.195 |
-| Bauschritte | 10 |
+| Blöcke | 16.692 |
+| Bauschritte | 9 |
 | Y-Bereich | 61 bis 124 |
-| X-Ausdehnung | -877 bis -847 (31 Blöcke) |
-| Z-Ausdehnung | 1233 bis 1274 (42 Blöcke) |
-| Kleinster Schritt | 1.591 Blöcke (Schritt 7.9) |
-| Mittlerer Schritt | 1.720 Blöcke |
-| Größter Schritt | 1.862 Blöcke (Schritt 7.8) |
+| X-Ausdehnung | -875 bis -849 (27 Blöcke) |
+| Z-Ausdehnung | 1235 bis 1272 (38 Blöcke) |
+| Kleinster Schritt | 1.591 Blöcke (Schritt 7.8) |
+| Mittlerer Schritt | 1.855 Blöcke |
+| Größter Schritt | 2.089 Blöcke (Schritt 7.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 8.276 | 48,1 % |
-| Terrakotta | `terracotta` | 3.971 | 23,1 % |
-| Glatter Stein | `smooth_stone` | 1.817 | 10,6 % |
-| Graues Buntglas | `gray_stained_glass` | 1.077 | 6,3 % |
-| Polierter Tuffstein | `polished_tuff` | 711 | 4,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 689 | 4,0 % |
-| Fichtenholz-Bretter | `spruce_planks` | 238 | 1,4 % |
+| Tuffstein | `tuff` | 9.794 | 58,7 % |
+| Terrakotta | `terracotta` | 3.775 | 22,6 % |
+| Graues Buntglas | `gray_stained_glass` | 996 | 6,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 983 | 5,9 % |
+| Polierter Tuffstein | `polished_tuff` | 711 | 4,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 141 | 0,8 % |
 | Ziegelsteine | `bricks` | 87 | 0,5 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 52 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 50 | 0,3 % |
 | Seelaterne | `sea_lantern` | 21 | 0,1 % |
+| Glatter Stein | `smooth_stone` | 21 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 18 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 18 | 0,1 % |
-| Polierter Andesit | `polished_andesite` | 16 | 0,1 % |
+| Polierter Andesit | `polished_andesite` | 12 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 5 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
@@ -51,32 +50,31 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118129784` | Torre dei Ramaglianti | 14.002 | 7.1–7.8 |
-| 2 | `w118129784_innen` | Torre dei Ramaglianti: Innenausbau | 3.190 | 7.9–7.10 |
-| 3 | `strassenschilder` | Straßenschilder | 3 | 7.10 |
+| 1 | `w118129784` | Torre dei Ramaglianti | 13.499 | 7.1–7.7 |
+| 2 | `w118129784_innen` | Torre dei Ramaglianti: Innenausbau | 3.190 | 7.8–7.9 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 7.9 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Torre dei Ramaglianti – Teil 1/8 (Y 61–66)
+### Schritt 7.1 – Torre dei Ramaglianti – Teil 1/7 (Y 61–67)
 
-- **Y-Bereich:** 61 bis 66
-- **Blöcke:** 1.746
+- **Y-Bereich:** 61 bis 67
+- **Blöcke:** 1.995
 - **Bauteile:** `w118129784`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 782 |
+| Tuffstein | `tuff` | 1.149 |
 | Polierter Tuffstein | `polished_tuff` | 711 |
-| Glatter Stein | `smooth_stone` | 123 |
-| Tuffsteinziegel | `tuff_bricks` | 67 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Tuffsteinziegel | `tuff_bricks` | 117 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 7 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (13. Jh. (Ramaglianti-Turm); 1944 gesprengt und konsolidiert), 7 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ramaglianti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -88,27 +86,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.2 – Torre dei Ramaglianti – Teil 2/8 (Y 67–74)
+### Schritt 7.2 – Torre dei Ramaglianti – Teil 2/7 (Y 68–76)
 
-- **Y-Bereich:** 67 bis 74
-- **Blöcke:** 1.702
+- **Y-Bereich:** 68 bis 76
+- **Blöcke:** 1.861
 - **Bauteile:** `w118129784`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.240 |
-| Glatter Stein | `smooth_stone` | 230 |
-| Tuffsteinziegel | `tuff_bricks` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 111 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Tuffstein | `tuff` | 1.524 |
+| Graues Buntglas | `gray_stained_glass` | 166 |
+| Tuffsteinziegel | `tuff_bricks` | 156 |
+| Glatter Stein | `smooth_stone` | 9 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 7 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (13. Jh. (Ramaglianti-Turm); 1944 gesprengt und konsolidiert), 7 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ramaglianti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -120,26 +118,115 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.3 – Torre dei Ramaglianti – Teil 3/8 (Y 75–83)
+### Schritt 7.3 – Torre dei Ramaglianti – Teil 3/7 (Y 77–85)
 
-- **Y-Bereich:** 75 bis 83
-- **Blöcke:** 1.850
+- **Y-Bereich:** 77 bis 85
+- **Blöcke:** 1.866
 - **Bauteile:** `w118129784`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.255 |
-| Glatter Stein | `smooth_stone` | 295 |
+| Tuffstein | `tuff` | 1.543 |
+| Graues Buntglas | `gray_stained_glass` | 166 |
+| Tuffsteinziegel | `tuff_bricks` | 157 |
+
+**Beschreibung**
+
+Wohnturm (13. Jh. (Ramaglianti-Turm); 1944 gesprengt und konsolidiert), 7 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ramaglianti, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 7.4 – Torre dei Ramaglianti – Teil 4/7 (Y 86–95)
+
+- **Y-Bereich:** 86 bis 95
+- **Blöcke:** 2.089
+- **Bauteile:** `w118129784`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.752 |
+| Tuffsteinziegel | `tuff_bricks` | 171 |
+| Graues Buntglas | `gray_stained_glass` | 166 |
+
+**Beschreibung**
+
+Wohnturm (13. Jh. (Ramaglianti-Turm); 1944 gesprengt und konsolidiert), 7 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ramaglianti, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 7.5 – Torre dei Ramaglianti – Teil 5/7 (Y 96–104)
+
+- **Y-Bereich:** 96 bis 104
+- **Blöcke:** 1.866
+- **Bauteile:** `w118129784`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.541 |
+| Graues Buntglas | `gray_stained_glass` | 166 |
+| Tuffsteinziegel | `tuff_bricks` | 159 |
+
+**Beschreibung**
+
+Wohnturm (13. Jh. (Ramaglianti-Turm); 1944 gesprengt und konsolidiert), 7 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ramaglianti, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 7.6 – Torre dei Ramaglianti – Teil 6/7 (Y 105–113)
+
+- **Y-Bereich:** 105 bis 113
+- **Blöcke:** 1.830
+- **Bauteile:** `w118129784`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.480 |
 | Graues Buntglas | `gray_stained_glass` | 208 |
-| Tuffsteinziegel | `tuff_bricks` | 92 |
+| Tuffsteinziegel | `tuff_bricks` | 142 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 7 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (13. Jh. (Ramaglianti-Turm); 1944 gesprengt und konsolidiert), 7 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ramaglianti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -151,152 +238,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.4 – Torre dei Ramaglianti – Teil 4/8 (Y 84–91)
+### Schritt 7.7 – Torre dei Ramaglianti – Teil 7/7 (Y 114–124)
 
-- **Y-Bereich:** 84 bis 91
-- **Blöcke:** 1.663
+- **Y-Bereich:** 114 bis 124
+- **Blöcke:** 1.992
 - **Bauteile:** `w118129784`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.130 |
-| Glatter Stein | `smooth_stone` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 166 |
-| Tuffsteinziegel | `tuff_bricks` | 99 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 7 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.5 – Torre dei Ramaglianti – Teil 5/8 (Y 92–100)
-
-- **Y-Bereich:** 92 bis 100
-- **Blöcke:** 1.853
-- **Bauteile:** `w118129784`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.253 |
-| Glatter Stein | `smooth_stone` | 298 |
-| Graues Buntglas | `gray_stained_glass` | 206 |
-| Tuffsteinziegel | `tuff_bricks` | 96 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 7 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.6 – Torre dei Ramaglianti – Teil 6/8 (Y 101–108)
-
-- **Y-Bereich:** 101 bis 108
-- **Blöcke:** 1.663
-- **Bauteile:** `w118129784`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.125 |
-| Glatter Stein | `smooth_stone` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 166 |
-| Tuffsteinziegel | `tuff_bricks` | 104 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 7 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.7 – Torre dei Ramaglianti – Teil 7/8 (Y 109–116)
-
-- **Y-Bereich:** 109 bis 116
-- **Blöcke:** 1.663
-- **Bauteile:** `w118129784`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.143 |
-| Glatter Stein | `smooth_stone` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 166 |
-| Tuffsteinziegel | `tuff_bricks` | 86 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 7 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.8 – Torre dei Ramaglianti – Teil 8/8 (Y 117–124)
-
-- **Y-Bereich:** 117 bis 124
-- **Blöcke:** 1.862
-- **Bauteile:** `w118129784`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.091 |
-| Tuffstein | `tuff` | 348 |
-| Fichtenholz-Bretter | `spruce_planks` | 238 |
+| Terrakotta | `terracotta` | 895 |
+| Tuffstein | `tuff` | 805 |
+| Graues Buntglas | `gray_stained_glass` | 124 |
 | Ziegelsteine | `bricks` | 87 |
-| Glatter Stein | `smooth_stone` | 67 |
-| Tuffsteinziegel | `tuff_bricks` | 31 |
+| Tuffsteinziegel | `tuff_bricks` | 81 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 7 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (13. Jh. (Ramaglianti-Turm); 1944 gesprengt und konsolidiert), 7 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ramaglianti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -308,9 +270,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.9 – Torre dei Ramaglianti: Innenausbau – Teil 1/2 (Y 61–86)
+### Schritt 7.8 – Torre dei Ramaglianti: Innenausbau – Teil 1/2 (Y 61–86)
 
 - **Y-Bereich:** 61 bis 86
 - **Blöcke:** 1.591
@@ -352,7 +314,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.10 – Torre dei Ramaglianti: Innenausbau – Teil 2/2 (Y 87–111) & Straßenschilder
+### Schritt 7.9 – Torre dei Ramaglianti: Innenausbau – Teil 2/2 (Y 87–111) & Straßenschilder
 
 - **Y-Bereich:** 68 bis 111
 - **Blöcke:** 1.602

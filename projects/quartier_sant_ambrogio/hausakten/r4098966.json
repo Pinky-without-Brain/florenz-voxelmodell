@@ -1,7 +1,7 @@
 {
   "id": "r4098966",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "18. Jh. (Fassade 1773 von Girolamo Bartolommei vereinheitlicht)",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,17 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "einfahrt_via_fiesolana"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei-De_Rossi",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia belegt: nüchterne Fassadendekoration des 18. Jh., Gebäude 1773 von Marchese Girolamo Bartolommei erworben und die Front vereinheitlicht, Wageneinfahrt an der Via Fiesolana zum Hof. Annahme: alle übrigen Merkmale (Geschosse, Achsen, Farbe, Fenster, Gesims, Dach).",
   "name": "Palazzo Bartolommei-De Rossi"
 }

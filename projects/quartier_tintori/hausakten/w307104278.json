@@ -1,28 +1,32 @@
 {
   "id": "w307104278",
   "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "epoche": "um 1500, Straßenfassade 19. Jh. (oberstes Geschoss aufgesetzt)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 7
     },
     {
-      "art": "og",
+      "art": "nobile",
       "hoeheBl": 7
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 5
+    },
+    {
+      "art": "og",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 2,
+    "achsen": 3,
     "material": "putz",
     "putzfarbe": "grau",
     "erdgeschoss": {
@@ -32,22 +36,27 @@
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "rahmen": "pietra_forte",
       "laeden": "holz"
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "kinderfenster",
+      "durchgang_androne",
+      "portal_im_19jh_erweitert"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_Vasari_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Ende 15./um 1500 erbaut, fünf Geschosse an der Straße (das oberste aus dem 19. Jh.), drei Achsen, Putz mit Steinrahmen aus radial versetzten Blöcken, Fenster auf Sohlbankgesimsen (am Piano nobile kräftig vorstehend), Kinderfenster unter dem mittleren Fenster des ersten Geschosses, Portal im 19. Jh. vergrößert. Annahme: Putzfarbe, Gesims und Dach.",
   "name": "Casa Vasari"
 }

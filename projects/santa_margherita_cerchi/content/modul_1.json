@@ -1,0 +1,15 @@
+{
+  "module": 1,
+  "title": "Fassade",
+  "subtitle": "Bautüte 1: Giebelfassade mit Rundbogenportal",
+  "icon": "🏛️",
+  "parts": {
+    "fassade": {
+      "title": "Fassade mit Portal und Okuli",
+      "description": "Die Westwand ist 3 Blöcke dick und besteht außen aus Quadern von Pietra forte. Das Portal (4 × 7 Blöcke) ist ein Rundbogen, bis zum Boden offen und mit Pietra serena gerahmt. Darüber sitzen zwei Okuli aus Glas: einer in der Achse des Portals, einer links davon.",
+      "tip": "Setze zuerst die Quader, dann schneide das Portal aus.",
+      "caution": "Die Okuli gehen durch alle drei Lagen der Wand.",
+      "fact": "Die Giebelfassade „a capanna“ aus Quadersteinen, das Rundbogenportal und die zwei Okuli sind belegt (it.wikipedia). Das Vordach über dem Portal fehlt im Modell."
+    }
+  }
+}

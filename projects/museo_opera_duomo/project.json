@@ -1,0 +1,11 @@
+{
+  "id": "museo_opera_duomo",
+  "title": "Museo dell'Opera del Duomo",
+  "type": "wahrzeichen",
+  "gebaeude": ["w456578419"],
+  "bodenY": 65,
+  "rahmen": { "ox": 158, "oz": -153, "thetaDeg": 33.7 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

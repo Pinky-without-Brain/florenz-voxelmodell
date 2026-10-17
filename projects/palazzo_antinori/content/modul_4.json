@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Dachziegeln deckt das Haus bis zu vier Lagen über der Traufe; darunter liegt der Dachraum.",
+      "tip": "Von der Außenkante und der Hofkante steigt das Dach lagenweise an.",
+      "caution": "Der Dachraum hat keinen Zugang.",
+      "fact": "Die Fassade wurde Anfang der 1980er Jahre unter Roberto Monsani restauriert (Quelle: it.wikipedia, Palazzo Antinori)."
+    }
+  }
+}

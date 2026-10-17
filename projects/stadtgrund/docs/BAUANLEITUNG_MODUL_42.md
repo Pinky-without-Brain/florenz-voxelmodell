@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 57.444 |
+| Blöcke | 57.464 |
 | Bauschritte | 36 |
 | Y-Bereich | 61 bis 73 |
 | X-Ausdehnung | 736 bis 1055 (320 Blöcke) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Polierter Tuffstein | `polished_tuff` | 33.254 | 57,9 % |
 | Grasblock | `grass_block` | 14.300 | 24,9 % |
-| Stein | `stone` | 7.685 | 13,4 % |
+| Stein | `stone` | 7.705 | 13,4 % |
 | Glatter Stein | `smooth_stone` | 1.878 | 3,3 % |
 | Kies | `gravel` | 177 | 0,3 % |
 | Steinziegel | `stone_bricks` | 92 | 0,2 % |
@@ -42,7 +42,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 7.551 | 42.1–42.6 |
+| 1 | `boeschung` | Böschung und Mantel | 7.571 | 42.1–42.6 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 7.457 | 42.7–42.11 |
 | 3 | `gehwege` | Gehwege | 1.855 | 42.12 |
 | 4 | `stufen` | Treppenflächen | 58 | 42.13 |
@@ -56,14 +56,14 @@
 ### Schritt 42.1 – Böschung und Mantel – Teil 1/6 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
-- **Blöcke:** 650
+- **Blöcke:** 670
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 650 |
+| Stein | `stone` | 670 |
 
 **Beschreibung**
 

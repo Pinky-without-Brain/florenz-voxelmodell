@@ -1,11 +1,11 @@
 {
   "id": "r4103612",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "1687-1737 (Silvani, Ferri, Ticciati), Barock",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
@@ -13,7 +13,11 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
@@ -32,18 +36,24 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "vorspringende_seitenfluegel",
+      "offene_mittelterrasse",
+      "attika_balustrade_mit_vasen_und_statuen",
+      "elliptische_bogenfenster"
+    ],
+    "marcapiano": "vor"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_al_Parione",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Hochbarocker Palazzo am Lungarno mit vortretenden Seitenflügeln und zurückgesetztem Mittelteil mit Terrasse, ellipsenförmig gesenkte Bogenfenster, Dachrand mit Balustrade, Vasen und Statuen, Fassade wirkt asymmetrisch, da der linke Flügel nie gebaut wurde. Annahme: Geschosszahl aus OSM, Putzfarbe.",
   "name": "Palazzo Corsini al Parione"
 }

@@ -1,0 +1,127 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Säle",
+  "subtitle": "Bautüte 6: Säle des Museums über drei Ebenen",
+  "icon": "🖼️",
+  "parts": {
+    "eingangshalle": {
+      "title": "Eingang und Corridoio dei nomi",
+      "description": "Eingangshalle im Erdgeschoss: Schachbrettboden, weiße Wandfelder mit goldenen Namensmarken (Corridoio dei nomi), Kassettendecke und die Statuengruppe „Gloria di San Giovanni Battista“ auf einem Stufensockel.",
+      "tip": "Sockel zuerst, dann die Gruppe.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Der Rundgang beginnt mit der Statuengruppe „Gloria di San Giovanni Battista“ von Girolamo Ticciati (1732), danach folgt der „Corridoio dei nomi“ (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "galleria_sculture": {
+      "title": "Galleria delle Sculture",
+      "description": "Saal im Erdgeschoss mit vier Blockfiguren auf Sockeln: Fragmente von Tino di Camaino, Donatello und Nanni di Banco aus der Porta della Mandorla.",
+      "tip": "Die Figuren stehen in zwei Reihen.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Die Galleria delle Sculture zeigt Fragmente von Tino di Camaino, Donatello und Nanni di Banco aus der Porta della Mandorla (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "tribuna_pieta": {
+      "title": "Tribuna der Pietà",
+      "description": "Saal im Erdgeschoss mit Michelangelos Pietà Bandini (1547–1555): zweistufiger Sockel aus dunklem Marmor, darauf Christus, Maria, Magdalena und Nikodemus als Blockgruppe.",
+      "tip": "Das Nikodemus-Gesicht trägt der Überlieferung nach die Züge Michelangelos.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "In der Tribuna steht die Pietà Bandini von Michelangelo (1547–1555); der Künstler soll sein Gesicht im Nikodemus dargestellt haben (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "sala_maddalena": {
+      "title": "Saal der Maddalena",
+      "description": "Saal im Erdgeschoss mit Donatellos Maddalena penitente (Holz) auf einem Sockel, einem Holzkruzifix an der Wand und einem achteckigen Kabinett mit Reliquiaren (Goldboden, acht Vitrinen).",
+      "tip": "Das Kreuz hängt in Augenhöhe.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Saal 8 zeigt Donatellos Maddalena penitente und ein Holzkruzifix (Giovanni di Balduccio, zugeschrieben); am Ende liegt eine achteckige Kapelle mit Reliquiaren (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "korridor_marmor": {
+      "title": "Korridor mit Marmorfragmenten",
+      "description": "Langer Saal im Erdgeschoss mit Schachbrettboden und fünf Marmorblöcken: Reste des 1577 entfernten Taufbeckens.",
+      "tip": "Die Blöcke sind einen Block hoch.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Ein Korridor zeigt Marmorfragmente, darunter Reste des 1577 entfernten Taufbeckens (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "sala_paradiso": {
+      "title": "Sala del Paradiso",
+      "description": "Die Halle ist zwei Geschosse hoch: Schachbrettboden aus Marmor, Kassettendecke, an der Nordwand die Replik der Fassade des Arnolfo (Farbfeld 48 × 14 mit drei Portalen, Rosette und Statuennischen, auf Hallenhöhe verkürzt), an der Nordostwand die drei Bronzeportale des Baptisteriums (Pisano, Ghiberti Nord, Ghiberti „Paradies“), davor drei Statuengruppen (Rustici, Sansovino, Danti) und Marmorfragmente der 1587 abgerissenen Fassade.",
+      "tip": "Die Halle hat zwei Zugänge von der Piazza.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "In der Sala del Paradiso stehen die drei Bronzeportale des Baptisteriums (Andrea Pisano, Ghiberti Nord, Ghiberti „Paradies“) mit drei Gruppen von Rustici, Sansovino und Danti darüber; gegenüber die 1:1-Replik der mittelalterlichen Domfassade des Arnolfo und Fragmente der 1587 abgerissenen Fassade (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "sala_navate": {
+      "title": "Sala delle Navate",
+      "description": "Saal im ersten Obergeschoss mit Tafeln auf Goldgrund (Trecento-Werke aus der Kathedrale).",
+      "tip": "Die Tafeln hängen in Augenhöhe.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Die Sala delle Navate zeigt Trecento-Werke aus der Kathedrale (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "galleria_campanile": {
+      "title": "Galleria del Campanile",
+      "description": "Saal im ersten Obergeschoss mit Reliefs (Andrea Pisano, Luca della Robbia) an der Westwand und vier Statuen auf Sockeln: Abacuc („Zuccone“), Geremia, Profeta pensieroso und Sacrificio di Isacco (Donatello).",
+      "tip": "Die Reliefs sind weiße Felder in Goldrahmen.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Die Galleria del Campanile zeigt Reliefs von Andrea Pisano und Luca della Robbia sowie Donatellos Abacuc („Zuccone“), Geremia, Profeta pensieroso und Sacrificio di Isacco (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "galleria_cupola": {
+      "title": "Galleria della Kuppel",
+      "description": "Saal im ersten Obergeschoss mit einem Modell der Kuppel (Halbkugel aus Ziegel mit Laterne) auf einem Tisch und zwei Vitrinen für die Totenmaske Brunelleschis und Werkzeuge.",
+      "tip": "Das Modell steht mitten im Saal.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Saal 15 zeigt große Modelle der Kuppel und Laterne, die Totenmaske Brunelleschis, Modelle für den Tambour und originale Werkzeuge (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "sala_cantorie": {
+      "title": "Sala delle Cantorie",
+      "description": "Saal im ersten Obergeschoss mit den beiden Cantorie (Donatello und Luca della Robbia) als Reliefbänder an der Westwand und Donatellos Creazione di Eva als Blockfigur.",
+      "tip": "Die Cantorie sind je 14 Blöcke breit.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Im Nebenraum der Sala delle Navate stehen die Cantorie von Donatello und Luca della Robbia sowie Donatellos Creazione di Eva (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "sala_silberaltar": {
+      "title": "Saal des Silberaltars",
+      "description": "Saal im ersten Obergeschoss mit dem Altare argenteo di San Giovanni (weißer Marmor mit Aufsatz), dem Kreuz von Pollaiolo und Betti (Gold) und einem Band aus 27 Stickereien des Parato di San Giovanni.",
+      "tip": "Der Altar ist einen Block hoch, der Aufsatz steht dahinter.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Der achteckige Raum zeigt den Altare argenteo di San Giovanni (1367–1483), das Kreuz von Pollaiolo und Betto Betti (1457–59) und 27 Stickereien des Parato di San Giovanni (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "fassadenentwuerfe": {
+      "title": "Entwürfe der Domfassade",
+      "description": "Saal im ersten Obergeschoss mit drei Stellwänden mit Entwürfen für die neugotische Domfassade des 19. Jahrhunderts.",
+      "tip": "Jede Wand trägt vier Bildfelder.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Fünf Säle zeigen die Entwürfe für die neugotische Domfassade des 19. Jahrhunderts (im Modell zu einem Saal zusammengefasst) (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "galerie_modelle": {
+      "title": "Galerie der Fassadenmodelle",
+      "description": "Saal im zweiten Obergeschoss mit vier Holzmodellen der Domfassade (Buontalenti, Giambologna, Dosio u. a.) auf Tischen.",
+      "tip": "Die Modelle sind weiße Aufbauten auf Holztischen.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Die Galerie im zweiten Stock zeigt große Holzmodelle für die Domfassade von Buontalenti, Giambologna, Dosio u. a.; eine Seite öffnet sich zur Sala del Paradiso (im Modell nicht gebaut) (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "aussichtsraum": {
+      "title": "Aussichtsraum",
+      "description": "Saal im zweiten Obergeschoss mit drei Bänken (ein Block hoch) für den Blick auf die Kuppel.",
+      "tip": "Der Blick geht zur Piazza.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Im zweiten Stock liegt ein Aussichtsraum mit Blick auf die Kuppel (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "saal_giotto": {
+      "title": "Saal mit Giottos Madonna",
+      "description": "Saal im zweiten Obergeschoss mit Giottos „Madonna di San Giorgio alla Costa“ als Tafel auf Goldgrund.",
+      "tip": "Das Bild hängt an der Westwand.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Zwei Säle zeigen Gemälde des 16. Jahrhunderts, Paramente und Giottos „Madonna di San Giorgio alla Costa“ (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "saal_paramente": {
+      "title": "Saal der Paramente",
+      "description": "Saal im zweiten Obergeschoss mit Vitrinen für Paramente und einem Gemäldefeld des 16. Jahrhunderts.",
+      "tip": "Drei Vitrinen mit Glashaube.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Lage des Raumes im Haus ist Stufe C.",
+      "fact": "Zwei Säle zeigen Gemälde des 16. Jahrhunderts, Paramente und Giottos „Madonna di San Giorgio alla Costa“ (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

@@ -1,49 +1,58 @@
 {
   "id": "w114916779",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "spätes 15. Jh., Fassade um 1525 (Baccio d Agnolo oder Cronaca zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "achsen": 7,
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "sgraffito_buondelmonte_verloren",
+      "loggetta_oben"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Buondelmonti",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: spätes 15. Jh., Fassade um 1525 vollendet (Baccio d Agnolo oder Cronaca), drei Hauptgeschosse plus Altana, sieben Achsen, besonders hohes Erdgeschoss aus Quadermauerwerk mit vier Öffnungen, verputzte Obergeschosse, zwei Reihen Bogenfenster mit schlichten Steinrahmen, Eckrustika, ursprünglich monochrome Sgraffiti zu Buondelmonte, Loggetta im obersten Geschoss in einer Restaurierung des 20. Jh. wieder geöffnet. Annahme: Gesims, Dachform.",
   "name": "Palazzo Buondelmonti"
 }

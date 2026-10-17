@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Licht",
+  "subtitle": "Bautüte 4: Seelaternen im Boden",
+  "icon": "💡",
+  "parts": {
+    "licht": {
+      "title": "Seelaternen",
+      "description": "Einige Seelaternen sitzen im Boden von Schiff und Apsis, höchstens 9 Blöcke voneinander entfernt.",
+      "tip": "Sie liegen unter den Bodenplatten und bleiben unsichtbar.",
+      "caution": "Ohne Licht sind Innenräume in Minecraft dunkel.",
+      "fact": "Technische Ergänzung (Standard „Begehbar und ausgestaltet“)."
+    }
+  }
+}

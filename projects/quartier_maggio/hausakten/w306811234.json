@@ -1,15 +1,15 @@
 {
   "id": "w306811234",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "nobile",
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -26,8 +26,8 @@
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rechteck_vergittert"
+      "art": "portal_mittig",
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rahmen_stuck",
@@ -35,18 +35,23 @@
       "laeden": "holz"
     },
     "gesims": {
-      "art": "keiner",
-      "tiefeBl": 0
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "gronda_mit_muschelmotiv_suarez",
+      "kniefenster_reihe_eg",
+      "hof_mit_pietra_serena_kapitellen"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
-  "name": "Palazzo Corsini Suarez"
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Grosses Portal, Reihe von Kniefenstern im EG und gesamtes drittes OG mit kleineren Fenstern und monumentaler Gronda mit geschnitztem Muschelmotiv (Suarez), Hof mit Pietra-serena-Kapitellen. Annahme: Geschosszahl 4, Achsenzahl; die beiden OSM-Teile gleichen Namens werden als ein Ensemble behandelt.",
+  "name": "Palazzo Corsini Suarez",
+  "ensemble": "maggio_corsini_suarez"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w307106612",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "Ende 13. Jh. (Alberti), 1356 erneuert, Loggetta frühes 15. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -43,15 +43,20 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "loggetta_ecke",
+      "wappen_alberti_ketten",
+      "terrasse_19jh",
+      "zugemauerte_einzellichter"
+    ]
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_degli_Alberti",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Ende 13. Jh. von Alberto, Lapo und Neri degli Alberti erbaut, trapezförmiger Grundriss, oben gekappt, 1938 vom Putz befreit (sichtbares Mauerwerk), kleine Fenster mit zugemauerten Einzellichtern, kleine Eck-Loggia mit Kapitellen der Alberti-Ketten, Terrasse des 19. Jh., Alberti-Wappen an der Hauptfassade. Annahme: Geschosszahl (OSM-Höhe), Steinart und Flachdach.",
   "name": "Torre degli Alberti"
 }

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 47.680 |
+| Blöcke | 47.682 |
 | Bauschritte | 29 |
 | Y-Bereich | 56 bis 67 |
 | X-Ausdehnung | -1824 bis -1505 (320 Blöcke) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Polierter Tuffstein | `polished_tuff` | 36.097 | 75,7 % |
 | Stein | `stone` | 7.343 | 15,4 % |
-| Glatter Stein | `smooth_stone` | 2.912 | 6,1 % |
+| Glatter Stein | `smooth_stone` | 2.914 | 6,1 % |
 | Grasblock | `grass_block` | 884 | 1,9 % |
 | Steinziegel | `stone_bricks` | 120 | 0,3 % |
 | Kies | `gravel` | 115 | 0,2 % |
@@ -44,7 +44,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 7.343 | 139.1–139.5 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 13.111 | 139.6–139.13 |
-| 3 | `gehwege` | Gehwege | 2.882 | 139.14–139.15 |
+| 3 | `gehwege` | Gehwege | 2.884 | 139.14–139.15 |
 | 4 | `stufen` | Treppenflächen | 209 | 139.16 |
 | 5 | `hof_pflaster` | Höfe | 22.986 | 139.16–139.28 |
 | 6 | `rasen` | Grün und offenes Gelände | 884 | 139.29 |
@@ -84,14 +84,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 139.2 – Böschung und Mantel – Teil 2/5 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.786
+- **Blöcke:** 1.788
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.786 |
+| Stein | `stone` | 1.788 |
 
 **Beschreibung**
 
@@ -168,14 +168,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 139.5 – Böschung und Mantel – Teil 5/5 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
-- **Blöcke:** 1.548
+- **Blöcke:** 1.546
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.548 |
+| Stein | `stone` | 1.546 |
 
 **Beschreibung**
 
@@ -448,14 +448,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 139.15 – Gehwege – Teil 2/2 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.214
+- **Blöcke:** 1.216
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.214 |
+| Glatter Stein | `smooth_stone` | 1.216 |
 
 **Beschreibung**
 

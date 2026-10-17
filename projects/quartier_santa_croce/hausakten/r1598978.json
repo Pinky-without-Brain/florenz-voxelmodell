@@ -1,28 +1,32 @@
 {
   "id": "r1598978",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1834-1854 (Leoni, Bonaiuti)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 15,
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
       "fenster": "rechteck_vergittert"
     },
@@ -35,15 +39,18 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "arkaden_als_eingaenge",
+      "eisen_glas_vordach"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Teatro_Verdi_(Firenze)",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia belegt: Block 1834-39 (Leoni), Theater eingeweiht 1854 (Bonaiuti), vier Geschosse im Altbau, Front Via Verdi mit 15 Achsen, Erdgeschoss als Arkadenreihe mit Eingängen, Läden und Notausgängen, Eisen-Glas-Vordach. Annahme: Putzfarbe, Fensterform, Gesims und Dach.",
   "name": "Teatro Verdi"
 }

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 568.502 |
+| Blöcke | 568.520 |
 | Bauschritte | 357 |
 | Y-Bereich | 57 bis 109 |
 | X-Ausdehnung | -1901 bis -1558 (344 Blöcke) |
@@ -24,14 +24,14 @@
 | Terrakotta | `terracotta` | 184.339 | 32,4 % |
 | Polierter Tuffstein | `polished_tuff` | 55.402 | 9,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 50.270 | 8,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 49.784 | 8,8 % |
-| Weißer Beton | `white_concrete` | 49.217 | 8,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 49.760 | 8,8 % |
+| Weißer Beton | `white_concrete` | 49.235 | 8,7 % |
 | Endsteinziegel | `end_stone_bricks` | 39.761 | 7,0 % |
 | Rosa Keramik | `pink_terracotta` | 33.978 | 6,0 % |
 | Orange Keramik | `orange_terracotta` | 32.432 | 5,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 32.368 | 5,7 % |
-| Glatter Stein | `smooth_stone` | 10.088 | 1,8 % |
-| Graues Buntglas | `gray_stained_glass` | 8.739 | 1,5 % |
+| Glatter Stein | `smooth_stone` | 10.132 | 1,8 % |
+| Graues Buntglas | `gray_stained_glass` | 8.717 | 1,5 % |
 | Polierter Andesit | `polished_andesite` | 7.069 | 1,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3.089 | 0,5 % |
 | Ziegelsteine | `bricks` | 3.010 | 0,5 % |
@@ -45,11 +45,11 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 495 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 171 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 171 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 148 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 136 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 128 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 124 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 101 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 36 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
@@ -59,7 +59,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2.286 |
-| Steintreppe | `stone_stairs` | 324 |
+| Steintreppe | `stone_stairs` | 326 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -79,8 +79,8 @@
 | 12 | `w118408647_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 4.777 | 5.68–5.70 |
 | 13 | `w306798511` | ex Chiesa di San Carlo dei Barnabiti | 6.786 | 5.71–5.74 |
 | 14 | `w306798511_innen` | ex Chiesa di San Carlo dei Barnabiti: Innenausbau | 1.237 | 5.75 |
-| 15 | `w306798519` | Casa Amerighi | 2.968 | 5.76–5.77 |
-| 16 | `w306798519_innen` | Casa Amerighi: Innenausbau | 801 | 5.78 |
+| 15 | `w306798519` | Casa Amerighi | 2.982 | 5.76–5.77 |
+| 16 | `w306798519_innen` | Casa Amerighi: Innenausbau | 805 | 5.78 |
 | 17 | `w481068356` | Reihenhaus an Via della Chiesa | 14.273 | 5.79–5.89 |
 | 18 | `w481068356_innen` | Reihenhaus an Via della Chiesa: Innenausbau | 1.224 | 5.90 |
 | 19 | `w481068357` | Reihenhaus an Via Sant'Agostino | 3.394 | 5.91–5.92 |
@@ -2610,24 +2610,24 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.76 – Casa Amerighi – Teil 1/2 (Y 60–73)
 
 - **Y-Bereich:** 60 bis 73
-- **Blöcke:** 1.472
+- **Blöcke:** 1.486
 - **Bauteile:** `w306798519`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 715 |
+| Weißer Beton | `white_concrete` | 733 |
 | Polierter Tuffstein | `polished_tuff` | 450 |
-| Hellgrauer Beton | `light_gray_concrete` | 152 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-| Glatter Stein | `smooth_stone` | 61 |
+| Hellgrauer Beton | `light_gray_concrete` | 128 |
+| Glatter Stein | `smooth_stone` | 103 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 | Polierter Andesit | `polished_andesite` | 12 |
 | Tuffsteinziegel | `tuff_bricks` | 12 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Amerighi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2639,7 +2639,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.77 – Casa Amerighi – Teil 2/2 (Y 74–88)
 
@@ -2661,7 +2661,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Amerighi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2673,12 +2673,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.78 – Casa Amerighi: Innenausbau
 
-- **Y-Bereich:** 60 bis 76
-- **Blöcke:** 801
+- **Y-Bereich:** 60 bis 77
+- **Blöcke:** 805
 - **Bauteile:** `w306798519_innen`
 
 **Teileliste**
@@ -2686,16 +2686,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 716 |
-| Glatter Stein | `smooth_stone` | 44 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Glatter Stein | `smooth_stone` | 46 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 |
 | Seelaterne | `sea_lantern` | 9 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 32 |
+| Steintreppe | `stone_stairs` | 34 |
 
 **Beschreibung**
 

@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 114.672 |
+| Blöcke | 114.771 |
 | Bauschritte | 72 |
 | Y-Bereich | 61 bis 101 |
 | X-Ausdehnung | 1465 bis 1661 (197 Blöcke) |
 | Z-Ausdehnung | 713 bis 852 (140 Blöcke) |
 | Kleinster Schritt | 839 Blöcke (Schritt 13.68) |
-| Mittlerer Schritt | 1.593 Blöcke |
+| Mittlerer Schritt | 1.594 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 13.45) |
 
 ## Gesamt-Stückliste
@@ -22,31 +22,31 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 35.801 | 31,2 % |
-| Orange Keramik | `orange_terracotta` | 14.042 | 12,2 % |
+| Orange Keramik | `orange_terracotta` | 14.040 | 12,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 12.613 | 11,0 % |
 | Polierter Tuffstein | `polished_tuff` | 10.509 | 9,2 % |
 | Glatter Sandstein | `smooth_sandstone` | 8.934 | 7,8 % |
-| Weißer Beton | `white_concrete` | 7.404 | 6,5 % |
 | Endsteinziegel | `end_stone_bricks` | 5.933 | 5,2 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.441 | 4,7 % |
-| Graues Buntglas | `gray_stained_glass` | 2.784 | 2,4 % |
+| Weißer Beton | `white_concrete` | 4.877 | 4,2 % |
+| Glatter Stein | `smooth_stone` | 4.321 | 3,8 % |
+| Graues Buntglas | `gray_stained_glass` | 2.786 | 2,4 % |
 | Rosa Keramik | `pink_terracotta` | 2.759 | 2,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.825 | 1,6 % |
-| Glatter Stein | `smooth_stone` | 1.663 | 1,5 % |
-| Grüner Beton | `green_concrete` | 1.193 | 1,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 813 | 0,7 % |
-| Polierter Andesit | `polished_andesite` | 758 | 0,7 % |
-| Ziegelsteine | `bricks` | 746 | 0,7 % |
+| Grüner Beton | `green_concrete` | 1.186 | 1,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 814 | 0,7 % |
+| Ziegelsteine | `bricks` | 746 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 725 | 0,6 % |
 | Tuffstein | `tuff` | 337 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 261 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 241 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 260 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 240 | 0,2 % |
 | Seelaterne | `sea_lantern` | 224 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 95 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 95 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 66 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 62 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 31 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 68 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 64 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 32 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 
@@ -54,8 +54,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 630 |
-| Steintreppe | `stone_stairs` | 40 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 632 |
+| Steintreppe | `stone_stairs` | 44 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -63,8 +63,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7501449` | Reihenhaus an Via Ghibellina | 12.444 | 13.1–13.7 |
 | 2 | `r7501449_innen` | Reihenhaus an Via Ghibellina: Innenausbau | 2.283 | 13.8–13.9 |
-| 3 | `r7501450` | Palazzo Vivarelli Colonna | 25.535 | 13.10–13.25 |
-| 4 | `r7501450_innen` | Palazzo Vivarelli Colonna: Innenausbau | 5.423 | 13.26–13.29 |
+| 3 | `r7501450` | Palazzo Vivarelli Colonna | 25.623 | 13.10–13.25 |
+| 4 | `r7501450_innen` | Palazzo Vivarelli Colonna: Innenausbau | 5.434 | 13.26–13.29 |
 | 5 | `w517872144` | Palazzo des Cinquecento an Via dell'Agnolo | 5.605 | 13.30–13.32 |
 | 6 | `w517872144_innen` | Palazzo des Cinquecento an Via dell'Agnolo: Innenausbau | 5 | 13.33 |
 | 7 | `w518023522` | Haus w518023522 | 4.247 | 13.33–13.35 |
@@ -402,7 +402,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -414,7 +414,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.11 – Palazzo Vivarelli Colonna – Teil 2/16 (Y 62–62)
 
@@ -430,7 +430,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -442,26 +442,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.12 – Palazzo Vivarelli Colonna – Teil 3/16 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.842
+- **Blöcke:** 1.840
 - **Bauteile:** `r7501450`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.467 |
-| Weißer Beton | `white_concrete` | 327 |
-| Polierter Andesit | `polished_andesite` | 44 |
+| Orange Keramik | `orange_terracotta` | 1.465 |
+| Glatter Stein | `smooth_stone` | 333 |
+| Polierter Andesit | `polished_andesite` | 38 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -473,28 +473,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.13 – Palazzo Vivarelli Colonna – Teil 4/16 (Y 66–67)
+### Schritt 13.13 – Palazzo Vivarelli Colonna – Teil 4/16 (Y 66–68)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.050
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 1.575
 - **Bauteile:** `r7501450`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 665 |
-| Weißer Beton | `white_concrete` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 124 |
-| Grüner Beton | `green_concrete` | 82 |
-| Polierter Andesit | `polished_andesite` | 27 |
+| Orange Keramik | `orange_terracotta` | 1.002 |
+| Glatter Stein | `smooth_stone` | 231 |
+| Graues Buntglas | `gray_stained_glass` | 189 |
+| Grüner Beton | `green_concrete` | 120 |
+| Polierter Andesit | `polished_andesite` | 31 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -506,28 +506,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.14 – Palazzo Vivarelli Colonna – Teil 5/16 (Y 68–70)
+### Schritt 13.14 – Palazzo Vivarelli Colonna – Teil 5/16 (Y 69–71)
 
-- **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.633
+- **Y-Bereich:** 69 bis 71
+- **Blöcke:** 1.632
 - **Bauteile:** `r7501450`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.097 |
-| Weißer Beton | `white_concrete` | 288 |
-| Graues Buntglas | `gray_stained_glass` | 124 |
-| Grüner Beton | `green_concrete` | 82 |
-| Polierter Andesit | `polished_andesite` | 40 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Orange Keramik | `orange_terracotta` | 1.087 |
+| Glatter Stein | `smooth_stone` | 296 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
+| Grüner Beton | `green_concrete` | 80 |
+| Polierter Andesit | `polished_andesite` | 39 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -539,26 +539,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.15 – Palazzo Vivarelli Colonna – Teil 6/16 (Y 71–73)
+### Schritt 13.15 – Palazzo Vivarelli Colonna – Teil 6/16 (Y 72–73)
 
-- **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.767
+- **Y-Bereich:** 72 bis 73
+- **Blöcke:** 1.178
 - **Bauteile:** `r7501450`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.437 |
-| Glatter Stein | `smooth_stone` | 280 |
-| Polierter Andesit | `polished_andesite` | 43 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Orange Keramik | `orange_terracotta` | 872 |
+| Glatter Stein | `smooth_stone` | 287 |
+| Polierter Andesit | `polished_andesite` | 13 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -570,27 +570,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.16 – Palazzo Vivarelli Colonna – Teil 7/16 (Y 74–76)
 
 - **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.661
+- **Blöcke:** 1.765
 - **Bauteile:** `r7501450`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.121 |
-| Weißer Beton | `white_concrete` | 297 |
-| Graues Buntglas | `gray_stained_glass` | 130 |
-| Grüner Beton | `green_concrete` | 86 |
+| Orange Keramik | `orange_terracotta` | 1.359 |
+| Glatter Stein | `smooth_stone` | 271 |
+| Graues Buntglas | `gray_stained_glass` | 65 |
+| Grüner Beton | `green_concrete` | 43 |
 | Polierter Andesit | `polished_andesite` | 27 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -602,7 +602,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.17 – Palazzo Vivarelli Colonna – Teil 8/16 (Y 77–79)
 
@@ -615,14 +615,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.017 |
-| Weißer Beton | `white_concrete` | 231 |
+| Glatter Stein | `smooth_stone` | 231 |
 | Graues Buntglas | `gray_stained_glass` | 195 |
 | Grüner Beton | `green_concrete` | 129 |
 | Polierter Andesit | `polished_andesite` | 36 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -634,11 +634,43 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.18 – Palazzo Vivarelli Colonna – Teil 9/16 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
+- **Blöcke:** 1.661
+- **Bauteile:** `r7501450`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.121 |
+| Glatter Stein | `smooth_stone` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 130 |
+| Grüner Beton | `green_concrete` | 86 |
+| Polierter Andesit | `polished_andesite` | 27 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 13.19 – Palazzo Vivarelli Colonna – Teil 10/16 (Y 83–85)
+
+- **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.767
 - **Bauteile:** `r7501450`
 
@@ -646,14 +678,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.105 |
-| Weißer Beton | `white_concrete` | 353 |
-| Glatter Stein | `smooth_stone` | 289 |
-| Polierter Andesit | `polished_andesite` | 20 |
+| Orange Keramik | `orange_terracotta` | 1.239 |
+| Glatter Stein | `smooth_stone` | 499 |
+| Polierter Andesit | `polished_andesite` | 29 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -665,25 +696,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.19 – Palazzo Vivarelli Colonna – Teil 10/16 (Y 83–84)
+### Schritt 13.20 – Palazzo Vivarelli Colonna – Teil 11/16 (Y 86–87)
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.178
+- **Y-Bereich:** 86 bis 87
+- **Blöcke:** 1.176
 - **Bauteile:** `r7501450`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.014 |
-| Weißer Beton | `white_concrete` | 143 |
+| Orange Keramik | `orange_terracotta` | 776 |
+| Glatter Stein | `smooth_stone` | 271 |
+| Graues Buntglas | `gray_stained_glass` | 65 |
+| Grüner Beton | `green_concrete` | 43 |
 | Polierter Andesit | `polished_andesite` | 21 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -695,39 +728,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.20 – Palazzo Vivarelli Colonna – Teil 11/16 (Y 85–87)
-
-- **Y-Bereich:** 85 bis 87
-- **Blöcke:** 1.608
-- **Bauteile:** `r7501450`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.017 |
-| Weißer Beton | `white_concrete` | 231 |
-| Graues Buntglas | `gray_stained_glass` | 195 |
-| Grüner Beton | `green_concrete` | 129 |
-| Polierter Andesit | `polished_andesite` | 36 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.21 – Palazzo Vivarelli Colonna – Teil 12/16 (Y 88–90)
 
@@ -740,14 +741,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.121 |
-| Weißer Beton | `white_concrete` | 297 |
+| Glatter Stein | `smooth_stone` | 297 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Grüner Beton | `green_concrete` | 86 |
 | Polierter Andesit | `polished_andesite` | 27 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -759,7 +760,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.22 – Palazzo Vivarelli Colonna – Teil 13/16 (Y 91–92)
 
@@ -773,12 +774,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 948 |
 | Fichtenholz-Bretter | `spruce_planks` | 471 |
-| Weißer Beton | `white_concrete` | 210 |
+| Glatter Stein | `smooth_stone` | 210 |
 | Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -790,7 +791,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.23 – Palazzo Vivarelli Colonna – Teil 14/16 (Y 93–93)
 
@@ -806,7 +807,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -818,7 +819,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.24 – Palazzo Vivarelli Colonna – Teil 15/16 (Y 94–95)
 
@@ -834,7 +835,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -846,7 +847,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.25 – Palazzo Vivarelli Colonna – Teil 16/16 (Y 96–100)
 
@@ -863,7 +864,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1701 (Francesco Maria Niccolò Gabburri) zusammengefasst), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Vivarelli_Colonna, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -875,12 +876,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.26 – Palazzo Vivarelli Colonna: Innenausbau – Teil 1/4 (Y 62–72)
+### Schritt 13.26 – Palazzo Vivarelli Colonna: Innenausbau – Teil 1/4 (Y 62–73)
 
-- **Y-Bereich:** 62 bis 72
-- **Blöcke:** 1.392
+- **Y-Bereich:** 62 bis 73
+- **Blöcke:** 1.399
 - **Bauteile:** `r7501450_innen`
 
 **Teileliste**
@@ -888,16 +889,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.323 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 23 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -915,9 +920,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.27 – Palazzo Vivarelli Colonna: Innenausbau – Teil 2/4 (Y 72–72)
+### Schritt 13.27 – Palazzo Vivarelli Colonna: Innenausbau – Teil 2/4 (Y 73–73)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.318
 - **Bauteile:** `r7501450_innen`
 
@@ -944,10 +949,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.28 – Palazzo Vivarelli Colonna: Innenausbau – Teil 3/4 (Y 73–82)
+### Schritt 13.28 – Palazzo Vivarelli Colonna: Innenausbau – Teil 3/4 (Y 74–84)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.386
+- **Y-Bereich:** 74 bis 84
+- **Blöcke:** 1.390
 - **Bauteile:** `r7501450_innen`
 
 **Teileliste**
@@ -955,8 +960,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.323 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -969,7 +974,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -988,9 +993,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.29 – Palazzo Vivarelli Colonna: Innenausbau – Teil 4/4 (Y 82–83)
+### Schritt 13.29 – Palazzo Vivarelli Colonna: Innenausbau – Teil 4/4 (Y 84–85)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.327
 - **Bauteile:** `r7501450_innen`
 
@@ -1003,8 +1008,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

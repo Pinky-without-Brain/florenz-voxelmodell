@@ -1,7 +1,7 @@
 {
   "id": "r4095185",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Zusammenlegung 1610er-20er Jahre (Cigoli/Silvani); Fassade Piazza Pitti 1838/1920er",
   "geschosse": [
     {
       "art": "eg",
@@ -19,8 +19,8 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 8,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "tor_und_fenster",
       "portalBreiteBl": 7,
@@ -32,18 +32,22 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "graffito_fassade_cinquecento",
+      "marcapiano_silvani_teils_verloren",
+      "zwei_fluegel_ein_gesims"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Palazzo aus mehreren Häusern der Guicciardini, Malefici, Benizzi und Barbadori zusammengefasst; Fassade mit zwei unterschiedlichen Flügeln unter gemeinsamem Gesims und durchgehender Fensterreihe im 2. OG, Graffiti teils erhalten. Annahme: Gesimsart, Achsenzahl und Fenstertyp.",
   "name": "Palazzo Guicciardini"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w306398156",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "1. Hälfte 16. Jh.; Fassade 1550-60 (Piero dal Borgo)",
   "geschosse": [
     {
       "art": "eg",
@@ -22,7 +22,7 @@
     "material": "putz",
     "putzfarbe": "grau",
     "erdgeschoss": {
-      "art": "bottega_arcata",
+      "art": "portal_seitlich",
       "fenster": "rundbogen"
     },
     "fenster": {
@@ -34,15 +34,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "graffito_triumph_davids_kopien",
+      "buste_ferdinand_i_ueber_portal",
+      "ungleiche_fensterabstaende"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Dal_Borgo",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Fassade um 1550-60 mit seitlich gesetztem Portal und nicht gleichmässig verteilten Fenstern, Gurtgesimsen, Marmorbuste Ferdinands I. über dem Portal, Graffito (Triumph Davids, um 1580-90) heute in Kopie. Annahme: Geschosszahl, Achsenzahl, Putzfarbe.",
   "name": "Palazzo Dal Borgo"
 }

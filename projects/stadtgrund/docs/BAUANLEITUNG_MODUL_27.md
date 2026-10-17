@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 52.063 |
+| Blöcke | 52.060 |
 | Bauschritte | 34 |
 | Y-Bereich | 61 bis 75 |
 | X-Ausdehnung | 736 bis 1055 (320 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 26.344 | 50,6 % |
+| Polierter Tuffstein | `polished_tuff` | 26.341 | 50,6 % |
 | Grasblock | `grass_block` | 14.066 | 27,0 % |
 | Stein | `stone` | 6.402 | 12,3 % |
 | Glatter Stein | `smooth_stone` | 2.800 | 5,4 % |
@@ -43,7 +43,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 6.275 | 27.1–27.5 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 8.240 | 27.6–27.10 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 8.237 | 27.6–27.10 |
 | 3 | `gehwege` | Gehwege | 2.768 | 27.11–27.13 |
 | 4 | `stufen` | Treppenflächen | 37 | 27.14 |
 | 5 | `hof_pflaster` | Höfe | 18.104 | 27.14–27.23 |
@@ -140,14 +140,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 27.4 – Böschung und Mantel – Teil 4/5 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.460
+- **Blöcke:** 1.457
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.460 |
+| Stein | `stone` | 1.457 |
 
 **Beschreibung**
 
@@ -168,14 +168,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 27.5 – Böschung und Mantel – Teil 5/5 (Y 70–71)
 
 - **Y-Bereich:** 70 bis 71
-- **Blöcke:** 700
+- **Blöcke:** 703
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 700 |
+| Stein | `stone` | 703 |
 
 **Beschreibung**
 
@@ -280,14 +280,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 27.9 – Straßenpflaster – Teil 4/5 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.806
+- **Blöcke:** 1.803
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.806 |
+| Polierter Tuffstein | `polished_tuff` | 1.803 |
 
 **Beschreibung**
 

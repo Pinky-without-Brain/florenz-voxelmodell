@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 96.428 |
+| Blöcke | 96.553 |
 | Bauschritte | 65 |
 | Y-Bereich | 61 bis 99 |
 | X-Ausdehnung | -1670 bis -1526 (145 Blöcke) |
 | Z-Ausdehnung | 1667 bis 1806 (140 Blöcke) |
 | Kleinster Schritt | 435 Blöcke (Schritt 9.18) |
-| Mittlerer Schritt | 1.484 Blöcke |
+| Mittlerer Schritt | 1.485 Blöcke |
 | Größter Schritt | 2.086 Blöcke (Schritt 9.55) |
 
 ## Gesamt-Stückliste
@@ -22,20 +22,18 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 31.143 | 32,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 17.908 | 18,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 17.908 | 18,5 % |
 | Orange Keramik | `orange_terracotta` | 11.468 | 11,9 % |
 | Polierter Tuffstein | `polished_tuff` | 9.424 | 9,8 % |
-| Tuffstein | `tuff` | 5.193 | 5,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.155 | 9,5 % |
 | Rosa Keramik | `pink_terracotta` | 4.748 | 4,9 % |
 | Weißer Beton | `white_concrete` | 3.176 | 3,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 2.205 | 2,3 % |
-| Glatter Stein | `smooth_stone` | 2.174 | 2,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 2.052 | 2,1 % |
-| Polierter Andesit | `polished_andesite` | 1.736 | 1,8 % |
-| Graues Buntglas | `gray_stained_glass` | 1.325 | 1,4 % |
+| Glatter Stein | `smooth_stone` | 2.074 | 2,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.300 | 1,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 912 | 0,9 % |
-| Endsteinziegel | `end_stone_bricks` | 777 | 0,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 556 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 708 | 0,7 % |
+| Endsteinziegel | `end_stone_bricks` | 683 | 0,7 % |
 | Ziegelsteine | `bricks` | 497 | 0,5 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 217 | 0,2 % |
 | Seelaterne | `sea_lantern` | 208 | 0,2 % |
@@ -44,8 +42,9 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 130 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 120 | 0,1 % |
 | Grüner Beton | `green_concrete` | 27 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 12 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 3 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 3 | 0,0 % |
@@ -58,14 +57,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 670 |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 46 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306798525` | Palazzo Settimanni | 11.559 | 9.1–9.6 |
-| 2 | `w306798525_innen` | Palazzo Settimanni: Innenausbau | 2.335 | 9.7–9.8 |
+| 1 | `w306798525` | Palazzo Settimanni | 11.672 | 9.1–9.6 |
+| 2 | `w306798525_innen` | Palazzo Settimanni: Innenausbau | 2.347 | 9.7–9.8 |
 | 3 | `w478249812` | Reihenhaus an Via della Chiesa | 2.556 | 9.9–9.10 |
 | 4 | `w478249812_innen` | Reihenhaus an Via della Chiesa: Innenausbau | 1 | 9.11 |
 | 5 | `w478249814` | Reihenhaus an Via della Chiesa | 7.550 | 9.11–9.14 |
@@ -109,7 +108,7 @@
 ### Schritt 9.1 – Palazzo Settimanni – Teil 1/6 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.899
+- **Blöcke:** 1.947
 - **Bauteile:** `w306798525`
 
 **Teileliste**
@@ -117,46 +116,14 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.397 |
-| Tuffstein | `tuff` | 412 |
-| Tuffsteinziegel | `tuff_bricks` | 80 |
-| Glatter Stein | `smooth_stone` | 8 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.2 – Palazzo Settimanni – Teil 2/6 (Y 64–71)
-
-- **Y-Bereich:** 64 bis 71
-- **Blöcke:** 2.055
-- **Bauteile:** `w306798525`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.551 |
-| Glatter Stein | `smooth_stone` | 261 |
-| Tuffsteinziegel | `tuff_bricks` | 166 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
+| Gelbe Keramik | `yellow_terracotta` | 534 |
 | Polierter Andesit | `polished_andesite` | 7 |
+| Glatter Stein | `smooth_stone` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Settimanni, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -168,27 +135,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.3 – Palazzo Settimanni – Teil 3/6 (Y 72–77)
+### Schritt 9.2 – Palazzo Settimanni – Teil 2/6 (Y 64–70)
 
-- **Y-Bereich:** 72 bis 77
-- **Blöcke:** 1.720
+- **Y-Bereich:** 64 bis 70
+- **Blöcke:** 1.926
 - **Bauteile:** `w306798525`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 969 |
-| Glatter Stein | `smooth_stone` | 322 |
-| Tuffsteinziegel | `tuff_bricks` | 200 |
-| Polierter Andesit | `polished_andesite` | 184 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
+| Gelbe Keramik | `yellow_terracotta` | 1.606 |
+| Glatter Stein | `smooth_stone` | 225 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Polierter Andesit | `polished_andesite` | 26 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Settimanni, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -200,27 +167,57 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 9.3 – Palazzo Settimanni – Teil 3/6 (Y 71–77)
+
+- **Y-Bereich:** 71 bis 77
+- **Blöcke:** 1.961
+- **Bauteile:** `w306798525`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.688 |
+| Glatter Stein | `smooth_stone` | 235 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
+| Polierter Andesit | `polished_andesite` | 8 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Settimanni, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.4 – Palazzo Settimanni – Teil 4/6 (Y 78–84)
 
 - **Y-Bereich:** 78 bis 84
-- **Blöcke:** 2.001
+- **Blöcke:** 1.939
 - **Bauteile:** `w306798525`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.134 |
-| Glatter Stein | `smooth_stone` | 377 |
-| Polierter Andesit | `polished_andesite` | 335 |
-| Tuffsteinziegel | `tuff_bricks` | 110 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
+| Gelbe Keramik | `yellow_terracotta` | 1.576 |
+| Glatter Stein | `smooth_stone` | 291 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Settimanni, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -232,27 +229,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.5 – Palazzo Settimanni – Teil 5/6 (Y 85–91)
 
 - **Y-Bereich:** 85 bis 91
-- **Blöcke:** 2.033
+- **Blöcke:** 2.048
 - **Bauteile:** `w306798525`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.127 |
-| Polierter Andesit | `polished_andesite` | 565 |
-| Glatter Stein | `smooth_stone` | 187 |
-| Endsteinziegel | `end_stone_bricks` | 94 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
+| Gelbe Keramik | `yellow_terracotta` | 1.699 |
+| Glatter Stein | `smooth_stone` | 292 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Settimanni, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -264,7 +260,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.6 – Palazzo Settimanni – Teil 6/6 (Y 92–99)
 
@@ -281,7 +277,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Settimanni, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -293,7 +289,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.7 – Palazzo Settimanni: Innenausbau – Teil 1/2 (Y 61–72)
 
@@ -333,10 +329,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.8 – Palazzo Settimanni: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 9.8 – Palazzo Settimanni: Innenausbau – Teil 2/2 (Y 73–85)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.163
+- **Y-Bereich:** 73 bis 85
+- **Blöcke:** 1.175
 - **Bauteile:** `w306798525_innen`
 
 **Teileliste**
@@ -344,9 +340,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.108 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Glatter Stein | `smooth_stone` | 30 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 | Seelaterne | `sea_lantern` | 7 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
@@ -356,7 +352,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 24 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**

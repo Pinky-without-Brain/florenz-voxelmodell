@@ -1,608 +1,98 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 20: Isolato I0442 – Via dei Tosinghi
+# Bauanleitung Modul 20: Isolato I0466 – Vicolo dell'Onestà
 
-*Quartier Strozzi: 1 Haus*
+*Quartier Strozzi: 5 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 112.155 |
-| Bauschritte | 76 |
-| Y-Bereich | 65 bis 119 |
-| X-Ausdehnung | -526 bis -407 (120 Blöcke) |
-| Z-Ausdehnung | 95 bis 208 (114 Blöcke) |
-| Kleinster Schritt | 976 Blöcke (Schritt 20.10) |
-| Mittlerer Schritt | 1.476 Blöcke |
-| Größter Schritt | 2.079 Blöcke (Schritt 20.52) |
+| Blöcke | 90.276 |
+| Bauschritte | 52 |
+| Y-Bereich | 66 bis 115 |
+| X-Ausdehnung | -387 bis -260 (128 Blöcke) |
+| Z-Ausdehnung | 374 bis 499 (126 Blöcke) |
+| Kleinster Schritt | 928 Blöcke (Schritt 20.52) |
+| Mittlerer Schritt | 1.736 Blöcke |
+| Größter Schritt | 2.089 Blöcke (Schritt 20.29) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 52.192 | 46,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 35.164 | 31,4 % |
-| Polierter Tuffstein | `polished_tuff` | 10.541 | 9,4 % |
-| Weißer Beton | `white_concrete` | 5.918 | 5,3 % |
-| Glatter Stein | `smooth_stone` | 2.656 | 2,4 % |
-| Graues Buntglas | `gray_stained_glass` | 2.597 | 2,3 % |
-| Grüner Beton | `green_concrete` | 1.673 | 1,5 % |
-| Ziegelsteine | `bricks` | 572 | 0,5 % |
-| Polierter Andesit | `polished_andesite` | 470 | 0,4 % |
-| Seelaterne | `sea_lantern` | 245 | 0,2 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 36 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 34 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 15 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 12 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 12 | 0,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,0 % |
+| Terrakotta | `terracotta` | 36.874 | 40,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 11.850 | 13,1 % |
+| Orange Keramik | `orange_terracotta` | 11.124 | 12,3 % |
+| Polierter Tuffstein | `polished_tuff` | 9.223 | 10,2 % |
+| Tuffstein | `tuff` | 5.081 | 5,6 % |
+| Glatter Stein | `smooth_stone` | 4.292 | 4,8 % |
+| Polierter Andesit | `polished_andesite` | 3.123 | 3,5 % |
+| Weißer Beton | `white_concrete` | 2.990 | 3,3 % |
+| Graues Buntglas | `gray_stained_glass` | 2.566 | 2,8 % |
+| Grüner Beton | `green_concrete` | 978 | 1,1 % |
+| Ziegelsteine | `bricks` | 527 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 477 | 0,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 437 | 0,5 % |
+| Seelaterne | `sea_lantern` | 184 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 151 | 0,2 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 90 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 78 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 45 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 45 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 38 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 36 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 30 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 70 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 10 |
+| Steintreppe | `stone_stairs` | 168 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 132 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1592494` | Palazzo des Ottocento an Via dei Tosinghi | 74.104 | 20.1–20.56 |
-| 2 | `r1592494_innen` | Palazzo des Ottocento an Via dei Tosinghi: Innenausbau | 38.048 | 20.57–20.76 |
-| 3 | `strassenschilder` | Straßenschilder | 3 | 20.76 |
+| 1 | `w114185237` | Renaissance-Palazzo an Vicolo del Ferro | 14.279 | 20.1–20.8 |
+| 2 | `w114185237_innen` | Renaissance-Palazzo an Vicolo del Ferro: Innenausbau | 3.969 | 20.9–20.11 |
+| 3 | `w454232387` | Palazzo des Cinquecento an Piazza della Repubblica | 26.952 | 20.12–20.27 |
+| 4 | `w454232387_innen` | Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau | 12.465 | 20.27–20.33 |
+| 5 | `w542316807` | Palazzo des Ottocento an Via degli Speziali | 18.097 | 20.34–20.43 |
+| 6 | `w542316807_innen` | Palazzo des Ottocento an Via degli Speziali: Innenausbau | 5.526 | 20.44–20.46 |
+| 7 | `w542316810` | Reihenhaus an Vicolo dell'Onestà | 4.307 | 20.47–20.49 |
+| 8 | `w542316810_innen` | Reihenhaus an Vicolo dell'Onestà: Innenausbau | 1.993 | 20.50 |
+| 9 | `w542316816` | Reihenhaus an Vicolo dell'Onestà | 1.760 | 20.51 |
+| 10 | `w542316816_innen` | Reihenhaus an Vicolo dell'Onestà: Innenausbau | 919 | 20.52 |
+| 11 | `strassenschilder` | Straßenschilder | 9 | 20.52 |
 
 ## Bauschritte
 
-### Schritt 20.1 – Palazzo des Ottocento an Via dei Tosinghi – Teil 1/56 (Y 65–65)
+### Schritt 20.1 – Renaissance-Palazzo an Vicolo del Ferro – Teil 1/8 (Y 66–67)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.792
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.792 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.2 – Palazzo des Ottocento an Via dei Tosinghi – Teil 2/56 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.745
-- **Bauteile:** `r1592494`
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.769
+- **Bauteile:** `w114185237`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.745 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.3 – Palazzo des Ottocento an Via dei Tosinghi – Teil 3/56 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.731
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.731 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.4 – Palazzo des Ottocento an Via dei Tosinghi – Teil 4/56 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.723
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.723 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.5 – Palazzo des Ottocento an Via dei Tosinghi – Teil 5/56 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.787
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.787 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.6 – Palazzo des Ottocento an Via dei Tosinghi – Teil 6/56 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.763
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.763 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.7 – Palazzo des Ottocento an Via dei Tosinghi – Teil 7/56 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.121
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.105 |
-| Polierter Andesit | `polished_andesite` | 13 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.8 – Palazzo des Ottocento an Via dei Tosinghi – Teil 8/56 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.121
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.113 |
-| Polierter Andesit | `polished_andesite` | 5 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.9 – Palazzo des Ottocento an Via dei Tosinghi – Teil 9/56 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.121
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 855 |
-| Weißer Beton | `white_concrete` | 250 |
-| Polierter Andesit | `polished_andesite` | 13 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.10 – Palazzo des Ottocento an Via dei Tosinghi – Teil 10/56 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 976
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 621 |
-| Graues Buntglas | `gray_stained_glass` | 151 |
-| Weißer Beton | `white_concrete` | 99 |
-| Grüner Beton | `green_concrete` | 97 |
-| Polierter Andesit | `polished_andesite` | 5 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.11 – Palazzo des Ottocento an Via dei Tosinghi – Teil 11/56 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 976
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 613 |
-| Graues Buntglas | `gray_stained_glass` | 151 |
-| Weißer Beton | `white_concrete` | 99 |
-| Grüner Beton | `green_concrete` | 97 |
-| Polierter Andesit | `polished_andesite` | 13 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.12 – Palazzo des Ottocento an Via dei Tosinghi – Teil 12/56 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.121
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 621 |
-| Polierter Andesit | `polished_andesite` | 156 |
-| Graues Buntglas | `gray_stained_glass` | 145 |
-| Weißer Beton | `white_concrete` | 99 |
-| Grüner Beton | `green_concrete` | 97 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.13 – Palazzo des Ottocento an Via dei Tosinghi – Teil 13/56 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 976
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 613 |
-| Graues Buntglas | `gray_stained_glass` | 151 |
-| Weißer Beton | `white_concrete` | 99 |
-| Grüner Beton | `green_concrete` | 97 |
-| Polierter Andesit | `polished_andesite` | 13 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.14 – Palazzo des Ottocento an Via dei Tosinghi – Teil 14/56 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 976
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 621 |
-| Graues Buntglas | `gray_stained_glass` | 151 |
-| Weißer Beton | `white_concrete` | 99 |
-| Grüner Beton | `green_concrete` | 97 |
-| Polierter Andesit | `polished_andesite` | 5 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.15 – Palazzo des Ottocento an Via dei Tosinghi – Teil 15/56 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.125
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 857 |
-| Weißer Beton | `white_concrete` | 250 |
-| Polierter Andesit | `polished_andesite` | 13 |
-| Glatter Stein | `smooth_stone` | 4 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.16 – Palazzo des Ottocento an Via dei Tosinghi – Teil 16/56 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.119 |
-| Polierter Andesit | `polished_andesite` | 6 |
-| Glatter Stein | `smooth_stone` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.17 – Palazzo des Ottocento an Via dei Tosinghi – Teil 17/56 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 685 |
-| Glatter Stein | `smooth_stone` | 440 |
-| Polierter Andesit | `polished_andesite` | 4 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.18 – Palazzo des Ottocento an Via dei Tosinghi – Teil 18/56 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.129 |
+| Polierter Tuffstein | `polished_tuff` | 1.544 |
+| Tuffstein | `tuff` | 173 |
+| Tuffsteinziegel | `tuff_bricks` | 43 |
+| Glatter Stein | `smooth_stone` | 5 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -616,1157 +106,239 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.19 – Palazzo des Ottocento an Via dei Tosinghi – Teil 19/56 (Y 78–78)
+### Schritt 20.2 – Renaissance-Palazzo an Vicolo del Ferro – Teil 2/8 (Y 68–75)
 
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 866 |
-| Weißer Beton | `white_concrete` | 255 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.20 – Palazzo des Ottocento an Via dei Tosinghi – Teil 20/56 (Y 79–80)
-
-- **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.970
-- **Bauteile:** `r1592494`
+- **Y-Bereich:** 68 bis 75
+- **Blöcke:** 1.752
+- **Bauteile:** `w114185237`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.246 |
-| Graues Buntglas | `gray_stained_glass` | 308 |
-| Weißer Beton | `white_concrete` | 202 |
-| Grüner Beton | `green_concrete` | 198 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.21 – Palazzo des Ottocento an Via dei Tosinghi – Teil 21/56 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 985
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 627 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
-| Weißer Beton | `white_concrete` | 101 |
-| Grüner Beton | `green_concrete` | 99 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.22 – Palazzo des Ottocento an Via dei Tosinghi – Teil 22/56 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 866 |
-| Weißer Beton | `white_concrete` | 255 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.23 – Palazzo des Ottocento an Via dei Tosinghi – Teil 23/56 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 775 |
-| Weißer Beton | `white_concrete` | 354 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.24 – Palazzo des Ottocento an Via dei Tosinghi – Teil 24/56 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 685 |
-| Weißer Beton | `white_concrete` | 255 |
-| Glatter Stein | `smooth_stone` | 193 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.25 – Palazzo des Ottocento an Via dei Tosinghi – Teil 25/56 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.129 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.26 – Palazzo des Ottocento an Via dei Tosinghi – Teil 26/56 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 866 |
-| Weißer Beton | `white_concrete` | 255 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.27 – Palazzo des Ottocento an Via dei Tosinghi – Teil 27/56 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.970
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.246 |
-| Graues Buntglas | `gray_stained_glass` | 308 |
-| Weißer Beton | `white_concrete` | 202 |
-| Grüner Beton | `green_concrete` | 198 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.28 – Palazzo des Ottocento an Via dei Tosinghi – Teil 28/56 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 985
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 627 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
-| Weißer Beton | `white_concrete` | 101 |
-| Grüner Beton | `green_concrete` | 99 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.29 – Palazzo des Ottocento an Via dei Tosinghi – Teil 29/56 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 866 |
-| Weißer Beton | `white_concrete` | 255 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.30 – Palazzo des Ottocento an Via dei Tosinghi – Teil 30/56 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 775 |
-| Weißer Beton | `white_concrete` | 354 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.31 – Palazzo des Ottocento an Via dei Tosinghi – Teil 31/56 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 685 |
-| Glatter Stein | `smooth_stone` | 448 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.32 – Palazzo des Ottocento an Via dei Tosinghi – Teil 32/56 (Y 93–93)
-
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.129 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.33 – Palazzo des Ottocento an Via dei Tosinghi – Teil 33/56 (Y 94–94)
-
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 866 |
-| Weißer Beton | `white_concrete` | 255 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.34 – Palazzo des Ottocento an Via dei Tosinghi – Teil 34/56 (Y 95–96)
-
-- **Y-Bereich:** 95 bis 96
-- **Blöcke:** 1.970
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.246 |
-| Graues Buntglas | `gray_stained_glass` | 308 |
-| Weißer Beton | `white_concrete` | 202 |
-| Grüner Beton | `green_concrete` | 198 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.35 – Palazzo des Ottocento an Via dei Tosinghi – Teil 35/56 (Y 97–97)
-
-- **Y-Bereich:** 97 bis 97
-- **Blöcke:** 985
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 627 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
-| Weißer Beton | `white_concrete` | 101 |
-| Grüner Beton | `green_concrete` | 99 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.36 – Palazzo des Ottocento an Via dei Tosinghi – Teil 36/56 (Y 98–98)
-
-- **Y-Bereich:** 98 bis 98
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 866 |
-| Weißer Beton | `white_concrete` | 255 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.37 – Palazzo des Ottocento an Via dei Tosinghi – Teil 37/56 (Y 99–99)
-
-- **Y-Bereich:** 99 bis 99
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 775 |
-| Weißer Beton | `white_concrete` | 354 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.38 – Palazzo des Ottocento an Via dei Tosinghi – Teil 38/56 (Y 100–100)
-
-- **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 685 |
-| Glatter Stein | `smooth_stone` | 448 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.39 – Palazzo des Ottocento an Via dei Tosinghi – Teil 39/56 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.129 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.40 – Palazzo des Ottocento an Via dei Tosinghi – Teil 40/56 (Y 102–102)
-
-- **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.121 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.41 – Palazzo des Ottocento an Via dei Tosinghi – Teil 41/56 (Y 103–103)
-
-- **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 874 |
-| Weißer Beton | `white_concrete` | 255 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.42 – Palazzo des Ottocento an Via dei Tosinghi – Teil 42/56 (Y 104–105)
-
-- **Y-Bereich:** 104 bis 105
-- **Blöcke:** 1.970
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.246 |
-| Graues Buntglas | `gray_stained_glass` | 308 |
-| Weißer Beton | `white_concrete` | 202 |
-| Grüner Beton | `green_concrete` | 198 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.43 – Palazzo des Ottocento an Via dei Tosinghi – Teil 43/56 (Y 106–106)
-
-- **Y-Bereich:** 106 bis 106
-- **Blöcke:** 985
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 619 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
-| Weißer Beton | `white_concrete` | 101 |
-| Grüner Beton | `green_concrete` | 99 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.44 – Palazzo des Ottocento an Via dei Tosinghi – Teil 44/56 (Y 107–107)
-
-- **Y-Bereich:** 107 bis 107
-- **Blöcke:** 1.133
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 874 |
-| Weißer Beton | `white_concrete` | 255 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.45 – Palazzo des Ottocento an Via dei Tosinghi – Teil 45/56 (Y 108–108)
-
-- **Y-Bereich:** 108 bis 108
-- **Blöcke:** 1.462
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 767 |
-| Weißer Beton | `white_concrete` | 354 |
-| Glatter Stein | `smooth_stone` | 329 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.46 – Palazzo des Ottocento an Via dei Tosinghi – Teil 46/56 (Y 109–109)
-
-- **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.811
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.129 |
-| Glatter Stein | `smooth_stone` | 678 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.47 – Palazzo des Ottocento an Via dei Tosinghi – Teil 47/56 (Y 110–110)
-
-- **Y-Bereich:** 110 bis 110
-- **Blöcke:** 1.554
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.554 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.48 – Palazzo des Ottocento an Via dei Tosinghi – Teil 48/56 (Y 110–110)
-
-- **Y-Bereich:** 110 bis 110
-- **Blöcke:** 1.547
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.547 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.49 – Palazzo des Ottocento an Via dei Tosinghi – Teil 49/56 (Y 111–111)
-
-- **Y-Bereich:** 111 bis 111
-- **Blöcke:** 2.046
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.046 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.50 – Palazzo des Ottocento an Via dei Tosinghi – Teil 50/56 (Y 112–112)
-
-- **Y-Bereich:** 112 bis 112
-- **Blöcke:** 1.308
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.308 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.51 – Palazzo des Ottocento an Via dei Tosinghi – Teil 51/56 (Y 112–112)
-
-- **Y-Bereich:** 112 bis 112
-- **Blöcke:** 1.301
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.301 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.52 – Palazzo des Ottocento an Via dei Tosinghi – Teil 52/56 (Y 113–113)
-
-- **Y-Bereich:** 113 bis 113
-- **Blöcke:** 2.079
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.016 |
-| Ziegelsteine | `bricks` | 63 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.53 – Palazzo des Ottocento an Via dei Tosinghi – Teil 53/56 (Y 114–114)
-
-- **Y-Bereich:** 114 bis 114
-- **Blöcke:** 1.246
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.228 |
-| Ziegelsteine | `bricks` | 18 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.54 – Palazzo des Ottocento an Via dei Tosinghi – Teil 54/56 (Y 114–114)
-
-- **Y-Bereich:** 114 bis 114
-- **Blöcke:** 1.253
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.231 |
-| Ziegelsteine | `bricks` | 22 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.55 – Palazzo des Ottocento an Via dei Tosinghi – Teil 55/56 (Y 115–115)
-
-- **Y-Bereich:** 115 bis 115
-- **Blöcke:** 1.677
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.606 |
-| Ziegelsteine | `bricks` | 71 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.56 – Palazzo des Ottocento an Via dei Tosinghi – Teil 56/56 (Y 116–119)
-
-- **Y-Bereich:** 116 bis 119
-- **Blöcke:** 1.153
-- **Bauteile:** `r1592494`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 755 |
-| Ziegelsteine | `bricks` | 398 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.57 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 1/20 (Y 65–76)
-
-- **Y-Bereich:** 65 bis 76
-- **Blöcke:** 2.016
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.905 |
-| Seelaterne | `sea_lantern` | 58 |
+| Tuffstein | `tuff` | 1.078 |
+| Polierter Andesit | `polished_andesite` | 345 |
+| Graues Buntglas | `gray_stained_glass` | 170 |
+| Tuffsteinziegel | `tuff_bricks` | 131 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.3 – Renaissance-Palazzo an Vicolo del Ferro – Teil 3/8 (Y 76–82)
+
+- **Y-Bereich:** 76 bis 82
+- **Blöcke:** 1.938
+- **Bauteile:** `w114185237`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 986 |
+| Polierter Andesit | `polished_andesite` | 378 |
+| Glatter Stein | `smooth_stone` | 258 |
+| Tuffsteinziegel | `tuff_bricks` | 178 |
+| Graues Buntglas | `gray_stained_glass` | 138 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.4 – Renaissance-Palazzo an Vicolo del Ferro – Teil 4/8 (Y 83–88)
+
+- **Y-Bereich:** 83 bis 88
+- **Blöcke:** 1.768
+- **Bauteile:** `w114185237`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 870 |
+| Polierter Andesit | `polished_andesite` | 517 |
+| Glatter Stein | `smooth_stone` | 256 |
+| Tuffsteinziegel | `tuff_bricks` | 71 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.5 – Renaissance-Palazzo an Vicolo del Ferro – Teil 5/8 (Y 89–94)
+
+- **Y-Bereich:** 89 bis 94
+- **Blöcke:** 1.633
+- **Bauteile:** `w114185237`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 780 |
+| Polierter Andesit | `polished_andesite` | 449 |
+| Glatter Stein | `smooth_stone` | 260 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.6 – Renaissance-Palazzo an Vicolo del Ferro – Teil 6/8 (Y 95–101)
+
+- **Y-Bereich:** 95 bis 101
+- **Blöcke:** 1.907
+- **Bauteile:** `w114185237`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 886 |
+| Polierter Andesit | `polished_andesite` | 684 |
+| Graues Buntglas | `gray_stained_glass` | 192 |
+| Glatter Stein | `smooth_stone` | 145 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.7 – Renaissance-Palazzo an Vicolo del Ferro – Teil 7/8 (Y 102–104)
+
+- **Y-Bereich:** 102 bis 104
+- **Blöcke:** 1.973
+- **Bauteile:** `w114185237`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 825 |
+| Glatter Stein | `smooth_stone` | 602 |
+| Tuffstein | `tuff` | 308 |
+| Polierter Andesit | `polished_andesite` | 238 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.8 – Renaissance-Palazzo an Vicolo del Ferro – Teil 8/8 (Y 105–112)
+
+- **Y-Bereich:** 105 bis 112
+- **Blöcke:** 1.539
+- **Bauteile:** `w114185237`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.446 |
+| Ziegelsteine | `bricks` | 93 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.9 – Renaissance-Palazzo an Vicolo del Ferro: Innenausbau – Teil 1/3 (Y 66–77)
+
+- **Y-Bereich:** 66 bis 77
+- **Blöcke:** 1.328
+- **Bauteile:** `w114185237_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.259 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Seelaterne | `sea_lantern` | 16 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -1794,139 +366,793 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.58 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 2/20 (Y 76–76)
+### Schritt 20.10 – Renaissance-Palazzo an Vicolo del Ferro: Innenausbau – Teil 2/3 (Y 78–85)
 
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.859
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.850 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.59 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 3/20 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.912
-- **Bauteile:** `r1592494_innen`
+- **Y-Bereich:** 78 bis 85
+- **Blöcke:** 1.314
+- **Bauteile:** `w114185237_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.899 |
-| Seelaterne | `sea_lantern` | 13 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.60 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 4/20 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.862
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.853 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.61 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 5/20 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.902
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.893 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.62 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 6/20 (Y 77–84)
-
-- **Y-Bereich:** 77 bis 84
-- **Blöcke:** 1.961
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.905 |
+| Terrakotta | `terracotta` | 1.259 |
 | Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.11 – Renaissance-Palazzo an Vicolo del Ferro: Innenausbau – Teil 3/3 (Y 86–95)
+
+- **Y-Bereich:** 86 bis 95
+- **Blöcke:** 1.327
+- **Bauteile:** `w114185237_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.259 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.12 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 1/16 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.475
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.475 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.13 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 2/16 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.528
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.528 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.14 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 3/16 (Y 66–67)
+
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.944
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.518 |
+| Orange Keramik | `orange_terracotta` | 411 |
+| Polierter Andesit | `polished_andesite` | 12 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.15 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 4/16 (Y 68–71)
+
+- **Y-Bereich:** 68 bis 71
+- **Blöcke:** 1.606
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.215 |
+| Weißer Beton | `white_concrete` | 167 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
+| Grüner Beton | `green_concrete` | 74 |
+| Polierter Andesit | `polished_andesite` | 38 |
+| Glatter Stein | `smooth_stone` | 8 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.16 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 5/16 (Y 72–75)
+
+- **Y-Bereich:** 72 bis 75
+- **Blöcke:** 1.673
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.224 |
+| Weißer Beton | `white_concrete` | 167 |
+| Graues Buntglas | `gray_stained_glass` | 99 |
+| Polierter Andesit | `polished_andesite` | 90 |
+| Grüner Beton | `green_concrete` | 74 |
+| Glatter Stein | `smooth_stone` | 14 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.17 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 6/16 (Y 76–79)
+
+- **Y-Bereich:** 76 bis 79
+- **Blöcke:** 1.701
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.244 |
+| Glatter Stein | `smooth_stone` | 194 |
+| Weißer Beton | `white_concrete` | 134 |
+| Graues Buntglas | `gray_stained_glass` | 52 |
+| Grüner Beton | `green_concrete` | 39 |
+| Polierter Andesit | `polished_andesite` | 34 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.18 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 7/16 (Y 80–84)
+
+- **Y-Bereich:** 80 bis 84
+- **Blöcke:** 2.037
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.372 |
+| Weißer Beton | `white_concrete` | 350 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
+| Grüner Beton | `green_concrete` | 117 |
+| Polierter Andesit | `polished_andesite` | 42 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.19 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 8/16 (Y 85–88)
+
+- **Y-Bereich:** 85 bis 88
+- **Blöcke:** 1.701
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.250 |
+| Glatter Stein | `smooth_stone` | 202 |
+| Weißer Beton | `white_concrete` | 134 |
+| Graues Buntglas | `gray_stained_glass` | 52 |
+| Grüner Beton | `green_concrete` | 39 |
+| Polierter Andesit | `polished_andesite` | 24 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.20 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 9/16 (Y 89–92)
+
+- **Y-Bereich:** 89 bis 92
+- **Blöcke:** 1.599
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.074 |
+| Weißer Beton | `white_concrete` | 216 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
+| Grüner Beton | `green_concrete` | 117 |
+| Polierter Andesit | `polished_andesite` | 36 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.21 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 10/16 (Y 93–96)
+
+- **Y-Bereich:** 93 bis 96
+- **Blöcke:** 1.752
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.293 |
+| Weißer Beton | `white_concrete` | 227 |
+| Glatter Stein | `smooth_stone` | 202 |
+| Polierter Andesit | `polished_andesite` | 30 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.22 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 11/16 (Y 97–100)
+
+- **Y-Bereich:** 97 bis 100
+- **Blöcke:** 1.548
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 984 |
+| Graues Buntglas | `gray_stained_glass` | 208 |
+| Weißer Beton | `white_concrete` | 164 |
+| Grüner Beton | `green_concrete` | 156 |
+| Polierter Andesit | `polished_andesite` | 36 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.23 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 12/16 (Y 101–103)
+
+- **Y-Bereich:** 101 bis 103
+- **Blöcke:** 1.747
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.057 |
+| Fichtenholz-Bretter | `spruce_planks` | 433 |
+| Weißer Beton | `white_concrete` | 227 |
+| Polierter Andesit | `polished_andesite` | 30 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.24 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 13/16 (Y 104–104)
+
+- **Y-Bereich:** 104 bis 104
+- **Blöcke:** 1.421
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.421 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.25 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 14/16 (Y 105–106)
+
+- **Y-Bereich:** 105 bis 106
+- **Blöcke:** 1.588
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.588 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.26 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 15/16 (Y 107–109)
+
+- **Y-Bereich:** 107 bis 109
+- **Blöcke:** 1.854
+- **Bauteile:** `w454232387`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.762 |
+| Ziegelsteine | `bricks` | 92 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.27 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 16/16 (Y 110–115) & Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau – Teil 1/7 (Y 66–75)
+
+- **Y-Bereich:** 66 bis 115
+- **Blöcke:** 1.845
+- **Bauteile:** `w454232387`, `w454232387_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.643 |
+| Ziegelsteine | `bricks` | 135 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 20 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.28 – Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau – Teil 2/7 (Y 76–76)
+
+- **Y-Bereich:** 76 bis 76
+- **Blöcke:** 2.057
+- **Bauteile:** `w454232387_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 2.048 |
+| Seelaterne | `sea_lantern` | 9 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.29 – Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau – Teil 3/7 (Y 76–84)
+
+- **Y-Bereich:** 76 bis 84
+- **Blöcke:** 2.089
+- **Bauteile:** `w454232387_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 2.027 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.30 – Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau – Teil 4/7 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.057
+- **Bauteile:** `w454232387_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 2.048 |
+| Seelaterne | `sea_lantern` | 9 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.31 – Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau – Teil 5/7 (Y 85–93)
+
+- **Y-Bereich:** 85 bis 93
+- **Blöcke:** 2.089
+- **Bauteile:** `w454232387_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 2.027 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.32 – Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau – Teil 6/7 (Y 94–94)
+
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 2.057
+- **Bauteile:** `w454232387_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 2.048 |
+| Seelaterne | `sea_lantern` | 9 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.33 – Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau – Teil 7/7 (Y 94–95)
+
+- **Y-Bereich:** 94 bis 95
+- **Blöcke:** 2.049
+- **Bauteile:** `w454232387_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 2.027 |
+| Seelaterne | `sea_lantern` | 11 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -1935,12 +1161,363 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Steintreppe | `stone_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 20.34 – Palazzo des Ottocento an Via degli Speziali – Teil 1/10 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.063
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.063 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.35 – Palazzo des Ottocento an Via degli Speziali – Teil 2/10 (Y 67–70)
+
+- **Y-Bereich:** 67 bis 70
+- **Blöcke:** 2.034
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.083 |
+| Hellgrauer Beton | `light_gray_concrete` | 743 |
+| Glatter Stein | `smooth_stone` | 104 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
+| Polierter Andesit | `polished_andesite` | 14 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.36 – Palazzo des Ottocento an Via degli Speziali – Teil 3/10 (Y 71–76)
+
+- **Y-Bereich:** 71 bis 76
+- **Blöcke:** 1.860
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.248 |
+| Graues Buntglas | `gray_stained_glass` | 309 |
+| Glatter Stein | `smooth_stone` | 229 |
+| Grüner Beton | `green_concrete` | 50 |
+| Polierter Andesit | `polished_andesite` | 24 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.37 – Palazzo des Ottocento an Via degli Speziali – Teil 4/10 (Y 77–81)
+
+- **Y-Bereich:** 77 bis 81
+- **Blöcke:** 1.817
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.406 |
+| Glatter Stein | `smooth_stone` | 331 |
+| Graues Buntglas | `gray_stained_glass` | 44 |
+| Grüner Beton | `green_concrete` | 24 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.38 – Palazzo des Ottocento an Via degli Speziali – Teil 5/10 (Y 82–87)
+
+- **Y-Bereich:** 82 bis 87
+- **Blöcke:** 2.058
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.502 |
+| Glatter Stein | `smooth_stone` | 334 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Grüner Beton | `green_concrete` | 72 |
+| Polierter Andesit | `polished_andesite` | 18 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.39 – Palazzo des Ottocento an Via degli Speziali – Teil 6/10 (Y 88–93)
+
+- **Y-Bereich:** 88 bis 93
+- **Blöcke:** 2.006
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.364 |
+| Glatter Stein | `smooth_stone` | 278 |
+| Graues Buntglas | `gray_stained_glass` | 220 |
+| Grüner Beton | `green_concrete` | 120 |
+| Polierter Andesit | `polished_andesite` | 24 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.40 – Palazzo des Ottocento an Via degli Speziali – Teil 7/10 (Y 94–98)
+
+- **Y-Bereich:** 94 bis 98
+- **Blöcke:** 1.861
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.493 |
+| Glatter Stein | `smooth_stone` | 348 |
+| Polierter Andesit | `polished_andesite` | 20 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.41 – Palazzo des Ottocento an Via degli Speziali – Teil 8/10 (Y 99–103)
+
+- **Y-Bereich:** 99 bis 103
+- **Blöcke:** 1.814
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.416 |
+| Glatter Stein | `smooth_stone` | 176 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Grüner Beton | `green_concrete` | 72 |
+| Polierter Andesit | `polished_andesite` | 18 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.42 – Palazzo des Ottocento an Via degli Speziali – Teil 9/10 (Y 104–106)
+
+- **Y-Bereich:** 104 bis 106
+- **Blöcke:** 2.057
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.552 |
+| Hellgrauer Beton | `light_gray_concrete` | 499 |
+| Polierter Andesit | `polished_andesite` | 6 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.43 – Palazzo des Ottocento an Via degli Speziali – Teil 10/10 (Y 107–113)
+
+- **Y-Bereich:** 107 bis 113
+- **Blöcke:** 1.527
+- **Bauteile:** `w542316807`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.394 |
+| Ziegelsteine | `bricks` | 133 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.44 – Palazzo des Ottocento an Via degli Speziali: Innenausbau – Teil 1/3 (Y 67–78)
+
+- **Y-Bereich:** 67 bis 78
+- **Blöcke:** 1.851
+- **Bauteile:** `w542316807_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.773 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Seelaterne | `sea_lantern` | 22 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1954,137 +1531,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.63 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 7/20 (Y 84–84)
+### Schritt 20.45 – Palazzo des Ottocento an Via degli Speziali: Innenausbau – Teil 2/3 (Y 79–86)
 
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.859
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.850 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.64 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 8/20 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.912
-- **Bauteile:** `r1592494_innen`
+- **Y-Bereich:** 79 bis 86
+- **Blöcke:** 1.831
+- **Bauteile:** `w542316807_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.899 |
-| Seelaterne | `sea_lantern` | 13 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.65 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 9/20 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.862
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.853 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.66 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 10/20 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.902
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.893 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.67 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 11/20 (Y 85–92)
-
-- **Y-Bereich:** 85 bis 92
-- **Blöcke:** 1.961
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.905 |
+| Terrakotta | `terracotta` | 1.773 |
 | Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -2100,7 +1561,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2114,153 +1575,39 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.68 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 12/20 (Y 92–92)
+### Schritt 20.46 – Palazzo des Ottocento an Via degli Speziali: Innenausbau – Teil 3/3 (Y 87–96)
 
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.859
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.850 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.69 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 13/20 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.912
-- **Bauteile:** `r1592494_innen`
+- **Y-Bereich:** 87 bis 96
+- **Blöcke:** 1.844
+- **Bauteile:** `w542316807_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.899 |
-| Seelaterne | `sea_lantern` | 13 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.70 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 14/20 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.862
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.853 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.71 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 15/20 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.902
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.893 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.72 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 16/20 (Y 93–100)
-
-- **Y-Bereich:** 93 bis 100
-- **Blöcke:** 1.961
-- **Bauteile:** `r1592494_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.905 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Terrakotta | `terracotta` | 1.773 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2274,22 +1621,130 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.73 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 17/20 (Y 100–100)
+### Schritt 20.47 – Reihenhaus an Vicolo dell'Onestà – Teil 1/3 (Y 68–77)
 
-- **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.859
-- **Bauteile:** `r1592494_innen`
+- **Y-Bereich:** 68 bis 77
+- **Blöcke:** 1.440
+- **Bauteile:** `w542316810`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.850 |
-| Seelaterne | `sea_lantern` | 9 |
+| Polierter Tuffstein | `polished_tuff` | 709 |
+| Hellgrauer Beton | `light_gray_concrete` | 652 |
+| Weißer Beton | `white_concrete` | 42 |
+| Glatter Stein | `smooth_stone` | 19 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.48 – Reihenhaus an Vicolo dell'Onestà – Teil 2/3 (Y 78–93)
+
+- **Y-Bereich:** 78 bis 93
+- **Blöcke:** 1.392
+- **Bauteile:** `w542316810`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.166 |
+| Weißer Beton | `white_concrete` | 178 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.49 – Reihenhaus an Vicolo dell'Onestà – Teil 3/3 (Y 94–105)
+
+- **Y-Bereich:** 94 bis 105
+- **Blöcke:** 1.475
+- **Bauteile:** `w542316810`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 950 |
+| Hellgrauer Beton | `light_gray_concrete` | 361 |
+| Weißer Beton | `white_concrete` | 57 |
+| Ziegelsteine | `bricks` | 47 |
+| Fichtenholz-Bretter | `spruce_planks` | 44 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.50 – Reihenhaus an Vicolo dell'Onestà: Innenausbau
+
+- **Y-Bereich:** 68 bis 92
+- **Blöcke:** 1.993
+- **Bauteile:** `w542316810_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.833 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Seelaterne | `sea_lantern` | 20 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2303,93 +1758,73 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.74 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 18/20 (Y 100–100)
+### Schritt 20.51 – Reihenhaus an Vicolo dell'Onestà
 
-- **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.912
-- **Bauteile:** `r1592494_innen`
+- **Y-Bereich:** 67 bis 103
+- **Blöcke:** 1.760
+- **Bauteile:** `w542316816`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.899 |
-| Seelaterne | `sea_lantern` | 13 |
+| Weißer Beton | `white_concrete` | 927 |
+| Terrakotta | `terracotta` | 368 |
+| Polierter Tuffstein | `polished_tuff` | 303 |
+| Glatter Stein | `smooth_stone` | 75 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
+| Ziegelsteine | `bricks` | 27 |
+| Grüner Beton | `green_concrete` | 24 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.75 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 19/20 (Y 100–100)
+### Schritt 20.52 – Reihenhaus an Vicolo dell'Onestà: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.862
-- **Bauteile:** `r1592494_innen`
+- **Y-Bereich:** 67 bis 91
+- **Blöcke:** 928
+- **Bauteile:** `w542316816_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.853 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 20.76 – Palazzo des Ottocento an Via dei Tosinghi: Innenausbau – Teil 20/20 (Y 100–101) & Straßenschilder
-
-- **Y-Bereich:** 72 bis 101
-- **Blöcke:** 1.914
-- **Bauteile:** `r1592494_innen`, `strassenschilder`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.893 |
-| Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Terrakotta | `terracotta` | 771 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 

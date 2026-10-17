@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 290.271 |
+| Blöcke | 290.269 |
 | Bauschritte | 190 |
 | Y-Bereich | 69 bis 112 |
 | X-Ausdehnung | 892 bis 1248 (357 Blöcke) |
@@ -22,16 +22,16 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 96.814 | 33,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 31.898 | 11,0 % |
-| Weißer Beton | `white_concrete` | 30.882 | 10,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 31.924 | 11,0 % |
+| Weißer Beton | `white_concrete` | 30.862 | 10,6 % |
 | Polierter Tuffstein | `polished_tuff` | 30.842 | 10,6 % |
 | Tuffstein | `tuff` | 24.059 | 8,3 % |
 | Endsteinziegel | `end_stone_bricks` | 15.965 | 5,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 15.523 | 5,3 % |
-| Glatter Stein | `smooth_stone` | 14.200 | 4,9 % |
-| Polierter Andesit | `polished_andesite` | 11.644 | 4,0 % |
+| Glatter Stein | `smooth_stone` | 14.199 | 4,9 % |
+| Polierter Andesit | `polished_andesite` | 11.645 | 4,0 % |
 | Rosa Keramik | `pink_terracotta` | 6.973 | 2,4 % |
-| Graues Buntglas | `gray_stained_glass` | 4.369 | 1,5 % |
+| Graues Buntglas | `gray_stained_glass` | 4.361 | 1,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.905 | 1,0 % |
 | Ziegelsteine | `bricks` | 1.594 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.162 | 0,4 % |
@@ -61,7 +61,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4086112` | Palazzo di Gino Capponi | 55.840 | 14.1–14.43 |
+| 1 | `r4086112` | Palazzo di Gino Capponi | 55.838 | 14.1–14.43 |
 | 2 | `r4086112_innen` | Palazzo di Gino Capponi: Innenausbau | 16.391 | 14.43–14.51 |
 | 3 | `r7219584` | Renaissance-Palazzo an Via Gino Capponi | 30.027 | 14.52–14.72 |
 | 4 | `r7219584_innen` | Renaissance-Palazzo an Via Gino Capponi: Innenausbau | 6.747 | 14.73–14.76 |
@@ -103,7 +103,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -115,7 +115,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.2 – Palazzo di Gino Capponi – Teil 2/43 (Y 70–70)
 
@@ -131,7 +131,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -143,7 +143,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.3 – Palazzo di Gino Capponi – Teil 3/43 (Y 70–70)
 
@@ -159,7 +159,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -171,7 +171,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.4 – Palazzo di Gino Capponi – Teil 4/43 (Y 70–70)
 
@@ -187,7 +187,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -199,7 +199,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.5 – Palazzo di Gino Capponi – Teil 5/43 (Y 70–70)
 
@@ -215,7 +215,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -227,7 +227,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.6 – Palazzo di Gino Capponi – Teil 6/43 (Y 71–71)
 
@@ -240,13 +240,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.097 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Polierter Andesit | `polished_andesite` | 10 |
 | Glatter Stein | `smooth_stone` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -258,26 +258,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.7 – Palazzo di Gino Capponi – Teil 7/43 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.183
+- **Blöcke:** 1.182
 - **Bauteile:** `r4086112`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 989 |
-| Weißer Beton | `white_concrete` | 186 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Glatter Sandstein | `smooth_sandstone` | 991 |
+| Weißer Beton | `white_concrete` | 183 |
+| Polierter Andesit | `polished_andesite` | 3 |
 | Glatter Stein | `smooth_stone` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -289,27 +290,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.8 – Palazzo di Gino Capponi – Teil 8/43 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.205
+- **Blöcke:** 1.204
 - **Bauteile:** `r4086112`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 925 |
-| Weißer Beton | `white_concrete` | 266 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Glatter Sandstein | `smooth_sandstone` | 929 |
+| Weißer Beton | `white_concrete` | 261 |
+| Polierter Andesit | `polished_andesite` | 10 |
 | Glatter Stein | `smooth_stone` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -321,7 +322,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.9 – Palazzo di Gino Capponi – Teil 9/43 (Y 74–74)
 
@@ -333,15 +334,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 894 |
-| Weißer Beton | `white_concrete` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Glatter Sandstein | `smooth_sandstone` | 898 |
+| Weißer Beton | `white_concrete` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Polierter Andesit | `polished_andesite` | 3 |
 | Glatter Stein | `smooth_stone` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -353,7 +355,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.10 – Palazzo di Gino Capponi – Teil 10/43 (Y 75–75)
 
@@ -365,16 +367,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 891 |
-| Weißer Beton | `white_concrete` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
-| Polierter Andesit | `polished_andesite` | 8 |
-| Glatter Stein | `smooth_stone` | 7 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Glatter Sandstein | `smooth_sandstone` | 895 |
+| Weißer Beton | `white_concrete` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Polierter Andesit | `polished_andesite` | 11 |
+| Glatter Stein | `smooth_stone` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -386,7 +388,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.11 – Palazzo di Gino Capponi – Teil 11/43 (Y 76–76)
 
@@ -398,15 +400,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 897 |
-| Weißer Beton | `white_concrete` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
-| Polierter Andesit | `polished_andesite` | 8 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Glatter Sandstein | `smooth_sandstone` | 901 |
+| Weißer Beton | `white_concrete` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -418,7 +420,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.12 – Palazzo di Gino Capponi – Teil 12/43 (Y 77–77)
 
@@ -430,14 +432,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 901 |
-| Weißer Beton | `white_concrete` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
+| Glatter Sandstein | `smooth_sandstone` | 905 |
+| Weißer Beton | `white_concrete` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -449,7 +451,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.13 – Palazzo di Gino Capponi – Teil 13/43 (Y 78–78)
 
@@ -461,13 +463,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 944 |
-| Weißer Beton | `white_concrete` | 172 |
+| Glatter Sandstein | `smooth_sandstone` | 948 |
+| Weißer Beton | `white_concrete` | 168 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -479,7 +481,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.14 – Palazzo di Gino Capponi – Teil 14/43 (Y 79–79)
 
@@ -496,7 +498,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -508,7 +510,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.15 – Palazzo di Gino Capponi – Teil 15/43 (Y 80–80)
 
@@ -525,7 +527,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -537,7 +539,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.16 – Palazzo di Gino Capponi – Teil 16/43 (Y 81–81)
 
@@ -554,7 +556,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -566,7 +568,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.17 – Palazzo di Gino Capponi – Teil 17/43 (Y 82–82)
 
@@ -584,7 +586,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -596,7 +598,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.18 – Palazzo di Gino Capponi – Teil 18/43 (Y 83–83)
 
@@ -615,7 +617,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -627,7 +629,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.19 – Palazzo di Gino Capponi – Teil 19/43 (Y 84–84)
 
@@ -646,7 +648,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -658,7 +660,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.20 – Palazzo di Gino Capponi – Teil 20/43 (Y 85–85)
 
@@ -677,7 +679,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -689,7 +691,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.21 – Palazzo di Gino Capponi – Teil 21/43 (Y 86–86)
 
@@ -708,7 +710,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -720,7 +722,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.22 – Palazzo di Gino Capponi – Teil 22/43 (Y 87–87)
 
@@ -739,7 +741,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -751,7 +753,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.23 – Palazzo di Gino Capponi – Teil 23/43 (Y 88–88)
 
@@ -769,7 +771,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -781,7 +783,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.24 – Palazzo di Gino Capponi – Teil 24/43 (Y 89–89)
 
@@ -799,7 +801,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -811,7 +813,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.25 – Palazzo di Gino Capponi – Teil 25/43 (Y 90–90)
 
@@ -828,7 +830,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -840,7 +842,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.26 – Palazzo di Gino Capponi – Teil 26/43 (Y 91–91)
 
@@ -857,7 +859,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -869,7 +871,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.27 – Palazzo di Gino Capponi – Teil 27/43 (Y 92–92)
 
@@ -887,7 +889,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -899,7 +901,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.28 – Palazzo di Gino Capponi – Teil 28/43 (Y 93–93)
 
@@ -918,7 +920,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -930,7 +932,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.29 – Palazzo di Gino Capponi – Teil 29/43 (Y 94–94)
 
@@ -949,7 +951,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -961,7 +963,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.30 – Palazzo di Gino Capponi – Teil 30/43 (Y 95–95)
 
@@ -980,7 +982,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -992,7 +994,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.31 – Palazzo di Gino Capponi – Teil 31/43 (Y 96–96)
 
@@ -1011,7 +1013,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1023,7 +1025,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.32 – Palazzo di Gino Capponi – Teil 32/43 (Y 97–97)
 
@@ -1042,7 +1044,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1054,7 +1056,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.33 – Palazzo di Gino Capponi – Teil 33/43 (Y 98–98)
 
@@ -1072,7 +1074,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1084,7 +1086,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.34 – Palazzo di Gino Capponi – Teil 34/43 (Y 99–99)
 
@@ -1103,7 +1105,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1115,7 +1117,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.35 – Palazzo di Gino Capponi – Teil 35/43 (Y 100–100)
 
@@ -1133,7 +1135,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1145,7 +1147,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.36 – Palazzo di Gino Capponi – Teil 36/43 (Y 101–101)
 
@@ -1161,7 +1163,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1173,7 +1175,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.37 – Palazzo di Gino Capponi – Teil 37/43 (Y 101–101)
 
@@ -1189,7 +1191,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1201,7 +1203,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.38 – Palazzo di Gino Capponi – Teil 38/43 (Y 102–102)
 
@@ -1217,7 +1219,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1229,7 +1231,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.39 – Palazzo di Gino Capponi – Teil 39/43 (Y 103–103)
 
@@ -1245,7 +1247,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1257,7 +1259,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.40 – Palazzo di Gino Capponi – Teil 40/43 (Y 104–104)
 
@@ -1274,7 +1276,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1286,7 +1288,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.41 – Palazzo di Gino Capponi – Teil 41/43 (Y 105–105)
 
@@ -1303,7 +1305,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1315,7 +1317,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.42 – Palazzo di Gino Capponi – Teil 42/43 (Y 106–107)
 
@@ -1332,7 +1334,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1344,7 +1346,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 14.43 – Palazzo di Gino Capponi – Teil 43/43 (Y 108–112) & Palazzo di Gino Capponi: Innenausbau – Teil 1/9 (Y 70–79)
 
@@ -1375,7 +1377,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Palazzo des Cinquecento (1700-1716 (Fontana zugeschrieben), Gartenfassade 1736-41), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Gino_Capponi, Angaben belegt (Sicherheit 0,65). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1387,7 +1389,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
 ### Schritt 14.44 – Palazzo di Gino Capponi: Innenausbau – Teil 2/9 (Y 80–80)
 

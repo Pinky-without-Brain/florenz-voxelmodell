@@ -8,43 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 92.500 |
-| Bauschritte | 61 |
+| Blöcke | 92.730 |
+| Bauschritte | 62 |
 | Y-Bereich | 61 bis 102 |
 | X-Ausdehnung | -1220 bis -1041 (180 Blöcke) |
 | Z-Ausdehnung | 1335 bis 1480 (146 Blöcke) |
-| Kleinster Schritt | 354 Blöcke (Schritt 11.49) |
-| Mittlerer Schritt | 1.516 Blöcke |
-| Größter Schritt | 2.090 Blöcke (Schritt 11.37) |
+| Kleinster Schritt | 354 Blöcke (Schritt 11.50) |
+| Mittlerer Schritt | 1.496 Blöcke |
+| Größter Schritt | 2.090 Blöcke (Schritt 11.38) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 26.028 | 28,1 % |
-| Weißer Beton | `white_concrete` | 25.212 | 27,3 % |
+| Weißer Beton | `white_concrete` | 25.811 | 27,8 % |
 | Endsteinziegel | `end_stone_bricks` | 11.686 | 12,6 % |
 | Polierter Tuffstein | `polished_tuff` | 8.148 | 8,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 5.734 | 6,2 % |
-| Glatter Sandstein | `smooth_sandstone` | 4.119 | 4,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 5.581 | 6,0 % |
+| Glatter Sandstein | `smooth_sandstone` | 4.119 | 4,4 % |
 | Orange Keramik | `orange_terracotta` | 2.785 | 3,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 2.724 | 2,9 % |
-| Graues Buntglas | `gray_stained_glass` | 1.647 | 1,8 % |
-| Glatter Stein | `smooth_stone` | 1.255 | 1,4 % |
+| Graues Buntglas | `gray_stained_glass` | 1.500 | 1,6 % |
+| Glatter Stein | `smooth_stone` | 1.068 | 1,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 916 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 514 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 498 | 0,5 % |
 | Ziegelsteine | `bricks` | 388 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 264 | 0,3 % |
+| Grüner Beton | `green_concrete` | 241 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 200 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 188 | 0,2 % |
 | Seelaterne | `sea_lantern` | 171 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 151 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 139 | 0,2 % |
-| Grüner Beton | `green_concrete` | 120 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 31 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 31 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 139 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 32 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 32 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 9 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
@@ -55,7 +56,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 678 |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -63,39 +64,39 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r6841697` | Reihenhaus an Via Sguazza | 7.318 | 11.1–11.4 |
 | 2 | `r6841697_innen` | Reihenhaus an Via Sguazza: Innenausbau | 1.085 | 11.5 |
-| 3 | `w306798518` | Palazzo Michelozzi | 16.008 | 11.6–11.14 |
-| 4 | `w306798518_innen` | Palazzo Michelozzi: Innenausbau | 3.629 | 11.15–11.16 |
-| 5 | `w306798524` | Reihenhaus an Via Sguazza | 9.541 | 11.17–11.21 |
-| 6 | `w306798524_innen` | Reihenhaus an Via Sguazza: Innenausbau | 1.905 | 11.22 |
-| 7 | `w463258215` | Reihenhaus an Via dei Velluti | 4.102 | 11.23–11.24 |
-| 8 | `w463258215_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 782 | 11.25 |
-| 9 | `w463258217` | Reihenhaus an Via Sguazza | 3.282 | 11.26–11.27 |
-| 10 | `w463258217_innen` | Reihenhaus an Via Sguazza: Innenausbau | 450 | 11.28 |
-| 11 | `w463258218` | Reihenhaus an Via Toscanella | 2.942 | 11.29–11.30 |
-| 12 | `w463258218_innen` | Reihenhaus an Via Toscanella: Innenausbau | 444 | 11.31 |
-| 13 | `w463258219` | Reihenhaus an Via Sguazza | 3.619 | 11.32–11.33 |
-| 14 | `w463258219_innen` | Reihenhaus an Via Sguazza: Innenausbau | 1.144 | 11.34 |
-| 15 | `w463258220` | Reihenhaus an Via Sguazza | 2.197 | 11.35–11.36 |
-| 16 | `w463258220_innen` | Reihenhaus an Via Sguazza: Innenausbau | 2 | 11.37 |
-| 17 | `w463258221` | Reihenhaus an Via Toscanella | 4.175 | 11.37–11.38 |
-| 18 | `w463258221_innen` | Reihenhaus an Via Toscanella: Innenausbau | 982 | 11.39 |
-| 19 | `w463258222` | Reihenhaus an Via dei Velluti | 2.991 | 11.40–11.41 |
-| 20 | `w463258222_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 2 | 11.42 |
-| 21 | `w463258223` | Reihenhaus an Via dei Velluti | 1.665 | 11.42 |
-| 22 | `w463258223_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.039 | 11.43 |
-| 23 | `w463258224` | Reihenhaus an Via Sguazza | 2.223 | 11.44–11.45 |
-| 24 | `w463258224_innen` | Reihenhaus an Via Sguazza: Innenausbau | 466 | 11.46 |
-| 25 | `w463258226` | Reihenhaus an Via Toscanella | 2.285 | 11.47–11.48 |
-| 26 | `w463258226_innen` | Reihenhaus an Via Toscanella: Innenausbau | 354 | 11.49 |
-| 27 | `w463258227` | Reihenhaus an Via dei Velluti | 4.812 | 11.50–11.52 |
-| 28 | `w463258227_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.956 | 11.53 |
-| 29 | `w463258229` | Reihenhaus an Via Sguazza | 2.726 | 11.54–11.55 |
-| 30 | `w463258229_innen` | Reihenhaus an Via Sguazza: Innenausbau | 962 | 11.56 |
-| 31 | `w463258230` | Reihenhaus an Via dei Velluti | 1.286 | 11.57 |
-| 32 | `w463258230_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.018 | 11.58 |
-| 33 | `w463258231` | Reihenhaus an Via dei Velluti | 3.531 | 11.59–11.60 |
-| 34 | `w463258231_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.568 | 11.61 |
-| 35 | `strassenschilder` | Straßenschilder | 9 | 11.61 |
+| 3 | `w306798518` | Palazzo Michelozzi | 16.232 | 11.6–11.15 |
+| 4 | `w306798518_innen` | Palazzo Michelozzi: Innenausbau | 3.635 | 11.16–11.17 |
+| 5 | `w306798524` | Reihenhaus an Via Sguazza | 9.541 | 11.18–11.22 |
+| 6 | `w306798524_innen` | Reihenhaus an Via Sguazza: Innenausbau | 1.905 | 11.23 |
+| 7 | `w463258215` | Reihenhaus an Via dei Velluti | 4.102 | 11.24–11.25 |
+| 8 | `w463258215_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 782 | 11.26 |
+| 9 | `w463258217` | Reihenhaus an Via Sguazza | 3.282 | 11.27–11.28 |
+| 10 | `w463258217_innen` | Reihenhaus an Via Sguazza: Innenausbau | 450 | 11.29 |
+| 11 | `w463258218` | Reihenhaus an Via Toscanella | 2.942 | 11.30–11.31 |
+| 12 | `w463258218_innen` | Reihenhaus an Via Toscanella: Innenausbau | 444 | 11.32 |
+| 13 | `w463258219` | Reihenhaus an Via Sguazza | 3.619 | 11.33–11.34 |
+| 14 | `w463258219_innen` | Reihenhaus an Via Sguazza: Innenausbau | 1.144 | 11.35 |
+| 15 | `w463258220` | Reihenhaus an Via Sguazza | 2.197 | 11.36–11.37 |
+| 16 | `w463258220_innen` | Reihenhaus an Via Sguazza: Innenausbau | 2 | 11.38 |
+| 17 | `w463258221` | Reihenhaus an Via Toscanella | 4.175 | 11.38–11.39 |
+| 18 | `w463258221_innen` | Reihenhaus an Via Toscanella: Innenausbau | 982 | 11.40 |
+| 19 | `w463258222` | Reihenhaus an Via dei Velluti | 2.991 | 11.41–11.42 |
+| 20 | `w463258222_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 2 | 11.43 |
+| 21 | `w463258223` | Reihenhaus an Via dei Velluti | 1.665 | 11.43 |
+| 22 | `w463258223_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.039 | 11.44 |
+| 23 | `w463258224` | Reihenhaus an Via Sguazza | 2.223 | 11.45–11.46 |
+| 24 | `w463258224_innen` | Reihenhaus an Via Sguazza: Innenausbau | 466 | 11.47 |
+| 25 | `w463258226` | Reihenhaus an Via Toscanella | 2.285 | 11.48–11.49 |
+| 26 | `w463258226_innen` | Reihenhaus an Via Toscanella: Innenausbau | 354 | 11.50 |
+| 27 | `w463258227` | Reihenhaus an Via dei Velluti | 4.812 | 11.51–11.53 |
+| 28 | `w463258227_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.956 | 11.54 |
+| 29 | `w463258229` | Reihenhaus an Via Sguazza | 2.726 | 11.55–11.56 |
+| 30 | `w463258229_innen` | Reihenhaus an Via Sguazza: Innenausbau | 962 | 11.57 |
+| 31 | `w463258230` | Reihenhaus an Via dei Velluti | 1.286 | 11.58 |
+| 32 | `w463258230_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.018 | 11.59 |
+| 33 | `w463258231` | Reihenhaus an Via dei Velluti | 3.531 | 11.60–11.61 |
+| 34 | `w463258231_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.568 | 11.62 |
+| 35 | `strassenschilder` | Straßenschilder | 9 | 11.62 |
 
 ## Bauschritte
 
@@ -261,7 +262,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.6 – Palazzo Michelozzi – Teil 1/9 (Y 61–61)
+### Schritt 11.6 – Palazzo Michelozzi – Teil 1/10 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.073
@@ -275,7 +276,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -287,12 +288,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.7 – Palazzo Michelozzi – Teil 2/9 (Y 61–63)
+### Schritt 11.7 – Palazzo Michelozzi – Teil 2/10 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.763
+- **Blöcke:** 1.821
 - **Bauteile:** `w306798518`
 
 **Teileliste**
@@ -300,14 +301,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.059 |
-| Weißer Beton | `white_concrete` | 607 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
-| Glatter Stein | `smooth_stone` | 42 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Weißer Beton | `white_concrete` | 679 |
+| Hellgrauer Beton | `light_gray_concrete` | 66 |
+| Polierter Andesit | `polished_andesite` | 11 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -319,27 +321,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.8 – Palazzo Michelozzi – Teil 3/9 (Y 64–69)
+### Schritt 11.8 – Palazzo Michelozzi – Teil 3/10 (Y 64–68)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 2.042
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.808
 - **Bauteile:** `w306798518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.355 |
-| Hellgrauer Beton | `light_gray_concrete` | 266 |
-| Graues Buntglas | `gray_stained_glass` | 242 |
-| Glatter Stein | `smooth_stone` | 126 |
-| Polierter Andesit | `polished_andesite` | 53 |
+| Weißer Beton | `white_concrete` | 1.309 |
+| Hellgrauer Beton | `light_gray_concrete` | 267 |
+| Graues Buntglas | `gray_stained_glass` | 136 |
+| Grüner Beton | `green_concrete` | 44 |
+| Polierter Andesit | `polished_andesite` | 33 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -351,11 +355,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.9 – Palazzo Michelozzi – Teil 4/9 (Y 70–74)
+### Schritt 11.9 – Palazzo Michelozzi – Teil 4/10 (Y 69–73)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 69 bis 73
 - **Blöcke:** 1.870
 - **Bauteile:** `w306798518`
 
@@ -363,14 +367,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.443 |
-| Glatter Stein | `smooth_stone` | 245 |
-| Hellgrauer Beton | `light_gray_concrete` | 164 |
+| Weißer Beton | `white_concrete` | 1.491 |
+| Glatter Stein | `smooth_stone` | 208 |
+| Hellgrauer Beton | `light_gray_concrete` | 153 |
 | Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -382,26 +386,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.10 – Palazzo Michelozzi – Teil 5/9 (Y 75–79)
+### Schritt 11.10 – Palazzo Michelozzi – Teil 5/10 (Y 74–77)
 
-- **Y-Bereich:** 75 bis 79
-- **Blöcke:** 1.740
+- **Y-Bereich:** 74 bis 77
+- **Blöcke:** 1.400
 - **Bauteile:** `w306798518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.230 |
-| Hellgrauer Beton | `light_gray_concrete` | 310 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Polierter Andesit | `polished_andesite` | 20 |
+| Weißer Beton | `white_concrete` | 1.014 |
+| Hellgrauer Beton | `light_gray_concrete` | 176 |
+| Graues Buntglas | `gray_stained_glass` | 148 |
+| Grüner Beton | `green_concrete` | 44 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -413,27 +418,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.11 – Palazzo Michelozzi – Teil 6/9 (Y 80–84)
+### Schritt 11.11 – Palazzo Michelozzi – Teil 6/10 (Y 78–82)
 
-- **Y-Bereich:** 80 bis 84
-- **Blöcke:** 1.844
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.837
 - **Bauteile:** `w306798518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.319 |
-| Hellgrauer Beton | `light_gray_concrete` | 258 |
+| Weißer Beton | `white_concrete` | 1.400 |
 | Glatter Stein | `smooth_stone` | 208 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Polierter Andesit | `polished_andesite` | 23 |
+| Hellgrauer Beton | `light_gray_concrete` | 158 |
+| Graues Buntglas | `gray_stained_glass` | 53 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -445,26 +450,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.12 – Palazzo Michelozzi – Teil 7/9 (Y 85–89)
+### Schritt 11.12 – Palazzo Michelozzi – Teil 7/10 (Y 83–86)
 
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.766
+- **Y-Bereich:** 83 bis 86
+- **Blöcke:** 1.448
 - **Bauteile:** `w306798518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.256 |
-| Hellgrauer Beton | `light_gray_concrete` | 346 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
-| Polierter Andesit | `polished_andesite` | 20 |
+| Weißer Beton | `white_concrete` | 1.165 |
+| Hellgrauer Beton | `light_gray_concrete` | 169 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
+| Grüner Beton | `green_concrete` | 22 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -476,25 +482,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.13 – Palazzo Michelozzi – Teil 8/9 (Y 90–92)
+### Schritt 11.13 – Palazzo Michelozzi – Teil 8/10 (Y 87–90)
 
-- **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.824
+- **Y-Bereich:** 87 bis 90
+- **Blöcke:** 1.547
 - **Bauteile:** `w306798518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 955 |
-| Terrakotta | `terracotta` | 860 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Weißer Beton | `white_concrete` | 1.226 |
+| Hellgrauer Beton | `light_gray_concrete` | 202 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
+| Polierter Andesit | `polished_andesite` | 18 |
+| Grüner Beton | `green_concrete` | 11 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -506,24 +514,54 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.14 – Palazzo Michelozzi – Teil 9/9 (Y 93–102)
+### Schritt 11.14 – Palazzo Michelozzi – Teil 9/10 (Y 91–93)
 
-- **Y-Bereich:** 93 bis 102
-- **Blöcke:** 2.086
+- **Y-Bereich:** 91 bis 93
+- **Blöcke:** 1.789
 - **Bauteile:** `w306798518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.978 |
+| Terrakotta | `terracotta` | 1.307 |
+| Weißer Beton | `white_concrete` | 480 |
+| Polierter Andesit | `polished_andesite` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 11.15 – Palazzo Michelozzi – Teil 10/10 (Y 94–102)
+
+- **Y-Bereich:** 94 bis 102
+- **Blöcke:** 1.639
+- **Bauteile:** `w306798518`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.531 |
 | Ziegelsteine | `bricks` | 108 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -535,12 +573,50 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.15 – Palazzo Michelozzi: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 11.16 – Palazzo Michelozzi: Innenausbau – Teil 1/2 (Y 61–71)
 
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.818
+- **Y-Bereich:** 61 bis 71
+- **Blöcke:** 1.814
+- **Bauteile:** `w306798518_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.750 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 18 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 11.17 – Palazzo Michelozzi: Innenausbau – Teil 2/2 (Y 72–83)
+
+- **Y-Bereich:** 72 bis 83
+- **Blöcke:** 1.821
 - **Bauteile:** `w306798518_innen`
 
 **Teileliste**
@@ -549,9 +625,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.750 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 18 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Seelaterne | `sea_lantern` | 9 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -561,7 +639,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -575,47 +653,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.16 – Palazzo Michelozzi: Innenausbau – Teil 2/2 (Y 73–82)
-
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.811
-- **Bauteile:** `w306798518_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.750 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 11.17 – Reihenhaus an Via Sguazza – Teil 1/5 (Y 61–65)
+### Schritt 11.18 – Reihenhaus an Via Sguazza – Teil 1/5 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.859
@@ -647,7 +685,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.18 – Reihenhaus an Via Sguazza – Teil 2/5 (Y 66–73)
+### Schritt 11.19 – Reihenhaus an Via Sguazza – Teil 2/5 (Y 66–73)
 
 - **Y-Bereich:** 66 bis 73
 - **Blöcke:** 2.039
@@ -678,7 +716,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.19 – Reihenhaus an Via Sguazza – Teil 3/5 (Y 74–80)
+### Schritt 11.20 – Reihenhaus an Via Sguazza – Teil 3/5 (Y 74–80)
 
 - **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.776
@@ -708,7 +746,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.20 – Reihenhaus an Via Sguazza – Teil 4/5 (Y 81–88)
+### Schritt 11.21 – Reihenhaus an Via Sguazza – Teil 4/5 (Y 81–88)
 
 - **Y-Bereich:** 81 bis 88
 - **Blöcke:** 2.025
@@ -738,7 +776,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.21 – Reihenhaus an Via Sguazza – Teil 5/5 (Y 89–96)
+### Schritt 11.22 – Reihenhaus an Via Sguazza – Teil 5/5 (Y 89–96)
 
 - **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.842
@@ -770,7 +808,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.22 – Reihenhaus an Via Sguazza: Innenausbau
+### Schritt 11.23 – Reihenhaus an Via Sguazza: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.905
@@ -812,7 +850,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.23 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 62–78)
+### Schritt 11.24 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
 - **Blöcke:** 2.081
@@ -844,7 +882,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.24 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 79–96)
+### Schritt 11.25 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 79–96)
 
 - **Y-Bereich:** 79 bis 96
 - **Blöcke:** 2.021
@@ -877,7 +915,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.25 – Reihenhaus an Via dei Velluti: Innenausbau
+### Schritt 11.26 – Reihenhaus an Via dei Velluti: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 782
@@ -917,7 +955,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.26 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 62–77)
+### Schritt 11.27 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 1.611
@@ -948,7 +986,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.27 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–97)
+### Schritt 11.28 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–97)
 
 - **Y-Bereich:** 78 bis 97
 - **Blöcke:** 1.671
@@ -980,7 +1018,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.28 – Reihenhaus an Via Sguazza: Innenausbau
+### Schritt 11.29 – Reihenhaus an Via Sguazza: Innenausbau
 
 - **Y-Bereich:** 62 bis 85
 - **Blöcke:** 450
@@ -1018,7 +1056,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.29 – Reihenhaus an Via Toscanella – Teil 1/2 (Y 63–78)
+### Schritt 11.30 – Reihenhaus an Via Toscanella – Teil 1/2 (Y 63–78)
 
 - **Y-Bereich:** 63 bis 78
 - **Blöcke:** 1.430
@@ -1050,7 +1088,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.30 – Reihenhaus an Via Toscanella – Teil 2/2 (Y 79–95)
+### Schritt 11.31 – Reihenhaus an Via Toscanella – Teil 2/2 (Y 79–95)
 
 - **Y-Bereich:** 79 bis 95
 - **Blöcke:** 1.512
@@ -1081,7 +1119,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.31 – Reihenhaus an Via Toscanella: Innenausbau
+### Schritt 11.32 – Reihenhaus an Via Toscanella: Innenausbau
 
 - **Y-Bereich:** 63 bis 86
 - **Blöcke:** 444
@@ -1119,7 +1157,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.32 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 62–78)
+### Schritt 11.33 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.776
@@ -1150,7 +1188,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.33 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 79–98)
+### Schritt 11.34 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 79–98)
 
 - **Y-Bereich:** 79 bis 98
 - **Blöcke:** 1.843
@@ -1183,7 +1221,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.34 – Reihenhaus an Via Sguazza: Innenausbau
+### Schritt 11.35 – Reihenhaus an Via Sguazza: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.144
@@ -1223,7 +1261,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.35 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 61–77)
+### Schritt 11.36 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.126
@@ -1254,7 +1292,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.36 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–93)
+### Schritt 11.37 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–93)
 
 - **Y-Bereich:** 78 bis 93
 - **Blöcke:** 1.071
@@ -1286,7 +1324,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.37 – Reihenhaus an Via Sguazza: Innenausbau & Reihenhaus an Via Toscanella – Teil 1/2 (Y 63–79)
+### Schritt 11.38 – Reihenhaus an Via Sguazza: Innenausbau & Reihenhaus an Via Toscanella – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 61 bis 79
 - **Blöcke:** 2.090
@@ -1319,7 +1357,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.38 – Reihenhaus an Via Toscanella – Teil 2/2 (Y 80–98)
+### Schritt 11.39 – Reihenhaus an Via Toscanella – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
 - **Blöcke:** 2.087
@@ -1350,7 +1388,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.39 – Reihenhaus an Via Toscanella: Innenausbau
+### Schritt 11.40 – Reihenhaus an Via Toscanella: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 982
@@ -1388,7 +1426,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.40 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 63–79)
+### Schritt 11.41 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
 - **Blöcke:** 1.536
@@ -1419,7 +1457,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.41 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 80–95)
+### Schritt 11.42 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 80–95)
 
 - **Y-Bereich:** 80 bis 95
 - **Blöcke:** 1.455
@@ -1450,7 +1488,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.42 – Reihenhaus an Via dei Velluti: Innenausbau & Reihenhaus an Via dei Velluti
+### Schritt 11.43 – Reihenhaus an Via dei Velluti: Innenausbau & Reihenhaus an Via dei Velluti
 
 - **Y-Bereich:** 62 bis 98
 - **Blöcke:** 1.667
@@ -1485,7 +1523,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.43 – Reihenhaus an Via dei Velluti: Innenausbau
+### Schritt 11.44 – Reihenhaus an Via dei Velluti: Innenausbau
 
 - **Y-Bereich:** 62 bis 85
 - **Blöcke:** 1.039
@@ -1523,7 +1561,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.44 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 61–77)
+### Schritt 11.45 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.130
@@ -1554,7 +1592,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.45 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–95)
+### Schritt 11.46 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.093
@@ -1586,7 +1624,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.46 – Reihenhaus an Via Sguazza: Innenausbau
+### Schritt 11.47 – Reihenhaus an Via Sguazza: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 466
@@ -1626,7 +1664,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.47 – Reihenhaus an Via Toscanella – Teil 1/2 (Y 63–79)
+### Schritt 11.48 – Reihenhaus an Via Toscanella – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
 - **Blöcke:** 1.168
@@ -1659,7 +1697,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.48 – Reihenhaus an Via Toscanella – Teil 2/2 (Y 80–95)
+### Schritt 11.49 – Reihenhaus an Via Toscanella – Teil 2/2 (Y 80–95)
 
 - **Y-Bereich:** 80 bis 95
 - **Blöcke:** 1.117
@@ -1690,7 +1728,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.49 – Reihenhaus an Via Toscanella: Innenausbau
+### Schritt 11.50 – Reihenhaus an Via Toscanella: Innenausbau
 
 - **Y-Bereich:** 63 bis 86
 - **Blöcke:** 354
@@ -1728,7 +1766,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.50 – Reihenhaus an Via dei Velluti – Teil 1/3 (Y 62–71)
+### Schritt 11.51 – Reihenhaus an Via dei Velluti – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.611
@@ -1759,7 +1797,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.51 – Reihenhaus an Via dei Velluti – Teil 2/3 (Y 72–86)
+### Schritt 11.52 – Reihenhaus an Via dei Velluti – Teil 2/3 (Y 72–86)
 
 - **Y-Bereich:** 72 bis 86
 - **Blöcke:** 1.572
@@ -1789,7 +1827,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.52 – Reihenhaus an Via dei Velluti – Teil 3/3 (Y 87–99)
+### Schritt 11.53 – Reihenhaus an Via dei Velluti – Teil 3/3 (Y 87–99)
 
 - **Y-Bereich:** 87 bis 99
 - **Blöcke:** 1.629
@@ -1821,7 +1859,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.53 – Reihenhaus an Via dei Velluti: Innenausbau
+### Schritt 11.54 – Reihenhaus an Via dei Velluti: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.956
@@ -1861,7 +1899,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.54 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 61–77)
+### Schritt 11.55 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.355
@@ -1894,7 +1932,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.55 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–95)
+### Schritt 11.56 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.371
@@ -1927,7 +1965,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.56 – Reihenhaus an Via Sguazza: Innenausbau
+### Schritt 11.57 – Reihenhaus an Via Sguazza: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 962
@@ -1965,7 +2003,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.57 – Reihenhaus an Via dei Velluti
+### Schritt 11.58 – Reihenhaus an Via dei Velluti
 
 - **Y-Bereich:** 63 bis 97
 - **Blöcke:** 1.286
@@ -1998,7 +2036,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.58 – Reihenhaus an Via dei Velluti: Innenausbau
+### Schritt 11.59 – Reihenhaus an Via dei Velluti: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.018
@@ -2040,7 +2078,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.59 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 61–77)
+### Schritt 11.60 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.730
@@ -2073,7 +2111,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.60 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 78–97)
+### Schritt 11.61 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 78–97)
 
 - **Y-Bereich:** 78 bis 97
 - **Blöcke:** 1.801
@@ -2106,7 +2144,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.61 – Reihenhaus an Via dei Velluti: Innenausbau & Straßenschilder
+### Schritt 11.62 – Reihenhaus an Via dei Velluti: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.577

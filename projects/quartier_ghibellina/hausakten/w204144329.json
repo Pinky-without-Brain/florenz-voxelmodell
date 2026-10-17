@@ -1,7 +1,7 @@
 {
   "id": "w204144329",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "ab 1612 (Michelangelo der Jüngere), 1964 restauriert",
   "geschosse": [
     {
       "art": "eg",
@@ -9,25 +9,25 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 8,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "bifora",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -35,15 +35,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "bueste_michelangelo_portal_1875",
+      "wappen_buonarroti_ecke"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_Buonarroti",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Bau ab 1612 durch Michelangelo den Jüngeren (mit zwei Zeichnungen Michelangelos), 1964 in schlichtem Charakter restauriert, drei Geschosse über acht Achsen, Steinprofile an den Fenstern auf Steingurten, Straßenportal als Hauptmerkmal, Büste Michelangelos (1875) über dem Portal, Buonarroti-Wappen an der Ecke. Annahme: Putzfarbe, Gesims, Dach.",
   "name": "Casa Buonarroti"
 }

@@ -1,7 +1,7 @@
 {
   "id": "r4101351",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "ab 1668/69 vereinheitlicht (Marco Martelli), vollendet um 1750 (Ciurini)",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,21 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "terrasse_eisenbalustrade",
+      "tabernakel_madonna_fassade",
+      "vermauerte_bogenoeffnungen"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Martelli",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: Vereinheitlichung der Straßenseite ab 1668/69 unter Marco Martelli, gut achtzig Jahre später durch Bernardino Ciurini abgeschlossen, Bogenöffnungen teilweise zugemauert, Rahmung mit glatter Rustika, Terrasse am Piano nobile mit schmiedeeiserner Balustrade (Neuheit unter den florentinischen Steinbalustraden), Fassadentabernakel mit Madonna und Kind (Mino da Fiesole zugeschrieben). Annahme: Achsen, Material, Putzfarbe, Gesims, Dach.",
   "name": "Palazzo Martelli"
 }

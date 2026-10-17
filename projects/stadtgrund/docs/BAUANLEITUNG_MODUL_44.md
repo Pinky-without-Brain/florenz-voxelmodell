@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 81.733 |
+| Blöcke | 81.701 |
 | Bauschritte | 49 |
 | Y-Bereich | 62 bis 73 |
 | X-Ausdehnung | 1376 bis 1695 (320 Blöcke) |
 | Z-Ausdehnung | -848 bis -529 (320 Blöcke) |
 | Kleinster Schritt | 640 Blöcke (Schritt 44.10) |
-| Mittlerer Schritt | 1.668 Blöcke |
+| Mittlerer Schritt | 1.667 Blöcke |
 | Größter Schritt | 2.087 Blöcke (Schritt 44.41) |
 
 ## Gesamt-Stückliste
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Grasblock | `grass_block` | 49.261 | 60,3 % |
-| Polierter Tuffstein | `polished_tuff` | 18.751 | 22,9 % |
+| Polierter Tuffstein | `polished_tuff` | 18.719 | 22,9 % |
 | Stein | `stone` | 8.712 | 10,7 % |
 | Glatter Stein | `smooth_stone` | 4.320 | 5,3 % |
 | Steinziegel | `stone_bricks` | 644 | 0,8 % |
@@ -33,9 +33,9 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 8.355 | 44.1–44.5 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 4.736 | 44.6–44.9 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 4.731 | 44.6–44.9 |
 | 3 | `gehwege` | Gehwege | 4.159 | 44.10–44.12 |
-| 4 | `hof_pflaster` | Höfe | 14.015 | 44.13–44.21 |
+| 4 | `hof_pflaster` | Höfe | 13.988 | 44.13–44.21 |
 | 5 | `rasen` | Grün und offenes Gelände | 49.618 | 44.22–44.48 |
 | 6 | `gruen_wege` | Wege im Grün | 45 | 44.49 |
 | 7 | `mauern_garten` | Gartenmauern | 805 | 44.49 |
@@ -45,14 +45,14 @@
 ### Schritt 44.1 – Böschung und Mantel – Teil 1/5 (Y 62–65)
 
 - **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.491
+- **Blöcke:** 1.461
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.491 |
+| Stein | `stone` | 1.461 |
 
 **Beschreibung**
 
@@ -73,14 +73,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 44.2 – Böschung und Mantel – Teil 2/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.579
+- **Blöcke:** 1.577
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.579 |
+| Stein | `stone` | 1.577 |
 
 **Beschreibung**
 
@@ -101,14 +101,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 44.3 – Böschung und Mantel – Teil 3/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.575
+- **Blöcke:** 1.583
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.575 |
+| Stein | `stone` | 1.583 |
 
 **Beschreibung**
 
@@ -129,14 +129,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 44.4 – Böschung und Mantel – Teil 4/5 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.980
+- **Blöcke:** 2.002
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.980 |
+| Stein | `stone` | 2.002 |
 
 **Beschreibung**
 
@@ -157,14 +157,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 44.5 – Böschung und Mantel – Teil 5/5 (Y 68–72)
 
 - **Y-Bereich:** 68 bis 72
-- **Blöcke:** 1.730
+- **Blöcke:** 1.732
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.730 |
+| Stein | `stone` | 1.732 |
 
 **Beschreibung**
 
@@ -185,14 +185,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 44.6 – Straßenpflaster – Teil 1/4 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.120
+- **Blöcke:** 1.115
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.120 |
+| Polierter Tuffstein | `polished_tuff` | 1.115 |
 
 **Beschreibung**
 
@@ -381,14 +381,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 44.13 – Höfe – Teil 1/9 (Y 62–66)
 
 - **Y-Bereich:** 62 bis 66
-- **Blöcke:** 834
+- **Blöcke:** 831
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 834 |
+| Polierter Tuffstein | `polished_tuff` | 831 |
 
 **Beschreibung**
 
@@ -437,14 +437,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 44.15 – Höfe – Teil 3/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.697
+- **Blöcke:** 1.692
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.697 |
+| Polierter Tuffstein | `polished_tuff` | 1.692 |
 
 **Beschreibung**
 
@@ -465,14 +465,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 44.16 – Höfe – Teil 4/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.772
+- **Blöcke:** 1.768
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.772 |
+| Polierter Tuffstein | `polished_tuff` | 1.768 |
 
 **Beschreibung**
 
@@ -493,14 +493,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 44.17 – Höfe – Teil 5/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.794
+- **Blöcke:** 1.785
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.794 |
+| Polierter Tuffstein | `polished_tuff` | 1.785 |
 
 **Beschreibung**
 
@@ -521,14 +521,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 44.18 – Höfe – Teil 6/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.736
+- **Blöcke:** 1.732
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.736 |
+| Polierter Tuffstein | `polished_tuff` | 1.732 |
 
 **Beschreibung**
 
@@ -605,14 +605,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 44.21 – Höfe – Teil 9/9 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.320
+- **Blöcke:** 1.318
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.320 |
+| Polierter Tuffstein | `polished_tuff` | 1.318 |
 
 **Beschreibung**
 

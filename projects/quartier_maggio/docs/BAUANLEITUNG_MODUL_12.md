@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 140.331 |
+| Blöcke | 140.310 |
 | Bauschritte | 87 |
 | Y-Bereich | 62 bis 106 |
 | X-Ausdehnung | -1161 bis -967 (195 Blöcke) |
@@ -21,31 +21,31 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 45.240 | 32,2 % |
+| Terrakotta | `terracotta` | 45.256 | 32,3 % |
 | Rosa Keramik | `pink_terracotta` | 26.058 | 18,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 18.722 | 13,3 % |
 | Polierter Tuffstein | `polished_tuff` | 13.917 | 9,9 % |
 | Orange Keramik | `orange_terracotta` | 8.622 | 6,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 8.124 | 5,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 8.008 | 5,7 % |
 | Endsteinziegel | `end_stone_bricks` | 5.417 | 3,9 % |
-| Weißer Beton | `white_concrete` | 4.382 | 3,1 % |
-| Graues Buntglas | `gray_stained_glass` | 1.971 | 1,4 % |
-| Glatter Stein | `smooth_stone` | 1.823 | 1,3 % |
-| Polierter Andesit | `polished_andesite` | 1.615 | 1,2 % |
+| Weißer Beton | `white_concrete` | 3.782 | 2,7 % |
+| Glatter Stein | `smooth_stone` | 2.442 | 1,7 % |
+| Graues Buntglas | `gray_stained_glass` | 2.052 | 1,5 % |
+| Polierter Andesit | `polished_andesite` | 1.606 | 1,1 % |
 | Tuffstein | `tuff` | 1.268 | 0,9 % |
-| Ziegelsteine | `bricks` | 870 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 687 | 0,5 % |
+| Ziegelsteine | `bricks` | 868 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 689 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 573 | 0,4 % |
 | Seelaterne | `sea_lantern` | 276 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 197 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 183 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 199 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 185 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 71 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 67 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 50 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 50 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 32 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 47 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 47 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 36 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 36 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
@@ -55,7 +55,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 518 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 522 |
 | Steintreppe | `stone_stairs` | 112 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -66,7 +66,7 @@
 | 2 | `r7098287_innen` | Reihenhaus an Piazza dei Pitti: Innenausbau | 3.533 | 12.9–12.11 |
 | 3 | `r7098288` | Palazzo des Cinquecento an Via dei Velluti | 12.515 | 12.12–12.18 |
 | 4 | `r7098288_innen` | Palazzo des Cinquecento an Via dei Velluti: Innenausbau | 2.485 | 12.19–12.20 |
-| 5 | `w306692126` | Palazzo Temple Leader | 10.145 | 12.21–12.26 |
+| 5 | `w306692126` | Palazzo Temple Leader | 10.124 | 12.21–12.26 |
 | 6 | `w306692126_innen` | Palazzo Temple Leader: Innenausbau | 2.919 | 12.27–12.28 |
 | 7 | `w482075070` | Reihenhaus an Via dei Velluti | 2.119 | 12.29–12.30 |
 | 8 | `w482075070_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1 | 12.31 |
@@ -778,7 +778,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Pitti); Fassade 2. Hälfte 18. Jh.; Altana 19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Temple_Leader, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -790,28 +790,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.22 – Palazzo Temple Leader – Teil 2/6 (Y 69–74)
+### Schritt 12.22 – Palazzo Temple Leader – Teil 2/6 (Y 69–75)
 
-- **Y-Bereich:** 69 bis 74
-- **Blöcke:** 1.569
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.797
 - **Bauteile:** `w306692126`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.382 |
-| Weißer Beton | `white_concrete` | 95 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
-| Glatter Stein | `smooth_stone` | 16 |
-| Tuffsteinziegel | `tuff_bricks` | 10 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Gelbe Keramik | `yellow_terracotta` | 1.568 |
+| Glatter Stein | `smooth_stone` | 138 |
+| Graues Buntglas | `gray_stained_glass` | 91 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Pitti); Fassade 2. Hälfte 18. Jh.; Altana 19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Temple_Leader, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -823,26 +820,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.23 – Palazzo Temple Leader – Teil 3/6 (Y 75–81)
+### Schritt 12.23 – Palazzo Temple Leader – Teil 3/6 (Y 76–81)
 
-- **Y-Bereich:** 75 bis 81
-- **Blöcke:** 1.863
+- **Y-Bereich:** 76 bis 81
+- **Blöcke:** 1.600
 - **Bauteile:** `w306692126`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.579 |
-| Weißer Beton | `white_concrete` | 142 |
-| Glatter Stein | `smooth_stone` | 79 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
+| Gelbe Keramik | `yellow_terracotta` | 1.310 |
+| Glatter Stein | `smooth_stone` | 221 |
+| Graues Buntglas | `gray_stained_glass` | 69 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Pitti); Fassade 2. Hälfte 18. Jh.; Altana 19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Temple_Leader, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -854,7 +850,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.24 – Palazzo Temple Leader – Teil 4/6 (Y 82–87)
 
@@ -866,14 +862,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.287 |
-| Weißer Beton | `white_concrete` | 235 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Glatter Stein | `smooth_stone` | 36 |
+| Gelbe Keramik | `yellow_terracotta` | 1.263 |
+| Glatter Stein | `smooth_stone` | 274 |
+| Graues Buntglas | `gray_stained_glass` | 65 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Pitti); Fassade 2. Hälfte 18. Jh.; Altana 19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Temple_Leader, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -885,26 +880,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.25 – Palazzo Temple Leader – Teil 5/6 (Y 88–92)
 
 - **Y-Bereich:** 88 bis 92
-- **Blöcke:** 1.867
+- **Blöcke:** 1.851
 - **Bauteile:** `w306692126`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.002 |
+| Gelbe Keramik | `yellow_terracotta` | 993 |
 | Terrakotta | `terracotta` | 715 |
-| Weißer Beton | `white_concrete` | 128 |
-| Graues Buntglas | `gray_stained_glass` | 22 |
+| Glatter Stein | `smooth_stone` | 101 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Pitti); Fassade 2. Hälfte 18. Jh.; Altana 19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Temple_Leader, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -916,24 +911,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.26 – Palazzo Temple Leader – Teil 6/6 (Y 93–100)
+### Schritt 12.26 – Palazzo Temple Leader – Teil 6/6 (Y 93–104)
 
-- **Y-Bereich:** 93 bis 100
-- **Blöcke:** 1.560
+- **Y-Bereich:** 93 bis 104
+- **Blöcke:** 1.590
 - **Bauteile:** `w306692126`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.455 |
-| Ziegelsteine | `bricks` | 105 |
+| Terrakotta | `terracotta` | 1.471 |
+| Ziegelsteine | `bricks` | 103 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Pitti); Fassade 2. Hälfte 18. Jh.; Altana 19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Temple_Leader, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -945,12 +941,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.27 – Palazzo Temple Leader: Innenausbau – Teil 1/2 (Y 68–78)
+### Schritt 12.27 – Palazzo Temple Leader: Innenausbau – Teil 1/2 (Y 68–76)
 
-- **Y-Bereich:** 68 bis 78
-- **Blöcke:** 1.469
+- **Y-Bereich:** 68 bis 76
+- **Blöcke:** 1.461
 - **Bauteile:** `w306692126_innen`
 
 **Teileliste**
@@ -958,20 +954,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.405 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -985,10 +981,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.28 – Palazzo Temple Leader: Innenausbau – Teil 2/2 (Y 79–85)
+### Schritt 12.28 – Palazzo Temple Leader: Innenausbau – Teil 2/2 (Y 77–85)
 
-- **Y-Bereich:** 79 bis 85
-- **Blöcke:** 1.450
+- **Y-Bereich:** 77 bis 85
+- **Blöcke:** 1.458
 - **Bauteile:** `w306692126_innen`
 
 **Teileliste**
@@ -996,22 +992,24 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.405 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 4 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 12 |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

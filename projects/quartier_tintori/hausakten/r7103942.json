@@ -1,7 +1,7 @@
 {
   "id": "r7103942",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Ende 15. Jh., Straßenfassade 19. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -22,7 +22,7 @@
     "material": "putz",
     "putzfarbe": "weiss",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
@@ -35,15 +35,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "fenstersturz_koepfchen",
+      "gedenktafeln"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Doni",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia belegt: ursprünglich Ende des 15. Jh. errichtet, Straßenfassade im 19. Jh. neu gestaltet (Foresi-Zeit), Fenstersturz des Piano nobile mit kleinen geschnitzten Köpfchen, klassizistische Ausmalung und Marmorkamine im Inneren (Fenzi). Annahme: Fassadenfarbe, Achsen, Geschosse (OSM-Höhe), Fensterform, Gesims, Dach.",
   "name": "Palazzo Doni"
 }

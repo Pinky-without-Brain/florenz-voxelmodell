@@ -1,19 +1,27 @@
 {
   "id": "w306798513",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "15./16. Jh.; Eingriff 1863 (Falardeau)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 7
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 3
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
@@ -27,7 +35,7 @@
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -35,15 +43,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "sporti_via_coverelli",
+      "wappen_terrakotta_nobile_drei",
+      "steinsockel_santa_barbara"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Machiavelli",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Vier Geschosse plus Mezzanin, EG mit rustikalen Bossen, zwei großen Rundbogenportalen und schlichten Rechteckfenstern, sieben Fensterachsen darüber mit durchlaufendem Sohlbankgesims, drei Terrakotta-Wappen am Piano nobile, Sporti zur Via dei Coverelli. Annahme: Putzfarbe, Rahmenmaterial, Gesims.",
   "name": "Palazzo Machiavelli"
 }

@@ -1,7 +1,7 @@
 {
   "id": "r1602101",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1858-1860 (Maiorfi, überarbeitet von De Fabris), klassizistisch",
   "geschosse": [
     {
       "art": "eg",
@@ -15,8 +15,8 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 10,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
@@ -31,15 +31,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "tempelfront_saeulenvorhalle_lungarno",
+      "reliefs_arte_della_lana_beidseits"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_della_Borsa_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: klassizistisch 1858-60 (Entwurf Michelangelo Maiorfi, von Emilio De Fabris stark verändert), Mittelbau als griechischer Tempel mit Kolonnade und Pronaos zum Lungarno, zwei Reliefs mit dem Wollzunft-Emblem beidseits des Pronaos, glatter Putz seit dem Umbau 1931-33 (Aufstockung des Attikageschosses), ursprünglich dunklerer Kunststein. Annahme: Geschosse (OSM-Höhe), Achsen, Fenster, Gesims, Dach.",
   "name": "Palazzo della Borsa"
 }

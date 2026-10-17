@@ -1,7 +1,7 @@
 {
   "id": "r4107740",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "1528-1534 (Ammannati zugeschrieben), manieristisch",
   "geschosse": [
     {
       "art": "eg",
@@ -9,22 +9,22 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 10,
+    "achsen": 9,
     "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "tabernakel",
@@ -32,18 +32,26 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "serliana_stuckrahmen",
+      "balkon_saeulen",
+      "wappen_pucci_maurenkopf",
+      "wappen_medici_leo_x_ecke",
+      "mascheroni_laibung"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pucci",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: Bau 1528-34, manieristisch, Zuschreibung an Ammannati stilistisch, neun Achsen zur Via de Pucci, Pietra forte und Rustika im Erdgeschoss mit vier Fenstern neben dem Mittelportal, Rustika an den Ecken, im ersten Geschoss großes Bogenfenster mit Säulen und Serliana in Stuckrahmen mit Pucci-Wappen und kleinem Balkon, Fenster mit gesprengten Giebeln im ersten und zweiten Geschoss, Fries zwischen Erdgeschoss und erstem Geschoss, Medici-Wappen mit Leo X. an der Ecke Via dei Servi. Annahme: Geschosszahl (drei, aus der Beschreibung abgeleitet), Dach.",
   "name": "Palazzo Pucci"
 }

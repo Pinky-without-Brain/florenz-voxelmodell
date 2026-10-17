@@ -1,11 +1,15 @@
 {
   "id": "w307104293",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "17. Jh. (Raffaello del Bianco), 19. Jh. umgebaut (Martelli)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
@@ -13,37 +17,41 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 9,
     "material": "putz",
     "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": "gruen"
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "wappen_ecken",
+      "renaissance_portal"
+    ],
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini_Salimbeni-Lenzoni",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Bau des 17. Jh. von Raffaello del Bianco für die Bartolini Salimbeni, im 19. Jh. von Giuseppe Martelli umgestaltet, drei Geschosse plus Mezzanin, neun Achsen zur Piazza und Via Verdi, schlichte Steinrahmen, Eisengitter vor den Erdgeschossfenstern, florentinische Gronda, Eckpilaster und Renaissanceportal, Wappen an den Ecken. Annahme: Putzfarbe, Dach.",
   "name": "Palazzo Bartolini Salimbeni-Lenzoni"
 }

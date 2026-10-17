@@ -1,0 +1,22 @@
+{
+  "module": 4,
+  "title": "Dach und Zinnen",
+  "subtitle": "Bautüte 4: Dachterrasse und Zinnenkranz",
+  "icon": "🏰",
+  "parts": {
+    "dach": {
+      "title": "Dachterrasse",
+      "description": "Über der Decke liegt ein Pflaster; der Raum darunter ist massiv.",
+      "tip": "Setze die Terrasse in einem Zug.",
+      "caution": "Die Dachterrasse hat keinen Zugang vom Treppenhaus.",
+      "fact": "Stufe C."
+    },
+    "zinnen": {
+      "title": "Zinnen",
+      "description": "Ein Kranz aus Zinnen läuft um die ganze Dachkante; jede zweite Zinne ist zwei Blöcke hoch.",
+      "tip": "Rechne mit abwechselnd hohen und niedrigen Blöcken.",
+      "caution": "Es sind einfache, rechteckige Zinnen.",
+      "fact": "Zinnen auf Konsolen: it.wikipedia „Palazzo dell’Arte della Lana“; Umriss aus OpenStreetMap (Way 95537272)."
+    }
+  }
+}

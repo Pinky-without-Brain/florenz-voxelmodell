@@ -1,49 +1,57 @@
 {
   "id": "r4100881",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 8,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "portal_rustika_aussermittig",
+      "gurtgesimse"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Giuliano da Sangallo zugeschrieben, Fertigstellung um 1520, Corsini-Erweiterung 1587-1611, großes Rustika-Portal außerhalb der Symmetrieachse mit einfachen Rechteckfenstern im Erdgeschoss, darüber zwei Reihen Segmentbogenfenster, Gurtgesimse, schlichteres Obergeschoss über der Traufe des zweiten, keine Wappen an der Fassade. Annahme: Achsen, Putzfarbe, Gesims, Dach.",
   "name": "Palazzo Corsini-Serristori"
 }

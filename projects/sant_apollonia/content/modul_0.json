@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden, Kreuzgänge und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Bau tiefer liegt als Y 65, füllst du mit Bruchstein bis Y 65 auf; höher liegendes Gelände wurde bis Y 65 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 65 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Das Kloster der Camaldulenserinnen wurde 1339 von Piero di Ser Mino gegründet (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 66 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor; unter den Arkaden der Kreuzgänge liegt Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Das Schachmuster ist eine Gestaltungsannahme (Stufe C)."
+    },
+    "hof": {
+      "title": "Kreuzgänge",
+      "description": "Die vier Kreuzgänge bleiben offen, drei mit Rasen und der große Chiostro della Badessa gepflastert; ihr Boden aus Pflaster liegt auf Y 66.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt im hinteren Flügel des Vorderblocks vom Erdgeschoss bis ins oberste Geschoss (Y 96).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Die Treppe ist eine Annahme, die Quelle beschreibt keine Treppen (Stufe C)."
+    }
+  }
+}

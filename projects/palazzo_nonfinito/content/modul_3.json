@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossböden und oberste Decke",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Böden aus Holz und Terrakotta im Schachmuster auf Y 76; ein Treppenloch für die Wendeltreppe.",
+      "tip": "Das Treppenloch bleibt frei.",
+      "caution": "Erst die Böden, dann die Wände der Obergeschosse.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "decke": {
+      "title": "Oberste Decke",
+      "description": "Die oberste Decke auf Y 89 schließt das Haus; darüber liegt das Dach.",
+      "tip": "Eine Lage Putz.",
+      "caution": "Die Decke gehört nicht zum Dach.",
+      "fact": "Die Geschosshöhen folgen der OSM-Gebäudehöhe, die Aufteilung ist Stufe C."
+    },
+    "innenwaende_og": {
+      "title": "Innenwände der Obergeschosse",
+      "description": "Die Innenwände setzen sich in den Obergeschossen fort, mit Türen.",
+      "tip": "Erst der Boden, dann die Wand.",
+      "caution": "Türen frei lassen.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "trennwaende_og": {
+      "title": "Trennwände der Obergeschosse",
+      "description": "Im Piano nobile teilen Trennwände den Nordflügel in fünf Säle; jede Wand hat Türen von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Erst der Boden, dann die Wand darauf.",
+      "caution": "Türen frei lassen.",
+      "fact": "Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst."
+    }
+  }
+}

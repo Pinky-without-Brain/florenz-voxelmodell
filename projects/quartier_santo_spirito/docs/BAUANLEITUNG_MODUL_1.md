@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 126.399 |
+| Blöcke | 126.241 |
 | Bauschritte | 82 |
 | Y-Bereich | 61 bis 103 |
 | X-Ausdehnung | -1201 bis -999 (203 Blöcke) |
 | Z-Ausdehnung | 1289 bis 1437 (149 Blöcke) |
 | Kleinster Schritt | 652 Blöcke (Schritt 1.68) |
-| Mittlerer Schritt | 1.541 Blöcke |
-| Größter Schritt | 2.045 Blöcke (Schritt 1.17) |
+| Mittlerer Schritt | 1.540 Blöcke |
+| Größter Schritt | 2.046 Blöcke (Schritt 1.14) |
 
 ## Gesamt-Stückliste
 
@@ -23,21 +23,20 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 38.643 | 30,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 12.173 | 9,6 % |
-| Polierter Tuffstein | `polished_tuff` | 11.558 | 9,1 % |
+| Polierter Tuffstein | `polished_tuff` | 11.558 | 9,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 11.380 | 9,0 % |
 | Orange Keramik | `orange_terracotta` | 11.087 | 8,8 % |
 | Rosa Keramik | `pink_terracotta` | 10.755 | 8,5 % |
-| Endsteinziegel | `end_stone_bricks` | 9.416 | 7,4 % |
+| Endsteinziegel | `end_stone_bricks` | 9.168 | 7,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 5.953 | 4,7 % |
-| Tuffstein | `tuff` | 5.714 | 4,5 % |
-| Polierter Andesit | `polished_andesite` | 5.037 | 4,0 % |
 | Weißer Beton | `white_concrete` | 4.568 | 3,6 % |
-| Glatter Stein | `smooth_stone` | 3.829 | 3,0 % |
-| Graues Buntglas | `gray_stained_glass` | 2.106 | 1,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 1.296 | 1,0 % |
+| Glatter Stein | `smooth_stone` | 3.613 | 2,9 % |
+| Graues Buntglas | `gray_stained_glass` | 2.108 | 1,7 % |
+| Polierter Andesit | `polished_andesite` | 1.440 | 1,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.166 | 0,9 % |
-| Tuffsteinziegel | `tuff_bricks` | 847 | 0,7 % |
 | Ziegelsteine | `bricks` | 548 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 418 | 0,3 % |
+| Grüner Beton | `green_concrete` | 364 | 0,3 % |
 | Seelaterne | `sea_lantern` | 256 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 244 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 228 | 0,2 % |
@@ -46,7 +45,8 @@
 | Rote Keramik | `red_terracotta` | 62 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 62 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 12 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
@@ -57,14 +57,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 856 |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306811231` | Palazzo Martellini-Rosselli del Turco | 19.697 | 1.1–1.12 |
-| 2 | `w306811231_innen` | Palazzo Martellini-Rosselli del Turco: Innenausbau | 4.081 | 1.13–1.14 |
+| 1 | `w306811231` | Palazzo Martellini-Rosselli del Turco | 19.535 | 1.1–1.12 |
+| 2 | `w306811231_innen` | Palazzo Martellini-Rosselli del Turco: Innenausbau | 4.085 | 1.13–1.14 |
 | 3 | `w306811248` | Reihenhaus an Via dei Velluti | 5.989 | 1.15–1.17 |
 | 4 | `w306811248_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.594 | 1.18 |
 | 5 | `w506787315` | Reihenhaus an Via dei Vellutini | 5.046 | 1.19–1.21 |
@@ -123,7 +123,7 @@
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -135,7 +135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.2 – Palazzo Martellini-Rosselli del Turco – Teil 2/12 (Y 61–62)
 
@@ -148,14 +148,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.195 |
-| Tuffstein | `tuff` | 205 |
-| Polierter Andesit | `polished_andesite` | 128 |
-| Tuffsteinziegel | `tuff_bricks` | 112 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Gelbe Keramik | `yellow_terracotta` | 442 |
+| Polierter Andesit | `polished_andesite` | 7 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -167,27 +167,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.3 – Palazzo Martellini-Rosselli del Turco – Teil 3/12 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.787
+- **Blöcke:** 1.864
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 758 |
-| Tuffsteinziegel | `tuff_bricks` | 329 |
-| Polierter Andesit | `polished_andesite` | 312 |
-| Glatter Stein | `smooth_stone` | 296 |
+| Gelbe Keramik | `yellow_terracotta` | 1.268 |
+| Glatter Stein | `smooth_stone` | 420 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
+| Grüner Beton | `green_concrete` | 56 |
+| Polierter Andesit | `polished_andesite` | 22 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -199,27 +200,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.4 – Palazzo Martellini-Rosselli del Turco – Teil 4/12 (Y 67–70)
 
 - **Y-Bereich:** 67 bis 70
-- **Blöcke:** 1.744
+- **Blöcke:** 1.776
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 732 |
-| Glatter Stein | `smooth_stone` | 316 |
-| Tuffsteinziegel | `tuff_bricks` | 290 |
-| Polierter Andesit | `polished_andesite` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 138 |
+| Gelbe Keramik | `yellow_terracotta` | 1.366 |
+| Glatter Stein | `smooth_stone` | 235 |
+| Graues Buntglas | `gray_stained_glass` | 92 |
+| Grüner Beton | `green_concrete` | 56 |
+| Polierter Andesit | `polished_andesite` | 23 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -231,26 +233,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.5 – Palazzo Martellini-Rosselli del Turco – Teil 5/12 (Y 71–74)
+### Schritt 1.5 – Palazzo Martellini-Rosselli del Turco – Teil 5/12 (Y 71–73)
 
-- **Y-Bereich:** 71 bis 74
-- **Blöcke:** 1.990
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.411
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 828 |
-| Glatter Stein | `smooth_stone` | 528 |
-| Polierter Andesit | `polished_andesite` | 518 |
-| Tuffsteinziegel | `tuff_bricks` | 116 |
+| Gelbe Keramik | `yellow_terracotta` | 1.004 |
+| Glatter Stein | `smooth_stone` | 398 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -262,26 +263,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.6 – Palazzo Martellini-Rosselli del Turco – Teil 6/12 (Y 75–77)
+### Schritt 1.6 – Palazzo Martellini-Rosselli del Turco – Teil 6/12 (Y 74–77)
 
-- **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.281
+- **Y-Bereich:** 74 bis 77
+- **Blöcke:** 1.708
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 522 |
-| Polierter Andesit | `polished_andesite` | 406 |
-| Glatter Stein | `smooth_stone` | 209 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
+| Gelbe Keramik | `yellow_terracotta` | 1.122 |
+| Glatter Stein | `smooth_stone` | 264 |
+| Graues Buntglas | `gray_stained_glass` | 192 |
+| Grüner Beton | `green_concrete` | 112 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -293,26 +295,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.7 – Palazzo Martellini-Rosselli del Turco – Teil 7/12 (Y 78–81)
 
 - **Y-Bereich:** 78 bis 81
-- **Blöcke:** 1.894
+- **Blöcke:** 1.775
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 763 |
-| Glatter Stein | `smooth_stone` | 631 |
-| Polierter Andesit | `polished_andesite` | 407 |
+| Gelbe Keramik | `yellow_terracotta` | 1.393 |
+| Glatter Stein | `smooth_stone` | 243 |
 | Graues Buntglas | `gray_stained_glass` | 93 |
+| Grüner Beton | `green_concrete` | 28 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -324,26 +327,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.8 – Palazzo Martellini-Rosselli del Turco – Teil 8/12 (Y 82–84)
 
 - **Y-Bereich:** 82 bis 84
-- **Blöcke:** 1.378
+- **Blöcke:** 1.411
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 588 |
-| Polierter Andesit | `polished_andesite` | 515 |
-| Glatter Stein | `smooth_stone` | 227 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
+| Gelbe Keramik | `yellow_terracotta` | 1.004 |
+| Glatter Stein | `smooth_stone` | 398 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -355,26 +357,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.9 – Palazzo Martellini-Rosselli del Turco – Teil 9/12 (Y 85–88)
 
 - **Y-Bereich:** 85 bis 88
-- **Blöcke:** 1.709
+- **Blöcke:** 1.708
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 697 |
-| Polierter Andesit | `polished_andesite` | 538 |
-| Glatter Stein | `smooth_stone` | 285 |
-| Graues Buntglas | `gray_stained_glass` | 189 |
+| Gelbe Keramik | `yellow_terracotta` | 1.122 |
+| Glatter Stein | `smooth_stone` | 264 |
+| Graues Buntglas | `gray_stained_glass` | 192 |
+| Grüner Beton | `green_concrete` | 112 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -386,26 +389,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.10 – Palazzo Martellini-Rosselli del Turco – Teil 10/12 (Y 89–91)
 
 - **Y-Bereich:** 89 bis 91
-- **Blöcke:** 1.628
+- **Blöcke:** 1.596
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 640 |
-| Tuffstein | `tuff` | 621 |
-| Endsteinziegel | `end_stone_bricks` | 248 |
-| Glatter Stein | `smooth_stone` | 119 |
+| Gelbe Keramik | `yellow_terracotta` | 1.363 |
+| Glatter Stein | `smooth_stone` | 177 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -417,7 +420,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.11 – Palazzo Martellini-Rosselli del Turco – Teil 11/12 (Y 92–93)
 
@@ -433,7 +436,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -445,7 +448,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.12 – Palazzo Martellini-Rosselli del Turco – Teil 12/12 (Y 94–103)
 
@@ -462,7 +465,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh. (Autor unbekannt)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Martellini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -474,12 +477,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.13 – Palazzo Martellini-Rosselli del Turco: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 1.13 – Palazzo Martellini-Rosselli del Turco: Innenausbau – Teil 1/2 (Y 61–71)
 
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 2.043
+- **Y-Bereich:** 61 bis 71
+- **Blöcke:** 2.039
 - **Bauteile:** `w306811231_innen`
 
 **Teileliste**
@@ -487,16 +490,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.969 |
-| Glatter Stein | `smooth_stone` | 28 |
+| Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 20 |
 
 **Beschreibung**
 
@@ -514,10 +517,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.14 – Palazzo Martellini-Rosselli del Turco: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 1.14 – Palazzo Martellini-Rosselli del Turco: Innenausbau – Teil 2/2 (Y 72–83)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 2.038
+- **Y-Bereich:** 72 bis 83
+- **Blöcke:** 2.046
 - **Bauteile:** `w306811231_innen`
 
 **Teileliste**
@@ -525,10 +528,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.969 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -539,7 +542,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**

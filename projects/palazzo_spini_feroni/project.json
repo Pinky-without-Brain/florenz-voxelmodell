@@ -1,0 +1,17 @@
+{
+  "id": "palazzo_spini_feroni",
+  "title": "Palazzo Spini Feroni",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "r4101722"
+  ],
+  "bodenY": 61,
+  "rahmen": {
+    "ox": -875,
+    "oz": 761.5,
+    "thetaDeg": 122.43
+  },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

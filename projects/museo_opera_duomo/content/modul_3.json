@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Böden und Decken",
+  "subtitle": "Bautüte 3: Geschossböden, oberste Decke, Trennwände der Obergeschosse",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Zwei Böden aus Holz und Terrakotta trennen die drei Geschosse (Höhen 9, 8 und 6 Blöcke). Über der Sala del Paradiso fehlt der Boden des ersten Obergeschosses, die Halle ist zwei Geschosse hoch.",
+      "tip": "Lass das Treppenloch und die Halle frei.",
+      "caution": "Die Geschosshöhen sind aus der Hausakte abgeleitet (OSM: 3 Ebenen, 23 Blöcke).",
+      "fact": "Drei Ausstellungsebenen (it.wikipedia)."
+    },
+    "decke": {
+      "title": "Oberste Decke",
+      "description": "Die Decke über dem zweiten Obergeschoss ist aus Putz.",
+      "tip": "Sie trägt das Walmdach.",
+      "caution": "Die Höhe ist geschätzt.",
+      "fact": "Stufe C."
+    },
+    "trennwaende_og": {
+      "title": "Trennwände der Obergeschosse",
+      "description": "In den beiden Obergeschossen stehen dieselben Trennwandlinien wie im Erdgeschoss; im ersten Obergeschoss gibt es keine Türen zur Halle (kein Boden).",
+      "tip": "Setze die Wände nach den Böden.",
+      "caution": "Alle Geschosse sind über die Wendeltreppe verbunden.",
+      "fact": "Raumaufteilung Stufe C."
+    }
+  }
+}

@@ -8,46 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 191.010 |
-| Bauschritte | 116 |
+| Blöcke | 179.253 |
+| Bauschritte | 111 |
 | Y-Bereich | 63 bis 130 |
 | X-Ausdehnung | -661 bis -478 (184 Blöcke) |
 | Z-Ausdehnung | -53 bis 86 (140 Blöcke) |
-| Kleinster Schritt | 585 Blöcke (Schritt 8.87) |
-| Mittlerer Schritt | 1.647 Blöcke |
-| Größter Schritt | 2.070 Blöcke (Schritt 8.70) |
+| Kleinster Schritt | 585 Blöcke (Schritt 8.82) |
+| Mittlerer Schritt | 1.615 Blöcke |
+| Größter Schritt | 2.094 Blöcke (Schritt 8.71) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 79.266 | 41,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 26.132 | 13,7 % |
-| Polierter Tuffstein | `polished_tuff` | 17.267 | 9,0 % |
-| Orange Keramik | `orange_terracotta` | 11.936 | 6,2 % |
-| Rosa Keramik | `pink_terracotta` | 10.784 | 5,6 % |
-| Weißer Beton | `white_concrete` | 10.094 | 5,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.555 | 4,0 % |
-| Polierter Andesit | `polished_andesite` | 6.463 | 3,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 5.087 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 4.170 | 2,2 % |
-| Graues Buntglas | `gray_stained_glass` | 3.983 | 2,1 % |
-| Tuffstein | `tuff` | 2.138 | 1,1 % |
-| Endsteinziegel | `end_stone_bricks` | 1.368 | 0,7 % |
+| Terrakotta | `terracotta` | 67.420 | 37,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 26.345 | 14,7 % |
+| Polierter Tuffstein | `polished_tuff` | 17.267 | 9,6 % |
+| Orange Keramik | `orange_terracotta` | 11.936 | 6,7 % |
+| Rosa Keramik | `pink_terracotta` | 10.784 | 6,0 % |
+| Weißer Beton | `white_concrete` | 10.094 | 5,6 % |
+| Glatter Stein | `smooth_stone` | 8.910 | 5,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.555 | 4,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 5.087 | 2,8 % |
+| Graues Buntglas | `gray_stained_glass` | 3.967 | 2,2 % |
+| Tuffstein | `tuff` | 2.138 | 1,2 % |
+| Polierter Andesit | `polished_andesite` | 1.951 | 1,1 % |
+| Endsteinziegel | `end_stone_bricks` | 1.368 | 0,8 % |
 | Ziegelsteine | `bricks` | 1.257 | 0,7 % |
-| Grüner Beton | `green_concrete` | 799 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 681 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 679 | 0,4 % |
+| Grüner Beton | `green_concrete` | 535 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 423 | 0,2 % |
-| Seelaterne | `sea_lantern` | 413 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 158 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 147 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 139 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 137 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 133 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 120 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 120 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 82 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 82 | 0,0 % |
+| Seelaterne | `sea_lantern` | 353 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 160 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 146 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 138 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 136 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 132 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 114 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 114 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 84 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 84 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 17 | 0,0 % |
@@ -61,8 +61,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 556 |
-| Steintreppe | `stone_stairs` | 204 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 552 |
+| Steintreppe | `stone_stairs` | 208 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 19 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -77,23 +77,23 @@
 | 6 | `r7114189_innen` | Reihenhaus an Via dei Cerretani: Innenausbau | 4.137 | 8.33–8.34 |
 | 7 | `w307153245` | Palazzo Del Bembo | 4.714 | 8.35–8.37 |
 | 8 | `w307153245_innen` | Palazzo Del Bembo: Innenausbau | 992 | 8.38 |
-| 9 | `w307153315` | Palazzo Orlandini del Beccuto | 51.236 | 8.39–8.69 |
-| 10 | `w307153315_innen` | Palazzo Orlandini del Beccuto: Innenausbau | 29.909 | 8.70–8.84 |
-| 11 | `w483096008` | Reihenhaus an Piazza dei Cavallari | 2.441 | 8.85–8.86 |
-| 12 | `w483096008_innen` | Reihenhaus an Piazza dei Cavallari: Innenausbau | 585 | 8.87 |
-| 13 | `w483096012` | Reihenhaus an Piazza dell'Olio | 7.014 | 8.88–8.91 |
-| 14 | `w483096012_innen` | Reihenhaus an Piazza dell'Olio: Innenausbau | 2.190 | 8.92–8.93 |
-| 15 | `w483096015` | Reihenhaus an Piazza dei Cavallari | 4.682 | 8.94–8.96 |
-| 16 | `w483096015_innen` | Reihenhaus an Piazza dei Cavallari: Innenausbau | 1.949 | 8.97 |
-| 17 | `w483096016` | Reihenhaus an Piazza dell'Olio | 3.360 | 8.98–8.99 |
-| 18 | `w483096016_innen` | Reihenhaus an Piazza dell'Olio: Innenausbau | 1.776 | 8.100 |
-| 19 | `w483096017` | Palazzo des Cinquecento an Piazza dell'Olio | 9.400 | 8.101–8.105 |
-| 20 | `w483096017_innen` | Palazzo des Cinquecento an Piazza dell'Olio: Innenausbau | 2.532 | 8.106–8.107 |
-| 21 | `w483096019` | Reihenhaus an Via dei Pecori | 7.017 | 8.108–8.111 |
-| 22 | `w483096019_innen` | Reihenhaus an Via dei Pecori: Innenausbau | 2.255 | 8.112–8.113 |
-| 23 | `w483096030` | Reihenhaus an Via dei Pecori | 3.884 | 8.114–8.115 |
-| 24 | `w483096030_innen` | Reihenhaus an Via dei Pecori: Innenausbau | 1.755 | 8.116 |
-| 25 | `strassenschilder` | Straßenschilder | 17 | 8.116 |
+| 9 | `w307153315` | Palazzo Orlandini del Beccuto | 51.407 | 8.39–8.70 |
+| 10 | `w307153315_innen` | Palazzo Orlandini del Beccuto: Innenausbau | 17.981 | 8.71–8.79 |
+| 11 | `w483096008` | Reihenhaus an Piazza dei Cavallari | 2.441 | 8.80–8.81 |
+| 12 | `w483096008_innen` | Reihenhaus an Piazza dei Cavallari: Innenausbau | 585 | 8.82 |
+| 13 | `w483096012` | Reihenhaus an Piazza dell'Olio | 7.014 | 8.83–8.86 |
+| 14 | `w483096012_innen` | Reihenhaus an Piazza dell'Olio: Innenausbau | 2.190 | 8.87–8.88 |
+| 15 | `w483096015` | Reihenhaus an Piazza dei Cavallari | 4.682 | 8.89–8.91 |
+| 16 | `w483096015_innen` | Reihenhaus an Piazza dei Cavallari: Innenausbau | 1.949 | 8.92 |
+| 17 | `w483096016` | Reihenhaus an Piazza dell'Olio | 3.360 | 8.93–8.94 |
+| 18 | `w483096016_innen` | Reihenhaus an Piazza dell'Olio: Innenausbau | 1.776 | 8.95 |
+| 19 | `w483096017` | Palazzo des Cinquecento an Piazza dell'Olio | 9.400 | 8.96–8.100 |
+| 20 | `w483096017_innen` | Palazzo des Cinquecento an Piazza dell'Olio: Innenausbau | 2.532 | 8.101–8.102 |
+| 21 | `w483096019` | Reihenhaus an Via dei Pecori | 7.017 | 8.103–8.106 |
+| 22 | `w483096019_innen` | Reihenhaus an Via dei Pecori: Innenausbau | 2.255 | 8.107–8.108 |
+| 23 | `w483096030` | Reihenhaus an Via dei Pecori | 3.884 | 8.109–8.110 |
+| 24 | `w483096030_innen` | Reihenhaus an Via dei Pecori: Innenausbau | 1.755 | 8.111 |
+| 25 | `strassenschilder` | Straßenschilder | 17 | 8.111 |
 
 ## Bauschritte
 
@@ -1405,7 +1405,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.39 – Palazzo Orlandini del Beccuto – Teil 1/31 (Y 65–65)
+### Schritt 8.39 – Palazzo Orlandini del Beccuto – Teil 1/32 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.662
@@ -1419,7 +1419,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1431,9 +1431,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.40 – Palazzo Orlandini del Beccuto – Teil 2/31 (Y 65–65)
+### Schritt 8.40 – Palazzo Orlandini del Beccuto – Teil 2/32 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.648
@@ -1447,7 +1447,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1459,9 +1459,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.41 – Palazzo Orlandini del Beccuto – Teil 3/31 (Y 65–65)
+### Schritt 8.41 – Palazzo Orlandini del Beccuto – Teil 3/32 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.644
@@ -1475,7 +1475,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1487,9 +1487,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.42 – Palazzo Orlandini del Beccuto – Teil 4/31 (Y 65–65)
+### Schritt 8.42 – Palazzo Orlandini del Beccuto – Teil 4/32 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.656
@@ -1503,7 +1503,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1515,57 +1515,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.43 – Palazzo Orlandini del Beccuto – Teil 5/31 (Y 66–67)
+### Schritt 8.43 – Palazzo Orlandini del Beccuto – Teil 5/32 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.332
+- **Blöcke:** 1.420
 - **Bauteile:** `w307153315`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.312 |
-| Polierter Andesit | `polished_andesite` | 18 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.44 – Palazzo Orlandini del Beccuto – Teil 6/31 (Y 68–70)
-
-- **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.902
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.264 |
-| Polierter Andesit | `polished_andesite` | 433 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Grüner Beton | `green_concrete` | 24 |
+| Glatter Sandstein | `smooth_sandstone` | 1.216 |
+| Glatter Stein | `smooth_stone` | 186 |
+| Polierter Andesit | `polished_andesite` | 15 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1577,27 +1546,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.45 – Palazzo Orlandini del Beccuto – Teil 7/31 (Y 71–73)
+### Schritt 8.44 – Palazzo Orlandini del Beccuto – Teil 6/32 (Y 68–69)
 
-- **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.849
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 1.400
 - **Bauteile:** `w307153315`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.301 |
-| Polierter Andesit | `polished_andesite` | 364 |
-| Graues Buntglas | `gray_stained_glass` | 169 |
-| Grüner Beton | `green_concrete` | 12 |
+| Glatter Sandstein | `smooth_sandstone` | 785 |
+| Glatter Stein | `smooth_stone` | 484 |
+| Graues Buntglas | `gray_stained_glass` | 113 |
+| Polierter Andesit | `polished_andesite` | 15 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1609,11 +1578,75 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.46 – Palazzo Orlandini del Beccuto – Teil 8/31 (Y 74–75)
+### Schritt 8.45 – Palazzo Orlandini del Beccuto – Teil 7/32 (Y 70–72)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 70 bis 72
+- **Blöcke:** 1.711
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.022 |
+| Graues Buntglas | `gray_stained_glass` | 339 |
+| Glatter Stein | `smooth_stone` | 320 |
+| Polierter Andesit | `polished_andesite` | 26 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.46 – Palazzo Orlandini del Beccuto – Teil 8/32 (Y 73–75)
+
+- **Y-Bereich:** 73 bis 75
+- **Blöcke:** 1.935
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.470 |
+| Glatter Stein | `smooth_stone` | 326 |
+| Graues Buntglas | `gray_stained_glass` | 113 |
+| Polierter Andesit | `polished_andesite` | 20 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.47 – Palazzo Orlandini del Beccuto – Teil 9/32 (Y 76–77)
+
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.358
 - **Bauteile:** `w307153315`
 
@@ -1621,14 +1654,192 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.002 |
-| Glatter Stein | `smooth_stone` | 329 |
+| Glatter Sandstein | `smooth_sandstone` | 1.346 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.48 – Palazzo Orlandini del Beccuto – Teil 10/32 (Y 78–79)
+
+- **Y-Bereich:** 78 bis 79
+- **Blöcke:** 1.358
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.346 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.49 – Palazzo Orlandini del Beccuto – Teil 11/32 (Y 80–82)
+
+- **Y-Bereich:** 80 bis 82
+- **Blöcke:** 2.037
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.682 |
+| Glatter Stein | `smooth_stone` | 337 |
+| Polierter Andesit | `polished_andesite` | 18 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.50 – Palazzo Orlandini del Beccuto – Teil 12/32 (Y 83–84)
+
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 1.358
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.346 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.51 – Palazzo Orlandini del Beccuto – Teil 13/32 (Y 85–86)
+
+- **Y-Bereich:** 85 bis 86
+- **Blöcke:** 1.442
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.124 |
+| Glatter Stein | `smooth_stone` | 306 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.52 – Palazzo Orlandini del Beccuto – Teil 14/32 (Y 87–89)
+
+- **Y-Bereich:** 87 bis 89
+- **Blöcke:** 1.725
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.041 |
+| Graues Buntglas | `gray_stained_glass` | 345 |
+| Glatter Stein | `smooth_stone` | 324 |
+| Polierter Andesit | `polished_andesite` | 15 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.53 – Palazzo Orlandini del Beccuto – Teil 15/32 (Y 90–92)
+
+- **Y-Bereich:** 90 bis 92
+- **Blöcke:** 1.725
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.035 |
+| Graues Buntglas | `gray_stained_glass` | 345 |
+| Glatter Stein | `smooth_stone` | 324 |
 | Polierter Andesit | `polished_andesite` | 21 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1640,26 +1851,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.47 – Palazzo Orlandini del Beccuto – Teil 9/31 (Y 76–78)
+### Schritt 8.54 – Palazzo Orlandini del Beccuto – Teil 16/32 (Y 93–94)
 
-- **Y-Bereich:** 76 bis 78
-- **Blöcke:** 2.023
+- **Y-Bereich:** 93 bis 94
+- **Blöcke:** 1.358
 - **Bauteile:** `w307153315`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.566 |
-| Polierter Andesit | `polished_andesite` | 354 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
-| Grüner Beton | `green_concrete` | 12 |
+| Glatter Sandstein | `smooth_sandstone` | 829 |
+| Glatter Stein | `smooth_stone` | 518 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1671,26 +1881,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.48 – Palazzo Orlandini del Beccuto – Teil 10/31 (Y 79–80)
+### Schritt 8.55 – Palazzo Orlandini del Beccuto – Teil 17/32 (Y 95–96)
 
-- **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.190
+- **Y-Bereich:** 95 bis 96
+- **Blöcke:** 1.490
 - **Bauteile:** `w307153315`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 800 |
-| Polierter Andesit | `polished_andesite` | 184 |
-| Graues Buntglas | `gray_stained_glass` | 182 |
-| Grüner Beton | `green_concrete` | 24 |
+| Glatter Sandstein | `smooth_sandstone` | 1.256 |
+| Glatter Stein | `smooth_stone` | 222 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1702,226 +1911,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.49 – Palazzo Orlandini del Beccuto – Teil 11/31 (Y 81–83)
-
-- **Y-Bereich:** 81 bis 83
-- **Blöcke:** 1.953
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.238 |
-| Glatter Stein | `smooth_stone` | 337 |
-| Polierter Andesit | `polished_andesite` | 275 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
-| Grüner Beton | `green_concrete` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.50 – Palazzo Orlandini del Beccuto – Teil 12/31 (Y 84–85)
-
-- **Y-Bereich:** 84 bis 85
-- **Blöcke:** 1.428
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.169 |
-| Polierter Andesit | `polished_andesite` | 259 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.51 – Palazzo Orlandini del Beccuto – Teil 13/31 (Y 86–88)
-
-- **Y-Bereich:** 86 bis 88
-- **Blöcke:** 1.785
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.197 |
-| Polierter Andesit | `polished_andesite` | 279 |
-| Graues Buntglas | `gray_stained_glass` | 273 |
-| Grüner Beton | `green_concrete` | 36 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.52 – Palazzo Orlandini del Beccuto – Teil 14/31 (Y 89–91)
-
-- **Y-Bereich:** 89 bis 91
-- **Blöcke:** 1.953
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.238 |
-| Glatter Stein | `smooth_stone` | 337 |
-| Polierter Andesit | `polished_andesite` | 275 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
-| Grüner Beton | `green_concrete` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.53 – Palazzo Orlandini del Beccuto – Teil 15/31 (Y 92–93)
-
-- **Y-Bereich:** 92 bis 93
-- **Blöcke:** 1.428
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.169 |
-| Polierter Andesit | `polished_andesite` | 259 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.54 – Palazzo Orlandini del Beccuto – Teil 16/31 (Y 94–96)
-
-- **Y-Bereich:** 94 bis 96
-- **Blöcke:** 1.917
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.329 |
-| Polierter Andesit | `polished_andesite` | 279 |
-| Graues Buntglas | `gray_stained_glass` | 273 |
-| Grüner Beton | `green_concrete` | 36 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.55 – Palazzo Orlandini del Beccuto – Teil 17/31 (Y 97–98)
+### Schritt 8.56 – Palazzo Orlandini del Beccuto – Teil 18/32 (Y 97–98)
 
 - **Y-Bereich:** 97 bis 98
-- **Blöcke:** 1.406
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.028 |
-| Polierter Andesit | `polished_andesite` | 275 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
-| Grüner Beton | `green_concrete` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.56 – Palazzo Orlandini del Beccuto – Teil 18/31 (Y 99–100)
-
-- **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.490
 - **Bauteile:** `w307153315`
 
@@ -1935,7 +1929,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1947,116 +1941,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.57 – Palazzo Orlandini del Beccuto – Teil 19/31 (Y 101–102)
+### Schritt 8.57 – Palazzo Orlandini del Beccuto – Teil 19/32 (Y 99–100)
 
-- **Y-Bereich:** 101 bis 102
-- **Blöcke:** 1.476
+- **Y-Bereich:** 99 bis 100
+- **Blöcke:** 1.574
 - **Bauteile:** `w307153315`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.028 |
-| Polierter Andesit | `polished_andesite` | 345 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
-| Grüner Beton | `green_concrete` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.58 – Palazzo Orlandini del Beccuto – Teil 20/31 (Y 103–105)
-
-- **Y-Bereich:** 103 bis 105
-- **Blöcke:** 1.983
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.401 |
-| Graues Buntglas | `gray_stained_glass` | 273 |
-| Polierter Andesit | `polished_andesite` | 273 |
-| Grüner Beton | `green_concrete` | 36 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.59 – Palazzo Orlandini del Beccuto – Teil 21/31 (Y 106–107)
-
-- **Y-Bereich:** 106 bis 107
-- **Blöcke:** 1.490
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 967 |
-| Glatter Stein | `smooth_stone` | 337 |
-| Polierter Andesit | `polished_andesite` | 186 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.60 – Palazzo Orlandini del Beccuto – Teil 22/31 (Y 108–109)
-
-- **Y-Bereich:** 108 bis 109
-- **Blöcke:** 1.490
-- **Bauteile:** `w307153315`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.478 |
+| Glatter Sandstein | `smooth_sandstone` | 1.256 |
+| Glatter Stein | `smooth_stone` | 306 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2068,26 +1971,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.61 – Palazzo Orlandini del Beccuto – Teil 23/31 (Y 110–111)
+### Schritt 8.58 – Palazzo Orlandini del Beccuto – Teil 20/32 (Y 101–103)
 
-- **Y-Bereich:** 110 bis 111
-- **Blöcke:** 1.476
+- **Y-Bereich:** 101 bis 103
+- **Blöcke:** 1.923
 - **Bauteile:** `w307153315`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.028 |
-| Polierter Andesit | `polished_andesite` | 345 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
-| Grüner Beton | `green_concrete` | 12 |
+| Glatter Sandstein | `smooth_sandstone` | 1.239 |
+| Graues Buntglas | `gray_stained_glass` | 345 |
+| Glatter Stein | `smooth_stone` | 324 |
+| Polierter Andesit | `polished_andesite` | 15 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2099,26 +2002,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.62 – Palazzo Orlandini del Beccuto – Teil 24/31 (Y 112–114)
+### Schritt 8.59 – Palazzo Orlandini del Beccuto – Teil 21/32 (Y 104–106)
 
-- **Y-Bereich:** 112 bis 114
-- **Blöcke:** 2.067
+- **Y-Bereich:** 104 bis 106
+- **Blöcke:** 2.027
 - **Bauteile:** `w307153315`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.491 |
-| Polierter Andesit | `polished_andesite` | 370 |
-| Graues Buntglas | `gray_stained_glass` | 182 |
-| Grüner Beton | `green_concrete` | 24 |
+| Glatter Sandstein | `smooth_sandstone` | 1.338 |
+| Glatter Stein | `smooth_stone` | 438 |
+| Graues Buntglas | `gray_stained_glass` | 230 |
+| Polierter Andesit | `polished_andesite` | 21 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2130,9 +2033,131 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.63 – Palazzo Orlandini del Beccuto – Teil 25/31 (Y 115–116)
+### Schritt 8.60 – Palazzo Orlandini del Beccuto – Teil 22/32 (Y 107–108)
+
+- **Y-Bereich:** 107 bis 108
+- **Blöcke:** 1.490
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.182 |
+| Glatter Stein | `smooth_stone` | 296 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.61 – Palazzo Orlandini del Beccuto – Teil 23/32 (Y 109–110)
+
+- **Y-Bereich:** 109 bis 110
+- **Blöcke:** 1.490
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.144 |
+| Glatter Stein | `smooth_stone` | 337 |
+| Polierter Andesit | `polished_andesite` | 9 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.62 – Palazzo Orlandini del Beccuto – Teil 24/32 (Y 111–112)
+
+- **Y-Bereich:** 111 bis 112
+- **Blöcke:** 1.470
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 929 |
+| Glatter Stein | `smooth_stone` | 414 |
+| Graues Buntglas | `gray_stained_glass` | 115 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.63 – Palazzo Orlandini del Beccuto – Teil 25/32 (Y 113–114)
+
+- **Y-Bereich:** 113 bis 114
+- **Blöcke:** 1.386
+- **Bauteile:** `w307153315`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 929 |
+| Glatter Stein | `smooth_stone` | 330 |
+| Graues Buntglas | `gray_stained_glass` | 115 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.64 – Palazzo Orlandini del Beccuto – Teil 26/32 (Y 115–116)
 
 - **Y-Bereich:** 115 bis 116
 - **Blöcke:** 1.994
@@ -2142,12 +2167,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.982 |
+| Glatter Sandstein | `smooth_sandstone` | 1.686 |
+| Glatter Stein | `smooth_stone` | 296 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2159,9 +2185,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.64 – Palazzo Orlandini del Beccuto – Teil 26/31 (Y 117–117)
+### Schritt 8.65 – Palazzo Orlandini del Beccuto – Teil 27/32 (Y 117–117)
 
 - **Y-Bereich:** 117 bis 117
 - **Blöcke:** 1.888
@@ -2175,7 +2201,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2187,9 +2213,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.65 – Palazzo Orlandini del Beccuto – Teil 27/31 (Y 118–118)
+### Schritt 8.66 – Palazzo Orlandini del Beccuto – Teil 28/32 (Y 118–118)
 
 - **Y-Bereich:** 118 bis 118
 - **Blöcke:** 1.141
@@ -2203,7 +2229,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2215,9 +2241,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.66 – Palazzo Orlandini del Beccuto – Teil 28/31 (Y 119–119)
+### Schritt 8.67 – Palazzo Orlandini del Beccuto – Teil 29/32 (Y 119–119)
 
 - **Y-Bereich:** 119 bis 119
 - **Blöcke:** 1.322
@@ -2231,7 +2257,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2243,9 +2269,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.67 – Palazzo Orlandini del Beccuto – Teil 29/31 (Y 120–121)
+### Schritt 8.68 – Palazzo Orlandini del Beccuto – Teil 30/32 (Y 120–121)
 
 - **Y-Bereich:** 120 bis 121
 - **Blöcke:** 2.056
@@ -2260,7 +2286,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2272,9 +2298,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.68 – Palazzo Orlandini del Beccuto – Teil 30/31 (Y 122–123)
+### Schritt 8.69 – Palazzo Orlandini del Beccuto – Teil 31/32 (Y 122–123)
 
 - **Y-Bereich:** 122 bis 123
 - **Blöcke:** 1.523
@@ -2289,7 +2315,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2301,9 +2327,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.69 – Palazzo Orlandini del Beccuto – Teil 31/31 (Y 124–130)
+### Schritt 8.70 – Palazzo Orlandini del Beccuto – Teil 32/32 (Y 124–130)
 
 - **Y-Bereich:** 124 bis 130
 - **Blöcke:** 1.706
@@ -2318,7 +2344,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 6 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (ab 1672, Umbau um 1679 (Antonio Maria Ferri), Veränderungen 19. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Orlandini_del_Beccuto, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2330,12 +2356,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.70 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 1/15 (Y 65–75)
+### Schritt 8.71 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 1/9 (Y 65–81)
 
-- **Y-Bereich:** 65 bis 75
-- **Blöcke:** 2.070
+- **Y-Bereich:** 65 bis 81
+- **Blöcke:** 2.094
 - **Bauteile:** `w307153315_innen`
 
 **Teileliste**
@@ -2344,9 +2370,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.980 |
 | Seelaterne | `sea_lantern` | 41 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Glatter Stein | `smooth_stone` | 38 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 16 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 16 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -2355,7 +2381,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 32 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2374,9 +2400,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.71 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 2/15 (Y 75–75)
+### Schritt 8.72 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 2/9 (Y 81–81)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.984
 - **Bauteile:** `w307153315_innen`
 
@@ -2403,9 +2429,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.72 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 3/15 (Y 75–75)
+### Schritt 8.73 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 3/9 (Y 81–81)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.978
 - **Bauteile:** `w307153315_innen`
 
@@ -2432,214 +2458,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.73 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 4/15 (Y 76–83)
+### Schritt 8.74 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 4/9 (Y 82–97)
 
-- **Y-Bereich:** 76 bis 83
-- **Blöcke:** 2.038
-- **Bauteile:** `w307153315_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.980 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.74 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 5/15 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.984
-- **Bauteile:** `w307153315_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.975 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.75 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 6/15 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.978
-- **Bauteile:** `w307153315_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.968 |
-| Seelaterne | `sea_lantern` | 10 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.76 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 7/15 (Y 84–91)
-
-- **Y-Bereich:** 84 bis 91
-- **Blöcke:** 2.038
-- **Bauteile:** `w307153315_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.980 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.77 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 8/15 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.984
-- **Bauteile:** `w307153315_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.975 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.78 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 9/15 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.978
-- **Bauteile:** `w307153315_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.968 |
-| Seelaterne | `sea_lantern` | 10 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.79 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 10/15 (Y 92–99)
-
-- **Y-Bereich:** 92 bis 99
-- **Blöcke:** 1.994
+- **Y-Bereich:** 82 bis 97
+- **Blöcke:** 2.026
 - **Bauteile:** `w307153315_innen`
 
 **Teileliste**
@@ -2647,10 +2469,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.936 |
-| Glatter Stein | `smooth_stone` | 22 |
+| Glatter Stein | `smooth_stone` | 38 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 16 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 16 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -2661,7 +2483,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 32 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2680,9 +2502,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.80 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 11/15 (Y 99–99)
+### Schritt 8.75 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 5/9 (Y 97–97)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.996
 - **Bauteile:** `w307153315_innen`
 
@@ -2709,9 +2531,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.81 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 12/15 (Y 99–99)
+### Schritt 8.76 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 6/9 (Y 97–97)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.944
 - **Bauteile:** `w307153315_innen`
 
@@ -2738,10 +2560,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.82 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 13/15 (Y 100–107)
+### Schritt 8.77 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 7/9 (Y 98–109)
 
-- **Y-Bereich:** 100 bis 107
-- **Blöcke:** 1.994
+- **Y-Bereich:** 98 bis 109
+- **Blöcke:** 2.010
 - **Bauteile:** `w307153315_innen`
 
 **Teileliste**
@@ -2749,10 +2571,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.936 |
-| Glatter Stein | `smooth_stone` | 22 |
+| Glatter Stein | `smooth_stone` | 30 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -2763,7 +2585,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 24 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2782,9 +2604,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.83 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 14/15 (Y 107–107)
+### Schritt 8.78 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 8/9 (Y 109–109)
 
-- **Y-Bereich:** 107 bis 107
+- **Y-Bereich:** 109 bis 109
 - **Blöcke:** 1.996
 - **Bauteile:** `w307153315_innen`
 
@@ -2811,9 +2633,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.84 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 15/15 (Y 107–108)
+### Schritt 8.79 – Palazzo Orlandini del Beccuto: Innenausbau – Teil 9/9 (Y 109–110)
 
-- **Y-Bereich:** 107 bis 108
+- **Y-Bereich:** 109 bis 110
 - **Blöcke:** 1.953
 - **Bauteile:** `w307153315_innen`
 
@@ -2826,8 +2648,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2851,7 +2673,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.85 – Reihenhaus an Piazza dei Cavallari – Teil 1/2 (Y 64–76)
+### Schritt 8.80 – Reihenhaus an Piazza dei Cavallari – Teil 1/2 (Y 64–76)
 
 - **Y-Bereich:** 64 bis 76
 - **Blöcke:** 1.194
@@ -2883,7 +2705,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.86 – Reihenhaus an Piazza dei Cavallari – Teil 2/2 (Y 77–91)
+### Schritt 8.81 – Reihenhaus an Piazza dei Cavallari – Teil 2/2 (Y 77–91)
 
 - **Y-Bereich:** 77 bis 91
 - **Blöcke:** 1.247
@@ -2915,7 +2737,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.87 – Reihenhaus an Piazza dei Cavallari: Innenausbau
+### Schritt 8.82 – Reihenhaus an Piazza dei Cavallari: Innenausbau
 
 - **Y-Bereich:** 64 bis 81
 - **Blöcke:** 585
@@ -2957,7 +2779,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.88 – Reihenhaus an Piazza dell'Olio – Teil 1/4 (Y 63–71)
+### Schritt 8.83 – Reihenhaus an Piazza dell'Olio – Teil 1/4 (Y 63–71)
 
 - **Y-Bereich:** 63 bis 71
 - **Blöcke:** 1.714
@@ -2989,7 +2811,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.89 – Reihenhaus an Piazza dell'Olio – Teil 2/4 (Y 72–84)
+### Schritt 8.84 – Reihenhaus an Piazza dell'Olio – Teil 2/4 (Y 72–84)
 
 - **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.790
@@ -3019,7 +2841,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.90 – Reihenhaus an Piazza dell'Olio – Teil 3/4 (Y 85–97)
+### Schritt 8.85 – Reihenhaus an Piazza dell'Olio – Teil 3/4 (Y 85–97)
 
 - **Y-Bereich:** 85 bis 97
 - **Blöcke:** 1.790
@@ -3049,7 +2871,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.91 – Reihenhaus an Piazza dell'Olio – Teil 4/4 (Y 98–109)
+### Schritt 8.86 – Reihenhaus an Piazza dell'Olio – Teil 4/4 (Y 98–109)
 
 - **Y-Bereich:** 98 bis 109
 - **Blöcke:** 1.720
@@ -3081,7 +2903,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.92 – Reihenhaus an Piazza dell'Olio: Innenausbau – Teil 1/2 (Y 63–79)
+### Schritt 8.87 – Reihenhaus an Piazza dell'Olio: Innenausbau – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
 - **Blöcke:** 1.089
@@ -3121,7 +2943,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.93 – Reihenhaus an Piazza dell'Olio: Innenausbau – Teil 2/2 (Y 80–96)
+### Schritt 8.88 – Reihenhaus an Piazza dell'Olio: Innenausbau – Teil 2/2 (Y 80–96)
 
 - **Y-Bereich:** 80 bis 96
 - **Blöcke:** 1.101
@@ -3163,7 +2985,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.94 – Reihenhaus an Piazza dei Cavallari – Teil 1/3 (Y 64–76)
+### Schritt 8.89 – Reihenhaus an Piazza dei Cavallari – Teil 1/3 (Y 64–76)
 
 - **Y-Bereich:** 64 bis 76
 - **Blöcke:** 1.575
@@ -3195,7 +3017,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.95 – Reihenhaus an Piazza dei Cavallari – Teil 2/3 (Y 77–94)
+### Schritt 8.90 – Reihenhaus an Piazza dei Cavallari – Teil 2/3 (Y 77–94)
 
 - **Y-Bereich:** 77 bis 94
 - **Blöcke:** 1.555
@@ -3225,7 +3047,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.96 – Reihenhaus an Piazza dei Cavallari – Teil 3/3 (Y 95–108)
+### Schritt 8.91 – Reihenhaus an Piazza dei Cavallari – Teil 3/3 (Y 95–108)
 
 - **Y-Bereich:** 95 bis 108
 - **Blöcke:** 1.552
@@ -3258,7 +3080,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.97 – Reihenhaus an Piazza dei Cavallari: Innenausbau
+### Schritt 8.92 – Reihenhaus an Piazza dei Cavallari: Innenausbau
 
 - **Y-Bereich:** 64 bis 95
 - **Blöcke:** 1.949
@@ -3300,7 +3122,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.98 – Reihenhaus an Piazza dell'Olio – Teil 1/2 (Y 63–81)
+### Schritt 8.93 – Reihenhaus an Piazza dell'Olio – Teil 1/2 (Y 63–81)
 
 - **Y-Bereich:** 63 bis 81
 - **Blöcke:** 1.683
@@ -3333,7 +3155,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.99 – Reihenhaus an Piazza dell'Olio – Teil 2/2 (Y 82–100)
+### Schritt 8.94 – Reihenhaus an Piazza dell'Olio – Teil 2/2 (Y 82–100)
 
 - **Y-Bereich:** 82 bis 100
 - **Blöcke:** 1.677
@@ -3367,7 +3189,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.100 – Reihenhaus an Piazza dell'Olio: Innenausbau
+### Schritt 8.95 – Reihenhaus an Piazza dell'Olio: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.776
@@ -3409,7 +3231,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.101 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 1/5 (Y 64–66)
+### Schritt 8.96 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 1/5 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.783
@@ -3441,7 +3263,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.102 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 2/5 (Y 67–76)
+### Schritt 8.97 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 2/5 (Y 67–76)
 
 - **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.912
@@ -3474,7 +3296,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.103 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 3/5 (Y 77–86)
+### Schritt 8.98 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 3/5 (Y 77–86)
 
 - **Y-Bereich:** 77 bis 86
 - **Blöcke:** 1.900
@@ -3506,7 +3328,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.104 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 4/5 (Y 87–94)
+### Schritt 8.99 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 4/5 (Y 87–94)
 
 - **Y-Bereich:** 87 bis 94
 - **Blöcke:** 1.787
@@ -3538,7 +3360,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.105 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 5/5 (Y 95–104)
+### Schritt 8.100 – Palazzo des Cinquecento an Piazza dell'Olio – Teil 5/5 (Y 95–104)
 
 - **Y-Bereich:** 95 bis 104
 - **Blöcke:** 2.018
@@ -3567,7 +3389,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.106 – Palazzo des Cinquecento an Piazza dell'Olio: Innenausbau – Teil 1/2 (Y 64–74)
+### Schritt 8.101 – Palazzo des Cinquecento an Piazza dell'Olio: Innenausbau – Teil 1/2 (Y 64–74)
 
 - **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.262
@@ -3609,7 +3431,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.107 – Palazzo des Cinquecento an Piazza dell'Olio: Innenausbau – Teil 2/2 (Y 75–85)
+### Schritt 8.102 – Palazzo des Cinquecento an Piazza dell'Olio: Innenausbau – Teil 2/2 (Y 75–85)
 
 - **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.270
@@ -3655,7 +3477,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.108 – Reihenhaus an Via dei Pecori – Teil 1/4 (Y 64–74)
+### Schritt 8.103 – Reihenhaus an Via dei Pecori – Teil 1/4 (Y 64–74)
 
 - **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.775
@@ -3687,7 +3509,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.109 – Reihenhaus an Via dei Pecori – Teil 2/4 (Y 75–89)
+### Schritt 8.104 – Reihenhaus an Via dei Pecori – Teil 2/4 (Y 75–89)
 
 - **Y-Bereich:** 75 bis 89
 - **Blöcke:** 1.715
@@ -3718,7 +3540,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.110 – Reihenhaus an Via dei Pecori – Teil 3/4 (Y 90–102)
+### Schritt 8.105 – Reihenhaus an Via dei Pecori – Teil 3/4 (Y 90–102)
 
 - **Y-Bereich:** 90 bis 102
 - **Blöcke:** 1.776
@@ -3749,7 +3571,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.111 – Reihenhaus an Via dei Pecori – Teil 4/4 (Y 103–113)
+### Schritt 8.106 – Reihenhaus an Via dei Pecori – Teil 4/4 (Y 103–113)
 
 - **Y-Bereich:** 103 bis 113
 - **Blöcke:** 1.751
@@ -3782,7 +3604,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.112 – Reihenhaus an Via dei Pecori: Innenausbau – Teil 1/2 (Y 64–81)
+### Schritt 8.107 – Reihenhaus an Via dei Pecori: Innenausbau – Teil 1/2 (Y 64–81)
 
 - **Y-Bereich:** 64 bis 81
 - **Blöcke:** 1.136
@@ -3824,7 +3646,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.113 – Reihenhaus an Via dei Pecori: Innenausbau – Teil 2/2 (Y 82–100)
+### Schritt 8.108 – Reihenhaus an Via dei Pecori: Innenausbau – Teil 2/2 (Y 82–100)
 
 - **Y-Bereich:** 82 bis 100
 - **Blöcke:** 1.119
@@ -3864,7 +3686,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.114 – Reihenhaus an Via dei Pecori – Teil 1/2 (Y 64–87)
+### Schritt 8.109 – Reihenhaus an Via dei Pecori – Teil 1/2 (Y 64–87)
 
 - **Y-Bereich:** 64 bis 87
 - **Blöcke:** 1.968
@@ -3895,7 +3717,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.115 – Reihenhaus an Via dei Pecori – Teil 2/2 (Y 88–107)
+### Schritt 8.110 – Reihenhaus an Via dei Pecori – Teil 2/2 (Y 88–107)
 
 - **Y-Bereich:** 88 bis 107
 - **Blöcke:** 1.916
@@ -3927,7 +3749,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.116 – Reihenhaus an Via dei Pecori: Innenausbau & Straßenschilder
+### Schritt 8.111 – Reihenhaus an Via dei Pecori: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 64 bis 95
 - **Blöcke:** 1.772

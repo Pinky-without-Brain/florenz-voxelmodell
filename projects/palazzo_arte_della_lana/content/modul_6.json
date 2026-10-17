@@ -1,0 +1,64 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Innenräume",
+  "subtitle": "Sala delle Udienze, Bibliothek, Säle und Fassadenschmuck",
+  "icon": "🏛️",
+  "parts": {
+    "sala_udienze": {
+      "title": "Sala delle Udienze",
+      "description": "Saal im Erdgeschoss an der Via Calimala: Schachbrettboden aus Terrakotta und Marmor, Wandfelder in Hellblau und Weiß, Kreuzgewölbe mit Rippen und blauen Feldern (Tugenden und Evangelisten), an der Ostwand die Madonna auf dem Thron zwischen Engeln und Heiligen (Farbfeld 10 × 6), an der Südwand die Investitur / Giostra um 1340 (Farbfeld 8 × 5), zwei Richtertische.",
+      "tip": "Boden und Wandfelder zuerst, die Bilder zuletzt.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Bildinhalte sind nur als Farbflächen angedeutet.",
+      "fact": "Die Sala delle Udienze trägt Trecento-Fresken (Gewölbe mit Tugenden und Evangelisten, thronende Madonna, Heilige; um 1310–1320) und eine Investitur um 1340 an der rechten Wand (Quelle: it.wikipedia, Palazzo dell’Arte della Lana)."
+    },
+    "bibliothek": {
+      "title": "Bibliothek der Società Dantesca",
+      "description": "Saal im ersten Obergeschoss über dem Treppenaufgang: Bücherwände mit farbigen Rücken, bemalter Dachstuhl mit Balken und roten und gelben Feldern, Lünette mit der thronenden Madonna zwischen Engeln (6 × 4), ein Fries mit Wappen Florentiner Institutionen und zwei Lesetische.",
+      "tip": "Die Bücherwände bestehen aus Wandfeldern, die Lesetische sind einen Block hoch.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Wappen sind nur farbige Schilde.",
+      "fact": "Im ersten Stock befinden sich der Treppenaufgang mit bemalten Dachstühlen und Wappen Florentiner Institutionen sowie die Bibliothek der Società Dantesca; eine Lünette zeigt eine thronende Madonna zwischen Engeln (Quelle: it.wikipedia, Palazzo dell’Arte della Lana)."
+    },
+    "lesesaal": {
+      "title": "Lesesaal",
+      "description": "Saal im zweiten Obergeschoss mit Bücherwänden, Holz-Kassettendecke und zwei Lesetischen.",
+      "tip": "Wie die Bibliothek eine Etage tiefer.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Raumfolge und Lage sind Stufe C.",
+      "fact": "Dass die Società Dantesca Italiana das Haus seit 1903 besitzt, ist belegt; die Aufteilung in Lesesaal und Sitzungssaal ist ein Entwurf (Stufe C)."
+    },
+    "sala_dantesca": {
+      "title": "Sala della Società Dantesca",
+      "description": "Sitzungssaal im dritten Obergeschoss: Boden aus Terrakotta und Marmor, rote und blaue Wandfelder mit Wappenschilden, Kassettendecke mit goldenen Mitten und ein langer Sitzungstisch.",
+      "tip": "Die Kassettendecke gibt dem Raum seine Höhe.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Stufe C: Quellen beschreiben diesen Saal nicht.",
+      "fact": "Die Società Dantesca Italiana hat den Palazzo seit 1903 (Quelle: it.wikipedia, Palazzo dell’Arte della Lana)."
+    },
+    "brueckensaal": {
+      "title": "Brückensaal",
+      "description": "Saal im vierten Obergeschoss, in dessen Ostwand die Tür zur Brücke nach Orsanmichele liegt: eine Nische mit geschlossenem Holztürblatt zwischen Pfeilern aus Pietra serena. Holzboden, Kassettendecke, ein Tisch.",
+      "tip": "Die Nische ist zwei Blöcke tief; das Türblatt sitzt in der äußeren Lage.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Orsanmichele hat an seinem Westende keine Öffnung, deshalb bleibt die Tür im Modell geschlossen.",
+      "fact": "1569 ließ Cosimo I. de’ Medici nach einem Entwurf von Bernardo Buontalenti einen Verbindungsbau über die Via dell’Arte della Lana zu den Obergeschossen von Orsanmichele errichten; seine Überdachung wurde 1964–1967 entfernt (Quelle: it.wikipedia, Palazzo dell’Arte della Lana)."
+    },
+    "madonna_della_tromba": {
+      "title": "Tabernakel der Madonna della Tromba",
+      "description": "Außen an der Nordwestecke, im zweiten Obergeschoss: ein Tabernakel aus Pietra serena mit Giebel; im Feld die Madonna in Blau mit goldenem Nimbus.",
+      "tip": "Das Tabernakel ist 5 Blöcke breit und 7 hoch.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Madonna ist nur eine Farbfigur.",
+      "fact": "Das Tabernakel der Santa Maria della Tromba stand ursprünglich am Mercato Vecchio und wurde 1917 an der Ecke wieder aufgebaut (Quelle: it.wikipedia, Palazzo dell’Arte della Lana)."
+    },
+    "wappen_agnus_dei": {
+      "title": "Wappen mit dem Lamm",
+      "description": "An der Westfassade (Via Calimala) und der Ostfassade (Via dell’Arte della Lana) je ein goldgerahmtes Wappen: weißes Lamm auf Blau (Agnus Dei); an der Westfassade darunter ein goldenes Band als Inschriftenzeile.",
+      "tip": "Jedes Wappen ist 4 × 4 Blöcke groß.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Inschrift ist nur als goldenes Band angedeutet.",
+      "fact": "Die Wappen mit dem Agnus Dei und die lateinischen Inschriften von 1308 sitzen an beiden Fassaden (Quelle: it.wikipedia, Palazzo dell’Arte della Lana)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

@@ -1,53 +1,55 @@
 {
   "id": "r4107746",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1824 (Gaetano Baccani), klassizistisch",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 13
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 14
     },
     {
       "art": "og",
-      "hoeheBl": 9
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 10
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 9,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rahmen_stuck",
-      "rahmen": "pietra_forte",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "balkon_exedra_halbsaeulen",
+      "kassettenhalbkuppel",
+      "wappen_fuellhoerner",
+      "eisengitter_ladenfronten"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Durazzo",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: 1824 klassizistisch von Gaetano Baccani, Erdgeschoss und zwei Obergeschosse, verputzt in heller Farbe, Erdgeschoss mit Scheinrustika, großen Segmentbögen und schmiedeeisernen Ladengittern, Rundbogenportal, große Fenster mit Rahmen in den Obergeschossen, Sohlbank- und Gurtgesimse, langer Mittelbalkon an der Via dei Servi mit Exedra aus zwei Halbsäulen und Kassettenhalbkuppel, Wappen zwischen zwei Füllhörnern über dem Portal. Annahme: Achsenzahl, Gesims und Dach.",
   "name": "Palazzo Durazzo"
 }

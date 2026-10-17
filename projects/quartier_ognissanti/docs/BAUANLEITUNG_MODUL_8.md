@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 183.165 |
+| Blöcke | 183.177 |
 | Bauschritte | 119 |
 | Y-Bereich | 55 bis 102 |
 | X-Ausdehnung | -1817 bis -1483 (335 Blöcke) |
@@ -23,19 +23,19 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 66.533 | 36,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 24.951 | 13,6 % |
-| Polierter Tuffstein | `polished_tuff` | 20.294 | 11,1 % |
+| Polierter Tuffstein | `polished_tuff` | 20.297 | 11,1 % |
 | Weißer Beton | `white_concrete` | 16.564 | 9,0 % |
-| Endsteinziegel | `end_stone_bricks` | 12.181 | 6,7 % |
-| Rosa Keramik | `pink_terracotta` | 11.772 | 6,4 % |
-| Tuffstein | `tuff` | 9.998 | 5,5 % |
-| Glatter Stein | `smooth_stone` | 8.080 | 4,4 % |
+| Endsteinziegel | `end_stone_bricks` | 12.181 | 6,6 % |
+| Rosa Keramik | `pink_terracotta` | 11.787 | 6,4 % |
+| Tuffstein | `tuff` | 10.004 | 5,5 % |
+| Glatter Stein | `smooth_stone` | 8.073 | 4,4 % |
 | Orange Keramik | `orange_terracotta` | 5.494 | 3,0 % |
-| Graues Buntglas | `gray_stained_glass` | 3.041 | 1,7 % |
-| Polierter Andesit | `polished_andesite` | 1.141 | 0,6 % |
+| Graues Buntglas | `gray_stained_glass` | 3.033 | 1,7 % |
+| Polierter Andesit | `polished_andesite` | 1.142 | 0,6 % |
 | Ziegelsteine | `bricks` | 1.028 | 0,6 % |
 | Grüner Beton | `green_concrete` | 587 | 0,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 395 | 0,2 % |
-| Seelaterne | `sea_lantern` | 328 | 0,2 % |
+| Seelaterne | `sea_lantern` | 329 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 219 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 91 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 81 | 0,0 % |
@@ -45,8 +45,8 @@
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 31 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 24 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 36 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 20 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 16 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 16 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 | 0,0 % |
@@ -60,7 +60,7 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 296 |
 | Steintreppe | `stone_stairs` | 160 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 24 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -70,8 +70,8 @@
 | 2 | `r1615532_innen` | The Excelsior, a Luxury Collection Hotel: Innenausbau | 16.897 | 8.40–8.50 |
 | 3 | `r6971868` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci | 22.458 | 8.50–8.63 |
 | 4 | `r6971868_innen` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau | 4.857 | 8.64–8.67 |
-| 5 | `r7031390` | Palazzo della Marescialla | 18.196 | 8.68–8.78 |
-| 6 | `r7031390_innen` | Palazzo della Marescialla: Innenausbau | 4.641 | 8.79–8.82 |
+| 5 | `r7031390` | Palazzo della Marescialla | 18.207 | 8.68–8.78 |
+| 6 | `r7031390_innen` | Palazzo della Marescialla: Innenausbau | 4.642 | 8.79–8.82 |
 | 7 | `w474207922` | Reihenhaus an Borgo Ognissanti | 5.747 | 8.83–8.85 |
 | 8 | `w474207922_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2.220 | 8.86–8.87 |
 | 9 | `w474207927` | Reihenhaus an Borgo Ognissanti | 2.457 | 8.88–8.89 |
@@ -2164,25 +2164,25 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.68 – Palazzo della Marescialla – Teil 1/11 (Y 56–57)
 
 - **Y-Bereich:** 56 bis 57
-- **Blöcke:** 913
+- **Blöcke:** 914
 - **Bauteile:** `r7031390`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 907 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+| Tuffstein | `tuff` | 910 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2194,30 +2194,30 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.69 – Palazzo della Marescialla – Teil 2/11 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.435
+- **Blöcke:** 1.437
 - **Bauteile:** `r7031390`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.432 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
+| Tuffstein | `tuff` | 1.435 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2229,7 +2229,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.70 – Palazzo della Marescialla – Teil 3/11 (Y 59–59)
 
@@ -2245,7 +2245,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2257,34 +2257,34 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.71 – Palazzo della Marescialla – Teil 4/11 (Y 59–61)
 
 - **Y-Bereich:** 59 bis 61
-- **Blöcke:** 1.922
+- **Blöcke:** 1.928
 - **Bauteile:** `r7031390`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.279 |
+| Polierter Tuffstein | `polished_tuff` | 1.282 |
 | Rosa Keramik | `pink_terracotta` | 632 |
-| Glatter Stein | `smooth_stone` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
-| Polierter Andesit | `polished_andesite` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Glatter Stein | `smooth_stone` | 6 |
+| Polierter Andesit | `polished_andesite` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2296,27 +2296,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.72 – Palazzo della Marescialla – Teil 5/11 (Y 62–67)
 
 - **Y-Bereich:** 62 bis 67
-- **Blöcke:** 1.921
+- **Blöcke:** 1.923
 - **Bauteile:** `r7031390`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.561 |
-| Glatter Stein | `smooth_stone` | 241 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
+| Rosa Keramik | `pink_terracotta` | 1.576 |
+| Glatter Stein | `smooth_stone` | 232 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Tuffsteinziegel | `tuff_bricks` | 10 |
 | Polierter Andesit | `polished_andesite` | 9 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2328,7 +2328,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.73 – Palazzo della Marescialla – Teil 6/11 (Y 68–73)
 
@@ -2346,7 +2346,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2358,7 +2358,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.74 – Palazzo della Marescialla – Teil 7/11 (Y 74–79)
 
@@ -2376,7 +2376,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2388,7 +2388,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.75 – Palazzo della Marescialla – Teil 8/11 (Y 80–85)
 
@@ -2406,7 +2406,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2418,7 +2418,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.76 – Palazzo della Marescialla – Teil 9/11 (Y 86–89)
 
@@ -2436,7 +2436,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2448,7 +2448,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.77 – Palazzo della Marescialla – Teil 10/11 (Y 90–91)
 
@@ -2464,7 +2464,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2476,7 +2476,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.78 – Palazzo della Marescialla – Teil 11/11 (Y 92–97)
 
@@ -2493,7 +2493,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_della_Marescialla, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2505,12 +2505,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.79 – Palazzo della Marescialla: Innenausbau – Teil 1/4 (Y 59–69)
 
 - **Y-Bereich:** 59 bis 69
-- **Blöcke:** 1.185
+- **Blöcke:** 1.186
 - **Bauteile:** `r7031390_innen`
 
 **Teileliste**
@@ -2519,7 +2519,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.118 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 18 |
+| Seelaterne | `sea_lantern` | 19 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |

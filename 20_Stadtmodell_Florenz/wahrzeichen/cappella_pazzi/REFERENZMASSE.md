@@ -33,7 +33,7 @@ Abweichung vom Auftrag: Die Kapelle steht als Zusatzmaske `kapelle`, nicht in `g
 | Südwestblock | u −12..78 × w 100..134 | drei Museumshallen | Lage C |
 | Loch 1 | u 79..139 × w 170..244 (**60 × 74 Blöcke = 30 × 37 m**, 4.335 Zellen) | **Secondo Chiostro** (1453, quadratischer Plan, Brunnen; hier 30 × 37 m) | Deutung B |
 | Loch 0 | u 218..278 × w 113..128 (60 × 15 Blöcke = 30 × 7,5 m, 857 Zellen) | schmaler Innenhof im Ostflügel; Funktion in keiner Quelle genannt | Deutung C |
-| Primo Chiostro | **kein Loch**: freie Fläche des Stadtgrunds (P-förmig) zwischen Westarm, Südwestblock, Kapelle und dem Streifen w307539769: Rechteck u 12..135 × w 59..98 plus Quadrat u 81..135 × w 98..131 | liegt außerhalb der Maske, gehört nicht zu diesem Projekt | B (it.wikipedia: P-Plan nach dem Abriss des Inquisitionspalasts) |
+| Primo Chiostro | **kein Loch**: freie Fläche des Stadtgrunds (P-förmig) zwischen Westarm, Südwestblock, Kapelle und dem Streifen w307539769: Rechteck u 12..135 × w 59..98 plus Quadrat u 81..135 × w 98..131 | seit W7c als Zusatzmaske `primo_chiostro` gebaut (3 Rechtecke im Rahmen, 6.569 Zellen; gemessen: freie Fläche 7.177 Zellen, Arm u 11..135 × w 57..97, Hof u 79..140 × w 98..129) | B (it.wikipedia: P-Plan nach dem Abriss des Inquisitionspalasts; ursprünglich zwei Höfe, ein rechteckiger vor der Kapelle und ein quadratischer) |
 
 Der Zugang zum Konvent führt historisch über das Tor an der Piazza Santa Croce rechts der Fassade in den Primo Chiostro (Auftrag); im Polygon liegt diese Stelle bei u −5..12 × w 44..56, zwischen Westarm und der Basilika. Das Tor selbst ist freie Fläche (Stadtgrund), nicht Teil des Projekts.
 

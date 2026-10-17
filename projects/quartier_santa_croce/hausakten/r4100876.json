@@ -1,7 +1,7 @@
 {
   "id": "r4100876",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "14./15. Jh., Fassade 1904 restauriert",
   "geschosse": [
     {
       "art": "eg",
@@ -23,31 +23,36 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 9,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
       "art": "tor_und_fenster",
       "portalBreiteBl": 7,
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "sporti_konsolen",
+      "balkon_wappen",
+      "wappen_ecke_abgeschlagen",
+      "sgraffito_backsteinimitat"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Borghini",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: Eckpalast an der Piazza Santa Croce, vorkragende Fassade auf Konsolen, großes Rundbogenportal aus Stein, Balkon mit Morelli-Wappen, abgeschlagenes Wappen an der Ecke, Sgraffito als Backsteinimitation am Borgo Santa Croce (20. Jh. nach älterem Muster). Annahme: Geschosszahl, Achsen, Fensterform und Dach.",
   "name": "Palazzo Borghini"
 }

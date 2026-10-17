@@ -1,7 +1,7 @@
 {
   "id": "w306398159",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "1313 (Spital); später Kloster San Martino",
   "geschosse": [
     {
       "art": "eg",
@@ -22,7 +22,7 @@
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_giebel",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
       "fenster": "rechteck_vergittert"
     },
@@ -35,15 +35,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "portal_architrav_mit_wappen_pollini",
+      "kolonnade_14jh_reste"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_in_Santa_Maria_della_Scala",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Spital Santa Maria della Scala (gegründet 1313): Portal mit Steinarchitrav und Pollini-Wappen, Reste einer Säulenhalle des 14. Jh.. Annahme: Fassadenform und Geschosse.",
   "name": "Ex Chiesa di San Martino in Santa Maria della Scala"
 }

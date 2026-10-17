@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Kniefenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den Block bis Y 89: zur Via del Proconsolo und zum Borgo degli Albizi das Erdgeschoss mit glatter Rustika und Kniefenstern in Rahmen aus Pietra serena, darüber im Piano nobile verputzte Wände mit Pilastern aus Pietra serena zwischen den Fenstern; die Eckpilaster sind aus Pietra serena. Zwei Portale führen hinein. Gesimse trennen die Geschosse (Y 76).",
+      "tip": "Zwei Blöcke dick: außen Putz oder Stein, innen Putz.",
+      "caution": "Lass Portale und Tore frei.",
+      "fact": "Buontalenti begann im Juli 1593 mit dem Erdgeschoss, dem Portal am Borgo degli Albizi und den Kniefenstern auf großen Konsolen (Quelle: it.wikipedia, Palazzo Nonfinito)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Im Erdgeschoss sitzen die Kniefenster, tief angesetzt (Y 68 bis 75), im Piano nobile hohe Fenster (Y 80 bis 87); an der Via del Proconsolo links und rechts des Portals je drei, am Borgo degli Albizi je zwei.",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Die Kniefenster tragen Gitter und Giebel, teils dreieckig, teils gebrochen und eingerollt (Quelle: it.wikipedia, Palazzo Nonfinito)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims die Fassade ab (Y 88 bis Y 89).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Scamozzi und Caccini führten den Bau von 1600 bis 1612 weiter, ihnen werden das hohe Portal an der Via del Proconsolo und das Piano nobile mit ionischen Pilastern in Kolossalordnung zugeschrieben (Quelle: it.wikipedia, Palazzo Nonfinito)."
+    }
+  }
+}

@@ -1,21 +1,25 @@
 {
   "id": "r4095207",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "um 1426 (Niccolo da Uzzano); Rückfront 1870-73 Poggi",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
-    "material": "bugnato_glatt",
+    "achsen": 8,
+    "material": "bugnato_abgestuft",
     "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_seitlich",
@@ -23,23 +27,26 @@
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_serena",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "spaetgotische_monofore",
+      "quadratischer_grundriss_um_hof"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi_alle_Rovinate",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Fertig um 1426, acht Achsen im Hauptteil, spätgotische Fassade mit strengem Bossenwerk bis zum ersten Obergeschoss und unregelmässigen Reihen von Monoforen (teils vermauert), ursprünglich drei große Bogen im EG. Annahme: Geschosszahl 3, Rundbogen als Näherung für Monoforen.",
   "name": "Palazzo Capponi alle Rovinate"
 }

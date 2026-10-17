@@ -1,7 +1,7 @@
 {
   "id": "r4098973",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "spätes 16./frühes 17. Jh. (Lorenzo Sirigatti), mit Zügen des späten 15. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,46 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 10,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "achsen": 5,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_seitlich",
       "portalBreiteBl": 7,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "eckrustika",
+      "eckleuchte_via_del_fico"
+    ],
+    "eckquader": true,
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Salvetti_Sebregondi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: von Lorenzo Sirigatti für die Della Fonte aus älteren Bauten vereinheitlicht, drei Geschosse, fünf Achsen an der Hauptfassade, Bogenfenster auf schlichten Steingurten mit Bossenrahmung (im ersten Geschoss leicht erhöht, im zweiten bündig mit der Wand), auffällige Eckrustika und Eckleuchte an der Via del Fico, verputzte Wandfläche. Annahme: Putzfarbe, Erdgeschossform, Traufgesims, Dach.",
   "name": "Palazzo Salvetti Sebregondi"
 }

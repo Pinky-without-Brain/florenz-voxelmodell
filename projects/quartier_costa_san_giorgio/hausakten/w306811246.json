@@ -1,49 +1,56 @@
 {
   "id": "w306811246",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "casa_a_schiera",
+  "epoche": "14. Jh. (Magnatenhaus); oberstes Geschoss später",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
-    "material": "bugnato_glatt",
+    "achsen": 3,
+    "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_serena",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "geruestloecher_sichtbar",
+      "wappen_frescobaldi_statt_fenster"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Frescobaldi_di_San_Jacopo",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Typisches trecenteskes Magnatenhaus mit Sichtmauerwerk (große Pietraforte-Quader im 1. OG, Filaretto darüber), oberstes Geschoss spätere Aufstockung, drei große Pietraforte-Bogen im EG zur Piazza, drei Achsen Stichbogenfenster im 1. und 2. OG, Gerüstlöcher, Wappen Frescobaldi. Annahme: Geschosszahl 4, Gesims.",
   "name": "Palazzo Frescobaldi di San Jacopo"
 }

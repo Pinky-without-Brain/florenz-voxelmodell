@@ -1,6 +1,6 @@
 # Übergabe V3 – Stadtmodell Florenz (laufendes Protokoll)
 
-**Stand:** 16. Oktober 2026 (abends) · **Branch:** `claude/welle6` (PR nach `main` folgt) · Wahrzeichen der Wellen 3–6 stehen in den Übersichten `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md`, `_WELLE5.md`, `_WELLE6.md`
+**Stand:** 17. Oktober 2026 (nachts) · **Branch:** `claude/welle7` (PR nach `main` folgt) · Wahrzeichen der Wellen 3–7 stehen in den Übersichten `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md`, `_WELLE5.md`, `_WELLE6.md`, `_WELLE7.md`
 **Zweck:** Eine neue Claude-Instanz soll hier nahtlos weiterarbeiten. Dieses Protokoll wird nach jedem abgeschlossenen Arbeitspaket fortgeschrieben (Abschnitt 4 und 5).
 **Vorgänger:** `UEBERGABE_V2.md` (Dom, V2), `20_Stadtmodell_Florenz/STADTMODELL_PLAN.md` (Programmplan V3, Phasen A–G).
 
@@ -47,6 +47,9 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `san_frediano_in_cestello`, `san_gaetano`, `santa_maria_maggiore`, `santi_apostoli` | Wahrzeichen (Kirchen, Welle 6a) | 60.865 / 59.847 / 31.434 / 10.683 | **pflicht**, 0 Komponenten, R14 0 | W6 (16.10.) |
 | `cappella_pazzi`, `santo_stefano_al_ponte` | Wahrzeichen (Kapelle mit Konvent und Kreuzgängen; Kirche, Welle 6b) | 219.672 / 41.111 | **pflicht**, 0 Komponenten, R14 0 | W6 (16.10.) |
 | `san_firenze`, `palazzo_arcivescovile`, `loggia_del_pesce` | Wahrzeichen (Barockkomplex, Palast, Loggia, Welle 6c) | 188.910 / 98.847 / 5.726 | **pflicht**, 0 Komponenten, R14 0 | W6 (16.10.) |
+| `palazzo_gondi`, `palazzo_spini_feroni`, `palazzo_bartolini_salimbeni`, `palazzo_antinori` | Wahrzeichen (Palazzi, Welle 7a) | 43.278 / 62.154 / 37.069 / 69.492 | **pflicht**, 0 Komponenten, R14 0 | W7 (16.10.) |
+| `sant_apollonia`, `loggia_dei_servi`, `palazzo_nonfinito` | Wahrzeichen (Konvent mit Cenacolo, Loggia, Palast, Welle 7b) | 188.410 / 74.956 / 82.024 | **pflicht**, 0 Komponenten, R14 0 | W7 (17.10.) |
+| `palazzo_arte_della_lana`, `museo_opera_duomo`, `santa_margherita_cerchi` | Wahrzeichen (Turmhaus, Museum, Kirche, Welle 7c); `cappella_pazzi` + Primo Chiostro (231.846) | 32.269 / 140.223 / 4.602 | **pflicht**, 0 Komponenten, R14 0 | W7 (16.10.) |
 | `quartier_signoria` | Quartier (182 Häuser, Isolati der Kacheln 98, 99, 113) | 1.919.119 | **pflicht**, 98,3 %, 0 Komponenten | E1 erledigt (14.10.) |
 | `quartier_lungarni` | Quartier (103 Häuser, Kacheln 112, 128, 129) | 983.961 | **pflicht**, 98,9 %, 0 Komponenten | E2 erledigt (14.10.) |
 | `quartier_proconsolo` | Quartier (134 Häuser, Kacheln 84, 115) | 1.110.364 | **pflicht**, 99 %, 0 Komponenten | E2 erledigt (14.10.) |
@@ -254,13 +257,21 @@ Nutzerwunsch: die bedeutendsten noch generischen Gebäude als Wahrzeichen. Neun 
 - Werkzeuge: neu `tools/wahrzeichen/kirche.js` (additiv), `palazzo.js` Option `fenster.aus(c)`.
 - Minecraft-Export (Build-Ordner): 537 s, 76 Projekte, **104.908.682 Projektblöcke**, 2.799 Straßenschilder, 78.496 Chunks, db 57,4 MB, Heap 2,3 GB; als `florenz_voxelmodell_2026-10-16_w6.mcworld` an den Nutzer.
 
+### W7 Wahrzeichen-Welle 7 und Hausakten-Recherche R1 (lokale Sitzung 16./17.10.2026, Zweig `claude/welle7`) – **erledigt**
+Nutzerentscheidung: Welle 7 und Hausakten-Recherche **parallel** (fünf Sonnet-Agenten in Harness-Worktrees, disjunkte Quartiere). Zahlen, Abweichungen, offene Punkte: `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE7.md` §5–§7; Erfahrungen `BEGEHBARKEIT.md` §21–§23 und §19 (Primo Chiostro).
+- **Wahrzeichen (elf Projekte, 746.651 neue Blöcke):** W7a Palazzi Gondi, Spini Feroni, Bartolini Salimbeni, Antinori; W7b Sant'Apollonia (Cenacolo Castagno), Loggia dei Servi di Maria, Palazzo Nonfinito; W7c Palazzo dell'Arte della Lana (Brücke zu Orsanmichele endet mit blinder Tür), Museo dell'Opera del Duomo (16 Säle, Sala del Paradiso), Santa Margherita de' Cerchi, Primo Chiostro als Zusatzmaske `primo_chiostro` (drei Rechtecke, 6.569 Zellen) in `cappella_pazzi`. Alle `pflicht`, R13 0 Komponenten, R14 0 Lücken. 14 Hausakten aus sieben Quartieren gelöst (`quartier_strozzi` von W7a und W7c, nach dem Merge neu gebaut). `vorrang.json` 71 IDs.
+- **Hausakten-Recherche R1 (129 Akten, 20 Quartiere):** R1a Osten/Norden 71, R1b Oltrarno/Westen 58; jetzt 146 Akten mit `quelle: recherche` (it.wikipedia), Quellenlisten `projects/<quartier>/docs/QUELLEN_HAUSAKTEN.md`; R11 0 Fehler. Schema-Grenzen: ≤ 15 Achsen, kein Kuppeldach, `extras` nur dokumentarisch. Welle-8-Kandidaten in UEBERSICHT_WELLE7 §7.
+- **Werkzeuge:** `palazzo.js` `portikus.entlang` (Bogenachse), `tools/diag/w7a_inhalt.js`, `w7b_inhalt.js`.
+- **Integration:** `besitz.js` 38 Projekte, Stadtgrund neu, `webindex.js` 86 Einträge, `--cross` 86 Projekte, 3.655 Paare, 0 Konflikte (81 min zusammen mit `--all --no-emit`), Tests 639 / 0 / 0 (10,7 min, nach Behebung der sechs Bank-Doppelbelegungen).
+- **Minecraft-Export (Build-Ordner):** 1.017 s (parallel zu Tests und Cross-Lauf), 86 Projekte, **105.257.061 Projektblöcke**, 2.780 Straßenschilder, 78.496 Chunks, db 57,5 MB, Heap 2,5 GB; als `florenz_voxelmodell_2026-10-17_w7.mcworld` an den Nutzer.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe und ~~entlädt ferne~~ (H4).
 3. ~~Wahrzeichen Welle 3/4~~ (15.10. alle gebaut), ~~Innenräume der Palazzi, Bargello-Freitreppe, Campanili San Lorenzo/Annunziata~~ (V5). Offen: 2. OG der Palazzi ausstatten, eiserne Brüstung der Vespucci-Brücke (keine Gitter in der Palette).
 4. ~~Palazzo Pitti~~ (W7), ~~Bilderfelder im Corridoio Oltrarno, Grotta del Buontalenti~~ (V5c).
 5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
-6. ~~Wahrzeichen Welle 5~~ (W5), ~~Welle 6~~ (W6, 76 Projekte). Offen danach: Primo Chiostro von Santa Croce (Stadtgrund-Fläche, mögliche Flächenmaske), Konvent von Cestello, weitere benannte Gebäude (noch 462 Hausakten mit OSM-Namen, alle typologisch), Hangterrassierung, Palazzi 2. OG, Vespucci-Brüstung.
+6. ~~Wahrzeichen Welle 5~~ (W5), ~~Welle 6~~ (W6), ~~Welle 7 und Hausakten-Recherche R1~~ (W7, 87 Projekte, 146 recherchierte Akten). Offen danach: Welle-8-Kandidaten (UEBERSICHT_WELLE7 §7), 318 benannte Akten noch typologisch (Quartiere der Wellen 6/7 waren gesperrt), Konvent von Cestello, Hangterrassierung, Palazzi 2. OG, Vespucci-Brüstung.
 
 ## 6. Bekannte Punkte
 - 6 Quartierhäuser (schmal/schräg, Innenbreite < 4) ohne Obergeschossböden (siehe BEGEHBARKEIT §6).

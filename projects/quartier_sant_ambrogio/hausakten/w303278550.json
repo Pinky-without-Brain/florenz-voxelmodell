@@ -1,7 +1,7 @@
 {
   "id": "w303278550",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,20 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "quadriportikus_atrium_sangallo",
+      "portal_dreiecksgiebel_borgo_pinti",
+      "barberini_mostra_bienen",
+      "neunzehn_blindbogen_via_della_colonna"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Bau ab 1257, vollendet 1685, Renaissance-Atrium (Quadriportikus mit Pietra-serena-Säulen) von Giuliano da Sangallo 1481-1526, Fassade am Borgo Pinti mit Portal unter Dreiecksgiebel und Inschrift CENOBIUM CISTERCIENSE, Barberini-Mostra des 17. Jh. mit Bienenwappen, Fassade Via della Colonna um 1870 von Felice Francolini mit neunzehn hohen zugesetzten Bögen und oberer Fensterreihe, verputzt. Annahme: Höhenaufteilung, Dachform.",
   "name": "Santa Maria Maddalena dei Pazzi"
 }

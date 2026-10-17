@@ -1,15 +1,19 @@
 {
   "id": "w112941732",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "ab 1644 (Gherardo Silvani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -18,27 +22,32 @@
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rundbogen"
+      "art": "portal_mittig",
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rahmen_stuck",
-      "rahmen": "putz",
+      "rahmen": "pietra_serena",
       "laeden": "gruen"
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "balkon_balustrade_urnen_loewenkoepfe",
+      "portal_bugnato_tympanon",
+      "gartenloggetta_drei_bogen",
+      "belvedere_serliana"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_di_San_Clemente",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Bau ab 1644 nach Entwurf von Gherardo Silvani, drei Geschosse (Mittelteil ein Geschoss höher als die Flügel), mittiges Portal mit Bossenrahmen und Halbkreistympanon zwischen zwei Kniefenstern mit gesprengten Giebeln, gerahmte Fenster in Ober- und Mezzaningeschossen, Balkon mit Balustrade und Urnen mit Löwenköpfen, gartenseitig Loggetta mit drei Rundbögen und Belvedere mit Serliana, Fassade 1926 gereinigt und neu gefärbt. Annahme: Achsen, Putzfarbe, Gesims, Dach.",
   "name": "Palazzo di San Clemente"
 }

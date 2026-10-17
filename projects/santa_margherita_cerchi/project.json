@@ -1,0 +1,11 @@
+{
+  "id": "santa_margherita_cerchi",
+  "title": "Santa Margherita de' Cerchi (Dantes Kirche)",
+  "type": "wahrzeichen",
+  "gebaeude": ["w307545799"],
+  "bodenY": 66,
+  "rahmen": { "ox": 39, "oz": 401, "thetaDeg": 0 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

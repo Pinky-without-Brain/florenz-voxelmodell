@@ -1,11 +1,11 @@
 {
   "id": "r10837675",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Ende 17. Jh., vollendet 1697 (Giovannozzi)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
@@ -13,7 +13,11 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 4
     }
   ],
   "fassade": {
@@ -22,12 +26,12 @@
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "tabernakel",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -35,15 +39,21 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "terrasse_ueber_portal",
+      "wappen_corsi_gross",
+      "verdachungen_erdgeschoss",
+      "balkonfenster_gesprengter_giebel"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Guicciardini_Corsi_Salviati",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Bau von Pietro Paolo Giovannozzi für Cosimo Del Sera, 1697 vollendet, drei Geschosse (zwei erhöht) mit Mezzanin im obersten, ausgewogene Öffnungsanordnung mit Mittelportal und kleiner Terrasse darüber (1696-97 genehmigt), Fenster mit Rustikarahmen und Bogenverdachungen mit Voluten (im Erdgeschoss laut Limburger einzigartig in Florenz), Balkonfenster mit gesprengtem Giebel, großes Corsi-Wappen in der Mitte. Annahme: Achsenzahl, Putzfarbe, Gesims, Dach.",
   "name": "Palazzo Guicciardini Corsi Salviati"
 }

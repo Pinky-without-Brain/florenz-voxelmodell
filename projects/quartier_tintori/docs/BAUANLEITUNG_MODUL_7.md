@@ -8,46 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 284.266 |
-| Bauschritte | 175 |
+| Blöcke | 286.594 |
+| Bauschritte | 176 |
 | Y-Bereich | 61 bis 105 |
 | X-Ausdehnung | 437 bis 770 (334 Blöcke) |
 | Z-Ausdehnung | 1070 bis 1302 (233 Blöcke) |
 | Kleinster Schritt | 612 Blöcke (Schritt 7.3) |
-| Mittlerer Schritt | 1.624 Blöcke |
-| Größter Schritt | 2.096 Blöcke (Schritt 7.140) |
+| Mittlerer Schritt | 1.628 Blöcke |
+| Größter Schritt | 2.096 Blöcke (Schritt 7.141) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 95.768 | 33,7 % |
-| Weißer Beton | `white_concrete` | 35.710 | 12,6 % |
-| Polierter Tuffstein | `polished_tuff` | 34.539 | 12,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 25.934 | 9,1 % |
-| Endsteinziegel | `end_stone_bricks` | 18.608 | 6,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 18.144 | 6,4 % |
+| Terrakotta | `terracotta` | 97.949 | 34,2 % |
+| Endsteinziegel | `end_stone_bricks` | 36.201 | 12,6 % |
+| Weißer Beton | `white_concrete` | 34.700 | 12,1 % |
+| Polierter Tuffstein | `polished_tuff` | 34.538 | 12,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 18.144 | 6,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 14.239 | 5,0 % |
-| Glatter Stein | `smooth_stone` | 10.678 | 3,8 % |
-| Graues Buntglas | `gray_stained_glass` | 7.137 | 2,5 % |
-| Orange Keramik | `orange_terracotta` | 6.796 | 2,4 % |
-| Tuffstein | `tuff` | 4.426 | 1,6 % |
-| Polierter Andesit | `polished_andesite` | 3.035 | 1,1 % |
+| Glatter Stein | `smooth_stone` | 11.146 | 3,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 8.165 | 2,8 % |
+| Graues Buntglas | `gray_stained_glass` | 7.121 | 2,5 % |
+| Orange Keramik | `orange_terracotta` | 6.794 | 2,4 % |
+| Tuffstein | `tuff` | 4.426 | 1,5 % |
+| Polierter Andesit | `polished_andesite` | 3.853 | 1,3 % |
 | Rosa Keramik | `pink_terracotta` | 2.206 | 0,8 % |
 | Ziegelsteine | `bricks` | 1.841 | 0,6 % |
-| Grüner Beton | `green_concrete` | 1.747 | 0,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.029 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 622 | 0,2 % |
-| Seelaterne | `sea_lantern` | 519 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 226 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 160 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 148 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 125 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 125 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 96 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 96 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 90 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 84 | 0,0 % |
+| Grüner Beton | `green_concrete` | 1.713 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.244 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 557 | 0,2 % |
+| Seelaterne | `sea_lantern` | 532 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 223 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 134 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 124 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 119 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 119 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 97 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 92 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 91 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 88 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 70 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 66 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
@@ -57,7 +57,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 494 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 446 |
 | Steintreppe | `stone_stairs` | 316 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -66,37 +66,37 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r4100877` | Palazzo des Ottocento an Borgo Santa Croce | 29.200 | 7.1–7.19 |
 | 2 | `r4100877_innen` | Palazzo des Ottocento an Borgo Santa Croce: Innenausbau | 7.131 | 7.20–7.23 |
-| 3 | `r4100880` | Palazzo Spinelli | 13.121 | 7.24–7.30 |
+| 3 | `r4100880` | Palazzo Spinelli | 13.390 | 7.24–7.30 |
 | 4 | `r4100880_innen` | Palazzo Spinelli: Innenausbau | 3.729 | 7.31–7.32 |
-| 5 | `r4100881` | Palazzo Corsini-Serristori | 27.789 | 7.33–7.51 |
-| 6 | `r4100881_innen` | Palazzo Corsini-Serristori: Innenausbau | 7.626 | 7.52–7.55 |
-| 7 | `r7103942` | Palazzo Doni | 30.276 | 7.56–7.71 |
-| 8 | `r7103942_innen` | Palazzo Doni: Innenausbau | 6.684 | 7.72–7.75 |
-| 9 | `r7103944` | Palazzo des Ottocento an Corso dei Tintori | 32.500 | 7.76–7.100 |
-| 10 | `r7103944_innen` | Palazzo des Ottocento an Corso dei Tintori: Innenausbau | 7.315 | 7.101–7.104 |
-| 11 | `w307104278` | Casa Vasari | 4.700 | 7.105–7.107 |
-| 12 | `w307104278_innen` | Casa Vasari: Innenausbau | 1.797 | 7.108 |
-| 13 | `w307104285` | Reihenhaus an Borgo Santa Croce | 3.561 | 7.109–7.110 |
-| 14 | `w307104285_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 1.872 | 7.111 |
-| 15 | `w307106627` | Palazzo Mancini | 10.677 | 7.112–7.117 |
-| 16 | `w307106627_innen` | Palazzo Mancini: Innenausbau | 1.996 | 7.118 |
-| 17 | `w482503611` | Reihenhaus an Corso dei Tintori | 16.656 | 7.119–7.128 |
-| 18 | `w482503611_innen` | Reihenhaus an Corso dei Tintori: Innenausbau | 5.377 | 7.129–7.131 |
-| 19 | `w482503615` | Renaissance-Palazzo an Borgo Santa Croce | 9.924 | 7.132–7.137 |
-| 20 | `w482503615_innen` | Renaissance-Palazzo an Borgo Santa Croce: Innenausbau | 2.581 | 7.138–7.139 |
-| 21 | `w482503617` | Haus w482503617 | 14.968 | 7.140–7.147 |
-| 22 | `w482503617_innen` | Haus w482503617: Innenausbau | 5.460 | 7.148–7.150 |
-| 23 | `w482503618` | Reihenhaus an Corso dei Tintori | 6.878 | 7.151–7.154 |
-| 24 | `w482503618_innen` | Reihenhaus an Corso dei Tintori: Innenausbau | 2.915 | 7.155–7.156 |
-| 25 | `w482503621` | Haus w482503621 | 6.383 | 7.157–7.160 |
-| 26 | `w482503621_innen` | Haus w482503621: Innenausbau | 3.044 | 7.161–7.162 |
-| 27 | `w482503624` | Reihenhaus an Corso dei Tintori | 2.639 | 7.163–7.164 |
-| 28 | `w482503624_innen` | Reihenhaus an Corso dei Tintori: Innenausbau | 823 | 7.165 |
-| 29 | `w482503625` | Reihenhaus an Corso dei Tintori | 6.405 | 7.166–7.169 |
-| 30 | `w482503625_innen` | Reihenhaus an Corso dei Tintori: Innenausbau | 1.897 | 7.170 |
-| 31 | `w482503664` | Reihenhaus an Borgo Santa Croce | 5.571 | 7.171–7.173 |
-| 32 | `w482503664_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.769 | 7.174–7.175 |
-| 33 | `strassenschilder` | Straßenschilder | 2 | 7.175 |
+| 5 | `r4100881` | Palazzo Corsini-Serristori | 27.886 | 7.33–7.51 |
+| 6 | `r4100881_innen` | Palazzo Corsini-Serristori: Innenausbau | 11.365 | 7.52–7.57 |
+| 7 | `r7103942` | Palazzo Doni | 30.284 | 7.58–7.73 |
+| 8 | `r7103942_innen` | Palazzo Doni: Innenausbau | 6.681 | 7.74–7.77 |
+| 9 | `r7103944` | Palazzo des Ottocento an Corso dei Tintori | 32.500 | 7.78–7.102 |
+| 10 | `r7103944_innen` | Palazzo des Ottocento an Corso dei Tintori: Innenausbau | 7.315 | 7.103–7.106 |
+| 11 | `w307104278` | Casa Vasari | 4.720 | 7.107–7.109 |
+| 12 | `w307104278_innen` | Casa Vasari: Innenausbau | 7 | 7.110 |
+| 13 | `w307104285` | Reihenhaus an Borgo Santa Croce | 3.553 | 7.110–7.111 |
+| 14 | `w307104285_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 1.872 | 7.112 |
+| 15 | `w307106627` | Palazzo Mancini | 10.677 | 7.113–7.118 |
+| 16 | `w307106627_innen` | Palazzo Mancini: Innenausbau | 1.996 | 7.119 |
+| 17 | `w482503611` | Reihenhaus an Corso dei Tintori | 16.656 | 7.120–7.129 |
+| 18 | `w482503611_innen` | Reihenhaus an Corso dei Tintori: Innenausbau | 5.377 | 7.130–7.132 |
+| 19 | `w482503615` | Renaissance-Palazzo an Borgo Santa Croce | 9.924 | 7.133–7.138 |
+| 20 | `w482503615_innen` | Renaissance-Palazzo an Borgo Santa Croce: Innenausbau | 2.581 | 7.139–7.140 |
+| 21 | `w482503617` | Haus w482503617 | 14.964 | 7.141–7.148 |
+| 22 | `w482503617_innen` | Haus w482503617: Innenausbau | 5.460 | 7.149–7.151 |
+| 23 | `w482503618` | Reihenhaus an Corso dei Tintori | 6.878 | 7.152–7.155 |
+| 24 | `w482503618_innen` | Reihenhaus an Corso dei Tintori: Innenausbau | 2.915 | 7.156–7.157 |
+| 25 | `w482503621` | Haus w482503621 | 6.383 | 7.158–7.161 |
+| 26 | `w482503621_innen` | Haus w482503621: Innenausbau | 3.044 | 7.162–7.163 |
+| 27 | `w482503624` | Reihenhaus an Corso dei Tintori | 2.639 | 7.164–7.165 |
+| 28 | `w482503624_innen` | Reihenhaus an Corso dei Tintori: Innenausbau | 823 | 7.166 |
+| 29 | `w482503625` | Reihenhaus an Corso dei Tintori | 6.405 | 7.167–7.170 |
+| 30 | `w482503625_innen` | Reihenhaus an Corso dei Tintori: Innenausbau | 1.897 | 7.171 |
+| 31 | `w482503664` | Reihenhaus an Borgo Santa Croce | 5.571 | 7.172–7.174 |
+| 32 | `w482503664_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.769 | 7.175–7.176 |
+| 33 | `strassenschilder` | Straßenschilder | 2 | 7.176 |
 
 ## Bauschritte
 
@@ -846,7 +846,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1460-1470 (Rossellino zugeschrieben)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Spinelli_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -858,27 +858,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.25 – Palazzo Spinelli – Teil 2/7 (Y 62–67)
+### Schritt 7.25 – Palazzo Spinelli – Teil 2/7 (Y 62–68)
 
-- **Y-Bereich:** 62 bis 67
-- **Blöcke:** 1.577
+- **Y-Bereich:** 62 bis 68
+- **Blöcke:** 1.819
 - **Bauteile:** `r4100880`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.373 |
-| Glatter Stein | `smooth_stone` | 120 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Polierter Andesit | `polished_andesite` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Orange Keramik | `orange_terracotta` | 1.580 |
+| Polierter Andesit | `polished_andesite` | 149 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Tuffsteinziegel | `tuff_bricks` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1460-1470 (Rossellino zugeschrieben)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Spinelli_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -890,27 +889,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.26 – Palazzo Spinelli – Teil 3/7 (Y 68–74)
+### Schritt 7.26 – Palazzo Spinelli – Teil 3/7 (Y 69–75)
 
-- **Y-Bereich:** 68 bis 74
-- **Blöcke:** 1.915
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.969
 - **Bauteile:** `r4100880`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.608 |
-| Glatter Stein | `smooth_stone` | 243 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Polierter Andesit | `polished_andesite` | 8 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Orange Keramik | `orange_terracotta` | 1.610 |
+| Polierter Andesit | `polished_andesite` | 163 |
+| Glatter Stein | `smooth_stone` | 137 |
+| Graues Buntglas | `gray_stained_glass` | 52 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1460-1470 (Rossellino zugeschrieben)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Spinelli_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -922,25 +921,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.27 – Palazzo Spinelli – Teil 4/7 (Y 75–81)
+### Schritt 7.27 – Palazzo Spinelli – Teil 4/7 (Y 76–82)
 
-- **Y-Bereich:** 75 bis 81
-- **Blöcke:** 1.842
+- **Y-Bereich:** 76 bis 82
+- **Blöcke:** 1.911
 - **Bauteile:** `r4100880`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.474 |
-| Glatter Stein | `smooth_stone` | 238 |
-| Graues Buntglas | `gray_stained_glass` | 130 |
+| Orange Keramik | `orange_terracotta` | 1.539 |
+| Glatter Stein | `smooth_stone` | 137 |
+| Polierter Andesit | `polished_andesite` | 131 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1460-1470 (Rossellino zugeschrieben)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Spinelli_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -952,11 +952,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.28 – Palazzo Spinelli – Teil 5/7 (Y 82–88)
+### Schritt 7.28 – Palazzo Spinelli – Teil 5/7 (Y 83–89)
 
-- **Y-Bereich:** 82 bis 88
+- **Y-Bereich:** 83 bis 89
 - **Blöcke:** 1.864
 - **Bauteile:** `r4100880`
 
@@ -964,13 +964,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.560 |
-| Glatter Stein | `smooth_stone` | 174 |
+| Orange Keramik | `orange_terracotta` | 1.513 |
+| Polierter Andesit | `polished_andesite` | 221 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1460-1470 (Rossellino zugeschrieben)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Spinelli_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -982,25 +982,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.29 – Palazzo Spinelli – Teil 6/7 (Y 89–92)
+### Schritt 7.29 – Palazzo Spinelli – Teil 6/7 (Y 90–92)
 
-- **Y-Bereich:** 89 bis 92
-- **Blöcke:** 2.080
+- **Y-Bereich:** 90 bis 92
+- **Blöcke:** 1.984
 - **Bauteile:** `r4100880`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.076 |
-| Orange Keramik | `orange_terracotta` | 781 |
-| Glatter Stein | `smooth_stone` | 223 |
+| Terrakotta | `terracotta` | 1.210 |
+| Orange Keramik | `orange_terracotta` | 552 |
+| Fichtenholz-Bretter | `spruce_planks` | 222 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1460-1470 (Rossellino zugeschrieben)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Spinelli_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1012,7 +1012,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.30 – Palazzo Spinelli – Teil 7/7 (Y 93–99)
 
@@ -1029,7 +1029,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1460-1470 (Rossellino zugeschrieben)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Spinelli_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1041,7 +1041,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.31 – Palazzo Spinelli: Innenausbau – Teil 1/2 (Y 61–71)
 
@@ -1145,7 +1145,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1157,7 +1157,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.34 – Palazzo Corsini-Serristori – Teil 2/19 (Y 61–61)
 
@@ -1173,7 +1173,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1185,23 +1185,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.35 – Palazzo Corsini-Serristori – Teil 3/19 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.411
+- **Blöcke:** 1.410
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.411 |
+| Polierter Tuffstein | `polished_tuff` | 1.410 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1213,26 +1213,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.36 – Palazzo Corsini-Serristori – Teil 4/19 (Y 62–63)
+### Schritt 7.36 – Palazzo Corsini-Serristori – Teil 4/19 (Y 62–64)
 
-- **Y-Bereich:** 62 bis 63
-- **Blöcke:** 1.226
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.833
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.216 |
-| Glatter Stein | `smooth_stone` | 4 |
+| Endsteinziegel | `end_stone_bricks` | 1.665 |
+| Glatter Stein | `smooth_stone` | 110 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
+| Grüner Beton | `green_concrete` | 22 |
 | Polierter Andesit | `polished_andesite` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1244,45 +1246,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.37 – Palazzo Corsini-Serristori – Teil 5/19 (Y 64–66)
+### Schritt 7.37 – Palazzo Corsini-Serristori – Teil 5/19 (Y 65–66)
 
-- **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.797
-- **Bauteile:** `r4100881`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.577 |
-| Weißer Beton | `white_concrete` | 111 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Grüner Beton | `green_concrete` | 40 |
-| Glatter Stein | `smooth_stone` | 6 |
-| Polierter Andesit | `polished_andesite` | 5 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.38 – Palazzo Corsini-Serristori – Teil 6/19 (Y 67–68)
-
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.184
 - **Bauteile:** `r4100881`
 
@@ -1290,17 +1258,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.024 |
-| Weißer Beton | `white_concrete` | 56 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Grüner Beton | `green_concrete` | 40 |
-| Glatter Stein | `smooth_stone` | 4 |
-| Polierter Andesit | `polished_andesite` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Endsteinziegel | `end_stone_bricks` | 1.014 |
+| Glatter Stein | `smooth_stone` | 62 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Grüner Beton | `green_concrete` | 44 |
+| Polierter Andesit | `polished_andesite` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1312,29 +1279,55 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 7.38 – Palazzo Corsini-Serristori – Teil 6/19 (Y 67–68)
+
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.248
+- **Bauteile:** `r4100881`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.169 |
+| Glatter Stein | `smooth_stone` | 67 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.39 – Palazzo Corsini-Serristori – Teil 7/19 (Y 69–71)
 
 - **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.841
+- **Blöcke:** 1.889
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.684 |
-| Weißer Beton | `white_concrete` | 83 |
-| Graues Buntglas | `gray_stained_glass` | 27 |
-| Grüner Beton | `green_concrete` | 20 |
-| Glatter Stein | `smooth_stone` | 11 |
-| Polierter Andesit | `polished_andesite` | 8 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Endsteinziegel | `end_stone_bricks` | 1.655 |
+| Glatter Stein | `smooth_stone` | 234 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1346,25 +1339,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.40 – Palazzo Corsini-Serristori – Teil 8/19 (Y 72–73)
 
 - **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.248
+- **Blöcke:** 1.200
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.096 |
-| Glatter Stein | `smooth_stone` | 151 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
+| Endsteinziegel | `end_stone_bricks` | 1.022 |
+| Glatter Stein | `smooth_stone` | 66 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Grüner Beton | `green_concrete` | 48 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1376,26 +1370,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.41 – Palazzo Corsini-Serristori – Teil 9/19 (Y 74–76)
 
 - **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.824
+- **Blöcke:** 1.827
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.581 |
-| Weißer Beton | `white_concrete` | 131 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Grüner Beton | `green_concrete` | 48 |
+| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Glatter Stein | `smooth_stone` | 129 |
+| Graues Buntglas | `gray_stained_glass` | 62 |
+| Grüner Beton | `green_concrete` | 24 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1407,11 +1401,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.42 – Palazzo Corsini-Serristori – Teil 10/19 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
+- **Blöcke:** 1.265
+- **Bauteile:** `r4100881`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.031 |
+| Glatter Stein | `smooth_stone` | 234 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 7.43 – Palazzo Corsini-Serristori – Teil 11/19 (Y 79–80)
+
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.200
 - **Bauteile:** `r4100881`
 
@@ -1419,14 +1442,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.022 |
-| Weißer Beton | `white_concrete` | 66 |
+| Endsteinziegel | `end_stone_bricks` | 1.022 |
+| Glatter Stein | `smooth_stone` | 66 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 | Grüner Beton | `green_concrete` | 48 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1438,11 +1461,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.43 – Palazzo Corsini-Serristori – Teil 11/19 (Y 79–80)
+### Schritt 7.44 – Palazzo Corsini-Serristori – Teil 12/19 (Y 81–83)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 1.827
+- **Bauteile:** `r4100881`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Glatter Stein | `smooth_stone` | 129 |
+| Graues Buntglas | `gray_stained_glass` | 62 |
+| Grüner Beton | `green_concrete` | 24 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 7.45 – Palazzo Corsini-Serristori – Teil 13/19 (Y 84–85)
+
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.248
 - **Bauteile:** `r4100881`
 
@@ -1450,12 +1504,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.090 |
-| Weißer Beton | `white_concrete` | 158 |
+| Endsteinziegel | `end_stone_bricks` | 1.096 |
+| Glatter Stein | `smooth_stone` | 152 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1467,25 +1521,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.44 – Palazzo Corsini-Serristori – Teil 12/19 (Y 81–83)
+### Schritt 7.46 – Palazzo Corsini-Serristori – Teil 14/19 (Y 86–87)
 
-- **Y-Bereich:** 81 bis 83
-- **Blöcke:** 1.872
+- **Y-Bereich:** 86 bis 87
+- **Blöcke:** 1.241
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.655 |
-| Weißer Beton | `white_concrete` | 130 |
-| Glatter Stein | `smooth_stone` | 87 |
+| Endsteinziegel | `end_stone_bricks` | 1.070 |
+| Glatter Stein | `smooth_stone` | 115 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
+| Grüner Beton | `green_concrete` | 24 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1497,26 +1552,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.45 – Palazzo Corsini-Serristori – Teil 13/19 (Y 84–85)
+### Schritt 7.47 – Palazzo Corsini-Serristori – Teil 15/19 (Y 88–90)
 
-- **Y-Bereich:** 84 bis 85
-- **Blöcke:** 1.200
+- **Y-Bereich:** 88 bis 90
+- **Blöcke:** 1.910
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.022 |
-| Weißer Beton | `white_concrete` | 66 |
+| Endsteinziegel | `end_stone_bricks` | 1.667 |
+| Glatter Stein | `smooth_stone` | 131 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 | Grüner Beton | `green_concrete` | 48 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1528,84 +1583,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.46 – Palazzo Corsini-Serristori – Teil 14/19 (Y 86–88)
-
-- **Y-Bereich:** 86 bis 88
-- **Blöcke:** 1.800
-- **Bauteile:** `r4100881`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.533 |
-| Weißer Beton | `white_concrete` | 99 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Grüner Beton | `green_concrete` | 72 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.47 – Palazzo Corsini-Serristori – Teil 15/19 (Y 89–90)
-
-- **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.334
-- **Bauteile:** `r4100881`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.176 |
-| Weißer Beton | `white_concrete` | 158 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.48 – Palazzo Corsini-Serristori – Teil 16/19 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.457
+- **Blöcke:** 1.449
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.190 |
-| Hellgrauer Beton | `light_gray_concrete` | 267 |
+| Polierter Tuffstein | `polished_tuff` | 1.182 |
+| Endsteinziegel | `end_stone_bricks` | 267 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1617,24 +1612,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.49 – Palazzo Corsini-Serristori – Teil 17/19 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.452
+- **Blöcke:** 1.546
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.278 |
-| Hellgrauer Beton | `light_gray_concrete` | 174 |
+| Polierter Tuffstein | `polished_tuff` | 1.365 |
+| Endsteinziegel | `end_stone_bricks` | 181 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1646,24 +1641,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.50 – Palazzo Corsini-Serristori – Teil 18/19 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.524
+- **Blöcke:** 1.438
 - **Bauteile:** `r4100881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.255 |
-| Hellgrauer Beton | `light_gray_concrete` | 269 |
+| Polierter Tuffstein | `polished_tuff` | 1.176 |
+| Endsteinziegel | `end_stone_bricks` | 262 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1675,7 +1670,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.51 – Palazzo Corsini-Serristori – Teil 19/19 (Y 92–93)
 
@@ -1687,11 +1682,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.248 |
+| Endsteinziegel | `end_stone_bricks` | 1.248 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 15./frühes 16. Jh. (Giuliano da Sangallo), 1587-1611 Corsini), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1703,22 +1698,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.52 – Palazzo Corsini-Serristori: Innenausbau – Teil 1/4 (Y 61–72)
+### Schritt 7.52 – Palazzo Corsini-Serristori: Innenausbau – Teil 1/6 (Y 61–69)
 
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.960
+- **Y-Bereich:** 61 bis 69
+- **Blöcke:** 1.943
 - **Bauteile:** `r4100881_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.878 |
-| Seelaterne | `sea_lantern` | 31 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Terrakotta | `terracotta` | 1.869 |
+| Seelaterne | `sea_lantern` | 33 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
@@ -1728,7 +1723,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1747,33 +1742,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.53 – Palazzo Corsini-Serristori: Innenausbau – Teil 2/4 (Y 72–74)
+### Schritt 7.53 – Palazzo Corsini-Serristori: Innenausbau – Teil 2/6 (Y 69–69)
 
-- **Y-Bereich:** 72 bis 74
-- **Blöcke:** 1.854
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.843
 - **Bauteile:** `r4100881_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.824 |
+| Terrakotta | `terracotta` | 1.832 |
 | Seelaterne | `sea_lantern` | 11 |
-| Glatter Stein | `smooth_stone` | 4 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 4 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 6 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -1791,59 +1771,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.54 – Palazzo Corsini-Serristori: Innenausbau – Teil 3/4 (Y 75–81)
+### Schritt 7.54 – Palazzo Corsini-Serristori: Innenausbau – Teil 3/6 (Y 70–77)
 
-- **Y-Bereich:** 75 bis 81
-- **Blöcke:** 1.920
+- **Y-Bereich:** 70 bis 77
+- **Blöcke:** 1.927
 - **Bauteile:** `r4100881_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.878 |
-| Glatter Stein | `smooth_stone` | 20 |
-| Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 12 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 7.55 – Palazzo Corsini-Serristori: Innenausbau – Teil 4/4 (Y 81–91)
-
-- **Y-Bereich:** 81 bis 91
-- **Blöcke:** 1.892
-- **Bauteile:** `r4100881_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.824 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
+| Terrakotta | `terracotta` | 1.869 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -1854,7 +1796,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1873,7 +1815,132 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.56 – Palazzo Doni – Teil 1/16 (Y 61–61)
+### Schritt 7.55 – Palazzo Corsini-Serristori: Innenausbau – Teil 4/6 (Y 77–79)
+
+- **Y-Bereich:** 77 bis 79
+- **Blöcke:** 1.860
+- **Bauteile:** `r4100881_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.832 |
+| Seelaterne | `sea_lantern` | 11 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 4 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 4 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 7.56 – Palazzo Corsini-Serristori: Innenausbau – Teil 5/6 (Y 80–84)
+
+- **Y-Bereich:** 80 bis 84
+- **Blöcke:** 1.906
+- **Bauteile:** `r4100881_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.869 |
+| Glatter Stein | `smooth_stone` | 16 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 10 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 7.57 – Palazzo Corsini-Serristori: Innenausbau – Teil 6/6 (Y 84–91)
+
+- **Y-Bereich:** 84 bis 91
+- **Blöcke:** 1.886
+- **Bauteile:** `r4100881_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.832 |
+| Glatter Stein | `smooth_stone` | 20 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 14 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 7.58 – Palazzo Doni – Teil 1/16 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 2.015
@@ -1887,7 +1954,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1899,9 +1966,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.57 – Palazzo Doni – Teil 2/16 (Y 61–61)
+### Schritt 7.59 – Palazzo Doni – Teil 2/16 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.948
@@ -1915,7 +1982,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1927,27 +1994,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.58 – Palazzo Doni – Teil 3/16 (Y 62–63)
+### Schritt 7.60 – Palazzo Doni – Teil 3/16 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
-- **Blöcke:** 1.426
+- **Blöcke:** 1.425
 - **Bauteile:** `r7103942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.265 |
-| Hellgrauer Beton | `light_gray_concrete` | 135 |
-| Polierter Andesit | `polished_andesite` | 16 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Weißer Beton | `white_concrete` | 1.268 |
+| Hellgrauer Beton | `light_gray_concrete` | 132 |
+| Polierter Andesit | `polished_andesite` | 17 |
+| Glatter Stein | `smooth_stone` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1959,29 +2026,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.59 – Palazzo Doni – Teil 4/16 (Y 64–66)
+### Schritt 7.61 – Palazzo Doni – Teil 4/16 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
-- **Blöcke:** 2.051
+- **Blöcke:** 2.055
 - **Bauteile:** `r7103942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.467 |
-| Hellgrauer Beton | `light_gray_concrete` | 398 |
-| Graues Buntglas | `gray_stained_glass` | 128 |
-| Polierter Andesit | `polished_andesite` | 27 |
+| Weißer Beton | `white_concrete` | 1.489 |
+| Hellgrauer Beton | `light_gray_concrete` | 387 |
+| Graues Buntglas | `gray_stained_glass` | 122 |
+| Polierter Andesit | `polished_andesite` | 29 |
 | Grüner Beton | `green_concrete` | 16 |
-| Glatter Stein | `smooth_stone` | 12 |
+| Glatter Stein | `smooth_stone` | 9 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1993,29 +2060,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.60 – Palazzo Doni – Teil 5/16 (Y 67–69)
+### Schritt 7.62 – Palazzo Doni – Teil 5/16 (Y 67–69)
 
 - **Y-Bereich:** 67 bis 69
-- **Blöcke:** 1.973
+- **Blöcke:** 1.978
 - **Bauteile:** `r7103942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.479 |
-| Hellgrauer Beton | `light_gray_concrete` | 307 |
-| Graues Buntglas | `gray_stained_glass` | 128 |
+| Weißer Beton | `white_concrete` | 1.502 |
+| Hellgrauer Beton | `light_gray_concrete` | 298 |
+| Graues Buntglas | `gray_stained_glass` | 122 |
 | Polierter Andesit | `polished_andesite` | 23 |
 | Grüner Beton | `green_concrete` | 16 |
-| Glatter Stein | `smooth_stone` | 15 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Glatter Stein | `smooth_stone` | 13 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2027,9 +2094,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.61 – Palazzo Doni – Teil 6/16 (Y 70–72)
+### Schritt 7.63 – Palazzo Doni – Teil 6/16 (Y 70–72)
 
 - **Y-Bereich:** 70 bis 72
 - **Blöcke:** 2.085
@@ -2041,12 +2108,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.739 |
 | Glatter Stein | `smooth_stone` | 315 |
-| Polierter Andesit | `polished_andesite` | 26 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Polierter Andesit | `polished_andesite` | 25 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2058,9 +2125,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.62 – Palazzo Doni – Teil 7/16 (Y 73–75)
+### Schritt 7.64 – Palazzo Doni – Teil 7/16 (Y 73–75)
 
 - **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.985
@@ -2078,7 +2145,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2090,9 +2157,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.63 – Palazzo Doni – Teil 8/16 (Y 76–78)
+### Schritt 7.65 – Palazzo Doni – Teil 8/16 (Y 76–78)
 
 - **Y-Bereich:** 76 bis 78
 - **Blöcke:** 1.935
@@ -2110,7 +2177,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2122,9 +2189,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.64 – Palazzo Doni – Teil 9/16 (Y 79–80)
+### Schritt 7.66 – Palazzo Doni – Teil 9/16 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.390
@@ -2140,7 +2207,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2152,9 +2219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.65 – Palazzo Doni – Teil 10/16 (Y 81–83)
+### Schritt 7.67 – Palazzo Doni – Teil 10/16 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
 - **Blöcke:** 2.085
@@ -2171,7 +2238,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2183,9 +2250,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.66 – Palazzo Doni – Teil 11/16 (Y 84–86)
+### Schritt 7.68 – Palazzo Doni – Teil 11/16 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.935
@@ -2203,7 +2270,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2215,9 +2282,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.67 – Palazzo Doni – Teil 12/16 (Y 87–89)
+### Schritt 7.69 – Palazzo Doni – Teil 12/16 (Y 87–89)
 
 - **Y-Bereich:** 87 bis 89
 - **Blöcke:** 1.985
@@ -2235,7 +2302,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2247,9 +2314,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.68 – Palazzo Doni – Teil 13/16 (Y 90–91)
+### Schritt 7.70 – Palazzo Doni – Teil 13/16 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.949
@@ -2266,7 +2333,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2278,9 +2345,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.69 – Palazzo Doni – Teil 14/16 (Y 92–92)
+### Schritt 7.71 – Palazzo Doni – Teil 14/16 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.749
@@ -2294,7 +2361,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2306,9 +2373,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.70 – Palazzo Doni – Teil 15/16 (Y 93–94)
+### Schritt 7.72 – Palazzo Doni – Teil 15/16 (Y 93–94)
 
 - **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.776
@@ -2322,7 +2389,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2334,9 +2401,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.71 – Palazzo Doni – Teil 16/16 (Y 95–101)
+### Schritt 7.73 – Palazzo Doni – Teil 16/16 (Y 95–101)
 
 - **Y-Bereich:** 95 bis 101
 - **Blöcke:** 1.989
@@ -2351,7 +2418,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Ende 15. Jh., Straßenfassade 19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Doni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2363,12 +2430,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.72 – Palazzo Doni: Innenausbau – Teil 1/4 (Y 61–71)
+### Schritt 7.74 – Palazzo Doni: Innenausbau – Teil 1/4 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
-- **Blöcke:** 1.684
+- **Blöcke:** 1.681
 - **Bauteile:** `r7103942_innen`
 
 **Teileliste**
@@ -2380,16 +2447,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -2407,7 +2470,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.73 – Palazzo Doni: Innenausbau – Teil 2/4 (Y 71–71)
+### Schritt 7.75 – Palazzo Doni: Innenausbau – Teil 2/4 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.661
@@ -2436,10 +2499,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.74 – Palazzo Doni: Innenausbau – Teil 3/4 (Y 72–81)
+### Schritt 7.76 – Palazzo Doni: Innenausbau – Teil 3/4 (Y 72–81)
 
 - **Y-Bereich:** 72 bis 81
-- **Blöcke:** 1.669
+- **Blöcke:** 1.672
 - **Bauteile:** `r7103942_innen`
 
 **Teileliste**
@@ -2453,51 +2516,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 7.75 – Palazzo Doni: Innenausbau – Teil 4/4 (Y 81–82)
-
-- **Y-Bereich:** 81 bis 82
-- **Blöcke:** 1.670
-- **Bauteile:** `r7103942_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.652 |
-| Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2516,7 +2543,38 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.76 – Palazzo des Ottocento an Corso dei Tintori – Teil 1/25 (Y 62–62)
+### Schritt 7.77 – Palazzo Doni: Innenausbau – Teil 4/4 (Y 81–82)
+
+- **Y-Bereich:** 81 bis 82
+- **Blöcke:** 1.667
+- **Bauteile:** `r7103942_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.652 |
+| Seelaterne | `sea_lantern` | 9 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 7.78 – Palazzo des Ottocento an Corso dei Tintori – Teil 1/25 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.425
@@ -2544,7 +2602,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.77 – Palazzo des Ottocento an Corso dei Tintori – Teil 2/25 (Y 62–62)
+### Schritt 7.79 – Palazzo des Ottocento an Corso dei Tintori – Teil 2/25 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.493
@@ -2572,7 +2630,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.78 – Palazzo des Ottocento an Corso dei Tintori – Teil 3/25 (Y 62–62)
+### Schritt 7.80 – Palazzo des Ottocento an Corso dei Tintori – Teil 3/25 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.406
@@ -2600,7 +2658,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.79 – Palazzo des Ottocento an Corso dei Tintori – Teil 4/25 (Y 63–63)
+### Schritt 7.81 – Palazzo des Ottocento an Corso dei Tintori – Teil 4/25 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 705
@@ -2631,7 +2689,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.80 – Palazzo des Ottocento an Corso dei Tintori – Teil 5/25 (Y 64–65)
+### Schritt 7.82 – Palazzo des Ottocento an Corso dei Tintori – Teil 5/25 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.432
@@ -2662,7 +2720,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.81 – Palazzo des Ottocento an Corso dei Tintori – Teil 6/25 (Y 66–67)
+### Schritt 7.83 – Palazzo des Ottocento an Corso dei Tintori – Teil 6/25 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.369
@@ -2694,7 +2752,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.82 – Palazzo des Ottocento an Corso dei Tintori – Teil 7/25 (Y 68–69)
+### Schritt 7.84 – Palazzo des Ottocento an Corso dei Tintori – Teil 7/25 (Y 68–69)
 
 - **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.378
@@ -2726,7 +2784,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.83 – Palazzo des Ottocento an Corso dei Tintori – Teil 8/25 (Y 70–71)
+### Schritt 7.85 – Palazzo des Ottocento an Corso dei Tintori – Teil 8/25 (Y 70–71)
 
 - **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.444
@@ -2757,7 +2815,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.84 – Palazzo des Ottocento an Corso dei Tintori – Teil 9/25 (Y 72–72)
+### Schritt 7.86 – Palazzo des Ottocento an Corso dei Tintori – Teil 9/25 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 748
@@ -2786,7 +2844,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.85 – Palazzo des Ottocento an Corso dei Tintori – Teil 10/25 (Y 73–74)
+### Schritt 7.87 – Palazzo des Ottocento an Corso dei Tintori – Teil 10/25 (Y 73–74)
 
 - **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.496
@@ -2816,7 +2874,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.86 – Palazzo des Ottocento an Corso dei Tintori – Teil 11/25 (Y 75–76)
+### Schritt 7.88 – Palazzo des Ottocento an Corso dei Tintori – Teil 11/25 (Y 75–76)
 
 - **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.494
@@ -2848,7 +2906,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.87 – Palazzo des Ottocento an Corso dei Tintori – Teil 12/25 (Y 77–78)
+### Schritt 7.89 – Palazzo des Ottocento an Corso dei Tintori – Teil 12/25 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.412
@@ -2880,7 +2938,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.88 – Palazzo des Ottocento an Corso dei Tintori – Teil 13/25 (Y 79–80)
+### Schritt 7.90 – Palazzo des Ottocento an Corso dei Tintori – Teil 13/25 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.412
@@ -2912,7 +2970,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.89 – Palazzo des Ottocento an Corso dei Tintori – Teil 14/25 (Y 81–81)
+### Schritt 7.91 – Palazzo des Ottocento an Corso dei Tintori – Teil 14/25 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 748
@@ -2942,7 +3000,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.90 – Palazzo des Ottocento an Corso dei Tintori – Teil 15/25 (Y 82–83)
+### Schritt 7.92 – Palazzo des Ottocento an Corso dei Tintori – Teil 15/25 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.496
@@ -2972,7 +3030,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.91 – Palazzo des Ottocento an Corso dei Tintori – Teil 16/25 (Y 84–85)
+### Schritt 7.93 – Palazzo des Ottocento an Corso dei Tintori – Teil 16/25 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.494
@@ -3004,7 +3062,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.92 – Palazzo des Ottocento an Corso dei Tintori – Teil 17/25 (Y 86–87)
+### Schritt 7.94 – Palazzo des Ottocento an Corso dei Tintori – Teil 17/25 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.412
@@ -3036,7 +3094,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.93 – Palazzo des Ottocento an Corso dei Tintori – Teil 18/25 (Y 88–88)
+### Schritt 7.95 – Palazzo des Ottocento an Corso dei Tintori – Teil 18/25 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
 - **Blöcke:** 706
@@ -3068,7 +3126,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.94 – Palazzo des Ottocento an Corso dei Tintori – Teil 19/25 (Y 89–90)
+### Schritt 7.96 – Palazzo des Ottocento an Corso dei Tintori – Teil 19/25 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.454
@@ -3100,7 +3158,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.95 – Palazzo des Ottocento an Corso dei Tintori – Teil 20/25 (Y 91–92)
+### Schritt 7.97 – Palazzo des Ottocento an Corso dei Tintori – Teil 20/25 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.936
@@ -3129,7 +3187,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.96 – Palazzo des Ottocento an Corso dei Tintori – Teil 21/25 (Y 93–93)
+### Schritt 7.98 – Palazzo des Ottocento an Corso dei Tintori – Teil 21/25 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.109
@@ -3157,7 +3215,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.97 – Palazzo des Ottocento an Corso dei Tintori – Teil 22/25 (Y 93–93)
+### Schritt 7.99 – Palazzo des Ottocento an Corso dei Tintori – Teil 22/25 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.139
@@ -3185,7 +3243,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.98 – Palazzo des Ottocento an Corso dei Tintori – Teil 23/25 (Y 94–94)
+### Schritt 7.100 – Palazzo des Ottocento an Corso dei Tintori – Teil 23/25 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.408
@@ -3213,7 +3271,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.99 – Palazzo des Ottocento an Corso dei Tintori – Teil 24/25 (Y 95–95)
+### Schritt 7.101 – Palazzo des Ottocento an Corso dei Tintori – Teil 24/25 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.210
@@ -3241,7 +3299,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.100 – Palazzo des Ottocento an Corso dei Tintori – Teil 25/25 (Y 96–101)
+### Schritt 7.102 – Palazzo des Ottocento an Corso dei Tintori – Teil 25/25 (Y 96–101)
 
 - **Y-Bereich:** 96 bis 101
 - **Blöcke:** 1.174
@@ -3270,7 +3328,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.101 – Palazzo des Ottocento an Corso dei Tintori: Innenausbau – Teil 1/4 (Y 62–73)
+### Schritt 7.103 – Palazzo des Ottocento an Corso dei Tintori: Innenausbau – Teil 1/4 (Y 62–73)
 
 - **Y-Bereich:** 62 bis 73
 - **Blöcke:** 1.873
@@ -3312,7 +3370,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.102 – Palazzo des Ottocento an Corso dei Tintori: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 7.104 – Palazzo des Ottocento an Corso dei Tintori: Innenausbau – Teil 2/4 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.793
@@ -3341,7 +3399,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.103 – Palazzo des Ottocento an Corso dei Tintori: Innenausbau – Teil 3/4 (Y 74–82)
+### Schritt 7.105 – Palazzo des Ottocento an Corso dei Tintori: Innenausbau – Teil 3/4 (Y 74–82)
 
 - **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.847
@@ -3385,7 +3443,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.104 – Palazzo des Ottocento an Corso dei Tintori: Innenausbau – Teil 4/4 (Y 82–83)
+### Schritt 7.106 – Palazzo des Ottocento an Corso dei Tintori: Innenausbau – Teil 4/4 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.802
@@ -3425,25 +3483,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.105 – Casa Vasari – Teil 1/3 (Y 61–70)
+### Schritt 7.107 – Casa Vasari – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
-- **Blöcke:** 1.582
+- **Blöcke:** 1.600
 - **Bauteile:** `w307104278`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 862 |
+| Hellgrauer Beton | `light_gray_concrete` | 838 |
 | Polierter Tuffstein | `polished_tuff` | 665 |
-| Glatter Stein | `smooth_stone` | 46 |
-| Graues Buntglas | `gray_stained_glass` | 6 |
-| Polierter Andesit | `polished_andesite` | 3 |
+| Polierter Andesit | `polished_andesite` | 58 |
+| Glatter Stein | `smooth_stone` | 30 |
+| Graues Buntglas | `gray_stained_glass` | 9 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (um 1500, Straßenfassade 19. Jh. (oberstes Geschoss aufgesetzt)), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Vasari_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -3455,9 +3513,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.106 – Casa Vasari – Teil 2/3 (Y 71–84)
+### Schritt 7.108 – Casa Vasari – Teil 2/3 (Y 71–84)
 
 - **Y-Bereich:** 71 bis 84
 - **Blöcke:** 1.502
@@ -3467,13 +3525,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.376 |
-| Glatter Stein | `smooth_stone` | 78 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.316 |
+| Polierter Andesit | `polished_andesite` | 78 |
+| Glatter Stein | `smooth_stone` | 60 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (um 1500, Straßenfassade 19. Jh. (oberstes Geschoss aufgesetzt)), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Vasari_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -3485,12 +3544,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.107 – Casa Vasari – Teil 3/3 (Y 85–96)
+### Schritt 7.109 – Casa Vasari – Teil 3/3 (Y 85–96)
 
 - **Y-Bereich:** 85 bis 96
-- **Blöcke:** 1.616
+- **Blöcke:** 1.618
 - **Bauteile:** `w307104278`
 
 **Teileliste**
@@ -3498,14 +3557,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 813 |
-| Hellgrauer Beton | `light_gray_concrete` | 700 |
+| Hellgrauer Beton | `light_gray_concrete` | 672 |
 | Ziegelsteine | `bricks` | 50 |
-| Glatter Stein | `smooth_stone` | 35 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
+| Polierter Andesit | `polished_andesite` | 41 |
+| Glatter Stein | `smooth_stone` | 30 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (um 1500, Straßenfassade 19. Jh. (oberstes Geschoss aufgesetzt)), 5 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Vasari_(Firenze), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -3517,55 +3577,13 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 7.108 – Casa Vasari: Innenausbau
-
-- **Y-Bereich:** 61 bis 85
-- **Blöcke:** 1.797
-- **Bauteile:** `w307104278_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.647 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 9 |
-| Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 7.109 – Reihenhaus an Borgo Santa Croce – Teil 1/2 (Y 61–79)
+### Schritt 7.110 – Casa Vasari: Innenausbau & Reihenhaus an Borgo Santa Croce – Teil 1/2 (Y 61–79)
 
 - **Y-Bereich:** 61 bis 79
-- **Blöcke:** 1.777
-- **Bauteile:** `w307104285`
+- **Blöcke:** 1.784
+- **Bauteile:** `w307104278_innen`, `w307104285`
 
 **Teileliste**
 
@@ -3578,37 +3596,47 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Glatter Stein | `smooth_stone` | 40 |
 | Grüner Beton | `green_concrete` | 25 |
 | Polierter Andesit | `polished_andesite` | 5 |
+| Seelaterne | `sea_lantern` | 4 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.110 – Reihenhaus an Borgo Santa Croce – Teil 2/2 (Y 80–96)
+### Schritt 7.111 – Reihenhaus an Borgo Santa Croce – Teil 2/2 (Y 80–96)
 
 - **Y-Bereich:** 80 bis 96
-- **Blöcke:** 1.784
+- **Blöcke:** 1.776
 - **Bauteile:** `w307104285`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 874 |
+| Terrakotta | `terracotta` | 869 |
 | Gelbe Keramik | `yellow_terracotta` | 549 |
 | Weißer Beton | `white_concrete` | 130 |
-| Fichtenholz-Bretter | `spruce_planks` | 77 |
+| Fichtenholz-Bretter | `spruce_planks` | 74 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Ziegelsteine | `bricks` | 49 |
 | Grüner Beton | `green_concrete` | 35 |
@@ -3629,7 +3657,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.111 – Reihenhaus an Borgo Santa Croce: Innenausbau
+### Schritt 7.112 – Reihenhaus an Borgo Santa Croce: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.872
@@ -3671,7 +3699,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.112 – Palazzo Mancini – Teil 1/6 (Y 61–63)
+### Schritt 7.113 – Palazzo Mancini – Teil 1/6 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.714
@@ -3703,7 +3731,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.113 – Palazzo Mancini – Teil 2/6 (Y 64–70)
+### Schritt 7.114 – Palazzo Mancini – Teil 2/6 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.739
@@ -3735,7 +3763,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.114 – Palazzo Mancini – Teil 3/6 (Y 71–78)
+### Schritt 7.115 – Palazzo Mancini – Teil 3/6 (Y 71–78)
 
 - **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.975
@@ -3766,7 +3794,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.115 – Palazzo Mancini – Teil 4/6 (Y 79–85)
+### Schritt 7.116 – Palazzo Mancini – Teil 4/6 (Y 79–85)
 
 - **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.795
@@ -3797,7 +3825,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.116 – Palazzo Mancini – Teil 5/6 (Y 86–91)
+### Schritt 7.117 – Palazzo Mancini – Teil 5/6 (Y 86–91)
 
 - **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.685
@@ -3829,7 +3857,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.117 – Palazzo Mancini – Teil 6/6 (Y 92–100)
+### Schritt 7.118 – Palazzo Mancini – Teil 6/6 (Y 92–100)
 
 - **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.769
@@ -3858,7 +3886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.118 – Palazzo Mancini: Innenausbau
+### Schritt 7.119 – Palazzo Mancini: Innenausbau
 
 - **Y-Bereich:** 61 bis 82
 - **Blöcke:** 1.996
@@ -3898,7 +3926,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.119 – Reihenhaus an Corso dei Tintori – Teil 1/10 (Y 61–61)
+### Schritt 7.120 – Reihenhaus an Corso dei Tintori – Teil 1/10 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.066
@@ -3926,7 +3954,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.120 – Reihenhaus an Corso dei Tintori – Teil 2/10 (Y 61–63)
+### Schritt 7.121 – Reihenhaus an Corso dei Tintori – Teil 2/10 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.808
@@ -3956,7 +3984,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.121 – Reihenhaus an Corso dei Tintori – Teil 3/10 (Y 64–68)
+### Schritt 7.122 – Reihenhaus an Corso dei Tintori – Teil 3/10 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.825
@@ -3987,7 +4015,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.122 – Reihenhaus an Corso dei Tintori – Teil 4/10 (Y 69–73)
+### Schritt 7.123 – Reihenhaus an Corso dei Tintori – Teil 4/10 (Y 69–73)
 
 - **Y-Bereich:** 69 bis 73
 - **Blöcke:** 1.888
@@ -4018,7 +4046,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.123 – Reihenhaus an Corso dei Tintori – Teil 5/10 (Y 74–78)
+### Schritt 7.124 – Reihenhaus an Corso dei Tintori – Teil 5/10 (Y 74–78)
 
 - **Y-Bereich:** 74 bis 78
 - **Blöcke:** 1.888
@@ -4049,7 +4077,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.124 – Reihenhaus an Corso dei Tintori – Teil 6/10 (Y 79–82)
+### Schritt 7.125 – Reihenhaus an Corso dei Tintori – Teil 6/10 (Y 79–82)
 
 - **Y-Bereich:** 79 bis 82
 - **Blöcke:** 1.432
@@ -4080,7 +4108,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.125 – Reihenhaus an Corso dei Tintori – Teil 7/10 (Y 83–87)
+### Schritt 7.126 – Reihenhaus an Corso dei Tintori – Teil 7/10 (Y 83–87)
 
 - **Y-Bereich:** 83 bis 87
 - **Blöcke:** 1.914
@@ -4111,7 +4139,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.126 – Reihenhaus an Corso dei Tintori – Teil 8/10 (Y 88–91)
+### Schritt 7.127 – Reihenhaus an Corso dei Tintori – Teil 8/10 (Y 88–91)
 
 - **Y-Bereich:** 88 bis 91
 - **Blöcke:** 1.706
@@ -4143,7 +4171,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.127 – Reihenhaus an Corso dei Tintori – Teil 9/10 (Y 92–93)
+### Schritt 7.128 – Reihenhaus an Corso dei Tintori – Teil 9/10 (Y 92–93)
 
 - **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.658
@@ -4171,7 +4199,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.128 – Reihenhaus an Corso dei Tintori – Teil 10/10 (Y 94–100)
+### Schritt 7.129 – Reihenhaus an Corso dei Tintori – Teil 10/10 (Y 94–100)
 
 - **Y-Bereich:** 94 bis 100
 - **Blöcke:** 1.471
@@ -4200,7 +4228,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.129 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 1/3 (Y 61–70)
+### Schritt 7.130 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.798
@@ -4240,7 +4268,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.130 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 2/3 (Y 71–77)
+### Schritt 7.131 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 2/3 (Y 71–77)
 
 - **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.785
@@ -4280,7 +4308,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.131 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 3/3 (Y 78–85)
+### Schritt 7.132 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 3/3 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.794
@@ -4320,7 +4348,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.132 – Renaissance-Palazzo an Borgo Santa Croce – Teil 1/6 (Y 61–64)
+### Schritt 7.133 – Renaissance-Palazzo an Borgo Santa Croce – Teil 1/6 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.586
@@ -4352,7 +4380,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.133 – Renaissance-Palazzo an Borgo Santa Croce – Teil 2/6 (Y 65–73)
+### Schritt 7.134 – Renaissance-Palazzo an Borgo Santa Croce – Teil 2/6 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
 - **Blöcke:** 1.713
@@ -4384,7 +4412,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.134 – Renaissance-Palazzo an Borgo Santa Croce – Teil 3/6 (Y 74–81)
+### Schritt 7.135 – Renaissance-Palazzo an Borgo Santa Croce – Teil 3/6 (Y 74–81)
 
 - **Y-Bereich:** 74 bis 81
 - **Blöcke:** 1.585
@@ -4415,7 +4443,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.135 – Renaissance-Palazzo an Borgo Santa Croce – Teil 4/6 (Y 82–90)
+### Schritt 7.136 – Renaissance-Palazzo an Borgo Santa Croce – Teil 4/6 (Y 82–90)
 
 - **Y-Bereich:** 82 bis 90
 - **Blöcke:** 1.768
@@ -4446,7 +4474,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.136 – Renaissance-Palazzo an Borgo Santa Croce – Teil 5/6 (Y 91–97)
+### Schritt 7.137 – Renaissance-Palazzo an Borgo Santa Croce – Teil 5/6 (Y 91–97)
 
 - **Y-Bereich:** 91 bis 97
 - **Blöcke:** 1.597
@@ -4478,7 +4506,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.137 – Renaissance-Palazzo an Borgo Santa Croce – Teil 6/6 (Y 98–105)
+### Schritt 7.138 – Renaissance-Palazzo an Borgo Santa Croce – Teil 6/6 (Y 98–105)
 
 - **Y-Bereich:** 98 bis 105
 - **Blöcke:** 1.675
@@ -4510,7 +4538,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.138 – Renaissance-Palazzo an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–79)
+### Schritt 7.139 – Renaissance-Palazzo an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–79)
 
 - **Y-Bereich:** 61 bis 79
 - **Blöcke:** 906
@@ -4550,7 +4578,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.139 – Renaissance-Palazzo an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 80–90)
+### Schritt 7.140 – Renaissance-Palazzo an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 80–90)
 
 - **Y-Bereich:** 80 bis 90
 - **Blöcke:** 1.675
@@ -4594,7 +4622,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.140 – Haus w482503617 – Teil 1/8 (Y 62–62)
+### Schritt 7.141 – Haus w482503617 – Teil 1/8 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 2.096
@@ -4622,7 +4650,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.141 – Haus w482503617 – Teil 2/8 (Y 63–67)
+### Schritt 7.142 – Haus w482503617 – Teil 2/8 (Y 63–67)
 
 - **Y-Bereich:** 63 bis 67
 - **Blöcke:** 1.548
@@ -4655,7 +4683,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.142 – Haus w482503617 – Teil 3/8 (Y 68–73)
+### Schritt 7.143 – Haus w482503617 – Teil 3/8 (Y 68–73)
 
 - **Y-Bereich:** 68 bis 73
 - **Blöcke:** 1.903
@@ -4687,7 +4715,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.143 – Haus w482503617 – Teil 4/8 (Y 74–79)
+### Schritt 7.144 – Haus w482503617 – Teil 4/8 (Y 74–79)
 
 - **Y-Bereich:** 74 bis 79
 - **Blöcke:** 1.916
@@ -4718,7 +4746,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.144 – Haus w482503617 – Teil 5/8 (Y 80–85)
+### Schritt 7.145 – Haus w482503617 – Teil 5/8 (Y 80–85)
 
 - **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.893
@@ -4749,7 +4777,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.145 – Haus w482503617 – Teil 6/8 (Y 86–91)
+### Schritt 7.146 – Haus w482503617 – Teil 6/8 (Y 86–91)
 
 - **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.966
@@ -4781,10 +4809,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.146 – Haus w482503617 – Teil 7/8 (Y 92–93)
+### Schritt 7.147 – Haus w482503617 – Teil 7/8 (Y 92–93)
 
 - **Y-Bereich:** 92 bis 93
-- **Blöcke:** 1.939
+- **Blöcke:** 1.935
 - **Bauteile:** `w482503617`
 
 **Teileliste**
@@ -4793,7 +4821,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.295 |
 | Gelbe Keramik | `yellow_terracotta` | 433 |
-| Fichtenholz-Bretter | `spruce_planks` | 211 |
+| Fichtenholz-Bretter | `spruce_planks` | 207 |
 
 **Beschreibung**
 
@@ -4811,7 +4839,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.147 – Haus w482503617 – Teil 8/8 (Y 94–101)
+### Schritt 7.148 – Haus w482503617 – Teil 8/8 (Y 94–101)
 
 - **Y-Bereich:** 94 bis 101
 - **Blöcke:** 1.707
@@ -4840,7 +4868,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.148 – Haus w482503617: Innenausbau – Teil 1/3 (Y 62–71)
+### Schritt 7.149 – Haus w482503617: Innenausbau – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.825
@@ -4880,7 +4908,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.149 – Haus w482503617: Innenausbau – Teil 2/3 (Y 72–78)
+### Schritt 7.150 – Haus w482503617: Innenausbau – Teil 2/3 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.813
@@ -4920,7 +4948,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.150 – Haus w482503617: Innenausbau – Teil 3/3 (Y 79–86)
+### Schritt 7.151 – Haus w482503617: Innenausbau – Teil 3/3 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.822
@@ -4962,7 +4990,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.151 – Reihenhaus an Corso dei Tintori – Teil 1/4 (Y 61–66)
+### Schritt 7.152 – Reihenhaus an Corso dei Tintori – Teil 1/4 (Y 61–66)
 
 - **Y-Bereich:** 61 bis 66
 - **Blöcke:** 1.749
@@ -4994,7 +5022,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.152 – Reihenhaus an Corso dei Tintori – Teil 2/4 (Y 67–78)
+### Schritt 7.153 – Reihenhaus an Corso dei Tintori – Teil 2/4 (Y 67–78)
 
 - **Y-Bereich:** 67 bis 78
 - **Blöcke:** 1.708
@@ -5025,7 +5053,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.153 – Reihenhaus an Corso dei Tintori – Teil 3/4 (Y 79–90)
+### Schritt 7.154 – Reihenhaus an Corso dei Tintori – Teil 3/4 (Y 79–90)
 
 - **Y-Bereich:** 79 bis 90
 - **Blöcke:** 1.727
@@ -5056,7 +5084,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.154 – Reihenhaus an Corso dei Tintori – Teil 4/4 (Y 91–99)
+### Schritt 7.155 – Reihenhaus an Corso dei Tintori – Teil 4/4 (Y 91–99)
 
 - **Y-Bereich:** 91 bis 99
 - **Blöcke:** 1.694
@@ -5086,7 +5114,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.155 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 7.156 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.016
@@ -5128,7 +5156,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.156 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 2/2 (Y 77–85)
+### Schritt 7.157 – Reihenhaus an Corso dei Tintori: Innenausbau – Teil 2/2 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.899
@@ -5170,7 +5198,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.157 – Haus w482503621 – Teil 1/4 (Y 61–65)
+### Schritt 7.158 – Haus w482503621 – Teil 1/4 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.566
@@ -5203,7 +5231,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.158 – Haus w482503621 – Teil 2/4 (Y 66–78)
+### Schritt 7.159 – Haus w482503621 – Teil 2/4 (Y 66–78)
 
 - **Y-Bereich:** 66 bis 78
 - **Blöcke:** 1.578
@@ -5235,7 +5263,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.159 – Haus w482503621 – Teil 3/4 (Y 79–91)
+### Schritt 7.160 – Haus w482503621 – Teil 3/4 (Y 79–91)
 
 - **Y-Bereich:** 79 bis 91
 - **Blöcke:** 1.664
@@ -5266,7 +5294,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.160 – Haus w482503621 – Teil 4/4 (Y 92–100)
+### Schritt 7.161 – Haus w482503621 – Teil 4/4 (Y 92–100)
 
 - **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.575
@@ -5295,7 +5323,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.161 – Haus w482503621: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 7.162 – Haus w482503621: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.058
@@ -5337,7 +5365,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.162 – Haus w482503621: Innenausbau – Teil 2/2 (Y 77–85)
+### Schritt 7.163 – Haus w482503621: Innenausbau – Teil 2/2 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.986
@@ -5379,7 +5407,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.163 – Reihenhaus an Corso dei Tintori – Teil 1/2 (Y 61–78)
+### Schritt 7.164 – Reihenhaus an Corso dei Tintori – Teil 1/2 (Y 61–78)
 
 - **Y-Bereich:** 61 bis 78
 - **Blöcke:** 1.339
@@ -5411,7 +5439,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.164 – Reihenhaus an Corso dei Tintori – Teil 2/2 (Y 79–96)
+### Schritt 7.165 – Reihenhaus an Corso dei Tintori – Teil 2/2 (Y 79–96)
 
 - **Y-Bereich:** 79 bis 96
 - **Blöcke:** 1.300
@@ -5444,7 +5472,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.165 – Reihenhaus an Corso dei Tintori: Innenausbau
+### Schritt 7.166 – Reihenhaus an Corso dei Tintori: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 823
@@ -5484,7 +5512,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.166 – Reihenhaus an Corso dei Tintori – Teil 1/4 (Y 62–68)
+### Schritt 7.167 – Reihenhaus an Corso dei Tintori – Teil 1/4 (Y 62–68)
 
 - **Y-Bereich:** 62 bis 68
 - **Blöcke:** 1.647
@@ -5517,7 +5545,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.167 – Reihenhaus an Corso dei Tintori – Teil 2/4 (Y 69–78)
+### Schritt 7.168 – Reihenhaus an Corso dei Tintori – Teil 2/4 (Y 69–78)
 
 - **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.589
@@ -5549,7 +5577,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.168 – Reihenhaus an Corso dei Tintori – Teil 3/4 (Y 79–88)
+### Schritt 7.169 – Reihenhaus an Corso dei Tintori – Teil 3/4 (Y 79–88)
 
 - **Y-Bereich:** 79 bis 88
 - **Blöcke:** 1.556
@@ -5580,7 +5608,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.169 – Reihenhaus an Corso dei Tintori – Teil 4/4 (Y 89–97)
+### Schritt 7.170 – Reihenhaus an Corso dei Tintori – Teil 4/4 (Y 89–97)
 
 - **Y-Bereich:** 89 bis 97
 - **Blöcke:** 1.613
@@ -5613,7 +5641,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.170 – Reihenhaus an Corso dei Tintori: Innenausbau
+### Schritt 7.171 – Reihenhaus an Corso dei Tintori: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.897
@@ -5653,7 +5681,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.171 – Reihenhaus an Borgo Santa Croce – Teil 1/3 (Y 61–70)
+### Schritt 7.172 – Reihenhaus an Borgo Santa Croce – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.877
@@ -5685,7 +5713,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.172 – Reihenhaus an Borgo Santa Croce – Teil 2/3 (Y 71–88)
+### Schritt 7.173 – Reihenhaus an Borgo Santa Croce – Teil 2/3 (Y 71–88)
 
 - **Y-Bereich:** 71 bis 88
 - **Blöcke:** 1.853
@@ -5716,7 +5744,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.173 – Reihenhaus an Borgo Santa Croce – Teil 3/3 (Y 89–100)
+### Schritt 7.174 – Reihenhaus an Borgo Santa Croce – Teil 3/3 (Y 89–100)
 
 - **Y-Bereich:** 89 bis 100
 - **Blöcke:** 1.841
@@ -5749,7 +5777,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.174 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 7.175 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 965
@@ -5791,7 +5819,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.175 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 77–85) & Straßenschilder
+### Schritt 7.176 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 77–85) & Straßenschilder
 
 - **Y-Bereich:** 68 bis 85
 - **Blöcke:** 1.806

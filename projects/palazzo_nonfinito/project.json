@@ -1,0 +1,17 @@
+{
+  "id": "palazzo_nonfinito",
+  "title": "Palazzo Nonfinito",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "r4098970"
+  ],
+  "bodenY": 66,
+  "rahmen": {
+    "ox": 169.5,
+    "oz": 354.5,
+    "thetaDeg": -93.26
+  },
+  "masken": {},
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
+}

@@ -8,48 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 228.796 |
+| Blöcke | 228.942 |
 | Bauschritte | 146 |
 | Y-Bereich | 63 bis 115 |
 | X-Ausdehnung | -394 bis -229 (166 Blöcke) |
 | Z-Ausdehnung | -765 bis -425 (341 Blöcke) |
 | Kleinster Schritt | 480 Blöcke (Schritt 13.76) |
-| Mittlerer Schritt | 1.567 Blöcke |
+| Mittlerer Schritt | 1.568 Blöcke |
 | Größter Schritt | 2.089 Blöcke (Schritt 13.105) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 78.464 | 34,3 % |
-| Polierter Tuffstein | `polished_tuff` | 25.402 | 11,1 % |
+| Terrakotta | `terracotta` | 78.491 | 34,3 % |
+| Polierter Tuffstein | `polished_tuff` | 25.401 | 11,1 % |
+| Endsteinziegel | `end_stone_bricks` | 22.470 | 9,8 % |
 | Gelbe Keramik | `yellow_terracotta` | 19.312 | 8,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 19.273 | 8,4 % |
-| Endsteinziegel | `end_stone_bricks` | 15.226 | 6,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 14.907 | 6,5 % |
 | Weißer Beton | `white_concrete` | 12.963 | 5,7 % |
 | Orange Keramik | `orange_terracotta` | 12.059 | 5,3 % |
-| Polierter Andesit | `polished_andesite` | 6.609 | 2,9 % |
-| Rosa Keramik | `pink_terracotta` | 6.184 | 2,7 % |
-| Graues Buntglas | `gray_stained_glass` | 5.444 | 2,4 % |
-| Glatter Stein | `smooth_stone` | 5.092 | 2,2 % |
-| Grüner Beton | `green_concrete` | 1.676 | 0,7 % |
-| Ziegelsteine | `bricks` | 1.567 | 0,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 7.646 | 3,3 % |
+| Rosa Keramik | `pink_terracotta` | 6.392 | 2,8 % |
+| Glatter Stein | `smooth_stone` | 6.099 | 2,7 % |
+| Polierter Andesit | `polished_andesite` | 5.662 | 2,5 % |
+| Graues Buntglas | `gray_stained_glass` | 5.466 | 2,4 % |
+| Ziegelsteine | `bricks` | 1.564 | 0,7 % |
+| Grüner Beton | `green_concrete` | 1.516 | 0,7 % |
 | Tuffstein | `tuff` | 1.271 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 939 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 658 | 0,3 % |
-| Seelaterne | `sea_lantern` | 453 | 0,2 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 162 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 160 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 150 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 142 | 0,1 % |
+| Seelaterne | `sea_lantern` | 456 | 0,2 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 152 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 151 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 143 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 142 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 134 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 134 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 125 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 123 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 115 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 128 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 122 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 114 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 36 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 36 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
@@ -60,7 +60,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 530 |
-| Steintreppe | `stone_stairs` | 362 |
+| Steintreppe | `stone_stairs` | 366 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -74,10 +74,10 @@
 | 6 | `r7139629_innen` | Palazzo des Ottocento an Piazza San Lorenzo: Innenausbau | 5.598 | 13.30–13.33 |
 | 7 | `w306395960` | Palazzo des Cinquecento an Via della Stufa | 15.467 | 13.34–13.43 |
 | 8 | `w306395960_innen` | Palazzo des Cinquecento an Via della Stufa: Innenausbau | 2.230 | 13.44–13.45 |
-| 9 | `w306395964` | Palazzo Taddei | 17.773 | 13.46–13.57 |
+| 9 | `w306395964` | Palazzo Taddei | 17.774 | 13.46–13.57 |
 | 10 | `w306395964_innen` | Palazzo Taddei: Innenausbau | 4.852 | 13.58–13.61 |
-| 11 | `w306395982` | Palazzo Ginori | 8.497 | 13.62–13.66 |
-| 12 | `w306395982_innen` | Palazzo Ginori: Innenausbau | 1.552 | 13.67 |
+| 11 | `w306395982` | Palazzo Ginori | 8.633 | 13.62–13.66 |
+| 12 | `w306395982_innen` | Palazzo Ginori: Innenausbau | 1.561 | 13.67 |
 | 13 | `w306395983` | Palazzo Barbolani di Montauto | 10.825 | 13.68–13.76 |
 | 14 | `w306395983_innen` | Palazzo Barbolani di Montauto: Innenausbau | 3.278 | 13.77–13.78 |
 | 15 | `w306395990` | Palazzo Neroni | 6.072 | 13.79–13.81 |
@@ -1631,7 +1631,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1643,7 +1643,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.47 – Palazzo Taddei – Teil 2/12 (Y 66–66)
 
@@ -1659,7 +1659,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1671,7 +1671,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.48 – Palazzo Taddei – Teil 3/12 (Y 66–67)
 
@@ -1684,13 +1684,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.410 |
-| Glatter Sandstein | `smooth_sandstone` | 415 |
-| Polierter Andesit | `polished_andesite` | 15 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
+| Endsteinziegel | `end_stone_bricks` | 415 |
+| Polierter Andesit | `polished_andesite` | 14 |
+| Glatter Stein | `smooth_stone` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1702,27 +1702,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.49 – Palazzo Taddei – Teil 4/12 (Y 68–71)
 
 - **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.690
+- **Blöcke:** 1.651
 - **Bauteile:** `w306395964`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.281 |
-| Polierter Andesit | `polished_andesite` | 297 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Grüner Beton | `green_concrete` | 4 |
+| Endsteinziegel | `end_stone_bricks` | 1.108 |
+| Glatter Stein | `smooth_stone` | 334 |
+| Graues Buntglas | `gray_stained_glass` | 165 |
+| Polierter Andesit | `polished_andesite` | 34 |
+| Grüner Beton | `green_concrete` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1734,27 +1735,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.50 – Palazzo Taddei – Teil 5/12 (Y 72–74)
 
 - **Y-Bereich:** 72 bis 74
-- **Blöcke:** 1.240
+- **Blöcke:** 1.314
 - **Bauteile:** `w306395964`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 888 |
-| Polierter Andesit | `polished_andesite` | 240 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Grüner Beton | `green_concrete` | 4 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Endsteinziegel | `end_stone_bricks` | 962 |
+| Glatter Stein | `smooth_stone` | 328 |
+| Polierter Andesit | `polished_andesite` | 19 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1766,58 +1766,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.51 – Palazzo Taddei – Teil 6/12 (Y 75–78)
 
 - **Y-Bereich:** 75 bis 78
-- **Blöcke:** 1.747
+- **Blöcke:** 1.707
 - **Bauteile:** `w306395964`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.232 |
-| Polierter Andesit | `polished_andesite` | 240 |
-| Glatter Stein | `smooth_stone` | 215 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
-| Grüner Beton | `green_concrete` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.52 – Palazzo Taddei – Teil 7/12 (Y 79–81)
-
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.234
-- **Bauteile:** `w306395964`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 849 |
-| Polierter Andesit | `polished_andesite` | 265 |
+| Endsteinziegel | `end_stone_bricks` | 1.284 |
+| Glatter Stein | `smooth_stone` | 273 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
+| Polierter Andesit | `polished_andesite` | 30 |
 | Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1829,7 +1798,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 13.52 – Palazzo Taddei – Teil 7/12 (Y 79–81)
+
+- **Y-Bereich:** 79 bis 81
+- **Blöcke:** 1.237
+- **Bauteile:** `w306395964`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 864 |
+| Glatter Stein | `smooth_stone` | 238 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
+| Polierter Andesit | `polished_andesite` | 27 |
+| Grüner Beton | `green_concrete` | 2 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.53 – Palazzo Taddei – Teil 8/12 (Y 82–85)
 
@@ -1841,15 +1842,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.072 |
-| Polierter Andesit | `polished_andesite` | 300 |
-| Glatter Stein | `smooth_stone` | 215 |
+| Endsteinziegel | `end_stone_bricks` | 1.072 |
+| Glatter Stein | `smooth_stone` | 488 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
+| Polierter Andesit | `polished_andesite` | 27 |
 | Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1861,26 +1862,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.54 – Palazzo Taddei – Teil 9/12 (Y 86–88)
 
 - **Y-Bereich:** 86 bis 88
-- **Blöcke:** 1.354
+- **Blöcke:** 1.357
 - **Bauteile:** `w306395964`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 978 |
-| Polierter Andesit | `polished_andesite` | 256 |
-| Graues Buntglas | `gray_stained_glass` | 116 |
-| Grüner Beton | `green_concrete` | 4 |
+| Endsteinziegel | `end_stone_bricks` | 993 |
+| Glatter Stein | `smooth_stone` | 238 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
+| Polierter Andesit | `polished_andesite` | 18 |
+| Grüner Beton | `green_concrete` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1892,7 +1894,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.55 – Palazzo Taddei – Teil 10/12 (Y 89–90)
 
@@ -1905,12 +1907,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.135 |
-| Glatter Sandstein | `smooth_sandstone` | 546 |
+| Endsteinziegel | `end_stone_bricks` | 546 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1922,7 +1924,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.56 – Palazzo Taddei – Teil 11/12 (Y 91–92)
 
@@ -1938,7 +1940,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1950,7 +1952,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.57 – Palazzo Taddei – Teil 12/12 (Y 93–99)
 
@@ -1967,7 +1969,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1500 (Baccio d Agnolo für Taddeo Taddei)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Taddei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1979,12 +1981,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.58 – Palazzo Taddei: Innenausbau – Teil 1/4 (Y 66–76)
+### Schritt 13.58 – Palazzo Taddei: Innenausbau – Teil 1/4 (Y 66–74)
 
-- **Y-Bereich:** 66 bis 76
-- **Blöcke:** 1.222
+- **Y-Bereich:** 66 bis 74
+- **Blöcke:** 1.214
 - **Bauteile:** `w306395964_innen`
 
 **Teileliste**
@@ -1992,19 +1994,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.153 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 20 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2023,9 +2025,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.59 – Palazzo Taddei: Innenausbau – Teil 2/4 (Y 76–76)
+### Schritt 13.59 – Palazzo Taddei: Innenausbau – Teil 2/4 (Y 74–74)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.211
 - **Bauteile:** `w306395964_innen`
 
@@ -2052,10 +2054,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.60 – Palazzo Taddei: Innenausbau – Teil 3/4 (Y 77–82)
+### Schritt 13.60 – Palazzo Taddei: Innenausbau – Teil 3/4 (Y 75–82)
 
-- **Y-Bereich:** 77 bis 82
-- **Blöcke:** 1.199
+- **Y-Bereich:** 75 bis 82
+- **Blöcke:** 1.207
 - **Bauteile:** `w306395964_innen`
 
 **Teileliste**
@@ -2063,21 +2065,21 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.153 |
-| Glatter Stein | `smooth_stone` | 18 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 4 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 12 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2111,8 +2113,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2139,24 +2141,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 13.62 – Palazzo Ginori – Teil 1/5 (Y 65–69)
 
 - **Y-Bereich:** 65 bis 69
-- **Blöcke:** 1.754
+- **Blöcke:** 1.756
 - **Bauteile:** `w306395982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 939 |
-| Rosa Keramik | `pink_terracotta` | 705 |
-| Glatter Stein | `smooth_stone` | 70 |
-| Graues Buntglas | `gray_stained_glass` | 19 |
-| Grüner Beton | `green_concrete` | 9 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 938 |
+| Rosa Keramik | `pink_terracotta` | 716 |
+| Polierter Andesit | `polished_andesite` | 76 |
+| Graues Buntglas | `gray_stained_glass` | 20 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1516-1520 (Baccio d Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2168,28 +2168,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.63 – Palazzo Ginori – Teil 2/5 (Y 70–77)
 
 - **Y-Bereich:** 70 bis 77
-- **Blöcke:** 1.663
+- **Blöcke:** 1.639
 - **Bauteile:** `w306395982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.337 |
-| Glatter Stein | `smooth_stone` | 219 |
-| Graues Buntglas | `gray_stained_glass` | 38 |
-| Polierter Andesit | `polished_andesite` | 30 |
-| Grüner Beton | `green_concrete` | 27 |
-| Tuffsteinziegel | `tuff_bricks` | 12 |
+| Rosa Keramik | `pink_terracotta` | 1.347 |
+| Polierter Andesit | `polished_andesite` | 123 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Glatter Stein | `smooth_stone` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 15 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1516-1520 (Baccio d Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2201,26 +2200,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.64 – Palazzo Ginori – Teil 3/5 (Y 78–85)
+### Schritt 13.64 – Palazzo Ginori – Teil 3/5 (Y 78–86)
 
-- **Y-Bereich:** 78 bis 85
-- **Blöcke:** 1.633
+- **Y-Bereich:** 78 bis 86
+- **Blöcke:** 1.872
 - **Bauteile:** `w306395982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.207 |
-| Glatter Stein | `smooth_stone` | 251 |
-| Graues Buntglas | `gray_stained_glass` | 115 |
-| Grüner Beton | `green_concrete` | 60 |
+| Rosa Keramik | `pink_terracotta` | 1.560 |
+| Polierter Andesit | `polished_andesite` | 183 |
+| Graues Buntglas | `gray_stained_glass` | 129 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1516-1520 (Baccio d Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2232,26 +2230,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.65 – Palazzo Ginori – Teil 4/5 (Y 86–93)
+### Schritt 13.65 – Palazzo Ginori – Teil 4/5 (Y 87–94)
 
-- **Y-Bereich:** 86 bis 93
-- **Blöcke:** 1.647
+- **Y-Bereich:** 87 bis 94
+- **Blöcke:** 1.725
 - **Bauteile:** `w306395982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.300 |
-| Glatter Stein | `smooth_stone` | 172 |
-| Graues Buntglas | `gray_stained_glass` | 115 |
-| Grüner Beton | `green_concrete` | 60 |
+| Rosa Keramik | `pink_terracotta` | 1.374 |
+| Polierter Andesit | `polished_andesite` | 151 |
+| Glatter Stein | `smooth_stone` | 115 |
+| Graues Buntglas | `gray_stained_glass` | 85 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1516-1520 (Baccio d Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2263,26 +2261,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.66 – Palazzo Ginori – Teil 5/5 (Y 94–101)
+### Schritt 13.66 – Palazzo Ginori – Teil 5/5 (Y 95–106)
 
-- **Y-Bereich:** 94 bis 101
-- **Blöcke:** 1.800
+- **Y-Bereich:** 95 bis 106
+- **Blöcke:** 1.641
 - **Bauteile:** `w306395982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.222 |
-| Rosa Keramik | `pink_terracotta` | 456 |
-| Ziegelsteine | `bricks` | 64 |
-| Glatter Stein | `smooth_stone` | 58 |
+| Terrakotta | `terracotta` | 1.251 |
+| Rosa Keramik | `pink_terracotta` | 216 |
+| Glatter Stein | `smooth_stone` | 113 |
+| Ziegelsteine | `bricks` | 61 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1516-1520 (Baccio d Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2294,23 +2292,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.67 – Palazzo Ginori: Innenausbau
 
-- **Y-Bereich:** 65 bis 86
-- **Blöcke:** 1.552
+- **Y-Bereich:** 65 bis 88
+- **Blöcke:** 1.561
 - **Bauteile:** `w306395982_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.430 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
+| Terrakotta | `terracotta` | 1.428 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
@@ -2321,7 +2319,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 44 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**

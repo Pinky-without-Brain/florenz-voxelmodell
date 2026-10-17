@@ -1,49 +1,62 @@
 {
   "id": "r4096877",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "spätes 14./15. Jh.; obere Geschosse später",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 3
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "gelb",
+    "achsen": 5,
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_seitlich",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
+      "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "sporti_auf_mensolen_via_michelozzi",
+      "wappen_ecke_rest",
+      "portal_bossen_strahlenfoermig"
+    ],
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Rustika im EG bis zum Gurtband, Strahlenquader um das Portal, Eckquader bis zum 1. OG, fünf Achsen von Rundbogenfenstern (teils vermauert), Mezzanin und drittes OG als späte Aufstockung, Sporti auf Konsolen zur Via de' Michelozzi. Annahme: obere Geschosse tatsächlich als Bossenwand modelliert (belegt ist Putz mit schwachem Bossenrelief), Gesims unverändert.",
   "name": "Palazzo Biliotti"
 }

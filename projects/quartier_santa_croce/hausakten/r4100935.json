@@ -1,7 +1,7 @@
 {
   "id": "r4100935",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "13./14. Jh., neugotisch restauriert (19. Jh., 1980er)",
   "geschosse": [
     {
       "art": "eg",
@@ -23,31 +23,36 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "material": "bruchstein",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_serena",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": "gruen"
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "pferderinge",
+      "wappen_peruzzi",
+      "steinkonsolen_seite"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi-Bourbon_del_Monte",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: Ursprung im 14. Jh., Piazzafassade im florentinischen Stil des späten 13. Jh. aus Bruchstein im Filaretto-Verband mit Steingesimsen, neumittelalterliches Erdgeschoss am Borgo dei Greci mit später eingefügtem Portal, 1980 zwei zugemauerte Arkaden neben dem Portal wieder geöffnet, mittelalterliche Pferderinge, Peruzzi- und Bourbon-del-Monte-Wappen. Annahme: Geschosse (Piazzatrakt drei, hier nach OSM-Höhe), Achsen, Fensterform, Gesims und Dach.",
   "name": "Palazzo Peruzzi-Bourbon del Monte"
 }

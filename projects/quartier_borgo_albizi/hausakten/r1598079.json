@@ -1,7 +1,7 @@
 {
   "id": "r1598079",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1821-1822 (Gaetano Baccani), klassizistisch",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -24,26 +24,32 @@
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rahmen_stuck",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "loggia_sechs_ionische_saeulen",
+      "nischen_zwei",
+      "wappen_borghese_arno_tiber",
+      "steinbalustrade_marmorfiguren",
+      "poller_marmor"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Borghese_(Firenze)",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: klassizistisch 1821-22 von Gaetano Baccani umgebaut, drei Geschosse, bossiertes Erdgeschoss mit Mittelportal und je zwei Rechteckfenstern, darüber Loggia mit sechs ionischen Säulen und zwei Nischen, Stuckfriese mit Engeln bzw. Siegesgöttinnen über dem Wappen, Borghese-Wappen mit Marmorfiguren von Arno und Tiber, Gesims, Steinbalustrade, zwei Altane an den Flügelenden, Marmorpoller an der Straße. Annahme: Material der Obergeschosse, Achsenzahl, Dach.",
   "name": "Palazzo Borghese"
 }

@@ -1,7 +1,7 @@
 {
   "id": "r4098972",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "14. Jh. (Grundstücke 1368-72, um 1376 vollendet), 19. Jh. Poggi (innen)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,20 +9,20 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 8,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "bottega_arcata",
+      "art": "portal_mittig",
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
@@ -34,15 +34,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "spitzbogenportale_zwei",
+      "wappen_albizi_verwittert",
+      "wappen_arte_della_lana"
+    ]
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_degli_Alessandri",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: Grundstückskäufe 1368-72, wohl um 1376 vollendet, zwei Hauptgeschosse plus Dachgeschoss, acht Achsen an der Hauptfassade, solide strenge Rustika mit unregelmäßigen Quadern im Erdgeschoss, darüber glatte Flächen (Steinverkleidung 1909 ergänzt), zwei Spitzbogenportale mit vergitterten Fenstern (mittlerer Bogen 1950 als Eingang geöffnet), zwei verwitterte Schilde, Insignie der Arte della Lana. Annahme: Fensterform, Gesims, Dach.",
   "name": "Palazzo degli Alessandri"
 }
