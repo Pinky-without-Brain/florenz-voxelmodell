@@ -1,30 +1,34 @@
 {
   "id": "r4103238",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "neorenaissancezeitliche Rekonstruktion nach Vorbildern des 16. Jh.; Restaurierung 1997-2005",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "bifora",
@@ -35,15 +39,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "gitter_ausgesaegtes_pferd_accademia_risoluti",
+      "wappen_motto_hofseite"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pascolutti_Giani",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Hauptfassade als neorenaissancezeitliche Rekonstruktion nach Vorbildern des 16. Jh. (korrekt, aber kühl), vier Geschosse, sechs Achsen, Tor der Durchfahrt mit ausgesägtem Pferd im Gitter (Accademia dei Risoluti). Annahme: Putz und Farbe, Fenster, Gesims, Dachform.",
   "name": "Palazzo Pascolutti Giani"
 }

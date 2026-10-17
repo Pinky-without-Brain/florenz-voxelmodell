@@ -1,48 +1,59 @@
 {
   "id": "r4098967",
   "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "epoche": "Umbau eines Häuserblocks im späten 19. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 9,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rundbogen"
+      "art": "portal_mittig",
+      "portalBreiteBl": 7,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "portal_bossen_pietra",
+      "paracarri_zwei",
+      "balkon_via_fiesolana",
+      "hohes_erdgeschoss",
+      "freskierter_androne_genesis"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_al_Canto_di_Sant'Anna",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: spätes 19. Jh. umgestalteter Häuserblock, Via de' Pepi 67 mit neun Achsen auf vier Geschossen und sehr hohem EG, zentrales Bossenportal drei Stufen über der Straße mit zwei Pollern, Via Fiesolana 32 mit sieben Achsen auf drei Geschossen und Balkon über dem Hauptportal. Annahme: Putz und Farbe, Fenster, Gesims, Dachform.",
   "name": "Palazzo al Canto di Sant'Anna"
 }

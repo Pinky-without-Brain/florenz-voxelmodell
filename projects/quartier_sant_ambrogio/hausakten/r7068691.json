@@ -1,33 +1,37 @@
 {
   "id": "r7068691",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Umbau 1842/43 (Federico Fantozzi) aus fünf bescheidenen Häusern",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 11,
+    "material": "putz",
+    "putzfarbe": "gelb",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "bifora",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -35,15 +39,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "erdgeschossdekor_nach_17jh_vorbild",
+      "innengarten"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pozzolini",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Umbau 1842/43 unter Federico Fantozzi aus fünf bescheidenen Häusern, vier Geschosse, elf Achsen, einfache Rechteckfenster mit Leisten aus Pietra serena, EG-Dekor nach Vorbild des 17. Jh. Annahme: Putz und Farbe, Gesims, Dachform.",
   "name": "Palazzo Pozzolini"
 }
