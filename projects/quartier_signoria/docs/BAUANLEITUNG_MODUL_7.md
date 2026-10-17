@@ -22,29 +22,30 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 30.282 | 34,8 % |
-| Weißer Beton | `white_concrete` | 25.647 | 29,5 % |
+| Weißer Beton | `white_concrete` | 25.648 | 29,5 % |
 | Polierter Tuffstein | `polished_tuff` | 8.517 | 9,8 % |
-| Tuffstein | `tuff` | 7.172 | 8,2 % |
-| Glatter Stein | `smooth_stone` | 3.976 | 4,6 % |
-| Polierter Andesit | `polished_andesite` | 3.120 | 3,6 % |
+| Tuffstein | `tuff` | 7.128 | 8,2 % |
+| Polierter Andesit | `polished_andesite` | 3.653 | 4,2 % |
+| Glatter Stein | `smooth_stone` | 3.426 | 3,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 2.597 | 3,0 % |
-| Graues Buntglas | `gray_stained_glass` | 2.210 | 2,5 % |
+| Graues Buntglas | `gray_stained_glass` | 2.170 | 2,5 % |
 | Grüner Beton | `green_concrete` | 900 | 1,0 % |
-| Endsteinziegel | `end_stone_bricks` | 690 | 0,8 % |
+| Endsteinziegel | `end_stone_bricks` | 691 | 0,8 % |
 | Ziegelsteine | `bricks` | 626 | 0,7 % |
-| Tuffsteinziegel | `tuff_bricks` | 532 | 0,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 547 | 0,6 % |
 | Seelaterne | `sea_lantern` | 153 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 151 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 102 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 90 | 0,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 80 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 45 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 45 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 37 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 36 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 35 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 32 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
@@ -54,7 +55,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 232 |
+| Steintreppe | `stone_stairs` | 236 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 140 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -69,11 +70,11 @@
 | 6 | `r9388833_innen` | Palazzo des Ottocento an Calimala: Innenausbau | 6.529 | 7.37–7.42 |
 | 7 | `w462375322` | Palazzo des Cinquecento an Piazza della Repubblica | 6.754 | 7.43–7.46 |
 | 8 | `w462375322_innen` | Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau | 1.704 | 7.47 |
-| 9 | `w462375323` | Palazzo dei Catellini | 5.762 | 7.48–7.50 |
-| 10 | `w462375323_innen` | Palazzo dei Catellini: Innenausbau | 1.172 | 7.51 |
-| 11 | `w462375326` | Reihenhaus an Piazza della Repubblica | 2.410 | 7.52–7.53 |
+| 9 | `w462375323` | Palazzo dei Catellini | 5.752 | 7.48–7.50 |
+| 10 | `w462375323_innen` | Palazzo dei Catellini: Innenausbau | 1.180 | 7.51 |
+| 11 | `w462375326` | Reihenhaus an Piazza della Repubblica | 2.411 | 7.52–7.53 |
 | 12 | `w462375326_innen` | Reihenhaus an Piazza della Repubblica: Innenausbau | 1.114 | 7.54 |
-| 13 | `w676068960` | Nebengebäude an Via dei Cavalieri | 750 | 7.55 |
+| 13 | `w676068960` | Nebengebäude an Via dei Cavalieri | 751 | 7.55 |
 | 14 | `w676068960_innen` | Nebengebäude an Via dei Cavalieri: Innenausbau | 344 | 7.56 |
 | 15 | `strassenschilder` | Straßenschilder | 11 | 7.56 |
 
@@ -1680,23 +1681,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.48 – Palazzo dei Catellini – Teil 1/3 (Y 66–76)
 
 - **Y-Bereich:** 66 bis 76
-- **Blöcke:** 1.851
+- **Blöcke:** 1.958
 - **Bauteile:** `w462375323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 903 |
+| Tuffstein | `tuff` | 879 |
 | Polierter Tuffstein | `polished_tuff` | 670 |
-| Glatter Stein | `smooth_stone` | 143 |
-| Tuffsteinziegel | `tuff_bricks` | 63 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Polierter Andesit | `polished_andesite` | 232 |
+| Tuffsteinziegel | `tuff_bricks` | 162 |
+| Glatter Stein | `smooth_stone` | 15 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (aus älteren Häusern und Türmen), restauriert Ende 19. Jh.), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Catellini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1708,27 +1708,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.49 – Palazzo dei Catellini – Teil 2/3 (Y 77–90)
 
 - **Y-Bereich:** 77 bis 90
-- **Blöcke:** 1.931
+- **Blöcke:** 1.934
 - **Bauteile:** `w462375323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.211 |
-| Glatter Stein | `smooth_stone` | 369 |
-| Polierter Andesit | `polished_andesite` | 180 |
-| Tuffsteinziegel | `tuff_bricks` | 87 |
+| Tuffstein | `tuff` | 1.210 |
+| Polierter Andesit | `polished_andesite` | 454 |
+| Glatter Stein | `smooth_stone` | 183 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (aus älteren Häusern und Türmen), restauriert Ende 19. Jh.), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Catellini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1740,12 +1740,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.50 – Palazzo dei Catellini – Teil 3/3 (Y 91–103)
 
 - **Y-Bereich:** 91 bis 103
-- **Blöcke:** 1.980
+- **Blöcke:** 1.860
 - **Bauteile:** `w462375323`
 
 **Teileliste**
@@ -1753,15 +1753,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 937 |
-| Tuffstein | `tuff` | 536 |
-| Glatter Stein | `smooth_stone` | 252 |
-| Polierter Andesit | `polished_andesite` | 159 |
+| Tuffstein | `tuff` | 517 |
+| Polierter Andesit | `polished_andesite` | 198 |
+| Fichtenholz-Bretter | `spruce_planks` | 80 |
 | Ziegelsteine | `bricks` | 60 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Glatter Stein | `smooth_stone` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (aus älteren Häusern und Türmen), restauriert Ende 19. Jh.), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Catellini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1773,12 +1774,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.51 – Palazzo dei Catellini: Innenausbau
 
-- **Y-Bereich:** 66 bis 87
-- **Blöcke:** 1.172
+- **Y-Bereich:** 66 bis 89
+- **Blöcke:** 1.180
 - **Bauteile:** `w462375323_innen`
 
 **Teileliste**
@@ -1786,9 +1787,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.050 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
@@ -1800,7 +1801,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 44 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 **Beschreibung**
@@ -1855,14 +1856,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.53 – Reihenhaus an Piazza della Repubblica – Teil 2/2 (Y 84–102)
 
 - **Y-Bereich:** 84 bis 102
-- **Blöcke:** 1.227
+- **Blöcke:** 1.228
 - **Bauteile:** `w462375326`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 536 |
+| Weißer Beton | `white_concrete` | 537 |
 | Terrakotta | `terracotta` | 493 |
 | Hellgrauer Beton | `light_gray_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 58 |
@@ -1930,14 +1931,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.55 – Nebengebäude an Via dei Cavalieri
 
 - **Y-Bereich:** 66 bis 100
-- **Blöcke:** 750
+- **Blöcke:** 751
 - **Bauteile:** `w676068960`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 494 |
+| Endsteinziegel | `end_stone_bricks` | 495 |
 | Terrakotta | `terracotta` | 111 |
 | Polierter Tuffstein | `polished_tuff` | 101 |
 | Graues Buntglas | `gray_stained_glass` | 26 |

@@ -1,7 +1,7 @@
 {
   "id": "w115190032",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "mittelalterlich, Wiederaufbau nach 1944",
   "geschosse": [
     {
       "art": "eg",
@@ -26,12 +26,12 @@
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 5,
-      "fenster": "rechteck_vergittert"
+      "art": "portal_mittig",
+      "portalBreiteBl": 4,
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "rundbogen",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -39,15 +39,20 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "eckquader_sockel",
+      "geruestloecher",
+      "fackelhalter_dreiarmig",
+      "tueren_mit_ghiera"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Salterelli",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: mittelalterlicher Turm der Salterelli, heutiger Bau Wiederaufbau nach den Schäden vom August 1944, Sockel mit betonten Eckquadern, Türen mit Ghiera-Rahmung, sichtbare Gerüstlöcher im Sockel, dreiarmiger Fackelhalter, früher allseits frei stehend. Annahme: Material, Geschosse, Fenster, Dach.",
   "name": "Torre dei Salterelli"
 }

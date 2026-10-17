@@ -1,53 +1,58 @@
 {
   "id": "w114221042",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "14. Jh. (Kern), Fassade Piazza 1786 (Fallani, Barock)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "gelb",
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "bombicci_wappen_portal",
+      "gedenktafel",
+      "kniefenster_gebrochener_giebel",
+      "reste_loggia_calzaiuoli"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bombicci",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Ursprung 14. Jh., Piazza-Fassade 1786 (Bernardo Fallani, florentinischer Barock), vier Geschosse, unregelmäßige Rustika in Erdgeschoss und erstem Stock, obere Geschosse verputzt, sehr hohes Kniefenster mit gebrochenem Giebel an der Piazza, Hauptportal links mit Bombicci-Wappen, an der Via Calzaiuoli fünf Rundbögen einer alten Loggia, rechteckige Fenster mit vorspringendem Architrav. Annahme: Achsen, Gesims, Dachform.",
   "name": "Palazzo Bombicci"
 }

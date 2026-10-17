@@ -8,45 +8,45 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 64.756 |
+| Blöcke | 64.581 |
 | Bauschritte | 39 |
 | Y-Bereich | 67 bis 118 |
 | X-Ausdehnung | -247 bis -126 (122 Blöcke) |
 | Z-Ausdehnung | 652 bis 700 (49 Blöcke) |
-| Kleinster Schritt | 945 Blöcke (Schritt 18.7) |
-| Mittlerer Schritt | 1.660 Blöcke |
+| Kleinster Schritt | 957 Blöcke (Schritt 18.7) |
+| Mittlerer Schritt | 1.656 Blöcke |
 | Größter Schritt | 2.010 Blöcke (Schritt 18.17) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 22.045 | 34,0 % |
-| Endsteinziegel | `end_stone_bricks` | 10.142 | 15,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 5.985 | 9,2 % |
+| Terrakotta | `terracotta` | 22.045 | 34,1 % |
+| Endsteinziegel | `end_stone_bricks` | 10.296 | 15,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 5.756 | 8,9 % |
-| Weißer Beton | `white_concrete` | 5.231 | 8,1 % |
 | Polierter Tuffstein | `polished_tuff` | 5.023 | 7,8 % |
+| Tuffstein | `tuff` | 4.380 | 6,8 % |
+| Weißer Beton | `white_concrete` | 4.181 | 6,5 % |
 | Rosa Keramik | `pink_terracotta` | 3.434 | 5,3 % |
-| Glatter Stein | `smooth_stone` | 2.650 | 4,1 % |
-| Graues Buntglas | `gray_stained_glass` | 1.486 | 2,3 % |
-| Polierter Andesit | `polished_andesite` | 929 | 1,4 % |
+| Glatter Stein | `smooth_stone` | 2.814 | 4,4 % |
+| Polierter Andesit | `polished_andesite` | 2.656 | 4,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.558 | 2,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 467 | 0,7 % |
+| Tuffsteinziegel | `tuff_bricks` | 385 | 0,6 % |
 | Ziegelsteine | `bricks` | 357 | 0,6 % |
 | Grüner Beton | `green_concrete` | 247 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 176 | 0,3 % |
 | Seelaterne | `sea_lantern` | 129 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 121 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 119 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 119 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 117 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 81 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 81 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 73 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 65 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 75 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 67 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 36 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 34 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 26 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
@@ -56,14 +56,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 378 |
-| Steintreppe | `stone_stairs` | 126 |
+| Steintreppe | `stone_stairs` | 130 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w114221042` | Palazzo Bombicci | 10.543 | 18.1–18.6 |
-| 2 | `w114221042_innen` | Palazzo Bombicci: Innenausbau | 2.689 | 18.7–18.8 |
+| 1 | `w114221042` | Palazzo Bombicci | 10.360 | 18.1–18.6 |
+| 2 | `w114221042_innen` | Palazzo Bombicci: Innenausbau | 2.697 | 18.7–18.8 |
 | 3 | `w307129122` | Reihenhaus an Piazza della Signoria | 6.297 | 18.9–18.12 |
 | 4 | `w307129122_innen` | Reihenhaus an Piazza della Signoria: Innenausbau | 3.168 | 18.13–18.14 |
 | 5 | `w464134780` | Palazzo des Cinquecento an Via della Condotta | 11.104 | 18.15–18.20 |
@@ -83,7 +83,7 @@
 ### Schritt 18.1 – Palazzo Bombicci – Teil 1/6 (Y 67–70)
 
 - **Y-Bereich:** 67 bis 70
-- **Blöcke:** 1.705
+- **Blöcke:** 1.659
 - **Bauteile:** `w114221042`
 
 **Teileliste**
@@ -91,14 +91,14 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.066 |
-| Glatter Sandstein | `smooth_sandstone` | 567 |
-| Weißer Beton | `white_concrete` | 48 |
-| Polierter Andesit | `polished_andesite` | 22 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Tuffstein | `tuff` | 387 |
+| Polierter Andesit | `polished_andesite` | 140 |
+| Tuffsteinziegel | `tuff_bricks` | 54 |
+| Glatter Stein | `smooth_stone` | 12 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), Fassade Piazza 1786 (Fallani, Barock)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bombicci, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -110,11 +110,43 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 18.2 – Palazzo Bombicci – Teil 2/6 (Y 71–79)
 
 - **Y-Bereich:** 71 bis 79
+- **Blöcke:** 1.722
+- **Bauteile:** `w114221042`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.107 |
+| Polierter Andesit | `polished_andesite` | 242 |
+| Tuffsteinziegel | `tuff_bricks` | 137 |
+| Glatter Stein | `smooth_stone` | 120 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (14. Jh. (Kern), Fassade Piazza 1786 (Fallani, Barock)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bombicci, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 18.3 – Palazzo Bombicci – Teil 3/6 (Y 80–88)
+
+- **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.873
 - **Bauteile:** `w114221042`
 
@@ -122,16 +154,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.422 |
-| Weißer Beton | `white_concrete` | 196 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Glatter Stein | `smooth_stone` | 93 |
-| Polierter Andesit | `polished_andesite` | 56 |
-| Tuffsteinziegel | `tuff_bricks` | 10 |
+| Tuffstein | `tuff` | 1.014 |
+| Polierter Andesit | `polished_andesite` | 476 |
+| Tuffsteinziegel | `tuff_bricks` | 180 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
+| Glatter Stein | `smooth_stone` | 47 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), Fassade Piazza 1786 (Fallani, Barock)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bombicci, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -143,27 +174,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 18.3 – Palazzo Bombicci – Teil 3/6 (Y 80–87)
+### Schritt 18.4 – Palazzo Bombicci – Teil 4/6 (Y 89–96)
 
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.680
+- **Y-Bereich:** 89 bis 96
+- **Blöcke:** 1.702
 - **Bauteile:** `w114221042`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.216 |
-| Weißer Beton | `white_concrete` | 234 |
+| Tuffstein | `tuff` | 936 |
+| Polierter Andesit | `polished_andesite` | 532 |
+| Glatter Stein | `smooth_stone` | 130 |
 | Graues Buntglas | `gray_stained_glass` | 104 |
-| Glatter Stein | `smooth_stone` | 93 |
-| Polierter Andesit | `polished_andesite` | 33 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), Fassade Piazza 1786 (Fallani, Barock)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bombicci, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -175,27 +205,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 18.4 – Palazzo Bombicci – Teil 4/6 (Y 88–95)
+### Schritt 18.5 – Palazzo Bombicci – Teil 5/6 (Y 97–103)
 
-- **Y-Bereich:** 88 bis 95
-- **Blöcke:** 1.680
+- **Y-Bereich:** 97 bis 103
+- **Blöcke:** 1.556
 - **Bauteile:** `w114221042`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.160 |
-| Weißer Beton | `white_concrete` | 286 |
+| Tuffstein | `tuff` | 806 |
+| Polierter Andesit | `polished_andesite` | 446 |
+| Glatter Stein | `smooth_stone` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 104 |
-| Glatter Stein | `smooth_stone` | 93 |
-| Polierter Andesit | `polished_andesite` | 37 |
+| Endsteinziegel | `end_stone_bricks` | 77 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), Fassade Piazza 1786 (Fallani, Barock)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bombicci, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -207,38 +237,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.5 – Palazzo Bombicci – Teil 5/6 (Y 96–103)
-
-- **Y-Bereich:** 96 bis 103
-- **Blöcke:** 1.757
-- **Bauteile:** `w114221042`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.327 |
-| Weißer Beton | `white_concrete` | 286 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Polierter Andesit | `polished_andesite` | 40 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 18.6 – Palazzo Bombicci – Teil 6/6 (Y 104–112)
 
@@ -251,13 +250,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.470 |
-| Glatter Sandstein | `smooth_sandstone` | 293 |
+| Tuffstein | `tuff` | 130 |
+| Polierter Andesit | `polished_andesite` | 86 |
 | Ziegelsteine | `bricks` | 78 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Endsteinziegel | `end_stone_bricks` | 77 |
+| Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. (Kern), Fassade Piazza 1786 (Fallani, Barock)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bombicci, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -269,12 +270,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 18.7 – Palazzo Bombicci: Innenausbau – Teil 1/2 (Y 67–85)
+### Schritt 18.7 – Palazzo Bombicci: Innenausbau – Teil 1/2 (Y 67–88)
 
-- **Y-Bereich:** 67 bis 85
-- **Blöcke:** 945
+- **Y-Bereich:** 67 bis 88
+- **Blöcke:** 957
 - **Bauteile:** `w114221042_innen`
 
 **Teileliste**
@@ -282,21 +283,23 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 835 |
-| Glatter Stein | `smooth_stone` | 50 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 16 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 36 |
+| Steintreppe | `stone_stairs` | 42 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
@@ -315,10 +318,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.8 – Palazzo Bombicci: Innenausbau – Teil 2/2 (Y 86–96)
+### Schritt 18.8 – Palazzo Bombicci: Innenausbau – Teil 2/2 (Y 89–98)
 
-- **Y-Bereich:** 86 bis 96
-- **Blöcke:** 1.744
+- **Y-Bereich:** 89 bis 98
+- **Blöcke:** 1.740
 - **Bauteile:** `w114221042_innen`
 
 **Teileliste**
@@ -326,23 +329,21 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.670 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 18 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
