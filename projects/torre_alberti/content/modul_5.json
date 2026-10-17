@@ -1,0 +1,43 @@
+{
+  "module": 5,
+  "title": "Ausstattung",
+  "subtitle": "Bautüte 5: Café, Kapitelle und zugemauerte Tür",
+  "icon": "🪑",
+  "parts": {
+    "cafe_tresen": {
+      "title": "Tresen des Cafés",
+      "description": "Ein Holztresen, acht Blöcke lang und eine Lage hoch, im Erdgeschoss des Turms.",
+      "tip": "Einfach aufsetzen, er steht frei.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Die Einrichtung des heutigen Lokals ist nicht überliefert.",
+      "fact": "Im Erdgeschoss war das Caffè delle Colonnine, heute ein anderes Lokal (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "cafe_tische": {
+      "title": "Tische des Cafés",
+      "description": "Vier Holztische (2 × 2 Blöcke, eine Lage hoch) im Erdgeschoss.",
+      "tip": "Eine Lage hoch, man kann sie überspringen.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C.",
+      "fact": "Das Erdgeschoss diente als öffentliches Lokal (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "colonnine": {
+      "title": "Colonnine",
+      "description": "Vier schlanke Marmorsäulen (1 × 1, sechs Lagen) tragen die Decke des Erdgeschosses.",
+      "tip": "Von Lage 1 bis 6 stapeln.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Zahl und Lage der Säulchen sind nicht überliefert; der Name des Cafés gab den Anlass.",
+      "fact": "Das Café trug den Namen Caffè delle Colonnine (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "kapitelle": {
+      "title": "Kapitelle mit Albertiketten",
+      "description": "Goldene Blöcke an den Kapitellen der Loggetta-Pfeiler erinnern an die Ketten im Wappen der Alberti.",
+      "tip": "Sie ersetzen je einen Pfeilerblock auf Lage 33.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Das Wappen ist nicht nachgebildet.",
+      "fact": "Die Kapitelle der Loggetta tragen das Wappen der Alberti mit Ketten (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "porta_murata": {
+      "title": "Zugemauerte Tür",
+      "description": "Ein Rundbogenumriss aus Pietra serena auf der Außenseite zum Borgo Santa Croce; die Tür selbst ist zugemauert.",
+      "tip": "Nur die Umrisslinie wird ersetzt, die Wand dahinter bleibt.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Die genaue Lage am Borgo ist Stufe C.",
+      "fact": "Die alte Eingangstür ist auf der Seite des Borgo Santa Croce zugemauert (Quelle: it.wikipedia, Torre degli Alberti)."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "module": 2,
+  "title": "Geschossböden und Treppen",
+  "subtitle": "Bautüte 2: Fünf Geschosse mit Holzböden und Treppen",
+  "icon": "🪜",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "In Lage 7, 14, 21 und 28 liegt je ein Holzboden über dem ganzen Innenraum, ausgespart nur über den Treppen.",
+      "tip": "Lasse die Zellen über der Treppe frei.",
+      "caution": "Das Treppenloch ist vier Blöcke breit und so lang wie der Lauf.",
+      "fact": "Der Turm hat nach OSM fünf Geschosse (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "treppe": {
+      "title": "Treppen",
+      "description": "Fünf gerade Läufe aus je 14 Treppenblöcken (zwei breit, sieben Stufen), im Wechsel an der Westseite und an der Ostseite des Raums, mit je einem Stützblock unter jeder Stufe. Der letzte Lauf führt auf die Terrasse.",
+      "tip": "Beginne jeden Lauf auf dem Boden des Geschosses.",
+      "caution": "Lage und Zahl der Läufe sind Stufe C.",
+      "fact": "Die Treppen sind nicht überliefert; sie machen den Turm begehbar (Quelle: it.wikipedia, Torre degli Alberti)."
+    }
+  }
+}

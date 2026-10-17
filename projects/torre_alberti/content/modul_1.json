@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Mauern, Fenster, Loggetta",
+  "subtitle": "Bautüte 1: Mauern aus Pietra forte, Fenster und Eckloggetta",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Mauern",
+      "description": "Drei Blöcke dicke Mauern: außen Pietra forte mit eingestreuten Bruchsteinen, innen Mauerwerk und weißer Putz. Der Turm ist 37 Blöcke hoch (OSM) und fünf Geschosse zu je sieben Lagen. In der Südmauer liegt die Tür (4 × 5, offen).",
+      "tip": "Baue Lage für Lage rund um den Grundriss.",
+      "caution": "Die Höhe 37 und die Geschosseinteilung stammen aus den OSM-Angaben, die Mauerdicke ist Stufe C.",
+      "fact": "Das Mauerwerk liegt offen, weil der Putz bei der Wiederherstellung 1938 entfernt wurde (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Je Geschoss kleine Fenster (2 breit, 3 hoch) mit Glas in allen Mauerlagen, im Abstand von 7,5 Blöcken entlang der Kanten.",
+      "tip": "Die Fenster ersetzen Mauerblöcke.",
+      "caution": "Zahl und Lage sind Stufe C.",
+      "fact": "Die Fassaden zeigen nur kleine Fenster und die zugemauerten Umrisse älterer Einzelfenster (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "loggetta": {
+      "title": "Eckloggetta",
+      "description": "Im obersten Geschoss öffnen sich beide Mauern an der östlichen Ecke in Rundbögen (Joch fünf Blöcke, Bogen vier breit) mit Pfeilern aus Pietra serena und einer Marmorbrüstung.",
+      "tip": "Die Bögen sind bis zur Brüstung offen.",
+      "caution": "Welche Ecke die Loggetta trägt, ist Stufe C; die Bogenform ist vereinfacht.",
+      "fact": "Die Loggetta stammt vom Anfang des 15. Jahrhunderts (Quelle: it.wikipedia, Torre degli Alberti)."
+    }
+  }
+}

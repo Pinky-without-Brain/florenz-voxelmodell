@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Fundament und Boden auf Y 61",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Turm tiefer liegt als Y 60, füllst du mit Bruchstein bis Y 60 auf.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Das Gelände unter dem Turm liegt überall bei Y 61 und wird auf Y 60 abgetragen; es entsteht meist kein Fundament.",
+      "fact": "Der Turm steht nahe dem Verlauf der zweiten Stadtmauer von 1172 bis 1175 (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 61 liegt der Boden des Erdgeschosses: unter den Mauern Pietra forte, im Raum ein Schachbrett aus Pietra serena und Pflaster (zwei Blöcke je Feld).",
+      "tip": "Ein Feld ist zwei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt Bautüte 4.",
+      "fact": "Der Turm wurde am Ende des 13. Jahrhunderts von Alberto, Lapo und Neri degli Alberti gebaut (Quelle: it.wikipedia, Torre degli Alberti)."
+    }
+  }
+}

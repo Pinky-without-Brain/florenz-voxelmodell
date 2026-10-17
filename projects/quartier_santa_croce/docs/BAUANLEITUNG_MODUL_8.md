@@ -2,64 +2,63 @@
 
 # Bauanleitung Modul 8: Isolato I0604 – Borgo Santa Croce
 
-*Quartier Santa Croce: 24 Häuser*
+*Quartier Santa Croce: 23 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 311.974 |
-| Bauschritte | 192 |
+| Blöcke | 302.670 |
+| Bauschritte | 187 |
 | Y-Bereich | 61 bis 113 |
-| X-Ausdehnung | 463 bis 794 (332 Blöcke) |
-| Z-Ausdehnung | 914 bis 1158 (245 Blöcke) |
-| Kleinster Schritt | 399 Blöcke (Schritt 8.171) |
-| Mittlerer Schritt | 1.625 Blöcke |
-| Größter Schritt | 2.090 Blöcke (Schritt 8.137) |
+| X-Ausdehnung | 477 bis 794 (318 Blöcke) |
+| Z-Ausdehnung | 914 bis 1151 (238 Blöcke) |
+| Kleinster Schritt | 399 Blöcke (Schritt 8.166) |
+| Mittlerer Schritt | 1.619 Blöcke |
+| Größter Schritt | 2.090 Blöcke (Schritt 8.132) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 107.973 | 34,6 % |
-| Orange Keramik | `orange_terracotta` | 35.411 | 11,4 % |
-| Polierter Tuffstein | `polished_tuff` | 30.809 | 9,9 % |
-| Tuffstein | `tuff` | 28.905 | 9,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 15.963 | 5,1 % |
-| Glatter Stein | `smooth_stone` | 15.417 | 4,9 % |
-| Polierter Andesit | `polished_andesite` | 11.826 | 3,8 % |
-| Weißer Beton | `white_concrete` | 11.399 | 3,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 11.269 | 3,6 % |
-| Rosa Keramik | `pink_terracotta` | 10.140 | 3,3 % |
-| Endsteinziegel | `end_stone_bricks` | 8.759 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 7.383 | 2,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 6.646 | 2,1 % |
-| Ziegelsteine | `bricks` | 1.999 | 0,6 % |
+| Terrakotta | `terracotta` | 106.477 | 35,2 % |
+| Orange Keramik | `orange_terracotta` | 35.411 | 11,7 % |
+| Polierter Tuffstein | `polished_tuff` | 29.875 | 9,9 % |
+| Tuffstein | `tuff` | 23.484 | 7,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 15.963 | 5,3 % |
+| Glatter Stein | `smooth_stone` | 14.769 | 4,9 % |
+| Polierter Andesit | `polished_andesite` | 11.812 | 3,9 % |
+| Weißer Beton | `white_concrete` | 11.399 | 3,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 11.269 | 3,7 % |
+| Rosa Keramik | `pink_terracotta` | 10.140 | 3,4 % |
+| Endsteinziegel | `end_stone_bricks` | 8.759 | 2,9 % |
+| Graues Buntglas | `gray_stained_glass` | 7.198 | 2,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.646 | 2,2 % |
+| Ziegelsteine | `bricks` | 1.999 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.952 | 0,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.826 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.097 | 0,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.438 | 0,5 % |
 | Grüner Beton | `green_concrete` | 1.033 | 0,3 % |
-| Seelaterne | `sea_lantern` | 613 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 992 | 0,3 % |
+| Seelaterne | `sea_lantern` | 598 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 269 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 251 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 175 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 159 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 144 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 142 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 137 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 137 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 134 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 127 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 127 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 124 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 68 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 64 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 854 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 778 |
 | Steintreppe | `stone_stairs` | 418 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -76,45 +75,43 @@
 | 8 | `w307104286_innen` | Palazzo Bartolini Baldelli: Innenausbau | 2.680 | 8.60–8.61 |
 | 9 | `w307104291` | Palazzo dell'Antella | 11.984 | 8.62–8.68 |
 | 10 | `w307104291_innen` | Palazzo dell'Antella: Innenausbau | 3.259 | 8.69–8.70 |
-| 11 | `w307106612` | Torre degli Alberti | 7.590 | 8.71–8.74 |
-| 12 | `w307106612_innen` | Torre degli Alberti: Innenausbau | 1.712 | 8.75 |
-| 13 | `w307106613` | Reihenhaus an Via dei Benci | 8.879 | 8.76–8.80 |
-| 14 | `w307106613_innen` | Reihenhaus an Via dei Benci: Innenausbau | 4.203 | 8.81–8.83 |
-| 15 | `w307106629` | Palazzo des Cinquecento an Via dei Benci | 17.128 | 8.84–8.92 |
-| 16 | `w307106629_innen` | Palazzo des Cinquecento an Via dei Benci: Innenausbau | 6.437 | 8.93–8.96 |
-| 17 | `w307106636` | Palazzo Alberti | 8.022 | 8.97–8.100 |
-| 18 | `w307106636_innen` | Palazzo Alberti: Innenausbau | 2.517 | 8.101–8.102 |
-| 19 | `w307106637` | Palazzo Mellini-Fossi | 12.564 | 8.103–8.109 |
-| 20 | `w307106637_innen` | Palazzo Mellini-Fossi: Innenausbau | 3.937 | 8.110–8.111 |
-| 21 | `w482503612` | Reihenhaus an Piazza di Santa Croce | 5.843 | 8.112–8.114 |
-| 22 | `w482503612_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 1.341 | 8.115 |
-| 23 | `w482503616` | Reihenhaus an Borgo Santa Croce | 4.809 | 8.116–8.118 |
-| 24 | `w482503616_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.700 | 8.119–8.120 |
-| 25 | `w482503620` | Reihenhaus an Piazza di Santa Croce | 10.962 | 8.121–8.127 |
-| 26 | `w482503620_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 4.482 | 8.128–8.130 |
-| 27 | `w482503627` | Reihenhaus an Borgo Santa Croce | 6.748 | 8.131–8.134 |
-| 28 | `w482503627_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 1.529 | 8.135 |
-| 29 | `w482503631` | Reihenhaus an Piazza di Santa Croce | 4.130 | 8.136–8.137 |
-| 30 | `w482503631_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 2.286 | 8.138–8.139 |
-| 31 | `w482503635` | Reihenhaus an Piazza di Santa Croce | 11.451 | 8.140–8.147 |
-| 32 | `w482503635_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 2.774 | 8.148–8.149 |
-| 33 | `w482503638` | Renaissance-Palazzo an Borgo Santa Croce | 19.431 | 8.150–8.160 |
-| 34 | `w482503638_innen` | Renaissance-Palazzo an Borgo Santa Croce: Innenausbau | 3.337 | 8.161–8.162 |
-| 35 | `w482503645` | Reihenhaus an Borgo Santa Croce | 6.224 | 8.163–8.166 |
-| 36 | `w482503645_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.107 | 8.167–8.168 |
-| 37 | `w482503646` | Haus w482503646 | 2.683 | 8.169–8.170 |
-| 38 | `w482503646_innen` | Haus w482503646: Innenausbau | 399 | 8.171 |
-| 39 | `w482503652` | Reihenhaus an Borgo Santa Croce | 2.985 | 8.172–8.173 |
-| 40 | `w482503652_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 1 | 8.174 |
-| 41 | `w482503660` | Reihenhaus an Borgo Santa Croce | 6.952 | 8.174–8.177 |
-| 42 | `w482503660_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.468 | 8.178–8.179 |
-| 43 | `w482503662` | Reihenhaus an Borgo Santa Croce | 5.604 | 8.180–8.182 |
-| 44 | `w482503662_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.955 | 8.183–8.184 |
-| 45 | `w482503666` | Reihenhaus an Borgo Santa Croce | 2.977 | 8.185–8.186 |
-| 46 | `w482503666_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 1.248 | 8.187 |
-| 47 | `w482503673` | Reihenhaus an Borgo Santa Croce | 4.625 | 8.188–8.190 |
-| 48 | `w482503673_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.214 | 8.191–8.192 |
-| 49 | `strassenschilder` | Straßenschilder | 8 | 8.192 |
+| 11 | `w307106613` | Reihenhaus an Via dei Benci | 8.879 | 8.71–8.75 |
+| 12 | `w307106613_innen` | Reihenhaus an Via dei Benci: Innenausbau | 4.203 | 8.76–8.78 |
+| 13 | `w307106629` | Palazzo des Cinquecento an Via dei Benci | 17.128 | 8.79–8.87 |
+| 14 | `w307106629_innen` | Palazzo des Cinquecento an Via dei Benci: Innenausbau | 6.437 | 8.88–8.91 |
+| 15 | `w307106636` | Palazzo Alberti | 8.022 | 8.92–8.95 |
+| 16 | `w307106636_innen` | Palazzo Alberti: Innenausbau | 2.517 | 8.96–8.97 |
+| 17 | `w307106637` | Palazzo Mellini-Fossi | 12.564 | 8.98–8.104 |
+| 18 | `w307106637_innen` | Palazzo Mellini-Fossi: Innenausbau | 3.937 | 8.105–8.106 |
+| 19 | `w482503612` | Reihenhaus an Piazza di Santa Croce | 5.843 | 8.107–8.109 |
+| 20 | `w482503612_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 1.341 | 8.110 |
+| 21 | `w482503616` | Reihenhaus an Borgo Santa Croce | 4.809 | 8.111–8.113 |
+| 22 | `w482503616_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.700 | 8.114–8.115 |
+| 23 | `w482503620` | Reihenhaus an Piazza di Santa Croce | 10.962 | 8.116–8.122 |
+| 24 | `w482503620_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 4.482 | 8.123–8.125 |
+| 25 | `w482503627` | Reihenhaus an Borgo Santa Croce | 6.748 | 8.126–8.129 |
+| 26 | `w482503627_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 1.529 | 8.130 |
+| 27 | `w482503631` | Reihenhaus an Piazza di Santa Croce | 4.130 | 8.131–8.132 |
+| 28 | `w482503631_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 2.286 | 8.133–8.134 |
+| 29 | `w482503635` | Reihenhaus an Piazza di Santa Croce | 11.451 | 8.135–8.142 |
+| 30 | `w482503635_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 2.774 | 8.143–8.144 |
+| 31 | `w482503638` | Renaissance-Palazzo an Borgo Santa Croce | 19.431 | 8.145–8.155 |
+| 32 | `w482503638_innen` | Renaissance-Palazzo an Borgo Santa Croce: Innenausbau | 3.337 | 8.156–8.157 |
+| 33 | `w482503645` | Reihenhaus an Borgo Santa Croce | 6.224 | 8.158–8.161 |
+| 34 | `w482503645_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.107 | 8.162–8.163 |
+| 35 | `w482503646` | Haus w482503646 | 2.683 | 8.164–8.165 |
+| 36 | `w482503646_innen` | Haus w482503646: Innenausbau | 399 | 8.166 |
+| 37 | `w482503652` | Reihenhaus an Borgo Santa Croce | 2.985 | 8.167–8.168 |
+| 38 | `w482503652_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 1 | 8.169 |
+| 39 | `w482503660` | Reihenhaus an Borgo Santa Croce | 6.952 | 8.169–8.172 |
+| 40 | `w482503660_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.468 | 8.173–8.174 |
+| 41 | `w482503662` | Reihenhaus an Borgo Santa Croce | 5.604 | 8.175–8.177 |
+| 42 | `w482503662_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.955 | 8.178–8.179 |
+| 43 | `w482503666` | Reihenhaus an Borgo Santa Croce | 2.977 | 8.180–8.181 |
+| 44 | `w482503666_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 1.248 | 8.182 |
+| 45 | `w482503673` | Reihenhaus an Borgo Santa Croce | 4.625 | 8.183–8.185 |
+| 46 | `w482503673_innen` | Reihenhaus an Borgo Santa Croce: Innenausbau | 2.214 | 8.186–8.187 |
+| 47 | `strassenschilder` | Straßenschilder | 6 | 8.187 |
 
 ## Bauschritte
 
@@ -2393,174 +2390,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.71 – Torre degli Alberti – Teil 1/4 (Y 61–69)
-
-- **Y-Bereich:** 61 bis 69
-- **Blöcke:** 1.912
-- **Bauteile:** `w307106612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.113 |
-| Polierter Tuffstein | `polished_tuff` | 557 |
-| Glatter Stein | `smooth_stone` | 116 |
-| Tuffsteinziegel | `tuff_bricks` | 87 |
-| Graues Buntglas | `gray_stained_glass` | 25 |
-| Polierter Andesit | `polished_andesite` | 14 |
-
-**Beschreibung**
-
-Wohnturm (Ende 13. Jh. (Alberti), 1356 erneuert, Loggetta frühes 15. Jh.), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_degli_Alberti, Angaben belegt (Sicherheit 0,7).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 8.72 – Torre degli Alberti – Teil 2/4 (Y 70–80)
-
-- **Y-Bereich:** 70 bis 80
-- **Blöcke:** 1.878
-- **Bauteile:** `w307106612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.500 |
-| Glatter Stein | `smooth_stone` | 205 |
-| Tuffsteinziegel | `tuff_bricks` | 109 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-
-**Beschreibung**
-
-Wohnturm (Ende 13. Jh. (Alberti), 1356 erneuert, Loggetta frühes 15. Jh.), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_degli_Alberti, Angaben belegt (Sicherheit 0,7).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 8.73 – Torre degli Alberti – Teil 3/4 (Y 81–91)
-
-- **Y-Bereich:** 81 bis 91
-- **Blöcke:** 1.879
-- **Bauteile:** `w307106612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.507 |
-| Glatter Stein | `smooth_stone` | 194 |
-| Tuffsteinziegel | `tuff_bricks` | 122 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
-
-**Beschreibung**
-
-Wohnturm (Ende 13. Jh. (Alberti), 1356 erneuert, Loggetta frühes 15. Jh.), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_degli_Alberti, Angaben belegt (Sicherheit 0,7).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 8.74 – Torre degli Alberti – Teil 4/4 (Y 92–100)
-
-- **Y-Bereich:** 92 bis 100
-- **Blöcke:** 1.921
-- **Bauteile:** `w307106612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.301 |
-| Polierter Tuffstein | `polished_tuff` | 377 |
-| Glatter Stein | `smooth_stone` | 133 |
-| Tuffsteinziegel | `tuff_bricks` | 70 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
-
-**Beschreibung**
-
-Wohnturm (Ende 13. Jh. (Alberti), 1356 erneuert, Loggetta frühes 15. Jh.), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_degli_Alberti, Angaben belegt (Sicherheit 0,7).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 8.75 – Torre degli Alberti: Innenausbau
-
-- **Y-Bereich:** 61 bis 98
-- **Blöcke:** 1.712
-- **Bauteile:** `w307106612_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.496 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 105 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 41 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 35 |
-| Seelaterne | `sea_lantern` | 15 |
-| Rote Keramik | `red_terracotta` | 10 |
-| Weiße Keramik | `white_terracotta` | 10 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 76 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.76 – Reihenhaus an Via dei Benci – Teil 1/5 (Y 61–65)
+### Schritt 8.71 – Reihenhaus an Via dei Benci – Teil 1/5 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.827
@@ -2591,7 +2421,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.77 – Reihenhaus an Via dei Benci – Teil 2/5 (Y 66–77)
+### Schritt 8.72 – Reihenhaus an Via dei Benci – Teil 2/5 (Y 66–77)
 
 - **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.797
@@ -2621,7 +2451,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.78 – Reihenhaus an Via dei Benci – Teil 3/5 (Y 78–88)
+### Schritt 8.73 – Reihenhaus an Via dei Benci – Teil 3/5 (Y 78–88)
 
 - **Y-Bereich:** 78 bis 88
 - **Blöcke:** 1.637
@@ -2651,7 +2481,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.79 – Reihenhaus an Via dei Benci – Teil 4/5 (Y 89–97)
+### Schritt 8.74 – Reihenhaus an Via dei Benci – Teil 4/5 (Y 89–97)
 
 - **Y-Bereich:** 89 bis 97
 - **Blöcke:** 1.723
@@ -2682,7 +2512,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.80 – Reihenhaus an Via dei Benci – Teil 5/5 (Y 98–105)
+### Schritt 8.75 – Reihenhaus an Via dei Benci – Teil 5/5 (Y 98–105)
 
 - **Y-Bereich:** 98 bis 105
 - **Blöcke:** 1.895
@@ -2713,7 +2543,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.81 – Reihenhaus an Via dei Benci: Innenausbau – Teil 1/3 (Y 61–76)
+### Schritt 8.76 – Reihenhaus an Via dei Benci: Innenausbau – Teil 1/3 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.094
@@ -2751,7 +2581,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.82 – Reihenhaus an Via dei Benci: Innenausbau – Teil 2/3 (Y 77–84)
+### Schritt 8.77 – Reihenhaus an Via dei Benci: Innenausbau – Teil 2/3 (Y 77–84)
 
 - **Y-Bereich:** 77 bis 84
 - **Blöcke:** 2.062
@@ -2789,7 +2619,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.83 – Reihenhaus an Via dei Benci: Innenausbau – Teil 3/3 (Y 85–91)
+### Schritt 8.78 – Reihenhaus an Via dei Benci: Innenausbau – Teil 3/3 (Y 85–91)
 
 - **Y-Bereich:** 85 bis 91
 - **Blöcke:** 1.047
@@ -2827,7 +2657,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.84 – Palazzo des Cinquecento an Via dei Benci – Teil 1/9 (Y 61–61)
+### Schritt 8.79 – Palazzo des Cinquecento an Via dei Benci – Teil 1/9 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.844
@@ -2855,7 +2685,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.85 – Palazzo des Cinquecento an Via dei Benci – Teil 2/9 (Y 62–68)
+### Schritt 8.80 – Palazzo des Cinquecento an Via dei Benci – Teil 2/9 (Y 62–68)
 
 - **Y-Bereich:** 62 bis 68
 - **Blöcke:** 1.929
@@ -2888,7 +2718,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.86 – Palazzo des Cinquecento an Via dei Benci – Teil 3/9 (Y 69–75)
+### Schritt 8.81 – Palazzo des Cinquecento an Via dei Benci – Teil 3/9 (Y 69–75)
 
 - **Y-Bereich:** 69 bis 75
 - **Blöcke:** 1.904
@@ -2920,7 +2750,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.87 – Palazzo des Cinquecento an Via dei Benci – Teil 4/9 (Y 76–82)
+### Schritt 8.82 – Palazzo des Cinquecento an Via dei Benci – Teil 4/9 (Y 76–82)
 
 - **Y-Bereich:** 76 bis 82
 - **Blöcke:** 1.904
@@ -2952,7 +2782,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.88 – Palazzo des Cinquecento an Via dei Benci – Teil 5/9 (Y 83–89)
+### Schritt 8.83 – Palazzo des Cinquecento an Via dei Benci – Teil 5/9 (Y 83–89)
 
 - **Y-Bereich:** 83 bis 89
 - **Blöcke:** 1.904
@@ -2984,7 +2814,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.89 – Palazzo des Cinquecento an Via dei Benci – Teil 6/9 (Y 90–96)
+### Schritt 8.84 – Palazzo des Cinquecento an Via dei Benci – Teil 6/9 (Y 90–96)
 
 - **Y-Bereich:** 90 bis 96
 - **Blöcke:** 2.062
@@ -3016,7 +2846,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.90 – Palazzo des Cinquecento an Via dei Benci – Teil 7/9 (Y 97–102)
+### Schritt 8.85 – Palazzo des Cinquecento an Via dei Benci – Teil 7/9 (Y 97–102)
 
 - **Y-Bereich:** 97 bis 102
 - **Blöcke:** 1.902
@@ -3048,7 +2878,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.91 – Palazzo des Cinquecento an Via dei Benci – Teil 8/9 (Y 103–106)
+### Schritt 8.86 – Palazzo des Cinquecento an Via dei Benci – Teil 8/9 (Y 103–106)
 
 - **Y-Bereich:** 103 bis 106
 - **Blöcke:** 1.990
@@ -3079,7 +2909,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.92 – Palazzo des Cinquecento an Via dei Benci – Teil 9/9 (Y 107–113)
+### Schritt 8.87 – Palazzo des Cinquecento an Via dei Benci – Teil 9/9 (Y 107–113)
 
 - **Y-Bereich:** 107 bis 113
 - **Blöcke:** 1.689
@@ -3108,7 +2938,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.93 – Palazzo des Cinquecento an Via dei Benci: Innenausbau – Teil 1/4 (Y 61–71)
+### Schritt 8.88 – Palazzo des Cinquecento an Via dei Benci: Innenausbau – Teil 1/4 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.629
@@ -3150,7 +2980,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.94 – Palazzo des Cinquecento an Via dei Benci: Innenausbau – Teil 2/4 (Y 72–79)
+### Schritt 8.89 – Palazzo des Cinquecento an Via dei Benci: Innenausbau – Teil 2/4 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.614
@@ -3194,7 +3024,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.95 – Palazzo des Cinquecento an Via dei Benci: Innenausbau – Teil 3/4 (Y 80–87)
+### Schritt 8.90 – Palazzo des Cinquecento an Via dei Benci: Innenausbau – Teil 3/4 (Y 80–87)
 
 - **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.618
@@ -3238,7 +3068,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.96 – Palazzo des Cinquecento an Via dei Benci: Innenausbau – Teil 4/4 (Y 88–97)
+### Schritt 8.91 – Palazzo des Cinquecento an Via dei Benci: Innenausbau – Teil 4/4 (Y 88–97)
 
 - **Y-Bereich:** 88 bis 97
 - **Blöcke:** 1.576
@@ -3282,7 +3112,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.97 – Palazzo Alberti – Teil 1/4 (Y 61–68)
+### Schritt 8.92 – Palazzo Alberti – Teil 1/4 (Y 61–68)
 
 - **Y-Bereich:** 61 bis 68
 - **Blöcke:** 1.965
@@ -3313,7 +3143,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.98 – Palazzo Alberti – Teil 2/4 (Y 69–81)
+### Schritt 8.93 – Palazzo Alberti – Teil 2/4 (Y 69–81)
 
 - **Y-Bereich:** 69 bis 81
 - **Blöcke:** 2.043
@@ -3345,7 +3175,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.99 – Palazzo Alberti – Teil 3/4 (Y 82–94)
+### Schritt 8.94 – Palazzo Alberti – Teil 3/4 (Y 82–94)
 
 - **Y-Bereich:** 82 bis 94
 - **Blöcke:** 2.026
@@ -3377,7 +3207,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.100 – Palazzo Alberti – Teil 4/4 (Y 95–105)
+### Schritt 8.95 – Palazzo Alberti – Teil 4/4 (Y 95–105)
 
 - **Y-Bereich:** 95 bis 105
 - **Blöcke:** 1.988
@@ -3410,7 +3240,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.101 – Palazzo Alberti: Innenausbau – Teil 1/2 (Y 61–79)
+### Schritt 8.96 – Palazzo Alberti: Innenausbau – Teil 1/2 (Y 61–79)
 
 - **Y-Bereich:** 61 bis 79
 - **Blöcke:** 887
@@ -3450,7 +3280,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.102 – Palazzo Alberti: Innenausbau – Teil 2/2 (Y 80–90)
+### Schritt 8.97 – Palazzo Alberti: Innenausbau – Teil 2/2 (Y 80–90)
 
 - **Y-Bereich:** 80 bis 90
 - **Blöcke:** 1.630
@@ -3490,7 +3320,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.103 – Palazzo Mellini-Fossi – Teil 1/7 (Y 62–62)
+### Schritt 8.98 – Palazzo Mellini-Fossi – Teil 1/7 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.089
@@ -3518,7 +3348,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.104 – Palazzo Mellini-Fossi – Teil 2/7 (Y 62–65)
+### Schritt 8.99 – Palazzo Mellini-Fossi – Teil 2/7 (Y 62–65)
 
 - **Y-Bereich:** 62 bis 65
 - **Blöcke:** 2.086
@@ -3549,7 +3379,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.105 – Palazzo Mellini-Fossi – Teil 3/7 (Y 66–72)
+### Schritt 8.100 – Palazzo Mellini-Fossi – Teil 3/7 (Y 66–72)
 
 - **Y-Bereich:** 66 bis 72
 - **Blöcke:** 2.084
@@ -3582,7 +3412,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.106 – Palazzo Mellini-Fossi – Teil 4/7 (Y 73–78)
+### Schritt 8.101 – Palazzo Mellini-Fossi – Teil 4/7 (Y 73–78)
 
 - **Y-Bereich:** 73 bis 78
 - **Blöcke:** 1.853
@@ -3614,7 +3444,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.107 – Palazzo Mellini-Fossi – Teil 5/7 (Y 79–84)
+### Schritt 8.102 – Palazzo Mellini-Fossi – Teil 5/7 (Y 79–84)
 
 - **Y-Bereich:** 79 bis 84
 - **Blöcke:** 1.910
@@ -3646,7 +3476,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.108 – Palazzo Mellini-Fossi – Teil 6/7 (Y 85–86)
+### Schritt 8.103 – Palazzo Mellini-Fossi – Teil 6/7 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.512
@@ -3677,7 +3507,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.109 – Palazzo Mellini-Fossi – Teil 7/7 (Y 87–94)
+### Schritt 8.104 – Palazzo Mellini-Fossi – Teil 7/7 (Y 87–94)
 
 - **Y-Bereich:** 87 bis 94
 - **Blöcke:** 2.030
@@ -3706,7 +3536,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.110 – Palazzo Mellini-Fossi: Innenausbau – Teil 1/2 (Y 62–72)
+### Schritt 8.105 – Palazzo Mellini-Fossi: Innenausbau – Teil 1/2 (Y 62–72)
 
 - **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.981
@@ -3748,7 +3578,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.111 – Palazzo Mellini-Fossi: Innenausbau – Teil 2/2 (Y 73–79)
+### Schritt 8.106 – Palazzo Mellini-Fossi: Innenausbau – Teil 2/2 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.956
@@ -3792,7 +3622,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.112 – Reihenhaus an Piazza di Santa Croce – Teil 1/3 (Y 62–72)
+### Schritt 8.107 – Reihenhaus an Piazza di Santa Croce – Teil 1/3 (Y 62–72)
 
 - **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.948
@@ -3825,7 +3655,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.113 – Reihenhaus an Piazza di Santa Croce – Teil 2/3 (Y 73–86)
+### Schritt 8.108 – Reihenhaus an Piazza di Santa Croce – Teil 2/3 (Y 73–86)
 
 - **Y-Bereich:** 73 bis 86
 - **Blöcke:** 2.022
@@ -3856,7 +3686,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.114 – Reihenhaus an Piazza di Santa Croce – Teil 3/3 (Y 87–98)
+### Schritt 8.109 – Reihenhaus an Piazza di Santa Croce – Teil 3/3 (Y 87–98)
 
 - **Y-Bereich:** 87 bis 98
 - **Blöcke:** 1.873
@@ -3889,7 +3719,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.115 – Reihenhaus an Piazza di Santa Croce: Innenausbau
+### Schritt 8.110 – Reihenhaus an Piazza di Santa Croce: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.341
@@ -3929,7 +3759,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.116 – Reihenhaus an Borgo Santa Croce – Teil 1/3 (Y 61–72)
+### Schritt 8.111 – Reihenhaus an Borgo Santa Croce – Teil 1/3 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.590
@@ -3962,7 +3792,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.117 – Reihenhaus an Borgo Santa Croce – Teil 2/3 (Y 73–91)
+### Schritt 8.112 – Reihenhaus an Borgo Santa Croce – Teil 2/3 (Y 73–91)
 
 - **Y-Bereich:** 73 bis 91
 - **Blöcke:** 1.581
@@ -3993,7 +3823,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.118 – Reihenhaus an Borgo Santa Croce – Teil 3/3 (Y 92–105)
+### Schritt 8.113 – Reihenhaus an Borgo Santa Croce – Teil 3/3 (Y 92–105)
 
 - **Y-Bereich:** 92 bis 105
 - **Blöcke:** 1.638
@@ -4026,7 +3856,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.119 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–77)
+### Schritt 8.114 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.349
@@ -4066,7 +3896,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.120 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 78–92)
+### Schritt 8.115 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 78–92)
 
 - **Y-Bereich:** 78 bis 92
 - **Blöcke:** 1.351
@@ -4106,7 +3936,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.121 – Reihenhaus an Piazza di Santa Croce – Teil 1/7 (Y 61–61)
+### Schritt 8.116 – Reihenhaus an Piazza di Santa Croce – Teil 1/7 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.680
@@ -4134,7 +3964,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.122 – Reihenhaus an Piazza di Santa Croce – Teil 2/7 (Y 62–68)
+### Schritt 8.117 – Reihenhaus an Piazza di Santa Croce – Teil 2/7 (Y 62–68)
 
 - **Y-Bereich:** 62 bis 68
 - **Blöcke:** 1.512
@@ -4166,7 +3996,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.123 – Reihenhaus an Piazza di Santa Croce – Teil 3/7 (Y 69–75)
+### Schritt 8.118 – Reihenhaus an Piazza di Santa Croce – Teil 3/7 (Y 69–75)
 
 - **Y-Bereich:** 69 bis 75
 - **Blöcke:** 1.549
@@ -4197,7 +4027,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.124 – Reihenhaus an Piazza di Santa Croce – Teil 4/7 (Y 76–82)
+### Schritt 8.119 – Reihenhaus an Piazza di Santa Croce – Teil 4/7 (Y 76–82)
 
 - **Y-Bereich:** 76 bis 82
 - **Blöcke:** 1.549
@@ -4228,7 +4058,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.125 – Reihenhaus an Piazza di Santa Croce – Teil 5/7 (Y 83–88)
+### Schritt 8.120 – Reihenhaus an Piazza di Santa Croce – Teil 5/7 (Y 83–88)
 
 - **Y-Bereich:** 83 bis 88
 - **Blöcke:** 1.460
@@ -4259,7 +4089,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.126 – Reihenhaus an Piazza di Santa Croce – Teil 6/7 (Y 89–92)
+### Schritt 8.121 – Reihenhaus an Piazza di Santa Croce – Teil 6/7 (Y 89–92)
 
 - **Y-Bereich:** 89 bis 92
 - **Blöcke:** 1.759
@@ -4289,7 +4119,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.127 – Reihenhaus an Piazza di Santa Croce – Teil 7/7 (Y 93–99)
+### Schritt 8.122 – Reihenhaus an Piazza di Santa Croce – Teil 7/7 (Y 93–99)
 
 - **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.453
@@ -4318,7 +4148,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.128 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 1/3 (Y 61–70)
+### Schritt 8.123 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.499
@@ -4356,7 +4186,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.129 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 2/3 (Y 71–77)
+### Schritt 8.124 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 2/3 (Y 71–77)
 
 - **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.487
@@ -4396,7 +4226,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.130 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 3/3 (Y 78–85)
+### Schritt 8.125 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 3/3 (Y 78–85)
 
 - **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.496
@@ -4436,7 +4266,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.131 – Reihenhaus an Borgo Santa Croce – Teil 1/4 (Y 61–67)
+### Schritt 8.126 – Reihenhaus an Borgo Santa Croce – Teil 1/4 (Y 61–67)
 
 - **Y-Bereich:** 61 bis 67
 - **Blöcke:** 1.650
@@ -4469,7 +4299,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.132 – Reihenhaus an Borgo Santa Croce – Teil 2/4 (Y 68–77)
+### Schritt 8.127 – Reihenhaus an Borgo Santa Croce – Teil 2/4 (Y 68–77)
 
 - **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.772
@@ -4501,7 +4331,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.133 – Reihenhaus an Borgo Santa Croce – Teil 3/4 (Y 78–86)
+### Schritt 8.128 – Reihenhaus an Borgo Santa Croce – Teil 3/4 (Y 78–86)
 
 - **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.592
@@ -4532,7 +4362,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.134 – Reihenhaus an Borgo Santa Croce – Teil 4/4 (Y 87–97)
+### Schritt 8.129 – Reihenhaus an Borgo Santa Croce – Teil 4/4 (Y 87–97)
 
 - **Y-Bereich:** 87 bis 97
 - **Blöcke:** 1.734
@@ -4565,7 +4395,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.135 – Reihenhaus an Borgo Santa Croce: Innenausbau
+### Schritt 8.130 – Reihenhaus an Borgo Santa Croce: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.529
@@ -4607,7 +4437,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.136 – Reihenhaus an Piazza di Santa Croce – Teil 1/2 (Y 62–80)
+### Schritt 8.131 – Reihenhaus an Piazza di Santa Croce – Teil 1/2 (Y 62–80)
 
 - **Y-Bereich:** 62 bis 80
 - **Blöcke:** 2.040
@@ -4640,7 +4470,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.137 – Reihenhaus an Piazza di Santa Croce – Teil 2/2 (Y 81–98)
+### Schritt 8.132 – Reihenhaus an Piazza di Santa Croce – Teil 2/2 (Y 81–98)
 
 - **Y-Bereich:** 81 bis 98
 - **Blöcke:** 2.090
@@ -4673,7 +4503,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.138 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 1/2 (Y 62–77)
+### Schritt 8.133 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 804
@@ -4713,7 +4543,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.139 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 2/2 (Y 78–86)
+### Schritt 8.134 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 2/2 (Y 78–86)
 
 - **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.482
@@ -4753,7 +4583,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.140 – Reihenhaus an Piazza di Santa Croce – Teil 1/8 (Y 62–62)
+### Schritt 8.135 – Reihenhaus an Piazza di Santa Croce – Teil 1/8 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.656
@@ -4781,7 +4611,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.141 – Reihenhaus an Piazza di Santa Croce – Teil 2/8 (Y 63–66)
+### Schritt 8.136 – Reihenhaus an Piazza di Santa Croce – Teil 2/8 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.262
@@ -4811,7 +4641,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.142 – Reihenhaus an Piazza di Santa Croce – Teil 3/8 (Y 67–70)
+### Schritt 8.137 – Reihenhaus an Piazza di Santa Croce – Teil 3/8 (Y 67–70)
 
 - **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.242
@@ -4841,7 +4671,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.143 – Reihenhaus an Piazza di Santa Croce – Teil 4/8 (Y 71–75)
+### Schritt 8.138 – Reihenhaus an Piazza di Santa Croce – Teil 4/8 (Y 71–75)
 
 - **Y-Bereich:** 71 bis 75
 - **Blöcke:** 1.559
@@ -4871,7 +4701,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.144 – Reihenhaus an Piazza di Santa Croce – Teil 5/8 (Y 76–79)
+### Schritt 8.139 – Reihenhaus an Piazza di Santa Croce – Teil 5/8 (Y 76–79)
 
 - **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.294
@@ -4901,7 +4731,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.145 – Reihenhaus an Piazza di Santa Croce – Teil 6/8 (Y 80–84)
+### Schritt 8.140 – Reihenhaus an Piazza di Santa Croce – Teil 6/8 (Y 80–84)
 
 - **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.553
@@ -4932,7 +4762,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.146 – Reihenhaus an Piazza di Santa Croce – Teil 7/8 (Y 85–86)
+### Schritt 8.141 – Reihenhaus an Piazza di Santa Croce – Teil 7/8 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.762
@@ -4962,7 +4792,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.147 – Reihenhaus an Piazza di Santa Croce – Teil 8/8 (Y 87–92)
+### Schritt 8.142 – Reihenhaus an Piazza di Santa Croce – Teil 8/8 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.123
@@ -4991,7 +4821,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.148 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 1/2 (Y 62–71)
+### Schritt 8.143 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 1/2 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.388
@@ -5031,7 +4861,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.149 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 2/2 (Y 72–79)
+### Schritt 8.144 – Reihenhaus an Piazza di Santa Croce: Innenausbau – Teil 2/2 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.386
@@ -5073,7 +4903,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.150 – Renaissance-Palazzo an Borgo Santa Croce – Teil 1/11 (Y 61–61)
+### Schritt 8.145 – Renaissance-Palazzo an Borgo Santa Croce – Teil 1/11 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 2.083
@@ -5101,7 +4931,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.151 – Renaissance-Palazzo an Borgo Santa Croce – Teil 2/11 (Y 62–64)
+### Schritt 8.146 – Renaissance-Palazzo an Borgo Santa Croce – Teil 2/11 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.491
@@ -5132,7 +4962,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.152 – Renaissance-Palazzo an Borgo Santa Croce – Teil 3/11 (Y 65–68)
+### Schritt 8.147 – Renaissance-Palazzo an Borgo Santa Croce – Teil 3/11 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.670
@@ -5164,7 +4994,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.153 – Renaissance-Palazzo an Borgo Santa Croce – Teil 4/11 (Y 69–72)
+### Schritt 8.148 – Renaissance-Palazzo an Borgo Santa Croce – Teil 4/11 (Y 69–72)
 
 - **Y-Bereich:** 69 bis 72
 - **Blöcke:** 2.038
@@ -5196,7 +5026,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.154 – Renaissance-Palazzo an Borgo Santa Croce – Teil 5/11 (Y 73–75)
+### Schritt 8.149 – Renaissance-Palazzo an Borgo Santa Croce – Teil 5/11 (Y 73–75)
 
 - **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.441
@@ -5227,7 +5057,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.155 – Renaissance-Palazzo an Borgo Santa Croce – Teil 6/11 (Y 76–79)
+### Schritt 8.150 – Renaissance-Palazzo an Borgo Santa Croce – Teil 6/11 (Y 76–79)
 
 - **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.754
@@ -5258,7 +5088,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.156 – Renaissance-Palazzo an Borgo Santa Croce – Teil 7/11 (Y 80–82)
+### Schritt 8.151 – Renaissance-Palazzo an Borgo Santa Croce – Teil 7/11 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.569
@@ -5288,7 +5118,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.157 – Renaissance-Palazzo an Borgo Santa Croce – Teil 8/11 (Y 83–86)
+### Schritt 8.152 – Renaissance-Palazzo an Borgo Santa Croce – Teil 8/11 (Y 83–86)
 
 - **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.814
@@ -5319,7 +5149,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.158 – Renaissance-Palazzo an Borgo Santa Croce – Teil 9/11 (Y 87–90)
+### Schritt 8.153 – Renaissance-Palazzo an Borgo Santa Croce – Teil 9/11 (Y 87–90)
 
 - **Y-Bereich:** 87 bis 90
 - **Blöcke:** 2.009
@@ -5351,7 +5181,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.159 – Renaissance-Palazzo an Borgo Santa Croce – Teil 10/11 (Y 91–92)
+### Schritt 8.154 – Renaissance-Palazzo an Borgo Santa Croce – Teil 10/11 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.834
@@ -5383,7 +5213,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.160 – Renaissance-Palazzo an Borgo Santa Croce – Teil 11/11 (Y 93–100)
+### Schritt 8.155 – Renaissance-Palazzo an Borgo Santa Croce – Teil 11/11 (Y 93–100)
 
 - **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.728
@@ -5412,7 +5242,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.161 – Renaissance-Palazzo an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 8.156 – Renaissance-Palazzo an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.671
@@ -5454,7 +5284,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.162 – Renaissance-Palazzo an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 8.157 – Renaissance-Palazzo an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 73–82)
 
 - **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.666
@@ -5498,7 +5328,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.163 – Reihenhaus an Borgo Santa Croce – Teil 1/4 (Y 61–67)
+### Schritt 8.158 – Reihenhaus an Borgo Santa Croce – Teil 1/4 (Y 61–67)
 
 - **Y-Bereich:** 61 bis 67
 - **Blöcke:** 1.617
@@ -5532,7 +5362,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.164 – Reihenhaus an Borgo Santa Croce – Teil 2/4 (Y 68–77)
+### Schritt 8.159 – Reihenhaus an Borgo Santa Croce – Teil 2/4 (Y 68–77)
 
 - **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.466
@@ -5564,7 +5394,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.165 – Reihenhaus an Borgo Santa Croce – Teil 3/4 (Y 78–88)
+### Schritt 8.160 – Reihenhaus an Borgo Santa Croce – Teil 3/4 (Y 78–88)
 
 - **Y-Bereich:** 78 bis 88
 - **Blöcke:** 1.599
@@ -5595,7 +5425,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.166 – Reihenhaus an Borgo Santa Croce – Teil 4/4 (Y 89–97)
+### Schritt 8.161 – Reihenhaus an Borgo Santa Croce – Teil 4/4 (Y 89–97)
 
 - **Y-Bereich:** 89 bis 97
 - **Blöcke:** 1.542
@@ -5626,7 +5456,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.167 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 8.162 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 746
@@ -5668,7 +5498,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.168 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 77–85)
+### Schritt 8.163 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.361
@@ -5710,7 +5540,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.169 – Haus w482503646 – Teil 1/2 (Y 62–79)
+### Schritt 8.164 – Haus w482503646 – Teil 1/2 (Y 62–79)
 
 - **Y-Bereich:** 62 bis 79
 - **Blöcke:** 1.317
@@ -5743,7 +5573,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.170 – Haus w482503646 – Teil 2/2 (Y 80–95)
+### Schritt 8.165 – Haus w482503646 – Teil 2/2 (Y 80–95)
 
 - **Y-Bereich:** 80 bis 95
 - **Blöcke:** 1.366
@@ -5775,7 +5605,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.171 – Haus w482503646: Innenausbau
+### Schritt 8.166 – Haus w482503646: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 399
@@ -5815,7 +5645,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.172 – Reihenhaus an Borgo Santa Croce – Teil 1/2 (Y 62–78)
+### Schritt 8.167 – Reihenhaus an Borgo Santa Croce – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.499
@@ -5848,7 +5678,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.173 – Reihenhaus an Borgo Santa Croce – Teil 2/2 (Y 79–94)
+### Schritt 8.168 – Reihenhaus an Borgo Santa Croce – Teil 2/2 (Y 79–94)
 
 - **Y-Bereich:** 79 bis 94
 - **Blöcke:** 1.486
@@ -5879,7 +5709,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.174 – Reihenhaus an Borgo Santa Croce: Innenausbau & Reihenhaus an Borgo Santa Croce – Teil 1/4 (Y 61–66)
+### Schritt 8.169 – Reihenhaus an Borgo Santa Croce: Innenausbau & Reihenhaus an Borgo Santa Croce – Teil 1/4 (Y 61–66)
 
 - **Y-Bereich:** 61 bis 66
 - **Blöcke:** 1.697
@@ -5912,7 +5742,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.175 – Reihenhaus an Borgo Santa Croce – Teil 2/4 (Y 67–77)
+### Schritt 8.170 – Reihenhaus an Borgo Santa Croce – Teil 2/4 (Y 67–77)
 
 - **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.763
@@ -5943,7 +5773,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.176 – Reihenhaus an Borgo Santa Croce – Teil 3/4 (Y 78–88)
+### Schritt 8.171 – Reihenhaus an Borgo Santa Croce – Teil 3/4 (Y 78–88)
 
 - **Y-Bereich:** 78 bis 88
 - **Blöcke:** 1.738
@@ -5973,7 +5803,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.177 – Reihenhaus an Borgo Santa Croce – Teil 4/4 (Y 89–97)
+### Schritt 8.172 – Reihenhaus an Borgo Santa Croce – Teil 4/4 (Y 89–97)
 
 - **Y-Bereich:** 89 bis 97
 - **Blöcke:** 1.755
@@ -6005,7 +5835,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.178 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 8.173 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 866
@@ -6045,7 +5875,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.179 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 77–85)
+### Schritt 8.174 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.602
@@ -6085,7 +5915,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.180 – Reihenhaus an Borgo Santa Croce – Teil 1/3 (Y 61–69)
+### Schritt 8.175 – Reihenhaus an Borgo Santa Croce – Teil 1/3 (Y 61–69)
 
 - **Y-Bereich:** 61 bis 69
 - **Blöcke:** 1.902
@@ -6118,7 +5948,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.181 – Reihenhaus an Borgo Santa Croce – Teil 2/3 (Y 70–87)
+### Schritt 8.176 – Reihenhaus an Borgo Santa Croce – Teil 2/3 (Y 70–87)
 
 - **Y-Bereich:** 70 bis 87
 - **Blöcke:** 1.780
@@ -6149,7 +5979,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.182 – Reihenhaus an Borgo Santa Croce – Teil 3/3 (Y 88–95)
+### Schritt 8.177 – Reihenhaus an Borgo Santa Croce – Teil 3/3 (Y 88–95)
 
 - **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.922
@@ -6182,7 +6012,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.183 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 8.178 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.065
@@ -6222,7 +6052,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.184 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 77–85)
+### Schritt 8.179 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.890
@@ -6262,7 +6092,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.185 – Reihenhaus an Borgo Santa Croce – Teil 1/2 (Y 61–78)
+### Schritt 8.180 – Reihenhaus an Borgo Santa Croce – Teil 1/2 (Y 61–78)
 
 - **Y-Bereich:** 61 bis 78
 - **Blöcke:** 1.486
@@ -6294,7 +6124,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.186 – Reihenhaus an Borgo Santa Croce – Teil 2/2 (Y 79–97)
+### Schritt 8.181 – Reihenhaus an Borgo Santa Croce – Teil 2/2 (Y 79–97)
 
 - **Y-Bereich:** 79 bis 97
 - **Blöcke:** 1.491
@@ -6326,7 +6156,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.187 – Reihenhaus an Borgo Santa Croce: Innenausbau
+### Schritt 8.182 – Reihenhaus an Borgo Santa Croce: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.248
@@ -6368,7 +6198,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.188 – Reihenhaus an Borgo Santa Croce – Teil 1/3 (Y 61–73)
+### Schritt 8.183 – Reihenhaus an Borgo Santa Croce – Teil 1/3 (Y 61–73)
 
 - **Y-Bereich:** 61 bis 73
 - **Blöcke:** 1.544
@@ -6399,7 +6229,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.189 – Reihenhaus an Borgo Santa Croce – Teil 2/3 (Y 74–92)
+### Schritt 8.184 – Reihenhaus an Borgo Santa Croce – Teil 2/3 (Y 74–92)
 
 - **Y-Bereich:** 74 bis 92
 - **Blöcke:** 1.589
@@ -6429,7 +6259,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.190 – Reihenhaus an Borgo Santa Croce – Teil 3/3 (Y 93–104)
+### Schritt 8.185 – Reihenhaus an Borgo Santa Croce – Teil 3/3 (Y 93–104)
 
 - **Y-Bereich:** 93 bis 104
 - **Blöcke:** 1.492
@@ -6461,7 +6291,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.191 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–77)
+### Schritt 8.186 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.107
@@ -6501,10 +6331,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.192 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 78–92) & Straßenschilder
+### Schritt 8.187 – Reihenhaus an Borgo Santa Croce: Innenausbau – Teil 2/2 (Y 78–92) & Straßenschilder
 
 - **Y-Bereich:** 68 bis 92
-- **Blöcke:** 1.115
+- **Blöcke:** 1.113
 - **Bauteile:** `w482503673_innen`, `strassenschilder`
 
 **Teileliste**
@@ -6520,8 +6350,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 8 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
