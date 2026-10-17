@@ -1,57 +1,62 @@
 {
   "id": "r1588974",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "zweckbau",
+  "epoche": "1959-67, Brutalismus (Giovanni Michelucci)",
   "geschosse": [
     {
       "art": "eg",
       "hoeheBl": 11
     },
     {
-      "art": "nobile",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 8
-    },
-    {
       "art": "og",
       "hoeheBl": 9
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 10,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "grau",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "loggia_offen",
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_forte",
-      "laeden": null
+      "typ": "rechteck",
+      "rahmen": "keiner",
+      "laeden": false
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 3
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "sockel_kalkstein_san_giuliano",
+      "sichtbeton_obergeschosse",
+      "galerie_mit_pfeilern_pietrapiana",
+      "versetzte_baukoerper",
+      "aluminiumrahmen_bronzeton"
+    ]
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Sede_della_Direzione_provinciale_delle_Poste_e_Telegrafi_di_Firenze",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Postdirektion von Giovanni Michelucci (1959-67), brutalistisch, Sockel mit San-Giuliano-Kalkstein, darüber Sichtbeton, EG mit innerer Galerie hinter massiven Pfeilern entlang der Via Pietrapiana, Sockel springt an der Ecke vor, drei weitere Geschosse über dem ersten Bürogeschoss, bewegte Fronten mit Versätzen. Annahme: Putz grau als Betonersatz, Achsen, Dachform flach.",
   "name": "Sede della Direzione provinciale delle Poste e Telegrafi"
 }

@@ -1,49 +1,57 @@
 {
   "id": "w307106626",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "Renaissance, Umbauten ab 1518 (Matteo di Matteo Borgianni); Arbeiten des 19. Jh. im Renaissancestil",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 5,
+    "material": "putz",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "bossenportal_kunststein",
+      "gurtgesimse_stein",
+      "wappen_pagni_torelli"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Borgianni",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Fassade mit deutlich renaissancezeitlichem Gepräge, EG und drei Obergeschosse, fünf Achsen in den Obergeschossen mit Rundbogenfenstern in profilierten Steinrahmen, Steingurtgesimse, verputztes EG mit Portal des 16. Jh. (Bossen aus Kunststein) zwischen zwei gerahmten Rechteckfenstern, Wappen Pagni und Torelli am Gitter des Androne. Annahme: Putzfarbe, Gesims, Dachform.",
   "name": "Palazzo Borgianni"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w307277595",
   "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "epoche": "Fassade vermutlich frühes 20. Jh. umgestaltet",
   "geschosse": [
     {
       "art": "eg",
@@ -24,29 +24,31 @@
     "kanten": "strasse",
     "achsen": 2,
     "material": "putz",
-    "putzfarbe": "terrakotta",
+    "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "bottega_arcata",
       "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "rahmen": "keiner",
+      "laeden": null
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "kunststein_fenster_1og"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_Francioni_Pampaloni",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Fassade ohne besondere Vorzüge, vermutlich in den ersten Jahrzehnten des 20. Jh. umgestaltet, vier Stockwerke, zwei Fenster im 1. Obergeschoss in Kunststein eingefasst. Annahme: alle übrigen Merkmale.",
   "name": "Casa Francioni Pampaloni"
 }

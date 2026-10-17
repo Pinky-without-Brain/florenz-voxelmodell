@@ -21,35 +21,35 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 57.591 | 31,1 % |
+| Terrakotta | `terracotta` | 57.589 | 31,1 % |
 | Weißer Beton | `white_concrete` | 17.764 | 9,6 % |
 | Polierter Tuffstein | `polished_tuff` | 17.651 | 9,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 17.098 | 9,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 17.106 | 9,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 15.039 | 8,1 % |
 | Gelbe Keramik | `yellow_terracotta` | 12.375 | 6,7 % |
 | Endsteinziegel | `end_stone_bricks` | 11.566 | 6,3 % |
 | Tuffstein | `tuff` | 6.950 | 3,8 % |
-| Polierter Andesit | `polished_andesite` | 5.285 | 2,9 % |
-| Graues Buntglas | `gray_stained_glass` | 5.054 | 2,7 % |
+| Glatter Stein | `smooth_stone` | 5.448 | 2,9 % |
+| Graues Buntglas | `gray_stained_glass` | 5.048 | 2,7 % |
 | Rosa Keramik | `pink_terracotta` | 4.896 | 2,6 % |
-| Glatter Stein | `smooth_stone` | 4.837 | 2,6 % |
+| Polierter Andesit | `polished_andesite` | 4.674 | 2,5 % |
 | Orange Keramik | `orange_terracotta` | 2.096 | 1,1 % |
 | Grüner Beton | `green_concrete` | 1.383 | 0,7 % |
 | Ziegelsteine | `bricks` | 1.115 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.056 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 940 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 606 | 0,3 % |
-| Seelaterne | `sea_lantern` | 341 | 0,2 % |
+| Seelaterne | `sea_lantern` | 343 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 212 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 196 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 165 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 153 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 146 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 146 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 66 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 62 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 58 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 84 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 78 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 36 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
@@ -61,7 +61,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 726 |
-| Steintreppe | `stone_stairs` | 244 |
+| Steintreppe | `stone_stairs` | 242 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -72,8 +72,8 @@
 | 2 | `r7061808_innen` | Palazzo des Ottocento an Borgo della Stella: Innenausbau | 3.548 | 6.11–6.12 |
 | 3 | `w118416115` | Palazzo des Cinquecento an Borgo della Stella | 15.863 | 6.13–6.23 |
 | 4 | `w118416115_innen` | Palazzo des Cinquecento an Borgo della Stella: Innenausbau | 2.312 | 6.24–6.25 |
-| 5 | `w306378565` | Chiesa di Santa Monica | 8.398 | 6.26–6.30 |
-| 6 | `w306378565_innen` | Chiesa di Santa Monica: Innenausbau | 1.370 | 6.31 |
+| 5 | `w306378565` | Chiesa di Santa Monica | 8.402 | 6.26–6.30 |
+| 6 | `w306378565_innen` | Chiesa di Santa Monica: Innenausbau | 1.366 | 6.31 |
 | 7 | `w479743935` | Reihenhaus an Via Santa Monaca | 6.040 | 6.32–6.34 |
 | 8 | `w479743935_innen` | Reihenhaus an Via Santa Monaca: Innenausbau | 1.515 | 6.35 |
 | 9 | `w479743936` | Palazzo des Cinquecento an Piazza del Carmine | 19.230 | 6.36–6.46 |
@@ -953,12 +953,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 859 |
 | Hellgrauer Beton | `light_gray_concrete` | 753 |
-| Polierter Andesit | `polished_andesite` | 77 |
+| Glatter Stein | `smooth_stone` | 77 |
 | Graues Buntglas | `gray_stained_glass` | 19 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1447, Renaissance; Türflügel um 1590), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Monica_(Firenze), Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -970,7 +970,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.27 – Chiesa di Santa Monica – Teil 2/5 (Y 63–70)
 
@@ -982,13 +982,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.483 |
-| Polierter Andesit | `polished_andesite` | 126 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.477 |
+| Glatter Stein | `smooth_stone` | 132 |
 | Graues Buntglas | `gray_stained_glass` | 81 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1447, Renaissance; Türflügel um 1590), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Monica_(Firenze), Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1000,25 +1000,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.28 – Chiesa di Santa Monica – Teil 3/5 (Y 71–78)
 
 - **Y-Bereich:** 71 bis 78
-- **Blöcke:** 1.727
+- **Blöcke:** 1.714
 - **Bauteile:** `w306378565`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.497 |
-| Polierter Andesit | `polished_andesite` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.410 |
+| Glatter Stein | `smooth_stone` | 202 |
+| Graues Buntglas | `gray_stained_glass` | 102 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1447, Renaissance; Türflügel um 1590), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Monica_(Firenze), Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1030,7 +1030,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.29 – Chiesa di Santa Monica – Teil 4/5 (Y 79–85)
 
@@ -1042,13 +1042,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.241 |
-| Polierter Andesit | `polished_andesite` | 181 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.282 |
+| Glatter Stein | `smooth_stone` | 140 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1447, Renaissance; Türflügel um 1590), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Monica_(Firenze), Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1060,12 +1060,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.30 – Chiesa di Santa Monica – Teil 5/5 (Y 86–94)
 
 - **Y-Bereich:** 86 bis 94
-- **Blöcke:** 1.767
+- **Blöcke:** 1.784
 - **Bauteile:** `w306378565`
 
 **Teileliste**
@@ -1073,14 +1073,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.078 |
-| Hellgrauer Beton | `light_gray_concrete` | 510 |
-| Polierter Andesit | `polished_andesite` | 81 |
+| Hellgrauer Beton | `light_gray_concrete` | 570 |
+| Glatter Stein | `smooth_stone` | 62 |
 | Ziegelsteine | `bricks` | 56 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Baubeginn 1447, Renaissance; Türflügel um 1590), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Monica_(Firenze), Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1092,29 +1092,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.31 – Chiesa di Santa Monica: Innenausbau
 
-- **Y-Bereich:** 58 bis 80
-- **Blöcke:** 1.370
+- **Y-Bereich:** 58 bis 79
+- **Blöcke:** 1.366
 - **Bauteile:** `w306378565_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.258 |
-| Glatter Stein | `smooth_stone` | 56 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
+| Terrakotta | `terracotta` | 1.256 |
+| Glatter Stein | `smooth_stone` | 54 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
+| Seelaterne | `sea_lantern` | 14 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 44 |
+| Steintreppe | `stone_stairs` | 42 |
 
 **Beschreibung**
 

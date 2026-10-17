@@ -1,7 +1,7 @@
 {
   "id": "w355356762",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "mittelalterlich (Datierung nicht belegt)",
   "geschosse": [
     {
       "art": "eg",
@@ -22,31 +22,35 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 3,
+    "achsen": 1,
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "geschlossen",
-      "fenster": "keine"
+      "art": "portal_mittig",
+      "fenster": "keine",
+      "portalBreiteBl": 6
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "geruestloecher",
+      "steintafel_hausnummer_LXXII"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Della_Bella",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Turm mit quadratischem Grundriss in die Häuserzeile eingefügt, Stein im Filaretto, großes zentrales Portal, Balkenlöcher auf mehreren Geschossen, Steintafel mit der vorneuzeitlichen Hausnummer LXXII über dem Hauptportal. Annahme: Epoche, Geschosse, Fenster, Dach.",
   "name": "Torre dei della Bella"
 }

@@ -1,49 +1,54 @@
 {
   "id": "w307544546",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "17. Jh., Barock (Gherardo Silvani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 1,
-    "material": "putz",
-    "putzfarbe": "sand",
+    "material": "stein_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "art": "loggia_offen",
+      "portalBreiteBl": 8,
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rundbogen",
-      "rahmen": "pietra_forte",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "keiner",
-      "tiefeBl": 0
+      "art": "cornicione_stein",
+      "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "portikus_drei_rundbogen_auf_saeulen",
+      "grosses_rundbogenfenster_tympanon_og",
+      "korinthische_pilaster",
+      "giebel_undekoriert"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_in_Santa_Maria_de'_Ricci",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: 17. Jh., Barock, Fassade von Gherardo Silvani, zwei durch ein Gesims getrennte Ordnungen, unten Portikus mit drei Rundbögen auf Säulen mit skulptierten Kapitellen, oben zentral ein großes Rundbogenfenster mit Tympanon auf korinthischen Pilastern, undekorierter Giebel mit kleinem rechteckigen Fenster. Annahme: Material, Gesimstiefe.",
   "name": "Chiesa di Santa Margherita in Santa Maria de' Ricci"
 }

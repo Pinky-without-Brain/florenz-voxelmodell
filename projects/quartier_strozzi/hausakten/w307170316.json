@@ -1,15 +1,15 @@
 {
   "id": "w307170316",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Renaissance, vollendet 1580 (Giovanni Antonio Dosio)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -18,32 +18,38 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 3,
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "tabernakel",
       "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "dreiecksgiebelportal_toskanische_halbsaeulen",
+      "wechselnde_dreiecks_rundgiebel_1og",
+      "wappen_giacomini_tebalducci_larderel"
+    ],
+    "marcapiano": "flach",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Larderel",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Giovanni Antonio Dosio, vollendet 1580, römisch geprägte Spätrenaissance, drei Geschosse mit je drei Öffnungen, Architekturglieder aus Pietra bigia, glatte Rustika-Ecken, Portal mit Dreiecksgiebel auf toskanischen Halbsäulen zwischen zwei Kniefenstern, im ersten Geschoss wechselnde Dreiecks- und Rundgiebel, im zweiten nur Dreiecksgiebel, Marcapiano-Gesimse, schlichtes Kranzgesims, Wappen Giacomini-Tebalducci und Larderel. Annahme: Putz zwischen den Steingliedern, Putzfarbe.",
   "name": "Palazzo Larderel"
 }

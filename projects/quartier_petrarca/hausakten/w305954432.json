@@ -1,19 +1,19 @@
 {
   "id": "w305954432",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "1893-96, Neugotik (Karmelitinnen, Teresa von Ávila)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -35,15 +35,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "neugotisch",
+      "campanile"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_Maria_Mater_Misericordiae",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Kirche 1893-96 in neugotischen Formen für die Unbeschuhten Karmelitinnen erbaut, mit Campanile; Fassadendetails nicht beschrieben. Annahme: alle Fassadenmerkmale.",
   "name": "Chiesa di Maria Mater Misericordiae"
 }

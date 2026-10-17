@@ -1,0 +1,22 @@
+{
+  "module": 2,
+  "title": "Wandmalerei und Emporen",
+  "subtitle": "Bautüte 2: Arabesken in Rot und Blau, Frauenempore auf Arkaden",
+  "icon": "🎨",
+  "parts": {
+    "wandmalerei": {
+      "title": "Wandmalerei",
+      "description": "Die Innenseiten der Wände tragen Arabesken in Rot und Blau mit Gold, als schräge Streifenmuster. Das Mosaik des Aron-Schranks folgt in der Ausstattung. Der Sockel ist Pietra serena.",
+      "tip": "Arbeite entlang der Wand und halte die Schrägen ein.",
+      "caution": "Fenster und Türen bleiben frei.",
+      "fact": "Wände mit Arabesken in Rot und Blau von Giovanni Panti, ursprünglich vergoldet (it.wikipedia). Muster vereinfacht."
+    },
+    "empore": {
+      "title": "Frauenempore",
+      "description": "Eine Empore (Matroneum) läuft über der Vorhalle und an beiden Langseiten des Hauptraums. Sie liegt auf Lage 12 über Arkaden, die Pfeiler stehen alle sechs Blöcke. Eine Brüstung aus dunklem Stein trennt sie vom Raum. Drei Öffnungen verbinden die Empore über der Vorhalle mit der Empore im Hauptraum.",
+      "tip": "Die Pfeiler zuerst, dann der Boden, zuletzt die Brüstung.",
+      "caution": "Die Brüstung ist zwei Blöcke hoch, die Empore ist von den Türmen zugänglich.",
+      "fact": "Obere Galerien (Matronei) mit schmiedeeisernen Gittern (it.wikipedia). Maße vereinfacht."
+    }
+  }
+}

@@ -1,19 +1,19 @@
 {
   "id": "r4098975",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Umbau um 1592 (Ammannati zugeschrieben); Zwischengeschoss 1830-40",
   "geschosse": [
     {
       "art": "eg",
       "hoeheBl": 9
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "nobile",
+      "hoeheBl": 9
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "mezzanin",
+      "hoeheBl": 5
     },
     {
       "art": "og",
@@ -26,28 +26,33 @@
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 5,
-      "fenster": "rechteck_vergittert"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
-      "laeden": "holz"
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "kniefenster",
+      "giebel_wechselnd_dreieck_rund",
+      "wappen_pazzi",
+      "taubenturm_torretta"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pazzi_dell'Accademia_Colombaria",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Umbau wohl 1592 (Ammannati oder Umfeld), ursprünglich drei Geschosse, 1830-40 Zwischengeschoss eingefügt (vier Geschosse); EG mit Portal und drei Kniefenstern, Giebel abwechselnd dreieckig und geschwungen, oben vier stark gerahmte Fenster mit gebrochenem Giebel, mittig Pazzi-Wappen, Taubenturm nicht von der Straße sichtbar. Annahme: Achsenzahl, Putz, Gesims, Dachform.",
   "name": "Palazzo Pazzi dell'Accademia Colombaria"
 }

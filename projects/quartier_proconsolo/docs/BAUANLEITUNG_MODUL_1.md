@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 233.220 |
+| Blöcke | 233.261 |
 | Bauschritte | 143 |
-| Y-Bereich | 60 bis 112 |
+| Y-Bereich | 60 bis 117 |
 | X-Ausdehnung | 26 bis 231 (206 Blöcke) |
 | Z-Ausdehnung | 889 bis 1104 (216 Blöcke) |
 | Kleinster Schritt | 526 Blöcke (Schritt 1.135) |
@@ -21,25 +21,25 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 75.332 | 32,3 % |
+| Terrakotta | `terracotta` | 75.360 | 32,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 24.335 | 10,4 % |
 | Polierter Tuffstein | `polished_tuff` | 20.861 | 8,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 20.061 | 8,6 % |
 | Weißer Beton | `white_concrete` | 16.898 | 7,2 % |
 | Rosa Keramik | `pink_terracotta` | 15.434 | 6,6 % |
 | Orange Keramik | `orange_terracotta` | 11.531 | 4,9 % |
-| Tuffstein | `tuff` | 10.853 | 4,7 % |
+| Tuffstein | `tuff` | 10.809 | 4,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 8.635 | 3,7 % |
 | Endsteinziegel | `end_stone_bricks` | 7.597 | 3,3 % |
 | Glatter Stein | `smooth_stone` | 4.789 | 2,1 % |
-| Graues Buntglas | `gray_stained_glass` | 4.559 | 2,0 % |
-| Polierter Andesit | `polished_andesite` | 4.455 | 1,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.026 | 0,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.140 | 0,5 % |
-| Ziegelsteine | `bricks` | 1.091 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 679 | 0,3 % |
+| Graues Buntglas | `gray_stained_glass` | 4.575 | 2,0 % |
+| Polierter Andesit | `polished_andesite` | 4.491 | 1,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.028 | 0,9 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.156 | 0,5 % |
+| Ziegelsteine | `bricks` | 1.088 | 0,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 667 | 0,3 % |
 | Grüner Beton | `green_concrete` | 521 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 466 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 468 | 0,2 % |
 | Seelaterne | `sea_lantern` | 458 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 452 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 304 | 0,1 % |
@@ -59,7 +59,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.496 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.498 |
 | Steintreppe | `stone_stairs` | 120 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -68,8 +68,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7501516` | Reihenhaus an Vicolo di San Remigio | 7.833 | 1.1–1.4 |
 | 2 | `r7501516_innen` | Reihenhaus an Vicolo di San Remigio: Innenausbau | 1.889 | 1.5 |
-| 3 | `w307129119` | Torre dei Filipetri | 11.448 | 1.6–1.11 |
-| 4 | `w307129119_innen` | Torre dei Filipetri: Innenausbau | 3.267 | 1.12–1.13 |
+| 3 | `w307129119` | Torre dei Filipetri | 11.485 | 1.6–1.11 |
+| 4 | `w307129119_innen` | Torre dei Filipetri: Innenausbau | 3.271 | 1.12–1.13 |
 | 5 | `w481445933` | Reihenhaus an Via dei Leoni | 4.962 | 1.14–1.16 |
 | 6 | `w481445933_innen` | Reihenhaus an Via dei Leoni: Innenausbau | 1.246 | 1.17 |
 | 7 | `w481445937` | Reihenhaus an Via Vinegia | 7.454 | 1.18–1.21 |
@@ -315,13 +315,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 984 |
 | Tuffstein | `tuff` | 863 |
-| Polierter Andesit | `polished_andesite` | 100 |
+| Polierter Andesit | `polished_andesite` | 92 |
 | Tuffsteinziegel | `tuff_bricks` | 51 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Trecento (Kaufmannsturm der Filipetri)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Filipetri, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -333,7 +333,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.7 – Torre dei Filipetri – Teil 2/6 (Y 67–75)
 
@@ -345,14 +345,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.604 |
-| Polierter Andesit | `polished_andesite` | 144 |
-| Tuffsteinziegel | `tuff_bricks` | 102 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
+| Tuffstein | `tuff` | 1.615 |
+| Polierter Andesit | `polished_andesite` | 146 |
+| Tuffsteinziegel | `tuff_bricks` | 99 |
+| Graues Buntglas | `gray_stained_glass` | 25 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Trecento (Kaufmannsturm der Filipetri)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Filipetri, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -364,11 +364,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.8 – Torre dei Filipetri – Teil 3/6 (Y 76–84)
 
 - **Y-Bereich:** 76 bis 84
+- **Blöcke:** 1.883
+- **Bauteile:** `w307129119`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.586 |
+| Polierter Andesit | `polished_andesite` | 168 |
+| Tuffsteinziegel | `tuff_bricks` | 84 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
+
+**Beschreibung**
+
+Wohnturm (Trecento (Kaufmannsturm der Filipetri)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Filipetri, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 1.9 – Torre dei Filipetri – Teil 4/6 (Y 85–93)
+
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 1.881
 - **Bauteile:** `w307129119`
 
@@ -376,14 +407,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.559 |
+| Tuffstein | `tuff` | 1.547 |
 | Polierter Andesit | `polished_andesite` | 189 |
-| Tuffsteinziegel | `tuff_bricks` | 79 |
+| Tuffsteinziegel | `tuff_bricks` | 91 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Trecento (Kaufmannsturm der Filipetri)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Filipetri, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -395,57 +426,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.9 – Torre dei Filipetri – Teil 4/6 (Y 85–93)
-
-- **Y-Bereich:** 85 bis 93
-- **Blöcke:** 1.883
-- **Bauteile:** `w307129119`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.573 |
-| Polierter Andesit | `polished_andesite` | 168 |
-| Tuffsteinziegel | `tuff_bricks` | 97 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.10 – Torre dei Filipetri – Teil 5/6 (Y 94–102)
 
 - **Y-Bereich:** 94 bis 102
-- **Blöcke:** 1.883
+- **Blöcke:** 1.881
 - **Bauteile:** `w307129119`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.589 |
-| Polierter Andesit | `polished_andesite` | 168 |
-| Tuffsteinziegel | `tuff_bricks` | 81 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
+| Tuffstein | `tuff` | 1.560 |
+| Polierter Andesit | `polished_andesite` | 189 |
+| Tuffsteinziegel | `tuff_bricks` | 78 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Trecento (Kaufmannsturm der Filipetri)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Filipetri, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -457,28 +457,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.11 – Torre dei Filipetri – Teil 6/6 (Y 103–112)
+### Schritt 1.11 – Torre dei Filipetri – Teil 6/6 (Y 103–117)
 
-- **Y-Bereich:** 103 bis 112
-- **Blöcke:** 1.910
+- **Y-Bereich:** 103 bis 117
+- **Blöcke:** 1.949
 - **Bauteile:** `w307129119`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.224 |
-| Tuffstein | `tuff` | 541 |
-| Ziegelsteine | `bricks` | 58 |
-| Polierter Andesit | `polished_andesite` | 51 |
-| Tuffsteinziegel | `tuff_bricks` | 27 |
-| Graues Buntglas | `gray_stained_glass` | 9 |
+| Terrakotta | `terracotta` | 1.252 |
+| Tuffstein | `tuff` | 514 |
+| Polierter Andesit | `polished_andesite` | 72 |
+| Ziegelsteine | `bricks` | 55 |
+| Tuffsteinziegel | `tuff_bricks` | 22 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
+| Fichtenholz-Bretter | `spruce_planks` | 16 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Trecento (Kaufmannsturm der Filipetri)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Filipetri, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -490,12 +491,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.12 – Torre dei Filipetri: Innenausbau – Teil 1/2 (Y 61–78)
+### Schritt 1.12 – Torre dei Filipetri: Innenausbau – Teil 1/2 (Y 61–81)
 
-- **Y-Bereich:** 61 bis 78
-- **Blöcke:** 1.633
+- **Y-Bereich:** 61 bis 81
+- **Blöcke:** 1.645
 - **Bauteile:** `w307129119_innen`
 
 **Teileliste**
@@ -503,9 +504,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.532 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 18 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 52 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 18 |
 | Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -514,7 +515,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 40 |
 
 **Beschreibung**
 
@@ -532,10 +533,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.13 – Torre dei Filipetri: Innenausbau – Teil 2/2 (Y 79–97)
+### Schritt 1.13 – Torre dei Filipetri: Innenausbau – Teil 2/2 (Y 82–98)
 
-- **Y-Bereich:** 79 bis 97
-- **Blöcke:** 1.634
+- **Y-Bereich:** 82 bis 98
+- **Blöcke:** 1.626
 - **Bauteile:** `w307129119_innen`
 
 **Teileliste**
@@ -543,8 +544,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.532 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 48 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 20 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
 | Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 4 |
@@ -554,7 +555,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 36 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
 
 **Beschreibung**
 

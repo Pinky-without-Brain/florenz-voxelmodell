@@ -1,49 +1,55 @@
 {
   "id": "w307153259",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "15. Jh. (ab ca. 1450, Michelozzo; Seitenfassaden 1920–22)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
-    "material": "putz",
-    "putzfarbe": "gelb",
+    "achsen": 7,
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "portal_mittig",
+      "portalBreiteBl": 5,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "bifora",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
-      "tiefeBl": 2
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "loggia_oben",
+      "wappen_mittig_verwittert",
+      "buchetta_del_vino",
+      "laterne_1929"
+    ],
+    "marcapiano": "vor"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_dello_Strozzino",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Baubeginn um 1450 (Michelozzo, erster Stock Giuliano da Maiano zugeschrieben), drei hohe Geschosse, sieben Achsen mit Biforen in den beiden oberen Geschossen, unregelmäßiger Pietra-forte-Bugnato unten, drei Portale an der Piazza Strozzi, Zahnschnitt-Gurtgesims, geschlossene Säulenloggia und breite Traufe an den Seitenfassaden (1920–22), großes verwittertes Wappen, Buchetta del vino. Annahme: Rahmenstein, Dachform.",
   "name": "Palazzo dello Strozzino"
 }

@@ -223,7 +223,7 @@
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -235,7 +235,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.2 – Istituto Emily Gould – Teil 2/17 (Y 61–61)
 
@@ -251,7 +251,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -263,7 +263,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.3 – Istituto Emily Gould – Teil 3/17 (Y 61–62)
 
@@ -282,7 +282,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -294,7 +294,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.4 – Istituto Emily Gould – Teil 4/17 (Y 63–64)
 
@@ -312,7 +312,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -324,7 +324,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.5 – Istituto Emily Gould – Teil 5/17 (Y 65–67)
 
@@ -343,7 +343,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -355,7 +355,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.6 – Istituto Emily Gould – Teil 6/17 (Y 68–70)
 
@@ -373,7 +373,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -385,7 +385,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.7 – Istituto Emily Gould – Teil 7/17 (Y 71–73)
 
@@ -403,7 +403,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -415,7 +415,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.8 – Istituto Emily Gould – Teil 8/17 (Y 74–76)
 
@@ -433,7 +433,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -445,7 +445,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.9 – Istituto Emily Gould – Teil 9/17 (Y 77–79)
 
@@ -463,7 +463,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -475,7 +475,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.10 – Istituto Emily Gould – Teil 10/17 (Y 80–82)
 
@@ -493,7 +493,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -505,7 +505,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.11 – Istituto Emily Gould – Teil 11/17 (Y 83–85)
 
@@ -521,7 +521,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -533,7 +533,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.12 – Istituto Emily Gould – Teil 12/17 (Y 86–88)
 
@@ -551,7 +551,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -563,7 +563,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.13 – Istituto Emily Gould – Teil 13/17 (Y 89–91)
 
@@ -581,7 +581,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -593,7 +593,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.14 – Istituto Emily Gould – Teil 14/17 (Y 92–92)
 
@@ -609,7 +609,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -621,7 +621,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.15 – Istituto Emily Gould – Teil 15/17 (Y 93–94)
 
@@ -637,7 +637,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -649,7 +649,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.16 – Istituto Emily Gould – Teil 16/17 (Y 95–95)
 
@@ -666,7 +666,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -678,7 +678,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.17 – Istituto Emily Gould – Teil 17/17 (Y 96–102)
 
@@ -695,7 +695,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (1610 geweiht (Gherardo Silvani); Front 20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Istituto_Emily_Gould, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -707,7 +707,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.18 – Istituto Emily Gould: Innenausbau – Teil 1/6 (Y 61–70)
 

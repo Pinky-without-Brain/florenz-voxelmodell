@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 139.469 |
+| Blöcke | 139.477 |
 | Bauschritte | 88 |
 | Y-Bereich | 57 bis 99 |
 | X-Ausdehnung | -1366 bis -1083 (284 Blöcke) |
@@ -21,12 +21,12 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 49.508 | 35,5 % |
+| Terrakotta | `terracotta` | 49.509 | 35,5 % |
 | Polierter Tuffstein | `polished_tuff` | 14.219 | 10,2 % |
 | Orange Keramik | `orange_terracotta` | 11.652 | 8,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 10.554 | 7,6 % |
 | Weißer Beton | `white_concrete` | 9.940 | 7,1 % |
-| Endsteinziegel | `end_stone_bricks` | 9.119 | 6,5 % |
+| Endsteinziegel | `end_stone_bricks` | 9.120 | 6,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 8.331 | 6,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 8.008 | 5,7 % |
 | Rosa Keramik | `pink_terracotta` | 6.383 | 4,6 % |
@@ -35,7 +35,7 @@
 | Glatter Stein | `smooth_stone` | 1.348 | 1,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.223 | 0,9 % |
 | Ziegelsteine | `bricks` | 1.145 | 0,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 742 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 748 | 0,5 % |
 | Grüner Beton | `green_concrete` | 732 | 0,5 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 321 | 0,2 % |
 | Seelaterne | `sea_lantern` | 311 | 0,2 % |
@@ -64,7 +64,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r6850585` | Reihenhaus an Via del Parione | 12.801 | 16.1–16.8 |
+| 1 | `r6850585` | Reihenhaus an Via del Parione | 12.803 | 16.1–16.8 |
 | 2 | `r6850585_innen` | Reihenhaus an Via del Parione: Innenausbau | 4.500 | 16.9–16.11 |
 | 3 | `r6850587` | Reihenhaus an Via del Purgatorio | 9.152 | 16.12–16.16 |
 | 4 | `r6850587_innen` | Reihenhaus an Via del Purgatorio: Innenausbau | 2.316 | 16.17–16.18 |
@@ -88,9 +88,9 @@
 | 22 | `w463879879_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 862 | 16.60 |
 | 23 | `w463879881` | Reihenhaus an Via del Parione | 2.047 | 16.61 |
 | 24 | `w463879881_innen` | Reihenhaus an Via del Parione: Innenausbau | 303 | 16.62 |
-| 25 | `w463879884` | Reihenhaus an Via del Parione | 4.780 | 16.63–16.65 |
+| 25 | `w463879884` | Reihenhaus an Via del Parione | 4.784 | 16.63–16.65 |
 | 26 | `w463879884_innen` | Reihenhaus an Via del Parione: Innenausbau | 1.968 | 16.66 |
-| 27 | `w463879895` | Reihenhaus an Via del Parione | 2.939 | 16.67–16.68 |
+| 27 | `w463879895` | Reihenhaus an Via del Parione | 2.940 | 16.67–16.68 |
 | 28 | `w463879895_innen` | Reihenhaus an Via del Parione: Innenausbau | 985 | 16.69 |
 | 29 | `w463879903` | Reihenhaus an Via del Parione | 1.097 | 16.70 |
 | 30 | `w463879903_innen` | Reihenhaus an Via del Parione: Innenausbau | 462 | 16.71 |
@@ -104,7 +104,7 @@
 | 38 | `w463879911_innen` | Reihenhaus an Via del Parione: Innenausbau | 1.368 | 16.82 |
 | 39 | `w463879915` | Reihenhaus an Via della Vigna Nuova | 1.651 | 16.83 |
 | 40 | `w463879915_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.103 | 16.84 |
-| 41 | `w463879918` | Reihenhaus an Via del Parioncino | 4.975 | 16.85–16.87 |
+| 41 | `w463879918` | Reihenhaus an Via del Parioncino | 4.976 | 16.85–16.87 |
 | 42 | `w463879918_innen` | Reihenhaus an Via del Parioncino: Innenausbau | 1.920 | 16.88 |
 | 43 | `strassenschilder` | Straßenschilder | 12 | 16.88 |
 
@@ -293,7 +293,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 16.7 – Reihenhaus an Via del Parione – Teil 7/8 (Y 88–90)
 
 - **Y-Bereich:** 88 bis 90
-- **Blöcke:** 1.640
+- **Blöcke:** 1.642
 - **Bauteile:** `r6850585`
 
 **Teileliste**
@@ -302,7 +302,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 976 |
 | Gelbe Keramik | `yellow_terracotta` | 560 |
-| Fichtenholz-Bretter | `spruce_planks` | 80 |
+| Fichtenholz-Bretter | `spruce_planks` | 82 |
 | Weißer Beton | `white_concrete` | 24 |
 
 **Beschreibung**
@@ -2295,7 +2295,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 16.65 – Reihenhaus an Via del Parione – Teil 3/3 (Y 85–96)
 
 - **Y-Bereich:** 85 bis 96
-- **Blöcke:** 1.619
+- **Blöcke:** 1.623
 - **Bauteile:** `w463879884`
 
 **Teileliste**
@@ -2305,7 +2305,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 954 |
 | Orange Keramik | `orange_terracotta` | 457 |
 | Ziegelsteine | `bricks` | 81 |
-| Fichtenholz-Bretter | `spruce_planks` | 53 |
+| Fichtenholz-Bretter | `spruce_planks` | 57 |
 | Weißer Beton | `white_concrete` | 48 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
 | Grüner Beton | `green_concrete` | 12 |
@@ -2403,7 +2403,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 16.68 – Reihenhaus an Via del Parione – Teil 2/2 (Y 75–90)
 
 - **Y-Bereich:** 75 bis 90
-- **Blöcke:** 1.477
+- **Blöcke:** 1.478
 - **Bauteile:** `w463879895`
 
 **Teileliste**
@@ -2411,7 +2411,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 730 |
-| Terrakotta | `terracotta` | 454 |
+| Terrakotta | `terracotta` | 455 |
 | Polierter Andesit | `polished_andesite` | 134 |
 | Fichtenholz-Bretter | `spruce_planks` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
@@ -3078,7 +3078,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 16.87 – Reihenhaus an Via del Parioncino – Teil 3/3 (Y 84–96)
 
 - **Y-Bereich:** 84 bis 96
-- **Blöcke:** 1.673
+- **Blöcke:** 1.674
 - **Bauteile:** `w463879918`
 
 **Teileliste**
@@ -3086,7 +3086,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 906 |
-| Endsteinziegel | `end_stone_bricks` | 639 |
+| Endsteinziegel | `end_stone_bricks` | 640 |
 | Ziegelsteine | `bricks` | 48 |
 | Graues Buntglas | `gray_stained_glass` | 44 |
 | Fichtenholz-Bretter | `spruce_planks` | 36 |

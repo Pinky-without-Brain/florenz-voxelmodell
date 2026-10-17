@@ -1,0 +1,15 @@
+{
+  "module": 3,
+  "title": "Tor und Rampe",
+  "subtitle": "Bautüte 3: Tor zur Costa San Giorgio",
+  "icon": "🚪",
+  "parts": {
+    "torweg": {
+      "title": "Tor und Rampe",
+      "description": "Das Tor (7 Blöcke breit) führt von der Via di San Leonardo durch den Wall (Tunnel mit 4 Blöcken lichter Höhe, bis zum Boden offen). Eine Stufe gleicht die Geländehöhe vor dem Tor an.",
+      "tip": "Der Tunnel ist durch alle Wandlagen offen.",
+      "caution": "Das echte Tor liegt auf der Ostseite zwischen zwei Bastionen; Lage und Rampe sind im Modell vereinfacht (kein Tonnengewölbe).",
+      "fact": "Das Portal auf der Ostseite zwischen zwei Bastionen der Kurtine trägt ein Medici-Wappen; die Rampe ist steil, mit Gradoni und Tonnengewölbe (Quelle: it.wikipedia, Forte Belvedere)."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "module": 2,
+  "title": "Hof und Innenwände",
+  "subtitle": "Bautüte 2: Hofwände und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Die Wände um den Cortile dei Fiorentini steigen bis Y 101, verputzt, mit Gesimsen auf Höhe der Geschossböden; drei Türen im Erdgeschoss führen vom Hof in die Gebäude.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Türen und Fenster frei lassen.",
+      "fact": "Der Hof „Cortile dei Fiorentini“ ist in OpenStreetMap als eigene Teilfläche erfasst; seine Gestaltung ist Stufe C."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zu den Höfen öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Trennwände teilen im Erdgeschoss den Vorderflügel in Säle, den Westflügel in drei Räume und fassen die Androne im Ostflügel ein; jede Wand hat Türen von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses.",
+      "fact": "Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst."
+    }
+  }
+}

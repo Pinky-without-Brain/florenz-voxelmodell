@@ -1,53 +1,63 @@
 {
   "id": "w307545800",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "14. Jh. (Trecento-Kern, Übergang Wohnturm zum Palazzo)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
-      "art": "nobile",
+      "art": "mezzanin",
+      "hoeheBl": 5
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
       "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_glatt",
+    "achsen": 4,
+    "material": "bugnato_abgestuft",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "steinkonsolen_via_cerchi",
+      "giugni_wappen_androne",
+      "cerchi_wappen_ecke",
+      "cerchi_turm_integriert"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni_(via_della_Condotta)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Trecento-Kern (Brand 1332), Übergang vom Wohnturm zum Palazzo, Erdgeschoss, Mezzanin und drei gleichartige Obergeschosse, Altana mit Blick auf die Piazza della Signoria, Pietra forte mit rustikalem Bugnato im Erdgeschoss, drei große Rundbögen (einer Eingang, zwei Fondaci), Monoforen, Marcapiano, Vorkragung auf Steinkonsolen an der Via de' Cerchi, vier Öffnungen pro Geschoss (Via de' Cerchi), Zinnen verloren. Annahme: Gesimsart, Rahmenstein.",
   "name": "Palazzo Giugni"
 }

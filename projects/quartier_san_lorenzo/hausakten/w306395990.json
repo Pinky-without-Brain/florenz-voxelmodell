@@ -1,49 +1,54 @@
 {
   "id": "w306395990",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "Quattrocento, 1461–66/69 (Michelozzo nicht gesichert), Fassade 1922 restauriert",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
-    "material": "putz",
-    "putzfarbe": "sand",
+    "achsen": 4,
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
-      "laeden": "gruen"
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "grobes_bugnato_erdgeschoss",
+      "portal_zweite_achse",
+      "neroni_wappen_schraegbalken_vaio"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Neroni",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Bau 1461–66 (Text: bis 1469), Michelozzo früher zugeschrieben aber nicht gesichert, drei Geschosse, vier Achsen, Erdgeschoss mit grobem Bugnato, Obergeschosse verputzt, Portal in der zweiten Achse mit ausgerichteten Quadern gerahmt, Erdgeschossfenster rechteckig in unterschiedlichen Größen, Obergeschosse Bogenfenster, Marcapiano-Gesimse, Neroni-Wappen mittig, Fassade 1922 restauriert. Annahme: Putzfarbe/Traufe.",
   "name": "Palazzo Neroni"
 }

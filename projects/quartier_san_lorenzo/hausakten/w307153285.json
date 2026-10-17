@@ -1,19 +1,19 @@
 {
   "id": "w307153285",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,15 +35,17 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "portigiani_wappen_mittig_turm_schachbrett"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Portigiani",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia (Stub): 16. Jh., von den Portigiani erbaut, drei Geschosse, Portigiani-Wappen (Turm zwischen zwei Schachbrettfeldern) mittig an der Fassade. Annahme: alle übrigen Fassadenmerkmale aus der Typologie.",
   "name": "Palazzo Portigiani"
 }

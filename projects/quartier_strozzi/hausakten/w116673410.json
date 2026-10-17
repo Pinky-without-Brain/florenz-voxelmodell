@@ -1,23 +1,27 @@
 {
   "id": "w116673410",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "romanisch (Ruggerini), 1841 stark restauriert",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 5
+    },
+    {
+      "art": "og",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
@@ -26,27 +30,34 @@
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "geschlossen",
-      "fenster": "keine"
+      "art": "bottega_arcata",
+      "fenster": "keine",
+      "portalBreiteBl": 6
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "keiner",
-      "tiefeBl": 0
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "loggia_drei_bogen_kreuzgewoelbe_backstein",
+      "zinnen_guelfisch_1841",
+      "vier_gianfigliazzi_wappen",
+      "eisenhalter_pferde_fackeln"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Gianfigliazzi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Turmhaus der Ruggerini, romanisch, 1841 stark restauriert, fünf Geschosse mit Fensterreihen, bis zum Marcapiano des ersten Obergeschosses große regelmäßige Quaderbossen, darüber Filaretto, Erdgeschoss-Loggia mit drei Bögen und sechs Backstein-Kreuzrippengewölben (heute Läden), rechteckige Fenster von 1841, Zinnen nach dem Vorbild des Palazzo Spini Feroni erneuert, vier Gianfigliazzi-Wappen. Annahme: Mauerwerk einheitlich als Bruchstein, Achsen, Flachdach hinter Zinnen.",
   "name": "Torre dei Gianfigliazzi"
 }

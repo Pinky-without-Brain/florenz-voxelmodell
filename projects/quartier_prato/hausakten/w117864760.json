@@ -1,19 +1,19 @@
 {
   "id": "w117864760",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Baubeginn 1857 (Giuseppe Poggi)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,15 +35,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "stuck_salons_erstes_geschoss",
+      "ummauerter_garten_westseite"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Calcagnini",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Baubeginn 1857 durch Giuseppe Poggi, Eingang an der Fassade und an der Rückseite, im Inneren Stuck, Bögen und Säulen, Salons im ersten Stock, ummauerter Garten mit Nebengebäude für Stallungen an der Westseite. Annahme: alle Fassadenmerkmale aus der Typologie.",
   "name": "Consolato Generale degli Stati Uniti"
 }

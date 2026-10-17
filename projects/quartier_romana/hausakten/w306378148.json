@@ -1,49 +1,54 @@
 {
   "id": "w306378148",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "16.-17. Jh. (Renaissance und Barock), nach Zerstörung 1545-47 wiedererrichtet",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 2,
+    "achsen": 3,
     "material": "putz",
     "putzfarbe": "weiss",
     "erdgeschoss": {
       "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "pietra_forte",
-      "laeden": null
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": false
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "gebrochenes_tympanon_buste_petrus",
+      "drei_fenster_oben",
+      "fassade_a_capanna",
+      "oratorio_santissimo_sacramento_daneben"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Gattolino",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Kirche des 16.-17. Jh. (Stil Renaissance und Barock), nach Zerstörung 1545-47 wiedererrichtet, schlichte Satteldachfassade (a capanna), ein einziger Eingang mit gebrochenem Tympanon und Petrus-Büste, drei Fenster im oberen Bereich. Annahme: Material, Geschosse, Gesims.",
   "name": "Chiesa di San Pier Gattolino"
 }

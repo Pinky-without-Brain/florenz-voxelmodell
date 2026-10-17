@@ -1,7 +1,7 @@
 {
   "id": "w306984417",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "zweites Jahrzehnt 18. Jh., Giovannozzo Giovannozzi; Granitsäulen 1720",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,47 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 7,
     "material": "putz",
-    "putzfarbe": "weiss",
+    "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "putzgesims",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "portal_granitsaeulen_balkon",
+      "balustrade_marmor",
+      "glatte_pilaster",
+      "wappen_troubetzkoy_19jh",
+      "cornicione_a_guscio"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Jacometti_Ciofi",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Bau im zweiten Jahrzehnt des 18. Jh. (Giovannozzo Giovannozzi), drei Stockwerke, sieben Fenster im obersten Geschoss, Portal mit zwei Granitsäulen und Marmorbalkon, je drei Fenster mit geschwungenem Giebel im EG, Pilaster, Hohlkehlgesims nach römischem Vorbild. Annahme: Putzfarbe, Fensterrahmenmaterial, Dachform.",
   "name": "Palazzo Jacometti Ciofi"
 }

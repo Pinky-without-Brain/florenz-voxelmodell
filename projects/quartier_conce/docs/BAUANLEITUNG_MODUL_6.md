@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 376.655 |
+| Blöcke | 376.579 |
 | Bauschritte | 241 |
 | Y-Bereich | 60 bis 101 |
 | X-Ausdehnung | 1101 bis 1375 (275 Blöcke) |
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 114.976 | 30,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 44.440 | 11,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 44.457 | 11,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 36.598 | 9,7 % |
 | Polierter Tuffstein | `polished_tuff` | 34.406 | 9,1 % |
 | Orange Keramik | `orange_terracotta` | 29.832 | 7,9 % |
@@ -30,15 +30,15 @@
 | Rosa Keramik | `pink_terracotta` | 20.857 | 5,5 % |
 | Endsteinziegel | `end_stone_bricks` | 19.037 | 5,1 % |
 | Tuffstein | `tuff` | 11.577 | 3,1 % |
-| Polierter Andesit | `polished_andesite` | 9.584 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 9.534 | 2,5 % |
-| Glatter Stein | `smooth_stone` | 7.834 | 2,1 % |
+| Polierter Andesit | `polished_andesite` | 9.651 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 9.472 | 2,5 % |
+| Glatter Stein | `smooth_stone` | 7.725 | 2,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 3.603 | 1,0 % |
-| Grüner Beton | `green_concrete` | 2.856 | 0,8 % |
+| Grüner Beton | `green_concrete` | 2.864 | 0,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.233 | 0,6 % |
 | Ziegelsteine | `bricks` | 2.094 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.739 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.151 | 0,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.152 | 0,3 % |
 | Seelaterne | `sea_lantern` | 698 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 508 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 478 | 0,1 % |
@@ -46,10 +46,10 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 346 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 269 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 269 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
@@ -60,14 +60,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 1.700 |
-| Steintreppe | `stone_stairs` | 120 |
+| Steintreppe | `stone_stairs` | 122 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4107574` | Ex convento di San Francesco de' Macci | 34.544 | 6.1–6.28 |
-| 2 | `r4107574_innen` | Ex convento di San Francesco de' Macci: Innenausbau | 6.859 | 6.29–6.32 |
+| 1 | `r4107574` | Ex convento di San Francesco de' Macci | 34.464 | 6.1–6.28 |
+| 2 | `r4107574_innen` | Ex convento di San Francesco de' Macci: Innenausbau | 6.863 | 6.29–6.32 |
 | 3 | `r7147245` | Renaissance-Palazzo an Via dei Macci | 25.858 | 6.33–6.47 |
 | 4 | `r7147245_innen` | Renaissance-Palazzo an Via dei Macci: Innenausbau | 4.054 | 6.48–6.49 |
 | 5 | `r7147246` | Reihenhaus an Borgo Allegri | 15.575 | 6.50–6.59 |
@@ -162,7 +162,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -174,7 +174,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.2 – Ex convento di San Francesco de' Macci – Teil 2/28 (Y 62–62)
 
@@ -190,7 +190,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -202,7 +202,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.3 – Ex convento di San Francesco de' Macci – Teil 3/28 (Y 63–63)
 
@@ -220,7 +220,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -232,26 +232,89 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.4 – Ex convento di San Francesco de' Macci – Teil 4/28 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 849
+- **Blöcke:** 809
 - **Bauteile:** `r4107574`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 735 |
-| Glatter Stein | `smooth_stone` | 109 |
+| Gelbe Keramik | `yellow_terracotta` | 801 |
+| Polierter Andesit | `polished_andesite` | 3 |
+| Glatter Stein | `smooth_stone` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.5 – Ex convento di San Francesco de' Macci – Teil 5/28 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 852
+- **Bauteile:** `r4107574`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 655 |
+| Glatter Stein | `smooth_stone` | 185 |
+| Polierter Andesit | `polished_andesite` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.6 – Ex convento di San Francesco de' Macci – Teil 6/28 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 761
+- **Bauteile:** `r4107574`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 561 |
+| Glatter Stein | `smooth_stone` | 72 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Grüner Beton | `green_concrete` | 53 |
 | Polierter Andesit | `polished_andesite` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -263,25 +326,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.5 – Ex convento di San Francesco de' Macci – Teil 5/28 (Y 65–65)
+### Schritt 6.7 – Ex convento di San Francesco de' Macci – Teil 7/28 (Y 67–68)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 880
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.522
 - **Bauteile:** `r4107574`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 660 |
-| Glatter Stein | `smooth_stone` | 208 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Gelbe Keramik | `yellow_terracotta` | 1.115 |
+| Glatter Stein | `smooth_stone` | 144 |
+| Grüner Beton | `green_concrete` | 106 |
+| Polierter Andesit | `polished_andesite` | 85 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -293,11 +359,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 6.6 – Ex convento di San Francesco de' Macci – Teil 6/28 (Y 66–66)
+### Schritt 6.8 – Ex convento di San Francesco de' Macci – Teil 8/28 (Y 69–69)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 764
 - **Bauteile:** `r4107574`
 
@@ -305,81 +371,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 571 |
-| Glatter Stein | `smooth_stone` | 69 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
-| Grüner Beton | `green_concrete` | 51 |
-| Polierter Andesit | `polished_andesite` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.7 – Ex convento di San Francesco de' Macci – Teil 7/28 (Y 67–68)
-
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.528
-- **Bauteile:** `r4107574`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.135 |
-| Glatter Stein | `smooth_stone` | 138 |
-| Graues Buntglas | `gray_stained_glass` | 136 |
-| Grüner Beton | `green_concrete` | 102 |
-| Polierter Andesit | `polished_andesite` | 15 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.8 – Ex convento di San Francesco de' Macci – Teil 8/28 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 767
-- **Bauteile:** `r4107574`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 566 |
-| Glatter Stein | `smooth_stone` | 70 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
-| Grüner Beton | `green_concrete` | 51 |
+| Gelbe Keramik | `yellow_terracotta` | 554 |
+| Glatter Stein | `smooth_stone` | 74 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Grüner Beton | `green_concrete` | 53 |
 | Polierter Andesit | `polished_andesite` | 12 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -391,7 +392,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.9 – Ex convento di San Francesco de' Macci – Teil 9/28 (Y 70–71)
 
@@ -403,14 +404,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.470 |
-| Glatter Stein | `smooth_stone` | 140 |
-| Polierter Andesit | `polished_andesite` | 19 |
+| Gelbe Keramik | `yellow_terracotta` | 1.464 |
+| Glatter Stein | `smooth_stone` | 145 |
+| Polierter Andesit | `polished_andesite` | 20 |
 | Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -422,7 +423,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.10 – Ex convento di San Francesco de' Macci – Teil 10/28 (Y 72–72)
 
@@ -439,7 +440,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -451,7 +452,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.11 – Ex convento di San Francesco de' Macci – Teil 11/28 (Y 73–74)
 
@@ -469,7 +470,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -481,7 +482,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.12 – Ex convento di San Francesco de' Macci – Teil 12/28 (Y 75–75)
 
@@ -501,7 +502,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -513,7 +514,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.13 – Ex convento di San Francesco de' Macci – Teil 13/28 (Y 76–77)
 
@@ -533,7 +534,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -545,7 +546,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.14 – Ex convento di San Francesco de' Macci – Teil 14/28 (Y 78–78)
 
@@ -565,7 +566,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -577,133 +578,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.15 – Ex convento di San Francesco de' Macci – Teil 15/28 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.587
-- **Bauteile:** `r4107574`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.228 |
-| Glatter Stein | `smooth_stone` | 217 |
-| Graues Buntglas | `gray_stained_glass` | 73 |
-| Grüner Beton | `green_concrete` | 56 |
-| Polierter Andesit | `polished_andesite` | 13 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.16 – Ex convento di San Francesco de' Macci – Teil 16/28 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 818
-- **Bauteile:** `r4107574`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 597 |
-| Glatter Stein | `smooth_stone` | 214 |
-| Polierter Andesit | `polished_andesite` | 7 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.17 – Ex convento di San Francesco de' Macci – Teil 17/28 (Y 82–83)
-
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.636
-- **Bauteile:** `r4107574`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.285 |
-| Glatter Stein | `smooth_stone` | 341 |
-| Polierter Andesit | `polished_andesite` | 10 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.18 – Ex convento di San Francesco de' Macci – Teil 18/28 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 863
-- **Bauteile:** `r4107574`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 670 |
-| Glatter Stein | `smooth_stone` | 190 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.19 – Ex convento di San Francesco de' Macci – Teil 19/28 (Y 85–86)
-
-- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.538
 - **Bauteile:** `r4107574`
 
@@ -719,7 +598,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -731,7 +610,128 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.16 – Ex convento di San Francesco de' Macci – Teil 16/28 (Y 81–82)
+
+- **Y-Bereich:** 81 bis 82
+- **Blöcke:** 1.636
+- **Bauteile:** `r4107574`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.264 |
+| Glatter Stein | `smooth_stone` | 359 |
+| Polierter Andesit | `polished_andesite` | 13 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.17 – Ex convento di San Francesco de' Macci – Teil 17/28 (Y 83–83)
+
+- **Y-Bereich:** 83 bis 83
+- **Blöcke:** 818
+- **Bauteile:** `r4107574`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 477 |
+| Glatter Stein | `smooth_stone` | 341 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.18 – Ex convento di San Francesco de' Macci – Teil 18/28 (Y 84–85)
+
+- **Y-Bereich:** 84 bis 85
+- **Blöcke:** 1.681
+- **Bauteile:** `r4107574`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.478 |
+| Glatter Stein | `smooth_stone` | 190 |
+| Polierter Andesit | `polished_andesite` | 13 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 6.19 – Ex convento di San Francesco de' Macci – Teil 19/28 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 769
+- **Bauteile:** `r4107574`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 565 |
+| Graues Buntglas | `gray_stained_glass` | 73 |
+| Glatter Stein | `smooth_stone` | 72 |
+| Grüner Beton | `green_concrete` | 56 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.20 – Ex convento di San Francesco de' Macci – Teil 20/28 (Y 87–88)
 
@@ -751,7 +751,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -763,7 +763,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.21 – Ex convento di San Francesco de' Macci – Teil 21/28 (Y 89–89)
 
@@ -783,7 +783,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -795,7 +795,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.22 – Ex convento di San Francesco de' Macci – Teil 22/28 (Y 90–91)
 
@@ -813,7 +813,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -825,7 +825,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.23 – Ex convento di San Francesco de' Macci – Teil 23/28 (Y 92–92)
 
@@ -843,7 +843,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -855,7 +855,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.24 – Ex convento di San Francesco de' Macci – Teil 24/28 (Y 93–93)
 
@@ -871,7 +871,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -883,7 +883,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.25 – Ex convento di San Francesco de' Macci – Teil 25/28 (Y 93–93)
 
@@ -899,7 +899,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -911,7 +911,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.26 – Ex convento di San Francesco de' Macci – Teil 26/28 (Y 94–94)
 
@@ -927,7 +927,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -939,7 +939,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.27 – Ex convento di San Francesco de' Macci – Teil 27/28 (Y 95–95)
 
@@ -955,7 +955,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -967,7 +967,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.28 – Ex convento di San Francesco de' Macci – Teil 28/28 (Y 96–101)
 
@@ -984,7 +984,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -996,29 +996,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 6.29 – Ex convento di San Francesco de' Macci: Innenausbau – Teil 1/4 (Y 62–72)
 
 - **Y-Bereich:** 62 bis 72
-- **Blöcke:** 1.770
+- **Blöcke:** 1.764
 - **Bauteile:** `r4107574_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.692 |
+| Terrakotta | `terracotta` | 1.684 |
 | Seelaterne | `sea_lantern` | 34 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 20 |
 
 **Beschreibung**
 
@@ -1039,22 +1039,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.30 – Ex convento di San Francesco de' Macci: Innenausbau – Teil 2/4 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.663
+- **Blöcke:** 1.669
 - **Bauteile:** `r4107574_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.651 |
+| Terrakotta | `terracotta` | 1.659 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 
@@ -1072,21 +1065,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.31 – Ex convento di San Francesco de' Macci: Innenausbau – Teil 3/4 (Y 73–82)
+### Schritt 6.31 – Ex convento di San Francesco de' Macci: Innenausbau – Teil 3/4 (Y 73–83)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.757
+- **Y-Bereich:** 73 bis 83
+- **Blöcke:** 1.755
 - **Bauteile:** `r4107574_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.692 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Terrakotta | `terracotta` | 1.684 |
+| Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -1097,7 +1090,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1116,27 +1109,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.32 – Ex convento di San Francesco de' Macci: Innenausbau – Teil 4/4 (Y 82–83)
+### Schritt 6.32 – Ex convento di San Francesco de' Macci: Innenausbau – Teil 4/4 (Y 83–84)
 
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.669
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 1.675
 - **Bauteile:** `r4107574_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.651 |
+| Terrakotta | `terracotta` | 1.659 |
 | Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 

@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Fassaden und Portikus",
+  "subtitle": "Bautüte 1: Außenwände, Portikus, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den Block bis Y 96: Putz in der Farbe von Travertin mit Bändern aus Pietra forte, im Erdgeschoss der Fronten Rustika (Sockel), Gesimse aus Pietra serena; zur Flussseite ein Säulenportikus zwischen den beiden Türmen, am Westende ein Portal der Tribuna. Gesimse trennen die Geschosse (Y 74, Y 86).",
+      "tip": "Zwei Blöcke dick: außen Putz oder Stein, innen Putz.",
+      "caution": "Lass Portale und Tore frei.",
+      "fact": "Der Stil ist eklektisch mit Einflüssen des Liberty; die Fassade zum Fluss trägt zwei Türme (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "portikus": {
+      "title": "Portikus",
+      "description": "Fünf Rundbögen auf Säulen aus Pietra serena öffnen den Portikus an der Piazza dei Cavalleggeri; die Bögen reichen bis zum Boden, darüber trägt ein Gesims das Obergeschoss.",
+      "tip": "Die Säulen stehen im gleichen Abstand, die Bögen bleiben bis zum Boden offen.",
+      "caution": "Die Zahl und Breite der Bögen ist Stufe C, die Quelle nennt nur den Portikus.",
+      "fact": "Der Haupteingang ist ein Portikus an der Piazza dei Cavalleggeri 1 (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Hohe Fenster im Raster von 10 Blöcken: im Erdgeschoss von Y 63 bis 71, im Piano 1 von Y 76 bis 84, im Piano 2 etwas niedriger (Y 88 bis 94).",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims die Fassade ab (Y 95 bis Y 96).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Ein Kranzgesims schließt florentiner Fassaden nach oben ab."
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "r1607712",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -22,8 +22,8 @@
     "material": "putz",
     "putzfarbe": "terrakotta",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
+      "art": "portal_mittig",
+      "portalBreiteBl": 8,
       "fenster": "rechteck"
     },
     "fenster": {
@@ -35,15 +35,19 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "sieben_baukoerper_unterschiedlicher_hoehe",
+      "klassizistischer_giebel_mitte",
+      "inschrift_neben_haupteingang"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Umbau der Klöster zum Deposito di Mendicità 1808-13, neoklassizistische Fassade an der Via dei Malcontenti von Giuseppe Del Rosso mit sieben Baukörpern unterschiedlicher Höhe und klassizistischem Mittelgiebel (zeichnet die frühere Kirchenfront nach), Fronten Via Thouar (ab 1866) und Viale della Giovine Italia (1872, Vincenzo Ricci) wiederholen das Modell. Annahme: Geschosse, Achsen, Material, Fenster, Gesims.",
   "name": "Pia casa di lavoro di Montedomini"
 }

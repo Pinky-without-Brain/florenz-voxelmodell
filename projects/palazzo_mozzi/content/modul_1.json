@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände aus kleinen behauenen Quadern, sieben Fornici, Rundbogenfenster",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick: Im Erdgeschoss Rustika (kleine behauene Quader, bozze squadrate) aus Pietra forte, in den Obergeschossen Bruchstein mit glatten Lagen (jede vierte Lage Pietra forte); innen Putz. Im Erdgeschoss öffnen sich sieben Rundbogenportale (Fornici) zur Piazza dei Mozzi.",
+      "tip": "Jede vierte Lage ist glatte Pietra forte, dazwischen Rustika oder Bruchstein.",
+      "caution": "Fenster und Portale bleiben beim Bauen frei.",
+      "fact": "Die Fassade wird mit kleinen, behauenen Quadern (piccole bozze squadrate) beschrieben (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster mit Glas im Raster 10 über den sieben Portalachsen, in den beiden Obergeschossen; das Erdgeschoss hat keine Fenster, nur die Fornici.",
+      "tip": "Die Fenster sitzen im gleichen Raster in allen Geschossen.",
+      "caution": "Die Fenster sind mit Glas gefüllt.",
+      "fact": "Die Erdgeschossfenster waren im 16. und 17. Jahrhundert als Kniefenster ausgeführt und wurden später entfernt (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Das Kranzgesims aus Pietra serena bei Y 96 schließt die Fassade ab; darüber das Walmdach. Die guelfischen Zinnen sind nicht gebaut (im 19. Jahrhundert entfernt).",
+      "tip": "Das Gesims springt nicht vor, es besteht aus der obersten Wandlage.",
+      "caution": "Bis hierher reicht die Traufe, darüber beginnt das Dach.",
+      "fact": "Der Stil wird als Übergang zwischen später Duecento- und früher Trecento-Architektur eingeordnet (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    }
+  }
+}

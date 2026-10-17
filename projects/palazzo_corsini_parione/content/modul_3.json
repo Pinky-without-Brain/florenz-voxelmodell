@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossböden, oberste Decke und Obergeschosswände",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Auf jedem Geschoss legst du einen Boden aus Holz und Terrakotta im Schachmuster; im Bereich der Treppen bleibt ein Loch.",
+      "tip": "Treppenlöcher frei lassen.",
+      "caution": "Die Böden tragen die Wände der Obergeschosse.",
+      "fact": "Im Piano nobile liegt eine Loggetta mit Fresken von 1650–1653; sie ist hier nicht gebaut (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "decke": {
+      "title": "Oberste Decke",
+      "description": "Die oberste Decke aus Putz schließt das Haus bei Y 89 nach oben ab.",
+      "tip": "Ein Block stark.",
+      "caution": "Darüber liegt der Dachraum (ohne Zugang).",
+      "fact": "Die Arbeiten am Palast dauerten bis 1737, auch wenn nicht alles verwirklicht wurde (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "innenwaende_og": {
+      "title": "Innenwände der Obergeschosse",
+      "description": "In den Obergeschossen setzt sich die Innenwand um den Hof fort, mit Türen von 3 Blöcken Breite.",
+      "tip": "Türen über den Türen des Erdgeschosses.",
+      "caution": "Türen frei lassen.",
+      "fact": "Im ersten Stock liegen die Galleria Corsini, der Salone del Trono und die Sala da Ballo (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "trennwaende_og": {
+      "title": "Trennwände der Obergeschosse",
+      "description": "Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Erst den Boden, dann die Wand darauf.",
+      "caution": "Türen frei lassen.",
+      "fact": "Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße."
+    }
+  }
+}

@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 32: Isolato I0598 – Via di Belvedere
+# Bauanleitung Modul 32: Isolato I0603
 
 *Quartier Costa San Giorgio: 1 Haus*
 
@@ -8,78 +8,81 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.243 |
-| Bauschritte | 2 |
-| Y-Bereich | 99 bis 137 |
-| X-Ausdehnung | 572 bis 588 (17 Blöcke) |
-| Z-Ausdehnung | 2161 bis 2174 (14 Blöcke) |
-| Kleinster Schritt | 1.485 Blöcke (Schritt 32.1) |
-| Mittlerer Schritt | 1.622 Blöcke |
-| Größter Schritt | 1.758 Blöcke (Schritt 32.2) |
+| Blöcke | 11.810 |
+| Bauschritte | 6 |
+| Y-Bereich | 67 bis 110 |
+| X-Ausdehnung | 594 bis 628 (35 Blöcke) |
+| Z-Ausdehnung | 2021 bis 2060 (40 Blöcke) |
+| Kleinster Schritt | 1.755 Blöcke (Schritt 32.6) |
+| Mittlerer Schritt | 1.968 Blöcke |
+| Größter Schritt | 2.082 Blöcke (Schritt 32.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 1.773 | 54,7 % |
-| Polierter Andesit | `polished_andesite` | 497 | 15,3 % |
-| Terrakotta | `terracotta` | 327 | 10,1 % |
-| Graues Buntglas | `gray_stained_glass` | 212 | 6,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 160 | 4,9 % |
-| Polierter Tuffstein | `polished_tuff` | 141 | 4,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 2,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,7 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,7 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7 | 0,2 % |
-| Seelaterne | `sea_lantern` | 4 | 0,1 % |
-| Ziegelsteine | `bricks` | 3 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 3 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 3 | 0,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 5.779 | 48,9 % |
+| Terrakotta | `terracotta` | 2.605 | 22,1 % |
+| Glatter Stein | `smooth_stone` | 1.098 | 9,3 % |
+| Polierter Tuffstein | `polished_tuff` | 756 | 6,4 % |
+| Tuffstein | `tuff` | 629 | 5,3 % |
+| Graues Buntglas | `gray_stained_glass` | 520 | 4,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 145 | 1,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 | 0,6 % |
+| Ziegelsteine | `bricks` | 67 | 0,6 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 49 | 0,4 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 | 0,2 % |
+| Seelaterne | `sea_lantern` | 16 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 52 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758461` | Wohnturm an Via di Belvedere | 2.967 | 32.1–32.2 |
-| 2 | `w397758461_innen` | Wohnturm an Via di Belvedere: Innenausbau | 276 | 32.2 |
+| 1 | `w119373203` | Haus w119373203 | 10.055 | 32.1–32.5 |
+| 2 | `w119373203_innen` | Haus w119373203: Innenausbau | 1.755 | 32.6 |
 
 ## Bauschritte
 
-### Schritt 32.1 – Wohnturm an Via di Belvedere – Teil 1/2 (Y 99–118)
+### Schritt 32.1 – Haus w119373203 – Teil 1/5 (Y 67–76)
 
-- **Y-Bereich:** 99 bis 118
-- **Blöcke:** 1.485
-- **Bauteile:** `w397758461`
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.893
+- **Bauteile:** `w119373203`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 898 |
-| Polierter Andesit | `polished_andesite` | 253 |
-| Polierter Tuffstein | `polished_tuff` | 141 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
-| Tuffsteinziegel | `tuff_bricks` | 91 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
+| Polierter Tuffstein | `polished_tuff` | 756 |
+| Tuffstein | `tuff` | 629 |
+| Gelbe Keramik | `yellow_terracotta` | 426 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 49 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
+| Glatter Stein | `smooth_stone` | 14 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 52 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -93,47 +96,170 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 32.2 – Wohnturm an Via di Belvedere – Teil 2/2 (Y 119–137) & Wohnturm an Via di Belvedere: Innenausbau
+### Schritt 32.2 – Haus w119373203 – Teil 2/5 (Y 75–84)
 
-- **Y-Bereich:** 103 bis 137
-- **Blöcke:** 1.758
-- **Bauteile:** `w397758461`, `w397758461_innen`
+- **Y-Bereich:** 75 bis 84
+- **Blöcke:** 2.028
+- **Bauteile:** `w119373203`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 875 |
-| Terrakotta | `terracotta` | 327 |
-| Polierter Andesit | `polished_andesite` | 244 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Tuffsteinziegel | `tuff_bricks` | 69 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 4 |
-| Ziegelsteine | `bricks` | 3 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
+| Glatter Stein | `smooth_stone` | 333 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Fichtenholz-Bretter | `spruce_planks` | 25 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 32.3 – Haus w119373203 – Teil 3/5 (Y 85–92)
+
+- **Y-Bereich:** 85 bis 92
+- **Blöcke:** 2.010
+- **Bauteile:** `w119373203`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.459 |
+| Glatter Stein | `smooth_stone` | 328 |
+| Graues Buntglas | `gray_stained_glass` | 170 |
+| Fichtenholz-Bretter | `spruce_planks` | 53 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 32.4 – Haus w119373203 – Teil 4/5 (Y 93–100)
+
+- **Y-Bereich:** 93 bis 100
+- **Blöcke:** 2.042
+- **Bauteile:** `w119373203`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.578 |
+| Glatter Stein | `smooth_stone` | 291 |
+| Graues Buntglas | `gray_stained_glass` | 134 |
+| Fichtenholz-Bretter | `spruce_planks` | 39 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 32.5 – Haus w119373203 – Teil 5/5 (Y 101–110)
+
+- **Y-Bereich:** 101 bis 110
+- **Blöcke:** 2.082
+- **Bauteile:** `w119373203`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.009 |
+| Gelbe Keramik | `yellow_terracotta` | 778 |
+| Glatter Stein | `smooth_stone` | 132 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
+| Ziegelsteine | `bricks` | 67 |
+| Fichtenholz-Bretter | `spruce_planks` | 28 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 32.6 – Haus w119373203: Innenausbau
+
+- **Y-Bereich:** 74 bis 98
+- **Blöcke:** 1.755
+- **Bauteile:** `w119373203_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.596 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
+| Seelaterne | `sea_lantern` | 16 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.

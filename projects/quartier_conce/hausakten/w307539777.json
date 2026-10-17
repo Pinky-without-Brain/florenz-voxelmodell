@@ -1,19 +1,23 @@
 {
   "id": "w307539777",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "nicht datiert (Via delle Casine in diesem Abschnitt um 1880)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
@@ -35,15 +39,19 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_pontenani_ecke",
+      "wappen_pontenani_gartenzugang",
+      "buchetta_del_vino"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach mittlere Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzina_Pontenani",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Eckbau Via Tripoli/Via delle Casine, drei Stockwerke plus Mezzanin (Eckwappen der Pontenani zwischen 2. Stock und Mezzanin), Wappen am Gartenzugang, Weinbuchette. Annahme: Epoche, Achsen, Material, Fenster, Gesims, Dach.",
   "name": "Palazzina Pontenani"
 }

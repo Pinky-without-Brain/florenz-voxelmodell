@@ -1,52 +1,60 @@
 {
   "id": "w307545804",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "Mittelalter (Filaretto), Tor und Obergeschoss später",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 5
+    },
+    {
+      "art": "og",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 3,
+    "achsen": 1,
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "geschlossen",
-      "fenster": "keine"
+      "art": "portal_mittig",
+      "fenster": "keine",
+      "portalBreiteBl": 5
     },
     "fenster": {
       "typ": "rundbogen",
-      "rahmen": "pietra_serena",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "eckquader_verstaerkt",
+      "geruestloecher_ohne_konsolen"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_degli_Alepri",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: mittelalterlicher Turm, Filaretto-Mauerwerk, Ecken mit größeren behauenen Quadern verstärkt, fünf Geschosse, Monoforen mit flachem Bogen in den Obergeschossen, oberstes Geschoss später wiederaufgebaut mit rechteckigem Fenster, Portal ähnlich dem des benachbarten Palazzo Cerchi, Balkenlöcher ohne Konsolen. Annahme: Datierung, Dach.",
   "name": "Torre degli Alepri"
 }

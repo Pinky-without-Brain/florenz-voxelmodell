@@ -26,10 +26,10 @@
 | Polierter Tuffstein | `polished_tuff` | 16.876 | 10,7 % |
 | Weißer Beton | `white_concrete` | 14.695 | 9,3 % |
 | Polierter Andesit | `polished_andesite` | 10.967 | 7,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.348 | 5,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.380 | 6,0 % |
 | Rosa Keramik | `pink_terracotta` | 8.003 | 5,1 % |
-| Glatter Stein | `smooth_stone` | 5.127 | 3,3 % |
-| Graues Buntglas | `gray_stained_glass` | 2.570 | 1,6 % |
+| Glatter Stein | `smooth_stone` | 5.105 | 3,2 % |
+| Graues Buntglas | `gray_stained_glass` | 2.562 | 1,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.078 | 1,3 % |
 | Endsteinziegel | `end_stone_bricks` | 1.619 | 1,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.370 | 0,9 % |
@@ -44,7 +44,7 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 103 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 99 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 86 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 82 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 80 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 20 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 20 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 | 0,0 % |
@@ -57,7 +57,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 440 |
-| Steintreppe | `stone_stairs` | 168 |
+| Steintreppe | `stone_stairs` | 166 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -72,8 +72,8 @@
 | 6 | `w305683142_innen` | Chiesa di San Felice in Piazza: Innenausbau | 6.497 | 11.71–11.74 |
 | 7 | `w305683145` | Reihenhaus an Via Mazzetta | 2.057 | 11.75 |
 | 8 | `w305683145_innen` | Reihenhaus an Via Mazzetta: Innenausbau | 5 | 11.76 |
-| 9 | `w306378155` | Oratorio di San Sebastiano de' Bini | 4.801 | 11.76–11.78 |
-| 10 | `w306378155_innen` | Oratorio di San Sebastiano de' Bini: Innenausbau | 722 | 11.79 |
+| 9 | `w306378155` | Oratorio di San Sebastiano de' Bini | 4.805 | 11.76–11.78 |
+| 10 | `w306378155_innen` | Oratorio di San Sebastiano de' Bini: Innenausbau | 718 | 11.79 |
 | 11 | `w306818327` | Reihenhaus an Borgo Tegolaio | 4.165 | 11.80–11.81 |
 | 12 | `w306818327_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 919 | 11.82 |
 | 13 | `w483269082` | Reihenhaus an Borgo Tegolaio | 4.681 | 11.83–11.85 |
@@ -2477,15 +2477,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.093 |
+| Gelbe Keramik | `yellow_terracotta` | 1.100 |
 | Polierter Tuffstein | `polished_tuff` | 443 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 19 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
 | Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Kleine Kirche (Fassade um 1490 (Umbauten 1490-1525), Renaissance), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_di_San_Sebastiano_de'_Bini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2497,25 +2497,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.77 – Oratorio di San Sebastiano de' Bini – Teil 2/3 (Y 74–86)
 
 - **Y-Bereich:** 74 bis 86
-- **Blöcke:** 1.642
+- **Blöcke:** 1.646
 - **Bauteile:** `w306378155`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.565 |
-| Glatter Stein | `smooth_stone` | 59 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
+| Gelbe Keramik | `yellow_terracotta` | 1.590 |
+| Glatter Stein | `smooth_stone` | 46 |
+| Graues Buntglas | `gray_stained_glass` | 10 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Fassade um 1490 (Umbauten 1490-1525), Renaissance), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_di_San_Sebastiano_de'_Bini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2527,7 +2527,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.78 – Oratorio di San Sebastiano de' Bini – Teil 3/3 (Y 87–98)
 
@@ -2547,7 +2547,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Fassade um 1490 (Umbauten 1490-1525), Renaissance), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_di_San_Sebastiano_de'_Bini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2559,12 +2559,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.79 – Oratorio di San Sebastiano de' Bini: Innenausbau
 
-- **Y-Bereich:** 64 bis 86
-- **Blöcke:** 722
+- **Y-Bereich:** 64 bis 85
+- **Blöcke:** 718
 - **Bauteile:** `w306378155_innen`
 
 **Teileliste**
@@ -2572,16 +2572,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 616 |
-| Glatter Stein | `smooth_stone` | 56 |
+| Glatter Stein | `smooth_stone` | 54 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
 | Seelaterne | `sea_lantern` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 44 |
+| Steintreppe | `stone_stairs` | 42 |
 
 **Beschreibung**
 

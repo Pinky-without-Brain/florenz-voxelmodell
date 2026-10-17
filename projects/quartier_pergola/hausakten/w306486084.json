@@ -1,28 +1,28 @@
 {
   "id": "w306486084",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Barock, Front von 1696 (Michele Magni)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 7,
+    "material": "putz",
+    "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
@@ -32,18 +32,23 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "balkon_schmiedeeisen_mitte",
+      "wappen_roffia",
+      "gurtbaender",
+      "kniefenster_1_og"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Roffia",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: einheitliche Barockfront von 1696 (Michele Magni, mit Antonio Roffia), drei Geschosse, sieben Achsen, Mitte mit Portal, schmiedeeisernem Balkon und großem Fenster, Fenster des 1. Obergeschosses inginocchiate mit gebrochenem Giebel und Muschel, höhere Fenster mit Konsolen, Gurtbänder und breites Traufband mit Konsolen und Metopen, Dekor teils aus Kunststein. Annahme: Putzfarbe, Dachform.",
   "name": "Palazzo Roffia"
 }

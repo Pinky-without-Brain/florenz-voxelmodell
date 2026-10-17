@@ -21,31 +21,29 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 71.157 | 35,9 % |
 | Terrakotta | `terracotta` | 65.712 | 33,1 % |
-| Endsteinziegel | `end_stone_bricks` | 65.119 | 32,8 % |
 | Polierter Tuffstein | `polished_tuff` | 21.118 | 10,6 % |
 | Tuffstein | `tuff` | 9.368 | 4,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 9.351 | 4,7 % |
 | Weißer Beton | `white_concrete` | 7.855 | 4,0 % |
+| Endsteinziegel | `end_stone_bricks` | 4.980 | 2,5 % |
 | Rosa Keramik | `pink_terracotta` | 4.443 | 2,2 % |
-| Glatter Stein | `smooth_stone` | 3.870 | 2,0 % |
 | Graues Buntglas | `gray_stained_glass` | 2.805 | 1,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.468 | 1,2 % |
+| Glatter Stein | `smooth_stone` | 2.319 | 1,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 2.137 | 1,1 % |
 | Ziegelsteine | `bricks` | 1.031 | 0,5 % |
-| Polierter Andesit | `polished_andesite` | 1.016 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 650 | 0,3 % |
+| Polierter Andesit | `polished_andesite` | 848 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 706 | 0,4 % |
 | Grüner Beton | `green_concrete` | 437 | 0,2 % |
 | Seelaterne | `sea_lantern` | 357 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 146 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 138 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 99 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 91 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 119 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 115 | 0,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 31 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 9 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 5 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
@@ -54,8 +52,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 474 |
-| Steintreppe | `stone_stairs` | 40 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 518 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -103,7 +100,7 @@
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -115,7 +112,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.2 – Monastero di Sant'Orsola – Teil 2/87 (Y 61–61)
 
@@ -131,7 +128,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -143,7 +140,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.3 – Monastero di Sant'Orsola – Teil 3/87 (Y 62–62)
 
@@ -159,7 +156,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -171,7 +168,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.4 – Monastero di Sant'Orsola – Teil 4/87 (Y 62–62)
 
@@ -187,7 +184,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -199,7 +196,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.5 – Monastero di Sant'Orsola – Teil 5/87 (Y 63–63)
 
@@ -215,7 +212,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -227,7 +224,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.6 – Monastero di Sant'Orsola – Teil 6/87 (Y 63–63)
 
@@ -243,7 +240,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -255,7 +252,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.7 – Monastero di Sant'Orsola – Teil 7/87 (Y 64–64)
 
@@ -271,7 +268,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -283,7 +280,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.8 – Monastero di Sant'Orsola – Teil 8/87 (Y 64–64)
 
@@ -299,7 +296,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -311,7 +308,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.9 – Monastero di Sant'Orsola – Teil 9/87 (Y 64–64)
 
@@ -327,7 +324,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -339,7 +336,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.10 – Monastero di Sant'Orsola – Teil 10/87 (Y 64–64)
 
@@ -355,7 +352,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -367,7 +364,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.11 – Monastero di Sant'Orsola – Teil 11/87 (Y 64–64)
 
@@ -383,7 +380,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -395,7 +392,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.12 – Monastero di Sant'Orsola – Teil 12/87 (Y 64–64)
 
@@ -411,7 +408,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -423,7 +420,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.13 – Monastero di Sant'Orsola – Teil 13/87 (Y 64–64)
 
@@ -439,7 +436,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -451,7 +448,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.14 – Monastero di Sant'Orsola – Teil 14/87 (Y 64–64)
 
@@ -467,7 +464,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -479,7 +476,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.15 – Monastero di Sant'Orsola – Teil 15/87 (Y 65–65)
 
@@ -491,14 +488,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 963 |
+| Hellgrauer Beton | `light_gray_concrete` | 967 |
 | Graues Buntglas | `gray_stained_glass` | 110 |
 | Glatter Stein | `smooth_stone` | 79 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -510,7 +506,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.16 – Monastero di Sant'Orsola – Teil 16/87 (Y 65–65)
 
@@ -522,14 +518,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.145 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.151 |
 | Graues Buntglas | `gray_stained_glass` | 5 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -541,7 +536,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.17 – Monastero di Sant'Orsola – Teil 17/87 (Y 66–66)
 
@@ -553,13 +548,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 967 |
+| Hellgrauer Beton | `light_gray_concrete` | 967 |
 | Graues Buntglas | `gray_stained_glass` | 110 |
 | Glatter Stein | `smooth_stone` | 79 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -571,7 +566,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.18 – Monastero di Sant'Orsola – Teil 18/87 (Y 66–66)
 
@@ -583,14 +578,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.149 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.151 |
 | Graues Buntglas | `gray_stained_glass` | 5 |
 | Glatter Stein | `smooth_stone` | 4 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -602,7 +596,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.19 – Monastero di Sant'Orsola – Teil 19/87 (Y 67–67)
 
@@ -614,15 +608,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 925 |
+| Hellgrauer Beton | `light_gray_concrete` | 929 |
 | Graues Buntglas | `gray_stained_glass` | 110 |
 | Glatter Stein | `smooth_stone` | 79 |
 | Weißer Beton | `white_concrete` | 38 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -634,7 +627,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.20 – Monastero di Sant'Orsola – Teil 20/87 (Y 67–67)
 
@@ -646,15 +639,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.000 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.006 |
 | Weißer Beton | `white_concrete` | 145 |
-| Polierter Andesit | `polished_andesite` | 6 |
 | Graues Buntglas | `gray_stained_glass` | 5 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -666,7 +658,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.21 – Monastero di Sant'Orsola – Teil 21/87 (Y 68–68)
 
@@ -678,14 +670,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 906 |
+| Hellgrauer Beton | `light_gray_concrete` | 906 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
 | Glatter Stein | `smooth_stone` | 79 |
 | Weißer Beton | `white_concrete` | 26 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -697,7 +689,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.22 – Monastero di Sant'Orsola – Teil 22/87 (Y 68–68)
 
@@ -709,16 +701,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 956 |
+| Hellgrauer Beton | `light_gray_concrete` | 958 |
 | Weißer Beton | `white_concrete` | 82 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Grüner Beton | `green_concrete` | 28 |
 | Glatter Stein | `smooth_stone` | 4 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -730,7 +721,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.23 – Monastero di Sant'Orsola – Teil 23/87 (Y 69–69)
 
@@ -742,15 +733,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 909 |
+| Hellgrauer Beton | `light_gray_concrete` | 913 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
 | Glatter Stein | `smooth_stone` | 79 |
 | Weißer Beton | `white_concrete` | 26 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -762,7 +752,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.24 – Monastero di Sant'Orsola – Teil 24/87 (Y 69–69)
 
@@ -774,16 +764,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 952 |
+| Hellgrauer Beton | `light_gray_concrete` | 958 |
 | Weißer Beton | `white_concrete` | 82 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 6 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -795,7 +784,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.25 – Monastero di Sant'Orsola – Teil 25/87 (Y 70–70)
 
@@ -807,7 +796,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 913 |
+| Hellgrauer Beton | `light_gray_concrete` | 913 |
 | Graues Buntglas | `gray_stained_glass` | 109 |
 | Glatter Stein | `smooth_stone` | 79 |
 | Weißer Beton | `white_concrete` | 26 |
@@ -815,7 +804,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -827,7 +816,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.26 – Monastero di Sant'Orsola – Teil 26/87 (Y 70–70)
 
@@ -839,16 +828,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 956 |
+| Hellgrauer Beton | `light_gray_concrete` | 958 |
 | Weißer Beton | `white_concrete` | 82 |
-| Polierter Andesit | `polished_andesite` | 65 |
+| Polierter Andesit | `polished_andesite` | 63 |
 | Grüner Beton | `green_concrete` | 28 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -860,7 +849,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.27 – Monastero di Sant'Orsola – Teil 27/87 (Y 71–71)
 
@@ -872,15 +861,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 909 |
+| Hellgrauer Beton | `light_gray_concrete` | 913 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
 | Glatter Stein | `smooth_stone` | 79 |
 | Weißer Beton | `white_concrete` | 26 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -892,7 +880,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.28 – Monastero di Sant'Orsola – Teil 28/87 (Y 71–71)
 
@@ -904,16 +892,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 952 |
+| Hellgrauer Beton | `light_gray_concrete` | 958 |
 | Weißer Beton | `white_concrete` | 82 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 6 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -925,7 +912,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.29 – Monastero di Sant'Orsola – Teil 29/87 (Y 72–72)
 
@@ -937,14 +924,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 913 |
+| Hellgrauer Beton | `light_gray_concrete` | 913 |
 | Graues Buntglas | `gray_stained_glass` | 121 |
 | Glatter Stein | `smooth_stone` | 79 |
 | Weißer Beton | `white_concrete` | 26 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -956,7 +943,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.30 – Monastero di Sant'Orsola – Teil 30/87 (Y 72–72)
 
@@ -968,16 +955,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 956 |
+| Hellgrauer Beton | `light_gray_concrete` | 958 |
 | Weißer Beton | `white_concrete` | 82 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Grüner Beton | `green_concrete` | 28 |
 | Glatter Stein | `smooth_stone` | 4 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -989,7 +975,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.31 – Monastero di Sant'Orsola – Teil 31/87 (Y 73–73)
 
@@ -1001,15 +987,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 939 |
+| Hellgrauer Beton | `light_gray_concrete` | 943 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 | Glatter Stein | `smooth_stone` | 93 |
 | Weißer Beton | `white_concrete` | 38 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1021,7 +1006,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.32 – Monastero di Sant'Orsola – Teil 32/87 (Y 73–73)
 
@@ -1033,15 +1018,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.002 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.008 |
 | Weißer Beton | `white_concrete` | 145 |
-| Polierter Andesit | `polished_andesite` | 6 |
 | Graues Buntglas | `gray_stained_glass` | 5 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1053,7 +1037,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.33 – Monastero di Sant'Orsola – Teil 33/87 (Y 74–74)
 
@@ -1065,12 +1049,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.024 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.024 |
 | Glatter Stein | `smooth_stone` | 170 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1082,7 +1066,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.34 – Monastero di Sant'Orsola – Teil 34/87 (Y 74–74)
 
@@ -1094,13 +1078,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.186 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.188 |
 | Glatter Stein | `smooth_stone` | 12 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1112,7 +1095,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.35 – Monastero di Sant'Orsola – Teil 35/87 (Y 75–75)
 
@@ -1124,12 +1107,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 827 |
-| Glatter Stein | `smooth_stone` | 367 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.194 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1141,7 +1123,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.36 – Monastero di Sant'Orsola – Teil 36/87 (Y 75–75)
 
@@ -1153,12 +1135,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 820 |
-| Glatter Stein | `smooth_stone` | 380 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.200 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1170,7 +1151,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.37 – Monastero di Sant'Orsola – Teil 37/87 (Y 76–76)
 
@@ -1182,11 +1163,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.194 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.194 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1198,7 +1179,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.38 – Monastero di Sant'Orsola – Teil 38/87 (Y 76–76)
 
@@ -1210,12 +1191,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.198 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.200 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1227,7 +1207,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.39 – Monastero di Sant'Orsola – Teil 39/87 (Y 77–77)
 
@@ -1239,13 +1219,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.040 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.044 |
 | Weißer Beton | `white_concrete` | 150 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1257,7 +1236,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.40 – Monastero di Sant'Orsola – Teil 40/87 (Y 77–77)
 
@@ -1269,13 +1248,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.041 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.047 |
 | Weißer Beton | `white_concrete` | 153 |
-| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1287,7 +1265,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.41 – Monastero di Sant'Orsola – Teil 41/87 (Y 78–78)
 
@@ -1299,13 +1277,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.017 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
 | Weißer Beton | `white_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1317,7 +1295,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.42 – Monastero di Sant'Orsola – Teil 42/87 (Y 78–78)
 
@@ -1329,15 +1307,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 979 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
 | Weißer Beton | `white_concrete` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1349,7 +1326,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.43 – Monastero di Sant'Orsola – Teil 43/87 (Y 79–79)
 
@@ -1361,14 +1338,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.013 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
 | Weißer Beton | `white_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1380,7 +1356,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.44 – Monastero di Sant'Orsola – Teil 44/87 (Y 79–79)
 
@@ -1392,15 +1368,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 975 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
 | Weißer Beton | `white_concrete` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1412,7 +1387,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.45 – Monastero di Sant'Orsola – Teil 45/87 (Y 80–80)
 
@@ -1424,13 +1399,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.017 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
 | Weißer Beton | `white_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1442,7 +1417,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.46 – Monastero di Sant'Orsola – Teil 46/87 (Y 80–80)
 
@@ -1454,15 +1429,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 979 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
 | Weißer Beton | `white_concrete` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1474,7 +1448,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.47 – Monastero di Sant'Orsola – Teil 47/87 (Y 81–81)
 
@@ -1486,14 +1460,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.013 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
 | Weißer Beton | `white_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1505,7 +1478,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.48 – Monastero di Sant'Orsola – Teil 48/87 (Y 81–81)
 
@@ -1517,15 +1490,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 975 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
 | Weißer Beton | `white_concrete` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1537,24 +1509,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.49 – Monastero di Sant'Orsola – Teil 49/87 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.194
+- **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.044 |
-| Weißer Beton | `white_concrete` | 150 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
+| Weißer Beton | `white_concrete` | 100 |
+| Graues Buntglas | `gray_stained_glass` | 50 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1566,25 +1539,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.50 – Monastero di Sant'Orsola – Teil 50/87 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.200
+- **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.045 |
-| Weißer Beton | `white_concrete` | 153 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
+| Weißer Beton | `white_concrete` | 87 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Grüner Beton | `green_concrete` | 28 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1596,25 +1570,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.51 – Monastero di Sant'Orsola – Teil 51/87 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.194
+- **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 941 |
-| Weißer Beton | `white_concrete` | 249 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
+| Weißer Beton | `white_concrete` | 100 |
+| Graues Buntglas | `gray_stained_glass` | 50 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1626,25 +1600,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.52 – Monastero di Sant'Orsola – Teil 52/87 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.200
+- **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 953 |
-| Weißer Beton | `white_concrete` | 241 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
+| Weißer Beton | `white_concrete` | 87 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Grüner Beton | `green_concrete` | 28 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1656,7 +1631,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.53 – Monastero di Sant'Orsola – Teil 53/87 (Y 84–84)
 
@@ -1668,12 +1643,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 822 |
-| Glatter Stein | `smooth_stone` | 372 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.044 |
+| Weißer Beton | `white_concrete` | 150 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1685,7 +1660,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.54 – Monastero di Sant'Orsola – Teil 54/87 (Y 84–84)
 
@@ -1697,12 +1672,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 820 |
-| Glatter Stein | `smooth_stone` | 380 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.047 |
+| Weißer Beton | `white_concrete` | 153 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1714,7 +1689,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.55 – Monastero di Sant'Orsola – Teil 55/87 (Y 85–85)
 
@@ -1726,12 +1701,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.190 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 945 |
+| Weißer Beton | `white_concrete` | 249 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1743,7 +1718,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.56 – Monastero di Sant'Orsola – Teil 56/87 (Y 85–85)
 
@@ -1755,12 +1730,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.194 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 959 |
+| Weißer Beton | `white_concrete` | 241 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1772,7 +1747,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.57 – Monastero di Sant'Orsola – Teil 57/87 (Y 86–86)
 
@@ -1784,12 +1759,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.044 |
-| Weißer Beton | `white_concrete` | 150 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.194 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1801,7 +1775,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.58 – Monastero di Sant'Orsola – Teil 58/87 (Y 86–86)
 
@@ -1813,13 +1787,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.045 |
-| Weißer Beton | `white_concrete` | 153 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.200 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1831,26 +1803,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.59 – Monastero di Sant'Orsola – Teil 59/87 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.167
+- **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.013 |
-| Weißer Beton | `white_concrete` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.194 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1862,27 +1831,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.60 – Monastero di Sant'Orsola – Teil 60/87 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.162
+- **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 975 |
-| Weißer Beton | `white_concrete` | 87 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-| Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.200 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1894,25 +1859,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.61 – Monastero di Sant'Orsola – Teil 61/87 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.167
+- **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.017 |
-| Weißer Beton | `white_concrete` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.044 |
+| Weißer Beton | `white_concrete` | 150 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1924,27 +1888,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.62 – Monastero di Sant'Orsola – Teil 62/87 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.162
+- **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 979 |
-| Weißer Beton | `white_concrete` | 87 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-| Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.047 |
+| Weißer Beton | `white_concrete` | 153 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1956,7 +1917,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.63 – Monastero di Sant'Orsola – Teil 63/87 (Y 89–89)
 
@@ -1968,14 +1929,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.013 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
 | Weißer Beton | `white_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1987,7 +1947,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.64 – Monastero di Sant'Orsola – Teil 64/87 (Y 89–89)
 
@@ -1999,15 +1959,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 975 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
 | Weißer Beton | `white_concrete` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2019,7 +1978,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.65 – Monastero di Sant'Orsola – Teil 65/87 (Y 90–90)
 
@@ -2031,13 +1990,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.017 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
 | Weißer Beton | `white_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2049,7 +2008,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.66 – Monastero di Sant'Orsola – Teil 66/87 (Y 90–90)
 
@@ -2061,15 +2020,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 979 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
 | Weißer Beton | `white_concrete` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2081,7 +2039,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.67 – Monastero di Sant'Orsola – Teil 67/87 (Y 91–91)
 
@@ -2093,14 +2051,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.013 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.017 |
 | Weißer Beton | `white_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2112,7 +2069,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.68 – Monastero di Sant'Orsola – Teil 68/87 (Y 91–91)
 
@@ -2124,15 +2081,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 975 |
+| Hellgrauer Beton | `light_gray_concrete` | 981 |
 | Weißer Beton | `white_concrete` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2144,7 +2100,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.69 – Monastero di Sant'Orsola – Teil 69/87 (Y 92–92)
 
@@ -2156,12 +2112,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.044 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.044 |
 | Weißer Beton | `white_concrete` | 150 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2173,7 +2129,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.70 – Monastero di Sant'Orsola – Teil 70/87 (Y 92–92)
 
@@ -2185,13 +2141,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.045 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.047 |
 | Weißer Beton | `white_concrete` | 153 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2203,7 +2158,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.71 – Monastero di Sant'Orsola – Teil 71/87 (Y 93–93)
 
@@ -2215,14 +2170,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 957 |
+| Hellgrauer Beton | `light_gray_concrete` | 961 |
 | Weißer Beton | `white_concrete` | 251 |
 | Glatter Stein | `smooth_stone` | 165 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2234,7 +2188,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.72 – Monastero di Sant'Orsola – Teil 72/87 (Y 93–93)
 
@@ -2246,14 +2200,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 937 |
+| Hellgrauer Beton | `light_gray_concrete` | 943 |
 | Weißer Beton | `white_concrete` | 239 |
 | Glatter Stein | `smooth_stone` | 181 |
-| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2265,7 +2218,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.73 – Monastero di Sant'Orsola – Teil 73/87 (Y 94–94)
 
@@ -2277,12 +2230,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.212 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.212 |
 | Glatter Stein | `smooth_stone` | 383 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2294,7 +2247,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.74 – Monastero di Sant'Orsola – Teil 74/87 (Y 94–94)
 
@@ -2306,13 +2259,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.180 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.182 |
 | Glatter Stein | `smooth_stone` | 410 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2324,7 +2276,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.75 – Monastero di Sant'Orsola – Teil 75/87 (Y 95–95)
 
@@ -2340,7 +2292,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2352,7 +2304,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.76 – Monastero di Sant'Orsola – Teil 76/87 (Y 95–95)
 
@@ -2368,7 +2320,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2380,7 +2332,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.77 – Monastero di Sant'Orsola – Teil 77/87 (Y 95–95)
 
@@ -2396,7 +2348,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2408,7 +2360,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.78 – Monastero di Sant'Orsola – Teil 78/87 (Y 95–95)
 
@@ -2424,7 +2376,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2436,7 +2388,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.79 – Monastero di Sant'Orsola – Teil 79/87 (Y 96–96)
 
@@ -2452,7 +2404,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2464,7 +2416,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.80 – Monastero di Sant'Orsola – Teil 80/87 (Y 96–96)
 
@@ -2480,7 +2432,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2492,7 +2444,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.81 – Monastero di Sant'Orsola – Teil 81/87 (Y 96–96)
 
@@ -2508,7 +2460,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2520,7 +2472,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.82 – Monastero di Sant'Orsola – Teil 82/87 (Y 97–97)
 
@@ -2536,7 +2488,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2548,7 +2500,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.83 – Monastero di Sant'Orsola – Teil 83/87 (Y 97–97)
 
@@ -2564,7 +2516,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2576,7 +2528,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.84 – Monastero di Sant'Orsola – Teil 84/87 (Y 98–98)
 
@@ -2593,7 +2545,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2605,7 +2557,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.85 – Monastero di Sant'Orsola – Teil 85/87 (Y 98–98)
 
@@ -2622,7 +2574,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2634,7 +2586,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.86 – Monastero di Sant'Orsola – Teil 86/87 (Y 99–99)
 
@@ -2651,7 +2603,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2663,7 +2615,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.87 – Monastero di Sant'Orsola – Teil 87/87 (Y 100–103)
 
@@ -2680,7 +2632,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2692,7 +2644,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.88 – Monastero di Sant'Orsola: Innenausbau – Teil 1/14 (Y 64–75)
 
@@ -2706,10 +2658,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.948 |
 | Seelaterne | `sea_lantern` | 87 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 32 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -2717,12 +2668,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 22 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2751,7 +2701,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2780,7 +2730,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2809,7 +2759,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2838,7 +2788,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2864,17 +2814,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.943 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2903,7 +2853,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2917,10 +2867,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.95 – Monastero di Sant'Orsola: Innenausbau – Teil 8/14 (Y 76–84)
+### Schritt 12.95 – Monastero di Sant'Orsola: Innenausbau – Teil 8/14 (Y 76–86)
 
-- **Y-Bereich:** 76 bis 84
-- **Blöcke:** 2.007
+- **Y-Bereich:** 76 bis 86
+- **Blöcke:** 2.009
 - **Bauteile:** `r1580100_innen`
 
 **Teileliste**
@@ -2928,26 +2878,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.948 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 29 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 13 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 22 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2961,9 +2905,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.96 – Monastero di Sant'Orsola: Innenausbau – Teil 9/14 (Y 84–84)
+### Schritt 12.96 – Monastero di Sant'Orsola: Innenausbau – Teil 9/14 (Y 86–86)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.970
 - **Bauteile:** `r1580100_innen`
 
@@ -2976,7 +2920,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2990,9 +2934,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.97 – Monastero di Sant'Orsola: Innenausbau – Teil 10/14 (Y 84–84)
+### Schritt 12.97 – Monastero di Sant'Orsola: Innenausbau – Teil 10/14 (Y 86–86)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.929
 - **Bauteile:** `r1580100_innen`
 
@@ -3005,7 +2949,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3019,9 +2963,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.98 – Monastero di Sant'Orsola: Innenausbau – Teil 11/14 (Y 84–84)
+### Schritt 12.98 – Monastero di Sant'Orsola: Innenausbau – Teil 11/14 (Y 86–86)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.909
 - **Bauteile:** `r1580100_innen`
 
@@ -3034,7 +2978,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3048,9 +2992,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.99 – Monastero di Sant'Orsola: Innenausbau – Teil 12/14 (Y 84–84)
+### Schritt 12.99 – Monastero di Sant'Orsola: Innenausbau – Teil 12/14 (Y 86–86)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.979
 - **Bauteile:** `r1580100_innen`
 
@@ -3063,7 +3007,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3077,9 +3021,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.100 – Monastero di Sant'Orsola: Innenausbau – Teil 13/14 (Y 84–84)
+### Schritt 12.100 – Monastero di Sant'Orsola: Innenausbau – Teil 13/14 (Y 86–86)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.957
 - **Bauteile:** `r1580100_innen`
 
@@ -3089,17 +3033,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.943 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3113,10 +3057,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.101 – Monastero di Sant'Orsola: Innenausbau – Teil 14/14 (Y 84–85)
+### Schritt 12.101 – Monastero di Sant'Orsola: Innenausbau – Teil 14/14 (Y 86–87)
 
-- **Y-Bereich:** 84 bis 85
-- **Blöcke:** 1.985
+- **Y-Bereich:** 86 bis 87
+- **Blöcke:** 1.983
 - **Bauteile:** `r1580100_innen`
 
 **Teileliste**
@@ -3128,8 +3072,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3139,7 +3081,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

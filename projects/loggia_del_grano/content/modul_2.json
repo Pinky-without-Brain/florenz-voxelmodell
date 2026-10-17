@@ -1,0 +1,29 @@
+{
+  "module": 2,
+  "title": "Obergeschosse, Fenster, Gesims",
+  "subtitle": "Bautüte 2: Mezzanin, Obergeschoss und Gesims",
+  "icon": "🪟",
+  "parts": {
+    "obergeschosse": {
+      "title": "Mezzanin und Obergeschoss",
+      "description": "Mauern aus Putz und Mauerwerk: Mezzanin (Lage 12–14), Band auf Lage 15 und Obergeschoss (Lage 16–23) bis zur Decke auf Lage 24.",
+      "tip": "Baue Lage für Lage.",
+      "caution": "Die Höhen sind aus der OSM-Höhe von 30 Blöcken verteilt (Stufe C).",
+      "fact": "Das heutige Obergeschoss entstand erst 1868 bei der Umwandlung in ein Theater (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Im Mezzanin rechteckige Fenster (2 × 2) in der Achse jedes Jochs, im Obergeschoss große Bogenfenster (5 breit, bis Lage 23), alle mit Glas durch die Mauerdicke.",
+      "tip": "Die Fenster ersetzen Mauerblöcke.",
+      "caution": "Die Rückseite hat keine Fenster, dort stehen Nachbarhäuser.",
+      "fact": "Das Mezzanin hat rechteckige Fenster, das Obergeschoss große Bogenfenster (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "gesims": {
+      "title": "Gesims",
+      "description": "Ein Kranzgesims aus Marmor (Lage 25) und Pietra serena (Lage 26) umzieht das Haus.",
+      "tip": "Es liegt auf der Außenlage.",
+      "caution": "Das Gesims ist vereinfacht.",
+      "fact": "Über dem Gebälk folgt das Dachgeschoss (Quelle: it.wikipedia, Loggia del Grano)."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den Block bis Y 101: glatte Putzfassaden in hellem Gelb mit Gesimsen aus Pietra serena zwischen den drei hohen Geschossen, das Erdgeschoss der Fronten mit Sockel aus Rustika; an der Via della Colonna das Portal im Ostflügel mit zwei Säulen, an der Via Gino Capponi ein zweiter Eingang. Gesimse trennen die Geschosse (Y 80, Y 92).",
+      "tip": "Zwei Blöcke dick: außen Putz oder Stein, innen Putz.",
+      "caution": "Lass Portale und Tore frei.",
+      "fact": "Die Front an der Via della Colonna hat 24 Achsen über drei hohen Geschossen; Paolo Comotto fügte 1865 bis 1871 zwei Säulen am Haupteingang hinzu (Quelle: it.wikipedia, Palazzo della Crocetta)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rechteckige Fenster im Raster von 8,6 Blöcken, so dass auf den beiden Fronten zur Via della Colonna 24 Achsen entstehen: im Erdgeschoss und im ersten Obergeschoss von Y 70 bis 77 bzw. Y 82 bis 89, im obersten Geschoss kleiner (Y 94 bis 99).",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Der Grundriss ist U-förmig und bezieht einige Häuser an der Via della Pergola ein; der Garten liegt zwischen den Flügeln und gehört nicht zum Umriss (Quelle: it.wikipedia, Palazzo della Crocetta)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims die Fassade ab (Y 100 bis Y 101).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Ein Kranzgesims schließt florentiner Fassaden nach oben ab."
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "r4107574",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Stiftung 1335 (Caio de' Macci), Bauinschrift 1344, Fertigstellung 18. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -22,9 +22,9 @@
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 5,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "tabernakel",
@@ -35,15 +35,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "zwei_portale_kirche_und_spital",
+      "spitalportikus_bogenreste",
+      "campanile_a_vela",
+      "stiftungsinschrift_verwittert"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Ex_convento_di_San_Francesco_de'_Macci",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Gründung 1335, an der Straßenmauer zwei Portale (Kirche und Spital), erhaltene Bögen eines äußeren Portikus nach Art von Spitalbauten, kleiner Glockengiebel (campanile a vela). Annahme: Geschosse, Achsen, Material, Fenster, Gesims, Dach.",
   "name": "Ex convento di San Francesco de' Macci"
 }

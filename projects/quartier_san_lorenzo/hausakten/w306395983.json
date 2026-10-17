@@ -1,7 +1,7 @@
 {
   "id": "w306395983",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "1444–46 (Michelozzo laut Überlieferung), 1680 erweitert",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -23,27 +23,33 @@
     "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "putz",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "sgraffito_fassade",
+      "kannelierte_pilaster_zwei_ordnungen",
+      "marcapiano_festone_putten",
+      "zwei_kniefenster"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: erbaut 1444–46 (Michelozzo nach Überlieferung, nicht gesichert; Erdgeschossfenster Ammannati zugeschrieben), 1680 um zwei Fensterachsen erweitert, Sgraffito-Fassade, kannelierte Pilaster auf zwei Ordnungen (Vorbild Palazzo Rucellai), zwei Kniefenster im Erdgeschoss, Marcapiano mit Festons und Putten. Annahme: Putzfarbe, Gesims, Gesamtachsen, Geschosse.",
   "name": "Palazzo Barbolani di Montauto"
 }

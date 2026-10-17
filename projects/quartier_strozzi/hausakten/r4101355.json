@@ -1,53 +1,64 @@
 {
   "id": "r4101355",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1901–1903 (Risanamento, Paciarelli; Liberty-Dekor)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
+      "hoeheBl": 9
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
       "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 8,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "portikus_travertin",
+      "keramikfriese_cantagalli",
+      "eckbalkone_auf_konsolen_protomen",
+      "schmiedeeisen_michelucci",
+      "fastigi_endabschnitte"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pola_e_Todescan",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: errichtet 1901–03 im Risanamento (Giovanni Paciarelli, ausgeführt von den Fratelli Taiuti), Liberty-Dekor bei ottocentesker Gesamtmasse, Hauptfassade mit Portikus (Erdgeschoss und Mezzanin) und drei Obergeschossen in acht Feldern, Pfeiler bis etwa zwei Drittel mit Travertin verkleidet, darüber verputzt, gerahmte Rechteckfenster, Eckbalkone auf Konsolen mit Protomen, kräftiges Konsolgesims mit Keramikfeldern der Manifattura Cantagalli, Seitenfassaden mit vier Achsen aus Sichtziegel. Annahme: Putzfarbe, Dachform; Portikus als Ladenarkade abgebildet.",
   "name": "Palazzo Pola e Todescan"
 }

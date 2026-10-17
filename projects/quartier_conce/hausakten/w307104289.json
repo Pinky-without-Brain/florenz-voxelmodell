@@ -1,30 +1,30 @@
 {
   "id": "w307104289",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "Anfang 16. Jh. (Da Cepparello)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "achsen": 7,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -32,18 +32,22 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "steinbank_panca_di_via",
+      "bozze_spianate_fensterrahmen",
+      "portal_1966_beschaedigt"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Anfang des 16. Jh. für die Da Cepparello errichtet, sieben Achsen, Rundbogenfenster im 1. und 2. Obergeschoss mit geglätteten Bossen, breite vorspringende Dachrinne (grondaia), große Portaltür und steinerne Sitzbank. Annahme: Putz und Farbe, Portalposition, Dachform.",
   "name": "Palazzo Bargellini"
 }

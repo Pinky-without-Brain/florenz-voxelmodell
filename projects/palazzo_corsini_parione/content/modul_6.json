@@ -1,0 +1,92 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume, Treppe, Galerie und Terrasse",
+  "subtitle": "Bautüte 6: Vestibül, Hof, Treppe Ferris, Galleria, Thronsaal, Ballsaal, Grotte, Portal und Terrasse mit Statuen",
+  "icon": "🏛️",
+  "parts": {
+    "vestibolo": {
+      "title": "Vestibül",
+      "description": "Eingangshalle hinter dem Portal am Lungarno in der Achse zum Haupthof: Schachboden aus Pietra serena und Marmor, Wandfelder zwischen Pilastern aus Pietra serena.",
+      "tip": "Boden zuerst, dann das Wandraster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage Stufe C; die Quelle beschreibt den Durchgang nicht.",
+      "fact": "Ein Portal mit geschnitztem Corsini-Wappen und seitlichen Säulen führt in den Hof (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "cortile": {
+      "title": "Haupthof",
+      "description": "Der Haupthof (Loch 0 des OSM-Umrisses, 45 × 56 Blöcke): Pflaster im Schachmuster mit Wegekreuz aus Pietra serena; rundum Arkaden im Erdgeschoss (Joch 5) mit einer Galerie dahinter.",
+      "tip": "Erst das Pflaster, die Arkaden bleiben offen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Balustrade auf Höhe des Piano nobile ist nicht gebaut; die Säulen stammen aus dem gemeinsamen Palazzo-Bauplan.",
+      "fact": "Der Plan in U-Form ordnet drei Flügel um einen zentralen Innenhof an; der rechte Flügel ist doppelt so breit wie der linke, weil der Entwurf unvollendet blieb (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "treppenhaus": {
+      "title": "Treppenhaus links vom Hof",
+      "description": "Hoher Raum links neben dem Haupthof (Erdgeschoss und Piano nobile): Boden im Schachmuster aus Marmor und Pflaster, Wandfelder in Weiß und Gelb zwischen Pilastern aus Pietra serena mit Goldrahmen.",
+      "tip": "Die Treppe steht vor dem Wandraster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage und Größe sind Entwurf (Stufe C).",
+      "fact": "Der monumentale Treppenaufgang Ferris ist mit neoklassizistischen Statuen geschmückt (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "scalone": {
+      "title": "Treppe Ferris",
+      "description": "Gerade Treppe aus zwölf Treppenblöcken aus Pietra serena, zwei Blöcke breit, vom Erdgeschoss zum Piano nobile; unter jeder Stufe trägt ein Kragstein, darüber ist der Boden offen (Kopffreiheit drei Blöcke).",
+      "tip": "Stufe für Stufe von unten, Kragstein zuerst.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Der Lauf ist als gerade Treppe vereinfacht; die Wendeltreppe Silvanis und die prunkvolle Gestaltung sind nicht nachgebildet, Lage Stufe C.",
+      "fact": "Der monumentale Treppenaufgang stammt von Ferri, die Wendeltreppe wird Silvani zugeschrieben (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "statuen_scalone": {
+      "title": "Statuen im Treppenhaus",
+      "description": "Zwei weiße Blockfiguren auf Sockeln am Fuß der Treppe und eine Figur mit goldener Krone auf dem oberen Absatz als Papst Clemens XII.",
+      "tip": "Sockel zuerst, dann Beine, Rumpf, Arme, Kopf.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Zahl der neoklassizistischen Statuen ist nicht belegt.",
+      "fact": "Der Treppenaufgang ist mit neoklassizistischen Statuen geschmückt; oben steht eine Statue Clemens’ XII. (Lorenzo Corsini) von Carlo Monaldi, 1737 aufgestellt (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "galleria": {
+      "title": "Galleria Corsini",
+      "description": "Lange Galerie im Piano nobile des Flügels am Lungarno: Boden im Schachmuster aus Rot und Marmor, Bildfelder in Braun, Blau, Rot, Grün und Gelb mit Goldrahmen zwischen Pilastern, Kassettendecke aus Holz und Gold.",
+      "tip": "Boden, Wandraster, dann die Decke.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Bildfelder zeigen keine bestimmten Werke; Lage und Länge der Galerie sind Entwurf (Stufe C).",
+      "fact": "Im ersten Stock liegt die Galleria Corsini mit Werken von Filippo Lippi, Giovanni Bellini, Signorelli, Pontormo, Caravaggio, Salvator Rosa und Luca Giordano (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "salone_del_trono": {
+      "title": "Salone del Trono",
+      "description": "Großer Saal im Piano nobile des Ostflügels: Boden in Rot und Marmor, Wandfelder in Rot und Gelb mit Goldrahmen und Fries, Deckenbild in farbigen Ringen (Götterhimmel), Podest mit Thron und drei Statuen an der Wand.",
+      "tip": "Boden, Wände, Deckenringe, dann Podest, Thron und Figuren.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Fresko ist nur ein Ringmuster; Zahl und Standort der antiken Statuen sind Entwurf.",
+      "fact": "Der Salone del Trono trägt das Deckenfresko Apoteosi di Casa Corsini von Anton Domenico Gabbiani (um 1696) und hat eine Galerie mit antiken Statuen (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "sala_da_ballo": {
+      "title": "Sala da Ballo",
+      "description": "Ballsaal im Piano nobile des südlichen Trakts: Holz-Cotto-Boden, weiße und hellblaue Wandfelder mit Goldrahmen, Gewölbebild in Ringen aus Rot, Hellblau und Weiß mit gelben Rippen.",
+      "tip": "Boden, Wände, dann die zwei Lagen der Decke.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Gewölbe ist als flache Decke mit Rippen angedeutet; Lage Stufe C.",
+      "fact": "Die Sala da Ballo hat ein Gewölbe von Alessandro Gherardini (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "grotta": {
+      "title": "Künstliche Grotte",
+      "description": "Saal im Erdgeschoss des Ostflügels am Lungarno mit Wänden und Decke aus Bruchstein, unregelmäßigen Tropfsteinen aus Bruchstein an der Decke und Boden aus Pietra serena und dunklem Stein.",
+      "tip": "Boden, Wände, dann die Decke mit den Tropfsteinen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Grotte ist nur als Raum aus rohem Stein angedeutet; Lage Stufe C.",
+      "fact": "Im Erdgeschoss liegt eine künstliche Grotte (1692–1698) (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "portal": {
+      "title": "Portal mit Wappen",
+      "description": "Am Rand des Fornices zum Lungarno sitzen links und rechts Säulen aus Quarz, darüber ein rotes Wappenschild mit goldener Mitte.",
+      "tip": "Säulen und Schild ersetzen einzelne Wandblöcke neben dem Portal.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das geschnitzte Wappen ist nur als Farbfläche angedeutet; seine Farben sind nicht belegt.",
+      "fact": "Das Portal hat ein geschnitztes Corsini-Wappen und seitliche Säulen (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "terrasse": {
+      "title": "Terrasse mit Balustrade und Statuen",
+      "description": "Das Flachdach ist als Terrasse über alle Flügel begehbar: Pflaster auf Lage 31, ringsum eine Balustrade von zwei Blöcken (abwechselnd Quarzsäule und Marmor) am Außen- und Hofrand; am Lungarno stehen alle zwölf Blöcke Statuen als Säulen mit goldenem Kopf und dazwischen Vasen aus Terrakotta; eine Treppe aus Pietra serena führt vom 2. Obergeschoss hinauf.",
+      "tip": "Treppe zuerst, dann Balustrade, dann Statuen und Vasen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Zahl und Form der Statuen sind nicht belegt; die Statuen sind einfache Säulen ohne Überhang, die Treppe ist Entwurf.",
+      "fact": "Das Dach zeigt eine Terrasse aus dem 18. Jahrhundert mit Steinbalustrade, geschmückt mit Statuen und Terrakotta-Vasen (Quelle: it.wikipedia, Palazzo Corsini al Parione)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

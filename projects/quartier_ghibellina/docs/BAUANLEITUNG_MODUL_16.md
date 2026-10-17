@@ -23,11 +23,11 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 148.031 | 31,2 % |
 | Rosa Keramik | `pink_terracotta` | 45.747 | 9,6 % |
-| Orange Keramik | `orange_terracotta` | 43.143 | 9,1 % |
 | Polierter Tuffstein | `polished_tuff` | 42.810 | 9,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 35.201 | 7,4 % |
+| Orange Keramik | `orange_terracotta` | 40.505 | 8,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 37.863 | 8,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 34.027 | 7,2 % |
-| Weißer Beton | `white_concrete` | 29.853 | 6,3 % |
+| Weißer Beton | `white_concrete` | 29.807 | 6,3 % |
 | Endsteinziegel | `end_stone_bricks` | 27.706 | 5,8 % |
 | Gelbe Keramik | `yellow_terracotta` | 17.160 | 3,6 % |
 | Tuffstein | `tuff` | 10.767 | 2,3 % |
@@ -36,7 +36,7 @@
 | Glatter Stein | `smooth_stone` | 6.253 | 1,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 4.042 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 2.956 | 0,6 % |
-| Grüner Beton | `green_concrete` | 2.411 | 0,5 % |
+| Grüner Beton | `green_concrete` | 2.433 | 0,5 % |
 | Ziegelsteine | `bricks` | 2.398 | 0,5 % |
 | Seelaterne | `sea_lantern` | 970 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 823 | 0,2 % |
@@ -692,14 +692,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.316 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.324 |
 | Polierter Tuffstein | `polished_tuff` | 273 |
-| Weißer Beton | `white_concrete` | 16 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
+| Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (Fassade vermutlich frühes 20. Jh. umgestaltet), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Francioni_Pampaloni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -711,7 +711,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 16.16 – Casa Francioni Pampaloni – Teil 2/2 (Y 78–97)
 
@@ -723,15 +723,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.322 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.338 |
 | Terrakotta | `terracotta` | 321 |
-| Weißer Beton | `white_concrete` | 30 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
+| Grüner Beton | `green_concrete` | 14 |
 | Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (Fassade vermutlich frühes 20. Jh. umgestaltet), 4 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Francioni_Pampaloni, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -743,7 +743,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 16.17 – Casa Francioni Pampaloni: Innenausbau
 

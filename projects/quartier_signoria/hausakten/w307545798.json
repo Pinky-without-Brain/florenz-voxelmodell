@@ -1,49 +1,57 @@
 {
   "id": "w307545798",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "Ende 14./Anfang 15. Jh. (Giuliano di Taddeo dell'Antella)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 4,
-    "material": "putz",
-    "putzfarbe": "weiss",
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
+      "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "dell_antella_wappen_ecke",
+      "madonna_mit_kind_15jh",
+      "spuren_rundbogenfenster"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Farine",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Kaufmannspalast von Ende 14./Anfang 15. Jh. (Bauherr Giuliano di Taddeo dell'Antella), vier Geschosse, Erdgeschoss in rustikalem Pietraforte-Bugnato mit großen Bögen (ursprünglich Fondaci und Läden), obere Geschosse verputzt, Spuren ursprünglicher Rundbogenfenster durch Rechteckfenster ersetzt, Dell'Antella-Wappen an der Ecke mit Madonna des 15. Jh. Annahme: Putzfarbe der oberen Geschosse, Achsen, Gesims.",
   "name": "Palazzo delle Farine"
 }

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 195.064 |
+| Blöcke | 195.096 |
 | Bauschritte | 127 |
 | Y-Bereich | 60 bis 106 |
 | X-Ausdehnung | 740 bis 921 (182 Blöcke) |
@@ -26,30 +26,29 @@
 | Polierter Tuffstein | `polished_tuff` | 17.733 | 9,1 % |
 | Weißer Beton | `white_concrete` | 17.578 | 9,0 % |
 | Orange Keramik | `orange_terracotta` | 14.119 | 7,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 13.581 | 7,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 10.299 | 5,3 % |
 | Endsteinziegel | `end_stone_bricks` | 9.789 | 5,0 % |
-| Glatter Sandstein | `smooth_sandstone` | 9.260 | 4,7 % |
 | Rosa Keramik | `pink_terracotta` | 8.374 | 4,3 % |
-| Graues Buntglas | `gray_stained_glass` | 4.003 | 2,1 % |
-| Polierter Andesit | `polished_andesite` | 3.647 | 1,9 % |
-| Glatter Stein | `smooth_stone` | 3.362 | 1,7 % |
-| Tuffstein | `tuff` | 2.765 | 1,4 % |
+| Glatter Stein | `smooth_stone` | 4.321 | 2,2 % |
+| Graues Buntglas | `gray_stained_glass` | 4.055 | 2,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.697 | 0,9 % |
+| Polierter Andesit | `polished_andesite` | 1.377 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 910 | 0,5 % |
 | Grüner Beton | `green_concrete` | 903 | 0,5 % |
 | Ziegelsteine | `bricks` | 868 | 0,4 % |
 | Seelaterne | `sea_lantern` | 407 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 361 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 335 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 314 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 304 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 280 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 235 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 235 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 47 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
@@ -60,7 +59,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 1.280 |
-| Steintreppe | `stone_stairs` | 120 |
+| Steintreppe | `stone_stairs` | 122 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -68,8 +67,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w115661901` | Palazzo des Cinquecento an Via dei Pepi | 16.230 | 0.1–0.9 |
 | 2 | `w115661901_innen` | Palazzo des Cinquecento an Via dei Pepi: Innenausbau | 3.253 | 0.10–0.11 |
-| 3 | `w307277597` | Palazzo Pepi-Ferri | 9.362 | 0.12–0.16 |
-| 4 | `w307277597_innen` | Palazzo Pepi-Ferri: Innenausbau | 2.046 | 0.17 |
+| 3 | `w307277597` | Palazzo Pepi-Ferri | 9.390 | 0.12–0.16 |
+| 4 | `w307277597_innen` | Palazzo Pepi-Ferri: Innenausbau | 2.050 | 0.17 |
 | 5 | `w484324878` | Haus w484324878 | 4.483 | 0.18–0.20 |
 | 6 | `w484324878_innen` | Haus w484324878: Innenausbau | 1.162 | 0.21 |
 | 7 | `w484324882` | Reihenhaus an Via Giovanni da Verrazzano | 2.826 | 0.22–0.23 |
@@ -500,7 +499,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.12 – Palazzo Pepi-Ferri – Teil 1/5 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.791
+- **Blöcke:** 1.826
 - **Bauteile:** `w307277597`
 
 **Teileliste**
@@ -508,14 +507,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.179 |
-| Tuffstein | `tuff` | 297 |
-| Polierter Andesit | `polished_andesite` | 197 |
-| Tuffsteinziegel | `tuff_bricks` | 111 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Glatter Sandstein | `smooth_sandstone` | 492 |
+| Glatter Stein | `smooth_stone` | 142 |
+| Polierter Andesit | `polished_andesite` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Beginn 15. Jh., Erweiterung 1441-1553; Kniefenster 17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Pepi-Ferri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -527,27 +526,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.13 – Palazzo Pepi-Ferri – Teil 2/5 (Y 65–74)
+### Schritt 0.13 – Palazzo Pepi-Ferri – Teil 2/5 (Y 65–73)
 
-- **Y-Bereich:** 65 bis 74
-- **Blöcke:** 2.022
+- **Y-Bereich:** 65 bis 73
+- **Blöcke:** 1.844
 - **Bauteile:** `w307277597`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 916 |
-| Polierter Andesit | `polished_andesite` | 657 |
-| Glatter Stein | `smooth_stone` | 186 |
-| Tuffsteinziegel | `tuff_bricks` | 171 |
+| Glatter Sandstein | `smooth_sandstone` | 1.281 |
+| Glatter Stein | `smooth_stone` | 432 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
+| Polierter Andesit | `polished_andesite` | 27 |
+| Tuffsteinziegel | `tuff_bricks` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Beginn 15. Jh., Erweiterung 1441-1553; Kniefenster 17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Pepi-Ferri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -559,26 +558,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.14 – Palazzo Pepi-Ferri – Teil 3/5 (Y 75–83)
+### Schritt 0.14 – Palazzo Pepi-Ferri – Teil 3/5 (Y 74–83)
 
-- **Y-Bereich:** 75 bis 83
-- **Blöcke:** 1.870
+- **Y-Bereich:** 74 bis 83
+- **Blöcke:** 2.015
 - **Bauteile:** `w307277597`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 840 |
-| Polierter Andesit | `polished_andesite` | 797 |
-| Glatter Stein | `smooth_stone` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
+| Glatter Sandstein | `smooth_sandstone` | 1.418 |
+| Glatter Stein | `smooth_stone` | 419 |
+| Graues Buntglas | `gray_stained_glass` | 161 |
+| Polierter Andesit | `polished_andesite` | 17 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Beginn 15. Jh., Erweiterung 1441-1553; Kniefenster 17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Pepi-Ferri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -590,26 +589,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.15 – Palazzo Pepi-Ferri – Teil 4/5 (Y 84–91)
 
 - **Y-Bereich:** 84 bis 91
-- **Blöcke:** 1.967
+- **Blöcke:** 1.993
 - **Bauteile:** `w307277597`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 712 |
-| Polierter Andesit | `polished_andesite` | 689 |
-| Glatter Stein | `smooth_stone` | 431 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
+| Glatter Sandstein | `smooth_sandstone` | 1.130 |
+| Glatter Stein | `smooth_stone` | 713 |
+| Graues Buntglas | `gray_stained_glass` | 134 |
+| Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Beginn 15. Jh., Erweiterung 1441-1553; Kniefenster 17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Pepi-Ferri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -621,7 +620,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.16 – Palazzo Pepi-Ferri – Teil 5/5 (Y 92–99)
 
@@ -638,7 +637,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Beginn 15. Jh., Erweiterung 1441-1553; Kniefenster 17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Pepi-Ferri, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -650,12 +649,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.17 – Palazzo Pepi-Ferri: Innenausbau
 
-- **Y-Bereich:** 61 bis 82
-- **Blöcke:** 2.046
+- **Y-Bereich:** 61 bis 83
+- **Blöcke:** 2.050
 - **Bauteile:** `w307277597_innen`
 
 **Teileliste**
@@ -663,10 +662,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.924 |
-| Glatter Stein | `smooth_stone` | 52 |
+| Glatter Stein | `smooth_stone` | 54 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 
@@ -674,7 +673,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 
 **Beschreibung**
 

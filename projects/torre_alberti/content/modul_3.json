@@ -1,0 +1,22 @@
+{
+  "module": 3,
+  "title": "Terrasse und Zinnen",
+  "subtitle": "Bautüte 3: Terrasse mit Brüstung und Zinnen",
+  "icon": "🏯",
+  "parts": {
+    "terrasse": {
+      "title": "Terrasse",
+      "description": "Auf Lage 35 liegt die Terrasse aus Pflaster, begehbar über die oberste Treppe; die Randzellen sind Pietra serena.",
+      "tip": "Die Terrasse ist unüberdeckt.",
+      "caution": "Die Terrasse ist nach der Quelle ein Zusatz des 19. Jahrhunderts, im Modell steht sie auf der Turmhöhe der OSM.",
+      "fact": "Das Terrässchen im oberen Teil ist eine Hinzufügung des 19. Jahrhunderts (Quelle: it.wikipedia, Torre degli Alberti)."
+    },
+    "zinnen": {
+      "title": "Brüstung und Zinnen",
+      "description": "Eine zwei Blöcke dicke Brüstung (zwei Lagen hoch) umschließt die Terrasse, außen mit Zinnenzähnen auf Lage 37.",
+      "tip": "Setze die Zähne im Abstand von zwei Blöcken.",
+      "caution": "Der Turm ist laut Quelle gekappt; die Zinnen sind eine Zutat des Modells (Stufe C).",
+      "fact": "Der Turm zeigt deutliche Spuren der Kappung (Quelle: it.wikipedia, Torre degli Alberti)."
+    }
+  }
+}

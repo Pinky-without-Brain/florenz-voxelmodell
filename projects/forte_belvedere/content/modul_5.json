@@ -1,0 +1,57 @@
+{
+  "module": 5,
+  "title": "Palazzina del Belvedere",
+  "subtitle": "Bautüte 5: Villa in der Mitte der Festung",
+  "icon": "🏛️",
+  "parts": {
+    "pal_boden": {
+      "title": "Boden der Palazzina",
+      "description": "Das Erdgeschoss liegt auf Y 185: in der Halle ein Schachbrett aus Marmor und Pietra serena, in den Räumen Holz.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Böden sind Entwurf (Stufe C).",
+      "fact": "Die Palazzina del Belvedere steht in der Mitte der Festung (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "pal_fassade": {
+      "title": "Fassade",
+      "description": "Weiße Fassade mit Sockel aus Pietra forte, Gesimsbändern über jedem Geschoss und drei Bögen an beiden Enden der Halle. Drei Geschosse zu je fünf Lagen, Dach bis Lage 18.",
+      "tip": "Baue Lage für Lage rund um den Grundriss.",
+      "caution": "Die Höhen sind aus den drei Geschossen der Quelle und der OSM-Höhe von 17 abgeleitet (Stufe C).",
+      "fact": "Die Palazzina ist weiß und hat drei Geschosse, im Erdgeschoss zwei durchgehende Logge in der Mitte der langen Seiten (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "pal_fenster": {
+      "title": "Fenster",
+      "description": "Verglaste Fenster im Abstand von sieben Blöcken: 3 breit im Erdgeschoss und im ersten Stock, 2 breit im zweiten Stock.",
+      "tip": "Die Fenster ersetzen Wandblöcke durch alle Wandlagen.",
+      "caution": "Das Raster ist Stufe C, nur die Abnahme nach oben ist belegt.",
+      "fact": "Die Fenster sind auf den Rändern der Achsen angeordnet und werden nach oben kleiner (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "pal_geschosse": {
+      "title": "Geschossböden und Decke",
+      "description": "Holzböden auf Lage 5 und 10, ausgespart über den beiden Treppen, und die Decke auf Lage 15.",
+      "tip": "Lasse die Treppenlöcher frei.",
+      "caution": "Das Loch ist so lang wie der Lauf.",
+      "fact": "Die oberen Geschosse sind nur über eine enge Treppe erreichbar (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "pal_trennwaende": {
+      "title": "Trennwände",
+      "description": "Zwei Längswände und je zwei Querwände teilen jedes Geschoss in eine zentrale Halle und sechs Räume; Türen (3 breit, 3 hoch) führen von der Halle in die Räume.",
+      "tip": "Die Türöffnungen bleiben frei.",
+      "caution": "Die Raumaufteilung ist nicht überliefert (Stufe C).",
+      "fact": "Die Palazzina ist ein kompakter Kubus mit Fensterachsen (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "pal_treppe": {
+      "title": "Treppen",
+      "description": "Zwei gerade Läufe aus je fünf Treppenblöcken (2 breit) im Nordwestraum führen vom Erdgeschoss in den ersten und weiter in den zweiten Stock, mit Stützblock unter jeder Stufe.",
+      "tip": "Beginne jeden Lauf auf dem Boden des Geschosses.",
+      "caution": "Die Quelle spricht von einer engen Treppe in der Mauer; hier liegt sie in einem Raum, weil die Mauer nur drei Blöcke dick ist.",
+      "fact": "Die oberen Geschosse erreicht man nur über eine enge, leicht zu sperrende Treppe in der Mauer (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "pal_dach": {
+      "title": "Dach",
+      "description": "Decke und massives Walmdach (Lage 16 bis 18); ein Dachraum entsteht nicht.",
+      "tip": "Fülle die Fläche und lege Ziegel obenauf.",
+      "caution": "Die Dachform ist Stufe C.",
+      "fact": "Die Palazzina steht frei im Hof der Festung (Quelle: it.wikipedia, Forte Belvedere)."
+    }
+  }
+}

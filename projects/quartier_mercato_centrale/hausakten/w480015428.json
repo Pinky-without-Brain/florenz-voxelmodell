@@ -1,7 +1,7 @@
 {
   "id": "w480015428",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "loggia",
+  "epoche": "1870–74 (Giuseppe Mengoni, Vorbild Les Halles)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,46 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 8,
-    "material": "putz",
-    "putzfarbe": "weiss",
+    "material": "stein_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "loggia_offen",
+      "portalBreiteBl": 8,
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 2
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "eisen_glas_halle",
+      "umlaufende_loggia_zehn_boegen_je_seite",
+      "saeulen_pietra_serena",
+      "drei_schiffe_oberlicht"
+    ]
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Mercato_Centrale_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Bau 1870–74 nach Entwurf von Giuseppe Mengoni (Vorbild Pariser Les Halles), Eisen, Glas und Gusseisen, umlaufende Loggia mit zehn klassischen Bögen je Seite auf Säulen aus Pietra serena, drei Schiffe mit hohen Oberlichtern, später (1979) Plattform im ersten Stock. Annahme: Eisen-Glas-Halle nur über Stein/Loggia-Näherung abgebildet, Dach als Flachdach.",
   "name": "Mercato di San Lorenzo"
 }

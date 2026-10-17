@@ -1,15 +1,15 @@
 {
   "id": "w306252402",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Bau ab 1445–46 (Agnolo di Ghezzo Della Casa), Fassade Via Cavour 1696 (Francesco Fontana)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -24,26 +24,30 @@
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_forte",
-      "laeden": "gruen"
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "terrasse_balustrade_auf_konsolen_ueber_portal",
+      "zwei_loggetten_18jh"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Panciatichi_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Palast ab 1445–46 (Agnolo di Ghezzo Della Casa), Hauptfassade an der Via Cavour 1696 von Francesco Fontana, zentrales Portal mit Terrasse mit Balustrade auf Konsolen, einfache Rechteckfenster im Erdgeschoss, im Piano nobile gleich große axial angeordnete Fenster mit Steinrahmen und Architraven, schlichtere Rahmen im zweiten Geschoss, zwei überdachte Loggetten auf dem Dach (18. Jh.). Annahme: Material, Achsen, Gesims.",
   "name": "Palazzo Panciatichi"
 }

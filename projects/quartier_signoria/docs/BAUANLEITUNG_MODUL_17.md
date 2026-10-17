@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 148.039 |
+| Blöcke | 147.995 |
 | Bauschritte | 92 |
 | Y-Bereich | 66 bis 113 |
 | X-Ausdehnung | -246 bis -126 (121 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 60.166 | 40,6 % |
+| Terrakotta | `terracotta` | 60.166 | 40,7 % |
 | Orange Keramik | `orange_terracotta` | 18.939 | 12,8 % |
 | Polierter Tuffstein | `polished_tuff` | 15.420 | 10,4 % |
 | Endsteinziegel | `end_stone_bricks` | 10.639 | 7,2 % |
@@ -29,10 +29,10 @@
 | Gelbe Keramik | `yellow_terracotta` | 9.232 | 6,2 % |
 | Rosa Keramik | `pink_terracotta` | 6.486 | 4,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 2.901 | 2,0 % |
-| Polierter Andesit | `polished_andesite` | 2.692 | 1,8 % |
-| Glatter Stein | `smooth_stone` | 2.602 | 1,8 % |
+| Polierter Andesit | `polished_andesite` | 2.781 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 2.548 | 1,7 % |
 | Graues Buntglas | `gray_stained_glass` | 2.434 | 1,6 % |
-| Tuffstein | `tuff` | 2.014 | 1,4 % |
+| Tuffstein | `tuff` | 1.930 | 1,3 % |
 | Ziegelsteine | `bricks` | 1.056 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 999 | 0,7 % |
 | Grüner Beton | `green_concrete` | 562 | 0,4 % |
@@ -44,7 +44,7 @@
 | Weiße Keramik | `white_terracotta` | 144 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 139 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 129 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 78 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 83 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 30 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
@@ -68,7 +68,7 @@
 | 2 | `r7298521_innen` | Reihenhaus an Via del Corso: Innenausbau | 3.138 | 17.6–17.7 |
 | 3 | `w114504751` | Palazzo des Cinquecento an Via dei Calzaiuoli | 22.692 | 17.8–17.19 |
 | 4 | `w114504751_innen` | Palazzo des Cinquecento an Via dei Calzaiuoli: Innenausbau | 7.321 | 17.20–17.25 |
-| 5 | `w355356762` | Torre dei della Bella | 2.753 | 17.26–17.27 |
+| 5 | `w355356762` | Torre dei della Bella | 2.709 | 17.26–17.27 |
 | 6 | `w355356762_innen` | Torre dei della Bella: Innenausbau | 696 | 17.28 |
 | 7 | `w497263218` | Reihenhaus an Via dei Tavolini | 3.110 | 17.29–17.30 |
 | 8 | `w497263218_innen` | Reihenhaus an Via dei Tavolini: Innenausbau | 1.037 | 17.31 |
@@ -931,22 +931,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 17.26 – Torre dei della Bella – Teil 1/2 (Y 67–83)
 
 - **Y-Bereich:** 67 bis 83
-- **Blöcke:** 1.395
+- **Blöcke:** 1.351
 - **Bauteile:** `w355356762`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.071 |
+| Tuffstein | `tuff` | 987 |
 | Polierter Tuffstein | `polished_tuff` | 265 |
-| Tuffsteinziegel | `tuff_bricks` | 31 |
-| Glatter Stein | `smooth_stone` | 19 |
+| Polierter Andesit | `polished_andesite` | 54 |
+| Tuffsteinziegel | `tuff_bricks` | 36 |
 | Graues Buntglas | `gray_stained_glass` | 9 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich (Datierung nicht belegt)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Della_Bella, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -958,7 +958,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 17.27 – Torre dei della Bella – Teil 2/2 (Y 84–103)
 
@@ -972,14 +972,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 943 |
 | Terrakotta | `terracotta` | 326 |
-| Glatter Stein | `smooth_stone` | 35 |
+| Polierter Andesit | `polished_andesite` | 35 |
 | Ziegelsteine | `bricks` | 20 |
 | Tuffsteinziegel | `tuff_bricks` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich (Datierung nicht belegt)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Della_Bella, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -991,7 +991,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 17.28 – Torre dei della Bella: Innenausbau
 

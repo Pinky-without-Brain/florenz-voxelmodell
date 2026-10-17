@@ -1,30 +1,34 @@
 {
   "id": "w306486037",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Quattrocento-Kern; Umbau 1561-64; Fassade 1843 (Leopoldo Pasqui)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 5
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
+    "achsen": 13,
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "portal_seitlich",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rechteck",
@@ -35,15 +39,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "zwei_portale_nr31_nr33",
+      "initialen_architrave",
+      "fassade_leicht_gekruemmt"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Caccini",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: drei Geschosse plus Mezzanin, dreizehn Achsen, Fassade 1843 von Leopoldo Pasqui restauriert, Portal Nr. 31 im Stil Ammannatis, Portal Nr. 33 von Pasqui, ununterbrochene Fensterreihen in den Obergeschossen, leicht gebrochene und gekrümmte Linie zur engen Straße. Annahme: Putzfarbe, Gesims, Dachform.",
   "name": "Palazzo Caccini"
 }

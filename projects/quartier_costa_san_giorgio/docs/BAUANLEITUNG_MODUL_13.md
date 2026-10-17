@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 13: Isolato I0472 – Vicolo della Cava
+# Bauanleitung Modul 13: Isolato I0480 – Via del Forte di San Giorgio
 
 *Quartier Costa San Giorgio: 1 Haus*
 
@@ -8,35 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.401 |
+| Blöcke | 7.988 |
 | Bauschritte | 5 |
-| Y-Bereich | 147 bis 184 |
-| X-Ausdehnung | -334 bis -300 (35 Blöcke) |
-| Z-Ausdehnung | 1914 bis 1945 (32 Blöcke) |
-| Kleinster Schritt | 953 Blöcke (Schritt 13.5) |
-| Mittlerer Schritt | 1.480 Blöcke |
-| Größter Schritt | 1.676 Blöcke (Schritt 13.1) |
+| Y-Bereich | 193 bis 229 |
+| X-Ausdehnung | -311 bis -284 (28 Blöcke) |
+| Z-Ausdehnung | 2208 bis 2243 (36 Blöcke) |
+| Kleinster Schritt | 1.099 Blöcke (Schritt 13.5) |
+| Mittlerer Schritt | 1.598 Blöcke |
+| Größter Schritt | 1.909 Blöcke (Schritt 13.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 4.056 | 54,8 % |
-| Terrakotta | `terracotta` | 1.550 | 20,9 % |
-| Polierter Tuffstein | `polished_tuff` | 463 | 6,3 % |
-| Graues Buntglas | `gray_stained_glass` | 456 | 6,2 % |
-| Grüner Beton | `green_concrete` | 362 | 4,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 186 | 2,5 % |
-| Tuffstein | `tuff` | 94 | 1,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,9 % |
-| Glatter Stein | `smooth_stone` | 64 | 0,9 % |
-| Ziegelsteine | `bricks` | 26 | 0,4 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,3 % |
-| Polierter Andesit | `polished_andesite` | 22 | 0,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 4.242 | 53,1 % |
+| Terrakotta | `terracotta` | 1.628 | 20,4 % |
+| Weißer Beton | `white_concrete` | 924 | 11,6 % |
+| Polierter Tuffstein | `polished_tuff` | 531 | 6,6 % |
+| Graues Buntglas | `gray_stained_glass` | 274 | 3,4 % |
+| Grüner Beton | `green_concrete` | 189 | 2,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,8 % |
+| Polierter Andesit | `polished_andesite` | 43 | 0,5 % |
+| Ziegelsteine | `bricks` | 39 | 0,5 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,3 % |
 | Seelaterne | `sea_lantern` | 8 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 2 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -48,32 +44,62 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w474366880` | Reihenhaus an Vicolo della Cava | 6.448 | 13.1–13.4 |
-| 2 | `w474366880_innen` | Reihenhaus an Vicolo della Cava: Innenausbau | 953 | 13.5 |
+| 1 | `w119229750` | Reihenhaus an Via del Forte di San Giorgio | 6.889 | 13.1–13.4 |
+| 2 | `w119229750_innen` | Reihenhaus an Via del Forte di San Giorgio: Innenausbau | 1.099 | 13.5 |
 
 ## Bauschritte
 
-### Schritt 13.1 – Reihenhaus an Vicolo della Cava – Teil 1/4 (Y 147–156)
+### Schritt 13.1 – Reihenhaus an Via del Forte di San Giorgio – Teil 1/4 (Y 193–199)
 
-- **Y-Bereich:** 147 bis 156
-- **Blöcke:** 1.676
-- **Bauteile:** `w474366880`
+- **Y-Bereich:** 193 bis 199
+- **Blöcke:** 1.635
+- **Bauteile:** `w119229750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 875 |
-| Polierter Tuffstein | `polished_tuff` | 463 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Tuffstein | `tuff` | 94 |
-| Glatter Stein | `smooth_stone` | 64 |
+| Glatter Sandstein | `smooth_sandstone` | 853 |
+| Polierter Tuffstein | `polished_tuff` | 531 |
+| Weißer Beton | `white_concrete` | 113 |
+| Graues Buntglas | `gray_stained_glass` | 50 |
+| Grüner Beton | `green_concrete` | 45 |
+| Polierter Andesit | `polished_andesite` | 43 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.2 – Reihenhaus an Via del Forte di San Giorgio – Teil 2/4 (Y 200–208)
+
+- **Y-Bereich:** 200 bis 208
+- **Blöcke:** 1.713
+- **Bauteile:** `w119229750`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.265 |
+| Weißer Beton | `white_concrete` | 310 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
 | Grüner Beton | `green_concrete` | 54 |
-| Polierter Andesit | `polished_andesite` | 22 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -87,23 +113,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Reihenhaus an Vicolo della Cava – Teil 2/4 (Y 157–165)
+### Schritt 13.3 – Reihenhaus an Via del Forte di San Giorgio – Teil 3/4 (Y 209–218)
 
-- **Y-Bereich:** 157 bis 165
-- **Blöcke:** 1.510
-- **Bauteile:** `w474366880`
+- **Y-Bereich:** 209 bis 218
+- **Blöcke:** 1.909
+- **Bauteile:** `w119229750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.270 |
-| Graues Buntglas | `gray_stained_glass` | 128 |
-| Grüner Beton | `green_concrete` | 112 |
+| Glatter Sandstein | `smooth_sandstone` | 1.455 |
+| Weißer Beton | `white_concrete` | 316 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
+| Grüner Beton | `green_concrete` | 54 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -117,23 +144,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.3 – Reihenhaus an Vicolo della Cava – Teil 3/4 (Y 166–175)
+### Schritt 13.4 – Reihenhaus an Via del Forte di San Giorgio – Teil 4/4 (Y 219–229)
 
-- **Y-Bereich:** 166 bis 175
-- **Blöcke:** 1.665
-- **Bauteile:** `w474366880`
+- **Y-Bereich:** 219 bis 229
+- **Blöcke:** 1.632
+- **Bauteile:** `w119229750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.365 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 140 |
+| Glatter Sandstein | `smooth_sandstone` | 669 |
+| Terrakotta | `terracotta` | 647 |
+| Weißer Beton | `white_concrete` | 185 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Ziegelsteine | `bricks` | 39 |
+| Grüner Beton | `green_concrete` | 36 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -147,56 +177,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.4 – Reihenhaus an Vicolo della Cava – Teil 4/4 (Y 176–184)
+### Schritt 13.5 – Reihenhaus an Via del Forte di San Giorgio: Innenausbau
 
-- **Y-Bereich:** 176 bis 184
-- **Blöcke:** 1.597
-- **Bauteile:** `w474366880`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 719 |
-| Hellgrauer Beton | `light_gray_concrete` | 546 |
-| Fichtenholz-Bretter | `spruce_planks` | 186 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Grüner Beton | `green_concrete` | 56 |
-| Ziegelsteine | `bricks` | 26 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.5 – Reihenhaus an Vicolo della Cava: Innenausbau
-
-- **Y-Bereich:** 149 bis 173
-- **Blöcke:** 953
-- **Bauteile:** `w474366880_innen`
+- **Y-Bereich:** 193 bis 216
+- **Blöcke:** 1.099
+- **Bauteile:** `w119229750_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 831 |
+| Terrakotta | `terracotta` | 981 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -206,7 +201,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

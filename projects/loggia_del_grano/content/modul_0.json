@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Fundament und Boden auf Y 61",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Das Gelände liegt unter der Loggia überall bei Y 61 und wird auf Y 60 abgetragen; ein Fundament entsteht nur, wo das Gelände tiefer läge.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Hier entfällt das Fundament.",
+      "fact": "Giulio Parigi baute die Loggia ab 1619 im Auftrag von Cosimo II. an der Stelle eines älteren Baus des 14. Jahrhunderts (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 61 liegt der Boden der Halle als Schachbrett aus Pietra serena und Pflaster (drei Blöcke je Feld), unter den Mauern Pietra forte.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt Bautüte 5.",
+      "fact": "Die Loggia war ursprünglich Getreidemarkt und Lager (Quelle: it.wikipedia, Loggia del Grano)."
+    }
+  }
+}

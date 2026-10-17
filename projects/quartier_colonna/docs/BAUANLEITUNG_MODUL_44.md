@@ -1,283 +1,86 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 44: Isolato I0770 – Viale Giacomo Matteotti
+# Bauanleitung Modul 44: Isolato I0774 – Via Giuseppe Giusti
 
-*Quartier Via della Colonna: 4 Häuser*
+*Quartier Via della Colonna: 1 Haus*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 57.728 |
-| Bauschritte | 36 |
-| Y-Bereich | 69 bis 109 |
-| X-Ausdehnung | 1511 bis 1630 (120 Blöcke) |
-| Z-Ausdehnung | -1432 bis -1312 (121 Blöcke) |
-| Kleinster Schritt | 750 Blöcke (Schritt 44.16) |
-| Mittlerer Schritt | 1.604 Blöcke |
-| Größter Schritt | 2.071 Blöcke (Schritt 44.11) |
+| Blöcke | 53.635 |
+| Bauschritte | 39 |
+| Y-Bereich | 65 bis 105 |
+| X-Ausdehnung | 1517 bis 1651 (135 Blöcke) |
+| Z-Ausdehnung | -733 bis -624 (110 Blöcke) |
+| Kleinster Schritt | 480 Blöcke (Schritt 44.1) |
+| Mittlerer Schritt | 1.375 Blöcke |
+| Größter Schritt | 2.075 Blöcke (Schritt 44.25) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 14.358 | 24,9 % |
-| Terrakotta | `terracotta` | 11.889 | 20,6 % |
-| Orange Keramik | `orange_terracotta` | 10.044 | 17,4 % |
-| Polierter Tuffstein | `polished_tuff` | 7.904 | 13,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 4.678 | 8,1 % |
-| Weißer Beton | `white_concrete` | 3.396 | 5,9 % |
-| Glatter Stein | `smooth_stone` | 2.072 | 3,6 % |
-| Tuffstein | `tuff` | 1.208 | 2,1 % |
-| Graues Buntglas | `gray_stained_glass` | 1.118 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 399 | 0,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 203 | 0,4 % |
-| Ziegelsteine | `bricks` | 128 | 0,2 % |
-| Seelaterne | `sea_lantern` | 93 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 51 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 47 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 29 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 28 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 27 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 8 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 8 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 8 | 0,0 % |
+| Terrakotta | `terracotta` | 15.956 | 29,7 % |
+| Tuffstein | `tuff` | 14.256 | 26,6 % |
+| Polierter Andesit | `polished_andesite` | 10.365 | 19,3 % |
+| Polierter Tuffstein | `polished_tuff` | 5.431 | 10,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 2.666 | 5,0 % |
+| Glatter Stein | `smooth_stone` | 2.414 | 4,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.443 | 2,7 % |
+| Endsteinziegel | `end_stone_bricks` | 642 | 1,2 % |
+| Ziegelsteine | `bricks` | 326 | 0,6 % |
+| Seelaterne | `sea_lantern` | 78 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 5 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 5 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 154 |
-| Steintreppe | `stone_stairs` | 60 |
+| Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w120136025` | Reihenhaus an Viale Giacomo Matteotti | 8.225 | 44.1–44.5 |
-| 2 | `w120136025_innen` | Reihenhaus an Viale Giacomo Matteotti: Innenausbau | 1.710 | 44.6 |
-| 3 | `w475358356` | Reihenhaus an Viale Giacomo Matteotti | 7.380 | 44.7–44.10 |
-| 4 | `w475358356_innen` | Reihenhaus an Viale Giacomo Matteotti: Innenausbau | 2.071 | 44.11 |
-| 5 | `w475358373` | Haus w475358373 | 6.421 | 44.12–44.15 |
-| 6 | `w475358373_innen` | Haus w475358373: Innenausbau | 750 | 44.16 |
-| 7 | `w475358376` | Villa Donatello - Presidio di Firenze Centro | 25.658 | 44.17–44.32 |
-| 8 | `w475358376_innen` | Villa Donatello - Presidio di Firenze Centro: Innenausbau | 5.513 | 44.33–44.36 |
+| 1 | `r1588121` | Renaissance-Palazzo an Via Giuseppe Giusti | 44.736 | 44.1–44.33 |
+| 2 | `r1588121_innen` | Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau | 8.899 | 44.34–44.39 |
 
 ## Bauschritte
 
-### Schritt 44.1 – Reihenhaus an Viale Giacomo Matteotti – Teil 1/5 (Y 72–76)
+### Schritt 44.1 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 1/33 (Y 65–66)
 
-- **Y-Bereich:** 72 bis 76
-- **Blöcke:** 1.603
-- **Bauteile:** `w120136025`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 769 |
-| Polierter Tuffstein | `polished_tuff` | 754 |
-| Weißer Beton | `white_concrete` | 58 |
-| Glatter Stein | `smooth_stone` | 12 |
-| Graues Buntglas | `gray_stained_glass` | 10 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.2 – Reihenhaus an Viale Giacomo Matteotti – Teil 2/5 (Y 77–84)
-
-- **Y-Bereich:** 77 bis 84
-- **Blöcke:** 1.738
-- **Bauteile:** `w120136025`
+- **Y-Bereich:** 65 bis 66
+- **Blöcke:** 480
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.515 |
-| Weißer Beton | `white_concrete` | 172 |
-| Graues Buntglas | `gray_stained_glass` | 34 |
-| Polierter Andesit | `polished_andesite` | 10 |
-| Glatter Stein | `smooth_stone` | 7 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.3 – Reihenhaus an Viale Giacomo Matteotti – Teil 3/5 (Y 85–91)
-
-- **Y-Bereich:** 85 bis 91
-- **Blöcke:** 1.523
-- **Bauteile:** `w120136025`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.270 |
-| Weißer Beton | `white_concrete` | 217 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.4 – Reihenhaus an Viale Giacomo Matteotti – Teil 4/5 (Y 92–99)
-
-- **Y-Bereich:** 92 bis 99
-- **Blöcke:** 1.736
-- **Bauteile:** `w120136025`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.445 |
-| Weißer Beton | `white_concrete` | 243 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.5 – Reihenhaus an Viale Giacomo Matteotti – Teil 5/5 (Y 100–109)
-
-- **Y-Bereich:** 100 bis 109
-- **Blöcke:** 1.625
-- **Bauteile:** `w120136025`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 909 |
-| Orange Keramik | `orange_terracotta` | 562 |
-| Weißer Beton | `white_concrete` | 101 |
-| Ziegelsteine | `bricks` | 53 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.6 – Reihenhaus an Viale Giacomo Matteotti: Innenausbau
-
-- **Y-Bereich:** 72 bis 96
-- **Blöcke:** 1.710
-- **Bauteile:** `w120136025_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.575 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
-| Seelaterne | `sea_lantern` | 16 |
+| Tuffstein | `tuff` | 477 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 44.7 – Reihenhaus an Viale Giacomo Matteotti – Teil 1/4 (Y 71–78)
-
-- **Y-Bereich:** 71 bis 78
-- **Blöcke:** 1.894
-- **Bauteile:** `w475358356`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 887 |
-| Polierter Tuffstein | `polished_tuff` | 836 |
-| Glatter Stein | `smooth_stone` | 106 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Tuffstein | `tuff` | 5 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -291,23 +94,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.8 – Reihenhaus an Viale Giacomo Matteotti – Teil 2/4 (Y 79–88)
+### Schritt 44.2 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 2/33 (Y 67–67)
 
-- **Y-Bereich:** 79 bis 88
-- **Blöcke:** 1.835
-- **Bauteile:** `w475358356`
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.798
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.588 |
-| Glatter Stein | `smooth_stone` | 199 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
+| Polierter Tuffstein | `polished_tuff` | 1.798 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -321,23 +122,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.9 – Reihenhaus an Viale Giacomo Matteotti – Teil 3/4 (Y 89–98)
+### Schritt 44.3 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 3/33 (Y 67–67)
 
-- **Y-Bereich:** 89 bis 98
-- **Blöcke:** 1.841
-- **Bauteile:** `w475358356`
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.802
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.569 |
-| Glatter Stein | `smooth_stone` | 222 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
+| Polierter Tuffstein | `polished_tuff` | 1.802 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -351,97 +150,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.10 – Reihenhaus an Viale Giacomo Matteotti – Teil 4/4 (Y 99–109)
+### Schritt 44.4 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 4/33 (Y 67–67)
 
-- **Y-Bereich:** 99 bis 109
-- **Blöcke:** 1.810
-- **Bauteile:** `w475358356`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.021 |
-| Gelbe Keramik | `yellow_terracotta` | 634 |
-| Glatter Stein | `smooth_stone` | 76 |
-| Ziegelsteine | `bricks` | 59 |
-| Graues Buntglas | `gray_stained_glass` | 20 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.11 – Reihenhaus an Viale Giacomo Matteotti: Innenausbau
-
-- **Y-Bereich:** 72 bis 96
-- **Blöcke:** 2.071
-- **Bauteile:** `w475358356_innen`
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.833
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.926 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
-| Seelaterne | `sea_lantern` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Polierter Tuffstein | `polished_tuff` | 1.831 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 44.12 – Haus w475358373 – Teil 1/4 (Y 73–80)
-
-- **Y-Bereich:** 73 bis 80
-- **Blöcke:** 1.610
-- **Bauteile:** `w475358373`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 992 |
-| Polierter Tuffstein | `polished_tuff` | 399 |
-| Graues Buntglas | `gray_stained_glass` | 79 |
-| Weißer Beton | `white_concrete` | 76 |
-| Glatter Stein | `smooth_stone` | 64 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -455,24 +186,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.13 – Haus w475358373 – Teil 2/4 (Y 81–89)
+### Schritt 44.5 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 5/33 (Y 68–68)
 
-- **Y-Bereich:** 81 bis 89
-- **Blöcke:** 1.632
-- **Bauteile:** `w475358373`
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 920
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.347 |
-| Weißer Beton | `white_concrete` | 222 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
-| Glatter Stein | `smooth_stone` | 15 |
+| Tuffstein | `tuff` | 662 |
+| Tuffsteinziegel | `tuff_bricks` | 214 |
+| Glatter Stein | `smooth_stone` | 38 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -486,23 +217,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.14 – Haus w475358373 – Teil 3/4 (Y 90–98)
+### Schritt 44.6 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 6/33 (Y 69–69)
 
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 1.632
-- **Bauteile:** `w475358373`
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 920
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.322 |
-| Weißer Beton | `white_concrete` | 262 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
+| Tuffstein | `tuff` | 681 |
+| Tuffsteinziegel | `tuff_bricks` | 222 |
+| Glatter Stein | `smooth_stone` | 13 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -516,25 +248,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.15 – Haus w475358373 – Teil 4/4 (Y 99–108)
+### Schritt 44.7 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 7/33 (Y 70–71)
 
-- **Y-Bereich:** 99 bis 108
-- **Blöcke:** 1.547
-- **Bauteile:** `w475358373`
+- **Y-Bereich:** 70 bis 71
+- **Blöcke:** 1.731
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 822 |
-| Terrakotta | `terracotta` | 519 |
-| Weißer Beton | `white_concrete` | 158 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
-| Ziegelsteine | `bricks` | 16 |
+| Tuffstein | `tuff` | 962 |
+| Polierter Andesit | `polished_andesite` | 449 |
+| Tuffsteinziegel | `tuff_bricks` | 167 |
+| Graues Buntglas | `gray_stained_glass` | 102 |
+| Glatter Stein | `smooth_stone` | 51 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -548,63 +280,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.16 – Haus w475358373: Innenausbau
+### Schritt 44.8 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 8/33 (Y 72–73)
 
-- **Y-Bereich:** 73 bis 97
-- **Blöcke:** 750
-- **Bauteile:** `w475358373_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 621 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 69 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 44.17 – Villa Donatello - Presidio di Firenze Centro – Teil 1/16 (Y 69–71)
-
-- **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.203
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 72 bis 73
+- **Blöcke:** 1.721
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.203 |
+| Tuffstein | `tuff` | 1.024 |
+| Polierter Andesit | `polished_andesite` | 283 |
+| Graues Buntglas | `gray_stained_glass` | 206 |
+| Tuffsteinziegel | `tuff_bricks` | 157 |
+| Glatter Stein | `smooth_stone` | 51 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -618,21 +312,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.18 – Villa Donatello - Presidio di Firenze Centro – Teil 2/16 (Y 72–72)
+### Schritt 44.9 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 9/33 (Y 74–74)
 
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.612
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 74 bis 74
+- **Blöcke:** 962
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.612 |
+| Tuffstein | `tuff` | 555 |
+| Polierter Andesit | `polished_andesite` | 135 |
+| Tuffsteinziegel | `tuff_bricks` | 131 |
+| Graues Buntglas | `gray_stained_glass` | 103 |
+| Glatter Stein | `smooth_stone` | 38 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -646,21 +344,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.19 – Villa Donatello - Presidio di Firenze Centro – Teil 3/16 (Y 72–72)
+### Schritt 44.10 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 10/33 (Y 75–76)
 
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.629
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 75 bis 76
+- **Blöcke:** 1.806
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.629 |
+| Tuffstein | `tuff` | 1.145 |
+| Polierter Andesit | `polished_andesite` | 377 |
+| Tuffsteinziegel | `tuff_bricks` | 137 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Glatter Stein | `smooth_stone` | 51 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -674,25 +376,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.20 – Villa Donatello - Presidio di Firenze Centro – Teil 4/16 (Y 73–75)
+### Schritt 44.11 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 11/33 (Y 77–77)
 
-- **Y-Bereich:** 73 bis 75
-- **Blöcke:** 1.714
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 988
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.541 |
-| Weißer Beton | `white_concrete` | 114 |
-| Polierter Andesit | `polished_andesite` | 50 |
-| Glatter Stein | `smooth_stone` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Tuffstein | `tuff` | 733 |
+| Tuffsteinziegel | `tuff_bricks` | 242 |
+| Glatter Stein | `smooth_stone` | 13 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -706,26 +406,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.21 – Villa Donatello - Presidio di Firenze Centro – Teil 5/16 (Y 76–78)
+### Schritt 44.12 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 12/33 (Y 78–78)
 
-- **Y-Bereich:** 76 bis 78
-- **Blöcke:** 1.647
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 78 bis 78
+- **Blöcke:** 1.379
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.248 |
-| Weißer Beton | `white_concrete` | 225 |
-| Graues Buntglas | `gray_stained_glass` | 117 |
-| Polierter Andesit | `polished_andesite` | 42 |
-| Glatter Stein | `smooth_stone` | 10 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Glatter Stein | `smooth_stone` | 948 |
+| Tuffstein | `tuff` | 431 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -739,24 +435,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.22 – Villa Donatello - Presidio di Firenze Centro – Teil 6/16 (Y 79–81)
+### Schritt 44.13 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 13/33 (Y 79–79)
 
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.676
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.071
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.287 |
-| Weißer Beton | `white_concrete` | 264 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
-| Polierter Andesit | `polished_andesite` | 47 |
+| Tuffstein | `tuff` | 431 |
+| Polierter Andesit | `polished_andesite` | 340 |
+| Tuffsteinziegel | `tuff_bricks` | 287 |
+| Glatter Stein | `smooth_stone` | 13 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -770,23 +466,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.23 – Villa Donatello - Presidio di Firenze Centro – Teil 7/16 (Y 82–84)
+### Schritt 44.14 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 14/33 (Y 80–80)
 
-- **Y-Bereich:** 82 bis 84
-- **Blöcke:** 1.722
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 80 bis 80
+- **Blöcke:** 1.138
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.345 |
-| Glatter Stein | `smooth_stone` | 363 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Polierter Andesit | `polished_andesite` | 546 |
+| Tuffstein | `tuff` | 431 |
+| Tuffsteinziegel | `tuff_bricks` | 123 |
+| Glatter Stein | `smooth_stone` | 38 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -800,24 +497,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.24 – Villa Donatello - Presidio di Firenze Centro – Teil 8/16 (Y 85–87)
+### Schritt 44.15 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 15/33 (Y 81–82)
 
-- **Y-Bereich:** 85 bis 87
-- **Blöcke:** 1.672
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 81 bis 82
+- **Blöcke:** 2.008
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.262 |
-| Weißer Beton | `white_concrete` | 281 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
-| Polierter Andesit | `polished_andesite` | 47 |
+| Tuffstein | `tuff` | 728 |
+| Polierter Andesit | `polished_andesite` | 618 |
+| Tuffsteinziegel | `tuff_bricks` | 403 |
+| Graues Buntglas | `gray_stained_glass` | 208 |
+| Glatter Stein | `smooth_stone` | 51 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -831,24 +529,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.25 – Villa Donatello - Presidio di Firenze Centro – Teil 9/16 (Y 88–90)
+### Schritt 44.16 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 16/33 (Y 83–83)
 
-- **Y-Bereich:** 88 bis 90
-- **Blöcke:** 1.647
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 83 bis 83
+- **Blöcke:** 1.004
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.250 |
-| Weißer Beton | `white_concrete` | 240 |
-| Graues Buntglas | `gray_stained_glass` | 123 |
-| Polierter Andesit | `polished_andesite` | 34 |
+| Polierter Andesit | `polished_andesite` | 391 |
+| Tuffstein | `tuff` | 364 |
+| Tuffsteinziegel | `tuff_bricks` | 132 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
+| Glatter Stein | `smooth_stone` | 13 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -862,24 +561,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.26 – Villa Donatello - Presidio di Firenze Centro – Teil 10/16 (Y 91–93)
+### Schritt 44.17 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 17/33 (Y 84–84)
 
-- **Y-Bereich:** 91 bis 93
-- **Blöcke:** 1.722
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.004
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.198 |
-| Glatter Stein | `smooth_stone` | 363 |
-| Weißer Beton | `white_concrete` | 121 |
-| Polierter Andesit | `polished_andesite` | 40 |
+| Polierter Andesit | `polished_andesite` | 375 |
+| Tuffstein | `tuff` | 364 |
+| Tuffsteinziegel | `tuff_bricks` | 123 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
+| Glatter Stein | `smooth_stone` | 38 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -893,24 +593,238 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.27 – Villa Donatello - Presidio di Firenze Centro – Teil 11/16 (Y 94–95)
+### Schritt 44.18 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 18/33 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.071
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 431 |
+| Polierter Andesit | `polished_andesite` | 416 |
+| Tuffsteinziegel | `tuff_bricks` | 211 |
+| Glatter Stein | `smooth_stone` | 13 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.19 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 19/33 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.071
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 488 |
+| Tuffstein | `tuff` | 431 |
+| Tuffsteinziegel | `tuff_bricks` | 117 |
+| Glatter Stein | `smooth_stone` | 35 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.20 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 20/33 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.379
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 706 |
+| Tuffstein | `tuff` | 431 |
+| Polierter Andesit | `polished_andesite` | 242 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.21 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 21/33 (Y 88–88)
+
+- **Y-Bereich:** 88 bis 88
+- **Blöcke:** 1.071
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 602 |
+| Tuffstein | `tuff` | 431 |
+| Glatter Stein | `smooth_stone` | 38 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.22 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 22/33 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
+- **Blöcke:** 1.138
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 694 |
+| Tuffstein | `tuff` | 431 |
+| Glatter Stein | `smooth_stone` | 13 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.23 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 23/33 (Y 90–91)
+
+- **Y-Bereich:** 90 bis 91
+- **Blöcke:** 2.008
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 1.021 |
+| Tuffstein | `tuff` | 728 |
+| Graues Buntglas | `gray_stained_glass` | 208 |
+| Glatter Stein | `smooth_stone` | 51 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.24 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 24/33 (Y 92–93)
+
+- **Y-Bereich:** 92 bis 93
+- **Blöcke:** 2.008
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 1.021 |
+| Tuffstein | `tuff` | 728 |
+| Graues Buntglas | `gray_stained_glass` | 208 |
+| Glatter Stein | `smooth_stone` | 51 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.25 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 25/33 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
-- **Blöcke:** 1.123
-- **Bauteile:** `w475358376`
+- **Blöcke:** 2.075
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 854 |
-| Weißer Beton | `white_concrete` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 41 |
-| Polierter Andesit | `polished_andesite` | 27 |
+| Polierter Andesit | `polished_andesite` | 1.125 |
+| Tuffstein | `tuff` | 795 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
+| Glatter Stein | `smooth_stone` | 51 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -924,24 +838,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.28 – Villa Donatello - Presidio di Firenze Centro – Teil 12/16 (Y 96–98)
+### Schritt 44.26 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 26/33 (Y 96–96)
 
-- **Y-Bereich:** 96 bis 98
-- **Blöcke:** 1.647
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 96 bis 96
+- **Blöcke:** 1.392
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.250 |
-| Weißer Beton | `white_concrete` | 240 |
-| Graues Buntglas | `gray_stained_glass` | 123 |
-| Polierter Andesit | `polished_andesite` | 34 |
+| Polierter Andesit | `polished_andesite` | 605 |
+| Tuffstein | `tuff` | 431 |
+| Endsteinziegel | `end_stone_bricks` | 321 |
+| Glatter Stein | `smooth_stone` | 35 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -955,25 +869,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.29 – Villa Donatello - Presidio di Firenze Centro – Teil 13/16 (Y 99–101)
+### Schritt 44.27 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 27/33 (Y 97–97)
 
-- **Y-Bereich:** 99 bis 101
-- **Blöcke:** 1.864
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 97 bis 97
+- **Blöcke:** 1.392
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.408 |
-| Weißer Beton | `white_concrete` | 201 |
-| Glatter Stein | `smooth_stone` | 167 |
-| Polierter Andesit | `polished_andesite` | 47 |
-| Graues Buntglas | `gray_stained_glass` | 41 |
+| Polierter Andesit | `polished_andesite` | 627 |
+| Tuffstein | `tuff` | 431 |
+| Endsteinziegel | `end_stone_bricks` | 321 |
+| Glatter Stein | `smooth_stone` | 13 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -987,24 +900,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.30 – Villa Donatello - Presidio di Firenze Centro – Teil 14/16 (Y 102–102)
+### Schritt 44.28 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 28/33 (Y 98–98)
 
-- **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.833
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 98 bis 98
+- **Blöcke:** 1.242
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.424 |
-| Hellgrauer Beton | `light_gray_concrete` | 254 |
-| Glatter Stein | `smooth_stone` | 153 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Terrakotta | `terracotta` | 1.242 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -1018,24 +928,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.31 – Villa Donatello - Presidio di Firenze Centro – Teil 15/16 (Y 102–102)
+### Schritt 44.29 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 29/33 (Y 98–98)
 
-- **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.799
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 98 bis 98
+- **Blöcke:** 1.253
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.250 |
-| Hellgrauer Beton | `light_gray_concrete` | 313 |
-| Glatter Stein | `smooth_stone` | 231 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Terrakotta | `terracotta` | 1.253 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -1049,21 +956,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.32 – Villa Donatello - Presidio di Firenze Centro – Teil 16/16 (Y 103–104)
+### Schritt 44.30 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 30/33 (Y 99–99)
 
-- **Y-Bereich:** 103 bis 104
-- **Blöcke:** 1.148
-- **Bauteile:** `w475358376`
+- **Y-Bereich:** 99 bis 99
+- **Blöcke:** 1.449
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.148 |
+| Terrakotta | `terracotta` | 1.449 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -1077,146 +984,107 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.33 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 1/4 (Y 72–83)
+### Schritt 44.31 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 31/33 (Y 100–100)
 
-- **Y-Bereich:** 72 bis 83
-- **Blöcke:** 1.433
-- **Bauteile:** `w475358376_innen`
+- **Y-Bereich:** 100 bis 100
+- **Blöcke:** 1.511
+- **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.359 |
+| Terrakotta | `terracotta` | 1.511 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.32 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 32/33 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.294
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.234 |
+| Ziegelsteine | `bricks` | 60 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.33 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 33/33 (Y 102–105)
+
+- **Y-Bereich:** 102 bis 105
+- **Blöcke:** 817
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 551 |
+| Ziegelsteine | `bricks` | 266 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.34 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 1/6 (Y 67–78)
+
+- **Y-Bereich:** 67 bis 78
+- **Blöcke:** 1.534
+- **Bauteile:** `r1588121_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.453 |
+| Seelaterne | `sea_lantern` | 33 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 21 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 44.34 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 2/4 (Y 83–85)
-
-- **Y-Bereich:** 83 bis 85
-- **Blöcke:** 1.324
-- **Bauteile:** `w475358376_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.300 |
-| Seelaterne | `sea_lantern` | 9 |
-| Glatter Stein | `smooth_stone` | 4 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 4 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 4 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 44.35 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 3/4 (Y 86–92)
-
-- **Y-Bereich:** 86 bis 92
-- **Blöcke:** 1.399
-- **Bauteile:** `w475358376_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.359 |
-| Glatter Stein | `smooth_stone` | 20 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 6 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 14 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 44.36 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 4/4 (Y 92–102)
-
-- **Y-Bereich:** 92 bis 102
-- **Blöcke:** 1.357
-- **Bauteile:** `w475358376_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.300 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1226,7 +1094,188 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 44.35 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 2/6 (Y 78–78)
+
+- **Y-Bereich:** 78 bis 78
+- **Blöcke:** 1.475
+- **Bauteile:** `r1588121_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.465 |
+| Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 44.36 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 3/6 (Y 78–78)
+
+- **Y-Bereich:** 78 bis 78
+- **Blöcke:** 1.451
+- **Bauteile:** `r1588121_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.440 |
+| Seelaterne | `sea_lantern` | 11 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 44.37 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 4/6 (Y 79–87)
+
+- **Y-Bereich:** 79 bis 87
+- **Blöcke:** 1.506
+- **Bauteile:** `r1588121_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.453 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Seelaterne | `sea_lantern` | 7 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 16 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 44.38 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 5/6 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.475
+- **Bauteile:** `r1588121_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.465 |
+| Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 44.39 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 6/6 (Y 87–88)
+
+- **Y-Bereich:** 87 bis 88
+- **Blöcke:** 1.458
+- **Bauteile:** `r1588121_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.440 |
+| Seelaterne | `sea_lantern` | 11 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

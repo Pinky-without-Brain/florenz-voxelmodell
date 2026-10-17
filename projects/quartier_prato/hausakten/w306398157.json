@@ -1,30 +1,30 @@
 {
   "id": "w306398157",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 3,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "material": "stein_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rechteck",
@@ -42,8 +42,8 @@
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Bau 1900–02 von Giovanni Paciarelli, neoklassizistischer (\"classicheggiante\") Stil nach Architektur des 15. Jh., Fassade mit Frontone. Annahme: alle übrigen Fassadenmerkmale aus der Typologie.",
   "name": "Chiesa della Beata Elisabetta Vendramini"
 }

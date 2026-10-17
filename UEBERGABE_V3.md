@@ -1,6 +1,6 @@
 # Übergabe V3 – Stadtmodell Florenz (laufendes Protokoll)
 
-**Stand:** 17. Oktober 2026 (nachts) · **Branch:** `claude/welle7` (PR nach `main` folgt) · Wahrzeichen der Wellen 3–7 stehen in den Übersichten `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md`, `_WELLE5.md`, `_WELLE6.md`, `_WELLE7.md`
+**Stand:** 17. Oktober 2026 (nachmittags) · **Branch:** `claude/welle8` (PR nach `main` folgt) · Wahrzeichen der Wellen 3–8 stehen in den Übersichten `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md`, `_WELLE5.md` bis `_WELLE8.md`
 **Zweck:** Eine neue Claude-Instanz soll hier nahtlos weiterarbeiten. Dieses Protokoll wird nach jedem abgeschlossenen Arbeitspaket fortgeschrieben (Abschnitt 4 und 5).
 **Vorgänger:** `UEBERGABE_V2.md` (Dom, V2), `20_Stadtmodell_Florenz/STADTMODELL_PLAN.md` (Programmplan V3, Phasen A–G).
 
@@ -50,6 +50,9 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `palazzo_gondi`, `palazzo_spini_feroni`, `palazzo_bartolini_salimbeni`, `palazzo_antinori` | Wahrzeichen (Palazzi, Welle 7a) | 43.278 / 62.154 / 37.069 / 69.492 | **pflicht**, 0 Komponenten, R14 0 | W7 (16.10.) |
 | `sant_apollonia`, `loggia_dei_servi`, `palazzo_nonfinito` | Wahrzeichen (Konvent mit Cenacolo, Loggia, Palast, Welle 7b) | 188.410 / 74.956 / 82.024 | **pflicht**, 0 Komponenten, R14 0 | W7 (17.10.) |
 | `palazzo_arte_della_lana`, `museo_opera_duomo`, `santa_margherita_cerchi` | Wahrzeichen (Turmhaus, Museum, Kirche, Welle 7c); `cappella_pazzi` + Primo Chiostro (231.846) | 32.269 / 140.223 / 4.602 | **pflicht**, 0 Komponenten, R14 0 | W7 (16.10.) |
+| `palazzo_corsini_parione`, `palazzo_guadagni`, `palazzo_lenzi`, `palazzo_mozzi` | Wahrzeichen (Palazzi, Welle 8a) | 199.822 / 37.427 / 47.901 / 92.416 | **pflicht**, 0 Komponenten, R14 0 | W8 (17.10.) |
+| `tempio_maggiore`, `palazzo_della_crocetta`, `biblioteca_nazionale` | Wahrzeichen (Synagoge, Palast/Museum, Bibliothek, Welle 8b) | 97.749 / 240.152 / 271.131 | **pflicht**, 0 Komponenten, R14 0 | W8 (17.10.) |
+| `forte_belvedere`, `loggia_del_grano`, `torre_alberti` | Wahrzeichen (Festung mit Palazzina, Loggia, Turmhaus, Welle 8c) | 190.786 / 16.327 / 13.405 | **pflicht**, 0 Komponenten, R14 0 | W8 (17.10.) |
 | `quartier_signoria` | Quartier (182 Häuser, Isolati der Kacheln 98, 99, 113) | 1.919.119 | **pflicht**, 98,3 %, 0 Komponenten | E1 erledigt (14.10.) |
 | `quartier_lungarni` | Quartier (103 Häuser, Kacheln 112, 128, 129) | 983.961 | **pflicht**, 98,9 %, 0 Komponenten | E2 erledigt (14.10.) |
 | `quartier_proconsolo` | Quartier (134 Häuser, Kacheln 84, 115) | 1.110.364 | **pflicht**, 99 %, 0 Komponenten | E2 erledigt (14.10.) |
@@ -265,13 +268,21 @@ Nutzerentscheidung: Welle 7 und Hausakten-Recherche **parallel** (fünf Sonnet-A
 - **Integration:** `besitz.js` 38 Projekte, Stadtgrund neu, `webindex.js` 86 Einträge, `--cross` 86 Projekte, 3.655 Paare, 0 Konflikte (81 min zusammen mit `--all --no-emit`), Tests 639 / 0 / 0 (10,7 min, nach Behebung der sechs Bank-Doppelbelegungen).
 - **Minecraft-Export (Build-Ordner):** 1.017 s (parallel zu Tests und Cross-Lauf), 86 Projekte, **105.257.061 Projektblöcke**, 2.780 Straßenschilder, 78.496 Chunks, db 57,5 MB, Heap 2,5 GB; als `florenz_voxelmodell_2026-10-17_w7.mcworld` an den Nutzer.
 
+### W8 Wahrzeichen-Welle 8 und Hausakten-Recherche R2 (lokale Sitzung 17.10.2026, Zweig `claude/welle8`) – **erledigt**
+Nutzer: „mach weiter“ nach Welle 7, Verfahren wie W7 (fünf Sonnet-Agenten, Harness-Worktrees, disjunkte Quartiere; Nutzungspause 11–14 Uhr, Agenten per SendMessage fortgesetzt). Zahlen, Abweichungen, offene Punkte: `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE8.md` §6–§8; Erfahrungen `BEGEHBARKEIT.md` §24–§26.
+- **Wahrzeichen (zehn Projekte, 1.207.116 Blöcke):** W8a Palazzo Corsini al Parione (Terrasse, Galleria), Guadagni (Dachloggia), Lenzi (Graffito), Mozzi (Hang 65–92); W8b Tempio Maggiore (Kupferkuppel, Emporen; Spaltenmodell), Palazzo della Crocetta (Museo Archeologico), Biblioteca Nazionale (Portikus, zwei Türme, Lesesäle; 5 Zellen des Primo Chiostro abgezogen); W8c **Forte di Belvedere** (Plateau Y 185, Wälle, sechs Bastionen, Tor, Palazzina w160800063; 190.786 Blöcke), Loggia del Grano, Torre degli Alberti. Alle `pflicht`, R13 0 Komponenten, R14 0 Lücken. 13 Hausakten aus acht Quartieren gelöst. `vorrang.json` 84 IDs.
+- **Hausakten-Recherche R2 (170 Akten, 24 Quartiere):** R2a Zentrum/Norden 93 (u. a. Strozzi 28, San Marco 15, Signoria 15), R2b Osten/Oltrarno 77 (u. a. Pergola 20, Conce 10); jetzt **315 Akten mit `quelle: recherche`**. Welle-9-Kandidaten in UEBERSICHT_WELLE8 §8.
+- **Werkzeuge:** `palazzo.js` Option `entlangGlatt`, neu `tools/wahrzeichen/strasse.js` (`aufStrasseFuer`), `campanile.js` Option `ohneGlocken`, Content-Erzeuger `tools/diag/w8*_inhalt.js`.
+- **Integration:** `besitz.js` 42 Projekte, Stadtgrund neu, `webindex.js` 96 Einträge, `--cross` 96 Projekte, 4.560 Paare, 0 Konflikte (78 min zusammen mit `--all --no-emit`; danach `quartier_strozzi` wegen R9 neu gebaut), Tests 707 / 0 / 0 (11,6 min, einschließlich Cross-Test auf dem echten Repository).
+- **Minecraft-Export (Build-Ordner):** 825 s (parallel zum Cross-Lauf), 96 Projekte, **105.336.955 Projektblöcke** (das Forte di Belvedere stand zuvor als 61.000-Zellen-Haus, daher kaum Zuwachs), 2.759 Straßenschilder, 78.496 Chunks, db 57,6 MB, Heap 2,8 GB; als `florenz_voxelmodell_2026-10-17_w8.mcworld` an den Nutzer.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe und ~~entlädt ferne~~ (H4).
 3. ~~Wahrzeichen Welle 3/4~~ (15.10. alle gebaut), ~~Innenräume der Palazzi, Bargello-Freitreppe, Campanili San Lorenzo/Annunziata~~ (V5). Offen: 2. OG der Palazzi ausstatten, eiserne Brüstung der Vespucci-Brücke (keine Gitter in der Palette).
 4. ~~Palazzo Pitti~~ (W7), ~~Bilderfelder im Corridoio Oltrarno, Grotta del Buontalenti~~ (V5c).
 5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
-6. ~~Wahrzeichen Welle 5~~ (W5), ~~Welle 6~~ (W6), ~~Welle 7 und Hausakten-Recherche R1~~ (W7, 87 Projekte, 146 recherchierte Akten). Offen danach: Welle-8-Kandidaten (UEBERSICHT_WELLE7 §7), 318 benannte Akten noch typologisch (Quartiere der Wellen 6/7 waren gesperrt), Konvent von Cestello, Hangterrassierung, Palazzi 2. OG, Vespucci-Brüstung.
+6. ~~Wahrzeichen Welle 5~~ (W5), ~~Welle 6~~ (W6), ~~Welle 7 + R1~~ (W7), ~~Welle 8 + R2~~ (W8, 96 Projekte, 315 recherchierte Akten). Offen danach: Welle-9-Kandidaten (UEBERSICHT_WELLE8 §8), rund 140 benannte Akten ohne brauchbare Quelle, Hangterrassierung, Palazzi 2. OG, Vespucci-Brüstung, Palette (Kuppeldach, Spitzbogen, Sichtziegel für Hausakten).
 
 ## 6. Bekannte Punkte
 - 6 Quartierhäuser (schmal/schräg, Innenbreite < 4) ohne Obergeschossböden (siehe BEGEHBARKEIT §6).

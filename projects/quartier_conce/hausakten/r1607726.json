@@ -1,19 +1,19 @@
 {
   "id": "r1607726",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Vorgänger bis 14. Jh., Klosterumbau 1719-24 (Ciocchi); Straßenfassade 19. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -35,15 +35,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "tabernakel_tintori_ecke",
+      "wappen_pillo_mazzapicchio",
+      "inschrift_1398_teilweise"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Spedale_di_Sant'Onofrio_dei_Tintori",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Straßenfassade zur Via delle Casine aus dem 19. Jh., wenig markant (Via dei Malcontenti noch schlichter), Vorgängerbauten bis ins 14. Jh., Klosterumbau 1719-24 durch Giovanni Filippo Ciocchi, an der Ecke Tabernakel der Tintori mit Wappen (Pillo und Mazzapicchio). Annahme: Geschosse, Achsen, Material, Fenster, Gesims, Dach.",
   "name": "Ex spedale di Sant'Onofrio dei Tintori"
 }

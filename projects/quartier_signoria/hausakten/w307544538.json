@@ -1,7 +1,7 @@
 {
   "id": "w307544538",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "casa_torre",
+  "epoche": "12.–13. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -22,32 +22,37 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "achsen": 2,
+    "material": "bruchstein",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_seitlich",
       "portalBreiteBl": 5,
-      "fenster": "rechteck"
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rundbogen",
-      "rahmen": "keiner",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "galigai_wappen_vier_ketten",
+      "dante_inschrift_via_tavolini",
+      "geruestloecher",
+      "portale_mit_ghiera_architrav"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torri_dei_Galigai",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Türme der Galigai (12.–13. Jh.), Steinmauerwerk im Filaretto-Verband, oberer Teil verputzt, Ecktürme mit prächtigen Portalen mit Architrav und stark gewölbten Ghiere, vom Mittelturm nur zwei große Portale erhalten, kleine Fenster, Balkenlöcher, Galigai-Wappen (vier goldene Ketten) und Dante-Vers an der Via dei Tavolini. Annahme: Achsen, Geschosse, Dach.",
   "name": "Torri dei Galigai"
 }

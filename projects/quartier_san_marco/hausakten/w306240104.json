@@ -1,19 +1,19 @@
 {
   "id": "w306240104",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Gründung 11. Jh., Neorenaissance-Erscheinung, Restaurierung 2008",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -35,15 +35,18 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "robbia_tondo_weisse_taube",
+      "gedenktafel_otto_vieh_verbot"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Basilio_degli_Armeni",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Gründung im 11. Jh., mehrfach umgebaut, Stil laut Infobox Neorenaissance, Terrakotta-Tondo der Robbia mit weißer Taube an der Seite zur Via San Gallo, Gedenktafel der Otto (Verbot der Viehhaltung bei Kirche und Friedhof), letzte Restaurierung 2008. Annahme: alle Fassadenmerkmale aus der Typologie.",
   "name": "Chiesa di San Basilio degli Armeni"
 }

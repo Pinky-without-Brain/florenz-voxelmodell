@@ -1,0 +1,5 @@
+// GENERIERT von tools/emit/data.js - nicht von Hand ändern.
+// Modul 5: 1 Schritte, 12 Blöcke, 12 Läufe.
+window.PROJECT_DATA_V3 = window.PROJECT_DATA_V3 || {};
+window.PROJECT_DATA_V3["loggia_del_grano"] = window.PROJECT_DATA_V3["loggia_del_grano"] || {};
+window.PROJECT_DATA_V3["loggia_del_grano"][5] = {"module":5,"title":"Licht","subtitle":"Bautüte 5: Seelaternen im Boden aller Ebenen","icon":"💡","palette":["sea_lantern"],"steps":[{"stepNumber":1,"title":"Licht","description":"Seelaternen im Boden der Halle, des Mezzanins und des Obergeschosses, höchstens 12 Blöcke voneinander entfernt.","tip":"Die Lampen ersetzen Bodenblöcke.","caution":"Die Lampen sind unauffällig, aber hell.","fact":"Ohne Licht wären die Räume im Spiel dunkel.","cameraHint":{"eye":[59.9,98,1056.9],"target":[20.5,68.5,1017.5]},"count":12,"yRange":[61,76],"runs":"DQA9APkDAQAAABQAPQDyAwEAAAAYAD0AAQQBAAAAHAA9APkDAQAAAA0ASAD5AwEAAAAUAEgA8gMBAAAAG\u0041BIAAEEAQAAABwASAD5AwEAAAANAEwA+QMBAAAAFABMAPIDAQAAABgATAABBAEAAAAcAEwA+QMBAAAA"}]};

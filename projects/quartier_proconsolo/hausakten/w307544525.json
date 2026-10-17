@@ -1,7 +1,7 @@
 {
   "id": "w307544525",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "mittelalterlich (Zeit der Donati-Cerchi-Fehde um 1300)",
   "geschosse": [
     {
       "art": "eg",
@@ -38,15 +38,20 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "filaretto_sichtbar",
+      "ruestloecher",
+      "dante_gedenktafel",
+      "vicolo_dello_scandalo"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Donati",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Turm mit quadratischem Grundriss in die Straßenfront eingefügt, sichtbares Quadermauerwerk (Filaretto), Rüstlöcher, Dante-Gedenktafel zum Tod des Corso Donati. Annahme: Geschosszahl 4, Achsenzahl, Fenstertyp (Artikel nennt kein Baudatum).",
   "name": "Torre dei Donati"
 }

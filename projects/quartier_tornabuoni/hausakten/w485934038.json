@@ -1,7 +1,7 @@
 {
   "id": "w485934038",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "13. Jh. (Turmhaus der Monaldi), Ergänzungen 1885–95",
   "geschosse": [
     {
       "art": "eg",
@@ -22,13 +22,13 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 1,
+    "achsen": 3,
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 5,
-      "fenster": "rechteck"
+      "art": "portal_mittig",
+      "portalBreiteBl": 4,
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -36,18 +36,22 @@
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "geruestloecher_fuenf_reihen",
+      "fassadenanker",
+      "rundbogen_portal_architrav"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Foresi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Turmhaus des 13. Jh. (Monaldi), nach Montaperti teils zerstört und wiederaufgebaut, heutige Erscheinung großteils aus dem Risanamento (1885–95), Stein im Filaretto-Verband, drei Fenster je Seite vertikal fluchtend, hohe schmale Tür mit monolithischem Architrav und Rundbogen, fünf Reihen Gerüstlöcher, zahlreiche Fassadenanker. Annahme: Geschosszahl, Dachform.",
   "name": "Torre dei Foresi"
 }

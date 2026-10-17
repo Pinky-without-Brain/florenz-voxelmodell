@@ -1,7 +1,7 @@
 {
   "id": "r1580100",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "zweckbau",
+  "epoche": "Gründung 1309, Erweiterungen um 1320 und spätes 14. Jh., Umbau vor 1810 (Silvestri)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,18 +9,18 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 11,
     "material": "putz",
-    "putzfarbe": "sand",
+    "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "bottega_arcata",
       "fenster": "rechteck_vergittert"
@@ -34,15 +34,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "aussenwaende_ab_1985_zementiert",
+      "oeffnungen_zugemauert",
+      "installation_dollar_2012"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Monastero_di_Sant'Orsola",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: gegründet 1309, Erweiterungen um 1320 und im letzten Viertel des 14. Jh., Umbau vor 1810 nach der Aufhebung (Bartolomeo Silvestri), Mauern ab 1985 mit Eisengittern umwickelt und mit Zement überzogen, alle Öffnungen nach außen zugemauert, Außenwände seit 2012 mit Dollar-Installation von Václav Pisvejc. Annahme: graue Zementfläche als Putzfarbe grau, übrige Merkmale aus der Typologie.",
   "name": "Monastero di Sant'Orsola"
 }

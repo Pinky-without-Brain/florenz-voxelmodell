@@ -1,49 +1,60 @@
 {
   "id": "w307153274",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "15. Jh. (Quattrocento-Ursprung), im 19. Jh. stark umgebaut",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
-      "laeden": "gruen"
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 2
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "diamantquader_portale",
+      "sgraffitofries_2og",
+      "adorni_wappen_ecke",
+      "lunette_schmiedeeisen"
+    ],
+    "marcapiano": "flach",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Adorni_Braccesi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Ursprung im Quattrocento, im 19. Jh. stark umgebaut, vier Ordnungen (Erdgeschoss, zwei Obergeschosse, Dachgeschoss), zweites Obergeschoss mit fünf Fenstern, vorspringende Rustika im Erdgeschoss, drei Rundbogenportale mit rautenförmigen Quadern, glatte Eckquaderung, Marcapiano-Gesims, Sottogronda mit geschnitzten Konsolen, Sgraffito-Fries im zweiten Geschoss, Wappen der Grafen Adorni an der Ecke. Annahme: Rahmenstein, Dachform.",
   "name": "Palazzo Adorni Braccesi"
 }

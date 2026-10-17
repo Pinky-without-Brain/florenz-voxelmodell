@@ -1,7 +1,7 @@
 {
   "id": "r4107742",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,15 +35,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "portinari_wappen_tuer_loewen",
+      "dante_tafel_beatrice",
+      "tafel_scolopi_1830"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Ursprung im Quattrocento (Portinari, um 1470–80; Michelozzo vermutet), Vergrößerung durch die Salviati ab 1572 bis um 1578 (Ammannati oder Allori vermutet), Verlängerung zur Via dello Studio 1679–98, drittes Geschoss dort 1866, Fassade im Entwurf wenig markant aber sehr ausgedehnt, Tafel mit Portinari-Wappen und Dante-Versen. Annahme: alle Fassadenmerkmale außer Epoche aus der Typologie.",
   "name": "Palazzo Portinari-Salviati"
 }

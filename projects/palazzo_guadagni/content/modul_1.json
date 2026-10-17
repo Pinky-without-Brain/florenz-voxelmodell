@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände mit Eckbugnen, Rundbogenfenster, Kranzgesims",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick: im Erdgeschoss glatte Pietra forte mit kräftigen Eckpilastern aus Rustika (Bugnato), im ersten und zweiten Obergeschoss Bugnen aus Pietra forte (jede vierte Lage glatt), im obersten Geschoss glatte Pietra forte; innen Putz.",
+      "tip": "Die Eckpilaster sind in den ersten vier Blöcken beider Fassadenenden Rustika.",
+      "caution": "Fenster und Portale bleiben beim Bauen frei.",
+      "fact": "Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster mit Glas im Raster 10 in fünf Achsen (das Portal liegt in der mittleren), im Erdgeschoss klein, in den beiden Obergeschossen höher; das oberste Geschoss ist die offene Loggia (Rechtecköffnungen, Brüstung zwei Blöcke hoch, Joch 5).",
+      "tip": "Die Fenster sitzen im gleichen Raster in allen Geschossen.",
+      "caution": "Die Fenster sind mit Glas gefüllt.",
+      "fact": "Im ersten und zweiten Obergeschoss öffnen sich Rundbogenfenster mit erhabenen und flachen Bugnen (Quelle: it.wikipedia, Palazzo Guadagni)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Das Kranzgesims aus Pietra serena schließt die Fassade bei Y 91 ab; darüber das Walmdach.",
+      "tip": "Das Gesims springt nicht vor, es besteht aus der obersten Wandlage.",
+      "caution": "Bis hierher reicht die Traufe, darüber beginnt das Dach.",
+      "fact": "Unter der weit vorspringenden Traufe liegt die Dachloggia (Quelle: it.wikipedia, Palazzo Guadagni)."
+    }
+  }
+}

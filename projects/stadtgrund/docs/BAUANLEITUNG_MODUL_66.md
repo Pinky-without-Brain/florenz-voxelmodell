@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.241 |
+| Blöcke | 46.235 |
 | Bauschritte | 29 |
 | Y-Bereich | 59 bis 63 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
 | Z-Ausdehnung | -208 bis 111 (320 Blöcke) |
 | Kleinster Schritt | 575 Blöcke (Schritt 66.13) |
-| Mittlerer Schritt | 1.595 Blöcke |
+| Mittlerer Schritt | 1.594 Blöcke |
 | Größter Schritt | 1.999 Blöcke (Schritt 66.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 32.442 | 70,2 % |
+| Polierter Tuffstein | `polished_tuff` | 32.438 | 70,2 % |
 | Stein | `stone` | 7.680 | 16,6 % |
-| Glatter Stein | `smooth_stone` | 4.669 | 10,1 % |
+| Glatter Stein | `smooth_stone` | 4.667 | 10,1 % |
 | Grasblock | `grass_block` | 875 | 1,9 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 204 | 0,4 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 148 | 0,3 % |
@@ -47,10 +47,10 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 7.680 | 66.1–66.4 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 8.861 | 66.5–66.10 |
-| 3 | `gehwege` | Gehwege | 2.166 | 66.11–66.12 |
+| 3 | `gehwege` | Gehwege | 2.164 | 66.11–66.12 |
 | 4 | `stufen` | Treppenflächen | 575 | 66.13 |
 | 5 | `plaetze_pflaster` | Plätze | 20.276 | 66.14–66.24 |
-| 6 | `hof_pflaster` | Höfe | 5.808 | 66.25–66.28 |
+| 6 | `hof_pflaster` | Höfe | 5.804 | 66.25–66.28 |
 | 7 | `rasen` | Grün und offenes Gelände | 875 | 66.29 |
 
 ## Bauschritte
@@ -86,14 +86,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 66.2 – Böschung und Mantel – Teil 2/4 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.923
+- **Blöcke:** 1.908
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.923 |
+| Stein | `stone` | 1.908 |
 
 **Beschreibung**
 
@@ -114,14 +114,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 66.3 – Böschung und Mantel – Teil 3/4 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.878
+- **Blöcke:** 1.893
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.878 |
+| Stein | `stone` | 1.893 |
 
 **Beschreibung**
 
@@ -366,14 +366,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 66.12 – Gehwege – Teil 2/2 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
-- **Blöcke:** 830
+- **Blöcke:** 828
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 830 |
+| Glatter Stein | `smooth_stone` | 828 |
 
 **Beschreibung**
 
@@ -811,14 +811,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 66.27 – Höfe – Teil 3/4 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.374
+- **Blöcke:** 1.370
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.374 |
+| Polierter Tuffstein | `polished_tuff` | 1.370 |
 
 **Beschreibung**
 

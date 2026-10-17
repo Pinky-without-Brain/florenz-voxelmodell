@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Licht",
+  "subtitle": "Bautüte 4: Seelaternen im Boden aller Geschosse",
+  "icon": "💡",
+  "parts": {
+    "licht": {
+      "title": "Licht",
+      "description": "Seelaternen im Boden jedes Geschosses, so verteilt, dass jede Stelle höchstens 12 Blöcke von einer Lampe entfernt ist.",
+      "tip": "Die Lampen ersetzen Bodenblöcke.",
+      "caution": "Die Lampen sind unauffällig, aber hell.",
+      "fact": "Ein Turm ohne Licht wäre im Spiel dunkel."
+    }
+  }
+}

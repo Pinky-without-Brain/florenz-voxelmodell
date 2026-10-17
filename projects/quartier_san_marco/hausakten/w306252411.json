@@ -1,15 +1,15 @@
 {
   "id": "w306252411",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "17. Jh. (Gherardo Silvani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -22,12 +22,12 @@
     "material": "putz",
     "putzfarbe": "terrakotta",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 6,
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -35,15 +35,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "zwei_portale_mit_tier_und_maskenzier",
+      "timpani_ueber_portalen",
+      "kniefenster"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolommei_(via_Cavour)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: 17. Jh., Gherardo Silvani, zwei Portale mit fantasievoller Dekoration (Tiermotive, Maskarons), Giebel (Timpani) über den Portalen, dicht besetzte Obergeschosse mit schlichteren Rahmen, Kniefenster erwähnt, Fassade neu gestrichen. Annahme: Material, Putzfarbe, Achsen, Gesims.",
   "name": "Palazzo Bartolommei"
 }

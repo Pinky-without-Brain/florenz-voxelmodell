@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Treppe",
+  "subtitle": "Bautüte 0: Fundament, Boden und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Bau tiefer liegt als Y 60, füllst du mit Bruchstein bis Y 60 auf; höher liegendes Gelände wurde bis Y 60 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 60 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Die Bibliothek entstand ab 1911 nach dem Entwurf von Cesare Bazzani auf dem Gelände der Kaserne der Cavalleggeri und wurde am 30. Oktober 1935 eingeweiht (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 61 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor; unter dem Portikus liegt Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Das Schachmuster ist eine Gestaltungsannahme (Stufe C)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt in der Verteilerhalle vom Erdgeschoss bis ins oberste Geschoss (Y 96).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Eine monumentale Treppe gehört zur Innenausstattung; hier steht eine Wendeltreppe (Quelle: it.wikipedia, Biblioteca nazionale centrale di Firenze)."
+    }
+  }
+}

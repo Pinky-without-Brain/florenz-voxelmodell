@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 44.942 |
+| Blöcke | 44.943 |
 | Bauschritte | 29 |
 | Y-Bereich | 54 bis 66 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 29.575 | 65,8 % |
+| Polierter Tuffstein | `polished_tuff` | 29.576 | 65,8 % |
 | Stein | `stone` | 7.286 | 16,2 % |
 | Glatter Stein | `smooth_stone` | 4.555 | 10,1 % |
 | Grasblock | `grass_block` | 3.445 | 7,7 % |
@@ -48,7 +48,7 @@
 | 2 | `strassen_pflaster` | Straßenpflaster | 11.086 | 36.6–36.12 |
 | 3 | `gehwege` | Gehwege | 4.463 | 36.13–36.16 |
 | 4 | `stufen` | Treppenflächen | 93 | 36.17 |
-| 5 | `hof_pflaster` | Höfe | 18.489 | 36.17–36.27 |
+| 5 | `hof_pflaster` | Höfe | 18.490 | 36.17–36.27 |
 | 6 | `rasen` | Grün und offenes Gelände | 3.445 | 36.28–36.29 |
 | 7 | `mauern_garten` | Gartenmauern | 80 | 36.29 |
 
@@ -85,14 +85,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 36.2 – Böschung und Mantel – Teil 2/5 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.665
+- **Blöcke:** 1.666
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.665 |
+| Stein | `stone` | 1.666 |
 
 **Beschreibung**
 
@@ -169,14 +169,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 36.5 – Böschung und Mantel – Teil 5/5 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.676
+- **Blöcke:** 1.675
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.676 |
+| Stein | `stone` | 1.675 |
 
 **Beschreibung**
 
@@ -715,14 +715,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 36.24 – Höfe – Teil 8/11 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.731
+- **Blöcke:** 1.732
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.731 |
+| Polierter Tuffstein | `polished_tuff` | 1.732 |
 
 **Beschreibung**
 

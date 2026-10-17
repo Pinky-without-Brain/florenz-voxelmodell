@@ -1,49 +1,58 @@
 {
   "id": "r4103320",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1831-33 (Vittorio Bellini)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "bugnato_abgestuft",
+    "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_forte",
+      "typ": "rahmen_stuck",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "balkone_mittig",
+      "nischen_statuen_jahreszeiten",
+      "bronzeportal",
+      "uhrenaufbau_dach"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Galletti",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: erbaut 1831-33 von Vittorio Bellini, vier Geschosse, Bossenquader aus Stein über die ganze EG-Höhe, großes Bronzeportal (um 1843), im 1. und 2. Obergeschoss drei zentrale Bögen mit Balkonen, vier Nischen mit Jahreszeiten-Statuen. Annahme: Achsenzahl, Material der Obergeschosse (glatt), Gesims, Fenstertyp.",
   "name": "Palazzo Galletti"
 }

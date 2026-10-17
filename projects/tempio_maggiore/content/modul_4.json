@@ -1,0 +1,50 @@
+{
+  "module": 4,
+  "title": "Tambour und Kupferkuppel",
+  "subtitle": "Bautüte 4: Tambour mit 16 Fenstern, Doppelschale, Spitze",
+  "icon": "🕌",
+  "parts": {
+    "tambour": {
+      "title": "Tambour",
+      "description": "Über den Pendentifs steht der runde Tambour. Sein Durchmesser beträgt 34 Blöcke, die Wand ist zwei Blöcke dick und reicht bis Lage 53. Außen trägt er die gestreiften Bänder.",
+      "tip": "Setze die Ringe lagenweise.",
+      "caution": "Der Ring muss geschlossen sein.",
+      "fact": "Hoher runder Tambour (it.wikipedia). Maße aus dem OSM-Kreis."
+    },
+    "tambour_fenster": {
+      "title": "Tambourfenster",
+      "description": "16 Fenster mit Buntglas sitzen im Tambour, zwei Blöcke breit und acht hoch.",
+      "tip": "Die Fenster gehen durch beide Lagen der Wand.",
+      "caution": "Zwischen den vier Bogenachsen bleibt die Wand geschlossen.",
+      "fact": "Polychrome Glasfenster (it.wikipedia). Zahl und Form frei."
+    },
+    "kuppelschale": {
+      "title": "Innere Kuppelschale",
+      "description": "Die innere Kuppel ist eine Halbkugel von 15 Blöcken Radius. Ihr Scheitel liegt auf Lage 68, also 34 m über dem Boden.",
+      "tip": "Baue die Schale ringweise nach oben.",
+      "caution": "Die Schale ist zwei Blöcke dick.",
+      "fact": "Die innere Kuppel ist 34 m hoch (it.wikipedia)."
+    },
+    "kuppel_fresko": {
+      "title": "Kuppelmalerei",
+      "description": "Die Innenseite von Tambour und Kuppel ist in sechzehn Sektoren mit Rot und Blau bemalt; goldene Ringe liegen alle drei Blöcke.",
+      "tip": "Die Muster laufen strahlenförmig von der Mitte.",
+      "caution": "Die Muster sind frei entworfen.",
+      "fact": "Arabesken in Rot und Blau, ursprünglich mit Gold (it.wikipedia)."
+    },
+    "kuppel_aussen": {
+      "title": "Äußere Kupferkuppel",
+      "description": "Die Außenkuppel steigt als spitzer Halbellipsoid vom Tambour bis Lage 85 und ist aus grünem Kupfer (dunkler Prismarin). Zwischen den beiden Schalen liegt ein Hohlraum.",
+      "tip": "Setze die Außenschale in zwei Lagen Dicke.",
+      "caution": "Der Hohlraum zwischen den Schalen ist nicht zugänglich.",
+      "fact": "Doppelte Kuppel: innen 34 m, außen 47 m, mit Kupferblech belegt, das grün oxidiert (it.wikipedia)."
+    },
+    "laterne": {
+      "title": "Spitze",
+      "description": "Auf der Kuppel sitzt eine schlanke Spitze mit Goldkopf bis Lage 94 (47 m).",
+      "tip": "Die Spitze sitzt genau über der Kuppelachse.",
+      "caution": "Die Spitze ist nicht begehbar.",
+      "fact": "Gesamthöhe außen 47 m (it.wikipedia); die Form der Bekrönung ist Stufe C."
+    }
+  }
+}

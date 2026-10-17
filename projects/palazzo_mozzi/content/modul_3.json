@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossböden, oberste Decke und Obergeschosswände",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Auf jedem Geschoss legst du einen Boden aus Holz und Terrakotta im Schachmuster; im Bereich der Treppen bleibt ein Loch.",
+      "tip": "Treppenlöcher frei lassen.",
+      "caution": "Die Böden tragen die Wände der Obergeschosse.",
+      "fact": "Im ersten Stock liegt der große Saal mit Wandmalereien von 1778 (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "decke": {
+      "title": "Oberste Decke",
+      "description": "Die oberste Decke aus Putz schließt das Haus bei Y 96 nach oben ab.",
+      "tip": "Ein Block stark.",
+      "caution": "Darüber liegt der Dachraum (ohne Zugang).",
+      "fact": "Ende des 18. und Anfang des 19. Jahrhunderts baute Gasparo Maria Paoletti den Palast um (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "trennwaende_og": {
+      "title": "Trennwände der Obergeschosse",
+      "description": "Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Erst den Boden, dann die Wand darauf.",
+      "caution": "Türen frei lassen.",
+      "fact": "Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße."
+    }
+  }
+}

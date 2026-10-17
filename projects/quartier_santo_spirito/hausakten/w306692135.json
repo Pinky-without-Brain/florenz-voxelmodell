@@ -1,10 +1,14 @@
 {
   "id": "w306692135",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "12./13. Jh.; Restaurierung und Teilneubau nach dem Zweiten Weltkrieg",
   "geschosse": [
     {
       "art": "eg",
+      "hoeheBl": 11
+    },
+    {
+      "art": "og",
       "hoeheBl": 9
     },
     {
@@ -13,15 +17,11 @@
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 9
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,23 +35,29 @@
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
-      "laeden": null
+      "laeden": false
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "bossen_pietraforte_grob",
+      "zwei_portale_doppelter_rundbogen",
+      "fenster_architrav_auf_konsolen_entlastungsbogen",
+      "balkenloecher_mit_konsolen",
+      "drei_moderne_obergeschosse"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Nerli",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Turm der Nerli (Galganetta), nur die unteren zwei Geschosse erhalten und stark ergänzt, darüber drei moderne Etagen, grobe Quaderbossen aus Pietraforte, zwei Portale mit doppeltem Rundbogen, im 1. Stock zwei Fenster mit Architrav auf Konsolen und Entlastungsbogen, Balkenlöcher mit Konsolen. Annahme: Achsen, Dach.",
   "name": "Torre dei Nerli"
 }

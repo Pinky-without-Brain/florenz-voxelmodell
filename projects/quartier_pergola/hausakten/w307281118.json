@@ -1,45 +1,54 @@
 {
   "id": "w307281118",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Fassade im Wesentlichen 18. Jh. (1735, Bernardino Ciurini zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "doppelportal_halbsaeulen",
+      "balkon_masken_jahreszeiten",
+      "gurtgesimse",
+      "konsolen_traufe"
+    ]
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bastogi_(via_dell'Oriuolo)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Fassade wesentlich 18. Jh. (Umbau 1735, Ciurini), Rokoko/Klassizismus, sechs Achsen, doppeltes Portal mit Halbsäulen, Balkon mit Jahreszeitenmasken, EG Kniefenster, 1. OG Fenster mit Dreiecks- und gebrochenen Giebeln, 2. OG architravierte Fenster, Gurtgesimse und Konsolentraufe. Annahme: Geschosszahl 3, Putzfarbe, Dachform.",
   "name": "Palazzo Bastogi"
 }

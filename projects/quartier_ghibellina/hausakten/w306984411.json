@@ -1,49 +1,54 @@
 {
   "id": "w306984411",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "Quattrocento (Frührenaissance)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "achsen": 10,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 6,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "zwei_portale_haupt_und_dienst",
+      "quadratische_fenster_eg",
+      "gurtgesimse",
+      "zwei_dichte_reihen_monofore"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Formen des Quattrocento, drei Geschosse, zehn Achsen in den oberen Geschossen mit zwei dichten Reihen gewölbter Monofore, EG mit Hauptportal, zweitem Portal (früher Dienstzugang) und quadratischen Fenstern in Steinrahmen, Gurtgesimse. Annahme: Putz und Farbe, Gesimsart, Dachform.",
   "name": "Palazzo Gherardi"
 }

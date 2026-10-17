@@ -1,19 +1,19 @@
 {
   "id": "w306379750",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "1700, Barock (Anton Maria Ferri)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -35,15 +35,17 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "barockkirche_mit_conventino"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Sales_(Firenze)",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Kirche entstand 1700 zusammen mit dem Konservatorium (Conventino), Entwurf Anton Maria Ferri, Barock, Via dell'Orto. Annahme: alle Fassadenmerkmale (Artikel beschreibt die Fassade nicht).",
   "name": "Ex Chiesa di San Francesco di Sales"
 }

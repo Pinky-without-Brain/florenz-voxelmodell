@@ -4,7 +4,7 @@
 
 *Projekt `quartier_collina`, Art: quartier*
 
-**Statistik (generiert):** 705.400 Blöcke in 453 Bauschritten, 45 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 705.478 Blöcke in 453 Bauschritten, 45 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -1524 bis 1680, Y 88 bis 243, Z 1729 bis 2723.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -49,28 +49,28 @@ Ausdehnung des Modells: X -1524 bis 1680, Y 88 bis 243, Z 1729 bis 2723.
 | 37 | Isolato I0712 – Viale Galileo | 3.757 | 2 | [BAUANLEITUNG_MODUL_37.md](BAUANLEITUNG_MODUL_37.md) |
 | 38 | Isolato I0730 – Piazzale Michelangiolo | 23.816 | 13 | [BAUANLEITUNG_MODUL_38.md](BAUANLEITUNG_MODUL_38.md) |
 | 39 | Isolato I0733 – Piazzale Michelangiolo | 12.631 | 7 | [BAUANLEITUNG_MODUL_39.md](BAUANLEITUNG_MODUL_39.md) |
-| 40 | Isolato I0747 – Via di San Salvatore al Monte | 123.162 | 71 | [BAUANLEITUNG_MODUL_40.md](BAUANLEITUNG_MODUL_40.md) |
+| 40 | Isolato I0747 – Via di San Salvatore al Monte | 123.240 | 71 | [BAUANLEITUNG_MODUL_40.md](BAUANLEITUNG_MODUL_40.md) |
 | 41 | Isolato I0768 | 1.258 | 1 | [BAUANLEITUNG_MODUL_41.md](BAUANLEITUNG_MODUL_41.md) |
 | 42 | Isolato I0775 | 1.913 | 1 | [BAUANLEITUNG_MODUL_42.md](BAUANLEITUNG_MODUL_42.md) |
 | 43 | Isolato I0784 | 7.506 | 5 | [BAUANLEITUNG_MODUL_43.md](BAUANLEITUNG_MODUL_43.md) |
 | 44 | Isolato I0790 | 5.686 | 4 | [BAUANLEITUNG_MODUL_44.md](BAUANLEITUNG_MODUL_44.md) |
-| | **Summe** | **705.400** | **453** | |
+| | **Summe** | **705.478** | **453** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 151.185 | 21,4 % |
-| Endsteinziegel | `end_stone_bricks` | 122.899 | 17,4 % |
+| Endsteinziegel | `end_stone_bricks` | 113.630 | 16,1 % |
 | Tuffstein | `tuff` | 78.903 | 11,2 % |
 | Hellgrauer Beton | `light_gray_concrete` | 62.552 | 8,9 % |
+| Weißer Beton | `white_concrete` | 57.277 | 8,1 % |
 | Polierter Tuffstein | `polished_tuff` | 54.601 | 7,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 48.675 | 6,9 % |
-| Weißer Beton | `white_concrete` | 48.038 | 6,8 % |
-| Glatter Stein | `smooth_stone` | 32.206 | 4,6 % |
+| Glatter Stein | `smooth_stone` | 32.436 | 4,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 27.552 | 3,9 % |
 | Polierter Andesit | `polished_andesite` | 23.859 | 3,4 % |
-| Graues Buntglas | `gray_stained_glass` | 22.589 | 3,2 % |
+| Graues Buntglas | `gray_stained_glass` | 22.469 | 3,2 % |
 | Orange Keramik | `orange_terracotta` | 8.655 | 1,2 % |
 | Grüner Beton | `green_concrete` | 6.939 | 1,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 5.703 | 0,8 % |
@@ -89,7 +89,7 @@ Ausdehnung des Modells: X -1524 bis 1680, Y 88 bis 243, Z 1729 bis 2723.
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 146 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 138 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 136 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 128 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 126 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 81 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 15 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 11 | 0,0 % |
@@ -99,5 +99,5 @@ Ausdehnung des Modells: X -1524 bis 1680, Y 88 bis 243, Z 1729 bis 2723.
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 1.082 |
-| Steintreppe | `stone_stairs` | 548 |
+| Steintreppe | `stone_stairs` | 546 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 296 |

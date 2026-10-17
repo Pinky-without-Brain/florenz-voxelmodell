@@ -1,0 +1,15 @@
+{
+  "module": 2,
+  "title": "Trennwände",
+  "subtitle": "Bautüte 2: Trennwände des Erdgeschosses",
+  "icon": "🧱",
+  "parts": {
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Trennwände teilen den Palast im Erdgeschoss in fünf Vorderräume hinter den Portalen, den Ausstellungssaal, den Raum daneben und den Flügel zur Via Montebello; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses.",
+      "fact": "Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst."
+    }
+  }
+}

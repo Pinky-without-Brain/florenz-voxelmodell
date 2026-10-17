@@ -1,30 +1,30 @@
 {
   "id": "w307153278",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "14. Jh. (Gründung), Stilrekonstruktion Ende 19. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rahmen_stuck",
@@ -32,18 +32,21 @@
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "wappen_sassetti_verputzt",
+      "fondaci_stichbogen"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Sassetti",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Gründung im Trecento (Familie Grifi), heutiges Erscheinungsbild Stilrekonstruktion des späten 19. Jh. (Modigliani), Erdgeschoss in Bossenmauerwerk bis zum Bogenansatz, ursprünglich Fondaci und Läden mit Stichbogenöffnungen, verputztes Wappenfeld, glatte Wände zur Via degli Anselmi, breite florentinische Traufe auf geschnitzten Balken. Annahme: Geschosszahl, Achsen, Fenstertyp.",
   "name": "Palazzo Sassetti"
 }

@@ -1,0 +1,22 @@
+{
+  "module": 3,
+  "title": "Geschossböden und Treppen",
+  "subtitle": "Bautüte 3: Holzböden und zwei Treppen",
+  "icon": "🪜",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Holzböden in Lage 11 und 15 über der ganzen Fläche, ausgespart über den beiden Treppen.",
+      "tip": "Lasse die Treppenlöcher frei.",
+      "caution": "Das Loch hat die Länge des Laufs.",
+      "fact": "Das Haus hat nach OSM vier Ebenen (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "treppe": {
+      "title": "Treppen",
+      "description": "Zwei gerade Läufe mit Treppenblöcken (3 breit, mit Stützblock unter jeder Stufe): 11 Stufen von der Halle ins Mezzanin, 4 Stufen weiter ins Obergeschoss.",
+      "tip": "Beginne jeden Lauf auf dem Boden der Ebene.",
+      "caution": "Lage der Treppen ist Stufe C.",
+      "fact": "Die Treppen sind nicht überliefert; sie machen die Ebenen begehbar (Quelle: it.wikipedia, Loggia del Grano)."
+    }
+  }
+}

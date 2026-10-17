@@ -1,19 +1,19 @@
 {
   "id": "w307276585",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "1444, Restaurierung 1559 (Renaissance)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -23,8 +23,8 @@
     "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "portalBreiteBl": 5,
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rechteck",
@@ -35,15 +35,20 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "timpanon_quis_ut_deus",
+      "zwei_tondi_stein_1473",
+      "almosenbuechse_via_di_mezzo",
+      "hochwasserschaeden_1966"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Oratorio_della_Compagnia_di_San_Michele_della_Pace",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Oratorium von 1444 (Restaurierung 1559, Renaissance), Portal mit Tympanon und Inschrift 'Quis ut Deus', darüber zwei Steintondi (einer 1473 datiert, Abendmahlskelch). Annahme: Geschosse, Material, Fenster, Gesims.",
   "name": "Oratorio della Compagnia di San Michele della Pace"
 }

@@ -1,29 +1,34 @@
 {
   "id": "w306984415",
   "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "epoche": "Fassade erste Hälfte 19. Jh. auf älterem Bau",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
     "material": "putz",
-    "putzfarbe": "sand",
+    "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rechteck_vergittert"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "tabernakel",
@@ -34,15 +39,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "balkon_ueber_portal",
+      "torrino_auf_dach",
+      "gedenktafeln_1916_marconi",
+      "tabernakel_sacra_famiglia"
+    ]
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_natale_di_Giovanni_da_Verrazzano",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Fassade in der ersten Hälfte des 19. Jh. neu gestaltet, vier Stockwerke, Balkon über dem Hauptportal, kleiner Turm (torrino) auf dem Dach, ohne besondere architektonische Merkmale. Annahme: Achsen, Putz, Fenster, Gesims.",
   "name": "Casa natale di Giovanni da Verrazzano"
 }

@@ -1,10 +1,14 @@
 {
   "id": "w307129119",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "Trecento (Kaufmannsturm der Filipetri)",
   "geschosse": [
     {
       "art": "eg",
+      "hoeheBl": 11
+    },
+    {
+      "art": "og",
       "hoeheBl": 9
     },
     {
@@ -13,15 +17,11 @@
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 9
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -43,15 +43,20 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "filaretto_sichtbar",
+      "altana_stein_vermauert",
+      "viele_spaete_fenster",
+      "zwei_tore_via_dei_leoni"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Filipetri",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: massiver Turm des Trecento in sichtbarem Filaretto (nur Mitte der oberen Geschosse verputzt), später viele Fenster eingebrochen, zwei Tore und ein drittes schmales zur Via dei Leoni, über dem Dach eine steinerne Altana (heute vermauert und befenstert). Annahme: Geschosszahl 5, Achsen, Fenstertyp.",
   "name": "Torre dei Filipetri"
 }

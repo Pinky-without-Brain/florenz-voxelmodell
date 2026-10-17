@@ -1,7 +1,7 @@
 {
   "id": "w72915046",
-  "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "typ": "zweckbau",
+  "epoche": "Teil der Stadtmauer, 13./14. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -39,15 +39,18 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "urspruenglich_zinnenkranz",
+      "wachturm_postierla"
+    ]
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_della_Serpe",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Wachturm des Mauerverlaufs aus dem 13./14. Jh., sehr einfache Bauweise, ursprünglich mit Zinnenkranz, heute auf einer Verkehrsinsel am Viale Fratelli Rosselli. Annahme: Material, Geschosse, Öffnungen.",
   "name": "Torre della Serpe"
 }

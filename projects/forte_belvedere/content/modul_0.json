@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Gelände und Hoffläche",
+  "subtitle": "Bautüte 0: Plateau auf Y 185 mit Hoffläche",
+  "icon": "⛰️",
+  "parts": {
+    "fundament": {
+      "title": "Fundament und Abtrag",
+      "description": "Im ganzen Umriss liegt das Plateau auf Y 185: wo das Gelände höher ist, trägt der Stadtgrund es bis Y 184 ab; wo es tiefer liegt (Norden und Nordwesten, bis Y 180), füllst du mit Bruchstein bis Y 184 auf.",
+      "tip": "Arbeite Spalte für Spalte, die Spalten sind unterschiedlich hoch.",
+      "caution": "Die Plateauhöhe ist ein Entwurf; das Gelände fällt tatsächlich von Süden (Y 191) nach Norden (Y 180).",
+      "fact": "Die Festung steht auf dem Hügel zwischen Boboli und Arno, mit Terrassen, die teils mit Rasen belegt sind (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "hofflaeche": {
+      "title": "Hoffläche",
+      "description": "Auf Y 185 liegt die Hoffläche: ein Pflasterstreifen vom Tor zur Palazzina, Pflaster rund um die Palazzina, Kies am Wallfuß, sonst Rasen und Kies in Feldern von 14 Blöcken.",
+      "tip": "Lege zuerst den Pflasterstreifen.",
+      "caution": "Die Gliederung in Rasen und Kies ist Stufe C.",
+      "fact": "Die Terrassen der Festung sind zum Teil mit Rasen bedeckt (Quelle: it.wikipedia, Forte Belvedere)."
+    }
+  }
+}

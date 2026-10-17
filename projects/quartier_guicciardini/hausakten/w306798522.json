@@ -1,7 +1,7 @@
 {
   "id": "w306798522",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "17. Jh. (2. Hälfte) aus zwei mittelalterlichen Häusern, nach Art Silvanis; Wiederaufbau 1759",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,47 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 3,
     "material": "putz",
-    "putzfarbe": "weiss",
+    "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "tabernakel",
       "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "portal_halbsaeulen_steinbalkon",
+      "harpyie_schlussstein_konsole",
+      "wappen_medici_inschrift_1707",
+      "rosettenfries_traufe",
+      "gurtgesimse"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzetto_Medici",
+  "sicherheit": 0.85,
+  "notiz": "Nach it.Wikipedia: Umgestaltung in der 2. Hälfte des 17. Jh. nach Art Gherardo Silvanis, drei Geschosse, im EG Rundbogenportal mit Halbsäulen und Steinbalkon (Harpyie als Schlussstein und Konsole) zwischen zwei Kniefenstern mit Dreiecksgiebel, 1. OG Fenster mit Giebel und ionischen Pilastern, 2. OG mit Architrav, Gurtgesimse, Kranzgesims mit Rosettenfries, Medici-Wappen mit Inschrift 1707. Annahme: Putzfarbe, Dachform.",
   "name": "Palazzetto Medici"
 }

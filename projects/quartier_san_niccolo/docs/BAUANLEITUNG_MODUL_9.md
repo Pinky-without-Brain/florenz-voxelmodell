@@ -2,66 +2,66 @@
 
 # Bauanleitung Modul 9: Isolato I0567 – Via di San Niccolò
 
-*Quartier San Niccolò: 33 Häuser*
+*Quartier San Niccolò: 32 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 677.016 |
-| Bauschritte | 427 |
-| Y-Bereich | 62 bis 133 |
+| Blöcke | 499.800 |
+| Bauschritte | 314 |
+| Y-Bereich | 62 bis 127 |
 | X-Ausdehnung | -41 bis 755 (797 Blöcke) |
 | Z-Ausdehnung | 1760 bis 2025 (266 Blöcke) |
-| Kleinster Schritt | 474 Blöcke (Schritt 9.45) |
-| Mittlerer Schritt | 1.586 Blöcke |
-| Größter Schritt | 2.097 Blöcke (Schritt 9.289) |
+| Kleinster Schritt | 775 Blöcke (Schritt 9.193) |
+| Mittlerer Schritt | 1.592 Blöcke |
+| Größter Schritt | 2.097 Blöcke (Schritt 9.176) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 219.452 | 32,4 % |
-| Terrakotta | `terracotta` | 161.249 | 23,8 % |
-| Rosa Keramik | `pink_terracotta` | 74.243 | 11,0 % |
-| Polierter Tuffstein | `polished_tuff` | 48.805 | 7,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 46.701 | 6,9 % |
-| Endsteinziegel | `end_stone_bricks` | 18.231 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 16.966 | 2,5 % |
-| Polierter Andesit | `polished_andesite` | 16.047 | 2,4 % |
-| Orange Keramik | `orange_terracotta` | 13.368 | 2,0 % |
-| Glatter Sandstein | `smooth_sandstone` | 12.299 | 1,8 % |
-| Weißer Beton | `white_concrete` | 11.739 | 1,7 % |
-| Graues Buntglas | `gray_stained_glass` | 11.662 | 1,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 8.892 | 1,3 % |
-| Fichtenholz-Bretter | `spruce_planks` | 3.471 | 0,5 % |
-| Ziegelsteine | `bricks` | 3.341 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 3.031 | 0,4 % |
-| Grüner Beton | `green_concrete` | 2.801 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.712 | 0,3 % |
-| Seelaterne | `sea_lantern` | 894 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 393 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 365 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 295 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 273 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 229 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 229 | 0,0 % |
+| Terrakotta | `terracotta` | 139.548 | 27,9 % |
+| Tuffstein | `tuff` | 81.670 | 16,3 % |
+| Rosa Keramik | `pink_terracotta` | 74.243 | 14,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 46.057 | 9,2 % |
+| Polierter Tuffstein | `polished_tuff` | 41.754 | 8,4 % |
+| Endsteinziegel | `end_stone_bricks` | 18.231 | 3,6 % |
+| Glatter Stein | `smooth_stone` | 15.354 | 3,1 % |
+| Orange Keramik | `orange_terracotta` | 13.368 | 2,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 12.299 | 2,5 % |
+| Polierter Andesit | `polished_andesite` | 11.986 | 2,4 % |
+| Weißer Beton | `white_concrete` | 11.739 | 2,3 % |
+| Graues Buntglas | `gray_stained_glass` | 10.063 | 2,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 8.892 | 1,8 % |
+| Ziegelsteine | `bricks` | 2.974 | 0,6 % |
+| Grüner Beton | `green_concrete` | 2.801 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 2.689 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.711 | 0,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.564 | 0,3 % |
+| Seelaterne | `sea_lantern` | 797 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 392 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 364 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 295 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 273 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 225 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 225 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 104 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 96 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 29 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 11 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.326 |
-| Steintreppe | `stone_stairs` | 280 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.324 |
+| Steintreppe | `stone_stairs` | 240 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 42 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -72,69 +72,67 @@
 | 2 | `r4095206_innen` | Palazzo Stiozzi Ridolfi: Innenausbau | 5.395 | 9.13–9.16 |
 | 3 | `r4095212` | Palazzo Gianni-Lucchesini-Vegni | 34.639 | 9.17–9.38 |
 | 4 | `r4095212_innen` | Palazzo Gianni-Lucchesini-Vegni: Innenausbau | 9.104 | 9.39–9.44 |
-| 5 | `r4095220` | Palazzo dei Mozzi | 162.988 | 9.45–9.150 |
-| 6 | `r4095220_innen` | Palazzo dei Mozzi: Innenausbau | 12.181 | 9.151–9.156 |
-| 7 | `r7161814` | Renaissance-Palazzo an Via di San Niccolò | 24.065 | 9.157–9.170 |
-| 8 | `r7161814_innen` | Renaissance-Palazzo an Via di San Niccolò: Innenausbau | 5.927 | 9.171–9.174 |
-| 9 | `r7161815` | Reihenhaus an Costa Scarpuccia | 27.796 | 9.175–9.191 |
-| 10 | `r7161815_innen` | Reihenhaus an Costa Scarpuccia: Innenausbau | 7.876 | 9.192–9.197 |
-| 11 | `r7161816` | Palazzo des Cinquecento an Via dei Bardi | 57.529 | 9.198–9.237 |
-| 12 | `r7161816_innen` | Palazzo des Cinquecento an Via dei Bardi: Innenausbau | 4.347 | 9.238–9.241 |
-| 13 | `r9463050` | Reihenhaus an Via di San Niccolò | 23.168 | 9.242–9.255 |
-| 14 | `r9463050_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 4.353 | 9.256–9.258 |
-| 15 | `w306695194` | Palazzo des Cinquecento an Via dei Bardi | 12.860 | 9.259–9.266 |
-| 16 | `w306695194_innen` | Palazzo des Cinquecento an Via dei Bardi: Innenausbau | 2.645 | 9.267–9.268 |
-| 17 | `w306695197` | Palazzo des Cinquecento an Via dei Bardi | 13.818 | 9.269–9.276 |
-| 18 | `w306695197_innen` | Palazzo des Cinquecento an Via dei Bardi: Innenausbau | 2.648 | 9.277–9.278 |
-| 19 | `w480709152` | Reihenhaus an Via di San Niccolò | 6.810 | 9.279–9.282 |
-| 20 | `w480709152_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.424 | 9.283 |
-| 21 | `w480709153` | Reihenhaus an Via San Miniato | 4.065 | 9.284–9.285 |
-| 22 | `w480709153_innen` | Reihenhaus an Via San Miniato: Innenausbau | 5 | 9.286 |
-| 23 | `w480709154` | Reihenhaus an Via San Miniato | 8.047 | 9.286–9.289 |
-| 24 | `w480709154_innen` | Reihenhaus an Via San Miniato: Innenausbau | 1.887 | 9.290 |
-| 25 | `w480709155` | Reihenhaus an Via di San Niccolò | 6.220 | 9.291–9.294 |
-| 26 | `w480709155_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.253 | 9.295 |
-| 27 | `w480709156` | Reihenhaus an Via di San Niccolò | 6.934 | 9.296–9.299 |
-| 28 | `w480709156_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.568 | 9.300 |
-| 29 | `w480709157` | Haus w480709157 | 8.963 | 9.301–9.305 |
-| 30 | `w480709157_innen` | Haus w480709157: Innenausbau | 2.189 | 9.306–9.307 |
-| 31 | `w480709158` | Reihenhaus an Via di San Niccolò | 5.741 | 9.308–9.310 |
-| 32 | `w480709158_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.272 | 9.311 |
-| 33 | `w480709159` | Reihenhaus an Via di San Niccolò | 11.626 | 9.312–9.318 |
-| 34 | `w480709159_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2.200 | 9.319–9.320 |
-| 35 | `w480709160` | Reihenhaus an Via di San Niccolò | 4.081 | 9.321–9.322 |
-| 36 | `w480709160_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.006 | 9.323 |
-| 37 | `w480709161` | Reihenhaus an Via di San Niccolò | 3.798 | 9.324–9.325 |
-| 38 | `w480709161_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2 | 9.326 |
-| 39 | `w480709162` | Reihenhaus an Via di San Niccolò | 9.767 | 9.326–9.331 |
-| 40 | `w480709162_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2.728 | 9.332–9.333 |
-| 41 | `w480709163` | Reihenhaus an Via di San Niccolò | 10.333 | 9.334–9.339 |
-| 42 | `w480709163_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.677 | 9.340–9.342 |
-| 43 | `w480709164` | Reihenhaus an Via di San Niccolò | 4.973 | 9.343–9.345 |
-| 44 | `w480709164_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.136 | 9.346 |
-| 45 | `w480709165` | Reihenhaus an Via di San Niccolò | 2.548 | 9.347–9.348 |
-| 46 | `w480709165_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.395 | 9.349 |
-| 47 | `w480709166` | Reihenhaus an Via di San Niccolò | 5.452 | 9.350–9.352 |
-| 48 | `w480709166_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.593 | 9.353 |
-| 49 | `w480709167` | Reihenhaus an Via di San Niccolò | 1.980 | 9.354 |
-| 50 | `w480709167_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.428 | 9.355 |
-| 51 | `w480709168` | Haus w480709168 | 7.991 | 9.356–9.359 |
-| 52 | `w480709168_innen` | Haus w480709168: Innenausbau | 1.445 | 9.360 |
-| 53 | `w480709169` | Reihenhaus an Via di San Niccolò | 3.544 | 9.361–9.362 |
-| 54 | `w480709169_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.827 | 9.363 |
-| 55 | `w480709170` | Reihenhaus an Via di San Niccolò | 3.642 | 9.364–9.365 |
-| 56 | `w480709170_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.553 | 9.366 |
-| 57 | `w480709171` | Reihenhaus an Via San Miniato | 8.763 | 9.367–9.371 |
-| 58 | `w480709171_innen` | Reihenhaus an Via San Miniato: Innenausbau | 3.137 | 9.372–9.373 |
-| 59 | `w487164792` | Reihenhaus an Via di San Niccolò | 53.375 | 9.374–9.407 |
-| 60 | `w487164792_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 6.104 | 9.408–9.410 |
-| 61 | `w487164804` | Reihenhaus an Via dei Bardi | 11.625 | 9.411–9.416 |
-| 62 | `w487164804_innen` | Reihenhaus an Via dei Bardi: Innenausbau | 4.201 | 9.417–9.419 |
-| 63 | `w487164809` | Reihenhaus an Via di San Niccolò | 3.899 | 9.420–9.421 |
-| 64 | `w487164809_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 962 | 9.422 |
-| 65 | `w487164815` | Reihenhaus an Via di San Niccolò | 5.655 | 9.423–9.425 |
-| 66 | `w487164815_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2.294 | 9.426–9.427 |
-| 67 | `strassenschilder` | Straßenschilder | 6 | 9.427 |
+| 5 | `r7161814` | Renaissance-Palazzo an Via di San Niccolò | 22.479 | 9.45–9.57 |
+| 6 | `r7161814_innen` | Renaissance-Palazzo an Via di San Niccolò: Innenausbau | 6.049 | 9.58–9.61 |
+| 7 | `r7161815` | Reihenhaus an Costa Scarpuccia | 27.796 | 9.62–9.78 |
+| 8 | `r7161815_innen` | Reihenhaus an Costa Scarpuccia: Innenausbau | 7.876 | 9.79–9.84 |
+| 9 | `r7161816` | Palazzo des Cinquecento an Via dei Bardi | 57.529 | 9.85–9.124 |
+| 10 | `r7161816_innen` | Palazzo des Cinquecento an Via dei Bardi: Innenausbau | 4.347 | 9.125–9.128 |
+| 11 | `r9463050` | Reihenhaus an Via di San Niccolò | 23.168 | 9.129–9.142 |
+| 12 | `r9463050_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 4.353 | 9.143–9.145 |
+| 13 | `w306695194` | Palazzo des Cinquecento an Via dei Bardi | 12.860 | 9.146–9.153 |
+| 14 | `w306695194_innen` | Palazzo des Cinquecento an Via dei Bardi: Innenausbau | 2.645 | 9.154–9.155 |
+| 15 | `w306695197` | Palazzo des Cinquecento an Via dei Bardi | 13.174 | 9.156–9.163 |
+| 16 | `w306695197_innen` | Palazzo des Cinquecento an Via dei Bardi: Innenausbau | 2.711 | 9.164–9.165 |
+| 17 | `w480709152` | Reihenhaus an Via di San Niccolò | 6.810 | 9.166–9.169 |
+| 18 | `w480709152_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.424 | 9.170 |
+| 19 | `w480709153` | Reihenhaus an Via San Miniato | 4.065 | 9.171–9.172 |
+| 20 | `w480709153_innen` | Reihenhaus an Via San Miniato: Innenausbau | 5 | 9.173 |
+| 21 | `w480709154` | Reihenhaus an Via San Miniato | 8.047 | 9.173–9.176 |
+| 22 | `w480709154_innen` | Reihenhaus an Via San Miniato: Innenausbau | 1.887 | 9.177 |
+| 23 | `w480709155` | Reihenhaus an Via di San Niccolò | 6.220 | 9.178–9.181 |
+| 24 | `w480709155_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.253 | 9.182 |
+| 25 | `w480709156` | Reihenhaus an Via di San Niccolò | 6.934 | 9.183–9.186 |
+| 26 | `w480709156_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.568 | 9.187 |
+| 27 | `w480709157` | Haus w480709157 | 8.963 | 9.188–9.192 |
+| 28 | `w480709157_innen` | Haus w480709157: Innenausbau | 2.189 | 9.193–9.194 |
+| 29 | `w480709158` | Reihenhaus an Via di San Niccolò | 5.741 | 9.195–9.197 |
+| 30 | `w480709158_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.272 | 9.198 |
+| 31 | `w480709159` | Reihenhaus an Via di San Niccolò | 11.626 | 9.199–9.205 |
+| 32 | `w480709159_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2.200 | 9.206–9.207 |
+| 33 | `w480709160` | Reihenhaus an Via di San Niccolò | 4.081 | 9.208–9.209 |
+| 34 | `w480709160_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.006 | 9.210 |
+| 35 | `w480709161` | Reihenhaus an Via di San Niccolò | 3.798 | 9.211–9.212 |
+| 36 | `w480709161_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2 | 9.213 |
+| 37 | `w480709162` | Reihenhaus an Via di San Niccolò | 9.767 | 9.213–9.218 |
+| 38 | `w480709162_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2.728 | 9.219–9.220 |
+| 39 | `w480709163` | Reihenhaus an Via di San Niccolò | 10.333 | 9.221–9.226 |
+| 40 | `w480709163_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 3.677 | 9.227–9.229 |
+| 41 | `w480709164` | Reihenhaus an Via di San Niccolò | 4.973 | 9.230–9.232 |
+| 42 | `w480709164_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.136 | 9.233 |
+| 43 | `w480709165` | Reihenhaus an Via di San Niccolò | 2.548 | 9.234–9.235 |
+| 44 | `w480709165_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.395 | 9.236 |
+| 45 | `w480709166` | Reihenhaus an Via di San Niccolò | 5.452 | 9.237–9.239 |
+| 46 | `w480709166_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.593 | 9.240 |
+| 47 | `w480709167` | Reihenhaus an Via di San Niccolò | 1.980 | 9.241 |
+| 48 | `w480709167_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.428 | 9.242 |
+| 49 | `w480709168` | Haus w480709168 | 7.991 | 9.243–9.246 |
+| 50 | `w480709168_innen` | Haus w480709168: Innenausbau | 1.445 | 9.247 |
+| 51 | `w480709169` | Reihenhaus an Via di San Niccolò | 3.544 | 9.248–9.249 |
+| 52 | `w480709169_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.827 | 9.250 |
+| 53 | `w480709170` | Reihenhaus an Via di San Niccolò | 3.642 | 9.251–9.252 |
+| 54 | `w480709170_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 1.553 | 9.253 |
+| 55 | `w480709171` | Reihenhaus an Via San Miniato | 8.763 | 9.254–9.258 |
+| 56 | `w480709171_innen` | Reihenhaus an Via San Miniato: Innenausbau | 3.137 | 9.259–9.260 |
+| 57 | `w487164792` | Reihenhaus an Via di San Niccolò | 53.375 | 9.261–9.294 |
+| 58 | `w487164792_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 6.104 | 9.295–9.297 |
+| 59 | `w487164804` | Reihenhaus an Via dei Bardi | 11.625 | 9.298–9.303 |
+| 60 | `w487164804_innen` | Reihenhaus an Via dei Bardi: Innenausbau | 4.201 | 9.304–9.306 |
+| 61 | `w487164809` | Reihenhaus an Via di San Niccolò | 3.899 | 9.307–9.308 |
+| 62 | `w487164809_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 962 | 9.309 |
+| 63 | `w487164815` | Reihenhaus an Via di San Niccolò | 5.655 | 9.310–9.312 |
+| 64 | `w487164815_innen` | Reihenhaus an Via di San Niccolò: Innenausbau | 2.294 | 9.313–9.314 |
+| 65 | `strassenschilder` | Straßenschilder | 4 | 9.314 |
 
 ## Bauschritte
 
@@ -1541,3256 +1539,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.45 – Palazzo dei Mozzi – Teil 1/106 (Y 66–67)
-
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 474
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 474 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.46 – Palazzo dei Mozzi – Teil 2/106 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.854
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.854 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.47 – Palazzo dei Mozzi – Teil 3/106 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.719
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.719 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.48 – Palazzo dei Mozzi – Teil 4/106 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.697
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.697 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.49 – Palazzo dei Mozzi – Teil 5/106 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.905
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.905 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.50 – Palazzo dei Mozzi – Teil 6/106 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.892
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.892 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.51 – Palazzo dei Mozzi – Teil 7/106 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 2.020
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.020 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.52 – Palazzo dei Mozzi – Teil 8/106 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.975
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.975 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.53 – Palazzo dei Mozzi – Teil 9/106 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 2.092
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.092 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.54 – Palazzo dei Mozzi – Teil 10/106 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 2.092
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.092 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.55 – Palazzo dei Mozzi – Teil 11/106 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.474
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.474 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.56 – Palazzo dei Mozzi – Teil 12/106 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.450
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.450 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.57 – Palazzo dei Mozzi – Teil 13/106 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.423
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.423 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.58 – Palazzo dei Mozzi – Teil 14/106 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.493
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.493 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.59 – Palazzo dei Mozzi – Teil 15/106 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.469
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.469 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.60 – Palazzo dei Mozzi – Teil 16/106 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.519
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.519 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.61 – Palazzo dei Mozzi – Teil 17/106 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.562
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.562 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.62 – Palazzo dei Mozzi – Teil 18/106 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.508
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.508 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.63 – Palazzo dei Mozzi – Teil 19/106 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.539
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.539 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.64 – Palazzo dei Mozzi – Teil 20/106 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.575
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.575 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.65 – Palazzo dei Mozzi – Teil 21/106 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.606
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.606 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.66 – Palazzo dei Mozzi – Teil 22/106 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.552
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.552 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.67 – Palazzo dei Mozzi – Teil 23/106 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.642
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.642 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.68 – Palazzo dei Mozzi – Teil 24/106 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.567
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.567 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.69 – Palazzo dei Mozzi – Teil 25/106 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.644
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.644 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.70 – Palazzo dei Mozzi – Teil 26/106 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.645
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.645 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.71 – Palazzo dei Mozzi – Teil 27/106 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.665
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.665 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.72 – Palazzo dei Mozzi – Teil 28/106 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.653
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.653 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.73 – Palazzo dei Mozzi – Teil 29/106 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.708
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.708 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.74 – Palazzo dei Mozzi – Teil 30/106 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.703
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.703 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.75 – Palazzo dei Mozzi – Teil 31/106 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.661
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.661 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.76 – Palazzo dei Mozzi – Teil 32/106 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.702
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.702 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.77 – Palazzo dei Mozzi – Teil 33/106 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.721
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.721 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.78 – Palazzo dei Mozzi – Teil 34/106 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.754
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.754 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.79 – Palazzo dei Mozzi – Teil 35/106 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.754
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.754 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.80 – Palazzo dei Mozzi – Teil 36/106 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.759
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.759 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.81 – Palazzo dei Mozzi – Teil 37/106 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.757
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.757 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.82 – Palazzo dei Mozzi – Teil 38/106 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.809
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.809 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.83 – Palazzo dei Mozzi – Teil 39/106 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.797
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.797 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.84 – Palazzo dei Mozzi – Teil 40/106 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.758
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.758 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.85 – Palazzo dei Mozzi – Teil 41/106 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.786
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.786 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.86 – Palazzo dei Mozzi – Teil 42/106 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.816
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.816 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.87 – Palazzo dei Mozzi – Teil 43/106 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.852
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.852 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.88 – Palazzo dei Mozzi – Teil 44/106 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.827
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.827 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.89 – Palazzo dei Mozzi – Teil 45/106 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.855
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.855 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.90 – Palazzo dei Mozzi – Teil 46/106 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.852
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.852 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.91 – Palazzo dei Mozzi – Teil 47/106 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.867
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.867 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.92 – Palazzo dei Mozzi – Teil 48/106 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.896
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.896 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.93 – Palazzo dei Mozzi – Teil 49/106 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.864
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.864 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.94 – Palazzo dei Mozzi – Teil 50/106 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.911
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.911 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.95 – Palazzo dei Mozzi – Teil 51/106 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.940
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.940 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.96 – Palazzo dei Mozzi – Teil 52/106 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.901
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.901 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.97 – Palazzo dei Mozzi – Teil 53/106 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.955
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.955 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.98 – Palazzo dei Mozzi – Teil 54/106 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.984
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.984 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.99 – Palazzo dei Mozzi – Teil 55/106 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.961
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.961 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.100 – Palazzo dei Mozzi – Teil 56/106 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.999
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.999 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.101 – Palazzo dei Mozzi – Teil 57/106 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 2.029
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.029 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.102 – Palazzo dei Mozzi – Teil 58/106 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 2.039
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.039 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.103 – Palazzo dei Mozzi – Teil 59/106 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 2.082
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.082 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.104 – Palazzo dei Mozzi – Teil 60/106 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 2.081
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.081 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.105 – Palazzo dei Mozzi – Teil 61/106 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 2.082
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.082 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.106 – Palazzo dei Mozzi – Teil 62/106 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.636
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.636 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.107 – Palazzo dei Mozzi – Teil 63/106 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.581
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.581 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.108 – Palazzo dei Mozzi – Teil 64/106 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.598
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.598 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.109 – Palazzo dei Mozzi – Teil 65/106 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.606
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.606 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.110 – Palazzo dei Mozzi – Teil 66/106 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.814
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.814 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.111 – Palazzo dei Mozzi – Teil 67/106 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.735
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.735 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.112 – Palazzo dei Mozzi – Teil 68/106 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.697
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.697 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.113 – Palazzo dei Mozzi – Teil 69/106 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.805
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.805 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.114 – Palazzo dei Mozzi – Teil 70/106 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.050
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 936 |
-| Tuffsteinziegel | `tuff_bricks` | 78 |
-| Polierter Andesit | `polished_andesite` | 36 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.115 – Palazzo dei Mozzi – Teil 71/106 (Y 93–93)
-
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.050
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 963 |
-| Tuffsteinziegel | `tuff_bricks` | 71 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.116 – Palazzo dei Mozzi – Teil 72/106 (Y 94–94)
-
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.128
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 748 |
-| Polierter Andesit | `polished_andesite` | 343 |
-| Tuffsteinziegel | `tuff_bricks` | 37 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.117 – Palazzo dei Mozzi – Teil 73/106 (Y 95–95)
-
-- **Y-Bereich:** 95 bis 95
-- **Blöcke:** 972
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 685 |
-| Polierter Andesit | `polished_andesite` | 128 |
-| Graues Buntglas | `gray_stained_glass` | 118 |
-| Tuffsteinziegel | `tuff_bricks` | 41 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.118 – Palazzo dei Mozzi – Teil 74/106 (Y 96–96)
-
-- **Y-Bereich:** 96 bis 96
-- **Blöcke:** 978
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 664 |
-| Polierter Andesit | `polished_andesite` | 152 |
-| Graues Buntglas | `gray_stained_glass` | 118 |
-| Tuffsteinziegel | `tuff_bricks` | 44 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.119 – Palazzo dei Mozzi – Teil 75/106 (Y 97–97)
-
-- **Y-Bereich:** 97 bis 97
-- **Blöcke:** 978
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 678 |
-| Polierter Andesit | `polished_andesite` | 245 |
-| Tuffsteinziegel | `tuff_bricks` | 55 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.120 – Palazzo dei Mozzi – Teil 76/106 (Y 98–98)
-
-- **Y-Bereich:** 98 bis 98
-- **Blöcke:** 978
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 670 |
-| Polierter Andesit | `polished_andesite` | 144 |
-| Graues Buntglas | `gray_stained_glass` | 118 |
-| Tuffsteinziegel | `tuff_bricks` | 46 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.121 – Palazzo dei Mozzi – Teil 77/106 (Y 99–99)
-
-- **Y-Bereich:** 99 bis 99
-- **Blöcke:** 1.057
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 780 |
-| Polierter Andesit | `polished_andesite` | 241 |
-| Tuffsteinziegel | `tuff_bricks` | 36 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.122 – Palazzo dei Mozzi – Teil 78/106 (Y 100–100)
-
-- **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.057
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 946 |
-| Tuffsteinziegel | `tuff_bricks` | 78 |
-| Polierter Andesit | `polished_andesite` | 33 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.123 – Palazzo dei Mozzi – Teil 79/106 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.319
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 780 |
-| Tuffstein | `tuff` | 539 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.124 – Palazzo dei Mozzi – Teil 80/106 (Y 102–102)
-
-- **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.057
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 963 |
-| Tuffsteinziegel | `tuff_bricks` | 61 |
-| Polierter Andesit | `polished_andesite` | 33 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.125 – Palazzo dei Mozzi – Teil 81/106 (Y 103–103)
-
-- **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.136
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 768 |
-| Polierter Andesit | `polished_andesite` | 325 |
-| Tuffsteinziegel | `tuff_bricks` | 43 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.126 – Palazzo dei Mozzi – Teil 82/106 (Y 104–104)
-
-- **Y-Bereich:** 104 bis 104
-- **Blöcke:** 976
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 672 |
-| Polierter Andesit | `polished_andesite` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Tuffsteinziegel | `tuff_bricks` | 37 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.127 – Palazzo dei Mozzi – Teil 83/106 (Y 105–105)
-
-- **Y-Bereich:** 105 bis 105
-- **Blöcke:** 976
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 685 |
-| Polierter Andesit | `polished_andesite` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Tuffsteinziegel | `tuff_bricks` | 45 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.128 – Palazzo dei Mozzi – Teil 84/106 (Y 106–106)
-
-- **Y-Bereich:** 106 bis 106
-- **Blöcke:** 976
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 669 |
-| Polierter Andesit | `polished_andesite` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Tuffsteinziegel | `tuff_bricks` | 40 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.129 – Palazzo dei Mozzi – Teil 85/106 (Y 107–107)
-
-- **Y-Bereich:** 107 bis 107
-- **Blöcke:** 976
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 686 |
-| Polierter Andesit | `polished_andesite` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Tuffsteinziegel | `tuff_bricks` | 44 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.130 – Palazzo dei Mozzi – Teil 86/106 (Y 108–108)
-
-- **Y-Bereich:** 108 bis 108
-- **Blöcke:** 978
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 679 |
-| Polierter Andesit | `polished_andesite` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 119 |
-| Tuffsteinziegel | `tuff_bricks` | 32 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.131 – Palazzo dei Mozzi – Teil 87/106 (Y 109–109)
-
-- **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.003
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 711 |
-| Polierter Andesit | `polished_andesite` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
-| Tuffsteinziegel | `tuff_bricks` | 47 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.132 – Palazzo dei Mozzi – Teil 88/106 (Y 110–110)
-
-- **Y-Bereich:** 110 bis 110
-- **Blöcke:** 1.057
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 808 |
-| Polierter Andesit | `polished_andesite` | 199 |
-| Tuffsteinziegel | `tuff_bricks` | 50 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.133 – Palazzo dei Mozzi – Teil 89/106 (Y 111–111)
-
-- **Y-Bereich:** 111 bis 111
-- **Blöcke:** 1.319
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 780 |
-| Tuffstein | `tuff` | 539 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.134 – Palazzo dei Mozzi – Teil 90/106 (Y 112–112)
-
-- **Y-Bereich:** 112 bis 112
-- **Blöcke:** 1.057
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 933 |
-| Tuffsteinziegel | `tuff_bricks` | 91 |
-| Polierter Andesit | `polished_andesite` | 33 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.135 – Palazzo dei Mozzi – Teil 91/106 (Y 113–113)
-
-- **Y-Bereich:** 113 bis 113
-- **Blöcke:** 1.136
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 746 |
-| Polierter Andesit | `polished_andesite` | 325 |
-| Tuffsteinziegel | `tuff_bricks` | 65 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.136 – Palazzo dei Mozzi – Teil 92/106 (Y 114–114)
-
-- **Y-Bereich:** 114 bis 114
-- **Blöcke:** 976
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 682 |
-| Polierter Andesit | `polished_andesite` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Tuffsteinziegel | `tuff_bricks` | 27 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.137 – Palazzo dei Mozzi – Teil 93/106 (Y 115–115)
-
-- **Y-Bereich:** 115 bis 115
-- **Blöcke:** 976
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 690 |
-| Polierter Andesit | `polished_andesite` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Tuffsteinziegel | `tuff_bricks` | 40 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.138 – Palazzo dei Mozzi – Teil 94/106 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 976
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 671 |
-| Polierter Andesit | `polished_andesite` | 146 |
-| Graues Buntglas | `gray_stained_glass` | 121 |
-| Tuffsteinziegel | `tuff_bricks` | 38 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.139 – Palazzo dei Mozzi – Teil 95/106 (Y 117–117)
-
-- **Y-Bereich:** 117 bis 117
-- **Blöcke:** 978
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 685 |
-| Polierter Andesit | `polished_andesite` | 127 |
-| Graues Buntglas | `gray_stained_glass` | 119 |
-| Tuffsteinziegel | `tuff_bricks` | 47 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.140 – Palazzo dei Mozzi – Teil 96/106 (Y 118–118)
-
-- **Y-Bereich:** 118 bis 118
-- **Blöcke:** 1.003
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 692 |
-| Polierter Andesit | `polished_andesite` | 186 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
-| Tuffsteinziegel | `tuff_bricks` | 45 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.141 – Palazzo dei Mozzi – Teil 97/106 (Y 119–119)
-
-- **Y-Bereich:** 119 bis 119
-- **Blöcke:** 1.057
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 824 |
-| Polierter Andesit | `polished_andesite` | 178 |
-| Tuffsteinziegel | `tuff_bricks` | 55 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.142 – Palazzo dei Mozzi – Teil 98/106 (Y 120–120)
-
-- **Y-Bereich:** 120 bis 120
-- **Blöcke:** 1.201
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 929 |
-| Fichtenholz-Bretter | `spruce_planks` | 144 |
-| Tuffsteinziegel | `tuff_bricks` | 95 |
-| Polierter Andesit | `polished_andesite` | 33 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.143 – Palazzo dei Mozzi – Teil 99/106 (Y 121–121)
-
-- **Y-Bereich:** 121 bis 121
-- **Blöcke:** 1.695
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 966 |
-| Fichtenholz-Bretter | `spruce_planks` | 638 |
-| Tuffsteinziegel | `tuff_bricks` | 79 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.144 – Palazzo dei Mozzi – Teil 100/106 (Y 122–122)
-
-- **Y-Bereich:** 122 bis 122
-- **Blöcke:** 1.507
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.507 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.145 – Palazzo dei Mozzi – Teil 101/106 (Y 122–122)
-
-- **Y-Bereich:** 122 bis 122
-- **Blöcke:** 1.497
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.497 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.146 – Palazzo dei Mozzi – Teil 102/106 (Y 123–123)
-
-- **Y-Bereich:** 123 bis 123
-- **Blöcke:** 1.612
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.612 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.147 – Palazzo dei Mozzi – Teil 103/106 (Y 124–124)
-
-- **Y-Bereich:** 124 bis 124
-- **Blöcke:** 1.592
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.592 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.148 – Palazzo dei Mozzi – Teil 104/106 (Y 125–125)
-
-- **Y-Bereich:** 125 bis 125
-- **Blöcke:** 1.264
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.184 |
-| Ziegelsteine | `bricks` | 80 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.149 – Palazzo dei Mozzi – Teil 105/106 (Y 126–127)
-
-- **Y-Bereich:** 126 bis 127
-- **Blöcke:** 1.484
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.321 |
-| Ziegelsteine | `bricks` | 163 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.150 – Palazzo dei Mozzi – Teil 106/106 (Y 128–133)
-
-- **Y-Bereich:** 128 bis 133
-- **Blöcke:** 1.316
-- **Bauteile:** `r4095220`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.192 |
-| Ziegelsteine | `bricks` | 124 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (Ende 13./Anfang 14. Jh. (Palazzo-Festung)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Mozzi, Angaben belegt (Sicherheit 0,65).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.151 – Palazzo dei Mozzi: Innenausbau – Teil 1/6 (Y 91–101)
-
-- **Y-Bereich:** 91 bis 101
-- **Blöcke:** 2.094
-- **Bauteile:** `r4095220_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.000 |
-| Seelaterne | `sea_lantern` | 45 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.152 – Palazzo dei Mozzi: Innenausbau – Teil 2/6 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.993
-- **Bauteile:** `r4095220_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.985 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.153 – Palazzo dei Mozzi: Innenausbau – Teil 3/6 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.014
-- **Bauteile:** `r4095220_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.001 |
-| Seelaterne | `sea_lantern` | 13 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.154 – Palazzo dei Mozzi: Innenausbau – Teil 4/6 (Y 102–111)
-
-- **Y-Bereich:** 102 bis 111
-- **Blöcke:** 2.067
-- **Bauteile:** `r4095220_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.000 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.155 – Palazzo dei Mozzi: Innenausbau – Teil 5/6 (Y 111–111)
-
-- **Y-Bereich:** 111 bis 111
-- **Blöcke:** 1.993
-- **Bauteile:** `r4095220_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.985 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.156 – Palazzo dei Mozzi: Innenausbau – Teil 6/6 (Y 111–112)
-
-- **Y-Bereich:** 111 bis 112
-- **Blöcke:** 2.020
-- **Bauteile:** `r4095220_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.001 |
-| Seelaterne | `sea_lantern` | 13 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.157 – Renaissance-Palazzo an Via di San Niccolò – Teil 1/14 (Y 65–65)
+### Schritt 9.45 – Renaissance-Palazzo an Via di San Niccolò – Teil 1/13 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.676
@@ -4818,7 +1567,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.158 – Renaissance-Palazzo an Via di San Niccolò – Teil 2/14 (Y 65–65)
+### Schritt 9.46 – Renaissance-Palazzo an Via di San Niccolò – Teil 2/13 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.731
@@ -4846,17 +1595,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.159 – Renaissance-Palazzo an Via di San Niccolò – Teil 3/14 (Y 66–69)
+### Schritt 9.47 – Renaissance-Palazzo an Via di San Niccolò – Teil 3/13 (Y 66–69)
 
 - **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.976
+- **Blöcke:** 1.732
 - **Bauteile:** `r7161814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.172 |
+| Tuffstein | `tuff` | 928 |
 | Tuffsteinziegel | `tuff_bricks` | 282 |
 | Polierter Andesit | `polished_andesite` | 258 |
 | Glatter Stein | `smooth_stone` | 203 |
@@ -4878,21 +1627,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.160 – Renaissance-Palazzo an Via di San Niccolò – Teil 4/14 (Y 70–72)
+### Schritt 9.48 – Renaissance-Palazzo an Via di San Niccolò – Teil 4/13 (Y 70–73)
 
-- **Y-Bereich:** 70 bis 72
-- **Blöcke:** 1.363
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 1.574
 - **Bauteile:** `r7161814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 771 |
-| Graues Buntglas | `gray_stained_glass` | 183 |
-| Glatter Stein | `smooth_stone` | 174 |
-| Polierter Andesit | `polished_andesite` | 149 |
-| Tuffsteinziegel | `tuff_bricks` | 86 |
+| Tuffstein | `tuff` | 784 |
+| Graues Buntglas | `gray_stained_glass` | 244 |
+| Glatter Stein | `smooth_stone` | 230 |
+| Polierter Andesit | `polished_andesite` | 180 |
+| Tuffsteinziegel | `tuff_bricks` | 136 |
 
 **Beschreibung**
 
@@ -4910,21 +1659,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.161 – Renaissance-Palazzo an Via di San Niccolò – Teil 5/14 (Y 73–75)
+### Schritt 9.49 – Renaissance-Palazzo an Via di San Niccolò – Teil 5/13 (Y 74–77)
 
-- **Y-Bereich:** 73 bis 75
-- **Blöcke:** 1.479
+- **Y-Bereich:** 74 bis 77
+- **Blöcke:** 1.936
 - **Bauteile:** `r7161814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 874 |
-| Polierter Andesit | `polished_andesite` | 191 |
-| Glatter Stein | `smooth_stone` | 189 |
-| Tuffsteinziegel | `tuff_bricks` | 164 |
-| Graues Buntglas | `gray_stained_glass` | 61 |
+| Tuffstein | `tuff` | 993 |
+| Glatter Stein | `smooth_stone` | 457 |
+| Polierter Andesit | `polished_andesite` | 368 |
+| Tuffsteinziegel | `tuff_bricks` | 118 |
 
 **Beschreibung**
 
@@ -4942,51 +1690,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.162 – Renaissance-Palazzo an Via di San Niccolò – Teil 6/14 (Y 76–78)
+### Schritt 9.50 – Renaissance-Palazzo an Via di San Niccolò – Teil 6/13 (Y 78–81)
 
-- **Y-Bereich:** 76 bis 78
-- **Blöcke:** 1.712
+- **Y-Bereich:** 78 bis 81
+- **Blöcke:** 1.704
 - **Bauteile:** `r7161814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 930 |
-| Glatter Stein | `smooth_stone` | 490 |
-| Polierter Andesit | `polished_andesite` | 288 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.163 – Renaissance-Palazzo an Via di San Niccolò – Teil 7/14 (Y 79–82)
-
-- **Y-Bereich:** 79 bis 82
-- **Blöcke:** 1.856
-- **Bauteile:** `r7161814`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.036 |
+| Tuffstein | `tuff` | 843 |
+| Glatter Stein | `smooth_stone` | 341 |
 | Polierter Andesit | `polished_andesite` | 328 |
-| Graues Buntglas | `gray_stained_glass` | 256 |
-| Glatter Stein | `smooth_stone` | 236 |
+| Graues Buntglas | `gray_stained_glass` | 192 |
 
 **Beschreibung**
 
@@ -5004,20 +1721,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.164 – Renaissance-Palazzo an Via di San Niccolò – Teil 8/14 (Y 83–85)
+### Schritt 9.51 – Renaissance-Palazzo an Via di San Niccolò – Teil 7/13 (Y 82–85)
 
-- **Y-Bereich:** 83 bis 85
-- **Blöcke:** 1.620
+- **Y-Bereich:** 82 bis 85
+- **Blöcke:** 1.840
 - **Bauteile:** `r7161814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 879 |
-| Glatter Stein | `smooth_stone` | 513 |
-| Polierter Andesit | `polished_andesite` | 164 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
+| Tuffstein | `tuff` | 894 |
+| Glatter Stein | `smooth_stone` | 574 |
+| Polierter Andesit | `polished_andesite` | 244 |
+| Graues Buntglas | `gray_stained_glass` | 128 |
 
 **Beschreibung**
 
@@ -5035,17 +1752,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.165 – Renaissance-Palazzo an Via di San Niccolò – Teil 9/14 (Y 86–89)
+### Schritt 9.52 – Renaissance-Palazzo an Via di San Niccolò – Teil 8/13 (Y 86–89)
 
 - **Y-Bereich:** 86 bis 89
-- **Blöcke:** 1.999
+- **Blöcke:** 1.755
 - **Bauteile:** `r7161814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.138 |
+| Tuffstein | `tuff` | 894 |
 | Polierter Andesit | `polished_andesite` | 447 |
 | Glatter Stein | `smooth_stone` | 286 |
 | Graues Buntglas | `gray_stained_glass` | 128 |
@@ -5066,17 +1783,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.166 – Renaissance-Palazzo an Via di San Niccolò – Teil 10/14 (Y 90–93)
+### Schritt 9.53 – Renaissance-Palazzo an Via di San Niccolò – Teil 9/13 (Y 90–93)
 
 - **Y-Bereich:** 90 bis 93
-- **Blöcke:** 1.912
+- **Blöcke:** 1.790
 - **Bauteile:** `r7161814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 965 |
+| Tuffstein | `tuff` | 843 |
 | Glatter Stein | `smooth_stone` | 427 |
 | Polierter Andesit | `polished_andesite` | 328 |
 | Graues Buntglas | `gray_stained_glass` | 192 |
@@ -5097,7 +1814,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.167 – Renaissance-Palazzo an Via di San Niccolò – Teil 11/14 (Y 94–95)
+### Schritt 9.54 – Renaissance-Palazzo an Via di San Niccolò – Teil 10/13 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.648
@@ -5127,7 +1844,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.168 – Renaissance-Palazzo an Via di San Niccolò – Teil 12/14 (Y 96–96)
+### Schritt 9.55 – Renaissance-Palazzo an Via di San Niccolò – Teil 11/13 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.538
@@ -5155,7 +1872,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.169 – Renaissance-Palazzo an Via di San Niccolò – Teil 13/14 (Y 97–98)
+### Schritt 9.56 – Renaissance-Palazzo an Via di San Niccolò – Teil 12/13 (Y 97–98)
 
 - **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.770
@@ -5183,7 +1900,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.170 – Renaissance-Palazzo an Via di San Niccolò – Teil 14/14 (Y 99–105)
+### Schritt 9.57 – Renaissance-Palazzo an Via di San Niccolò – Teil 13/13 (Y 99–105)
 
 - **Y-Bereich:** 99 bis 105
 - **Blöcke:** 1.785
@@ -5212,17 +1929,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.171 – Renaissance-Palazzo an Via di San Niccolò: Innenausbau – Teil 1/4 (Y 65–76)
+### Schritt 9.58 – Renaissance-Palazzo an Via di San Niccolò: Innenausbau – Teil 1/4 (Y 65–76)
 
 - **Y-Bereich:** 65 bis 76
-- **Blöcke:** 1.535
+- **Blöcke:** 1.538
 - **Bauteile:** `r7161814_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.461 |
+| Terrakotta | `terracotta` | 1.464 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 23 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
@@ -5254,18 +1971,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.172 – Renaissance-Palazzo an Via di San Niccolò: Innenausbau – Teil 2/4 (Y 76–76)
+### Schritt 9.59 – Renaissance-Palazzo an Via di San Niccolò: Innenausbau – Teil 2/4 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.433
+- **Blöcke:** 1.491
 - **Bauteile:** `r7161814_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.423 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 1.480 |
+| Seelaterne | `sea_lantern` | 9 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
@@ -5290,17 +2007,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.173 – Renaissance-Palazzo an Via di San Niccolò: Innenausbau – Teil 3/4 (Y 77–85)
+### Schritt 9.60 – Renaissance-Palazzo an Via di San Niccolò: Innenausbau – Teil 3/4 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
-- **Blöcke:** 1.517
+- **Blöcke:** 1.520
 - **Bauteile:** `r7161814_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.461 |
+| Terrakotta | `terracotta` | 1.464 |
 | Glatter Stein | `smooth_stone` | 24 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 7 |
@@ -5334,18 +2051,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.174 – Renaissance-Palazzo an Via di San Niccolò: Innenausbau – Teil 4/4 (Y 85–86)
+### Schritt 9.61 – Renaissance-Palazzo an Via di San Niccolò: Innenausbau – Teil 4/4 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.442
+- **Blöcke:** 1.500
 - **Bauteile:** `r7161814_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.423 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 1.480 |
+| Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
@@ -5376,7 +2093,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.175 – Reihenhaus an Costa Scarpuccia – Teil 1/17 (Y 73–76)
+### Schritt 9.62 – Reihenhaus an Costa Scarpuccia – Teil 1/17 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.769
@@ -5413,7 +2130,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.176 – Reihenhaus an Costa Scarpuccia – Teil 2/17 (Y 76–76)
+### Schritt 9.63 – Reihenhaus an Costa Scarpuccia – Teil 2/17 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.603
@@ -5449,7 +2166,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.177 – Reihenhaus an Costa Scarpuccia – Teil 3/17 (Y 77–78)
+### Schritt 9.64 – Reihenhaus an Costa Scarpuccia – Teil 3/17 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.260
@@ -5479,7 +2196,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.178 – Reihenhaus an Costa Scarpuccia – Teil 4/17 (Y 79–81)
+### Schritt 9.65 – Reihenhaus an Costa Scarpuccia – Teil 4/17 (Y 79–81)
 
 - **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.865
@@ -5509,7 +2226,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.179 – Reihenhaus an Costa Scarpuccia – Teil 5/17 (Y 82–84)
+### Schritt 9.66 – Reihenhaus an Costa Scarpuccia – Teil 5/17 (Y 82–84)
 
 - **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.959
@@ -5539,7 +2256,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.180 – Reihenhaus an Costa Scarpuccia – Teil 6/17 (Y 85–86)
+### Schritt 9.67 – Reihenhaus an Costa Scarpuccia – Teil 6/17 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.338
@@ -5568,7 +2285,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.181 – Reihenhaus an Costa Scarpuccia – Teil 7/17 (Y 87–89)
+### Schritt 9.68 – Reihenhaus an Costa Scarpuccia – Teil 7/17 (Y 87–89)
 
 - **Y-Bereich:** 87 bis 89
 - **Blöcke:** 1.905
@@ -5599,7 +2316,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.182 – Reihenhaus an Costa Scarpuccia – Teil 8/17 (Y 90–91)
+### Schritt 9.69 – Reihenhaus an Costa Scarpuccia – Teil 8/17 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.301
@@ -5629,7 +2346,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.183 – Reihenhaus an Costa Scarpuccia – Teil 9/17 (Y 92–94)
+### Schritt 9.70 – Reihenhaus an Costa Scarpuccia – Teil 9/17 (Y 92–94)
 
 - **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.979
@@ -5660,7 +2377,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.184 – Reihenhaus an Costa Scarpuccia – Teil 10/17 (Y 95–96)
+### Schritt 9.71 – Reihenhaus an Costa Scarpuccia – Teil 10/17 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.270
@@ -5691,7 +2408,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.185 – Reihenhaus an Costa Scarpuccia – Teil 11/17 (Y 97–99)
+### Schritt 9.72 – Reihenhaus an Costa Scarpuccia – Teil 11/17 (Y 97–99)
 
 - **Y-Bereich:** 97 bis 99
 - **Blöcke:** 1.966
@@ -5721,7 +2438,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.186 – Reihenhaus an Costa Scarpuccia – Teil 12/17 (Y 100–101)
+### Schritt 9.73 – Reihenhaus an Costa Scarpuccia – Teil 12/17 (Y 100–101)
 
 - **Y-Bereich:** 100 bis 101
 - **Blöcke:** 1.319
@@ -5752,7 +2469,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.187 – Reihenhaus an Costa Scarpuccia – Teil 13/17 (Y 102–104)
+### Schritt 9.74 – Reihenhaus an Costa Scarpuccia – Teil 13/17 (Y 102–104)
 
 - **Y-Bereich:** 102 bis 104
 - **Blöcke:** 1.906
@@ -5783,7 +2500,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.188 – Reihenhaus an Costa Scarpuccia – Teil 14/17 (Y 105–106)
+### Schritt 9.75 – Reihenhaus an Costa Scarpuccia – Teil 14/17 (Y 105–106)
 
 - **Y-Bereich:** 105 bis 106
 - **Blöcke:** 1.769
@@ -5813,7 +2530,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.189 – Reihenhaus an Costa Scarpuccia – Teil 15/17 (Y 107–107)
+### Schritt 9.76 – Reihenhaus an Costa Scarpuccia – Teil 15/17 (Y 107–107)
 
 - **Y-Bereich:** 107 bis 107
 - **Blöcke:** 1.803
@@ -5841,7 +2558,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.190 – Reihenhaus an Costa Scarpuccia – Teil 16/17 (Y 108–108)
+### Schritt 9.77 – Reihenhaus an Costa Scarpuccia – Teil 16/17 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
 - **Blöcke:** 841
@@ -5869,7 +2586,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.191 – Reihenhaus an Costa Scarpuccia – Teil 17/17 (Y 109–115)
+### Schritt 9.78 – Reihenhaus an Costa Scarpuccia – Teil 17/17 (Y 109–115)
 
 - **Y-Bereich:** 109 bis 115
 - **Blöcke:** 1.943
@@ -5898,7 +2615,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.192 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 1/6 (Y 76–85)
+### Schritt 9.79 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 1/6 (Y 76–85)
 
 - **Y-Bereich:** 76 bis 85
 - **Blöcke:** 1.352
@@ -5936,7 +2653,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.193 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 2/6 (Y 85–85)
+### Schritt 9.80 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 2/6 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.283
@@ -5972,7 +2689,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.194 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 3/6 (Y 86–92)
+### Schritt 9.81 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 3/6 (Y 86–92)
 
 - **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.333
@@ -6014,7 +2731,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.195 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 4/6 (Y 92–92)
+### Schritt 9.82 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 4/6 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.283
@@ -6050,7 +2767,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.196 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 5/6 (Y 93–99)
+### Schritt 9.83 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 5/6 (Y 93–99)
 
 - **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.333
@@ -6092,7 +2809,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.197 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 6/6 (Y 99–100)
+### Schritt 9.84 – Reihenhaus an Costa Scarpuccia: Innenausbau – Teil 6/6 (Y 99–100)
 
 - **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.292
@@ -6133,7 +2850,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.198 – Palazzo des Cinquecento an Via dei Bardi – Teil 1/40 (Y 71–74)
+### Schritt 9.85 – Palazzo des Cinquecento an Via dei Bardi – Teil 1/40 (Y 71–74)
 
 - **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.302
@@ -6161,7 +2878,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.199 – Palazzo des Cinquecento an Via dei Bardi – Teil 2/40 (Y 75–76)
+### Schritt 9.86 – Palazzo des Cinquecento an Via dei Bardi – Teil 2/40 (Y 75–76)
 
 - **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.969
@@ -6189,7 +2906,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.200 – Palazzo des Cinquecento an Via dei Bardi – Teil 3/40 (Y 77–77)
+### Schritt 9.87 – Palazzo des Cinquecento an Via dei Bardi – Teil 3/40 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.258
@@ -6217,7 +2934,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.201 – Palazzo des Cinquecento an Via dei Bardi – Teil 4/40 (Y 78–78)
+### Schritt 9.88 – Palazzo des Cinquecento an Via dei Bardi – Teil 4/40 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.384
@@ -6245,7 +2962,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.202 – Palazzo des Cinquecento an Via dei Bardi – Teil 5/40 (Y 79–79)
+### Schritt 9.89 – Palazzo des Cinquecento an Via dei Bardi – Teil 5/40 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.528
@@ -6273,7 +2990,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.203 – Palazzo des Cinquecento an Via dei Bardi – Teil 6/40 (Y 80–80)
+### Schritt 9.90 – Palazzo des Cinquecento an Via dei Bardi – Teil 6/40 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.678
@@ -6301,7 +3018,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.204 – Palazzo des Cinquecento an Via dei Bardi – Teil 7/40 (Y 81–81)
+### Schritt 9.91 – Palazzo des Cinquecento an Via dei Bardi – Teil 7/40 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.815
@@ -6329,7 +3046,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.205 – Palazzo des Cinquecento an Via dei Bardi – Teil 8/40 (Y 82–82)
+### Schritt 9.92 – Palazzo des Cinquecento an Via dei Bardi – Teil 8/40 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.948
@@ -6357,7 +3074,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.206 – Palazzo des Cinquecento an Via dei Bardi – Teil 9/40 (Y 83–83)
+### Schritt 9.93 – Palazzo des Cinquecento an Via dei Bardi – Teil 9/40 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 2.087
@@ -6385,7 +3102,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.207 – Palazzo des Cinquecento an Via dei Bardi – Teil 10/40 (Y 84–84)
+### Schritt 9.94 – Palazzo des Cinquecento an Via dei Bardi – Teil 10/40 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.143
@@ -6413,7 +3130,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.208 – Palazzo des Cinquecento an Via dei Bardi – Teil 11/40 (Y 84–84)
+### Schritt 9.95 – Palazzo des Cinquecento an Via dei Bardi – Teil 11/40 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.098
@@ -6441,7 +3158,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.209 – Palazzo des Cinquecento an Via dei Bardi – Teil 12/40 (Y 85–85)
+### Schritt 9.96 – Palazzo des Cinquecento an Via dei Bardi – Teil 12/40 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.193
@@ -6469,7 +3186,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.210 – Palazzo des Cinquecento an Via dei Bardi – Teil 13/40 (Y 85–85)
+### Schritt 9.97 – Palazzo des Cinquecento an Via dei Bardi – Teil 13/40 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.229
@@ -6497,7 +3214,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.211 – Palazzo des Cinquecento an Via dei Bardi – Teil 14/40 (Y 86–86)
+### Schritt 9.98 – Palazzo des Cinquecento an Via dei Bardi – Teil 14/40 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.250
@@ -6525,7 +3242,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.212 – Palazzo des Cinquecento an Via dei Bardi – Teil 15/40 (Y 86–86)
+### Schritt 9.99 – Palazzo des Cinquecento an Via dei Bardi – Teil 15/40 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.229
@@ -6553,7 +3270,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.213 – Palazzo des Cinquecento an Via dei Bardi – Teil 16/40 (Y 87–87)
+### Schritt 9.100 – Palazzo des Cinquecento an Via dei Bardi – Teil 16/40 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.232
@@ -6581,7 +3298,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.214 – Palazzo des Cinquecento an Via dei Bardi – Teil 17/40 (Y 87–87)
+### Schritt 9.101 – Palazzo des Cinquecento an Via dei Bardi – Teil 17/40 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.287
@@ -6609,7 +3326,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.215 – Palazzo des Cinquecento an Via dei Bardi – Teil 18/40 (Y 88–88)
+### Schritt 9.102 – Palazzo des Cinquecento an Via dei Bardi – Teil 18/40 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.268
@@ -6637,7 +3354,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.216 – Palazzo des Cinquecento an Via dei Bardi – Teil 19/40 (Y 88–88)
+### Schritt 9.103 – Palazzo des Cinquecento an Via dei Bardi – Teil 19/40 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.287
@@ -6665,7 +3382,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.217 – Palazzo des Cinquecento an Via dei Bardi – Teil 20/40 (Y 89–89)
+### Schritt 9.104 – Palazzo des Cinquecento an Via dei Bardi – Teil 20/40 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.300
@@ -6693,7 +3410,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.218 – Palazzo des Cinquecento an Via dei Bardi – Teil 21/40 (Y 89–89)
+### Schritt 9.105 – Palazzo des Cinquecento an Via dei Bardi – Teil 21/40 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.287
@@ -6721,7 +3438,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.219 – Palazzo des Cinquecento an Via dei Bardi – Teil 22/40 (Y 90–90)
+### Schritt 9.106 – Palazzo des Cinquecento an Via dei Bardi – Teil 22/40 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.328
@@ -6749,7 +3466,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.220 – Palazzo des Cinquecento an Via dei Bardi – Teil 23/40 (Y 90–90)
+### Schritt 9.107 – Palazzo des Cinquecento an Via dei Bardi – Teil 23/40 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.287
@@ -6777,7 +3494,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.221 – Palazzo des Cinquecento an Via dei Bardi – Teil 24/40 (Y 91–91)
+### Schritt 9.108 – Palazzo des Cinquecento an Via dei Bardi – Teil 24/40 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.378
@@ -6805,7 +3522,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.222 – Palazzo des Cinquecento an Via dei Bardi – Teil 25/40 (Y 91–92)
+### Schritt 9.109 – Palazzo des Cinquecento an Via dei Bardi – Teil 25/40 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.943
@@ -6837,7 +3554,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.223 – Palazzo des Cinquecento an Via dei Bardi – Teil 26/40 (Y 93–95)
+### Schritt 9.110 – Palazzo des Cinquecento an Via dei Bardi – Teil 26/40 (Y 93–95)
 
 - **Y-Bereich:** 93 bis 95
 - **Blöcke:** 1.914
@@ -6869,7 +3586,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.224 – Palazzo des Cinquecento an Via dei Bardi – Teil 27/40 (Y 96–97)
+### Schritt 9.111 – Palazzo des Cinquecento an Via dei Bardi – Teil 27/40 (Y 96–97)
 
 - **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.172
@@ -6901,7 +3618,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.225 – Palazzo des Cinquecento an Via dei Bardi – Teil 28/40 (Y 98–99)
+### Schritt 9.112 – Palazzo des Cinquecento an Via dei Bardi – Teil 28/40 (Y 98–99)
 
 - **Y-Bereich:** 98 bis 99
 - **Blöcke:** 1.198
@@ -6932,7 +3649,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.226 – Palazzo des Cinquecento an Via dei Bardi – Teil 29/40 (Y 100–102)
+### Schritt 9.113 – Palazzo des Cinquecento an Via dei Bardi – Teil 29/40 (Y 100–102)
 
 - **Y-Bereich:** 100 bis 102
 - **Blöcke:** 1.836
@@ -6962,7 +3679,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.227 – Palazzo des Cinquecento an Via dei Bardi – Teil 30/40 (Y 103–104)
+### Schritt 9.114 – Palazzo des Cinquecento an Via dei Bardi – Teil 30/40 (Y 103–104)
 
 - **Y-Bereich:** 103 bis 104
 - **Blöcke:** 1.233
@@ -6993,7 +3710,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.228 – Palazzo des Cinquecento an Via dei Bardi – Teil 31/40 (Y 105–107)
+### Schritt 9.115 – Palazzo des Cinquecento an Via dei Bardi – Teil 31/40 (Y 105–107)
 
 - **Y-Bereich:** 105 bis 107
 - **Blöcke:** 1.758
@@ -7024,7 +3741,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.229 – Palazzo des Cinquecento an Via dei Bardi – Teil 32/40 (Y 108–109)
+### Schritt 9.116 – Palazzo des Cinquecento an Via dei Bardi – Teil 32/40 (Y 108–109)
 
 - **Y-Bereich:** 108 bis 109
 - **Blöcke:** 1.198
@@ -7055,7 +3772,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.230 – Palazzo des Cinquecento an Via dei Bardi – Teil 33/40 (Y 110–111)
+### Schritt 9.117 – Palazzo des Cinquecento an Via dei Bardi – Teil 33/40 (Y 110–111)
 
 - **Y-Bereich:** 110 bis 111
 - **Blöcke:** 1.224
@@ -7085,7 +3802,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.231 – Palazzo des Cinquecento an Via dei Bardi – Teil 34/40 (Y 112–114)
+### Schritt 9.118 – Palazzo des Cinquecento an Via dei Bardi – Teil 34/40 (Y 112–114)
 
 - **Y-Bereich:** 112 bis 114
 - **Blöcke:** 1.845
@@ -7116,7 +3833,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.232 – Palazzo des Cinquecento an Via dei Bardi – Teil 35/40 (Y 115–116)
+### Schritt 9.119 – Palazzo des Cinquecento an Via dei Bardi – Teil 35/40 (Y 115–116)
 
 - **Y-Bereich:** 115 bis 116
 - **Blöcke:** 1.172
@@ -7147,7 +3864,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.233 – Palazzo des Cinquecento an Via dei Bardi – Teil 36/40 (Y 117–119)
+### Schritt 9.120 – Palazzo des Cinquecento an Via dei Bardi – Teil 36/40 (Y 117–119)
 
 - **Y-Bereich:** 117 bis 119
 - **Blöcke:** 1.784
@@ -7178,7 +3895,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.234 – Palazzo des Cinquecento an Via dei Bardi – Teil 37/40 (Y 120–121)
+### Schritt 9.121 – Palazzo des Cinquecento an Via dei Bardi – Teil 37/40 (Y 120–121)
 
 - **Y-Bereich:** 120 bis 121
 - **Blöcke:** 1.606
@@ -7209,7 +3926,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.235 – Palazzo des Cinquecento an Via dei Bardi – Teil 38/40 (Y 122–122)
+### Schritt 9.122 – Palazzo des Cinquecento an Via dei Bardi – Teil 38/40 (Y 122–122)
 
 - **Y-Bereich:** 122 bis 122
 - **Blöcke:** 1.708
@@ -7237,7 +3954,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.236 – Palazzo des Cinquecento an Via dei Bardi – Teil 39/40 (Y 123–123)
+### Schritt 9.123 – Palazzo des Cinquecento an Via dei Bardi – Teil 39/40 (Y 123–123)
 
 - **Y-Bereich:** 123 bis 123
 - **Blöcke:** 856
@@ -7265,7 +3982,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.237 – Palazzo des Cinquecento an Via dei Bardi – Teil 40/40 (Y 124–127)
+### Schritt 9.124 – Palazzo des Cinquecento an Via dei Bardi – Teil 40/40 (Y 124–127)
 
 - **Y-Bereich:** 124 bis 127
 - **Blöcke:** 1.317
@@ -7294,7 +4011,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.238 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 1/4 (Y 91–101)
+### Schritt 9.125 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 1/4 (Y 91–101)
 
 - **Y-Bereich:** 91 bis 101
 - **Blöcke:** 1.128
@@ -7336,7 +4053,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.239 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 2/4 (Y 101–101)
+### Schritt 9.126 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 2/4 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.045
@@ -7372,7 +4089,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.240 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 3/4 (Y 102–111)
+### Schritt 9.127 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 3/4 (Y 102–111)
 
 - **Y-Bereich:** 102 bis 111
 - **Blöcke:** 1.120
@@ -7416,7 +4133,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.241 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 4/4 (Y 111–112)
+### Schritt 9.128 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 4/4 (Y 111–112)
 
 - **Y-Bereich:** 111 bis 112
 - **Blöcke:** 1.054
@@ -7458,7 +4175,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.242 – Reihenhaus an Via di San Niccolò – Teil 1/14 (Y 63–64)
+### Schritt 9.129 – Reihenhaus an Via di San Niccolò – Teil 1/14 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.555
@@ -7486,7 +4203,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.243 – Reihenhaus an Via di San Niccolò – Teil 2/14 (Y 65–65)
+### Schritt 9.130 – Reihenhaus an Via di San Niccolò – Teil 2/14 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.137
@@ -7514,7 +4231,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.244 – Reihenhaus an Via di San Niccolò – Teil 3/14 (Y 66–66)
+### Schritt 9.131 – Reihenhaus an Via di San Niccolò – Teil 3/14 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.243
@@ -7542,7 +4259,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.245 – Reihenhaus an Via di San Niccolò – Teil 4/14 (Y 67–67)
+### Schritt 9.132 – Reihenhaus an Via di San Niccolò – Teil 4/14 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.337
@@ -7570,7 +4287,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.246 – Reihenhaus an Via di San Niccolò – Teil 5/14 (Y 68–68)
+### Schritt 9.133 – Reihenhaus an Via di San Niccolò – Teil 5/14 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.490
@@ -7598,7 +4315,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.247 – Reihenhaus an Via di San Niccolò – Teil 6/14 (Y 69–69)
+### Schritt 9.134 – Reihenhaus an Via di San Niccolò – Teil 6/14 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.811
@@ -7626,7 +4343,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.248 – Reihenhaus an Via di San Niccolò – Teil 7/14 (Y 70–74)
+### Schritt 9.135 – Reihenhaus an Via di San Niccolò – Teil 7/14 (Y 70–74)
 
 - **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.946
@@ -7657,7 +4374,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.249 – Reihenhaus an Via di San Niccolò – Teil 8/14 (Y 75–79)
+### Schritt 9.136 – Reihenhaus an Via di San Niccolò – Teil 8/14 (Y 75–79)
 
 - **Y-Bereich:** 75 bis 79
 - **Blöcke:** 2.030
@@ -7687,7 +4404,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.250 – Reihenhaus an Via di San Niccolò – Teil 9/14 (Y 80–84)
+### Schritt 9.137 – Reihenhaus an Via di San Niccolò – Teil 9/14 (Y 80–84)
 
 - **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.924
@@ -7717,7 +4434,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.251 – Reihenhaus an Via di San Niccolò – Teil 10/14 (Y 85–89)
+### Schritt 9.138 – Reihenhaus an Via di San Niccolò – Teil 10/14 (Y 85–89)
 
 - **Y-Bereich:** 85 bis 89
 - **Blöcke:** 1.958
@@ -7747,7 +4464,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.252 – Reihenhaus an Via di San Niccolò – Teil 11/14 (Y 90–93)
+### Schritt 9.139 – Reihenhaus an Via di San Niccolò – Teil 11/14 (Y 90–93)
 
 - **Y-Bereich:** 90 bis 93
 - **Blöcke:** 1.664
@@ -7777,7 +4494,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.253 – Reihenhaus an Via di San Niccolò – Teil 12/14 (Y 94–97)
+### Schritt 9.140 – Reihenhaus an Via di San Niccolò – Teil 12/14 (Y 94–97)
 
 - **Y-Bereich:** 94 bis 97
 - **Blöcke:** 1.746
@@ -7807,7 +4524,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.254 – Reihenhaus an Via di San Niccolò – Teil 13/14 (Y 98–100)
+### Schritt 9.141 – Reihenhaus an Via di San Niccolò – Teil 13/14 (Y 98–100)
 
 - **Y-Bereich:** 98 bis 100
 - **Blöcke:** 2.020
@@ -7836,7 +4553,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.255 – Reihenhaus an Via di San Niccolò – Teil 14/14 (Y 101–106)
+### Schritt 9.142 – Reihenhaus an Via di San Niccolò – Teil 14/14 (Y 101–106)
 
 - **Y-Bereich:** 101 bis 106
 - **Blöcke:** 1.307
@@ -7865,7 +4582,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.256 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 69–78)
+### Schritt 9.143 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 69–78)
 
 - **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.456
@@ -7903,7 +4620,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.257 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 79–85)
+### Schritt 9.144 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 79–85)
 
 - **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.444
@@ -7945,7 +4662,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.258 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 86–93)
+### Schritt 9.145 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 86–93)
 
 - **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.453
@@ -7987,7 +4704,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.259 – Palazzo des Cinquecento an Via dei Bardi – Teil 1/8 (Y 69–69)
+### Schritt 9.146 – Palazzo des Cinquecento an Via dei Bardi – Teil 1/8 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.593
@@ -8015,7 +4732,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.260 – Palazzo des Cinquecento an Via dei Bardi – Teil 2/8 (Y 70–74)
+### Schritt 9.147 – Palazzo des Cinquecento an Via dei Bardi – Teil 2/8 (Y 70–74)
 
 - **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.577
@@ -8046,7 +4763,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.261 – Palazzo des Cinquecento an Via dei Bardi – Teil 3/8 (Y 75–79)
+### Schritt 9.148 – Palazzo des Cinquecento an Via dei Bardi – Teil 3/8 (Y 75–79)
 
 - **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.568
@@ -8078,7 +4795,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.262 – Palazzo des Cinquecento an Via dei Bardi – Teil 4/8 (Y 80–84)
+### Schritt 9.149 – Palazzo des Cinquecento an Via dei Bardi – Teil 4/8 (Y 80–84)
 
 - **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.557
@@ -8108,7 +4825,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.263 – Palazzo des Cinquecento an Via dei Bardi – Teil 5/8 (Y 85–90)
+### Schritt 9.150 – Palazzo des Cinquecento an Via dei Bardi – Teil 5/8 (Y 85–90)
 
 - **Y-Bereich:** 85 bis 90
 - **Blöcke:** 1.886
@@ -8139,7 +4856,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.264 – Palazzo des Cinquecento an Via dei Bardi – Teil 6/8 (Y 91–96)
+### Schritt 9.151 – Palazzo des Cinquecento an Via dei Bardi – Teil 6/8 (Y 91–96)
 
 - **Y-Bereich:** 91 bis 96
 - **Blöcke:** 1.544
@@ -8169,7 +4886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.265 – Palazzo des Cinquecento an Via dei Bardi – Teil 7/8 (Y 97–100)
+### Schritt 9.152 – Palazzo des Cinquecento an Via dei Bardi – Teil 7/8 (Y 97–100)
 
 - **Y-Bereich:** 97 bis 100
 - **Blöcke:** 1.717
@@ -8199,7 +4916,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.266 – Palazzo des Cinquecento an Via dei Bardi – Teil 8/8 (Y 101–107)
+### Schritt 9.153 – Palazzo des Cinquecento an Via dei Bardi – Teil 8/8 (Y 101–107)
 
 - **Y-Bereich:** 101 bis 107
 - **Blöcke:** 1.418
@@ -8228,7 +4945,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.267 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 1/2 (Y 69–79)
+### Schritt 9.154 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 1/2 (Y 69–79)
 
 - **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.325
@@ -8266,7 +4983,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.268 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 2/2 (Y 80–89)
+### Schritt 9.155 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 2/2 (Y 80–89)
 
 - **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.320
@@ -8308,7 +5025,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.269 – Palazzo des Cinquecento an Via dei Bardi – Teil 1/8 (Y 68–68)
+### Schritt 9.156 – Palazzo des Cinquecento an Via dei Bardi – Teil 1/8 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.615
@@ -8336,17 +5053,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.270 – Palazzo des Cinquecento an Via dei Bardi – Teil 2/8 (Y 69–73)
+### Schritt 9.157 – Palazzo des Cinquecento an Via dei Bardi – Teil 2/8 (Y 69–73)
 
 - **Y-Bereich:** 69 bis 73
-- **Blöcke:** 1.698
+- **Blöcke:** 1.558
 - **Bauteile:** `w306695197`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.234 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.094 |
 | Weißer Beton | `white_concrete` | 248 |
 | Graues Buntglas | `gray_stained_glass` | 76 |
 | Grüner Beton | `green_concrete` | 68 |
@@ -8370,17 +5087,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.271 – Palazzo des Cinquecento an Via dei Bardi – Teil 3/8 (Y 74–79)
+### Schritt 9.158 – Palazzo des Cinquecento an Via dei Bardi – Teil 3/8 (Y 74–79)
 
 - **Y-Bereich:** 74 bis 79
-- **Blöcke:** 1.995
+- **Blöcke:** 1.827
 - **Bauteile:** `w306695197`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.434 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.266 |
 | Glatter Stein | `smooth_stone` | 199 |
 | Weißer Beton | `white_concrete` | 152 |
 | Graues Buntglas | `gray_stained_glass` | 76 |
@@ -8404,17 +5121,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.272 – Palazzo des Cinquecento an Via dei Bardi – Teil 4/8 (Y 80–84)
+### Schritt 9.159 – Palazzo des Cinquecento an Via dei Bardi – Teil 4/8 (Y 80–84)
 
 - **Y-Bereich:** 80 bis 84
-- **Blöcke:** 1.611
+- **Blöcke:** 1.471
 - **Bauteile:** `w306695197`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.024 |
+| Hellgrauer Beton | `light_gray_concrete` | 884 |
 | Weißer Beton | `white_concrete` | 241 |
 | Graues Buntglas | `gray_stained_glass` | 164 |
 | Grüner Beton | `green_concrete` | 144 |
@@ -8436,22 +5153,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.273 – Palazzo des Cinquecento an Via dei Bardi – Teil 5/8 (Y 85–89)
+### Schritt 9.160 – Palazzo des Cinquecento an Via dei Bardi – Teil 5/8 (Y 85–90)
 
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.663
+- **Y-Bereich:** 85 bis 90
+- **Blöcke:** 1.838
 - **Bauteile:** `w306695197`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.117 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.207 |
+| Weißer Beton | `white_concrete` | 242 |
 | Glatter Stein | `smooth_stone` | 188 |
-| Weißer Beton | `white_concrete` | 161 |
 | Graues Buntglas | `gray_stained_glass` | 82 |
 | Grüner Beton | `green_concrete` | 72 |
-| Polierter Andesit | `polished_andesite` | 43 |
+| Polierter Andesit | `polished_andesite` | 47 |
 
 **Beschreibung**
 
@@ -8469,21 +5186,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.274 – Palazzo des Cinquecento an Via dei Bardi – Teil 6/8 (Y 90–95)
+### Schritt 9.161 – Palazzo des Cinquecento an Via dei Bardi – Teil 6/8 (Y 91–95)
 
-- **Y-Bereich:** 90 bis 95
-- **Blöcke:** 1.816
+- **Y-Bereich:** 91 bis 95
+- **Blöcke:** 1.445
 - **Bauteile:** `w306695197`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.099 |
-| Weißer Beton | `white_concrete` | 281 |
+| Hellgrauer Beton | `light_gray_concrete` | 813 |
 | Graues Buntglas | `gray_stained_glass` | 205 |
+| Weißer Beton | `white_concrete` | 200 |
 | Grüner Beton | `green_concrete` | 180 |
-| Polierter Andesit | `polished_andesite` | 51 |
+| Polierter Andesit | `polished_andesite` | 47 |
 
 **Beschreibung**
 
@@ -8501,7 +5218,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.275 – Palazzo des Cinquecento an Via dei Bardi – Teil 7/8 (Y 96–99)
+### Schritt 9.162 – Palazzo des Cinquecento an Via dei Bardi – Teil 7/8 (Y 96–99)
 
 - **Y-Bereich:** 96 bis 99
 - **Blöcke:** 1.991
@@ -8532,7 +5249,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.276 – Palazzo des Cinquecento an Via dei Bardi – Teil 8/8 (Y 100–106)
+### Schritt 9.163 – Palazzo des Cinquecento an Via dei Bardi – Teil 8/8 (Y 100–106)
 
 - **Y-Bereich:** 100 bis 106
 - **Blöcke:** 1.429
@@ -8561,17 +5278,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.277 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 1/2 (Y 68–78)
+### Schritt 9.164 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 1/2 (Y 68–78)
 
 - **Y-Bereich:** 68 bis 78
-- **Blöcke:** 1.327
+- **Blöcke:** 1.355
 - **Bauteile:** `w306695197_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.264 |
+| Terrakotta | `terracotta` | 1.292 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 14 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
@@ -8603,29 +5320,33 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.278 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 2/2 (Y 79–89)
+### Schritt 9.165 – Palazzo des Cinquecento an Via dei Bardi: Innenausbau – Teil 2/2 (Y 79–89)
 
 - **Y-Bereich:** 79 bis 89
-- **Blöcke:** 1.321
+- **Blöcke:** 1.356
 - **Bauteile:** `w306695197_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.264 |
+| Terrakotta | `terracotta` | 1.292 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -8643,7 +5364,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.279 – Reihenhaus an Via di San Niccolò – Teil 1/4 (Y 62–68)
+### Schritt 9.166 – Reihenhaus an Via di San Niccolò – Teil 1/4 (Y 62–68)
 
 - **Y-Bereich:** 62 bis 68
 - **Blöcke:** 1.654
@@ -8675,7 +5396,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.280 – Reihenhaus an Via di San Niccolò – Teil 2/4 (Y 69–78)
+### Schritt 9.167 – Reihenhaus an Via di San Niccolò – Teil 2/4 (Y 69–78)
 
 - **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.776
@@ -8706,7 +5427,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.281 – Reihenhaus an Via di San Niccolò – Teil 3/4 (Y 79–88)
+### Schritt 9.168 – Reihenhaus an Via di San Niccolò – Teil 3/4 (Y 79–88)
 
 - **Y-Bereich:** 79 bis 88
 - **Blöcke:** 1.764
@@ -8736,7 +5457,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.282 – Reihenhaus an Via di San Niccolò – Teil 4/4 (Y 89–96)
+### Schritt 9.169 – Reihenhaus an Via di San Niccolò – Teil 4/4 (Y 89–96)
 
 - **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.616
@@ -8769,7 +5490,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.283 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.170 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.424
@@ -8809,7 +5530,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.284 – Reihenhaus an Via San Miniato – Teil 1/2 (Y 62–77)
+### Schritt 9.171 – Reihenhaus an Via San Miniato – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 1.980
@@ -8840,7 +5561,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.285 – Reihenhaus an Via San Miniato – Teil 2/2 (Y 78–96)
+### Schritt 9.172 – Reihenhaus an Via San Miniato – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 2.085
@@ -8873,7 +5594,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.286 – Reihenhaus an Via San Miniato: Innenausbau & Reihenhaus an Via San Miniato – Teil 1/4 (Y 63–72)
+### Schritt 9.173 – Reihenhaus an Via San Miniato: Innenausbau & Reihenhaus an Via San Miniato – Teil 1/4 (Y 63–72)
 
 - **Y-Bereich:** 62 bis 72
 - **Blöcke:** 2.049
@@ -8915,7 +5636,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.287 – Reihenhaus an Via San Miniato – Teil 2/4 (Y 73–84)
+### Schritt 9.174 – Reihenhaus an Via San Miniato – Teil 2/4 (Y 73–84)
 
 - **Y-Bereich:** 73 bis 84
 - **Blöcke:** 1.948
@@ -8945,7 +5666,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.288 – Reihenhaus an Via San Miniato – Teil 3/4 (Y 85–95)
+### Schritt 9.175 – Reihenhaus an Via San Miniato – Teil 3/4 (Y 85–95)
 
 - **Y-Bereich:** 85 bis 95
 - **Blöcke:** 1.958
@@ -8975,7 +5696,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.289 – Reihenhaus an Via San Miniato – Teil 4/4 (Y 96–106)
+### Schritt 9.176 – Reihenhaus an Via San Miniato – Teil 4/4 (Y 96–106)
 
 - **Y-Bereich:** 96 bis 106
 - **Blöcke:** 2.097
@@ -9008,7 +5729,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.290 – Reihenhaus an Via San Miniato: Innenausbau
+### Schritt 9.177 – Reihenhaus an Via San Miniato: Innenausbau
 
 - **Y-Bereich:** 63 bis 94
 - **Blöcke:** 1.887
@@ -9048,7 +5769,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.291 – Reihenhaus an Via di San Niccolò – Teil 1/4 (Y 63–69)
+### Schritt 9.178 – Reihenhaus an Via di San Niccolò – Teil 1/4 (Y 63–69)
 
 - **Y-Bereich:** 63 bis 69
 - **Blöcke:** 1.483
@@ -9079,7 +5800,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.292 – Reihenhaus an Via di San Niccolò – Teil 2/4 (Y 70–79)
+### Schritt 9.179 – Reihenhaus an Via di San Niccolò – Teil 2/4 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.623
@@ -9109,7 +5830,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.293 – Reihenhaus an Via di San Niccolò – Teil 3/4 (Y 80–89)
+### Schritt 9.180 – Reihenhaus an Via di San Niccolò – Teil 3/4 (Y 80–89)
 
 - **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.623
@@ -9139,7 +5860,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.294 – Reihenhaus an Via di San Niccolò – Teil 4/4 (Y 90–97)
+### Schritt 9.181 – Reihenhaus an Via di San Niccolò – Teil 4/4 (Y 90–97)
 
 - **Y-Bereich:** 90 bis 97
 - **Blöcke:** 1.491
@@ -9172,7 +5893,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.295 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.182 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.253
@@ -9214,7 +5935,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.296 – Reihenhaus an Via di San Niccolò – Teil 1/4 (Y 62–66)
+### Schritt 9.183 – Reihenhaus an Via di San Niccolò – Teil 1/4 (Y 62–66)
 
 - **Y-Bereich:** 62 bis 66
 - **Blöcke:** 1.720
@@ -9247,7 +5968,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.297 – Reihenhaus an Via di San Niccolò – Teil 2/4 (Y 67–75)
+### Schritt 9.184 – Reihenhaus an Via di San Niccolò – Teil 2/4 (Y 67–75)
 
 - **Y-Bereich:** 67 bis 75
 - **Blöcke:** 1.789
@@ -9280,7 +6001,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.298 – Reihenhaus an Via di San Niccolò – Teil 3/4 (Y 76–83)
+### Schritt 9.185 – Reihenhaus an Via di San Niccolò – Teil 3/4 (Y 76–83)
 
 - **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.600
@@ -9311,7 +6032,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.299 – Reihenhaus an Via di San Niccolò – Teil 4/4 (Y 84–92)
+### Schritt 9.186 – Reihenhaus an Via di San Niccolò – Teil 4/4 (Y 84–92)
 
 - **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.825
@@ -9343,7 +6064,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.300 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.187 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 79
 - **Blöcke:** 1.568
@@ -9383,7 +6104,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.301 – Haus w480709157 – Teil 1/5 (Y 62–66)
+### Schritt 9.188 – Haus w480709157 – Teil 1/5 (Y 62–66)
 
 - **Y-Bereich:** 62 bis 66
 - **Blöcke:** 1.749
@@ -9415,7 +6136,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.302 – Haus w480709157 – Teil 2/5 (Y 67–74)
+### Schritt 9.189 – Haus w480709157 – Teil 2/5 (Y 67–74)
 
 - **Y-Bereich:** 67 bis 74
 - **Blöcke:** 1.764
@@ -9446,7 +6167,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.303 – Haus w480709157 – Teil 3/5 (Y 75–82)
+### Schritt 9.190 – Haus w480709157 – Teil 3/5 (Y 75–82)
 
 - **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.768
@@ -9476,7 +6197,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.304 – Haus w480709157 – Teil 4/5 (Y 83–90)
+### Schritt 9.191 – Haus w480709157 – Teil 4/5 (Y 83–90)
 
 - **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.792
@@ -9506,7 +6227,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.305 – Haus w480709157 – Teil 5/5 (Y 91–100)
+### Schritt 9.192 – Haus w480709157 – Teil 5/5 (Y 91–100)
 
 - **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.890
@@ -9538,7 +6259,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.306 – Haus w480709157: Innenausbau – Teil 1/2 (Y 62–77)
+### Schritt 9.193 – Haus w480709157: Innenausbau – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 775
@@ -9578,7 +6299,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.307 – Haus w480709157: Innenausbau – Teil 2/2 (Y 78–86)
+### Schritt 9.194 – Haus w480709157: Innenausbau – Teil 2/2 (Y 78–86)
 
 - **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.414
@@ -9618,7 +6339,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.308 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 62–71)
+### Schritt 9.195 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.843
@@ -9651,7 +6372,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.309 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 72–84)
+### Schritt 9.196 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 72–84)
 
 - **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.957
@@ -9682,7 +6403,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.310 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 85–97)
+### Schritt 9.197 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 85–97)
 
 - **Y-Bereich:** 85 bis 97
 - **Blöcke:** 1.941
@@ -9715,7 +6436,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.311 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.198 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.272
@@ -9757,7 +6478,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.312 – Reihenhaus an Via di San Niccolò – Teil 1/7 (Y 62–64)
+### Schritt 9.199 – Reihenhaus an Via di San Niccolò – Teil 1/7 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.576
@@ -9787,7 +6508,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.313 – Reihenhaus an Via di San Niccolò – Teil 2/7 (Y 65–70)
+### Schritt 9.200 – Reihenhaus an Via di San Niccolò – Teil 2/7 (Y 65–70)
 
 - **Y-Bereich:** 65 bis 70
 - **Blöcke:** 1.813
@@ -9818,7 +6539,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.314 – Reihenhaus an Via di San Niccolò – Teil 3/7 (Y 71–75)
+### Schritt 9.201 – Reihenhaus an Via di San Niccolò – Teil 3/7 (Y 71–75)
 
 - **Y-Bereich:** 71 bis 75
 - **Blöcke:** 1.543
@@ -9848,7 +6569,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.315 – Reihenhaus an Via di San Niccolò – Teil 4/7 (Y 76–81)
+### Schritt 9.202 – Reihenhaus an Via di San Niccolò – Teil 4/7 (Y 76–81)
 
 - **Y-Bereich:** 76 bis 81
 - **Blöcke:** 1.857
@@ -9878,7 +6599,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.316 – Reihenhaus an Via di San Niccolò – Teil 5/7 (Y 82–86)
+### Schritt 9.203 – Reihenhaus an Via di San Niccolò – Teil 5/7 (Y 82–86)
 
 - **Y-Bereich:** 82 bis 86
 - **Blöcke:** 1.552
@@ -9908,7 +6629,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.317 – Reihenhaus an Via di San Niccolò – Teil 6/7 (Y 87–91)
+### Schritt 9.204 – Reihenhaus an Via di San Niccolò – Teil 6/7 (Y 87–91)
 
 - **Y-Bereich:** 87 bis 91
 - **Blöcke:** 1.557
@@ -9938,7 +6659,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.318 – Reihenhaus an Via di San Niccolò – Teil 7/7 (Y 92–98)
+### Schritt 9.205 – Reihenhaus an Via di San Niccolò – Teil 7/7 (Y 92–98)
 
 - **Y-Bereich:** 92 bis 98
 - **Blöcke:** 1.728
@@ -9969,7 +6690,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.319 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 62–77)
+### Schritt 9.206 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 812
@@ -10011,7 +6732,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.320 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 78–86)
+### Schritt 9.207 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 78–86)
 
 - **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.388
@@ -10053,7 +6774,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.321 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–79)
+### Schritt 9.208 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–79)
 
 - **Y-Bereich:** 62 bis 79
 - **Blöcke:** 2.031
@@ -10084,7 +6805,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.322 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 80–97)
+### Schritt 9.209 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 80–97)
 
 - **Y-Bereich:** 80 bis 97
 - **Blöcke:** 2.050
@@ -10116,7 +6837,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.323 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.210 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.006
@@ -10156,7 +6877,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.324 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–77)
+### Schritt 9.211 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 1.846
@@ -10187,7 +6908,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.325 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 78–94)
+### Schritt 9.212 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 78–94)
 
 - **Y-Bereich:** 78 bis 94
 - **Blöcke:** 1.952
@@ -10218,7 +6939,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.326 – Reihenhaus an Via di San Niccolò: Innenausbau & Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 62–64)
+### Schritt 9.213 – Reihenhaus an Via di San Niccolò: Innenausbau & Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.610
@@ -10249,7 +6970,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.327 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 65–71)
+### Schritt 9.214 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 65–71)
 
 - **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.606
@@ -10281,7 +7002,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.328 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 72–78)
+### Schritt 9.215 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.641
@@ -10312,7 +7033,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.329 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 79–85)
+### Schritt 9.216 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 79–85)
 
 - **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.641
@@ -10343,7 +7064,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.330 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 86–92)
+### Schritt 9.217 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 86–92)
 
 - **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.752
@@ -10374,7 +7095,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.331 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 93–98)
+### Schritt 9.218 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 93–98)
 
 - **Y-Bereich:** 93 bis 98
 - **Blöcke:** 1.519
@@ -10403,7 +7124,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.332 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 62–77)
+### Schritt 9.219 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 952
@@ -10445,7 +7166,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.333 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 78–86)
+### Schritt 9.220 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 78–86)
 
 - **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.776
@@ -10487,7 +7208,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.334 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 62–63)
+### Schritt 9.221 – Reihenhaus an Via di San Niccolò – Teil 1/6 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.646
@@ -10517,7 +7238,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.335 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 64–71)
+### Schritt 9.222 – Reihenhaus an Via di San Niccolò – Teil 2/6 (Y 64–71)
 
 - **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.813
@@ -10548,7 +7269,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.336 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 72–78)
+### Schritt 9.223 – Reihenhaus an Via di San Niccolò – Teil 3/6 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.600
@@ -10578,7 +7299,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.337 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 79–86)
+### Schritt 9.224 – Reihenhaus an Via di San Niccolò – Teil 4/6 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.840
@@ -10608,7 +7329,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.338 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 87–92)
+### Schritt 9.225 – Reihenhaus an Via di San Niccolò – Teil 5/6 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.493
@@ -10638,7 +7359,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.339 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 93–99)
+### Schritt 9.226 – Reihenhaus an Via di San Niccolò – Teil 6/6 (Y 93–99)
 
 - **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.941
@@ -10667,7 +7388,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.340 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 62–71)
+### Schritt 9.227 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.232
@@ -10707,7 +7428,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.341 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 72–78)
+### Schritt 9.228 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.221
@@ -10749,7 +7470,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.342 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 79–86)
+### Schritt 9.229 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.224
@@ -10789,7 +7510,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.343 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 62–72)
+### Schritt 9.230 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 62–72)
 
 - **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.702
@@ -10822,7 +7543,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.344 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 73–85)
+### Schritt 9.231 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 73–85)
 
 - **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.655
@@ -10853,7 +7574,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.345 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 86–97)
+### Schritt 9.232 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 86–97)
 
 - **Y-Bereich:** 86 bis 97
 - **Blöcke:** 1.616
@@ -10887,7 +7608,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.346 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.233 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.136
@@ -10929,7 +7650,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.347 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–79)
+### Schritt 9.234 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–79)
 
 - **Y-Bereich:** 62 bis 79
 - **Blöcke:** 1.278
@@ -10962,7 +7683,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.348 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 80–98)
+### Schritt 9.235 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
 - **Blöcke:** 1.270
@@ -10995,7 +7716,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.349 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.236 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.395
@@ -11037,7 +7758,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.350 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 62–71)
+### Schritt 9.237 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.822
@@ -11068,7 +7789,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.351 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 72–84)
+### Schritt 9.238 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 72–84)
 
 - **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.791
@@ -11098,7 +7819,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.352 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 85–97)
+### Schritt 9.239 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 85–97)
 
 - **Y-Bereich:** 85 bis 97
 - **Blöcke:** 1.839
@@ -11130,7 +7851,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.353 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.240 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.593
@@ -11172,7 +7893,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.354 – Reihenhaus an Via di San Niccolò
+### Schritt 9.241 – Reihenhaus an Via di San Niccolò
 
 - **Y-Bereich:** 62 bis 97
 - **Blöcke:** 1.980
@@ -11204,7 +7925,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.355 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.242 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.428
@@ -11244,7 +7965,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.356 – Haus w480709168 – Teil 1/4 (Y 63–71)
+### Schritt 9.243 – Haus w480709168 – Teil 1/4 (Y 63–71)
 
 - **Y-Bereich:** 63 bis 71
 - **Blöcke:** 2.019
@@ -11284,7 +8005,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.357 – Haus w480709168 – Teil 2/4 (Y 72–81)
+### Schritt 9.244 – Haus w480709168 – Teil 2/4 (Y 72–81)
 
 - **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.943
@@ -11314,7 +8035,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.358 – Haus w480709168 – Teil 3/4 (Y 82–91)
+### Schritt 9.245 – Haus w480709168 – Teil 3/4 (Y 82–91)
 
 - **Y-Bereich:** 82 bis 91
 - **Blöcke:** 1.992
@@ -11344,7 +8065,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.359 – Haus w480709168 – Teil 4/4 (Y 92–101)
+### Schritt 9.246 – Haus w480709168 – Teil 4/4 (Y 92–101)
 
 - **Y-Bereich:** 92 bis 101
 - **Blöcke:** 2.037
@@ -11377,7 +8098,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.360 – Haus w480709168: Innenausbau
+### Schritt 9.247 – Haus w480709168: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.445
@@ -11419,7 +8140,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.361 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–78)
+### Schritt 9.248 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.739
@@ -11452,7 +8173,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.362 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 79–98)
+### Schritt 9.249 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 79–98)
 
 - **Y-Bereich:** 79 bis 98
 - **Blöcke:** 1.805
@@ -11485,7 +8206,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.363 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.250 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.827
@@ -11527,7 +8248,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.364 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 63–80)
+### Schritt 9.251 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 63–80)
 
 - **Y-Bereich:** 63 bis 80
 - **Blöcke:** 1.811
@@ -11559,7 +8280,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.365 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 81–98)
+### Schritt 9.252 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 81–98)
 
 - **Y-Bereich:** 81 bis 98
 - **Blöcke:** 1.831
@@ -11592,7 +8313,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.366 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.253 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.553
@@ -11634,7 +8355,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.367 – Reihenhaus an Via San Miniato – Teil 1/5 (Y 63–63)
+### Schritt 9.254 – Reihenhaus an Via San Miniato – Teil 1/5 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.059
@@ -11662,7 +8383,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.368 – Reihenhaus an Via San Miniato – Teil 2/5 (Y 64–70)
+### Schritt 9.255 – Reihenhaus an Via San Miniato – Teil 2/5 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
 - **Blöcke:** 2.033
@@ -11694,7 +8415,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.369 – Reihenhaus an Via San Miniato – Teil 3/5 (Y 71–84)
+### Schritt 9.256 – Reihenhaus an Via San Miniato – Teil 3/5 (Y 71–84)
 
 - **Y-Bereich:** 71 bis 84
 - **Blöcke:** 2.094
@@ -11724,7 +8445,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.370 – Reihenhaus an Via San Miniato – Teil 4/5 (Y 85–94)
+### Schritt 9.257 – Reihenhaus an Via San Miniato – Teil 4/5 (Y 85–94)
 
 - **Y-Bereich:** 85 bis 94
 - **Blöcke:** 1.937
@@ -11754,7 +8475,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.371 – Reihenhaus an Via San Miniato – Teil 5/5 (Y 95–101)
+### Schritt 9.258 – Reihenhaus an Via San Miniato – Teil 5/5 (Y 95–101)
 
 - **Y-Bereich:** 95 bis 101
 - **Blöcke:** 1.640
@@ -11783,7 +8504,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.372 – Reihenhaus an Via San Miniato: Innenausbau – Teil 1/2 (Y 64–79)
+### Schritt 9.259 – Reihenhaus an Via San Miniato: Innenausbau – Teil 1/2 (Y 64–79)
 
 - **Y-Bereich:** 64 bis 79
 - **Blöcke:** 1.096
@@ -11825,7 +8546,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.373 – Reihenhaus an Via San Miniato: Innenausbau – Teil 2/2 (Y 80–88)
+### Schritt 9.260 – Reihenhaus an Via San Miniato: Innenausbau – Teil 2/2 (Y 80–88)
 
 - **Y-Bereich:** 80 bis 88
 - **Blöcke:** 2.041
@@ -11865,7 +8586,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.374 – Reihenhaus an Via di San Niccolò – Teil 1/34 (Y 63–65)
+### Schritt 9.261 – Reihenhaus an Via di San Niccolò – Teil 1/34 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
 - **Blöcke:** 1.204
@@ -11893,7 +8614,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.375 – Reihenhaus an Via di San Niccolò – Teil 2/34 (Y 66–66)
+### Schritt 9.262 – Reihenhaus an Via di San Niccolò – Teil 2/34 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.061
@@ -11921,7 +8642,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.376 – Reihenhaus an Via di San Niccolò – Teil 3/34 (Y 67–67)
+### Schritt 9.263 – Reihenhaus an Via di San Niccolò – Teil 3/34 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.275
@@ -11949,7 +8670,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.377 – Reihenhaus an Via di San Niccolò – Teil 4/34 (Y 68–68)
+### Schritt 9.264 – Reihenhaus an Via di San Niccolò – Teil 4/34 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.437
@@ -11977,7 +8698,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.378 – Reihenhaus an Via di San Niccolò – Teil 5/34 (Y 69–69)
+### Schritt 9.265 – Reihenhaus an Via di San Niccolò – Teil 5/34 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.571
@@ -12005,7 +8726,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.379 – Reihenhaus an Via di San Niccolò – Teil 6/34 (Y 70–70)
+### Schritt 9.266 – Reihenhaus an Via di San Niccolò – Teil 6/34 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.663
@@ -12033,7 +8754,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.380 – Reihenhaus an Via di San Niccolò – Teil 7/34 (Y 71–71)
+### Schritt 9.267 – Reihenhaus an Via di San Niccolò – Teil 7/34 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.733
@@ -12061,7 +8782,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.381 – Reihenhaus an Via di San Niccolò – Teil 8/34 (Y 72–72)
+### Schritt 9.268 – Reihenhaus an Via di San Niccolò – Teil 8/34 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.792
@@ -12089,7 +8810,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.382 – Reihenhaus an Via di San Niccolò – Teil 9/34 (Y 73–73)
+### Schritt 9.269 – Reihenhaus an Via di San Niccolò – Teil 9/34 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.839
@@ -12117,7 +8838,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.383 – Reihenhaus an Via di San Niccolò – Teil 10/34 (Y 74–74)
+### Schritt 9.270 – Reihenhaus an Via di San Niccolò – Teil 10/34 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.897
@@ -12145,7 +8866,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.384 – Reihenhaus an Via di San Niccolò – Teil 11/34 (Y 75–75)
+### Schritt 9.271 – Reihenhaus an Via di San Niccolò – Teil 11/34 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.958
@@ -12173,7 +8894,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.385 – Reihenhaus an Via di San Niccolò – Teil 12/34 (Y 76–76)
+### Schritt 9.272 – Reihenhaus an Via di San Niccolò – Teil 12/34 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.055
@@ -12201,7 +8922,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.386 – Reihenhaus an Via di San Niccolò – Teil 13/34 (Y 77–77)
+### Schritt 9.273 – Reihenhaus an Via di San Niccolò – Teil 13/34 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.121
@@ -12229,7 +8950,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.387 – Reihenhaus an Via di San Niccolò – Teil 14/34 (Y 77–77)
+### Schritt 9.274 – Reihenhaus an Via di San Niccolò – Teil 14/34 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.144
@@ -12257,7 +8978,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.388 – Reihenhaus an Via di San Niccolò – Teil 15/34 (Y 78–78)
+### Schritt 9.275 – Reihenhaus an Via di San Niccolò – Teil 15/34 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.152
@@ -12285,7 +9006,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.389 – Reihenhaus an Via di San Niccolò – Teil 16/34 (Y 78–78)
+### Schritt 9.276 – Reihenhaus an Via di San Niccolò – Teil 16/34 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.226
@@ -12313,7 +9034,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.390 – Reihenhaus an Via di San Niccolò – Teil 17/34 (Y 79–79)
+### Schritt 9.277 – Reihenhaus an Via di San Niccolò – Teil 17/34 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.348
@@ -12341,7 +9062,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.391 – Reihenhaus an Via di San Niccolò – Teil 18/34 (Y 79–79)
+### Schritt 9.278 – Reihenhaus an Via di San Niccolò – Teil 18/34 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.394
@@ -12369,7 +9090,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.392 – Reihenhaus an Via di San Niccolò – Teil 19/34 (Y 80–81)
+### Schritt 9.279 – Reihenhaus an Via di San Niccolò – Teil 19/34 (Y 80–81)
 
 - **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.486
@@ -12398,7 +9119,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.393 – Reihenhaus an Via di San Niccolò – Teil 20/34 (Y 82–84)
+### Schritt 9.280 – Reihenhaus an Via di San Niccolò – Teil 20/34 (Y 82–84)
 
 - **Y-Bereich:** 82 bis 84
 - **Blöcke:** 2.093
@@ -12430,7 +9151,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.394 – Reihenhaus an Via di San Niccolò – Teil 21/34 (Y 85–86)
+### Schritt 9.281 – Reihenhaus an Via di San Niccolò – Teil 21/34 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.440
@@ -12461,7 +9182,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.395 – Reihenhaus an Via di San Niccolò – Teil 22/34 (Y 87–88)
+### Schritt 9.282 – Reihenhaus an Via di San Niccolò – Teil 22/34 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.504
@@ -12490,7 +9211,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.396 – Reihenhaus an Via di San Niccolò – Teil 23/34 (Y 89–90)
+### Schritt 9.283 – Reihenhaus an Via di San Niccolò – Teil 23/34 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.432
@@ -12521,7 +9242,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.397 – Reihenhaus an Via di San Niccolò – Teil 24/34 (Y 91–92)
+### Schritt 9.284 – Reihenhaus an Via di San Niccolò – Teil 24/34 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.360
@@ -12552,7 +9273,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.398 – Reihenhaus an Via di San Niccolò – Teil 25/34 (Y 93–94)
+### Schritt 9.285 – Reihenhaus an Via di San Niccolò – Teil 25/34 (Y 93–94)
 
 - **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.504
@@ -12581,7 +9302,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.399 – Reihenhaus an Via di San Niccolò – Teil 26/34 (Y 95–96)
+### Schritt 9.286 – Reihenhaus an Via di San Niccolò – Teil 26/34 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.504
@@ -12610,7 +9331,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.400 – Reihenhaus an Via di San Niccolò – Teil 27/34 (Y 97–99)
+### Schritt 9.287 – Reihenhaus an Via di San Niccolò – Teil 27/34 (Y 97–99)
 
 - **Y-Bereich:** 97 bis 99
 - **Blöcke:** 2.040
@@ -12641,7 +9362,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.401 – Reihenhaus an Via di San Niccolò – Teil 28/34 (Y 100–101)
+### Schritt 9.288 – Reihenhaus an Via di San Niccolò – Teil 28/34 (Y 100–101)
 
 - **Y-Bereich:** 100 bis 101
 - **Blöcke:** 1.580
@@ -12670,7 +9391,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.402 – Reihenhaus an Via di San Niccolò – Teil 29/34 (Y 102–103)
+### Schritt 9.289 – Reihenhaus an Via di San Niccolò – Teil 29/34 (Y 102–103)
 
 - **Y-Bereich:** 102 bis 103
 - **Blöcke:** 1.580
@@ -12698,7 +9419,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.403 – Reihenhaus an Via di San Niccolò – Teil 30/34 (Y 104–105)
+### Schritt 9.290 – Reihenhaus an Via di San Niccolò – Teil 30/34 (Y 104–105)
 
 - **Y-Bereich:** 104 bis 105
 - **Blöcke:** 1.508
@@ -12729,7 +9450,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.404 – Reihenhaus an Via di San Niccolò – Teil 31/34 (Y 106–107)
+### Schritt 9.291 – Reihenhaus an Via di San Niccolò – Teil 31/34 (Y 106–107)
 
 - **Y-Bereich:** 106 bis 107
 - **Blöcke:** 1.508
@@ -12760,7 +9481,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.405 – Reihenhaus an Via di San Niccolò – Teil 32/34 (Y 108–109)
+### Schritt 9.292 – Reihenhaus an Via di San Niccolò – Teil 32/34 (Y 108–109)
 
 - **Y-Bereich:** 108 bis 109
 - **Blöcke:** 2.066
@@ -12789,7 +9510,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.406 – Reihenhaus an Via di San Niccolò – Teil 33/34 (Y 110–110)
+### Schritt 9.293 – Reihenhaus an Via di San Niccolò – Teil 33/34 (Y 110–110)
 
 - **Y-Bereich:** 110 bis 110
 - **Blöcke:** 1.922
@@ -12817,7 +9538,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.407 – Reihenhaus an Via di San Niccolò – Teil 34/34 (Y 111–115)
+### Schritt 9.294 – Reihenhaus an Via di San Niccolò – Teil 34/34 (Y 111–115)
 
 - **Y-Bereich:** 111 bis 115
 - **Blöcke:** 1.978
@@ -12846,7 +9567,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.408 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 79–88)
+### Schritt 9.295 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/3 (Y 79–88)
 
 - **Y-Bereich:** 79 bis 88
 - **Blöcke:** 2.055
@@ -12886,7 +9607,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.409 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 89–95)
+### Schritt 9.296 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/3 (Y 89–95)
 
 - **Y-Bereich:** 89 bis 95
 - **Blöcke:** 2.039
@@ -12928,7 +9649,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.410 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 96–103)
+### Schritt 9.297 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 3/3 (Y 96–103)
 
 - **Y-Bereich:** 96 bis 103
 - **Blöcke:** 2.010
@@ -12970,7 +9691,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.411 – Reihenhaus an Via dei Bardi – Teil 1/6 (Y 72–73)
+### Schritt 9.298 – Reihenhaus an Via dei Bardi – Teil 1/6 (Y 72–73)
 
 - **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.964
@@ -13000,7 +9721,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.412 – Reihenhaus an Via dei Bardi – Teil 2/6 (Y 74–79)
+### Schritt 9.299 – Reihenhaus an Via dei Bardi – Teil 2/6 (Y 74–79)
 
 - **Y-Bereich:** 74 bis 79
 - **Blöcke:** 1.842
@@ -13030,7 +9751,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.413 – Reihenhaus an Via dei Bardi – Teil 3/6 (Y 80–86)
+### Schritt 9.300 – Reihenhaus an Via dei Bardi – Teil 3/6 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
 - **Blöcke:** 1.888
@@ -13060,7 +9781,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.414 – Reihenhaus an Via dei Bardi – Teil 4/6 (Y 87–94)
+### Schritt 9.301 – Reihenhaus an Via dei Bardi – Teil 4/6 (Y 87–94)
 
 - **Y-Bereich:** 87 bis 94
 - **Blöcke:** 2.031
@@ -13090,7 +9811,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.415 – Reihenhaus an Via dei Bardi – Teil 5/6 (Y 95–102)
+### Schritt 9.302 – Reihenhaus an Via dei Bardi – Teil 5/6 (Y 95–102)
 
 - **Y-Bereich:** 95 bis 102
 - **Blöcke:** 1.806
@@ -13120,7 +9841,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.416 – Reihenhaus an Via dei Bardi – Teil 6/6 (Y 103–111)
+### Schritt 9.303 – Reihenhaus an Via dei Bardi – Teil 6/6 (Y 103–111)
 
 - **Y-Bereich:** 103 bis 111
 - **Blöcke:** 2.094
@@ -13149,7 +9870,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.417 – Reihenhaus an Via dei Bardi: Innenausbau – Teil 1/3 (Y 72–83)
+### Schritt 9.304 – Reihenhaus an Via dei Bardi: Innenausbau – Teil 1/3 (Y 72–83)
 
 - **Y-Bereich:** 72 bis 83
 - **Blöcke:** 1.402
@@ -13187,7 +9908,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.418 – Reihenhaus an Via dei Bardi: Innenausbau – Teil 2/3 (Y 84–92)
+### Schritt 9.305 – Reihenhaus an Via dei Bardi: Innenausbau – Teil 2/3 (Y 84–92)
 
 - **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.397
@@ -13227,7 +9948,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.419 – Reihenhaus an Via dei Bardi: Innenausbau – Teil 3/3 (Y 93–96)
+### Schritt 9.306 – Reihenhaus an Via dei Bardi: Innenausbau – Teil 3/3 (Y 93–96)
 
 - **Y-Bereich:** 93 bis 96
 - **Blöcke:** 1.402
@@ -13266,7 +9987,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.420 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 63–76)
+### Schritt 9.307 – Reihenhaus an Via di San Niccolò – Teil 1/2 (Y 63–76)
 
 - **Y-Bereich:** 63 bis 76
 - **Blöcke:** 1.944
@@ -13298,7 +10019,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.421 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 77–95)
+### Schritt 9.308 – Reihenhaus an Via di San Niccolò – Teil 2/2 (Y 77–95)
 
 - **Y-Bereich:** 77 bis 95
 - **Blöcke:** 1.955
@@ -13330,7 +10051,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.422 – Reihenhaus an Via di San Niccolò: Innenausbau
+### Schritt 9.309 – Reihenhaus an Via di San Niccolò: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 962
@@ -13372,7 +10093,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.423 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 64–73)
+### Schritt 9.310 – Reihenhaus an Via di San Niccolò – Teil 1/3 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.927
@@ -13403,7 +10124,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.424 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 74–89)
+### Schritt 9.311 – Reihenhaus an Via di San Niccolò – Teil 2/3 (Y 74–89)
 
 - **Y-Bereich:** 74 bis 89
 - **Blöcke:** 1.841
@@ -13433,7 +10154,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.425 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 90–100)
+### Schritt 9.312 – Reihenhaus an Via di San Niccolò – Teil 3/3 (Y 90–100)
 
 - **Y-Bereich:** 90 bis 100
 - **Blöcke:** 1.887
@@ -13466,7 +10187,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.426 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 64–79)
+### Schritt 9.313 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 1/2 (Y 64–79)
 
 - **Y-Bereich:** 64 bis 79
 - **Blöcke:** 800
@@ -13506,10 +10227,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.427 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 80–88) & Straßenschilder
+### Schritt 9.314 – Reihenhaus an Via di San Niccolò: Innenausbau – Teil 2/2 (Y 80–88) & Straßenschilder
 
-- **Y-Bereich:** 71 bis 98
-- **Blöcke:** 1.500
+- **Y-Bereich:** 71 bis 88
+- **Blöcke:** 1.498
 - **Bauteile:** `w487164815_innen`, `strassenschilder`
 
 **Teileliste**
@@ -13523,8 +10244,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 

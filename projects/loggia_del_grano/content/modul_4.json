@@ -1,0 +1,22 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Dachgeschoss und Satteldach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Satteldach",
+      "description": "Decke auf Lage 24, darüber die Dachgeschosswand und ein massives Satteldach, Traufe Lage 27, First Lage 30; ein Dachboden entsteht nicht.",
+      "tip": "Fülle die Fläche und lege Ziegel obenauf.",
+      "caution": "Die zentrale Giebelgaube der Quelle ist nicht gebaut, sie würde die OSM-Höhe überragen.",
+      "fact": "Das Dachgeschoss hat Ochsenaugen und ein Satteldach mit zentraler Giebelgaube (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "dachfenster": {
+      "title": "Ochsenaugen",
+      "description": "Je ein rundes Fenster (3 Blöcke) in den Giebelwänden der Schmalseiten, mit Glas.",
+      "tip": "Rund um die Mitte bei Lage 28.",
+      "caution": "Die Ochsenaugen der Quelle liegen an der Traufwand; hier sitzen sie in den Giebeln.",
+      "fact": "Das Dachgeschoss ist mit Ochsenaugen versehen (Quelle: it.wikipedia, Loggia del Grano)."
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "w307153299",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh., oberstes Geschoss im 19. Jh. aufgestockt",
   "geschosse": [
     {
       "art": "eg",
@@ -30,23 +30,27 @@
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "tropfenfoermige_rahmen_pietra_serena",
+      "relieffriese_unter_geschossgesimsen"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Franceschi",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: 16. Jh., oberstes Geschoss im 19. Jh. aufgestockt, Bogenfenster mit tropfenförmigen Pietra-serena-Rahmen, Geschossgesimse mit Relieffriesen darunter, eher konventionelle Fassade. Annahme: Material, Achsen, Erdgeschoss, Traufe.",
   "name": "Palazzo Franceschi"
 }

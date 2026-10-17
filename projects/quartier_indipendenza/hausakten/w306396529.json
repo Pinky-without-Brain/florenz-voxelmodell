@@ -1,30 +1,30 @@
 {
   "id": "w306396529",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Baubeginn 1206, Fertigstellung 15. Jh. (Renaissance)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 2,
-    "material": "putz",
-    "putzfarbe": "weiss",
+    "material": "stein_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "loggia_offen",
+      "portalBreiteBl": 8,
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -35,15 +35,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "dreijochiger_portikus_kreuzgewoelbe",
+      "vier_achteckige_saeulen",
+      "kapitelle_rittern_wappen",
+      "zwei_rechteckfenster_marmorrahmen"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_in_Campo_Corbolini",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Baubeginn 1206, Fertigstellung im 15. Jh., Stil Renaissance, dreijochiger Portikus mit Kreuzgewölben, der sich mit drei Rundbögen auf vier achteckige Säulen öffnet, Kapitelle mit geschnitzten Ritterwappen, Portal von zwei rechteckigen Fenstern mit Marmorrahmen flankiert. Annahme: Giebel, Dach.",
   "name": "San Jacopo in Campo Corbolini"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w306984425",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "1560er Jh., Ammannati; Sgraffiti nach Vasari 1573-74",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,47 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
     "material": "putz",
-    "putzfarbe": "weiss",
+    "putzfarbe": "gelb",
     "erdgeschoss": {
       "art": "portal_seitlich",
-      "portalBreiteBl": 7,
+      "portalBreiteBl": 6,
       "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_forte",
-      "laeden": "gruen"
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "sgraffito_fassade_vasari",
+      "kniefenster",
+      "gitter_weitmaschig",
+      "wappen_medici",
+      "gurtgesimse"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Ramirez_de_Montalvo",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Bau ab Anfang der 1560er (Entwurf Bartolomeo Ammannati, Bauleitung Alfonso Parigi d. Ä.), Manierismus, Sgraffito-Fassade nach Vasari (1573-74), Portal links versetzt, Kniefenster mit weitmaschigen Gittern, umlaufende Gurtgesimse, in den oberen Geschossen zwei Reihen zu je fünf Fenstern. Annahme: Geschosszahl 3, Putzfarbe, Dachform.",
   "name": "Palazzo Ramirez de Montalvo"
 }

@@ -1,19 +1,19 @@
 {
   "id": "w306252401",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,15 +35,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "ughi_wappen",
+      "gedenktafel_rossini"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Mitte des 18. Jh. Wiederaufbau durch die Grafen Ughi (Wappen an der Fassade), Umbau im 19. Jh. (Telemaco Bonaiuti), Gedenktafel für Rossini, seit 1926 Hotel. Annahme: alle Fassadenmerkmale außer Epoche aus der Typologie.",
   "name": "Palazzo Ginori-Conti"
 }

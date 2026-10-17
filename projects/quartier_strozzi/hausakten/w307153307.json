@@ -1,7 +1,7 @@
 {
   "id": "w307153307",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "1538 als Palazzo erwähnt, cinquecentesk; Restaurierung 1895",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,49 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "turm_mit_satteldach",
+      "ricci_wappen_sieben_igel",
+      "altoviti_wappen_wolf",
+      "medici_wappen_holzportal",
+      "gedenktafel_1926"
+    ],
+    "marcapiano": "flach",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Ricci-Altoviti",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: 1538 erstmals als Palazzo erwähnt, Fassade cinquecentesk, verputzt mit einfachen Geschossgesimsen und regelmäßigen Eckquadern, Hauptportal dezentral zwischen zwei Kniefenstern auf einigen Stufen, Fenster mit halbkreisförmiger Rahmung, Turm mit Satteldach überragt die Traufe um ein Geschoss, Wappen der Ricci und Altoviti, Restaurierung 1895. Annahme: Putzfarbe, Rahmenstein, Achsen der Hauptfront.",
   "name": "Palazzo Ricci-Altoviti"
 }

@@ -1,5 +1,5 @@
 {
-  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) , UEBERSICHT_WELLE2.md §2 (Welle 2), UEBERSICHT_WELLE3.md (Welle 3), UEBERSICHT_WELLE5.md (Welle 5) und UEBERSICHT_WELLE6.md (Welle 6) und UEBERSICHT_WELLE7.md (Welle 7)",
+  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) , UEBERSICHT_WELLE2.md §2 (Welle 2), UEBERSICHT_WELLE3.md (Welle 3), UEBERSICHT_WELLE5.md (Welle 5) und UEBERSICHT_WELLE6.md (Welle 6) und UEBERSICHT_WELLE7.md (Welle 7) und UEBERSICHT_WELLE8.md (Welle 8)",
   "ids": {
     "r1461712": "palazzo_vecchio",
     "w43284457": "loggia_dei_lanzi",
@@ -71,6 +71,19 @@
     "r7021619": "loggia_dei_servi",
     "r4098970": "palazzo_nonfinito",
     "r6818342": "sant_apollonia",
-    "w1239428647": "sant_apollonia"
+    "w1239428647": "sant_apollonia",
+    "w307106612": "torre_alberti",
+    "w307129126": "loggia_del_grano",
+    "w24879633": "forte_belvedere",
+    "w160800063": "forte_belvedere",
+    "w398240863": "forte_belvedere",
+    "w398240882": "forte_belvedere",
+    "w306798512": "palazzo_guadagni",
+    "w307320369": "palazzo_lenzi",
+    "r4095220": "palazzo_mozzi",
+    "r4103612": "palazzo_corsini_parione",
+    "w102979678": "tempio_maggiore",
+    "r19738392": "palazzo_della_crocetta",
+    "w102979687": "biblioteca_nazionale"
   }
 }

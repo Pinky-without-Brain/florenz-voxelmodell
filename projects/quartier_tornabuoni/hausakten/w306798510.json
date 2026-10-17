@@ -1,19 +1,23 @@
 {
   "id": "w306798510",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Renaissance-Kern, 17./18. Jh. überarbeitet",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -22,28 +26,32 @@
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "portal_mittig",
+      "portalBreiteBl": 8,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
+      "art": "putzgesims",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "strahlenrahmen_fenster",
+      "bruestungsgesims"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Segni",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: drei Geschosse plus durch Aufstockung entstandenes Mezzanin, fünf Achsen, Kalkputz (Restaurierung 1966–68), imposantes Portal, Fensterrahmen aus grob behauenem Stein in strahlenförmigem Muster, Brüstungsgesimse zwischen den mittleren Geschossen. Annahme: Putzfarbe, Gesimsart, Dachform.",
   "name": "Palazzo Segni"
 }

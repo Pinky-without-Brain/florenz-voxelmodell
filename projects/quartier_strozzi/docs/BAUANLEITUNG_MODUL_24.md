@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 73.943 |
+| Blöcke | 73.741 |
 | Bauschritte | 45 |
 | Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | -4 bis 159 (164 Blöcke) |
 | Z-Ausdehnung | 269 bis 361 (93 Blöcke) |
-| Kleinster Schritt | 1.087 Blöcke (Schritt 24.18) |
-| Mittlerer Schritt | 1.643 Blöcke |
+| Kleinster Schritt | 582 Blöcke (Schritt 24.5) |
+| Mittlerer Schritt | 1.639 Blöcke |
 | Größter Schritt | 2.090 Blöcke (Schritt 24.33) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 32.975 | 44,6 % |
-| Tuffstein | `tuff` | 19.948 | 27,0 % |
+| Terrakotta | `terracotta` | 32.975 | 44,7 % |
+| Tuffstein | `tuff` | 19.948 | 27,1 % |
 | Polierter Tuffstein | `polished_tuff` | 10.392 | 14,1 % |
-| Polierter Andesit | `polished_andesite` | 3.766 | 5,1 % |
-| Glatter Stein | `smooth_stone` | 3.198 | 4,3 % |
+| Polierter Andesit | `polished_andesite` | 3.664 | 5,0 % |
+| Glatter Stein | `smooth_stone` | 2.992 | 4,1 % |
 | Graues Buntglas | `gray_stained_glass` | 1.295 | 1,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.132 | 1,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.234 | 1,7 % |
 | Ziegelsteine | `bricks` | 720 | 1,0 % |
 | Endsteinziegel | `end_stone_bricks` | 238 | 0,3 % |
 | Seelaterne | `sea_lantern` | 153 | 0,2 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,1 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 36 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 46 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 12 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 12 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 6 | 0,0 % |
@@ -48,15 +48,15 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 80 |
+| Steintreppe | `stone_stairs` | 84 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 12 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4107742` | Palazzo Portinari-Salviati | 36.136 | 24.1–24.23 |
-| 2 | `r4107742_innen` | Palazzo Portinari-Salviati: Innenausbau | 12.825 | 24.24–24.31 |
+| 1 | `r4107742` | Palazzo Portinari-Salviati | 35.926 | 24.1–24.23 |
+| 2 | `r4107742_innen` | Palazzo Portinari-Salviati: Innenausbau | 12.833 | 24.24–24.31 |
 | 3 | `w491889265` | Renaissance-Palazzo an Via del Proconsolo | 18.686 | 24.32–24.41 |
 | 4 | `w491889265_innen` | Renaissance-Palazzo an Via del Proconsolo: Innenausbau | 6.292 | 24.42–24.45 |
 | 5 | `strassenschilder` | Straßenschilder | 4 | 24.45 |
@@ -77,7 +77,7 @@
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -89,7 +89,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.2 – Palazzo Portinari-Salviati – Teil 2/23 (Y 66–66)
 
@@ -105,7 +105,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -117,7 +117,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.3 – Palazzo Portinari-Salviati – Teil 3/23 (Y 66–66)
 
@@ -133,7 +133,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -145,7 +145,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.4 – Palazzo Portinari-Salviati – Teil 4/23 (Y 66–66)
 
@@ -161,7 +161,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -173,26 +173,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 24.5 – Palazzo Portinari-Salviati – Teil 5/23 (Y 67–68)
+### Schritt 24.5 – Palazzo Portinari-Salviati – Teil 5/23 (Y 67–67)
 
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.164
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 582
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.032 |
-| Tuffsteinziegel | `tuff_bricks` | 122 |
-| Polierter Andesit | `polished_andesite` | 6 |
-| Glatter Stein | `smooth_stone` | 4 |
+| Tuffstein | `tuff` | 515 |
+| Tuffsteinziegel | `tuff_bricks` | 61 |
+| Polierter Andesit | `polished_andesite` | 3 |
+| Glatter Stein | `smooth_stone` | 3 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -204,27 +204,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 24.6 – Palazzo Portinari-Salviati – Teil 6/23 (Y 69–70)
+### Schritt 24.6 – Palazzo Portinari-Salviati – Teil 6/23 (Y 68–70)
 
-- **Y-Bereich:** 69 bis 70
-- **Blöcke:** 1.128
+- **Y-Bereich:** 68 bis 70
+- **Blöcke:** 1.710
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 900 |
-| Polierter Andesit | `polished_andesite` | 147 |
+| Tuffstein | `tuff` | 1.417 |
+| Polierter Andesit | `polished_andesite` | 150 |
+| Tuffsteinziegel | `tuff_bricks` | 99 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
-| Tuffsteinziegel | `tuff_bricks` | 38 |
-| Glatter Stein | `smooth_stone` | 4 |
+| Glatter Stein | `smooth_stone` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -236,7 +236,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.7 – Palazzo Portinari-Salviati – Teil 7/23 (Y 71–73)
 
@@ -256,7 +256,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -268,7 +268,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.8 – Palazzo Portinari-Salviati – Teil 8/23 (Y 74–76)
 
@@ -288,7 +288,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -300,12 +300,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.9 – Palazzo Portinari-Salviati – Teil 9/23 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.399
+- **Blöcke:** 1.294
 - **Bauteile:** `r4107742`
 
 **Teileliste**
@@ -313,13 +313,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 974 |
-| Glatter Stein | `smooth_stone` | 258 |
+| Glatter Stein | `smooth_stone` | 153 |
 | Polierter Andesit | `polished_andesite` | 87 |
 | Tuffsteinziegel | `tuff_bricks` | 80 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -331,7 +331,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.10 – Palazzo Portinari-Salviati – Teil 10/23 (Y 79–81)
 
@@ -351,7 +351,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -363,27 +363,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.11 – Palazzo Portinari-Salviati – Teil 11/23 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.198
+- **Blöcke:** 1.194
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 874 |
-| Polierter Andesit | `polished_andesite` | 172 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
+| Tuffstein | `tuff` | 870 |
+| Polierter Andesit | `polished_andesite` | 168 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
 | Tuffsteinziegel | `tuff_bricks` | 44 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -395,26 +395,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.12 – Palazzo Portinari-Salviati – Teil 12/23 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
-- **Blöcke:** 2.046
+- **Blöcke:** 1.895
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.461 |
-| Glatter Stein | `smooth_stone` | 269 |
-| Polierter Andesit | `polished_andesite` | 201 |
-| Tuffsteinziegel | `tuff_bricks` | 115 |
+| Tuffstein | `tuff` | 1.413 |
+| Polierter Andesit | `polished_andesite` | 286 |
+| Tuffsteinziegel | `tuff_bricks` | 141 |
+| Graues Buntglas | `gray_stained_glass` | 50 |
+| Glatter Stein | `smooth_stone` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -426,11 +427,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.13 – Palazzo Portinari-Salviati – Teil 13/23 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
+- **Blöcke:** 1.294
+- **Bauteile:** `r4107742`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 974 |
+| Glatter Stein | `smooth_stone` | 163 |
+| Polierter Andesit | `polished_andesite` | 81 |
+| Tuffsteinziegel | `tuff_bricks` | 76 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 24.14 – Palazzo Portinari-Salviati – Teil 14/23 (Y 89–90)
+
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.328
 - **Bauteile:** `r4107742`
 
@@ -444,7 +476,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -456,57 +488,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 24.14 – Palazzo Portinari-Salviati – Teil 14/23 (Y 89–90)
-
-- **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.194
-- **Bauteile:** `r4107742`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 870 |
-| Polierter Andesit | `polished_andesite` | 212 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Glatter Stein | `smooth_stone` | 4 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.15 – Palazzo Portinari-Salviati – Teil 15/23 (Y 91–93)
 
 - **Y-Bereich:** 91 bis 93
-- **Blöcke:** 1.845
+- **Blöcke:** 1.795
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.361 |
-| Polierter Andesit | `polished_andesite` | 373 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
+| Tuffstein | `tuff` | 1.309 |
+| Polierter Andesit | `polished_andesite` | 321 |
+| Graues Buntglas | `gray_stained_glass` | 158 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -518,7 +519,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.16 – Palazzo Portinari-Salviati – Teil 16/23 (Y 94–95)
 
@@ -536,7 +537,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -548,7 +549,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.17 – Palazzo Portinari-Salviati – Teil 17/23 (Y 96–97)
 
@@ -567,7 +568,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -579,7 +580,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.18 – Palazzo Portinari-Salviati – Teil 18/23 (Y 97–97)
 
@@ -595,7 +596,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -607,7 +608,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.19 – Palazzo Portinari-Salviati – Teil 19/23 (Y 98–98)
 
@@ -623,7 +624,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -635,7 +636,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.20 – Palazzo Portinari-Salviati – Teil 20/23 (Y 99–99)
 
@@ -651,7 +652,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -663,7 +664,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.21 – Palazzo Portinari-Salviati – Teil 21/23 (Y 100–100)
 
@@ -680,7 +681,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -692,7 +693,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.22 – Palazzo Portinari-Salviati – Teil 22/23 (Y 101–101)
 
@@ -709,7 +710,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -721,7 +722,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.23 – Palazzo Portinari-Salviati – Teil 23/23 (Y 102–106)
 
@@ -738,7 +739,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umbau der Portinari ca. 1470–80, Salviati-Erweiterung 1572–78, Verlängerung 1679–98, drittes Geschoss 1866), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Portinari-Salviati, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -750,7 +751,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 24.24 – Palazzo Portinari-Salviati: Innenausbau – Teil 1/8 (Y 66–77)
 
@@ -888,10 +889,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 24.28 – Palazzo Portinari-Salviati: Innenausbau – Teil 5/8 (Y 78–86)
+### Schritt 24.28 – Palazzo Portinari-Salviati: Innenausbau – Teil 5/8 (Y 78–88)
 
-- **Y-Bereich:** 78 bis 86
-- **Blöcke:** 1.623
+- **Y-Bereich:** 78 bis 88
+- **Blöcke:** 1.631
 - **Bauteile:** `r4107742_innen`
 
 **Teileliste**
@@ -899,10 +900,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.567 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -913,7 +914,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -932,9 +933,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 24.29 – Palazzo Portinari-Salviati: Innenausbau – Teil 6/8 (Y 86–86)
+### Schritt 24.29 – Palazzo Portinari-Salviati: Innenausbau – Teil 6/8 (Y 88–88)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.610
 - **Bauteile:** `r4107742_innen`
 
@@ -968,9 +969,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 24.30 – Palazzo Portinari-Salviati: Innenausbau – Teil 7/8 (Y 86–86)
+### Schritt 24.30 – Palazzo Portinari-Salviati: Innenausbau – Teil 7/8 (Y 88–88)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.557
 - **Bauteile:** `r4107742_innen`
 
@@ -997,9 +998,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 24.31 – Palazzo Portinari-Salviati: Innenausbau – Teil 8/8 (Y 86–87)
+### Schritt 24.31 – Palazzo Portinari-Salviati: Innenausbau – Teil 8/8 (Y 88–89)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.610
 - **Bauteile:** `r4107742_innen`
 

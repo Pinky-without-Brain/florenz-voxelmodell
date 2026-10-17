@@ -1,7 +1,7 @@
 {
   "id": "w307545805",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "florentinische Renaissance-Zivilarchitektur (genaue Datierung nicht belegt)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -22,28 +22,33 @@
     "material": "bugnato_abgestuft",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "bifora",
-      "rahmen": "pietra_serena",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "sporti_steinkonsolen",
+      "gedenktafel_ottavio_rinuccini",
+      "graffito_rustika_1og"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Rinuccini_(via_de'_Cimatori)",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: annähernd kubischer Bau, Erdgeschoss mit regelmäßigem Bugnato (ehemalige Fondaci, heute Geschäfte), erstes Geschoss mit Graffito-Rustika und Biforen aus Pietra forte, zweites Geschoss verputzt, Marcapiano-Gesims, Steinsporti zur Piazza de' Cerchi, Gedenktafel für Ottavio Rinuccini. Annahme: Epoche, Achsen, Traufe.",
   "name": "Palazzo Rinuccini"
 }

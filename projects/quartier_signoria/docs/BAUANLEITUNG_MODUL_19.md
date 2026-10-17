@@ -8,10 +8,10 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 72.199 |
+| Blöcke | 72.194 |
 | Bauschritte | 47 |
 | Y-Bereich | 67 bis 112 |
-| X-Ausdehnung | -245 bis -122 (124 Blöcke) |
+| X-Ausdehnung | -244 bis -122 (123 Blöcke) |
 | Z-Ausdehnung | 506 bis 577 (72 Blöcke) |
 | Kleinster Schritt | 751 Blöcke (Schritt 19.22) |
 | Mittlerer Schritt | 1.536 Blöcke |
@@ -21,21 +21,23 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 24.782 | 34,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 10.786 | 14,9 % |
+| Terrakotta | `terracotta` | 24.739 | 34,3 % |
 | Polierter Tuffstein | `polished_tuff` | 7.035 | 9,7 % |
 | Endsteinziegel | `end_stone_bricks` | 6.575 | 9,1 % |
+| Tuffstein | `tuff` | 5.607 | 7,8 % |
 | Rosa Keramik | `pink_terracotta` | 4.670 | 6,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.199 | 5,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 3.805 | 5,3 % |
 | Orange Keramik | `orange_terracotta` | 3.627 | 5,0 % |
 | Weißer Beton | `white_concrete` | 3.560 | 4,9 % |
-| Graues Buntglas | `gray_stained_glass` | 1.745 | 2,4 % |
-| Glatter Stein | `smooth_stone` | 1.398 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 1.063 | 1,5 % |
-| Grüner Beton | `green_concrete` | 652 | 0,9 % |
+| Glatter Stein | `smooth_stone` | 2.703 | 3,7 % |
+| Graues Buntglas | `gray_stained_glass` | 1.640 | 2,3 % |
+| Polierter Andesit | `polished_andesite` | 1.303 | 1,8 % |
 | Ziegelsteine | `bricks` | 515 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 495 | 0,7 % |
+| Grüner Beton | `green_concrete` | 490 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 219 | 0,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 163 | 0,2 % |
 | Seelaterne | `sea_lantern` | 149 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 143 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 133 | 0,2 % |
@@ -45,9 +47,8 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 59 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 50 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 46 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 27 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
@@ -57,7 +58,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 398 |
-| Steintreppe | `stone_stairs` | 140 |
+| Steintreppe | `stone_stairs` | 138 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -65,11 +66,11 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w114504741` | Reihenhaus an Via dei Calzaiuoli | 4.631 | 19.1–19.3 |
 | 2 | `w114504741_innen` | Reihenhaus an Via dei Calzaiuoli: Innenausbau | 1.114 | 19.4 |
-| 3 | `w234429576` | Chiesa di San Carlo dei Lombardi | 6.691 | 19.5–19.8 |
-| 4 | `w234429576_innen` | Chiesa di San Carlo dei Lombardi: Innenausbau | 1.844 | 19.9 |
-| 5 | `w307544538` | Torri dei Galigai | 4.659 | 19.10–19.12 |
+| 3 | `w234429576` | Chiesa di San Carlo dei Lombardi | 6.710 | 19.5–19.8 |
+| 4 | `w234429576_innen` | Chiesa di San Carlo dei Lombardi: Innenausbau | 1.840 | 19.9 |
+| 5 | `w307544538` | Torri dei Galigai | 4.638 | 19.10–19.12 |
 | 6 | `w307544538_innen` | Torri dei Galigai: Innenausbau | 1.093 | 19.13 |
-| 7 | `w497263210` | Palazzo des Cinquecento an Via dei Cimatori | 7.091 | 19.14–19.17 |
+| 7 | `w497263210` | Palazzo des Cinquecento an Via dei Cimatori | 7.092 | 19.14–19.17 |
 | 8 | `w497263210_innen` | Palazzo des Cinquecento an Via dei Cimatori: Innenausbau | 1.271 | 19.18 |
 | 9 | `w497263223` | Reihenhaus an Via dei Tavolini | 2.089 | 19.19 |
 | 10 | `w497263223_innen` | Reihenhaus an Via dei Tavolini: Innenausbau | 931 | 19.20 |
@@ -227,7 +228,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 19.5 – Chiesa di San Carlo dei Lombardi – Teil 1/4 (Y 67–72)
 
 - **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.669
+- **Blöcke:** 1.675
 - **Bauteile:** `w234429576`
 
 **Teileliste**
@@ -235,13 +236,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.015 |
-| Hellgrauer Beton | `light_gray_concrete` | 602 |
-| Polierter Andesit | `polished_andesite` | 40 |
-| Graues Buntglas | `gray_stained_glass` | 12 |
+| Tuffstein | `tuff` | 430 |
+| Glatter Stein | `smooth_stone` | 220 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, ab 1349 (Neri di Fioravante, Benci di Cione, vollendet Simone Talenti)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Carlo_dei_Lombardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -253,25 +254,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.6 – Chiesa di San Carlo dei Lombardi – Teil 2/4 (Y 73–84)
 
 - **Y-Bereich:** 73 bis 84
-- **Blöcke:** 1.667
+- **Blöcke:** 1.693
 - **Bauteile:** `w234429576`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.550 |
-| Polierter Andesit | `polished_andesite` | 90 |
+| Tuffstein | `tuff` | 1.032 |
+| Glatter Stein | `smooth_stone` | 568 |
+| Polierter Andesit | `polished_andesite` | 66 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, ab 1349 (Neri di Fioravante, Benci di Cione, vollendet Simone Talenti)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Carlo_dei_Lombardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -283,26 +285,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.7 – Chiesa di San Carlo dei Lombardi – Teil 3/4 (Y 85–96)
 
 - **Y-Bereich:** 85 bis 96
-- **Blöcke:** 1.725
+- **Blöcke:** 1.741
 - **Bauteile:** `w234429576`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.505 |
-| Polierter Andesit | `polished_andesite` | 113 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Tuffstein | `tuff` | 1.032 |
+| Glatter Stein | `smooth_stone` | 532 |
+| Polierter Andesit | `polished_andesite` | 114 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, ab 1349 (Neri di Fioravante, Benci di Cione, vollendet Simone Talenti)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Carlo_dei_Lombardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -314,12 +316,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.8 – Chiesa di San Carlo dei Lombardi – Teil 4/4 (Y 97–104)
 
 - **Y-Bereich:** 97 bis 104
-- **Blöcke:** 1.630
+- **Blöcke:** 1.601
 - **Bauteile:** `w234429576`
 
 **Teileliste**
@@ -327,14 +329,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.347 |
-| Hellgrauer Beton | `light_gray_concrete` | 130 |
+| Glatter Stein | `smooth_stone` | 87 |
+| Tuffstein | `tuff` | 86 |
 | Ziegelsteine | `bricks` | 81 |
-| Glatter Stein | `smooth_stone` | 55 |
-| Polierter Andesit | `polished_andesite` | 17 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, ab 1349 (Neri di Fioravante, Benci di Cione, vollendet Simone Talenti)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Carlo_dei_Lombardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -346,12 +347,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.9 – Chiesa di San Carlo dei Lombardi: Innenausbau
 
-- **Y-Bereich:** 67 bis 90
-- **Blöcke:** 1.844
+- **Y-Bereich:** 67 bis 89
+- **Blöcke:** 1.840
 - **Bauteile:** `w234429576_innen`
 
 **Teileliste**
@@ -359,9 +360,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.720 |
-| Glatter Stein | `smooth_stone` | 56 |
+| Glatter Stein | `smooth_stone` | 54 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
 | Seelaterne | `sea_lantern` | 15 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
@@ -373,7 +374,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 44 |
+| Steintreppe | `stone_stairs` | 42 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 **Beschreibung**
@@ -392,25 +393,24 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.10 – Torri dei Galigai – Teil 1/3 (Y 67–77)
+### Schritt 19.10 – Torri dei Galigai – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 67 bis 77
-- **Blöcke:** 1.610
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.515
 - **Bauteile:** `w307544538`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.070 |
+| Tuffstein | `tuff` | 973 |
 | Polierter Tuffstein | `polished_tuff` | 448 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Grüner Beton | `green_concrete` | 36 |
-| Glatter Stein | `smooth_stone` | 20 |
+| Tuffsteinziegel | `tuff_bricks` | 63 |
+| Polierter Andesit | `polished_andesite` | 31 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (12.–13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torri_dei_Galigai, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -422,25 +422,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 19.11 – Torri dei Galigai – Teil 2/3 (Y 78–90)
+### Schritt 19.11 – Torri dei Galigai – Teil 2/3 (Y 77–89)
 
-- **Y-Bereich:** 78 bis 90
-- **Blöcke:** 1.513
+- **Y-Bereich:** 77 bis 89
+- **Blöcke:** 1.565
 - **Bauteile:** `w307544538`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.317 |
-| Graues Buntglas | `gray_stained_glass` | 112 |
-| Grüner Beton | `green_concrete` | 84 |
+| Tuffstein | `tuff` | 1.253 |
+| Polierter Andesit | `polished_andesite` | 186 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Tuffsteinziegel | `tuff_bricks` | 40 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (12.–13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torri_dei_Galigai, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -452,27 +453,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 19.12 – Torri dei Galigai – Teil 3/3 (Y 91–103)
+### Schritt 19.12 – Torri dei Galigai – Teil 3/3 (Y 90–103)
 
-- **Y-Bereich:** 91 bis 103
-- **Blöcke:** 1.536
+- **Y-Bereich:** 90 bis 103
+- **Blöcke:** 1.558
 - **Bauteile:** `w307544538`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 807 |
-| Terrakotta | `terracotta` | 601 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
-| Grüner Beton | `green_concrete` | 42 |
+| Tuffstein | `tuff` | 801 |
+| Terrakotta | `terracotta` | 558 |
+| Polierter Andesit | `polished_andesite` | 93 |
+| Graues Buntglas | `gray_stained_glass` | 43 |
+| Tuffsteinziegel | `tuff_bricks` | 33 |
 | Ziegelsteine | `bricks` | 30 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (12.–13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torri_dei_Galigai, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -484,7 +486,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.13 – Torri dei Galigai: Innenausbau
 
@@ -629,7 +631,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 19.17 – Palazzo des Cinquecento an Via dei Cimatori – Teil 4/4 (Y 96–104)
 
 - **Y-Bereich:** 96 bis 104
-- **Blöcke:** 1.775
+- **Blöcke:** 1.776
 - **Bauteile:** `w497263210`
 
 **Teileliste**
@@ -638,7 +640,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.011 |
 | Glatter Sandstein | `smooth_sandstone` | 518 |
-| Glatter Stein | `smooth_stone` | 156 |
+| Glatter Stein | `smooth_stone` | 157 |
 | Ziegelsteine | `bricks` | 54 |
 | Weißer Beton | `white_concrete` | 36 |
 

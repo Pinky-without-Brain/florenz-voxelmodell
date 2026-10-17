@@ -1,0 +1,12 @@
+{
+  "id": "biblioteca_nazionale",
+  "title": "Biblioteca Nazionale Centrale di Firenze",
+  "type": "wahrzeichen",
+  "gebaeude": ["w102979687"],
+  "bodenY": 61,
+  "rahmen": { "ox": 735, "oz": 1242, "thetaDeg": 8 },
+  "masken": {},
+  "hauptGrenzen": { "abzugProjekte": ["cappella_pazzi"], "abzugAlle": true },
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
+}

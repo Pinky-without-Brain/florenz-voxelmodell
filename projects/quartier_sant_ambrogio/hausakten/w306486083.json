@@ -1,19 +1,15 @@
 {
   "id": "w306486083",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Umbau 1702-03 (Foggini zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
+      "hoeheBl": 16
+    },
+    {
+      "art": "og",
       "hoeheBl": 14
-    },
-    {
-      "art": "og",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -27,23 +23,28 @@
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "pietra_forte",
-      "laeden": null
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
+      "laeden": false
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "portal_dreiecksgiebel_pilaster_voluten",
+      "oval_relief_marienkopf_foggini",
+      "finestrone_runder_giebel",
+      "fassade_a_capanna"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_di_Candeli",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Kirchenfassade a capanna, Umbau 1702-03 mit Marmorrelief von Foggini, Portal mit Dreiecksgiebel auf Pilastern mit Voluten, ovales Relief mit Marienkopf, großes Fenster (finestrone) mit rundem Giebel. Annahme: Putz und Farbe, Gesims, Geschosse.",
   "name": "Chiesa di Santa Maria di Candeli"
 }

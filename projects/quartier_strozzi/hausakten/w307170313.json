@@ -1,49 +1,59 @@
 {
   "id": "w307170313",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "1695 (Entwurf Giovan Battista Foggini, Barock)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "achsen": 9,
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rechteck",
       "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "balkon_gebrochener_giebel",
+      "viviani_wappen_marmor_ecke",
+      "koenigliche_wappen",
+      "halbbogengiebel_mittelfenster_2og"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Viviani_della_Robbia",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Entwurf 1695 von Giovan Battista Foggini, Erdgeschoss und drei Geschosse darüber, neun symmetrische Achsen um das Mittelportal, kräftige Bossenquaderung im Erdgeschoss, Rechteckfenster mit abfallender Staffelung nach römischem Vorbild, im zweiten Geschoss Gewände aus Pietra serena mit Halbbogengiebel am Mittelfenster, Balkon mit gebrochenem Giebel, Viviani-Wappen aus mehrfarbigem Marmor an der oberen Ecke sowie königliche Wappen. Annahme: Gesims, Oberflächen oberhalb des Erdgeschosses.",
   "name": "Palazzo Viviani della Robbia"
 }

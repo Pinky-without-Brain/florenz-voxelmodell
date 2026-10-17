@@ -1,0 +1,15 @@
+{
+  "module": 1,
+  "title": "Wälle",
+  "subtitle": "Bautüte 1: Mauern aus Pietra forte mit Wallkrone",
+  "icon": "🏰",
+  "parts": {
+    "waelle": {
+      "title": "Wälle",
+      "description": "Sieben Blöcke dicke Wälle rund um den Umriss: außen Pietra forte mit Bruchstein, Kern aus Bruchstein, oben die Wallkrone auf Lage 5 (Pflaster, 4 Blöcke breit) und ein Absatz am Außenrand auf Lage 4.",
+      "tip": "Baue Lage für Lage rund um den Umriss.",
+      "caution": "Die Mauerstärke und die Höhe der Wallkrone sind Stufe C; der Umriss selbst folgt OSM.",
+      "fact": "Der Grundriss der Festung ist sternförmig, mit Bastionen an Nord- und Südfront und Zangenfronten an Ost- und Westseite (Quelle: it.wikipedia, Forte Belvedere)."
+    }
+  }
+}

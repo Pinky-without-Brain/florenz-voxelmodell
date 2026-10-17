@@ -1,7 +1,7 @@
 {
   "id": "r1615373",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "zweckbau",
+  "epoche": "Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,15 +35,17 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "westteil_dominikanerkomplex_via_della_scala"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: gegründet testamentarisch 1563 durch Eleonora di Toledo, fertiggestellt 1601, im westlichen Teil des Dominikanerkomplexes Santa Maria Novella an der Via della Scala. Annahme: alle Fassadenmerkmale aus der Typologie.",
   "name": "Ex monastero della Santissima Concezione"
 }

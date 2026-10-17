@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 656.754 |
+| Blöcke | 656.725 |
 | Bauschritte | 403 |
 | Y-Bereich | 51 bis 112 |
 | X-Ausdehnung | -2403 bis -1620 (784 Blöcke) |
@@ -22,18 +22,18 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 222.621 | 33,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 74.337 | 11,3 % |
 | Polierter Tuffstein | `polished_tuff` | 68.079 | 10,4 % |
+| Orange Keramik | `orange_terracotta` | 58.705 | 8,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 57.958 | 8,8 % |
 | Endsteinziegel | `end_stone_bricks` | 54.877 | 8,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 47.342 | 7,2 % |
-| Orange Keramik | `orange_terracotta` | 42.194 | 6,4 % |
-| Weißer Beton | `white_concrete` | 38.350 | 5,8 % |
+| Weißer Beton | `white_concrete` | 38.138 | 5,8 % |
 | Rosa Keramik | `pink_terracotta` | 22.589 | 3,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 16.677 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 16.474 | 2,5 % |
-| Glatter Stein | `smooth_stone` | 13.162 | 2,0 % |
-| Polierter Andesit | `polished_andesite` | 8.878 | 1,4 % |
-| Grüner Beton | `green_concrete` | 7.445 | 1,1 % |
+| Graues Buntglas | `gray_stained_glass` | 16.517 | 2,5 % |
+| Glatter Stein | `smooth_stone` | 13.164 | 2,0 % |
+| Polierter Andesit | `polished_andesite` | 8.880 | 1,4 % |
+| Grüner Beton | `green_concrete` | 7.447 | 1,1 % |
 | Tuffstein | `tuff` | 7.343 | 1,1 % |
 | Ziegelsteine | `bricks` | 4.915 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 4.633 | 0,7 % |
@@ -45,7 +45,7 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 429 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 362 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 362 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 172 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 174 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 170 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 156 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 60 | 0,0 % |
@@ -60,14 +60,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 1.878 |
-| Steintreppe | `stone_stairs` | 462 |
+| Steintreppe | `stone_stairs` | 464 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4088640` | Casa Capponi | 28.389 | 21.1–21.21 |
-| 2 | `r4088640_innen` | Casa Capponi: Innenausbau | 6.362 | 21.22–21.25 |
+| 1 | `r4088640` | Casa Capponi | 28.356 | 21.1–21.21 |
+| 2 | `r4088640_innen` | Casa Capponi: Innenausbau | 6.366 | 21.22–21.25 |
 | 3 | `r4088641` | Seminario Maggiore Arcivescovile | 102.347 | 21.26–21.85 |
 | 4 | `r4088641_innen` | Seminario Maggiore Arcivescovile: Innenausbau | 30.919 | 21.86–21.101 |
 | 5 | `r6593354` | Reihenhaus an Via del Cestello | 16.905 | 21.102–21.111 |
@@ -188,7 +188,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -200,7 +200,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.2 – Casa Capponi – Teil 2/21 (Y 56–56)
 
@@ -216,7 +216,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -228,7 +228,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.3 – Casa Capponi – Teil 3/21 (Y 56–56)
 
@@ -244,7 +244,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -256,7 +256,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.4 – Casa Capponi – Teil 4/21 (Y 57–58)
 
@@ -268,7 +268,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.196 |
+| Orange Keramik | `orange_terracotta` | 1.196 |
 | Weißer Beton | `white_concrete` | 72 |
 | Polierter Andesit | `polished_andesite` | 17 |
 | Glatter Stein | `smooth_stone` | 6 |
@@ -276,7 +276,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -288,7 +288,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.5 – Casa Capponi – Teil 5/21 (Y 59–60)
 
@@ -300,7 +300,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.047 |
+| Orange Keramik | `orange_terracotta` | 1.047 |
 | Weißer Beton | `white_concrete` | 171 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 | Polierter Andesit | `polished_andesite` | 17 |
@@ -310,7 +310,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -322,7 +322,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.6 – Casa Capponi – Teil 6/21 (Y 61–62)
 
@@ -334,7 +334,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.016 |
+| Orange Keramik | `orange_terracotta` | 1.016 |
 | Weißer Beton | `white_concrete` | 80 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Polierter Andesit | `polished_andesite` | 17 |
@@ -344,7 +344,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -356,7 +356,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.7 – Casa Capponi – Teil 7/21 (Y 63–65)
 
@@ -368,7 +368,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.674 |
+| Orange Keramik | `orange_terracotta` | 1.674 |
 | Weißer Beton | `white_concrete` | 119 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 | Polierter Andesit | `polished_andesite` | 29 |
@@ -378,7 +378,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -390,7 +390,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.8 – Casa Capponi – Teil 8/21 (Y 66–67)
 
@@ -402,14 +402,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.115 |
+| Orange Keramik | `orange_terracotta` | 1.115 |
 | Glatter Stein | `smooth_stone` | 154 |
 | Polierter Andesit | `polished_andesite` | 14 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -421,7 +421,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.9 – Casa Capponi – Teil 9/21 (Y 68–69)
 
@@ -433,7 +433,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.065 |
+| Orange Keramik | `orange_terracotta` | 1.065 |
 | Weißer Beton | `white_concrete` | 131 |
 | Graues Buntglas | `gray_stained_glass` | 43 |
 | Polierter Andesit | `polished_andesite` | 14 |
@@ -441,7 +441,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -453,7 +453,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.10 – Casa Capponi – Teil 10/21 (Y 70–71)
 
@@ -465,7 +465,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.030 |
+| Orange Keramik | `orange_terracotta` | 1.030 |
 | Weißer Beton | `white_concrete` | 88 |
 | Graues Buntglas | `gray_stained_glass` | 86 |
 | Polierter Andesit | `polished_andesite` | 14 |
@@ -473,7 +473,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -485,7 +485,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.11 – Casa Capponi – Teil 11/21 (Y 72–73)
 
@@ -497,7 +497,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.030 |
+| Orange Keramik | `orange_terracotta` | 1.030 |
 | Weißer Beton | `white_concrete` | 88 |
 | Graues Buntglas | `gray_stained_glass` | 86 |
 | Polierter Andesit | `polished_andesite` | 14 |
@@ -505,7 +505,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -517,25 +517,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.12 – Casa Capponi – Teil 12/21 (Y 74–75)
 
 - **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.288
+- **Blöcke:** 1.255
 - **Bauteile:** `r4088640`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.063 |
-| Weißer Beton | `white_concrete` | 215 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Orange Keramik | `orange_terracotta` | 1.065 |
+| Weißer Beton | `white_concrete` | 131 |
+| Graues Buntglas | `gray_stained_glass` | 43 |
+| Polierter Andesit | `polished_andesite` | 14 |
+| Grüner Beton | `green_concrete` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -547,7 +549,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.13 – Casa Capponi – Teil 13/21 (Y 76–77)
 
@@ -559,13 +561,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.115 |
+| Orange Keramik | `orange_terracotta` | 1.121 |
 | Glatter Stein | `smooth_stone` | 163 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -577,27 +579,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.14 – Casa Capponi – Teil 14/21 (Y 78–80)
 
 - **Y-Bereich:** 78 bis 80
-- **Blöcke:** 1.866
+- **Blöcke:** 1.899
 - **Bauteile:** `r4088640`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.583 |
-| Weißer Beton | `white_concrete` | 175 |
-| Graues Buntglas | `gray_stained_glass` | 86 |
+| Orange Keramik | `orange_terracotta` | 1.705 |
+| Weißer Beton | `white_concrete` | 131 |
+| Graues Buntglas | `gray_stained_glass` | 43 |
 | Polierter Andesit | `polished_andesite` | 18 |
-| Grüner Beton | `green_concrete` | 4 |
+| Grüner Beton | `green_concrete` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -609,7 +611,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.15 – Casa Capponi – Teil 15/21 (Y 81–82)
 
@@ -621,7 +623,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.030 |
+| Orange Keramik | `orange_terracotta` | 1.030 |
 | Weißer Beton | `white_concrete` | 88 |
 | Graues Buntglas | `gray_stained_glass` | 86 |
 | Polierter Andesit | `polished_andesite` | 14 |
@@ -629,7 +631,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -641,27 +643,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.16 – Casa Capponi – Teil 16/21 (Y 83–84)
 
 - **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.255
+- **Blöcke:** 1.222
 - **Bauteile:** `r4088640`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.065 |
-| Weißer Beton | `white_concrete` | 131 |
-| Graues Buntglas | `gray_stained_glass` | 43 |
+| Orange Keramik | `orange_terracotta` | 1.030 |
+| Weißer Beton | `white_concrete` | 88 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
 | Polierter Andesit | `polished_andesite` | 14 |
-| Grüner Beton | `green_concrete` | 2 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -673,7 +675,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.17 – Casa Capponi – Teil 17/21 (Y 85–86)
 
@@ -685,13 +687,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.350 |
-| Weißer Beton | `white_concrete` | 128 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Orange Keramik | `orange_terracotta` | 1.387 |
+| Weißer Beton | `white_concrete` | 87 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -703,7 +705,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.18 – Casa Capponi – Teil 18/21 (Y 87–87)
 
@@ -719,7 +721,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -731,7 +733,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.19 – Casa Capponi – Teil 19/21 (Y 88–88)
 
@@ -747,7 +749,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -759,7 +761,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.20 – Casa Capponi – Teil 20/21 (Y 89–89)
 
@@ -775,7 +777,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -787,7 +789,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.21 – Casa Capponi – Teil 21/21 (Y 90–94)
 
@@ -804,7 +806,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Capponi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -816,7 +818,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 21.22 – Casa Capponi: Innenausbau – Teil 1/4 (Y 56–66)
 
@@ -889,10 +891,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.24 – Casa Capponi: Innenausbau – Teil 3/4 (Y 67–76)
+### Schritt 21.24 – Casa Capponi: Innenausbau – Teil 3/4 (Y 67–77)
 
-- **Y-Bereich:** 67 bis 76
-- **Blöcke:** 1.594
+- **Y-Bereich:** 67 bis 77
+- **Blöcke:** 1.598
 - **Bauteile:** `r4088640_innen`
 
 **Teileliste**
@@ -900,9 +902,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.532 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -911,7 +913,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
 
 **Beschreibung**
 
@@ -929,9 +931,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.25 – Casa Capponi: Innenausbau – Teil 4/4 (Y 76–77)
+### Schritt 21.25 – Casa Capponi: Innenausbau – Teil 4/4 (Y 77–78)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.583
 - **Bauteile:** `r4088640_innen`
 

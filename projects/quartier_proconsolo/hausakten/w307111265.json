@@ -1,7 +1,7 @@
 {
   "id": "w307111265",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "aus zwei mittelalterlichen Kaufmannshöfen; im 18. Jh. stark verändert; Restaurierung 1970er",
   "geschosse": [
     {
       "art": "eg",
@@ -9,25 +9,25 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
     "material": "putz",
-    "putzfarbe": "terrakotta",
+    "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -35,15 +35,21 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "steinportal_18jh",
+      "poller_zwei",
+      "wappen_peruzzi_2og",
+      "androne_terrakotta_mascherone",
+      "bogen_14jh_via_magalotti"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Peruzzi_(via_de'_Rustici)",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Zusammenlegung zweier mittelalterlicher Kaufmannshöfe, im 18. Jh. stark verändert (Steinportal mit zwei Pollern), regelmäßig verteilte rechteckige Öffnungen mit Steinrahmen, zwei Peruzzi-Wappen im 2. Obergeschoss, gewölbter Androne mit Terrakotta-Mascherone. Annahme: Geschosszahl 3, Achsenzahl, Putzfarbe, Gesims, Dachform.",
   "name": "Palazzo Peruzzi"
 }

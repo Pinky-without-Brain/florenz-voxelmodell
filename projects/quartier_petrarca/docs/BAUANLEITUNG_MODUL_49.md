@@ -8,25 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 394.387 |
+| Blöcke | 394.390 |
 | Bauschritte | 218 |
 | Y-Bereich | 62 bis 105 |
 | X-Ausdehnung | 1404 bis 1955 (552 Blöcke) |
 | Z-Ausdehnung | 1010 bis 1350 (341 Blöcke) |
 | Kleinster Schritt | 134 Blöcke (Schritt 49.1) |
 | Mittlerer Schritt | 1.809 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 49.190) |
+| Größter Schritt | 2.098 Blöcke (Schritt 49.190) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 184.774 | 46,9 % |
-| Orange Keramik | `orange_terracotta` | 114.787 | 29,1 % |
+| Orange Keramik | `orange_terracotta` | 114.773 | 29,1 % |
 | Polierter Tuffstein | `polished_tuff` | 58.212 | 14,8 % |
-| Polierter Andesit | `polished_andesite` | 19.134 | 4,9 % |
-| Graues Buntglas | `gray_stained_glass` | 7.282 | 1,8 % |
-| Glatter Stein | `smooth_stone` | 2.875 | 0,7 % |
+| Polierter Andesit | `polished_andesite` | 19.147 | 4,9 % |
+| Graues Buntglas | `gray_stained_glass` | 7.278 | 1,8 % |
+| Glatter Stein | `smooth_stone` | 2.877 | 0,7 % |
 | Weißer Beton | `white_concrete` | 2.182 | 0,6 % |
 | Grüner Beton | `green_concrete` | 1.694 | 0,4 % |
 | Ziegelsteine | `bricks` | 1.662 | 0,4 % |
@@ -34,27 +34,31 @@
 | Hellgrauer Beton | `light_gray_concrete` | 714 | 0,2 % |
 | Tuffstein | `tuff` | 134 | 0,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 102 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 13 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1607712` | Pia casa di lavoro di Montedomini | 283.552 | 49.1–49.163 |
-| 2 | `r1607712_innen` | Pia casa di lavoro di Montedomini: Innenausbau | 106.929 | 49.164–49.216 |
+| 1 | `r1607712` | Pia casa di lavoro di Montedomini | 283.548 | 49.1–49.163 |
+| 2 | `r1607712_innen` | Pia casa di lavoro di Montedomini: Innenausbau | 106.936 | 49.164–49.216 |
 | 3 | `w778074890` | Reihenhaus an Via dei Malcontenti | 3.901 | 49.217–49.218 |
 | 4 | `w778074890_innen` | Reihenhaus an Via dei Malcontenti: Innenausbau | 2 | 49.218 |
 | 5 | `strassenschilder` | Straßenschilder | 3 | 49.218 |
@@ -75,7 +79,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -87,7 +91,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.2 – Pia casa di lavoro di Montedomini – Teil 2/163 (Y 63–63)
 
@@ -103,7 +107,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -115,7 +119,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.3 – Pia casa di lavoro di Montedomini – Teil 3/163 (Y 63–63)
 
@@ -131,7 +135,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -143,7 +147,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.4 – Pia casa di lavoro di Montedomini – Teil 4/163 (Y 63–63)
 
@@ -159,7 +163,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -171,7 +175,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.5 – Pia casa di lavoro di Montedomini – Teil 5/163 (Y 63–63)
 
@@ -187,7 +191,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -199,7 +203,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.6 – Pia casa di lavoro di Montedomini – Teil 6/163 (Y 63–63)
 
@@ -215,7 +219,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -227,7 +231,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.7 – Pia casa di lavoro di Montedomini – Teil 7/163 (Y 63–63)
 
@@ -243,7 +247,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -255,7 +259,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.8 – Pia casa di lavoro di Montedomini – Teil 8/163 (Y 63–63)
 
@@ -271,7 +275,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -283,7 +287,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.9 – Pia casa di lavoro di Montedomini – Teil 9/163 (Y 63–63)
 
@@ -299,7 +303,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -311,7 +315,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.10 – Pia casa di lavoro di Montedomini – Teil 10/163 (Y 63–63)
 
@@ -327,7 +331,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -339,7 +343,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.11 – Pia casa di lavoro di Montedomini – Teil 11/163 (Y 63–63)
 
@@ -355,7 +359,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -367,7 +371,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.12 – Pia casa di lavoro di Montedomini – Teil 12/163 (Y 63–63)
 
@@ -383,7 +387,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -395,7 +399,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.13 – Pia casa di lavoro di Montedomini – Teil 13/163 (Y 63–63)
 
@@ -411,7 +415,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -423,7 +427,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.14 – Pia casa di lavoro di Montedomini – Teil 14/163 (Y 63–63)
 
@@ -439,7 +443,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -451,7 +455,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.15 – Pia casa di lavoro di Montedomini – Teil 15/163 (Y 63–63)
 
@@ -467,7 +471,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -479,7 +483,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.16 – Pia casa di lavoro di Montedomini – Teil 16/163 (Y 63–63)
 
@@ -495,7 +499,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -507,7 +511,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.17 – Pia casa di lavoro di Montedomini – Teil 17/163 (Y 63–63)
 
@@ -523,7 +527,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -535,7 +539,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.18 – Pia casa di lavoro di Montedomini – Teil 18/163 (Y 63–63)
 
@@ -551,7 +555,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -563,7 +567,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.19 – Pia casa di lavoro di Montedomini – Teil 19/163 (Y 63–63)
 
@@ -579,7 +583,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -591,7 +595,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.20 – Pia casa di lavoro di Montedomini – Teil 20/163 (Y 63–63)
 
@@ -607,7 +611,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -619,7 +623,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.21 – Pia casa di lavoro di Montedomini – Teil 21/163 (Y 63–63)
 
@@ -635,7 +639,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -647,7 +651,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.22 – Pia casa di lavoro di Montedomini – Teil 22/163 (Y 63–63)
 
@@ -663,7 +667,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -675,7 +679,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.23 – Pia casa di lavoro di Montedomini – Teil 23/163 (Y 63–63)
 
@@ -691,7 +695,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -703,7 +707,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.24 – Pia casa di lavoro di Montedomini – Teil 24/163 (Y 63–63)
 
@@ -719,7 +723,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -731,7 +735,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.25 – Pia casa di lavoro di Montedomini – Teil 25/163 (Y 63–63)
 
@@ -747,7 +751,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -759,7 +763,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.26 – Pia casa di lavoro di Montedomini – Teil 26/163 (Y 63–63)
 
@@ -775,7 +779,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -787,7 +791,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.27 – Pia casa di lavoro di Montedomini – Teil 27/163 (Y 63–63)
 
@@ -803,7 +807,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -815,7 +819,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.28 – Pia casa di lavoro di Montedomini – Teil 28/163 (Y 63–63)
 
@@ -831,7 +835,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -843,7 +847,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.29 – Pia casa di lavoro di Montedomini – Teil 29/163 (Y 63–63)
 
@@ -859,7 +863,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -871,24 +875,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.30 – Pia casa di lavoro di Montedomini – Teil 30/163 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.641
+- **Blöcke:** 1.632
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.634 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Orange Keramik | `orange_terracotta` | 1.619 |
+| Polierter Andesit | `polished_andesite` | 13 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -900,24 +904,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.31 – Pia casa di lavoro di Montedomini – Teil 31/163 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.624
+- **Blöcke:** 1.633
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.620 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Orange Keramik | `orange_terracotta` | 1.633 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -929,7 +932,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.32 – Pia casa di lavoro di Montedomini – Teil 32/163 (Y 64–64)
 
@@ -946,7 +949,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -958,54 +961,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.33 – Pia casa di lavoro di Montedomini – Teil 33/163 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.641
+- **Blöcke:** 1.632
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.638 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.34 – Pia casa di lavoro di Montedomini – Teil 34/163 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.624
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.620 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Orange Keramik | `orange_terracotta` | 1.623 |
+| Polierter Andesit | `polished_andesite` | 7 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1017,7 +991,35 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.34 – Pia casa di lavoro di Montedomini – Teil 34/163 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.633
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.633 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.35 – Pia casa di lavoro di Montedomini – Teil 35/163 (Y 65–65)
 
@@ -1034,7 +1036,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1046,24 +1048,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.36 – Pia casa di lavoro di Montedomini – Teil 36/163 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.747
+- **Blöcke:** 1.737
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.289 |
+| Orange Keramik | `orange_terracotta` | 1.279 |
 | Polierter Andesit | `polished_andesite` | 458 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1075,24 +1077,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.37 – Pia casa di lavoro di Montedomini – Teil 37/163 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.739
+- **Blöcke:** 1.748
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.336 |
-| Polierter Andesit | `polished_andesite` | 403 |
+| Orange Keramik | `orange_terracotta` | 1.343 |
+| Polierter Andesit | `polished_andesite` | 405 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1104,7 +1106,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.38 – Pia casa di lavoro di Montedomini – Teil 38/163 (Y 66–66)
 
@@ -1121,7 +1123,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1133,58 +1135,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.39 – Pia casa di lavoro di Montedomini – Teil 39/163 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.514
+- **Blöcke:** 1.517
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.154 |
-| Polierter Andesit | `polished_andesite` | 196 |
-| Graues Buntglas | `gray_stained_glass` | 157 |
+| Orange Keramik | `orange_terracotta` | 1.153 |
+| Polierter Andesit | `polished_andesite` | 199 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
 | Grüner Beton | `green_concrete` | 7 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.40 – Pia casa di lavoro di Montedomini – Teil 40/163 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.521
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.183 |
-| Graues Buntglas | `gray_stained_glass` | 152 |
-| Polierter Andesit | `polished_andesite` | 142 |
-| Grüner Beton | `green_concrete` | 42 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1196,7 +1167,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.40 – Pia casa di lavoro di Montedomini – Teil 40/163 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.517
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.180 |
+| Graues Buntglas | `gray_stained_glass` | 152 |
+| Polierter Andesit | `polished_andesite` | 143 |
+| Grüner Beton | `green_concrete` | 42 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.41 – Pia casa di lavoro di Montedomini – Teil 41/163 (Y 67–67)
 
@@ -1215,7 +1217,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1227,26 +1229,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.42 – Pia casa di lavoro di Montedomini – Teil 42/163 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.514
+- **Blöcke:** 1.517
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.150 |
-| Polierter Andesit | `polished_andesite` | 200 |
-| Graues Buntglas | `gray_stained_glass` | 157 |
+| Orange Keramik | `orange_terracotta` | 1.149 |
+| Polierter Andesit | `polished_andesite` | 205 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
 | Grüner Beton | `green_concrete` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1258,26 +1260,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.43 – Pia casa di lavoro di Montedomini – Teil 43/163 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.521
+- **Blöcke:** 1.517
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.183 |
+| Orange Keramik | `orange_terracotta` | 1.180 |
 | Graues Buntglas | `gray_stained_glass` | 152 |
-| Polierter Andesit | `polished_andesite` | 144 |
+| Polierter Andesit | `polished_andesite` | 143 |
 | Grüner Beton | `green_concrete` | 42 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1289,7 +1291,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.44 – Pia casa di lavoro di Montedomini – Teil 44/163 (Y 68–68)
 
@@ -1308,7 +1310,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1320,12 +1322,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.45 – Pia casa di lavoro di Montedomini – Teil 45/163 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.514
+- **Blöcke:** 1.518
 - **Bauteile:** `r1607712`
 
 **Teileliste**
@@ -1333,13 +1335,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.154 |
-| Polierter Andesit | `polished_andesite` | 196 |
-| Graues Buntglas | `gray_stained_glass` | 157 |
+| Polierter Andesit | `polished_andesite` | 199 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
 | Grüner Beton | `green_concrete` | 7 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1351,27 +1354,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.46 – Pia casa di lavoro di Montedomini – Teil 46/163 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.521
+- **Blöcke:** 1.517
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.183 |
+| Orange Keramik | `orange_terracotta` | 1.180 |
 | Graues Buntglas | `gray_stained_glass` | 152 |
-| Polierter Andesit | `polished_andesite` | 142 |
+| Polierter Andesit | `polished_andesite` | 143 |
 | Grüner Beton | `green_concrete` | 42 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1383,7 +1385,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.47 – Pia casa di lavoro di Montedomini – Teil 47/163 (Y 69–69)
 
@@ -1402,7 +1404,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1414,26 +1416,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.48 – Pia casa di lavoro di Montedomini – Teil 48/163 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.525
+- **Blöcke:** 1.520
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.158 |
-| Polierter Andesit | `polished_andesite` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 159 |
+| Orange Keramik | `orange_terracotta` | 1.150 |
+| Polierter Andesit | `polished_andesite` | 207 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
 | Grüner Beton | `green_concrete` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1445,26 +1447,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.49 – Pia casa di lavoro di Montedomini – Teil 49/163 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.513
+- **Blöcke:** 1.517
 - **Bauteile:** `r1607712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.176 |
-| Graues Buntglas | `gray_stained_glass` | 150 |
-| Polierter Andesit | `polished_andesite` | 145 |
+| Orange Keramik | `orange_terracotta` | 1.180 |
+| Graues Buntglas | `gray_stained_glass` | 152 |
+| Polierter Andesit | `polished_andesite` | 143 |
 | Grüner Beton | `green_concrete` | 42 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1476,7 +1478,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.50 – Pia casa di lavoro di Montedomini – Teil 50/163 (Y 70–70)
 
@@ -1495,7 +1497,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1507,7 +1509,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.51 – Pia casa di lavoro di Montedomini – Teil 51/163 (Y 71–71)
 
@@ -1519,12 +1521,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.284 |
-| Polierter Andesit | `polished_andesite` | 357 |
+| Orange Keramik | `orange_terracotta` | 1.278 |
+| Polierter Andesit | `polished_andesite` | 360 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1536,7 +1539,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.52 – Pia casa di lavoro di Montedomini – Teil 52/163 (Y 71–71)
 
@@ -1548,13 +1551,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.330 |
+| Orange Keramik | `orange_terracotta` | 1.334 |
 | Polierter Andesit | `polished_andesite` | 299 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1566,7 +1568,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.53 – Pia casa di lavoro di Montedomini – Teil 53/163 (Y 71–71)
 
@@ -1583,7 +1585,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1595,7 +1597,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.54 – Pia casa di lavoro di Montedomini – Teil 54/163 (Y 72–72)
 
@@ -1607,12 +1609,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.634 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Orange Keramik | `orange_terracotta` | 1.625 |
+| Polierter Andesit | `polished_andesite` | 11 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1624,7 +1627,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.55 – Pia casa di lavoro di Montedomini – Teil 55/163 (Y 72–72)
 
@@ -1636,13 +1639,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.624 |
-| Polierter Andesit | `polished_andesite` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Orange Keramik | `orange_terracotta` | 1.633 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1654,7 +1655,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.56 – Pia casa di lavoro di Montedomini – Teil 56/163 (Y 72–72)
 
@@ -1671,7 +1672,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1683,7 +1684,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.57 – Pia casa di lavoro di Montedomini – Teil 57/163 (Y 73–73)
 
@@ -1700,7 +1701,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1712,7 +1713,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.58 – Pia casa di lavoro di Montedomini – Teil 58/163 (Y 73–73)
 
@@ -1729,7 +1730,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1741,7 +1742,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.59 – Pia casa di lavoro di Montedomini – Teil 59/163 (Y 73–73)
 
@@ -1758,7 +1759,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1770,7 +1771,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.60 – Pia casa di lavoro di Montedomini – Teil 60/163 (Y 74–74)
 
@@ -1787,7 +1788,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1799,7 +1800,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.61 – Pia casa di lavoro di Montedomini – Teil 61/163 (Y 74–74)
 
@@ -1815,7 +1816,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1827,7 +1828,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.62 – Pia casa di lavoro di Montedomini – Teil 62/163 (Y 74–74)
 
@@ -1844,7 +1845,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1856,7 +1857,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.63 – Pia casa di lavoro di Montedomini – Teil 63/163 (Y 75–75)
 
@@ -1873,7 +1874,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1885,7 +1886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.64 – Pia casa di lavoro di Montedomini – Teil 64/163 (Y 75–75)
 
@@ -1902,7 +1903,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1914,7 +1915,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.65 – Pia casa di lavoro di Montedomini – Teil 65/163 (Y 75–75)
 
@@ -1931,7 +1932,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1943,7 +1944,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.66 – Pia casa di lavoro di Montedomini – Teil 66/163 (Y 76–76)
 
@@ -1962,7 +1963,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1974,7 +1975,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.67 – Pia casa di lavoro di Montedomini – Teil 67/163 (Y 76–76)
 
@@ -1993,7 +1994,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2005,7 +2006,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.68 – Pia casa di lavoro di Montedomini – Teil 68/163 (Y 76–76)
 
@@ -2024,7 +2025,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2036,7 +2037,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.69 – Pia casa di lavoro di Montedomini – Teil 69/163 (Y 77–77)
 
@@ -2055,7 +2056,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2067,7 +2068,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.70 – Pia casa di lavoro di Montedomini – Teil 70/163 (Y 77–77)
 
@@ -2086,7 +2087,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2098,7 +2099,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.71 – Pia casa di lavoro di Montedomini – Teil 71/163 (Y 77–77)
 
@@ -2117,7 +2118,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2129,7 +2130,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.72 – Pia casa di lavoro di Montedomini – Teil 72/163 (Y 78–78)
 
@@ -2148,7 +2149,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2160,7 +2161,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.73 – Pia casa di lavoro di Montedomini – Teil 73/163 (Y 78–78)
 
@@ -2179,7 +2180,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2191,7 +2192,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.74 – Pia casa di lavoro di Montedomini – Teil 74/163 (Y 78–78)
 
@@ -2210,7 +2211,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2222,7 +2223,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.75 – Pia casa di lavoro di Montedomini – Teil 75/163 (Y 79–79)
 
@@ -2241,7 +2242,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2253,7 +2254,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.76 – Pia casa di lavoro di Montedomini – Teil 76/163 (Y 79–79)
 
@@ -2272,7 +2273,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2284,7 +2285,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.77 – Pia casa di lavoro di Montedomini – Teil 77/163 (Y 79–79)
 
@@ -2303,7 +2304,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2315,7 +2316,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.78 – Pia casa di lavoro di Montedomini – Teil 78/163 (Y 80–80)
 
@@ -2334,7 +2335,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2346,7 +2347,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.79 – Pia casa di lavoro di Montedomini – Teil 79/163 (Y 80–80)
 
@@ -2365,7 +2366,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2377,7 +2378,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.80 – Pia casa di lavoro di Montedomini – Teil 80/163 (Y 80–80)
 
@@ -2396,7 +2397,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2408,448 +2409,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.81 – Pia casa di lavoro di Montedomini – Teil 81/163 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.641
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.284 |
-| Polierter Andesit | `polished_andesite` | 357 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.82 – Pia casa di lavoro di Montedomini – Teil 82/163 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.633
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.334 |
-| Polierter Andesit | `polished_andesite` | 299 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.83 – Pia casa di lavoro di Montedomini – Teil 83/163 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.638
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.252 |
-| Polierter Andesit | `polished_andesite` | 386 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.84 – Pia casa di lavoro di Montedomini – Teil 84/163 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.641
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.083 |
-| Polierter Andesit | `polished_andesite` | 558 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.85 – Pia casa di lavoro di Montedomini – Teil 85/163 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.633
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.191 |
-| Polierter Andesit | `polished_andesite` | 442 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.86 – Pia casa di lavoro di Montedomini – Teil 86/163 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.638
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.056 |
-| Polierter Andesit | `polished_andesite` | 582 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.87 – Pia casa di lavoro di Montedomini – Teil 87/163 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.641
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 945 |
-| Polierter Andesit | `polished_andesite` | 354 |
-| Glatter Stein | `smooth_stone` | 342 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.88 – Pia casa di lavoro di Montedomini – Teil 88/163 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.633
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.076 |
-| Polierter Andesit | `polished_andesite` | 299 |
-| Glatter Stein | `smooth_stone` | 258 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.89 – Pia casa di lavoro di Montedomini – Teil 89/163 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.638
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 961 |
-| Polierter Andesit | `polished_andesite` | 384 |
-| Glatter Stein | `smooth_stone` | 293 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.90 – Pia casa di lavoro di Montedomini – Teil 90/163 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.641
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.634 |
-| Polierter Andesit | `polished_andesite` | 7 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.91 – Pia casa di lavoro di Montedomini – Teil 91/163 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.633
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.633 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.92 – Pia casa di lavoro di Montedomini – Teil 92/163 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.638
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.630 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.93 – Pia casa di lavoro di Montedomini – Teil 93/163 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.747
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.293 |
-| Polierter Andesit | `polished_andesite` | 454 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.94 – Pia casa di lavoro di Montedomini – Teil 94/163 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.739
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.335 |
-| Polierter Andesit | `polished_andesite` | 404 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.95 – Pia casa di lavoro di Montedomini – Teil 95/163 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.748
-- **Bauteile:** `r1607712`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.242 |
-| Polierter Andesit | `polished_andesite` | 506 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.96 – Pia casa di lavoro di Montedomini – Teil 96/163 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.525
 - **Bauteile:** `r1607712`
 
@@ -2857,14 +2421,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.158 |
-| Polierter Andesit | `polished_andesite` | 201 |
+| Orange Keramik | `orange_terracotta` | 1.162 |
+| Polierter Andesit | `polished_andesite` | 197 |
 | Graues Buntglas | `gray_stained_glass` | 159 |
 | Grüner Beton | `green_concrete` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2876,11 +2440,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 49.97 – Pia casa di lavoro di Montedomini – Teil 97/163 (Y 86–86)
+### Schritt 49.82 – Pia casa di lavoro di Montedomini – Teil 82/163 (Y 81–81)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.517
 - **Bauteile:** `r1607712`
 
@@ -2895,7 +2459,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2907,11 +2471,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 49.98 – Pia casa di lavoro di Montedomini – Teil 98/163 (Y 86–86)
+### Schritt 49.83 – Pia casa di lavoro di Montedomini – Teil 83/163 (Y 81–81)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.522
 - **Bauteile:** `r1607712`
 
@@ -2919,14 +2483,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.053 |
-| Polierter Andesit | `polished_andesite` | 203 |
+| Orange Keramik | `orange_terracotta` | 1.059 |
+| Polierter Andesit | `polished_andesite` | 197 |
 | Graues Buntglas | `gray_stained_glass` | 194 |
 | Grüner Beton | `green_concrete` | 72 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2938,7 +2502,444 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.84 – Pia casa di lavoro di Montedomini – Teil 84/163 (Y 82–82)
+
+- **Y-Bereich:** 82 bis 82
+- **Blöcke:** 1.641
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.280 |
+| Polierter Andesit | `polished_andesite` | 361 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.85 – Pia casa di lavoro di Montedomini – Teil 85/163 (Y 82–82)
+
+- **Y-Bereich:** 82 bis 82
+- **Blöcke:** 1.633
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.334 |
+| Polierter Andesit | `polished_andesite` | 299 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.86 – Pia casa di lavoro di Montedomini – Teil 86/163 (Y 82–82)
+
+- **Y-Bereich:** 82 bis 82
+- **Blöcke:** 1.638
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.246 |
+| Polierter Andesit | `polished_andesite` | 392 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.87 – Pia casa di lavoro di Montedomini – Teil 87/163 (Y 83–83)
+
+- **Y-Bereich:** 83 bis 83
+- **Blöcke:** 1.641
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.087 |
+| Polierter Andesit | `polished_andesite` | 554 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.88 – Pia casa di lavoro di Montedomini – Teil 88/163 (Y 83–83)
+
+- **Y-Bereich:** 83 bis 83
+- **Blöcke:** 1.633
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.191 |
+| Polierter Andesit | `polished_andesite` | 442 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.89 – Pia casa di lavoro di Montedomini – Teil 89/163 (Y 83–83)
+
+- **Y-Bereich:** 83 bis 83
+- **Blöcke:** 1.638
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.062 |
+| Polierter Andesit | `polished_andesite` | 576 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.90 – Pia casa di lavoro di Montedomini – Teil 90/163 (Y 84–84)
+
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.641
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 945 |
+| Polierter Andesit | `polished_andesite` | 354 |
+| Glatter Stein | `smooth_stone` | 342 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.91 – Pia casa di lavoro di Montedomini – Teil 91/163 (Y 84–84)
+
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.633
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.076 |
+| Polierter Andesit | `polished_andesite` | 299 |
+| Glatter Stein | `smooth_stone` | 258 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.92 – Pia casa di lavoro di Montedomini – Teil 92/163 (Y 84–84)
+
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.638
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 961 |
+| Polierter Andesit | `polished_andesite` | 384 |
+| Glatter Stein | `smooth_stone` | 293 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.93 – Pia casa di lavoro di Montedomini – Teil 93/163 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.641
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.638 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.94 – Pia casa di lavoro di Montedomini – Teil 94/163 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.633
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.633 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.95 – Pia casa di lavoro di Montedomini – Teil 95/163 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.638
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.636 |
+| Polierter Andesit | `polished_andesite` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.96 – Pia casa di lavoro di Montedomini – Teil 96/163 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.747
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.289 |
+| Polierter Andesit | `polished_andesite` | 458 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.97 – Pia casa di lavoro di Montedomini – Teil 97/163 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.739
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.335 |
+| Polierter Andesit | `polished_andesite` | 404 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 49.98 – Pia casa di lavoro di Montedomini – Teil 98/163 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.748
+- **Bauteile:** `r1607712`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.236 |
+| Polierter Andesit | `polished_andesite` | 512 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.99 – Pia casa di lavoro di Montedomini – Teil 99/163 (Y 87–87)
 
@@ -2957,7 +2958,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -2969,7 +2970,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.100 – Pia casa di lavoro di Montedomini – Teil 100/163 (Y 87–87)
 
@@ -2988,7 +2989,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3000,7 +3001,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.101 – Pia casa di lavoro di Montedomini – Teil 101/163 (Y 87–87)
 
@@ -3019,7 +3020,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3031,7 +3032,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.102 – Pia casa di lavoro di Montedomini – Teil 102/163 (Y 88–88)
 
@@ -3050,7 +3051,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3062,7 +3063,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.103 – Pia casa di lavoro di Montedomini – Teil 103/163 (Y 88–88)
 
@@ -3081,7 +3082,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3093,7 +3094,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.104 – Pia casa di lavoro di Montedomini – Teil 104/163 (Y 88–88)
 
@@ -3112,7 +3113,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3124,7 +3125,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.105 – Pia casa di lavoro di Montedomini – Teil 105/163 (Y 89–89)
 
@@ -3143,7 +3144,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3155,7 +3156,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.106 – Pia casa di lavoro di Montedomini – Teil 106/163 (Y 89–89)
 
@@ -3174,7 +3175,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3186,7 +3187,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.107 – Pia casa di lavoro di Montedomini – Teil 107/163 (Y 89–89)
 
@@ -3205,7 +3206,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3217,7 +3218,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.108 – Pia casa di lavoro di Montedomini – Teil 108/163 (Y 90–90)
 
@@ -3236,7 +3237,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3248,7 +3249,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.109 – Pia casa di lavoro di Montedomini – Teil 109/163 (Y 90–90)
 
@@ -3267,7 +3268,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3279,7 +3280,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.110 – Pia casa di lavoro di Montedomini – Teil 110/163 (Y 90–90)
 
@@ -3298,7 +3299,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3310,7 +3311,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.111 – Pia casa di lavoro di Montedomini – Teil 111/163 (Y 91–91)
 
@@ -3327,7 +3328,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3339,7 +3340,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.112 – Pia casa di lavoro di Montedomini – Teil 112/163 (Y 91–91)
 
@@ -3356,7 +3357,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3368,7 +3369,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.113 – Pia casa di lavoro di Montedomini – Teil 113/163 (Y 91–91)
 
@@ -3385,7 +3386,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3397,7 +3398,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.114 – Pia casa di lavoro di Montedomini – Teil 114/163 (Y 92–92)
 
@@ -3414,7 +3415,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3426,7 +3427,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.115 – Pia casa di lavoro di Montedomini – Teil 115/163 (Y 92–92)
 
@@ -3443,7 +3444,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3455,7 +3456,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.116 – Pia casa di lavoro di Montedomini – Teil 116/163 (Y 92–92)
 
@@ -3472,7 +3473,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3484,7 +3485,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.117 – Pia casa di lavoro di Montedomini – Teil 117/163 (Y 93–93)
 
@@ -3501,7 +3502,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3513,7 +3514,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.118 – Pia casa di lavoro di Montedomini – Teil 118/163 (Y 93–93)
 
@@ -3529,7 +3530,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3541,7 +3542,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.119 – Pia casa di lavoro di Montedomini – Teil 119/163 (Y 93–93)
 
@@ -3558,7 +3559,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3570,7 +3571,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.120 – Pia casa di lavoro di Montedomini – Teil 120/163 (Y 94–94)
 
@@ -3586,7 +3587,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3598,7 +3599,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.121 – Pia casa di lavoro di Montedomini – Teil 121/163 (Y 94–94)
 
@@ -3614,7 +3615,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3626,7 +3627,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.122 – Pia casa di lavoro di Montedomini – Teil 122/163 (Y 94–94)
 
@@ -3642,7 +3643,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3654,7 +3655,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.123 – Pia casa di lavoro di Montedomini – Teil 123/163 (Y 94–94)
 
@@ -3670,7 +3671,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3682,7 +3683,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.124 – Pia casa di lavoro di Montedomini – Teil 124/163 (Y 94–94)
 
@@ -3698,7 +3699,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3710,7 +3711,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.125 – Pia casa di lavoro di Montedomini – Teil 125/163 (Y 94–94)
 
@@ -3726,7 +3727,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3738,7 +3739,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.126 – Pia casa di lavoro di Montedomini – Teil 126/163 (Y 94–94)
 
@@ -3754,7 +3755,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3766,7 +3767,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.127 – Pia casa di lavoro di Montedomini – Teil 127/163 (Y 95–95)
 
@@ -3782,7 +3783,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3794,7 +3795,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.128 – Pia casa di lavoro di Montedomini – Teil 128/163 (Y 95–95)
 
@@ -3810,7 +3811,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3822,7 +3823,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.129 – Pia casa di lavoro di Montedomini – Teil 129/163 (Y 95–95)
 
@@ -3838,7 +3839,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3850,7 +3851,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.130 – Pia casa di lavoro di Montedomini – Teil 130/163 (Y 95–95)
 
@@ -3866,7 +3867,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3878,7 +3879,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.131 – Pia casa di lavoro di Montedomini – Teil 131/163 (Y 95–95)
 
@@ -3894,7 +3895,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3906,7 +3907,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.132 – Pia casa di lavoro di Montedomini – Teil 132/163 (Y 96–96)
 
@@ -3922,7 +3923,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3934,7 +3935,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.133 – Pia casa di lavoro di Montedomini – Teil 133/163 (Y 96–96)
 
@@ -3950,7 +3951,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3962,7 +3963,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.134 – Pia casa di lavoro di Montedomini – Teil 134/163 (Y 96–96)
 
@@ -3978,7 +3979,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -3990,7 +3991,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.135 – Pia casa di lavoro di Montedomini – Teil 135/163 (Y 96–96)
 
@@ -4006,7 +4007,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4018,7 +4019,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.136 – Pia casa di lavoro di Montedomini – Teil 136/163 (Y 96–96)
 
@@ -4034,7 +4035,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4046,7 +4047,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.137 – Pia casa di lavoro di Montedomini – Teil 137/163 (Y 97–97)
 
@@ -4063,7 +4064,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4075,7 +4076,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.138 – Pia casa di lavoro di Montedomini – Teil 138/163 (Y 97–97)
 
@@ -4092,7 +4093,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4104,7 +4105,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.139 – Pia casa di lavoro di Montedomini – Teil 139/163 (Y 97–97)
 
@@ -4121,7 +4122,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4133,7 +4134,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.140 – Pia casa di lavoro di Montedomini – Teil 140/163 (Y 97–97)
 
@@ -4149,7 +4150,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4161,7 +4162,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.141 – Pia casa di lavoro di Montedomini – Teil 141/163 (Y 97–97)
 
@@ -4178,7 +4179,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4190,7 +4191,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.142 – Pia casa di lavoro di Montedomini – Teil 142/163 (Y 98–98)
 
@@ -4207,7 +4208,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4219,7 +4220,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.143 – Pia casa di lavoro di Montedomini – Teil 143/163 (Y 98–98)
 
@@ -4236,7 +4237,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4248,7 +4249,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.144 – Pia casa di lavoro di Montedomini – Teil 144/163 (Y 98–98)
 
@@ -4265,7 +4266,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4277,7 +4278,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.145 – Pia casa di lavoro di Montedomini – Teil 145/163 (Y 98–98)
 
@@ -4294,7 +4295,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4306,7 +4307,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.146 – Pia casa di lavoro di Montedomini – Teil 146/163 (Y 99–99)
 
@@ -4323,7 +4324,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4335,7 +4336,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.147 – Pia casa di lavoro di Montedomini – Teil 147/163 (Y 99–99)
 
@@ -4352,7 +4353,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4364,7 +4365,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.148 – Pia casa di lavoro di Montedomini – Teil 148/163 (Y 99–99)
 
@@ -4381,7 +4382,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4393,7 +4394,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.149 – Pia casa di lavoro di Montedomini – Teil 149/163 (Y 99–99)
 
@@ -4410,7 +4411,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4422,7 +4423,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.150 – Pia casa di lavoro di Montedomini – Teil 150/163 (Y 100–100)
 
@@ -4439,7 +4440,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4451,7 +4452,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.151 – Pia casa di lavoro di Montedomini – Teil 151/163 (Y 100–100)
 
@@ -4468,7 +4469,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4480,7 +4481,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.152 – Pia casa di lavoro di Montedomini – Teil 152/163 (Y 100–100)
 
@@ -4497,7 +4498,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4509,7 +4510,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.153 – Pia casa di lavoro di Montedomini – Teil 153/163 (Y 100–100)
 
@@ -4526,7 +4527,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4538,7 +4539,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.154 – Pia casa di lavoro di Montedomini – Teil 154/163 (Y 101–101)
 
@@ -4555,7 +4556,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4567,7 +4568,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.155 – Pia casa di lavoro di Montedomini – Teil 155/163 (Y 101–101)
 
@@ -4584,7 +4585,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4596,7 +4597,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.156 – Pia casa di lavoro di Montedomini – Teil 156/163 (Y 101–101)
 
@@ -4613,7 +4614,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4625,7 +4626,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.157 – Pia casa di lavoro di Montedomini – Teil 157/163 (Y 102–102)
 
@@ -4642,7 +4643,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4654,7 +4655,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.158 – Pia casa di lavoro di Montedomini – Teil 158/163 (Y 102–102)
 
@@ -4671,7 +4672,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4683,7 +4684,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.159 – Pia casa di lavoro di Montedomini – Teil 159/163 (Y 102–102)
 
@@ -4700,7 +4701,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4712,7 +4713,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.160 – Pia casa di lavoro di Montedomini – Teil 160/163 (Y 103–103)
 
@@ -4729,7 +4730,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4741,7 +4742,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.161 – Pia casa di lavoro di Montedomini – Teil 161/163 (Y 103–103)
 
@@ -4758,7 +4759,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4770,7 +4771,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.162 – Pia casa di lavoro di Montedomini – Teil 162/163 (Y 104–104)
 
@@ -4787,7 +4788,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4799,7 +4800,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.163 – Pia casa di lavoro di Montedomini – Teil 163/163 (Y 104–105)
 
@@ -4816,7 +4817,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (neoklassizistische Fassade 1808-13 (Giuseppe Del Rosso); weitere Fronten ab 1866/1872), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Pia_Casa_di_Lavoro_di_Montedomini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -4828,7 +4829,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 49.164 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 1/53 (Y 63–72)
 
@@ -5599,10 +5600,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.190 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 27/53 (Y 73–82)
+### Schritt 49.190 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 27/53 (Y 73–81)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 2.099
+- **Y-Bereich:** 73 bis 81
+- **Blöcke:** 2.098
 - **Bauteile:** `r1607712_innen`
 
 **Teileliste**
@@ -5610,18 +5611,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.038 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 4 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -5639,10 +5644,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.191 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 28/53 (Y 83–83)
+### Schritt 49.191 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 28/53 (Y 82–84)
 
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.050
+- **Y-Bereich:** 82 bis 84
+- **Blöcke:** 2.058
 - **Bauteile:** `r1607712_innen`
 
 **Teileliste**
@@ -5651,6 +5656,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.041 |
 | Seelaterne | `sea_lantern` | 9 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 4 |
 
 **Beschreibung**
 
@@ -5668,9 +5681,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.192 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 29/53 (Y 83–83)
+### Schritt 49.192 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 29/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -5697,9 +5710,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.193 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 30/53 (Y 83–83)
+### Schritt 49.193 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 30/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -5733,9 +5746,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.194 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 31/53 (Y 83–83)
+### Schritt 49.194 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 31/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -5762,9 +5775,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.195 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 32/53 (Y 83–83)
+### Schritt 49.195 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 32/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -5791,9 +5804,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.196 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 33/53 (Y 83–83)
+### Schritt 49.196 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 33/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -5820,9 +5833,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.197 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 34/53 (Y 83–83)
+### Schritt 49.197 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 34/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -5849,9 +5862,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.198 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 35/53 (Y 83–83)
+### Schritt 49.198 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 35/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -5878,9 +5891,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.199 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 36/53 (Y 83–83)
+### Schritt 49.199 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 36/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -5907,9 +5920,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.200 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 37/53 (Y 83–83)
+### Schritt 49.200 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 37/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -5936,9 +5949,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.201 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 38/53 (Y 83–83)
+### Schritt 49.201 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 38/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -5965,9 +5978,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.202 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 39/53 (Y 83–83)
+### Schritt 49.202 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 39/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -5994,9 +6007,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.203 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 40/53 (Y 83–83)
+### Schritt 49.203 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 40/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -6023,9 +6036,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.204 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 41/53 (Y 83–83)
+### Schritt 49.204 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 41/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -6052,9 +6065,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.205 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 42/53 (Y 83–83)
+### Schritt 49.205 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 42/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -6081,9 +6094,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.206 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 43/53 (Y 83–83)
+### Schritt 49.206 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 43/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -6110,9 +6123,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.207 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 44/53 (Y 83–83)
+### Schritt 49.207 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 44/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -6139,9 +6152,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.208 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 45/53 (Y 83–83)
+### Schritt 49.208 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 45/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -6168,9 +6181,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.209 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 46/53 (Y 83–83)
+### Schritt 49.209 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 46/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -6197,9 +6210,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.210 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 47/53 (Y 83–83)
+### Schritt 49.210 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 47/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -6226,9 +6239,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.211 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 48/53 (Y 83–83)
+### Schritt 49.211 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 48/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -6255,9 +6268,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.212 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 49/53 (Y 83–83)
+### Schritt 49.212 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 49/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -6284,9 +6297,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.213 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 50/53 (Y 83–83)
+### Schritt 49.213 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 50/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -6313,9 +6326,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.214 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 51/53 (Y 83–83)
+### Schritt 49.214 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 51/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.049
 - **Bauteile:** `r1607712_innen`
 
@@ -6342,9 +6355,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.215 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 52/53 (Y 83–83)
+### Schritt 49.215 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 52/53 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.050
 - **Bauteile:** `r1607712_innen`
 
@@ -6371,9 +6384,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.216 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 53/53 (Y 83–84)
+### Schritt 49.216 – Pia casa di lavoro di Montedomini: Innenausbau – Teil 53/53 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 2.055
 - **Bauteile:** `r1607712_innen`
 

@@ -8,37 +8,37 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.347 |
+| Blöcke | 10.372 |
 | Bauschritte | 6 |
 | Y-Bereich | 64 bis 101 |
 | X-Ausdehnung | -380 bis -347 (34 Blöcke) |
 | Z-Ausdehnung | 849 bis 887 (39 Blöcke) |
 | Kleinster Schritt | 1.538 Blöcke (Schritt 9.6) |
-| Mittlerer Schritt | 1.725 Blöcke |
+| Mittlerer Schritt | 1.729 Blöcke |
 | Größter Schritt | 1.867 Blöcke (Schritt 9.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 5.001 | 48,3 % |
+| Tuffstein | `tuff` | 5.274 | 50,8 % |
 | Terrakotta | `terracotta` | 2.465 | 23,8 % |
-| Polierter Andesit | `polished_andesite` | 925 | 8,9 % |
+| Polierter Andesit | `polished_andesite` | 713 | 6,9 % |
 | Polierter Tuffstein | `polished_tuff` | 702 | 6,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 414 | 4,0 % |
-| Graues Buntglas | `gray_stained_glass` | 366 | 3,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 443 | 4,3 % |
+| Graues Buntglas | `gray_stained_glass` | 301 | 2,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 246 | 2,4 % |
 | Ziegelsteine | `bricks` | 73 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,7 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 | 0,2 % |
 | Seelaterne | `sea_lantern` | 12 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -50,7 +50,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w115190032` | Torre dei Salterelli | 8.809 | 9.1–9.5 |
+| 1 | `w115190032` | Torre dei Salterelli | 8.834 | 9.1–9.5 |
 | 2 | `w115190032_innen` | Torre dei Salterelli: Innenausbau | 1.535 | 9.6 |
 | 3 | `strassenschilder` | Straßenschilder | 3 | 9.6 |
 
@@ -59,22 +59,21 @@
 ### Schritt 9.1 – Torre dei Salterelli – Teil 1/5 (Y 64–69)
 
 - **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.812
+- **Blöcke:** 1.822
 - **Bauteile:** `w115190032`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 831 |
+| Tuffstein | `tuff` | 1.005 |
 | Polierter Tuffstein | `polished_tuff` | 702 |
-| Polierter Andesit | `polished_andesite` | 157 |
-| Tuffsteinziegel | `tuff_bricks` | 80 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
+| Tuffsteinziegel | `tuff_bricks` | 98 |
+| Polierter Andesit | `polished_andesite` | 17 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich, Wiederaufbau nach 1944), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Salterelli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -86,26 +85,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.2 – Torre dei Salterelli – Teil 2/5 (Y 70–77)
 
 - **Y-Bereich:** 70 bis 77
-- **Blöcke:** 1.760
+- **Blöcke:** 1.775
 - **Bauteile:** `w115190032`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.254 |
-| Polierter Andesit | `polished_andesite` | 262 |
-| Graues Buntglas | `gray_stained_glass` | 136 |
-| Tuffsteinziegel | `tuff_bricks` | 108 |
+| Tuffstein | `tuff` | 1.353 |
+| Polierter Andesit | `polished_andesite` | 190 |
+| Tuffsteinziegel | `tuff_bricks` | 119 |
+| Graues Buntglas | `gray_stained_glass` | 113 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich, Wiederaufbau nach 1944), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Salterelli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -117,7 +116,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.3 – Torre dei Salterelli – Teil 3/5 (Y 78–85)
 
@@ -136,7 +135,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich, Wiederaufbau nach 1944), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Salterelli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -148,7 +147,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.4 – Torre dei Salterelli – Teil 4/5 (Y 86–92)
 
@@ -167,7 +166,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich, Wiederaufbau nach 1944), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Salterelli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -179,7 +178,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.5 – Torre dei Salterelli – Teil 5/5 (Y 93–101)
 
@@ -200,7 +199,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (mittelalterlich, Wiederaufbau nach 1944), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Salterelli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -212,7 +211,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.6 – Torre dei Salterelli: Innenausbau & Straßenschilder
 
@@ -226,15 +225,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.383 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

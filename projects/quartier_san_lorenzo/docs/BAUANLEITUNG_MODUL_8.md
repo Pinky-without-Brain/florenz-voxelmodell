@@ -8,48 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 179.253 |
+| Blöcke | 179.663 |
 | Bauschritte | 111 |
 | Y-Bereich | 63 bis 130 |
-| X-Ausdehnung | -661 bis -478 (184 Blöcke) |
+| X-Ausdehnung | -661 bis -477 (185 Blöcke) |
 | Z-Ausdehnung | -53 bis 86 (140 Blöcke) |
 | Kleinster Schritt | 585 Blöcke (Schritt 8.82) |
-| Mittlerer Schritt | 1.615 Blöcke |
+| Mittlerer Schritt | 1.619 Blöcke |
 | Größter Schritt | 2.094 Blöcke (Schritt 8.71) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 67.420 | 37,6 % |
+| Terrakotta | `terracotta` | 67.855 | 37,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 26.345 | 14,7 % |
 | Polierter Tuffstein | `polished_tuff` | 17.267 | 9,6 % |
-| Orange Keramik | `orange_terracotta` | 11.936 | 6,7 % |
+| Orange Keramik | `orange_terracotta` | 11.936 | 6,6 % |
 | Rosa Keramik | `pink_terracotta` | 10.784 | 6,0 % |
 | Weißer Beton | `white_concrete` | 10.094 | 5,6 % |
-| Glatter Stein | `smooth_stone` | 8.910 | 5,0 % |
+| Glatter Stein | `smooth_stone` | 9.041 | 5,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 7.555 | 4,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 5.087 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 3.967 | 2,2 % |
-| Tuffstein | `tuff` | 2.138 | 1,2 % |
-| Polierter Andesit | `polished_andesite` | 1.951 | 1,1 % |
-| Endsteinziegel | `end_stone_bricks` | 1.368 | 0,8 % |
+| Graues Buntglas | `gray_stained_glass` | 4.007 | 2,2 % |
+| Tuffstein | `tuff` | 2.107 | 1,2 % |
+| Polierter Andesit | `polished_andesite` | 1.868 | 1,0 % |
+| Endsteinziegel | `end_stone_bricks` | 1.282 | 0,7 % |
 | Ziegelsteine | `bricks` | 1.257 | 0,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 679 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 683 | 0,4 % |
 | Grüner Beton | `green_concrete` | 535 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 423 | 0,2 % |
-| Seelaterne | `sea_lantern` | 353 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 160 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 146 | 0,1 % |
+| Seelaterne | `sea_lantern` | 356 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 147 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 141 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 138 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 136 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 132 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 114 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 114 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 133 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 117 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 117 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 84 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 84 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 17 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 7 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 5 | 0,0 % |
@@ -61,8 +61,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 552 |
-| Steintreppe | `stone_stairs` | 208 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 554 |
+| Steintreppe | `stone_stairs` | 216 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 19 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -75,8 +75,8 @@
 | 4 | `r7114187_innen` | Reihenhaus an Via dei Cerretani: Innenausbau | 5.271 | 8.24–8.27 |
 | 5 | `r7114189` | Reihenhaus an Via dei Cerretani | 9.139 | 8.28–8.32 |
 | 6 | `r7114189_innen` | Reihenhaus an Via dei Cerretani: Innenausbau | 4.137 | 8.33–8.34 |
-| 7 | `w307153245` | Palazzo Del Bembo | 4.714 | 8.35–8.37 |
-| 8 | `w307153245_innen` | Palazzo Del Bembo: Innenausbau | 992 | 8.38 |
+| 7 | `w307153245` | Palazzo Del Bembo | 4.652 | 8.35–8.37 |
+| 8 | `w307153245_innen` | Palazzo Del Bembo: Innenausbau | 1.464 | 8.38 |
 | 9 | `w307153315` | Palazzo Orlandini del Beccuto | 51.407 | 8.39–8.70 |
 | 10 | `w307153315_innen` | Palazzo Orlandini del Beccuto: Innenausbau | 17.981 | 8.71–8.79 |
 | 11 | `w483096008` | Reihenhaus an Piazza dei Cavallari | 2.441 | 8.80–8.81 |
@@ -1264,23 +1264,23 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.35 – Palazzo Del Bembo – Teil 1/3 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.595
+- **Blöcke:** 1.574
 - **Bauteile:** `w307153245`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 575 |
+| Tuffstein | `tuff` | 574 |
 | Polierter Tuffstein | `polished_tuff` | 556 |
-| Polierter Andesit | `polished_andesite` | 267 |
-| Tuffsteinziegel | `tuff_bricks` | 117 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Glatter Stein | `smooth_stone` | 20 |
+| Polierter Andesit | `polished_andesite` | 217 |
+| Tuffsteinziegel | `tuff_bricks` | 98 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Glatter Stein | `smooth_stone` | 59 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 14. Jh. (Formen 13. Jh.), Arnolfo di Cambio nur zugeschrieben), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bezzoli, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1292,26 +1292,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.36 – Palazzo Del Bembo – Teil 2/3 (Y 74–86)
+### Schritt 8.36 – Palazzo Del Bembo – Teil 2/3 (Y 74–87)
 
-- **Y-Bereich:** 74 bis 86
-- **Blöcke:** 1.509
+- **Y-Bereich:** 74 bis 87
+- **Blöcke:** 1.500
 - **Bauteile:** `w307153245`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 775 |
-| Polierter Andesit | `polished_andesite` | 487 |
-| Glatter Stein | `smooth_stone` | 177 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
+| Tuffstein | `tuff` | 794 |
+| Polierter Andesit | `polished_andesite` | 468 |
+| Glatter Stein | `smooth_stone` | 122 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 14. Jh. (Formen 13. Jh.), Arnolfo di Cambio nur zugeschrieben), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bezzoli, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1323,12 +1323,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.37 – Palazzo Del Bembo – Teil 3/3 (Y 87–98)
+### Schritt 8.37 – Palazzo Del Bembo – Teil 3/3 (Y 88–98)
 
-- **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.610
+- **Y-Bereich:** 88 bis 98
+- **Blöcke:** 1.578
 - **Bauteile:** `w307153245`
 
 **Teileliste**
@@ -1336,16 +1336,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 749 |
-| Tuffstein | `tuff` | 399 |
-| Polierter Andesit | `polished_andesite` | 267 |
-| Endsteinziegel | `end_stone_bricks` | 86 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
+| Tuffstein | `tuff` | 350 |
+| Polierter Andesit | `polished_andesite` | 253 |
+| Glatter Stein | `smooth_stone` | 146 |
 | Ziegelsteine | `bricks` | 40 |
-| Glatter Stein | `smooth_stone` | 13 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 14. Jh. (Formen 13. Jh.), Arnolfo di Cambio nur zugeschrieben), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bezzoli, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1357,28 +1356,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.38 – Palazzo Del Bembo: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 992
+- **Y-Bereich:** 63 bis 88
+- **Blöcke:** 1.464
 - **Bauteile:** `w307153245_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 870 |
-| Glatter Stein | `smooth_stone` | 52 |
+| Terrakotta | `terracotta` | 1.305 |
+| Glatter Stein | `smooth_stone` | 66 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
-| Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -1386,12 +1385,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 6 |
+| Steintreppe | `stone_stairs` | 48 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 8 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
