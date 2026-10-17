@@ -1,11 +1,15 @@
 {
   "id": "w307544550",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "17. Jh. (Umgestaltung, Silvani oder Foggini vermutet)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
@@ -13,37 +17,43 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 5,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
-      "tiefeBl": 3
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "buchetta_del_vino",
+      "baldi_delle_rose_wappen",
+      "attikaaufbau",
+      "vier_kniefenster"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Baldi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Umgestaltung im 17. Jh. (Limburger; Silvani oder Foggini vermutet), drei Obergeschosse plus Mezzanin, fünf Achsen, zentrales Rundbogenportal asymmetrisch zwischen vier Kniefenstern ohne Giebel, Weinluke, Architravfenster in doppelten Reihen mit Brüstungsgesimsen, Fries mit Konsolen unter der Traufe, Attikaaufbau, zwei Wappenschilde (Baldi delle Rose). Annahme: Geschosse auf vier verdichtet, Putzfarbe.",
   "name": "Palazzo Baldi"
 }

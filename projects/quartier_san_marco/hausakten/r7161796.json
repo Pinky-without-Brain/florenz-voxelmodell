@@ -1,19 +1,23 @@
 {
   "id": "r7161796",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "spätes 16. Jh. (Santi di Tito)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
@@ -27,23 +31,28 @@
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "pietra_forte",
-      "laeden": "gruen"
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "sgraffito_fassade",
+      "dardinelli_wappen_mitte",
+      "fenzi_wappen_darueber"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Dardinelli-Fenzi",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia (Stub): spätes 16. Jh., Santi di Tito, vier Geschosse, prächtige Sgraffiti an der Fassade, Wappen der Dardinelli in der Fassadenmitte, darüber das der Fenzi (19. Jh. erworben und mit dem Palazzo Fenzi an der Via San Gallo verbunden). Annahme: Putzfarbe, Achsen, Fenster, Gesims.",
   "name": "Palazzo Dardinelli-Fenzi"
 }

@@ -1,15 +1,19 @@
 {
   "id": "r4086387",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "17. Jh., fertiggestellt 1623 (Gherardo Silvani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -18,28 +22,34 @@
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "putz",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "kniefenster_halbkreisgiebel",
+      "covoni_wappen_mondsichel",
+      "risaliti_wappen_loewenpranken",
+      "milanesi_anschluss_1734"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi-Covoni",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Gherardo Silvani, fertiggestellt 1623, drei Geschosse, durchgehender Putz im Erdgeschoss, Kniefenster mit Halbkreisgiebeln, Obergeschoss mit Steinrahmungen (rechts spitzgiebelig, links halbkreisförmig), Marcapiano-Gesimse auf zwei Niveaus, Wappen der Covoni und Risaliti; 1734 Anschluss des Nachbarpalastes Milanesi, Fassaden stilistisch uneinheitlich. Annahme: Putzfarbe, Achsen, Dach.",
   "name": "Palazzo Capponi-Covoni"
 }

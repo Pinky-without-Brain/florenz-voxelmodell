@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 365.803 |
+| Blöcke | 365.784 |
 | Bauschritte | 228 |
 | Y-Bereich | 66 bis 108 |
 | X-Ausdehnung | 52 bis 305 (254 Blöcke) |
@@ -21,35 +21,35 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 110.297 | 30,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 39.597 | 10,8 % |
+| Terrakotta | `terracotta` | 110.229 | 30,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 46.591 | 12,7 % |
 | Polierter Tuffstein | `polished_tuff` | 34.556 | 9,4 % |
 | Rosa Keramik | `pink_terracotta` | 29.330 | 8,0 % |
 | Endsteinziegel | `end_stone_bricks` | 29.201 | 8,0 % |
 | Weißer Beton | `white_concrete` | 27.757 | 7,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 26.389 | 7,2 % |
 | Glatter Sandstein | `smooth_sandstone` | 12.196 | 3,3 % |
-| Polierter Andesit | `polished_andesite` | 9.695 | 2,7 % |
-| Tuffstein | `tuff` | 9.693 | 2,6 % |
-| Glatter Stein | `smooth_stone` | 9.470 | 2,6 % |
-| Orange Keramik | `orange_terracotta` | 8.468 | 2,3 % |
-| Graues Buntglas | `gray_stained_glass` | 7.089 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 9.710 | 2,7 % |
+| Orange Keramik | `orange_terracotta` | 8.469 | 2,3 % |
+| Polierter Andesit | `polished_andesite` | 8.050 | 2,2 % |
+| Graues Buntglas | `gray_stained_glass` | 7.023 | 1,9 % |
+| Tuffstein | `tuff` | 4.588 | 1,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.561 | 0,7 % |
 | Ziegelsteine | `bricks` | 1.762 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.690 | 0,5 % |
-| Grüner Beton | `green_concrete` | 1.689 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.178 | 0,3 % |
+| Grüner Beton | `green_concrete` | 1.755 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.702 | 0,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 728 | 0,2 % |
 | Seelaterne | `sea_lantern` | 715 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 499 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 482 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 471 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 448 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 132 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 132 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 96 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 84 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 62 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 501 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 480 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 473 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 446 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 131 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 131 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 86 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 78 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 74 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 66 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
@@ -60,7 +60,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 1.900 |
-| Steintreppe | `stone_stairs` | 300 |
+| Steintreppe | `stone_stairs` | 304 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -80,8 +80,8 @@
 | 12 | `r7098261_innen` | Reihenhaus an Via Camillo Cavour: Innenausbau | 2.405 | 4.47–4.48 |
 | 13 | `r7098262` | Reihenhaus an Via Ricasoli | 8.783 | 4.49–4.53 |
 | 14 | `r7098262_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 2.035 | 4.54 |
-| 15 | `w307544550` | Palazzo Baldi | 10.993 | 4.55–4.60 |
-| 16 | `w307544550_innen` | Palazzo Baldi: Innenausbau | 1.760 | 4.61 |
+| 15 | `w307544550` | Palazzo Baldi | 10.947 | 4.55–4.60 |
+| 16 | `w307544550_innen` | Palazzo Baldi: Innenausbau | 1.766 | 4.61 |
 | 17 | `w482073436` | Reihenhaus an Via Camillo Cavour | 3.817 | 4.62–4.63 |
 | 18 | `w482073436_innen` | Reihenhaus an Via Camillo Cavour: Innenausbau | 1.162 | 4.64 |
 | 19 | `w482073438` | Reihenhaus an Piazza San Marco | 7.720 | 4.65–4.68 |
@@ -96,7 +96,7 @@
 | 28 | `w482073445_innen` | Haus w482073445: Innenausbau | 762 | 4.84 |
 | 29 | `w482073447` | Palazzo des Cinquecento an Via Ricasoli | 12.651 | 4.85–4.91 |
 | 30 | `w482073447_innen` | Palazzo des Cinquecento an Via Ricasoli: Innenausbau | 2.281 | 4.92–4.93 |
-| 31 | `w482073448` | Palazzo des Cinquecento an Via Ricasoli | 9.313 | 4.94–4.98 |
+| 31 | `w482073448` | Palazzo des Cinquecento an Via Ricasoli | 9.318 | 4.94–4.98 |
 | 32 | `w482073448_innen` | Palazzo des Cinquecento an Via Ricasoli: Innenausbau | 1.947 | 4.99 |
 | 33 | `w482073449` | Haus w482073449 | 2.394 | 4.100–4.101 |
 | 34 | `w482073449_innen` | Haus w482073449: Innenausbau | 465 | 4.102 |
@@ -114,7 +114,7 @@
 | 46 | `w482073456_innen` | Haus w482073456: Innenausbau | 501 | 4.134 |
 | 47 | `w482073457` | Reihenhaus an Via Camillo Cavour | 3.591 | 4.135–4.136 |
 | 48 | `w482073457_innen` | Reihenhaus an Via Camillo Cavour: Innenausbau | 1.178 | 4.137 |
-| 49 | `w482073458` | Reihenhaus an Via Ricasoli | 3.014 | 4.138–4.139 |
+| 49 | `w482073458` | Reihenhaus an Via Ricasoli | 3.026 | 4.138–4.139 |
 | 50 | `w482073458_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 673 | 4.140 |
 | 51 | `w482073459` | Reihenhaus an Piazza San Marco | 5.524 | 4.141–4.143 |
 | 52 | `w482073459_innen` | Reihenhaus an Piazza San Marco: Innenausbau | 1.514 | 4.144 |
@@ -122,7 +122,7 @@
 | 54 | `w482073462_innen` | Haus w482073462: Innenausbau | 604 | 4.148 |
 | 55 | `w482073463` | Renaissance-Palazzo an Via Ricasoli | 13.434 | 4.149–4.156 |
 | 56 | `w482073463_innen` | Renaissance-Palazzo an Via Ricasoli: Innenausbau | 3.908 | 4.157–4.158 |
-| 57 | `w482073465` | Haus w482073465 | 6.738 | 4.159–4.162 |
+| 57 | `w482073465` | Haus w482073465 | 6.741 | 4.159–4.162 |
 | 58 | `w482073465_innen` | Haus w482073465: Innenausbau | 1.223 | 4.163 |
 | 59 | `w482073466` | Haus w482073466 | 3.010 | 4.164–4.165 |
 | 60 | `w482073466_innen` | Haus w482073466: Innenausbau | 665 | 4.166 |
@@ -150,7 +150,7 @@
 | 82 | `w482073483_innen` | Haus w482073483: Innenausbau | 1.545 | 4.207 |
 | 83 | `w482073484` | Reihenhaus an Via Ricasoli | 7.407 | 4.208–4.211 |
 | 84 | `w482073484_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 3.076 | 4.212–4.213 |
-| 85 | `w482073485` | Reihenhaus an Via degli Alfani | 5.251 | 4.214–4.216 |
+| 85 | `w482073485` | Reihenhaus an Via degli Alfani | 5.252 | 4.214–4.216 |
 | 86 | `w482073485_innen` | Reihenhaus an Via degli Alfani: Innenausbau | 2.102 | 4.217–4.218 |
 | 87 | `w482073489` | Reihenhaus an Via Ricasoli | 2.041 | 4.219 |
 | 88 | `w482073489_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 1.553 | 4.220 |
@@ -1948,7 +1948,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.55 – Palazzo Baldi – Teil 1/6 (Y 68–71)
 
 - **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.819
+- **Blöcke:** 1.926
 - **Bauteile:** `w307544550`
 
 **Teileliste**
@@ -1956,14 +1956,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.101 |
-| Tuffstein | `tuff` | 598 |
-| Tuffsteinziegel | `tuff_bricks` | 63 |
-| Polierter Andesit | `polished_andesite` | 50 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Gelbe Keramik | `yellow_terracotta` | 743 |
+| Glatter Stein | `smooth_stone` | 66 |
+| Polierter Andesit | `polished_andesite` | 12 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Umgestaltung, Silvani oder Foggini vermutet)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Baldi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -1975,27 +1975,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.56 – Palazzo Baldi – Teil 2/6 (Y 72–78)
+### Schritt 4.56 – Palazzo Baldi – Teil 2/6 (Y 72–77)
 
-- **Y-Bereich:** 72 bis 78
-- **Blöcke:** 1.710
+- **Y-Bereich:** 72 bis 77
+- **Blöcke:** 1.617
 - **Bauteile:** `w307544550`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.369 |
-| Tuffsteinziegel | `tuff_bricks` | 148 |
-| Polierter Andesit | `polished_andesite` | 105 |
-| Graues Buntglas | `gray_stained_glass` | 75 |
-| Glatter Stein | `smooth_stone` | 13 |
+| Gelbe Keramik | `yellow_terracotta` | 1.345 |
+| Glatter Stein | `smooth_stone` | 185 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
+| Grüner Beton | `green_concrete` | 18 |
+| Polierter Andesit | `polished_andesite` | 17 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Umgestaltung, Silvani oder Foggini vermutet)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Baldi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2007,27 +2008,59 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.57 – Palazzo Baldi – Teil 3/6 (Y 79–85)
+### Schritt 4.57 – Palazzo Baldi – Teil 3/6 (Y 78–84)
 
-- **Y-Bereich:** 79 bis 85
-- **Blöcke:** 1.919
+- **Y-Bereich:** 78 bis 84
+- **Blöcke:** 1.923
 - **Bauteile:** `w307544550`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.089 |
-| Polierter Andesit | `polished_andesite` | 414 |
-| Tuffsteinziegel | `tuff_bricks` | 177 |
-| Glatter Stein | `smooth_stone` | 159 |
+| Gelbe Keramik | `yellow_terracotta` | 1.708 |
+| Glatter Stein | `smooth_stone` | 179 |
+| Graues Buntglas | `gray_stained_glass` | 20 |
+| Polierter Andesit | `polished_andesite` | 10 |
+| Grüner Beton | `green_concrete` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (17. Jh. (Umgestaltung, Silvani oder Foggini vermutet)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Baldi, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 4.58 – Palazzo Baldi – Teil 4/6 (Y 85–91)
+
+- **Y-Bereich:** 85 bis 91
+- **Blöcke:** 1.873
+- **Bauteile:** `w307544550`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.533 |
+| Glatter Stein | `smooth_stone` | 222 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
+| Grüner Beton | `green_concrete` | 24 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Umgestaltung, Silvani oder Foggini vermutet)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Baldi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2039,27 +2072,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.58 – Palazzo Baldi – Teil 4/6 (Y 86–92)
+### Schritt 4.59 – Palazzo Baldi – Teil 5/6 (Y 92–97)
 
-- **Y-Bereich:** 86 bis 92
-- **Blöcke:** 1.936
+- **Y-Bereich:** 92 bis 97
+- **Blöcke:** 1.683
 - **Bauteile:** `w307544550`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.106 |
-| Polierter Andesit | `polished_andesite` | 540 |
-| Glatter Stein | `smooth_stone` | 159 |
-| Tuffsteinziegel | `tuff_bricks` | 73 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
+| Gelbe Keramik | `yellow_terracotta` | 1.391 |
+| Glatter Stein | `smooth_stone` | 202 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Grüner Beton | `green_concrete` | 18 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Umgestaltung, Silvani oder Foggini vermutet)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Baldi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2071,58 +2104,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.59 – Palazzo Baldi – Teil 5/6 (Y 93–97)
-
-- **Y-Bereich:** 93 bis 97
-- **Blöcke:** 1.538
-- **Bauteile:** `w307544550`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 780 |
-| Polierter Andesit | `polished_andesite` | 491 |
-| Glatter Stein | `smooth_stone` | 209 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.60 – Palazzo Baldi – Teil 6/6 (Y 98–105)
 
 - **Y-Bereich:** 98 bis 105
-- **Blöcke:** 2.071
+- **Blöcke:** 1.925
 - **Bauteile:** `w307544550`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.512 |
-| Glatter Stein | `smooth_stone` | 208 |
-| Tuffstein | `tuff` | 163 |
-| Polierter Andesit | `polished_andesite` | 111 |
+| Terrakotta | `terracotta` | 1.436 |
+| Gelbe Keramik | `yellow_terracotta` | 274 |
+| Glatter Stein | `smooth_stone` | 137 |
 | Ziegelsteine | `bricks` | 77 |
+| Polierter Andesit | `polished_andesite` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Umgestaltung, Silvani oder Foggini vermutet)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Baldi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -2134,12 +2136,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.61 – Palazzo Baldi: Innenausbau
 
-- **Y-Bereich:** 68 bis 89
-- **Blöcke:** 1.760
+- **Y-Bereich:** 68 bis 91
+- **Blöcke:** 1.766
 - **Bauteile:** `w307544550_innen`
 
 **Teileliste**
@@ -2147,21 +2149,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.636 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 44 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
@@ -3366,7 +3368,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.97 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/5 (Y 89–96)
 
 - **Y-Bereich:** 89 bis 96
-- **Blöcke:** 1.725
+- **Blöcke:** 1.727
 - **Bauteile:** `w482073448`
 
 **Teileliste**
@@ -3378,7 +3380,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Graues Buntglas | `gray_stained_glass` | 105 |
 | Grüner Beton | `green_concrete` | 50 |
 | Polierter Andesit | `polished_andesite` | 35 |
-| Fichtenholz-Bretter | `spruce_planks` | 26 |
+| Fichtenholz-Bretter | `spruce_planks` | 28 |
 
 **Beschreibung**
 
@@ -3399,16 +3401,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.98 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/5 (Y 97–105)
 
 - **Y-Bereich:** 97 bis 105
-- **Blöcke:** 1.957
+- **Blöcke:** 1.960
 - **Bauteile:** `w482073448`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.542 |
+| Terrakotta | `terracotta` | 1.543 |
 | Rosa Keramik | `pink_terracotta` | 218 |
-| Fichtenholz-Bretter | `spruce_planks` | 120 |
+| Fichtenholz-Bretter | `spruce_planks` | 122 |
 | Ziegelsteine | `bricks` | 75 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
@@ -4790,7 +4792,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.139 – Reihenhaus an Via Ricasoli – Teil 2/2 (Y 84–102)
 
 - **Y-Bereich:** 84 bis 102
-- **Blöcke:** 1.488
+- **Blöcke:** 1.500
 - **Bauteile:** `w482073458`
 
 **Teileliste**
@@ -4798,10 +4800,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 902 |
-| Terrakotta | `terracotta` | 333 |
+| Terrakotta | `terracotta` | 338 |
 | Weißer Beton | `white_concrete` | 160 |
+| Fichtenholz-Bretter | `spruce_planks` | 49 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
-| Fichtenholz-Bretter | `spruce_planks` | 42 |
 | Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
@@ -5553,16 +5555,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.162 – Haus w482073465 – Teil 4/4 (Y 94–102)
 
 - **Y-Bereich:** 94 bis 102
-- **Blöcke:** 1.663
+- **Blöcke:** 1.666
 - **Bauteile:** `w482073465`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 781 |
+| Terrakotta | `terracotta` | 783 |
 | Endsteinziegel | `end_stone_bricks` | 614 |
-| Fichtenholz-Bretter | `spruce_planks` | 187 |
+| Fichtenholz-Bretter | `spruce_planks` | 188 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Ziegelsteine | `bricks` | 27 |
 
@@ -7408,7 +7410,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.216 – Reihenhaus an Via degli Alfani – Teil 3/3 (Y 93–104)
 
 - **Y-Bereich:** 93 bis 104
-- **Blöcke:** 1.698
+- **Blöcke:** 1.699
 - **Bauteile:** `w482073485`
 
 **Teileliste**
@@ -7416,7 +7418,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 994 |
-| Orange Keramik | `orange_terracotta` | 525 |
+| Orange Keramik | `orange_terracotta` | 526 |
 | Glatter Stein | `smooth_stone` | 70 |
 | Ziegelsteine | `bricks` | 67 |
 | Graues Buntglas | `gray_stained_glass` | 42 |

@@ -1,25 +1,26 @@
 {
   "id": "w306252406",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "Vorgängerhaus frühes 15. Jh., 1478 an einen Medici-Zweig, später umgebaut",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 12
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 11
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rechteck_vergittert"
+      "art": "tor_und_fenster",
+      "fenster": "rechteck_vergittert",
+      "portalBreiteBl": 6
     },
     "fenster": {
       "typ": "rahmen_stuck",
@@ -30,15 +31,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "zwei_portale_mit_balkon",
+      "wappen_fassade"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Vettori",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Vorgängerhaus aus dem frühen Quattrocento, 1478 von einem Medici-Zweig erworben, später von den Grafen Zeffirini umgebaut, Erdgeschoss mit Bugnato, zwei Portale mit darüberliegendem Balkon, zwei Reihen gerahmter Fenster in den Obergeschossen, Wappen an der Fassade. Annahme: Achsen, Fenstertyp, Gesims.",
   "name": "Palazzo Vettori"
 }

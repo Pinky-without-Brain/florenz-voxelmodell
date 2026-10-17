@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 471.541 |
+| Blöcke | 471.568 |
 | Bauschritte | 292 |
 | Y-Bereich | 64 bis 111 |
 | X-Ausdehnung | -266 bis 23 (290 Blöcke) |
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 173.777 | 36,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 54.435 | 11,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 54.443 | 11,5 % |
 | Polierter Tuffstein | `polished_tuff` | 47.661 | 10,1 % |
 | Orange Keramik | `orange_terracotta` | 35.075 | 7,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 29.391 | 6,2 % |
@@ -30,26 +30,26 @@
 | Weißer Beton | `white_concrete` | 26.988 | 5,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 18.853 | 4,0 % |
 | Tuffstein | `tuff` | 10.674 | 2,3 % |
-| Polierter Andesit | `polished_andesite` | 9.531 | 2,0 % |
-| Graues Buntglas | `gray_stained_glass` | 8.797 | 1,9 % |
-| Glatter Stein | `smooth_stone` | 7.855 | 1,7 % |
+| Polierter Andesit | `polished_andesite` | 9.516 | 2,0 % |
+| Graues Buntglas | `gray_stained_glass` | 8.795 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 7.861 | 1,7 % |
 | Endsteinziegel | `end_stone_bricks` | 6.924 | 1,5 % |
 | Ziegelsteine | `bricks` | 2.942 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 2.273 | 0,5 % |
 | Grüner Beton | `green_concrete` | 1.995 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.940 | 0,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.092 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.943 | 0,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.105 | 0,2 % |
 | Seelaterne | `sea_lantern` | 987 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 398 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 359 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 358 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 339 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 400 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 360 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 360 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 340 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 215 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 215 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 82 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 78 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 58 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 54 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 106 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 98 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 36 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
@@ -57,8 +57,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.454 |
-| Steintreppe | `stone_stairs` | 272 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.460 |
+| Steintreppe | `stone_stairs` | 280 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -81,9 +81,9 @@
 | 15 | `r7161797` | Reihenhaus an Via dei Ginori | 25.250 | 0.99–0.113 |
 | 16 | `r7161797_innen` | Reihenhaus an Via dei Ginori: Innenausbau | 9.654 | 0.114–0.119 |
 | 17 | `w306252399` | Palazzo di Bernardetto de' Medici | 6.081 | 0.120–0.122 |
-| 18 | `w306252399_innen` | Palazzo di Bernardetto de' Medici: Innenausbau | 862 | 0.123 |
-| 19 | `w306252401` | Palazzo Ginori-Conti | 15.988 | 0.124–0.132 |
-| 20 | `w306252401_innen` | Palazzo Ginori-Conti: Innenausbau | 4.170 | 0.133–0.134 |
+| 18 | `w306252399_innen` | Palazzo di Bernardetto de' Medici: Innenausbau | 870 | 0.123 |
+| 19 | `w306252401` | Palazzo Ginori-Conti | 15.990 | 0.124–0.132 |
+| 20 | `w306252401_innen` | Palazzo Ginori-Conti: Innenausbau | 4.187 | 0.133–0.134 |
 | 21 | `w487162468` | Reihenhaus an Via dei Ginori | 6.692 | 0.135–0.138 |
 | 22 | `w487162468_innen` | Reihenhaus an Via dei Ginori: Innenausbau | 2.832 | 0.139–0.140 |
 | 23 | `w487162472` | Renaissance-Palazzo an Via Camillo Cavour | 21.854 | 0.141–0.153 |
@@ -4011,7 +4011,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh.), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Bernardetto_de'_Medici, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4023,27 +4023,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.121 – Palazzo di Bernardetto de' Medici – Teil 2/3 (Y 77–89)
 
 - **Y-Bereich:** 77 bis 89
-- **Blöcke:** 2.066
+- **Blöcke:** 2.040
 - **Bauteile:** `w306252399`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.162 |
-| Polierter Andesit | `polished_andesite` | 545 |
+| Tuffstein | `tuff` | 1.150 |
+| Polierter Andesit | `polished_andesite` | 499 |
 | Glatter Stein | `smooth_stone` | 178 |
-| Graues Buntglas | `gray_stained_glass` | 95 |
-| Tuffsteinziegel | `tuff_bricks` | 86 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
+| Tuffsteinziegel | `tuff_bricks` | 99 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh.), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Bernardetto_de'_Medici, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4055,12 +4055,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.122 – Palazzo di Bernardetto de' Medici – Teil 3/3 (Y 90–102)
 
 - **Y-Bereich:** 90 bis 102
-- **Blöcke:** 2.065
+- **Blöcke:** 2.091
 - **Bauteile:** `w306252399`
 
 **Teileliste**
@@ -4068,15 +4068,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 743 |
-| Tuffstein | `tuff` | 610 |
-| Polierter Andesit | `polished_andesite` | 345 |
+| Tuffstein | `tuff` | 622 |
+| Polierter Andesit | `polished_andesite` | 378 |
 | Glatter Stein | `smooth_stone` | 256 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
 | Ziegelsteine | `bricks` | 35 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh.), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_di_Bernardetto_de'_Medici, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4088,12 +4088,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.123 – Palazzo di Bernardetto de' Medici: Innenausbau
 
-- **Y-Bereich:** 66 bis 87
-- **Blöcke:** 862
+- **Y-Bereich:** 66 bis 89
+- **Blöcke:** 870
 - **Bauteile:** `w306252399_innen`
 
 **Teileliste**
@@ -4101,9 +4101,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 758 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Seelaterne | `sea_lantern` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -4112,7 +4112,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 44 |
 
 **Beschreibung**
 
@@ -4144,7 +4144,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4156,7 +4156,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.125 – Palazzo Ginori-Conti – Teil 2/9 (Y 66–68)
 
@@ -4176,7 +4176,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4188,28 +4188,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.126 – Palazzo Ginori-Conti – Teil 3/9 (Y 69–74)
 
 - **Y-Bereich:** 69 bis 74
-- **Blöcke:** 1.952
+- **Blöcke:** 1.922
 - **Bauteile:** `w306252401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.362 |
-| Glatter Stein | `smooth_stone` | 367 |
-| Graues Buntglas | `gray_stained_glass` | 129 |
+| Gelbe Keramik | `yellow_terracotta` | 1.326 |
+| Glatter Stein | `smooth_stone` | 324 |
+| Graues Buntglas | `gray_stained_glass` | 172 |
 | Polierter Andesit | `polished_andesite` | 63 |
-| Grüner Beton | `green_concrete` | 24 |
+| Grüner Beton | `green_concrete` | 30 |
 | Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4221,28 +4221,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.127 – Palazzo Ginori-Conti – Teil 4/9 (Y 75–80)
 
 - **Y-Bereich:** 75 bis 80
-- **Blöcke:** 2.046
+- **Blöcke:** 2.078
 - **Bauteile:** `w306252401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.562 |
-| Glatter Stein | `smooth_stone` | 363 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
-| Polierter Andesit | `polished_andesite` | 15 |
-| Grüner Beton | `green_concrete` | 12 |
+| Gelbe Keramik | `yellow_terracotta` | 1.606 |
+| Glatter Stein | `smooth_stone` | 404 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
+| Polierter Andesit | `polished_andesite` | 13 |
+| Grüner Beton | `green_concrete` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4254,27 +4254,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.128 – Palazzo Ginori-Conti – Teil 5/9 (Y 81–86)
 
 - **Y-Bereich:** 81 bis 86
-- **Blöcke:** 1.980
+- **Blöcke:** 1.916
 - **Bauteile:** `w306252401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.329 |
-| Glatter Stein | `smooth_stone` | 489 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-| Grüner Beton | `green_concrete` | 18 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Gelbe Keramik | `yellow_terracotta` | 1.370 |
+| Glatter Stein | `smooth_stone` | 279 |
+| Graues Buntglas | `gray_stained_glass` | 225 |
+| Grüner Beton | `green_concrete` | 30 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4286,27 +4286,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.129 – Palazzo Ginori-Conti – Teil 6/9 (Y 87–91)
 
 - **Y-Bereich:** 87 bis 91
-- **Blöcke:** 1.668
+- **Blöcke:** 1.732
 - **Bauteile:** `w306252401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.269 |
-| Glatter Stein | `smooth_stone` | 235 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-| Grüner Beton | `green_concrete` | 18 |
-| Polierter Andesit | `polished_andesite` | 11 |
+| Gelbe Keramik | `yellow_terracotta` | 1.228 |
+| Glatter Stein | `smooth_stone` | 445 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
+| Polierter Andesit | `polished_andesite` | 8 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4318,7 +4318,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.130 – Palazzo Ginori-Conti – Teil 7/9 (Y 92–96)
 
@@ -4338,7 +4338,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4350,7 +4350,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.131 – Palazzo Ginori-Conti – Teil 8/9 (Y 97–98)
 
@@ -4366,7 +4366,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4378,7 +4378,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.132 – Palazzo Ginori-Conti – Teil 9/9 (Y 99–104)
 
@@ -4395,7 +4395,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Wiederaufbau Mitte 18. Jh. (Grafen Ughi), Umbau 19. Jh. (Bonaiuti)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ginori-Conti, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4407,12 +4407,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.133 – Palazzo Ginori-Conti: Innenausbau – Teil 1/2 (Y 66–76)
+### Schritt 0.133 – Palazzo Ginori-Conti: Innenausbau – Teil 1/2 (Y 66–77)
 
-- **Y-Bereich:** 66 bis 76
-- **Blöcke:** 2.085
+- **Y-Bereich:** 66 bis 77
+- **Blöcke:** 2.092
 - **Bauteile:** `w306252401_innen`
 
 **Teileliste**
@@ -4420,16 +4420,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.015 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -4447,10 +4451,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.134 – Palazzo Ginori-Conti: Innenausbau – Teil 2/2 (Y 77–87)
+### Schritt 0.134 – Palazzo Ginori-Conti: Innenausbau – Teil 2/2 (Y 78–89)
 
-- **Y-Bereich:** 77 bis 87
-- **Blöcke:** 2.085
+- **Y-Bereich:** 78 bis 89
+- **Blöcke:** 2.095
 - **Bauteile:** `w306252401_innen`
 
 **Teileliste**
@@ -4458,18 +4462,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.015 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 12 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 

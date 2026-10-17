@@ -1,7 +1,7 @@
 {
   "id": "w306252399",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "14. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,15 +35,17 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "medici_wappen_sichtbar"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_di_Bernardetto_de'_Medici",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Palazzo des 14. Jh. (Via Cavour 31), schlichtes Erscheinungsbild, gut sichtbares Medici-Wappen an der Fassade. Annahme: alle übrigen Fassadenmerkmale aus der Typologie.",
   "name": "Palazzo di Bernardetto de' Medici"
 }
