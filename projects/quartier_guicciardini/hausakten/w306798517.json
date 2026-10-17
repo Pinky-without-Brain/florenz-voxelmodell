@@ -1,22 +1,30 @@
 {
   "id": "w306798517",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Erstanlage wohl Anfang 17. Jh.; 1765 vereinigt, 1802/05 erweitert (Antonio Schneiderff)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 7
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 5
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 4
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "achsen": 15,
+    "material": "putz",
+    "putzfarbe": "gelb",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
@@ -31,15 +39,21 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "siebzehn_achsen_belegt",
+      "aufgesetzter_baukoerper",
+      "wappen_schneiderff_mittelachse",
+      "wappen_soderini_nr29",
+      "uneinheitliche_farbanstriche"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Medici-Soderini",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Erstanlage wohl Anfang des 17. Jh. (Medici-Zweig), um 1765 mit drei Catani-Häusern vereint, 1802/05 unter Antonio Schneiderff erweitert, drei Stockwerke plus aufgesetzter Baukörper, siebzehn Achsen (Schema erlaubt höchstens 15), zwei Schneiderff-Wappen, uneinheitliche Anstriche. Annahme: Material, Fenster, Gesims, Dachform.",
   "name": "Palazzo Medici-Soderini"
 }

@@ -8,48 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 174.299 |
+| Blöcke | 174.926 |
 | Bauschritte | 105 |
 | Y-Bereich | 57 bis 103 |
 | X-Ausdehnung | -1642 bis -1423 (220 Blöcke) |
 | Z-Ausdehnung | 828 bis 1010 (183 Blöcke) |
-| Kleinster Schritt | 566 Blöcke (Schritt 1.27) |
-| Mittlerer Schritt | 1.660 Blöcke |
+| Kleinster Schritt | 859 Blöcke (Schritt 1.59) |
+| Mittlerer Schritt | 1.666 Blöcke |
 | Größter Schritt | 2.091 Blöcke (Schritt 1.85) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 64.415 | 37,0 % |
+| Terrakotta | `terracotta` | 64.919 | 37,1 % |
 | Polierter Tuffstein | `polished_tuff` | 19.690 | 11,3 % |
-| Weißer Beton | `white_concrete` | 18.089 | 10,4 % |
-| Tuffstein | `tuff` | 16.266 | 9,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 14.027 | 8,0 % |
-| Glatter Stein | `smooth_stone` | 6.531 | 3,7 % |
-| Rosa Keramik | `pink_terracotta` | 5.848 | 3,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 5.799 | 3,3 % |
-| Orange Keramik | `orange_terracotta` | 5.379 | 3,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 5.152 | 3,0 % |
-| Graues Buntglas | `gray_stained_glass` | 3.636 | 2,1 % |
-| Polierter Andesit | `polished_andesite` | 3.359 | 1,9 % |
-| Grüner Beton | `green_concrete` | 1.222 | 0,7 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.210 | 0,7 % |
+| Tuffstein | `tuff` | 13.552 | 7,7 % |
+| Weißer Beton | `white_concrete` | 13.395 | 7,7 % |
+| Rosa Keramik | `pink_terracotta` | 10.512 | 6,0 % |
+| Glatter Sandstein | `smooth_sandstone` | 9.085 | 5,2 % |
+| Glatter Stein | `smooth_stone` | 6.639 | 3,8 % |
+| Orange Keramik | `orange_terracotta` | 5.377 | 3,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 5.152 | 2,9 % |
+| Graues Buntglas | `gray_stained_glass` | 3.548 | 2,0 % |
+| Polierter Andesit | `polished_andesite` | 2.989 | 1,7 % |
+| Grüner Beton | `green_concrete` | 1.338 | 0,8 % |
 | Ziegelsteine | `bricks` | 1.075 | 0,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.065 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 596 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 592 | 0,3 % |
-| Seelaterne | `sea_lantern` | 339 | 0,2 % |
-| Endsteinziegel | `end_stone_bricks` | 334 | 0,2 % |
+| Seelaterne | `sea_lantern` | 345 | 0,2 % |
+| Endsteinziegel | `end_stone_bricks` | 282 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 172 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 160 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 69 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 69 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 64 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 60 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 58 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 54 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 48 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 58 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 16 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
@@ -60,7 +60,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 450 |
-| Steintreppe | `stone_stairs` | 142 |
+| Steintreppe | `stone_stairs` | 150 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -69,10 +69,10 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7025583` | Renaissance-Palazzo an Lungarno Guicciardini | 30.846 | 1.1–1.19 |
 | 2 | `r7025583_innen` | Renaissance-Palazzo an Lungarno Guicciardini: Innenausbau | 8.119 | 1.20–1.23 |
-| 3 | `w306798517` | Palazzo Medici-Soderini | 5.473 | 1.24–1.26 |
-| 4 | `w306798517_innen` | Palazzo Medici-Soderini: Innenausbau | 566 | 1.27 |
-| 5 | `w306798522` | Palazzetto Medici | 7.421 | 1.28–1.31 |
-| 6 | `w306798522_innen` | Palazzetto Medici: Innenausbau | 1.567 | 1.32 |
+| 3 | `w306798517` | Palazzo Medici-Soderini | 5.503 | 1.24–1.26 |
+| 4 | `w306798517_innen` | Palazzo Medici-Soderini: Innenausbau | 1.094 | 1.27 |
+| 5 | `w306798522` | Palazzetto Medici | 7.488 | 1.28–1.31 |
+| 6 | `w306798522_innen` | Palazzetto Medici: Innenausbau | 1.571 | 1.32 |
 | 7 | `w477942440` | Reihenhaus an Lungarno Guicciardini | 11.157 | 1.33–1.39 |
 | 8 | `w477942440_innen` | Reihenhaus an Lungarno Guicciardini: Innenausbau | 2.892 | 1.40–1.41 |
 | 9 | `w477942443` | Reihenhaus an Piazza Nazario Sauro | 5.430 | 1.42–1.44 |
@@ -93,7 +93,7 @@
 | 24 | `w477942458_innen` | Reihenhaus an Lungarno Guicciardini: Innenausbau | 2.091 | 1.85 |
 | 25 | `w477942460` | Reihenhaus an Via di Santo Spirito | 11.530 | 1.86–1.92 |
 | 26 | `w477942460_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 5.087 | 1.93–1.95 |
-| 27 | `w477942462` | Reihenhaus an Via di Santo Spirito | 10.907 | 1.96–1.102 |
+| 27 | `w477942462` | Reihenhaus an Via di Santo Spirito | 10.905 | 1.96–1.102 |
 | 28 | `w477942462_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 5.163 | 1.103–1.105 |
 | 29 | `strassenschilder` | Straßenschilder | 8 | 1.105 |
 
@@ -837,23 +837,24 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.24 – Palazzo Medici-Soderini – Teil 1/3 (Y 60–67)
 
 - **Y-Bereich:** 60 bis 67
-- **Blöcke:** 1.822
+- **Blöcke:** 1.840
 - **Bauteile:** `w306798517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 818 |
+| Glatter Sandstein | `smooth_sandstone` | 980 |
 | Polierter Tuffstein | `polished_tuff` | 684 |
-| Tuffsteinziegel | `tuff_bricks` | 109 |
-| Polierter Andesit | `polished_andesite` | 90 |
-| Glatter Stein | `smooth_stone` | 81 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
+| Glatter Stein | `smooth_stone` | 126 |
+| Graues Buntglas | `gray_stained_glass` | 20 |
+| Polierter Andesit | `polished_andesite` | 15 |
+| Tuffsteinziegel | `tuff_bricks` | 14 |
+| Grüner Beton | `green_concrete` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Erstanlage wohl Anfang 17. Jh.; 1765 vereinigt, 1802/05 erweitert (Antonio Schneiderff)), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Medici-Soderini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -865,27 +866,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.25 – Palazzo Medici-Soderini – Teil 2/3 (Y 68–78)
 
 - **Y-Bereich:** 68 bis 78
-- **Blöcke:** 1.856
+- **Blöcke:** 1.846
 - **Bauteile:** `w306798517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.303 |
-| Polierter Andesit | `polished_andesite` | 228 |
-| Glatter Stein | `smooth_stone` | 202 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-| Tuffsteinziegel | `tuff_bricks` | 53 |
+| Glatter Sandstein | `smooth_sandstone` | 1.451 |
+| Glatter Stein | `smooth_stone` | 320 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Grüner Beton | `green_concrete` | 15 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Erstanlage wohl Anfang 17. Jh.; 1765 vereinigt, 1802/05 erweitert (Antonio Schneiderff)), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Medici-Soderini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -897,12 +897,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.26 – Palazzo Medici-Soderini – Teil 3/3 (Y 79–89)
 
 - **Y-Bereich:** 79 bis 89
-- **Blöcke:** 1.795
+- **Blöcke:** 1.817
 - **Bauteile:** `w306798517`
 
 **Teileliste**
@@ -910,16 +910,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 878 |
-| Tuffstein | `tuff` | 593 |
-| Glatter Stein | `smooth_stone` | 134 |
-| Polierter Andesit | `polished_andesite` | 71 |
-| Endsteinziegel | `end_stone_bricks` | 52 |
+| Glatter Sandstein | `smooth_sandstone` | 855 |
+| Glatter Stein | `smooth_stone` | 47 |
 | Ziegelsteine | `bricks` | 37 |
-| Graues Buntglas | `gray_stained_glass` | 30 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Erstanlage wohl Anfang 17. Jh.; 1765 vereinigt, 1802/05 erweitert (Antonio Schneiderff)), 4 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Medici-Soderini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -931,23 +928,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.27 – Palazzo Medici-Soderini: Innenausbau
 
-- **Y-Bereich:** 60 bis 72
-- **Blöcke:** 566
+- **Y-Bereich:** 60 bis 75
+- **Blöcke:** 1.094
 - **Bauteile:** `w306798517_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 506 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 1.012 |
+| Glatter Stein | `smooth_stone` | 40 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 16 |
+| Seelaterne | `sea_lantern` | 12 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
 
@@ -955,7 +952,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 28 |
 
 **Beschreibung**
 
@@ -976,23 +973,24 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.28 – Palazzetto Medici – Teil 1/4 (Y 57–63)
 
 - **Y-Bereich:** 57 bis 63
-- **Blöcke:** 1.917
+- **Blöcke:** 1.927
 - **Bauteile:** `w306798522`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 913 |
+| Rosa Keramik | `pink_terracotta` | 911 |
 | Polierter Tuffstein | `polished_tuff` | 911 |
-| Glatter Stein | `smooth_stone` | 57 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Polierter Andesit | `polished_andesite` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Glatter Stein | `smooth_stone` | 54 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
+| Grüner Beton | `green_concrete` | 15 |
+| Polierter Andesit | `polished_andesite` | 9 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (2. Hälfte) aus zwei mittelalterlichen Häusern, nach Art Silvanis; Wiederaufbau 1759), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_Medici, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -1004,27 +1002,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.29 – Palazzetto Medici – Teil 2/4 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
-- **Blöcke:** 1.751
+- **Blöcke:** 1.761
 - **Bauteile:** `w306798522`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.551 |
-| Glatter Stein | `smooth_stone` | 133 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
+| Rosa Keramik | `pink_terracotta` | 1.555 |
+| Glatter Stein | `smooth_stone` | 111 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
+| Grüner Beton | `green_concrete` | 37 |
+| Polierter Andesit | `polished_andesite` | 8 |
 | Tuffsteinziegel | `tuff_bricks` | 8 |
-| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (2. Hälfte) aus zwei mittelalterlichen Häusern, nach Art Silvanis; Wiederaufbau 1759), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_Medici, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -1036,25 +1035,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.30 – Palazzetto Medici – Teil 3/4 (Y 74–84)
 
 - **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.926
+- **Blöcke:** 1.940
 - **Bauteile:** `w306798522`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.693 |
-| Glatter Stein | `smooth_stone` | 167 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
+| Rosa Keramik | `pink_terracotta` | 1.702 |
+| Glatter Stein | `smooth_stone` | 136 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Grüner Beton | `green_concrete` | 48 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (2. Hälfte) aus zwei mittelalterlichen Häusern, nach Art Silvanis; Wiederaufbau 1759), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_Medici, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -1066,12 +1066,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.31 – Palazzetto Medici – Teil 4/4 (Y 85–95)
 
 - **Y-Bereich:** 85 bis 95
-- **Blöcke:** 1.827
+- **Blöcke:** 1.860
 - **Bauteile:** `w306798522`
 
 **Teileliste**
@@ -1079,13 +1079,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.184 |
-| Weißer Beton | `white_concrete` | 537 |
+| Rosa Keramik | `pink_terracotta` | 496 |
+| Glatter Stein | `smooth_stone` | 123 |
 | Ziegelsteine | `bricks` | 57 |
-| Glatter Stein | `smooth_stone` | 49 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (2. Hälfte) aus zwei mittelalterlichen Häusern, nach Art Silvanis; Wiederaufbau 1759), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_Medici, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -1097,23 +1097,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.32 – Palazzetto Medici: Innenausbau
 
-- **Y-Bereich:** 57 bis 78
-- **Blöcke:** 1.567
+- **Y-Bereich:** 57 bis 79
+- **Blöcke:** 1.571
 - **Bauteile:** `w306798522_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.450 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
-| Seelaterne | `sea_lantern` | 13 |
+| Terrakotta | `terracotta` | 1.448 |
+| Glatter Stein | `smooth_stone` | 54 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
+| Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 
@@ -1121,7 +1121,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 
 **Beschreibung**
 
@@ -3366,7 +3366,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.101 – Reihenhaus an Via di Santo Spirito – Teil 6/7 (Y 86–88)
 
 - **Y-Bereich:** 86 bis 88
-- **Blöcke:** 1.695
+- **Blöcke:** 1.693
 - **Bauteile:** `w477942462`
 
 **Teileliste**
@@ -3374,7 +3374,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.143 |
-| Orange Keramik | `orange_terracotta` | 482 |
+| Orange Keramik | `orange_terracotta` | 480 |
 | Weißer Beton | `white_concrete` | 70 |
 
 **Beschreibung**
