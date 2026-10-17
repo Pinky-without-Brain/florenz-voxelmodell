@@ -8,65 +8,64 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 5.223 |
+| Blöcke | 5.314 |
 | Bauschritte | 4 |
-| Y-Bereich | 56 bis 91 |
+| Y-Bereich | 56 bis 88 |
 | X-Ausdehnung | -3040 bis -3016 (25 Blöcke) |
 | Z-Ausdehnung | -805 bis -782 (24 Blöcke) |
-| Kleinster Schritt | 594 Blöcke (Schritt 2.4) |
-| Mittlerer Schritt | 1.306 Blöcke |
-| Größter Schritt | 1.586 Blöcke (Schritt 2.2) |
+| Kleinster Schritt | 628 Blöcke (Schritt 2.4) |
+| Mittlerer Schritt | 1.329 Blöcke |
+| Größter Schritt | 1.624 Blöcke (Schritt 2.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.797 | 53,6 % |
-| Terrakotta | `terracotta` | 828 | 15,9 % |
-| Polierter Andesit | `polished_andesite` | 667 | 12,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 314 | 6,0 % |
-| Polierter Tuffstein | `polished_tuff` | 302 | 5,8 % |
-| Graues Buntglas | `gray_stained_glass` | 177 | 3,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 1,2 % |
-| Ziegelsteine | `bricks` | 24 | 0,5 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,5 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,4 % |
+| Tuffstein | `tuff` | 3.065 | 57,7 % |
+| Polierter Andesit | `polished_andesite` | 667 | 12,6 % |
+| Terrakotta | `terracotta` | 480 | 9,0 % |
+| Polierter Tuffstein | `polished_tuff` | 463 | 8,7 % |
+| Tuffsteinziegel | `tuff_bricks` | 314 | 5,9 % |
+| Graues Buntglas | `gray_stained_glass` | 177 | 3,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 84 | 1,6 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 32 | 0,6 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,5 % |
 | Seelaterne | `sea_lantern` | 4 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 60 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w72915046` | Torre della Serpe | 4.629 | 2.1–2.3 |
-| 2 | `w72915046_innen` | Torre della Serpe: Innenausbau | 594 | 2.4 |
+| 1 | `w72915046` | Torre della Serpe | 4.686 | 2.1–2.3 |
+| 2 | `w72915046_innen` | Torre della Serpe: Innenausbau | 628 | 2.4 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Torre della Serpe – Teil 1/3 (Y 56–65)
+### Schritt 2.1 – Torre della Serpe – Teil 1/3 (Y 56–66)
 
-- **Y-Bereich:** 56 bis 65
-- **Blöcke:** 1.476
+- **Y-Bereich:** 56 bis 66
+- **Blöcke:** 1.619
 - **Bauteile:** `w72915046`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 872 |
+| Tuffstein | `tuff` | 963 |
 | Polierter Tuffstein | `polished_tuff` | 302 |
-| Polierter Andesit | `polished_andesite` | 154 |
-| Tuffsteinziegel | `tuff_bricks` | 115 |
+| Polierter Andesit | `polished_andesite` | 198 |
+| Tuffsteinziegel | `tuff_bricks` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Teil der Stadtmauer, 13./14. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_della_Serpe, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -78,26 +77,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.2 – Torre della Serpe – Teil 2/3 (Y 66–77)
+### Schritt 2.2 – Torre della Serpe – Teil 2/3 (Y 67–77)
 
-- **Y-Bereich:** 66 bis 77
-- **Blöcke:** 1.586
+- **Y-Bereich:** 67 bis 77
+- **Blöcke:** 1.443
 - **Bauteile:** `w72915046`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.072 |
-| Polierter Andesit | `polished_andesite` | 307 |
-| Tuffsteinziegel | `tuff_bricks` | 111 |
+| Tuffstein | `tuff` | 981 |
+| Polierter Andesit | `polished_andesite` | 263 |
+| Tuffsteinziegel | `tuff_bricks` | 103 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Teil der Stadtmauer, 13./14. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_della_Serpe, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -109,28 +108,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.3 – Torre della Serpe – Teil 3/3 (Y 78–91)
+### Schritt 2.3 – Torre della Serpe – Teil 3/3 (Y 78–88)
 
-- **Y-Bereich:** 78 bis 91
-- **Blöcke:** 1.567
+- **Y-Bereich:** 78 bis 88
+- **Blöcke:** 1.624
 - **Bauteile:** `w72915046`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 853 |
-| Terrakotta | `terracotta` | 348 |
+| Tuffstein | `tuff` | 1.121 |
 | Polierter Andesit | `polished_andesite` | 206 |
+| Polierter Tuffstein | `polished_tuff` | 161 |
 | Tuffsteinziegel | `tuff_bricks` | 88 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
-| Ziegelsteine | `bricks` | 24 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Teil der Stadtmauer, 13./14. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_della_Serpe, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -142,12 +140,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.4 – Torre della Serpe: Innenausbau
 
-- **Y-Bereich:** 56 bis 79
-- **Blöcke:** 594
+- **Y-Bereich:** 56 bis 86
+- **Blöcke:** 628
 - **Bauteile:** `w72915046_innen`
 
 **Teileliste**
@@ -155,20 +153,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 480 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 84 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 32 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 |
 | Seelaterne | `sea_lantern` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 60 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

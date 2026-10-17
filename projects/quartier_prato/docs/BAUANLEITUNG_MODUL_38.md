@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 101.870 |
-| Bauschritte | 59 |
+| Blöcke | 101.928 |
+| Bauschritte | 60 |
 | Y-Bereich | 53 bis 99 |
 | X-Ausdehnung | -2054 bis -1864 (191 Blöcke) |
 | Z-Ausdehnung | -777 bis -620 (158 Blöcke) |
-| Kleinster Schritt | 998 Blöcke (Schritt 38.34) |
-| Mittlerer Schritt | 1.727 Blöcke |
+| Kleinster Schritt | 998 Blöcke (Schritt 38.35) |
+| Mittlerer Schritt | 1.699 Blöcke |
 | Größter Schritt | 2.096 Blöcke (Schritt 38.13) |
 
 ## Gesamt-Stückliste
@@ -24,14 +24,14 @@
 | Terrakotta | `terracotta` | 30.046 | 29,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 20.151 | 19,8 % |
 | Weißer Beton | `white_concrete` | 16.271 | 16,0 % |
+| Glatter Stein | `smooth_stone` | 12.412 | 12,2 % |
 | Polierter Tuffstein | `polished_tuff` | 10.173 | 10,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.075 | 8,9 % |
-| Glatter Stein | `smooth_stone` | 4.371 | 4,3 % |
-| Orange Keramik | `orange_terracotta` | 3.924 | 3,9 % |
-| Polierter Andesit | `polished_andesite` | 3.034 | 3,0 % |
-| Graues Buntglas | `gray_stained_glass` | 2.224 | 2,2 % |
-| Tuffstein | `tuff` | 1.181 | 1,2 % |
+| Polierter Andesit | `polished_andesite` | 3.944 | 3,9 % |
+| Orange Keramik | `orange_terracotta` | 3.924 | 3,8 % |
+| Graues Buntglas | `gray_stained_glass` | 2.134 | 2,1 % |
+| Tuffstein | `tuff` | 1.251 | 1,2 % |
 | Ziegelsteine | `bricks` | 634 | 0,6 % |
+| Endsteinziegel | `end_stone_bricks` | 204 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 198 | 0,2 % |
 | Seelaterne | `sea_lantern` | 147 | 0,1 % |
 | Grüner Beton | `green_concrete` | 112 | 0,1 % |
@@ -42,7 +42,7 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 25 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
@@ -52,7 +52,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 164 |
+| Steintreppe | `stone_stairs` | 162 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 56 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -61,14 +61,14 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w306398155` | Palazzo des Ottocento an Via della Scala | 24.836 | 38.1–38.14 |
 | 2 | `w306398155_innen` | Palazzo des Ottocento an Via della Scala: Innenausbau | 4.672 | 38.15–38.18 |
-| 3 | `w306398157` | Chiesa della Beata Elisabetta Vendramini | 15.675 | 38.18–38.26 |
-| 4 | `w306398157_innen` | Chiesa della Beata Elisabetta Vendramini: Innenausbau | 3.532 | 38.27–38.28 |
-| 5 | `w482739738` | Reihenhaus an Via della Scala | 6.427 | 38.29–38.32 |
-| 6 | `w482739738_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.676 | 38.33 |
-| 7 | `w482739761` | Palazzo des Cinquecento an Via della Scala | 25.647 | 38.34–38.48 |
-| 8 | `w482739761_innen` | Palazzo des Cinquecento an Via della Scala: Innenausbau | 5.918 | 38.49–38.52 |
-| 9 | `w482739773` | Haus w482739773 | 11.768 | 38.53–38.58 |
-| 10 | `w482739773_innen` | Haus w482739773: Innenausbau | 1.719 | 38.59 |
+| 3 | `w306398157` | Chiesa della Beata Elisabetta Vendramini | 15.737 | 38.18–38.27 |
+| 4 | `w306398157_innen` | Chiesa della Beata Elisabetta Vendramini: Innenausbau | 3.528 | 38.28–38.29 |
+| 5 | `w482739738` | Reihenhaus an Via della Scala | 6.427 | 38.30–38.33 |
+| 6 | `w482739738_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.676 | 38.34 |
+| 7 | `w482739761` | Palazzo des Cinquecento an Via della Scala | 25.647 | 38.35–38.49 |
+| 8 | `w482739761_innen` | Palazzo des Cinquecento an Via della Scala: Innenausbau | 5.918 | 38.50–38.53 |
+| 9 | `w482739773` | Haus w482739773 | 11.768 | 38.54–38.59 |
+| 10 | `w482739773_innen` | Haus w482739773: Innenausbau | 1.719 | 38.60 |
 
 ## Bauschritte
 
@@ -621,7 +621,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.18 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 4/4 (Y 76–77) & Chiesa della Beata Elisabetta Vendramini – Teil 1/9 (Y 57–57)
+### Schritt 38.18 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 4/4 (Y 76–77) & Chiesa della Beata Elisabetta Vendramini – Teil 1/10 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 77
 - **Blöcke:** 1.190
@@ -648,7 +648,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -660,9 +660,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 38.19 – Chiesa della Beata Elisabetta Vendramini – Teil 2/9 (Y 58–58)
+### Schritt 38.19 – Chiesa della Beata Elisabetta Vendramini – Teil 2/10 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
 - **Blöcke:** 2.066
@@ -676,7 +676,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -688,25 +688,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 38.20 – Chiesa della Beata Elisabetta Vendramini – Teil 3/9 (Y 59–64)
+### Schritt 38.20 – Chiesa della Beata Elisabetta Vendramini – Teil 3/10 (Y 59–63)
 
-- **Y-Bereich:** 59 bis 64
-- **Blöcke:** 2.084
+- **Y-Bereich:** 59 bis 63
+- **Blöcke:** 1.761
 - **Bauteile:** `w306398157`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.778 |
-| Glatter Stein | `smooth_stone` | 252 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
+| Glatter Stein | `smooth_stone` | 1.756 |
+| Tuffstein | `tuff` | 5 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -718,25 +717,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 38.21 – Chiesa della Beata Elisabetta Vendramini – Teil 4/9 (Y 65–69)
+### Schritt 38.21 – Chiesa della Beata Elisabetta Vendramini – Teil 4/10 (Y 64–68)
 
-- **Y-Bereich:** 65 bis 69
-- **Blöcke:** 1.753
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.781
 - **Bauteile:** `w306398157`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.528 |
-| Glatter Stein | `smooth_stone` | 181 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
+| Glatter Stein | `smooth_stone` | 1.768 |
+| Graues Buntglas | `gray_stained_glass` | 8 |
+| Tuffstein | `tuff` | 5 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -748,115 +747,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 38.22 – Chiesa della Beata Elisabetta Vendramini – Teil 5/9 (Y 70–74)
+### Schritt 38.22 – Chiesa della Beata Elisabetta Vendramini – Teil 5/10 (Y 69–73)
 
-- **Y-Bereich:** 70 bis 74
-- **Blöcke:** 1.794
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.778
 - **Bauteile:** `w306398157`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.701 |
-| Glatter Stein | `smooth_stone` | 93 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 38.23 – Chiesa della Beata Elisabetta Vendramini – Teil 6/9 (Y 75–80)
-
-- **Y-Bereich:** 75 bis 80
-- **Blöcke:** 2.062
-- **Bauteile:** `w306398157`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.594 |
-| Glatter Stein | `smooth_stone` | 368 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 38.24 – Chiesa della Beata Elisabetta Vendramini – Teil 7/9 (Y 81–86)
-
-- **Y-Bereich:** 81 bis 86
-- **Blöcke:** 2.087
-- **Bauteile:** `w306398157`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.688 |
-| Glatter Stein | `smooth_stone` | 319 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 38.25 – Chiesa della Beata Elisabetta Vendramini – Teil 8/9 (Y 87–89)
-
-- **Y-Bereich:** 87 bis 89
-- **Blöcke:** 1.782
-- **Bauteile:** `w306398157`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 840 |
-| Gelbe Keramik | `yellow_terracotta` | 786 |
-| Glatter Stein | `smooth_stone` | 136 |
+| Glatter Stein | `smooth_stone` | 1.608 |
+| Polierter Andesit | `polished_andesite` | 145 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
+| Tuffstein | `tuff` | 5 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -868,24 +778,149 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 38.26 – Chiesa della Beata Elisabetta Vendramini – Teil 9/9 (Y 90–99)
+### Schritt 38.23 – Chiesa della Beata Elisabetta Vendramini – Teil 6/10 (Y 74–79)
 
-- **Y-Bereich:** 90 bis 99
-- **Blöcke:** 2.011
+- **Y-Bereich:** 74 bis 79
+- **Blöcke:** 2.078
 - **Bauteile:** `w306398157`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.883 |
+| Glatter Stein | `smooth_stone` | 1.682 |
+| Polierter Andesit | `polished_andesite` | 310 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Tuffstein | `tuff` | 6 |
+
+**Beschreibung**
+
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 38.24 – Chiesa della Beata Elisabetta Vendramini – Teil 7/10 (Y 80–83)
+
+- **Y-Bereich:** 80 bis 83
+- **Blöcke:** 1.405
+- **Bauteile:** `w306398157`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.158 |
+| Polierter Andesit | `polished_andesite` | 203 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
+| Tuffstein | `tuff` | 4 |
+
+**Beschreibung**
+
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 38.25 – Chiesa della Beata Elisabetta Vendramini – Teil 8/10 (Y 84–87)
+
+- **Y-Bereich:** 84 bis 87
+- **Blöcke:** 1.502
+- **Bauteile:** `w306398157`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.064 |
+| Polierter Andesit | `polished_andesite` | 252 |
+| Endsteinziegel | `end_stone_bricks` | 102 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Tuffstein | `tuff` | 24 |
+
+**Beschreibung**
+
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 38.26 – Chiesa della Beata Elisabetta Vendramini – Teil 9/10 (Y 88–90)
+
+- **Y-Bereich:** 88 bis 90
+- **Blöcke:** 1.754
+- **Bauteile:** `w306398157`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.275 |
+| Glatter Stein | `smooth_stone` | 356 |
+| Endsteinziegel | `end_stone_bricks` | 102 |
+| Tuffstein | `tuff` | 21 |
+
+**Beschreibung**
+
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 38.27 – Chiesa della Beata Elisabetta Vendramini – Teil 10/10 (Y 91–99)
+
+- **Y-Bereich:** 91 bis 99
+- **Blöcke:** 1.576
+- **Bauteile:** `w306398157`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.448 |
 | Ziegelsteine | `bricks` | 128 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1900–1902 (Giovanni Paciarelli), neoklassizistisch an 15. Jh. angelehnt), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_della_Beata_Elisabetta_Vendramini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -897,12 +932,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 38.27 – Chiesa della Beata Elisabetta Vendramini: Innenausbau – Teil 1/2 (Y 58–72)
+### Schritt 38.28 – Chiesa della Beata Elisabetta Vendramini: Innenausbau – Teil 1/2 (Y 58–70)
 
-- **Y-Bereich:** 58 bis 72
-- **Blöcke:** 1.783
+- **Y-Bereich:** 58 bis 70
+- **Blöcke:** 1.775
 - **Bauteile:** `w306398157_innen`
 
 **Teileliste**
@@ -910,16 +945,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.701 |
-| Glatter Stein | `smooth_stone` | 34 |
+| Glatter Stein | `smooth_stone` | 30 |
 | Seelaterne | `sea_lantern` | 20 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
+| Steintreppe | `stone_stairs` | 24 |
 
 **Beschreibung**
 
@@ -937,10 +972,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.28 – Chiesa della Beata Elisabetta Vendramini: Innenausbau – Teil 2/2 (Y 73–80)
+### Schritt 38.29 – Chiesa della Beata Elisabetta Vendramini: Innenausbau – Teil 2/2 (Y 71–79)
 
-- **Y-Bereich:** 73 bis 80
-- **Blöcke:** 1.749
+- **Y-Bereich:** 71 bis 79
+- **Blöcke:** 1.753
 - **Bauteile:** `w306398157_innen`
 
 **Teileliste**
@@ -948,16 +983,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.701 |
-| Glatter Stein | `smooth_stone` | 22 |
+| Glatter Stein | `smooth_stone` | 24 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 18 |
 
 **Beschreibung**
 
@@ -975,7 +1010,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.29 – Reihenhaus an Via della Scala – Teil 1/4 (Y 57–63)
+### Schritt 38.30 – Reihenhaus an Via della Scala – Teil 1/4 (Y 57–63)
 
 - **Y-Bereich:** 57 bis 63
 - **Blöcke:** 1.637
@@ -1007,7 +1042,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.30 – Reihenhaus an Via della Scala – Teil 2/4 (Y 64–73)
+### Schritt 38.31 – Reihenhaus an Via della Scala – Teil 2/4 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.628
@@ -1037,7 +1072,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.31 – Reihenhaus an Via della Scala – Teil 3/4 (Y 74–83)
+### Schritt 38.32 – Reihenhaus an Via della Scala – Teil 3/4 (Y 74–83)
 
 - **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.620
@@ -1067,7 +1102,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.32 – Reihenhaus an Via della Scala – Teil 4/4 (Y 84–93)
+### Schritt 38.33 – Reihenhaus an Via della Scala – Teil 4/4 (Y 84–93)
 
 - **Y-Bereich:** 84 bis 93
 - **Blöcke:** 1.542
@@ -1099,7 +1134,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.33 – Reihenhaus an Via della Scala: Innenausbau
+### Schritt 38.34 – Reihenhaus an Via della Scala: Innenausbau
 
 - **Y-Bereich:** 57 bis 80
 - **Blöcke:** 1.676
@@ -1137,7 +1172,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.34 – Palazzo des Cinquecento an Via della Scala – Teil 1/15 (Y 53–56)
+### Schritt 38.35 – Palazzo des Cinquecento an Via della Scala – Teil 1/15 (Y 53–56)
 
 - **Y-Bereich:** 53 bis 56
 - **Blöcke:** 998
@@ -1165,7 +1200,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.35 – Palazzo des Cinquecento an Via della Scala – Teil 2/15 (Y 57–57)
+### Schritt 38.36 – Palazzo des Cinquecento an Via della Scala – Teil 2/15 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.689
@@ -1193,7 +1228,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.36 – Palazzo des Cinquecento an Via della Scala – Teil 3/15 (Y 57–57)
+### Schritt 38.37 – Palazzo des Cinquecento an Via della Scala – Teil 3/15 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.751
@@ -1221,7 +1256,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.37 – Palazzo des Cinquecento an Via della Scala – Teil 4/15 (Y 58–60)
+### Schritt 38.38 – Palazzo des Cinquecento an Via della Scala – Teil 4/15 (Y 58–60)
 
 - **Y-Bereich:** 58 bis 60
 - **Blöcke:** 1.721
@@ -1251,7 +1286,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.38 – Palazzo des Cinquecento an Via della Scala – Teil 5/15 (Y 61–64)
+### Schritt 38.39 – Palazzo des Cinquecento an Via della Scala – Teil 5/15 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 2.090
@@ -1282,7 +1317,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.39 – Palazzo des Cinquecento an Via della Scala – Teil 6/15 (Y 65–67)
+### Schritt 38.40 – Palazzo des Cinquecento an Via della Scala – Teil 6/15 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
 - **Blöcke:** 1.641
@@ -1312,7 +1347,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.40 – Palazzo des Cinquecento an Via della Scala – Teil 7/15 (Y 68–70)
+### Schritt 38.41 – Palazzo des Cinquecento an Via della Scala – Teil 7/15 (Y 68–70)
 
 - **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.644
@@ -1342,7 +1377,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.41 – Palazzo des Cinquecento an Via della Scala – Teil 8/15 (Y 71–74)
+### Schritt 38.42 – Palazzo des Cinquecento an Via della Scala – Teil 8/15 (Y 71–74)
 
 - **Y-Bereich:** 71 bis 74
 - **Blöcke:** 2.092
@@ -1372,7 +1407,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.42 – Palazzo des Cinquecento an Via della Scala – Teil 9/15 (Y 75–77)
+### Schritt 38.43 – Palazzo des Cinquecento an Via della Scala – Teil 9/15 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.617
@@ -1403,7 +1438,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.43 – Palazzo des Cinquecento an Via della Scala – Teil 10/15 (Y 78–80)
+### Schritt 38.44 – Palazzo des Cinquecento an Via della Scala – Teil 10/15 (Y 78–80)
 
 - **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.644
@@ -1433,7 +1468,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.44 – Palazzo des Cinquecento an Via della Scala – Teil 11/15 (Y 81–84)
+### Schritt 38.45 – Palazzo des Cinquecento an Via della Scala – Teil 11/15 (Y 81–84)
 
 - **Y-Bereich:** 81 bis 84
 - **Blöcke:** 2.092
@@ -1463,7 +1498,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.45 – Palazzo des Cinquecento an Via della Scala – Teil 12/15 (Y 85–86)
+### Schritt 38.46 – Palazzo des Cinquecento an Via della Scala – Teil 12/15 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.232
@@ -1493,7 +1528,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.46 – Palazzo des Cinquecento an Via della Scala – Teil 13/15 (Y 87–88)
+### Schritt 38.47 – Palazzo des Cinquecento an Via della Scala – Teil 13/15 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 2.084
@@ -1524,7 +1559,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.47 – Palazzo des Cinquecento an Via della Scala – Teil 14/15 (Y 89–90)
+### Schritt 38.48 – Palazzo des Cinquecento an Via della Scala – Teil 14/15 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.407
@@ -1552,7 +1587,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.48 – Palazzo des Cinquecento an Via della Scala – Teil 15/15 (Y 91–97)
+### Schritt 38.49 – Palazzo des Cinquecento an Via della Scala – Teil 15/15 (Y 91–97)
 
 - **Y-Bereich:** 91 bis 97
 - **Blöcke:** 1.945
@@ -1581,7 +1616,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.49 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 1/4 (Y 57–67)
+### Schritt 38.50 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 1/4 (Y 57–67)
 
 - **Y-Bereich:** 57 bis 67
 - **Blöcke:** 1.497
@@ -1623,7 +1658,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.50 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 2/4 (Y 67–67)
+### Schritt 38.51 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 2/4 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.469
@@ -1652,7 +1687,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.51 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 3/4 (Y 68–77)
+### Schritt 38.52 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 3/4 (Y 68–77)
 
 - **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.480
@@ -1692,7 +1727,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.52 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 4/4 (Y 77–78)
+### Schritt 38.53 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 4/4 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.472
@@ -1730,7 +1765,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.53 – Haus w482739773 – Teil 1/6 (Y 54–58)
+### Schritt 38.54 – Haus w482739773 – Teil 1/6 (Y 54–58)
 
 - **Y-Bereich:** 54 bis 58
 - **Blöcke:** 1.856
@@ -1764,7 +1799,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.54 – Haus w482739773 – Teil 2/6 (Y 59–65)
+### Schritt 38.55 – Haus w482739773 – Teil 2/6 (Y 59–65)
 
 - **Y-Bereich:** 59 bis 65
 - **Blöcke:** 2.041
@@ -1797,7 +1832,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.55 – Haus w482739773 – Teil 3/6 (Y 66–72)
+### Schritt 38.56 – Haus w482739773 – Teil 3/6 (Y 66–72)
 
 - **Y-Bereich:** 66 bis 72
 - **Blöcke:** 2.018
@@ -1829,7 +1864,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.56 – Haus w482739773 – Teil 4/6 (Y 73–79)
+### Schritt 38.57 – Haus w482739773 – Teil 4/6 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
 - **Blöcke:** 2.052
@@ -1861,7 +1896,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.57 – Haus w482739773 – Teil 5/6 (Y 80–85)
+### Schritt 38.58 – Haus w482739773 – Teil 5/6 (Y 80–85)
 
 - **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.759
@@ -1893,7 +1928,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.58 – Haus w482739773 – Teil 6/6 (Y 86–92)
+### Schritt 38.59 – Haus w482739773 – Teil 6/6 (Y 86–92)
 
 - **Y-Bereich:** 86 bis 92
 - **Blöcke:** 2.042
@@ -1925,7 +1960,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.59 – Haus w482739773: Innenausbau
+### Schritt 38.60 – Haus w482739773: Innenausbau
 
 - **Y-Bereich:** 56 bis 77
 - **Blöcke:** 1.719
