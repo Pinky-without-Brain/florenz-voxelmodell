@@ -51,5 +51,34 @@ module.exports = {
       decke: 'Der Palast hat drei Stockwerke',
       dach: 'Die Fassade wurde 1950 und 1965 restauriert'
     }
+  },
+  palazzo_mozzi: {
+    bodenY: 66, traufe: 30, quelle: 'it.wikipedia, Palazzo dei Mozzi', loggiaBoden: false,
+    ohne: ['hofarkaden', 'innenwaende', 'innenwaende_og'],
+    hofText: 'Der Hof (21 × 20 Blöcke) bleibt offen; sein Boden aus Pflaster, Marmor und Pietra serena liegt auf Y 66. Vier Türen aus dem Erdgeschoss führen hinein.',
+    hofwaendeText: 'Die Hofwände steigen von Y 66 bis Y 96, verputzt, mit Gesimsen auf Höhe der Geschossböden und Fenstern in den Obergeschossen; im Erdgeschoss öffnen vier Türen den Hof.',
+    modul2: { title: 'Hofwände und Trennwände', subtitle: 'Bautüte 2: Hofwände, Hoffenster und Trennwände des Erdgeschosses', icon: '🧱' },
+    fassadeTitel: 'Außenwände aus kleinen behauenen Quadern, sieben Fornici, Rundbogenfenster',
+    aussenText: 'Die Außenwände sind zwei Blöcke dick: Im Erdgeschoss Rustika (kleine behauene Quader, bozze squadrate) aus Pietra forte, in den Obergeschossen Bruchstein mit glatten Lagen (jede vierte Lage Pietra forte); innen Putz. Im Erdgeschoss öffnen sich sieben Rundbogenportale (Fornici) zur Piazza dei Mozzi.',
+    aussenTip: 'Jede vierte Lage ist glatte Pietra forte, dazwischen Rustika oder Bruchstein.',
+    fensterText: 'Rundbogenfenster mit Glas im Raster 10 über den sieben Portalachsen, in den beiden Obergeschossen; das Erdgeschoss hat keine Fenster, nur die Fornici.',
+    kranzText: 'Das Kranzgesims aus Pietra serena bei Y 96 schließt die Fassade ab; darüber das Walmdach. Die guelfischen Zinnen sind nicht gebaut (im 19. Jahrhundert entfernt).',
+    arkadenText: '', trennText: 'Trennwände teilen den Palast im Erdgeschoss in die drei Vorderräume hinter den Fornici, West-, Saal- und Ostteil, das Geviert um den Hof, den Rückblock und den Ausläufer; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.',
+    dachTitel: 'Walmdach und Turm', dachTeilTitel: 'Walmdach', dachText: 'Ein Walmdach aus Dachziegeln deckt das Haus bis zu vier Lagen über der Traufe; darunter liegt der Dachraum.',
+    dachExtra: { turm: T('Turm', 'Über der Fassadenmitte steht ein Turm von 12 × 12 Blöcken bis Y 112: zwei Blöcke dicke Wände aus Bruchstein und Pietra forte, innen hohl, oben mit einer Platte aus Pietra serena geschlossen.', 'Erst die Wandschale, dann die Platte.', 'Der Schaft hat keinen Zugang; Maße und Lage des Turms sind Entwurf, Zinnen sind nicht gebaut.', 'Im Zentrum der Fassade steht ein hoher Turm; seine guelfischen Zinnen wurden im 19. Jahrhundert entfernt (Quelle: it.wikipedia, Palazzo dei Mozzi).') },
+    fakt: {
+      fundament: 'Der Palast entstand 1266–1273 durch die Vereinigung mehrerer mittelalterlicher Häuser und Türme für die Familie Mozzi; hinter ihm steigt ein steiler Hanggarten an',
+      boden: 'Die Fassade zur Piazza ist eine lange, strenge Front mit einer ununterbrochenen Reihe von Bögen im Erdgeschoss',
+      hof: 'Zum Hof enthält die Quelle keine Angaben; sein Umriss stammt aus OpenStreetMap',
+      treppe: 'Der Palast verbindet Merkmale der Turmbauten und der großen öffentlichen Paläste der Zeit, etwa des Bargello',
+      aussenwand: 'Die Fassade wird mit kleinen, behauenen Quadern (piccole bozze squadrate) beschrieben',
+      fenster: 'Die Erdgeschossfenster waren im 16. und 17. Jahrhundert als Kniefenster ausgeführt und wurden später entfernt',
+      kranzgesims: 'Der Stil wird als Übergang zwischen später Duecento- und früher Trecento-Architektur eingeordnet',
+      hofwaende: 'Zum Hof enthält die Quelle keine Angaben; sein Umriss stammt aus OpenStreetMap',
+      hoffenster: 'Die Fenster des Hofs folgen hier dem Raster der Fassade',
+      geschossboeden: 'Im ersten Stock liegt der große Saal mit Wandmalereien von 1778',
+      decke: 'Ende des 18. und Anfang des 19. Jahrhunderts baute Gasparo Maria Paoletti den Palast um',
+      dach: 'Im 19. und 20. Jahrhundert wurden barocke Elemente entfernt, um einen mittelalterlichen Eindruck herzustellen'
+    }
   }
 };

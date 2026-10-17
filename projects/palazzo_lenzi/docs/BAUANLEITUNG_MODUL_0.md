@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.806 |
+| Blöcke | 2.822 |
 | Bauschritte | 2 |
 | Y-Bereich | 55 bis 75 |
 | X-Ausdehnung | -1925 bis -1829 (97 Blöcke) |
 | Z-Ausdehnung | 156 bis 231 (76 Blöcke) |
 | Kleinster Schritt | 1.274 Blöcke (Schritt 0.1) |
-| Mittlerer Schritt | 1.403 Blöcke |
-| Größter Schritt | 1.532 Blöcke (Schritt 0.2) |
+| Mittlerer Schritt | 1.411 Blöcke |
+| Größter Schritt | 1.548 Blöcke (Schritt 0.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 1.292 | 46,0 % |
-| Rosa Keramik | `pink_terracotta` | 1.264 | 45,0 % |
-| Glatter Stein | `smooth_stone` | 210 | 7,5 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.300 | 46,1 % |
+| Rosa Keramik | `pink_terracotta` | 1.272 | 45,1 % |
+| Glatter Stein | `smooth_stone` | 210 | 7,4 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,4 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 | 0,4 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 | 0,4 % |
@@ -39,7 +39,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boden` | Boden | 2.556 | 0.1–0.2 |
+| 1 | `boden` | Boden | 2.572 | 0.1–0.2 |
 | 2 | `treppe` | Wendeltreppe | 250 | 0.2 |
 
 ## Bauschritte
@@ -54,8 +54,8 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 663 |
-| Rosa Keramik | `pink_terracotta` | 611 |
+| Glatter Quarzblock | `smooth_quartz` | 662 |
+| Rosa Keramik | `pink_terracotta` | 612 |
 
 **Beschreibung**
 
@@ -76,15 +76,15 @@ Von den fünf großen Portalen zur Piazza ist im Erdgeschoss nur das zentrale ur
 ### Schritt 0.2 – Boden – Teil 2/2 (Y 55–55) & Wendeltreppe
 
 - **Y-Bereich:** 55 bis 75
-- **Blöcke:** 1.532
+- **Blöcke:** 1.548
 - **Bauteile:** `boden`, `treppe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 653 |
-| Glatter Quarzblock | `smooth_quartz` | 629 |
+| Rosa Keramik | `pink_terracotta` | 660 |
+| Glatter Quarzblock | `smooth_quartz` | 638 |
 | Glatter Stein | `smooth_stone` | 210 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |

@@ -51,3 +51,4 @@ Alles vereinfacht in vollen Blöcken; Lage der Räume Stufe C.
 - EG-Fenster sind kleine Rundbogenfenster statt quadratischer Fenster (ein Fenstertyp je Palast).
 - Außenbauteile an der Fassade (Lumiera, Pferdering, Wappen, Eisengitter, Holzportal) nicht gebaut: nur Bauteile auf Straßenzellen ohne fremde Gebäude sind zulässig, Fassadenanbauten haben keinen Beleg zur Lage.
 - Zuschreibung (Cronaca oder Baccio d'Agnolo) ist in der Quelle nicht gesichert; das Modell trifft dazu keine Aussage.
+- Option `entlangGlatt` in `tools/wahrzeichen/palazzo.js` (Außennormale aus dem Umkreis 3) gesetzt, weil der Rahmen bei θ ≈ −48° diagonal zum Blockraster liegt; sonst zerreißen die Stufen der Kante Fenster und Portalbögen.

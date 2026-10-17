@@ -8,53 +8,53 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 16.377 |
-| Bauschritte | 11 |
+| Blöcke | 16.518 |
+| Bauschritte | 10 |
 | Y-Bereich | 62 bis 91 |
 | X-Ausdehnung | -1550 bis -1493 (58 Blöcke) |
 | Z-Ausdehnung | 1557 bis 1636 (80 Blöcke) |
-| Kleinster Schritt | 585 Blöcke (Schritt 1.10) |
-| Mittlerer Schritt | 1.489 Blöcke |
-| Größter Schritt | 2.027 Blöcke (Schritt 1.2) |
+| Kleinster Schritt | 1.150 Blöcke (Schritt 1.10) |
+| Mittlerer Schritt | 1.652 Blöcke |
+| Größter Schritt | 1.920 Blöcke (Schritt 1.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 7.802 | 47,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 3.327 | 20,3 % |
-| Polierter Andesit | `polished_andesite` | 3.178 | 19,4 % |
-| Glatter Stein | `smooth_stone` | 1.485 | 9,1 % |
-| Weißes Buntglas | `white_stained_glass` | 112 | 0,7 % |
-| Gelbes Buntglas | `yellow_stained_glass` | 110 | 0,7 % |
-| Blaues Buntglas | `blue_stained_glass` | 105 | 0,6 % |
-| Oranges Buntglas | `orange_stained_glass` | 102 | 0,6 % |
-| Hellblaues Buntglas | `light_blue_stained_glass` | 78 | 0,5 % |
-| Rotes Buntglas | `red_stained_glass` | 78 | 0,5 % |
+| Weißer Beton | `white_concrete` | 6.392 | 38,7 % |
+| Polierter Andesit | `polished_andesite` | 2.941 | 17,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 2.654 | 16,1 % |
+| Glatter Stein | `smooth_stone` | 1.485 | 9,0 % |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 623 | 3,8 % |
+| Rotes Buntglas | `red_stained_glass` | 623 | 3,8 % |
+| Blaues Buntglas | `blue_stained_glass` | 512 | 3,1 % |
+| Oranges Buntglas | `orange_stained_glass` | 512 | 3,1 % |
+| Weißes Buntglas | `white_stained_glass` | 389 | 2,4 % |
+| Gelbes Buntglas | `yellow_stained_glass` | 387 | 2,3 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `aussenwand` | Außenwände | 14.642 | 1.1–1.9 |
-| 2 | `fenster` | Fenster | 585 | 1.10 |
-| 3 | `kranzgesims` | Kranzgesims | 1.150 | 1.11 |
+| 1 | `aussenwand` | Außenwände | 12.322 | 1.1–1.7 |
+| 2 | `fenster` | Fenster | 3.046 | 1.8–1.9 |
+| 3 | `kranzgesims` | Kranzgesims | 1.150 | 1.10 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Außenwände – Teil 1/9 (Y 62–64)
+### Schritt 1.1 – Außenwände – Teil 1/7 (Y 62–65)
 
-- **Y-Bereich:** 62 bis 64
-- **Blöcke:** 1.484
+- **Y-Bereich:** 62 bis 65
+- **Blöcke:** 1.644
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 690 |
-| Tuffsteinziegel | `tuff_bricks` | 435 |
-| Polierter Andesit | `polished_andesite` | 359 |
+| Weißer Beton | `white_concrete` | 734 |
+| Tuffsteinziegel | `tuff_bricks` | 494 |
+| Polierter Andesit | `polished_andesite` | 416 |
 
 **Beschreibung**
 
@@ -72,48 +72,19 @@ Fenster und Portale bleiben beim Bauen frei.
 
 Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
 
-### Schritt 1.2 – Außenwände – Teil 2/9 (Y 65–68)
+### Schritt 1.2 – Außenwände – Teil 2/7 (Y 66–69)
 
-- **Y-Bereich:** 65 bis 68
-- **Blöcke:** 2.027
+- **Y-Bereich:** 66 bis 69
+- **Blöcke:** 1.872
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.002 |
-| Tuffsteinziegel | `tuff_bricks` | 557 |
-| Polierter Andesit | `polished_andesite` | 468 |
-
-**Beschreibung**
-
-Die Außenwände sind zwei Blöcke dick: im Erdgeschoss glatte Pietra forte mit kräftigen Eckpilastern aus Rustika (Bugnato), im ersten und zweiten Obergeschoss Bugnen aus Pietra forte (jede vierte Lage glatt), im obersten Geschoss glatte Pietra forte; innen Putz.
-
-**Tipp**
-
-Die Eckpilaster sind in den ersten vier Blöcken beider Fassadenenden Rustika.
-
-**Achtung**
-
-Fenster und Portale bleiben beim Bauen frei.
-
-**Fakt**
-
-Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
-
-### Schritt 1.3 – Außenwände – Teil 3/9 (Y 69–71)
-
-- **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.619
-- **Bauteile:** `aussenwand`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 774 |
-| Tuffsteinziegel | `tuff_bricks` | 548 |
+| Weißer Beton | `white_concrete` | 888 |
+| Tuffsteinziegel | `tuff_bricks` | 367 |
+| Polierter Andesit | `polished_andesite` | 320 |
 | Glatter Stein | `smooth_stone` | 297 |
 
 **Beschreibung**
@@ -132,19 +103,19 @@ Fenster und Portale bleiben beim Bauen frei.
 
 Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
 
-### Schritt 1.4 – Außenwände – Teil 4/9 (Y 72–74)
+### Schritt 1.3 – Außenwände – Teil 3/7 (Y 70–74)
 
-- **Y-Bereich:** 72 bis 74
-- **Blöcke:** 1.513
+- **Y-Bereich:** 70 bis 74
+- **Blöcke:** 1.828
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 758 |
-| Tuffsteinziegel | `tuff_bricks` | 504 |
-| Polierter Andesit | `polished_andesite` | 251 |
+| Tuffsteinziegel | `tuff_bricks` | 831 |
+| Weißer Beton | `white_concrete` | 821 |
+| Polierter Andesit | `polished_andesite` | 176 |
 
 **Beschreibung**
 
@@ -162,20 +133,20 @@ Fenster und Portale bleiben beim Bauen frei.
 
 Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
 
-### Schritt 1.5 – Außenwände – Teil 5/9 (Y 75–77)
+### Schritt 1.4 – Außenwände – Teil 4/7 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.693
+- **Blöcke:** 1.568
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 834 |
+| Weißer Beton | `white_concrete` | 757 |
 | Polierter Andesit | `polished_andesite` | 297 |
 | Glatter Stein | `smooth_stone` | 297 |
-| Tuffsteinziegel | `tuff_bricks` | 265 |
+| Tuffsteinziegel | `tuff_bricks` | 217 |
 
 **Beschreibung**
 
@@ -193,18 +164,19 @@ Fenster und Portale bleiben beim Bauen frei.
 
 Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
 
-### Schritt 1.6 – Außenwände – Teil 6/9 (Y 78–80)
+### Schritt 1.5 – Außenwände – Teil 5/7 (Y 78–82)
 
-- **Y-Bereich:** 78 bis 80
-- **Blöcke:** 1.587
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.765
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 834 |
-| Tuffsteinziegel | `tuff_bricks` | 753 |
+| Weißer Beton | `white_concrete` | 838 |
+| Tuffsteinziegel | `tuff_bricks` | 745 |
+| Polierter Andesit | `polished_andesite` | 182 |
 
 **Beschreibung**
 
@@ -222,10 +194,10 @@ Fenster und Portale bleiben beim Bauen frei.
 
 Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
 
-### Schritt 1.7 – Außenwände – Teil 7/9 (Y 81–83)
+### Schritt 1.6 – Außenwände – Teil 6/7 (Y 83–85)
 
-- **Y-Bereich:** 81 bis 83
-- **Blöcke:** 1.649
+- **Y-Bereich:** 83 bis 85
+- **Blöcke:** 1.725
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
@@ -233,9 +205,8 @@ Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 834 |
+| Polierter Andesit | `polished_andesite` | 594 |
 | Glatter Stein | `smooth_stone` | 297 |
-| Tuffsteinziegel | `tuff_bricks` | 265 |
-| Polierter Andesit | `polished_andesite` | 253 |
 
 **Beschreibung**
 
@@ -253,18 +224,18 @@ Fenster und Portale bleiben beim Bauen frei.
 
 Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
 
-### Schritt 1.8 – Außenwände – Teil 8/9 (Y 84–86)
+### Schritt 1.7 – Außenwände – Teil 7/7 (Y 86–89)
 
-- **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.630
+- **Y-Bereich:** 86 bis 89
+- **Blöcke:** 1.920
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 833 |
-| Weißer Beton | `white_concrete` | 797 |
+| Weißer Beton | `white_concrete` | 964 |
+| Polierter Andesit | `polished_andesite` | 956 |
 
 **Beschreibung**
 
@@ -282,51 +253,22 @@ Fenster und Portale bleiben beim Bauen frei.
 
 Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
 
-### Schritt 1.9 – Außenwände – Teil 9/9 (Y 87–89)
+### Schritt 1.8 – Fenster – Teil 1/2 (Y 64–73)
 
-- **Y-Bereich:** 87 bis 89
-- **Blöcke:** 1.440
-- **Bauteile:** `aussenwand`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 723 |
-| Polierter Andesit | `polished_andesite` | 717 |
-
-**Beschreibung**
-
-Die Außenwände sind zwei Blöcke dick: im Erdgeschoss glatte Pietra forte mit kräftigen Eckpilastern aus Rustika (Bugnato), im ersten und zweiten Obergeschoss Bugnen aus Pietra forte (jede vierte Lage glatt), im obersten Geschoss glatte Pietra forte; innen Putz.
-
-**Tipp**
-
-Die Eckpilaster sind in den ersten vier Blöcken beider Fassadenenden Rustika.
-
-**Achtung**
-
-Fenster und Portale bleiben beim Bauen frei.
-
-**Fakt**
-
-Das Erdgeschoss ist glatte Pietra forte mit kräftigen Eckpilastern in Bugnato (Quelle: it.wikipedia, Palazzo Guadagni).
-
-### Schritt 1.10 – Fenster
-
-- **Y-Bereich:** 64 bis 82
-- **Blöcke:** 585
+- **Y-Bereich:** 64 bis 73
+- **Blöcke:** 1.546
 - **Bauteile:** `fenster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißes Buntglas | `white_stained_glass` | 112 |
-| Gelbes Buntglas | `yellow_stained_glass` | 110 |
-| Blaues Buntglas | `blue_stained_glass` | 105 |
-| Oranges Buntglas | `orange_stained_glass` | 102 |
-| Hellblaues Buntglas | `light_blue_stained_glass` | 78 |
-| Rotes Buntglas | `red_stained_glass` | 78 |
+| Rotes Buntglas | `red_stained_glass` | 317 |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 315 |
+| Oranges Buntglas | `orange_stained_glass` | 261 |
+| Blaues Buntglas | `blue_stained_glass` | 257 |
+| Weißes Buntglas | `white_stained_glass` | 202 |
+| Gelbes Buntglas | `yellow_stained_glass` | 194 |
 
 **Beschreibung**
 
@@ -344,7 +286,40 @@ Die Fenster sind mit Glas gefüllt.
 
 Im ersten und zweiten Obergeschoss öffnen sich Rundbogenfenster mit erhabenen und flachen Bugnen (Quelle: it.wikipedia, Palazzo Guadagni).
 
-### Schritt 1.11 – Kranzgesims
+### Schritt 1.9 – Fenster – Teil 2/2 (Y 74–82)
+
+- **Y-Bereich:** 74 bis 82
+- **Blöcke:** 1.500
+- **Bauteile:** `fenster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 308 |
+| Rotes Buntglas | `red_stained_glass` | 306 |
+| Blaues Buntglas | `blue_stained_glass` | 255 |
+| Oranges Buntglas | `orange_stained_glass` | 251 |
+| Gelbes Buntglas | `yellow_stained_glass` | 193 |
+| Weißes Buntglas | `white_stained_glass` | 187 |
+
+**Beschreibung**
+
+Rundbogenfenster mit Glas im Raster 10 in fünf Achsen (das Portal liegt in der mittleren), im Erdgeschoss klein, in den beiden Obergeschossen höher; das oberste Geschoss ist die offene Loggia (Rechtecköffnungen, Brüstung zwei Blöcke hoch, Joch 5).
+
+**Tipp**
+
+Die Fenster sitzen im gleichen Raster in allen Geschossen.
+
+**Achtung**
+
+Die Fenster sind mit Glas gefüllt.
+
+**Fakt**
+
+Im ersten und zweiten Obergeschoss öffnen sich Rundbogenfenster mit erhabenen und flachen Bugnen (Quelle: it.wikipedia, Palazzo Guadagni).
+
+### Schritt 1.10 – Kranzgesims
 
 - **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.150

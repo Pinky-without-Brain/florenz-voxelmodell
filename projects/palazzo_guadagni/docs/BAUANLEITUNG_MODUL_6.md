@@ -8,34 +8,34 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 5.496 |
+| Blöcke | 5.433 |
 | Bauschritte | 6 |
 | Y-Bereich | 61 bis 90 |
 | X-Ausdehnung | -1550 bis -1497 (54 Blöcke) |
 | Z-Ausdehnung | 1559 bis 1632 (74 Blöcke) |
-| Kleinster Schritt | 395 Blöcke (Schritt 6.3) |
-| Mittlerer Schritt | 916 Blöcke |
+| Kleinster Schritt | 377 Blöcke (Schritt 6.3) |
+| Mittlerer Schritt | 906 Blöcke |
 | Größter Schritt | 1.546 Blöcke (Schritt 6.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 1.201 | 21,9 % |
-| Terrakotta | `terracotta` | 876 | 15,9 % |
-| Glatter Stein | `smooth_stone` | 829 | 15,1 % |
-| Rosa Keramik | `pink_terracotta` | 756 | 13,8 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 625 | 11,4 % |
-| Glatter Quarzblock | `smooth_quartz` | 449 | 8,2 % |
-| Polierter Tuffstein | `polished_tuff` | 423 | 7,7 % |
-| Weiße Keramik | `white_terracotta` | 107 | 1,9 % |
-| Goldblock | `gold_block` | 102 | 1,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 55 | 1,0 % |
+| Weißer Beton | `white_concrete` | 1.201 | 22,1 % |
+| Terrakotta | `terracotta` | 876 | 16,1 % |
+| Glatter Stein | `smooth_stone` | 805 | 14,8 % |
+| Rosa Keramik | `pink_terracotta` | 756 | 13,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 625 | 11,5 % |
+| Glatter Quarzblock | `smooth_quartz` | 448 | 8,2 % |
+| Polierter Tuffstein | `polished_tuff` | 419 | 7,7 % |
+| Weiße Keramik | `white_terracotta` | 99 | 1,8 % |
+| Goldblock | `gold_block` | 92 | 1,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 44 | 0,8 % |
 | Seelaterne | `sea_lantern` | 26 | 0,5 % |
-| Rote Keramik | `red_terracotta` | 24 | 0,4 % |
+| Rote Keramik | `red_terracotta` | 21 | 0,4 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 | 0,3 % |
-| Blaue Keramik | `blue_terracotta` | 4 | 0,1 % |
 | Wasser | `water` | 3 | 0,1 % |
+| Blaue Keramik | `blue_terracotta` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -47,12 +47,12 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `androne` | Torweg | 449 | 6.1 |
-| 2 | `treppenhaus` | Treppenhaus | 965 | 6.2 |
+| 1 | `androne` | Torweg | 464 | 6.1 |
+| 2 | `treppenhaus` | Treppenhaus | 929 | 6.2 |
 | 3 | `scalone` | Treppe aus Pietra serena | 30 | 6.3 |
-| 4 | `hofhalle` | Hofhalle | 365 | 6.3 |
+| 4 | `hofhalle` | Hofhalle | 347 | 6.3 |
 | 5 | `wandbrunnen` | Wandbrunnen mit Einhorn | 39 | 6.4 |
-| 6 | `sala_piano_nobile` | Saal im Piano nobile | 562 | 6.4 |
+| 6 | `sala_piano_nobile` | Saal im Piano nobile | 538 | 6.4 |
 | 7 | `dachloggia` | Dachloggia | 3.033 | 6.5–6.6 |
 | 8 | `panca` | Sockelbank (panca di via) | 27 | 6.6 |
 | 9 | `licht_ausstattung` | Licht in den Räumen | 26 | 6.6 |
@@ -62,17 +62,17 @@
 ### Schritt 6.1 – Torweg
 
 - **Y-Bereich:** 61 bis 68
-- **Blöcke:** 449
+- **Blöcke:** 464
 - **Bauteile:** `androne`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 244 |
+| Glatter Stein | `smooth_stone` | 259 |
 | Weißer Beton | `white_concrete` | 107 |
-| Polierter Tuffstein | `polished_tuff` | 88 |
-| Weiße Keramik | `white_terracotta` | 10 |
+| Polierter Tuffstein | `polished_tuff` | 84 |
+| Weiße Keramik | `white_terracotta` | 14 |
 
 **Beschreibung**
 
@@ -93,18 +93,18 @@ Der Torweg hat ein Kreuzgewölbe auf Lisenen und Säulen mit Renaissance-Kapitel
 ### Schritt 6.2 – Treppenhaus
 
 - **Y-Bereich:** 61 bis 73
-- **Blöcke:** 965
+- **Blöcke:** 929
 - **Bauteile:** `treppenhaus`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 315 |
+| Glatter Stein | `smooth_stone` | 294 |
 | Glatter Quarzblock | `smooth_quartz` | 275 |
 | Polierter Tuffstein | `polished_tuff` | 267 |
-| Weiße Keramik | `white_terracotta` | 63 |
-| Gelbe Keramik | `yellow_terracotta` | 45 |
+| Weiße Keramik | `white_terracotta` | 57 |
+| Gelbe Keramik | `yellow_terracotta` | 36 |
 
 **Beschreibung**
 
@@ -125,17 +125,17 @@ Die Treppe auf der linken Seite gilt als ursprünglich, die übrigen Elemente de
 ### Schritt 6.3 – Treppe aus Pietra serena & Hofhalle
 
 - **Y-Bereich:** 61 bis 69
-- **Blöcke:** 395
+- **Blöcke:** 377
 - **Bauteile:** `scalone`, `hofhalle`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 223 |
+| Glatter Stein | `smooth_stone` | 209 |
 | Polierter Tuffstein | `polished_tuff` | 68 |
 | Glatter Quarzblock | `smooth_quartz` | 60 |
-| Weiße Keramik | `white_terracotta` | 28 |
+| Weiße Keramik | `white_terracotta` | 24 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 |
 
 **Treppen je Material** (alle Richtungen)
@@ -163,7 +163,7 @@ Die Treppe aus Pietra serena auf der linken Seite des Eingangs gilt als die ursp
 ### Schritt 6.4 – Wandbrunnen mit Einhorn & Saal im Piano nobile
 
 - **Y-Bereich:** 62 bis 75
-- **Blöcke:** 601
+- **Blöcke:** 577
 - **Bauteile:** `wandbrunnen`, `sala_piano_nobile`
 
 **Teileliste**
@@ -171,16 +171,16 @@ Die Treppe aus Pietra serena auf der linken Seite des Eingangs gilt als die ursp
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 130 |
-| Glatter Quarzblock | `smooth_quartz` | 114 |
-| Goldblock | `gold_block` | 102 |
+| Glatter Quarzblock | `smooth_quartz` | 113 |
 | Weißer Beton | `white_concrete` | 96 |
+| Goldblock | `gold_block` | 92 |
 | Terrakotta | `terracotta` | 92 |
-| Rote Keramik | `red_terracotta` | 24 |
-| Glatter Stein | `smooth_stone` | 20 |
-| Gelbe Keramik | `yellow_terracotta` | 10 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Blaue Keramik | `blue_terracotta` | 4 |
+| Rote Keramik | `red_terracotta` | 21 |
+| Glatter Stein | `smooth_stone` | 16 |
+| Gelbe Keramik | `yellow_terracotta` | 8 |
+| Weiße Keramik | `white_terracotta` | 4 |
 | Wasser | `water` | 3 |
+| Blaue Keramik | `blue_terracotta` | 2 |
 
 **Beschreibung**
 

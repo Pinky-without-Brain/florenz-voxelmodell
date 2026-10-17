@@ -28,7 +28,7 @@ function module(id, D, R) {
   } };
   m[2] = { title: 'Hof', subtitle: 'Bautüte 2: Hofarkaden, Hofwände und Innenwände', icon: '🏛️', parts: {
     hofarkaden: T('Hofarkaden', D.arkadenText, 'Die Säulen stehen in gleichem Abstand am Hofrand.', 'Die Bögen bleiben offen.', f('hofarkaden')),
-    hofwaende: T('Hofwände', `Über den Arkaden steigen die Hofwände bis Y ${yT}, verputzt, mit Gesimsen auf Höhe der Geschossböden.`, 'Gesimse aus Pietra serena.', 'Fenster frei lassen.', f('hofwaende')),
+    hofwaende: T('Hofwände', D.hofwaendeText || `Über den Arkaden steigen die Hofwände bis Y ${yT}, verputzt, mit Gesimsen auf Höhe der Geschossböden.`, 'Gesimse aus Pietra serena.', 'Fenster frei lassen.', f('hofwaende')),
     hoffenster: T('Hoffenster', 'Zum Hof öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.', 'Je Joch ein Fenster.', 'Glas in die ganze Wandtiefe.', f('hoffenster')),
     innenwaende: T('Innenwände', 'Zwischen Galerie und Räumen steht im Erdgeschoss eine Innenwand mit Türen von 3 Blöcken Breite.', 'Türen in der Mitte jeder Hofseite.', 'Türen frei lassen.', f('innenwaende')),
     trennwaende: T('Trennwände', D.trennText, 'Türen beim Bauen frei lassen.', 'Die Wände stehen auf dem Boden des Erdgeschosses.', 'Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst.')

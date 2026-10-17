@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 66, Hof und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Palast tiefer liegt als Y 65, füllst du mit Bruchstein bis Y 65 auf; höher liegendes Gelände wurde bis Y 65 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 65 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Der Palast entstand 1266–1273 durch die Vereinigung mehrerer mittelalterlicher Häuser und Türme für die Familie Mozzi; hinter ihm steigt ein steiler Hanggarten an (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 66 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Die Fassade zur Piazza ist eine lange, strenge Front mit einer ununterbrochenen Reihe von Bögen im Erdgeschoss (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "hof": {
+      "title": "Hof",
+      "description": "Der Hof (21 × 20 Blöcke) bleibt offen; sein Boden aus Pflaster, Marmor und Pietra serena liegt auf Y 66. Vier Türen aus dem Erdgeschoss führen hinein.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Zum Hof enthält die Quelle keine Angaben; sein Umriss stammt aus OpenStreetMap (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt vom Erdgeschoss bis ins oberste Geschoss (Y 96).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Der Palast verbindet Merkmale der Turmbauten und der großen öffentlichen Paläste der Zeit, etwa des Bargello (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    }
+  }
+}

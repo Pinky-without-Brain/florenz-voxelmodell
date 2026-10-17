@@ -1,0 +1,43 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume, Hof und Wappen",
+  "subtitle": "Bautüte 6: Eingangshalle, Hof, Großer Saal und Wappen der Mozzi",
+  "icon": "🏰",
+  "parts": {
+    "vestibolo": {
+      "title": "Eingangshalle",
+      "description": "Halle hinter dem mittleren der sieben Fornici: Schachboden aus Pflaster und Marmor, Wandfelder zwischen Pilastern aus Pietra forte.",
+      "tip": "Boden zuerst, dann das Wandraster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage und Größe sind Entwurf (Stufe C); die Quelle beschreibt nur die Fassade.",
+      "fact": "Das Erdgeschoss der Fassade ist eine ununterbrochene Reihe von Bögen mit vorspringenden Vordächern (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "cortile": {
+      "title": "Hof",
+      "description": "Der Hof aus dem OSM-Umriss (21 × 20 Blöcke): Pflaster im Schachmuster mit Wegekreuz aus Pietra serena; vier Türen führen aus dem Erdgeschoss hinein.",
+      "tip": "Erst das Pflaster, die Türen bleiben frei.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Quelle beschreibt keinen Hof; Form und Pflaster stammen aus dem OSM-Umriss und sind Entwurf.",
+      "fact": "Der Palast entstand 1266–1273 durch die Vereinigung mehrerer mittelalterlicher Häuser und Türme (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "sala_grande": {
+      "title": "Großer Saal im ersten Stock",
+      "description": "Saal im ersten Obergeschoss über der Mitte des Vorderblocks: Cottoboden im Schachmuster, Wandfelder in Rot, Gelb, Blau und Grün mit Goldrahmen, Sockelzone in Braun und Fries in Hellblau als Wandmalereien, Deckenfeld in Weiß mit Goldpunkten, eine Tafel.",
+      "tip": "Boden, Wandraster, Decke, zuletzt die Tafel.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Malereien sind nur Farbflächen; Lage und Größe des Saals sind Entwurf (Stufe C).",
+      "fact": "Im ersten Stock liegt der große Saal mit Wandmalereien von 1778 (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "wappen": {
+      "title": "Wappen der Mozzi",
+      "description": "Schild aus dunklen Blöcken mit einem Kreuz aus hellem Stein über dem mittleren Fornice, an der Fassade zur Piazza.",
+      "tip": "Die Schildfläche ersetzt einzelne Wandblöcke über dem Bogen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Tolosakreuz ist als einfaches Kreuz angedeutet; die Quelle nennt keine Farben.",
+      "fact": "Über dem Eingang sitzt ein großes Wappen der Mozzi mit dem Tolosakreuz (Quelle: it.wikipedia, Palazzo dei Mozzi)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

@@ -8,63 +8,63 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 6.750 |
+| Blöcke | 6.592 |
 | Bauschritte | 6 |
 | Y-Bereich | 55 bis 84 |
 | X-Ausdehnung | -1922 bis -1831 (92 Blöcke) |
 | Z-Ausdehnung | 158 bis 216 (59 Blöcke) |
-| Kleinster Schritt | 409 Blöcke (Schritt 6.1) |
-| Mittlerer Schritt | 1.125 Blöcke |
-| Größter Schritt | 1.676 Blöcke (Schritt 6.2) |
+| Kleinster Schritt | 398 Blöcke (Schritt 6.1) |
+| Mittlerer Schritt | 1.099 Blöcke |
+| Größter Schritt | 1.671 Blöcke (Schritt 6.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.327 | 19,7 % |
-| Weißer Beton | `white_concrete` | 980 | 14,5 % |
-| Terrakotta | `terracotta` | 810 | 12,0 % |
-| Glatter Stein | `smooth_stone` | 701 | 10,4 % |
-| Glatter Quarzblock | `smooth_quartz` | 686 | 10,2 % |
-| Goldblock | `gold_block` | 540 | 8,0 % |
-| Hellblaue Keramik | `light_blue_terracotta` | 403 | 6,0 % |
-| Rote Keramik | `red_terracotta` | 372 | 5,5 % |
-| Weiße Keramik | `white_terracotta` | 365 | 5,4 % |
-| Polierter Tuffstein | `polished_tuff` | 301 | 4,5 % |
-| Braune Keramik | `brown_terracotta` | 104 | 1,5 % |
-| Rosa Keramik | `pink_terracotta` | 89 | 1,3 % |
-| Seelaterne | `sea_lantern` | 25 | 0,4 % |
-| Grüne Keramik | `green_terracotta` | 24 | 0,4 % |
-| Blaue Keramik | `blue_terracotta` | 17 | 0,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 6 | 0,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.282 | 19,4 % |
+| Weißer Beton | `white_concrete` | 980 | 14,9 % |
+| Terrakotta | `terracotta` | 810 | 12,3 % |
+| Glatter Stein | `smooth_stone` | 695 | 10,5 % |
+| Glatter Quarzblock | `smooth_quartz` | 680 | 10,3 % |
+| Goldblock | `gold_block` | 493 | 7,5 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 403 | 6,1 % |
+| Rote Keramik | `red_terracotta` | 368 | 5,6 % |
+| Weiße Keramik | `white_terracotta` | 342 | 5,2 % |
+| Polierter Tuffstein | `polished_tuff` | 301 | 4,6 % |
+| Rosa Keramik | `pink_terracotta` | 89 | 1,4 % |
+| Braune Keramik | `brown_terracotta` | 80 | 1,2 % |
+| Grüne Keramik | `green_terracotta` | 21 | 0,3 % |
+| Seelaterne | `sea_lantern` | 21 | 0,3 % |
+| Blaue Keramik | `blue_terracotta` | 19 | 0,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 8 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `vestibolo` | Vestibül hinter dem mittleren Portal | 409 | 6.1 |
-| 2 | `ausstellungssaal` | Ausstellungssaal mit Gewölben | 1.676 | 6.2 |
-| 3 | `bibliothek` | Bibliothek | 1.660 | 6.3 |
-| 4 | `stanza_alcova` | Stanza dell'Alcova | 1.354 | 6.4 |
-| 5 | `teatro` | Theater | 1.230 | 6.5 |
+| 1 | `vestibolo` | Vestibül hinter dem mittleren Portal | 398 | 6.1 |
+| 2 | `ausstellungssaal` | Ausstellungssaal mit Gewölben | 1.671 | 6.2 |
+| 3 | `bibliothek` | Bibliothek | 1.604 | 6.3 |
+| 4 | `stanza_alcova` | Stanza dell'Alcova | 1.329 | 6.4 |
+| 5 | `teatro` | Theater | 1.154 | 6.5 |
 | 6 | `dachloggetta` | Loggetta im obersten Geschoss | 357 | 6.6 |
-| 7 | `wappen` | Wappen | 39 | 6.6 |
-| 8 | `licht_ausstattung` | Licht in den Räumen | 25 | 6.6 |
+| 7 | `wappen` | Wappen | 58 | 6.6 |
+| 8 | `licht_ausstattung` | Licht in den Räumen | 21 | 6.6 |
 
 ## Bauschritte
 
 ### Schritt 6.1 – Vestibül hinter dem mittleren Portal
 
 - **Y-Bereich:** 55 bis 61
-- **Blöcke:** 409
+- **Blöcke:** 398
 - **Bauteile:** `vestibolo`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 256 |
-| Glatter Quarzblock | `smooth_quartz` | 105 |
+| Glatter Stein | `smooth_stone` | 252 |
+| Glatter Quarzblock | `smooth_quartz` | 98 |
 | Weiße Keramik | `white_terracotta` | 48 |
 
 **Beschreibung**
@@ -86,7 +86,7 @@ Von den fünf großen Portalen zur Piazza ist im Erdgeschoss nur das zentrale ur
 ### Schritt 6.2 – Ausstellungssaal mit Gewölben
 
 - **Y-Bereich:** 55 bis 64
-- **Blöcke:** 1.676
+- **Blöcke:** 1.671
 - **Bauteile:** `ausstellungssaal`
 
 **Teileliste**
@@ -94,10 +94,10 @@ Von den fünf großen Portalen zur Piazza ist im Erdgeschoss nur das zentrale ur
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 455 |
-| Glatter Stein | `smooth_stone` | 445 |
-| Glatter Quarzblock | `smooth_quartz` | 305 |
+| Glatter Stein | `smooth_stone` | 443 |
+| Glatter Quarzblock | `smooth_quartz` | 304 |
 | Polierter Tuffstein | `polished_tuff` | 301 |
-| Weiße Keramik | `white_terracotta` | 170 |
+| Weiße Keramik | `white_terracotta` | 168 |
 
 **Beschreibung**
 
@@ -118,18 +118,18 @@ Der Ausstellungssaal hat Gewölbe, deren Kapitelle vielleicht neoquattrocentesk 
 ### Schritt 6.3 – Bibliothek
 
 - **Y-Bereich:** 65 bis 74
-- **Blöcke:** 1.660
+- **Blöcke:** 1.604
 - **Bauteile:** `bibliothek`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 815 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 786 |
 | Weißer Beton | `white_concrete` | 401 |
 | Terrakotta | `terracotta` | 296 |
-| Braune Keramik | `brown_terracotta` | 104 |
-| Grüne Keramik | `green_terracotta` | 24 |
+| Braune Keramik | `brown_terracotta` | 80 |
+| Grüne Keramik | `green_terracotta` | 21 |
 | Rote Keramik | `red_terracotta` | 20 |
 
 **Beschreibung**
@@ -151,7 +151,7 @@ Das Haus beherbergt eine Bibliothek mit der Stanza dell'Alcova (Quelle: it.wikip
 ### Schritt 6.4 – Stanza dell'Alcova
 
 - **Y-Bereich:** 65 bis 74
-- **Blöcke:** 1.354
+- **Blöcke:** 1.329
 - **Bauteile:** `stanza_alcova`
 
 **Teileliste**
@@ -159,12 +159,12 @@ Das Haus beherbergt eine Bibliothek mit der Stanza dell'Alcova (Quelle: it.wikip
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellblaue Keramik | `light_blue_terracotta` | 403 |
-| Goldblock | `gold_block` | 287 |
-| Glatter Quarzblock | `smooth_quartz` | 274 |
+| Glatter Quarzblock | `smooth_quartz` | 272 |
+| Goldblock | `gold_block` | 271 |
 | Terrakotta | `terracotta` | 236 |
-| Weiße Keramik | `white_terracotta` | 78 |
+| Weiße Keramik | `white_terracotta` | 75 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 54 |
-| Rote Keramik | `red_terracotta` | 15 |
+| Rote Keramik | `red_terracotta` | 11 |
 | Blaue Keramik | `blue_terracotta` | 7 |
 
 **Beschreibung**
@@ -186,18 +186,18 @@ Die Stanza dell'Alcova hat Stuckdekor und einen Bogen mit den Wappen der Buini u
 ### Schritt 6.5 – Theater
 
 - **Y-Bereich:** 65 bis 74
-- **Blöcke:** 1.230
+- **Blöcke:** 1.154
 - **Bauteile:** `teatro`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 403 |
-| Rote Keramik | `red_terracotta` | 334 |
-| Goldblock | `gold_block` | 235 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 387 |
+| Rote Keramik | `red_terracotta` | 325 |
+| Goldblock | `gold_block` | 202 |
 | Terrakotta | `terracotta` | 189 |
-| Weiße Keramik | `white_terracotta` | 69 |
+| Weiße Keramik | `white_terracotta` | 51 |
 
 **Beschreibung**
 
@@ -218,7 +218,7 @@ Im ersten Stock gibt es ein Theater (Quelle: it.wikipedia, Palazzo Lenzi).
 ### Schritt 6.6 – Loggetta im obersten Geschoss & Wappen & Licht in den Räumen
 
 - **Y-Bereich:** 55 bis 84
-- **Blöcke:** 421
+- **Blöcke:** 436
 - **Bauteile:** `dachloggetta`, `wappen`, `licht_ausstattung`
 
 **Teileliste**
@@ -229,12 +229,12 @@ Im ersten Stock gibt es ein Theater (Quelle: it.wikipedia, Palazzo Lenzi).
 | Rosa Keramik | `pink_terracotta` | 89 |
 | Terrakotta | `terracotta` | 89 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 55 |
-| Seelaterne | `sea_lantern` | 25 |
-| Goldblock | `gold_block` | 18 |
-| Blaue Keramik | `blue_terracotta` | 10 |
-| Gelbe Keramik | `yellow_terracotta` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Glatter Quarzblock | `smooth_quartz` | 2 |
+| Seelaterne | `sea_lantern` | 21 |
+| Goldblock | `gold_block` | 20 |
+| Blaue Keramik | `blue_terracotta` | 12 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Gelbe Keramik | `yellow_terracotta` | 8 |
+| Glatter Quarzblock | `smooth_quartz` | 6 |
 
 **Beschreibung**
 

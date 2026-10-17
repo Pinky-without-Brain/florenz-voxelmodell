@@ -343,3 +343,11 @@ Drei Wahrzeichen der Welle 7c stehen von Anfang an auf `"begehbarkeit": "pflicht
 - **Sockel:** Stehzellen auf Sockeln höher als 1 Block über dem Boden sind ab 20 Zellen eine unerreichbare Komponente (Tribuna und Eingangshalle zuerst: Sockel 5 × 5 × 2); die Gruppensockel sind jetzt zweistufig (5 × 5 × 1, darüber 3 × 3).
 - **Ausstattung (Modul 6):** 16 Säle auf drei Ebenen nach der Raumfolge der Quelle (Eingang, Galleria delle Sculture, Pietà Bandini, Maddalena, Sala del Paradiso mit Fassadenreplik und Bronzeportalen, Cantorie, Silberaltar, Kuppelmodell, Fassadenmodelle, Giotto); alles vereinfacht, Lage Stufe C.
 
+
+## 24. Palazzi der Welle 8 (W8a, 17.10.2026)
+Vier Palazzi am Oltrarno und an den Lungarni sind eigene Wahrzeichen und stehen von Anfang an auf `"begehbarkeit": "pflicht"` (R13: 0 nicht erreichbare Komponenten, R14: 0 Lücken). Alle laufen über `tools/wahrzeichen/palazzo.js` mit `raeume`, Kataloge: `wahrzeichen/palazzo_guadagni/` usw. Der Content der Module 0 bis 5 entsteht mit `node tools/diag/w8a_inhalt.js <id>` (Angaben in `tools/diag/w8a_inhalt_daten.js`), Modul 6 aus `INHALT` in `model/_raeume.js`. Vermessung wie in §21 (`tools/diag/_karte_w7a.js`, `_hof_w7a.js`, `_strassen_w7a.js`).
+
+### Neue gemeinsame Werkzeuge (abwärtskompatibel)
+- **`entlangGlatt: true`** (Option von `palazzo.js`): Die Außennormale (`c.entlang`, `c.hofEntlang`) wird aus allen Außenzellen im Umkreis 3 bestimmt statt aus der ersten Außennachbarzelle. Bei Rahmen, die weit von den Weltachsen entfernt liegen (Mozzi 19°, Guadagni −48°, Lenzi 134°), nahm die alte Regel an den Stufen der schrägen Kante die falsche Wandachse; Folgen: Fenster zerrissen (`#A#`), Kerben in den Bogenschultern der Portale (eine Wandzelle in der Innenlage oberhalb des Bogens). Ohne die Option bleibt jedes bestehende Projekt bit-identisch gebaut (Bargello und `palazzi.test.js` grün).
+- **`tools/wahrzeichen/strasse.js`** (`aufStrasseFuer(projektDir)`): der Filter `aufStrasse` aus §21 als Bibliothek (Außenbauteile nur auf Straßen-/Platzzellen ohne fremde Gebäudepolygone im 5 × 5-Umfeld). Neu gegenüber §21: Die **eigenen** Gebäudepolygone des Projekts zählen nicht als fremd – Zellen im Polygon, aber außerhalb der Maske (Rasterung) sperrten sonst jede Bank (Guadagni: keine einzige Bankzelle).
+

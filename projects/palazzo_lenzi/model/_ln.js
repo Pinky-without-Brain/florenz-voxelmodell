@@ -23,6 +23,7 @@ const PZ = palazzo({
   dir: path.resolve(__dirname, '..'),
   geschosse: RAUM.GESCHOSSE,
   dach: { art: 'walm', hoehe: 3 },
+  entlangGlatt: true,
   hof: { tiefe: 0 },
   // Fünf Achsen im Raster 13,7 (Portale im EG); die beiden Obergeschosse tragen einfache Rundbogenfenster
   fenster: { abstand: RAUM.ACHSE, breite: 4, versatz: 0, sohle: [99, 3, 3], hoehe: [0, 5, 5] },

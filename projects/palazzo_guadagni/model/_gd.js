@@ -12,6 +12,7 @@ const PZ = palazzo({
   dir: path.resolve(__dirname, '..'),
   geschosse: RAUM.GESCHOSSE,
   dach: { art: 'walm', hoehe: 3 },
+  entlangGlatt: true,
   hof: { tiefe: 0 },
   // Rundbogenfenster im Raster 10 (fünf Achsen, Portal in der mittleren); das oberste Geschoss ist die offene Loggia (keine Fenster)
   fenster: { abstand: 10, breite: 4, versatz: 0.5, sohle: [3, 2, 2, 99], hoehe: [3, 4, 4, 0] },

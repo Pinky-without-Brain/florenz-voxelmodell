@@ -50,3 +50,4 @@ Alles vereinfacht in vollen Blöcken; Lage der Räume Stufe C.
 - Assunzione und mögliche Privatkapelle, Gewölbekapitelle: nicht gebaut.
 - Die Wappenfarben (Lenzi, Buini, Strozzi, Frescobaldi) sind nicht belegt; die Schilder tragen Platzhalterfarben.
 - Gebäudehöhe und Geschosshöhen folgen der OSM-Schätzung.
+- Option `entlangGlatt` in `tools/wahrzeichen/palazzo.js` (Außennormale aus dem Umkreis 3) gesetzt, weil der Rahmen bei θ ≈ 134° diagonal zum Blockraster liegt; sonst zerreißen die Stufen der Kante Fenster und Portalbögen.

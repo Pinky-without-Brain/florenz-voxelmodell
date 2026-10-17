@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.017 |
+| Blöcke | 2.023 |
 | Bauschritte | 1 |
 | Y-Bereich | 61 bis 83 |
 | X-Ausdehnung | -1550 bis -1493 (58 Blöcke) |
 | Z-Ausdehnung | 1557 bis 1636 (80 Blöcke) |
-| Kleinster Schritt | 2.017 Blöcke (Schritt 0.1) |
-| Mittlerer Schritt | 2.017 Blöcke |
-| Größter Schritt | 2.017 Blöcke (Schritt 0.1) |
+| Kleinster Schritt | 2.023 Blöcke (Schritt 0.1) |
+| Mittlerer Schritt | 2.023 Blöcke |
+| Größter Schritt | 2.023 Blöcke (Schritt 0.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 882 | 43,7 % |
-| Rosa Keramik | `pink_terracotta` | 857 | 42,5 % |
+| Glatter Quarzblock | `smooth_quartz` | 884 | 43,7 % |
+| Rosa Keramik | `pink_terracotta` | 861 | 42,6 % |
 | Glatter Stein | `smooth_stone` | 234 | 11,6 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,6 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 | 0,6 % |
@@ -39,7 +39,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boden` | Boden | 1.739 | 0.1 |
+| 1 | `boden` | Boden | 1.745 | 0.1 |
 | 2 | `treppe` | Wendeltreppe | 278 | 0.1 |
 
 ## Bauschritte
@@ -47,15 +47,15 @@
 ### Schritt 0.1 – Boden & Wendeltreppe
 
 - **Y-Bereich:** 61 bis 83
-- **Blöcke:** 2.017
+- **Blöcke:** 2.023
 - **Bauteile:** `boden`, `treppe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 882 |
-| Rosa Keramik | `pink_terracotta` | 857 |
+| Glatter Quarzblock | `smooth_quartz` | 884 |
+| Rosa Keramik | `pink_terracotta` | 861 |
 | Glatter Stein | `smooth_stone` | 234 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
