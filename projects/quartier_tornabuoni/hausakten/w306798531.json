@@ -1,11 +1,15 @@
 {
   "id": "w306798531",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh. (Fassade Via Santo Spirito 1559, manieristisch)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
@@ -13,37 +17,42 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 8,
     "material": "putz",
-    "putzfarbe": "sand",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "portal_seitlich",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "tabernakel",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 2
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "capponi_wappen",
+      "balkon_ueber_portal",
+      "olivenzweige"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi-Vettori",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: manieristischer Bau des 16. Jh., Fassade Via Santo Spirito 1559 (Ammannati oder Buontalenti zugeschrieben), vier Geschosse, Lungarno-Front verputzt in Ziegelrot mit acht Achsen (nach dem Ausbau im 19. Jh.), Portal leicht links versetzt mit Balkon, Bogenfenster mit Steinrahmen, Tabernakelfenster zur Via Santo Spirito, stark vorkragendes Vordach, Marcadavanzale-Gesims, Capponi-Wappen. Annahme: Rahmenstein (pietra serena), Fenstertyp der Lungarno-Seite.",
   "name": "Palazzo Capponi-Vettori"
 }

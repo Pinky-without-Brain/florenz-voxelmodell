@@ -1,20 +1,20 @@
 {
   "id": "w307153296",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "spätes 16. Jh. (Bau ab 1578, Fassade Giambologna; Umbau 1828–29)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 12
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 11
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 6,
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
@@ -30,15 +30,21 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "vecchietti_wappen_giambologna",
+      "diavolino_bronzekopie",
+      "balkone_19jh"
+    ],
+    "marcapiano": "flach",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Vecchietti",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Fassade Via de' Vecchietti spätrenaissancezeitlich (Bau ab 9. Juli 1578, Entwurf Giambologna), Strozzi-Seite mit sechs Achsen, plastische versetzte Eckquader, Architravfenster mit Inschriften am Piano nobile, Vecchietti-Wappen am Canto de' Diavoli mit Diavolino, zwei Balkone des 19. Jh., Umbau 1828–29 (Pasqui). Annahme: Geschosse, Material, Putzfarbe, Gesims.",
   "name": "Palazzo Vecchietti"
 }

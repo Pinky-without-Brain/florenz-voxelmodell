@@ -8,46 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 92.076 |
+| Blöcke | 92.325 |
 | Bauschritte | 57 |
 | Y-Bereich | 60 bis 109 |
 | X-Ausdehnung | -1239 bis -1109 (131 Blöcke) |
-| Z-Ausdehnung | 1006 bis 1124 (119 Blöcke) |
+| Z-Ausdehnung | 1005 bis 1124 (120 Blöcke) |
 | Kleinster Schritt | 567 Blöcke (Schritt 0.1) |
-| Mittlerer Schritt | 1.615 Blöcke |
-| Größter Schritt | 2.097 Blöcke (Schritt 0.17) |
+| Mittlerer Schritt | 1.620 Blöcke |
+| Größter Schritt | 2.078 Blöcke (Schritt 0.17) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 28.937 | 31,4 % |
+| Terrakotta | `terracotta` | 29.029 | 31,4 % |
 | Tuffstein | `tuff` | 9.118 | 9,9 % |
-| Polierter Tuffstein | `polished_tuff` | 8.242 | 9,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 8.077 | 8,8 % |
-| Rosa Keramik | `pink_terracotta` | 7.160 | 7,8 % |
-| Glatter Stein | `smooth_stone` | 5.652 | 6,1 % |
-| Endsteinziegel | `end_stone_bricks` | 5.598 | 6,1 % |
-| Weißer Beton | `white_concrete` | 5.419 | 5,9 % |
+| Polierter Tuffstein | `polished_tuff` | 8.241 | 8,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 8.077 | 8,7 % |
+| Rosa Keramik | `pink_terracotta` | 7.411 | 8,0 % |
+| Glatter Stein | `smooth_stone` | 5.899 | 6,4 % |
+| Orange Keramik | `orange_terracotta` | 5.647 | 6,1 % |
 | Gelbe Keramik | `yellow_terracotta` | 4.946 | 5,4 % |
-| Polierter Andesit | `polished_andesite` | 3.501 | 3,8 % |
-| Graues Buntglas | `gray_stained_glass` | 2.413 | 2,6 % |
+| Weißer Beton | `white_concrete` | 4.703 | 5,1 % |
+| Polierter Andesit | `polished_andesite` | 4.008 | 4,3 % |
+| Graues Buntglas | `gray_stained_glass` | 2.271 | 2,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 808 | 0,9 % |
+| Fichtenholz-Bretter | `spruce_planks` | 522 | 0,6 % |
 | Ziegelsteine | `bricks` | 490 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 405 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 355 | 0,4 % |
-| Grüner Beton | `green_concrete` | 237 | 0,3 % |
-| Seelaterne | `sea_lantern` | 161 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 76 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 72 | 0,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 356 | 0,4 % |
+| Seelaterne | `sea_lantern` | 164 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 77 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 73 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 66 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 65 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 65 | 0,1 % |
+| Grüner Beton | `green_concrete` | 66 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 66 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 66 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 58 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 50 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 54 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 46 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
@@ -59,8 +59,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 272 |
-| Steintreppe | `stone_stairs` | 136 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 274 |
+| Steintreppe | `stone_stairs` | 144 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 9 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -69,10 +69,10 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w118131733` | Renaissance-Palazzo an Piazza de' Frescobaldi | 21.690 | 0.1–0.13 |
 | 2 | `w118131733_innen` | Renaissance-Palazzo an Piazza de' Frescobaldi: Innenausbau | 4.210 | 0.14–0.16 |
-| 3 | `w306798510` | Palazzo Segni | 6.112 | 0.17–0.19 |
-| 4 | `w306798510_innen` | Palazzo Segni: Innenausbau | 901 | 0.20 |
-| 5 | `w306798531` | Palazzo Capponi-Vettori | 10.329 | 0.21–0.26 |
-| 6 | `w306798531_innen` | Palazzo Capponi-Vettori: Innenausbau | 2.191 | 0.27–0.28 |
+| 3 | `w306798510` | Palazzo Segni | 6.107 | 0.17–0.19 |
+| 4 | `w306798510_innen` | Palazzo Segni: Innenausbau | 913 | 0.20 |
+| 5 | `w306798531` | Palazzo Capponi-Vettori | 10.561 | 0.21–0.26 |
+| 6 | `w306798531_innen` | Palazzo Capponi-Vettori: Innenausbau | 2.201 | 0.27–0.28 |
 | 7 | `w477942441` | Reihenhaus an Piazza de' Frescobaldi | 5.191 | 0.29–0.31 |
 | 8 | `w477942441_innen` | Reihenhaus an Piazza de' Frescobaldi: Innenausbau | 1.034 | 0.32 |
 | 9 | `w477942442` | Reihenhaus an Via dei Coverelli | 5.502 | 0.33–0.35 |
@@ -636,23 +636,23 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.17 – Palazzo Segni – Teil 1/3 (Y 60–70)
 
 - **Y-Bereich:** 60 bis 70
-- **Blöcke:** 2.097
+- **Blöcke:** 2.078
 - **Bauteile:** `w306798510`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.152 |
-| Polierter Tuffstein | `polished_tuff` | 563 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
-| Polierter Andesit | `polished_andesite` | 40 |
-| Tuffsteinziegel | `tuff_bricks` | 14 |
+| Rosa Keramik | `pink_terracotta` | 1.240 |
+| Polierter Tuffstein | `polished_tuff` | 562 |
+| Polierter Andesit | `polished_andesite` | 181 |
+| Glatter Stein | `smooth_stone` | 52 |
+| Graues Buntglas | `gray_stained_glass` | 28 |
+| Tuffsteinziegel | `tuff_bricks` | 15 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Renaissance-Kern, 17./18. Jh. überarbeitet), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Segni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -664,26 +664,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.18 – Palazzo Segni – Teil 2/3 (Y 71–83)
 
 - **Y-Bereich:** 71 bis 83
-- **Blöcke:** 2.029
+- **Blöcke:** 2.040
 - **Bauteile:** `w306798510`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.516 |
-| Glatter Stein | `smooth_stone` | 335 |
-| Graues Buntglas | `gray_stained_glass` | 140 |
-| Polierter Andesit | `polished_andesite` | 38 |
+| Rosa Keramik | `pink_terracotta` | 1.601 |
+| Polierter Andesit | `polished_andesite` | 217 |
+| Glatter Stein | `smooth_stone` | 122 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Renaissance-Kern, 17./18. Jh. überarbeitet), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Segni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -695,29 +695,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.19 – Palazzo Segni – Teil 3/3 (Y 84–96)
 
 - **Y-Bereich:** 84 bis 96
-- **Blöcke:** 1.986
+- **Blöcke:** 1.989
 - **Bauteile:** `w306798510`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 861 |
-| Terrakotta | `terracotta` | 776 |
-| Glatter Stein | `smooth_stone` | 110 |
-| Fichtenholz-Bretter | `spruce_planks` | 96 |
+| Rosa Keramik | `pink_terracotta` | 939 |
+| Terrakotta | `terracotta` | 742 |
+| Polierter Andesit | `polished_andesite` | 185 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
 | Ziegelsteine | `bricks` | 43 |
-| Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Renaissance-Kern, 17./18. Jh. überarbeitet), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Segni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -729,35 +727,35 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.20 – Palazzo Segni: Innenausbau
 
-- **Y-Bereich:** 60 bis 81
-- **Blöcke:** 901
+- **Y-Bereich:** 60 bis 83
+- **Blöcke:** 913
 - **Bauteile:** `w306798510_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 788 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
+| Terrakotta | `terracotta` | 786 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
+| Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 6 |
-| Seelaterne | `sea_lantern` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Steintreppe | `stone_stairs` | 44 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
@@ -786,14 +784,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.287 |
-| Endsteinziegel | `end_stone_bricks` | 482 |
+| Orange Keramik | `orange_terracotta` | 484 |
 | Polierter Andesit | `polished_andesite` | 7 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Glatter Stein | `smooth_stone` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Fassade Via Santo Spirito 1559, manieristisch)), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi-Vettori, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -805,29 +803,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.22 – Palazzo Capponi-Vettori – Teil 2/6 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
-- **Blöcke:** 1.608
+- **Blöcke:** 1.636
 - **Bauteile:** `w306798531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.238 |
-| Weißer Beton | `white_concrete` | 174 |
-| Graues Buntglas | `gray_stained_glass` | 85 |
-| Grüner Beton | `green_concrete` | 45 |
-| Polierter Andesit | `polished_andesite` | 28 |
-| Glatter Stein | `smooth_stone` | 23 |
-| Tuffsteinziegel | `tuff_bricks` | 15 |
+| Orange Keramik | `orange_terracotta` | 1.207 |
+| Glatter Stein | `smooth_stone` | 317 |
+| Polierter Andesit | `polished_andesite` | 50 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Tuffsteinziegel | `tuff_bricks` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Fassade Via Santo Spirito 1559, manieristisch)), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi-Vettori, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -839,28 +835,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.23 – Palazzo Capponi-Vettori – Teil 3/6 (Y 71–77)
+### Schritt 0.23 – Palazzo Capponi-Vettori – Teil 3/6 (Y 71–78)
 
-- **Y-Bereich:** 71 bis 77
-- **Blöcke:** 1.664
+- **Y-Bereich:** 71 bis 78
+- **Blöcke:** 1.937
 - **Bauteile:** `w306798531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.323 |
-| Weißer Beton | `white_concrete` | 119 |
-| Glatter Stein | `smooth_stone` | 101 |
-| Graues Buntglas | `gray_stained_glass` | 69 |
-| Grüner Beton | `green_concrete` | 42 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Orange Keramik | `orange_terracotta` | 1.632 |
+| Glatter Stein | `smooth_stone` | 240 |
+| Graues Buntglas | `gray_stained_glass` | 52 |
+| Polierter Andesit | `polished_andesite` | 13 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Fassade Via Santo Spirito 1559, manieristisch)), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi-Vettori, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -872,61 +866,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.24 – Palazzo Capponi-Vettori – Teil 4/6 (Y 78–85)
+### Schritt 0.24 – Palazzo Capponi-Vettori – Teil 4/6 (Y 79–85)
 
-- **Y-Bereich:** 78 bis 85
-- **Blöcke:** 1.909
+- **Y-Bereich:** 79 bis 85
+- **Blöcke:** 1.692
 - **Bauteile:** `w306798531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.447 |
-| Weißer Beton | `white_concrete` | 235 |
-| Glatter Stein | `smooth_stone` | 101 |
-| Graues Buntglas | `gray_stained_glass` | 69 |
-| Grüner Beton | `green_concrete` | 42 |
-| Polierter Andesit | `polished_andesite` | 15 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.25 – Palazzo Capponi-Vettori – Teil 5/6 (Y 86–91)
-
-- **Y-Bereich:** 86 bis 91
-- **Blöcke:** 1.603
-- **Bauteile:** `w306798531`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.108 |
-| Weißer Beton | `white_concrete` | 188 |
-| Glatter Stein | `smooth_stone` | 184 |
-| Graues Buntglas | `gray_stained_glass` | 69 |
-| Grüner Beton | `green_concrete` | 42 |
+| Orange Keramik | `orange_terracotta` | 1.244 |
+| Glatter Stein | `smooth_stone` | 384 |
+| Graues Buntglas | `gray_stained_glass` | 52 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Fassade Via Santo Spirito 1559, manieristisch)), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi-Vettori, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -938,24 +897,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.26 – Palazzo Capponi-Vettori – Teil 6/6 (Y 92–97)
+### Schritt 0.25 – Palazzo Capponi-Vettori – Teil 5/6 (Y 86–91)
 
-- **Y-Bereich:** 92 bis 97
-- **Blöcke:** 1.760
+- **Y-Bereich:** 86 bis 91
+- **Blöcke:** 1.623
 - **Bauteile:** `w306798531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.696 |
-| Ziegelsteine | `bricks` | 64 |
+| Orange Keramik | `orange_terracotta` | 1.080 |
+| Glatter Stein | `smooth_stone` | 240 |
+| Fichtenholz-Bretter | `spruce_planks` | 213 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Fassade Via Santo Spirito 1559, manieristisch)), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi-Vettori, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -967,12 +929,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.27 – Palazzo Capponi-Vettori: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 0.26 – Palazzo Capponi-Vettori – Teil 6/6 (Y 92–97)
 
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.098
+- **Y-Bereich:** 92 bis 97
+- **Blöcke:** 1.888
+- **Bauteile:** `w306798531`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.824 |
+| Ziegelsteine | `bricks` | 64 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16. Jh. (Fassade Via Santo Spirito 1559, manieristisch)), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Capponi-Vettori, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 0.27 – Palazzo Capponi-Vettori: Innenausbau – Teil 1/2 (Y 61–74)
+
+- **Y-Bereich:** 61 bis 74
+- **Blöcke:** 1.106
 - **Bauteile:** `w306798531_innen`
 
 **Teileliste**
@@ -980,16 +971,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.034 |
-| Glatter Stein | `smooth_stone` | 28 |
+| Glatter Stein | `smooth_stone` | 32 |
 | Seelaterne | `sea_lantern` | 14 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 26 |
 
 **Beschreibung**
 
@@ -1007,10 +998,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.28 – Palazzo Capponi-Vettori: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 0.28 – Palazzo Capponi-Vettori: Innenausbau – Teil 2/2 (Y 75–84)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.093
+- **Y-Bereich:** 75 bis 84
+- **Blöcke:** 1.095
 - **Bauteile:** `w306798531_innen`
 
 **Teileliste**
@@ -1022,8 +1013,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 

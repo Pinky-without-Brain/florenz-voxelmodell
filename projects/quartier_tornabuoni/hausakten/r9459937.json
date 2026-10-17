@@ -1,7 +1,7 @@
 {
   "id": "r9459937",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,16 +9,16 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 7,
+    "achsen": 9,
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
@@ -26,23 +26,27 @@
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "putz",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "steinkonsolen_mit_archetti",
+      "mohnblumen_konsolen",
+      "edikula_kreuzigung"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Fassade Via Porta Rossa frühes 16. Jh. (Umbau Baccio d'Agnolo zugeschrieben, unsicher), neun Achsen, davon fünf im Mittelkörper, Rundbogenfenster mit glatten Keilsteinrahmen, Steinkonsolen mit Bögen tragen den Mittelkörper, Mohnblumen auf den Konsolen, Via delle Terme verputzt und dreigeschossig, Turm 12./13. Jh. mit geneigtem Dach. Annahme: Putzfarbe, Erdgeschossform, Traufe.",
   "name": "Palazzo Bartolini-Torrigiani"
 }
