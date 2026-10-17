@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 24: Isolato I0519
+# Bauanleitung Modul 24: Isolato I0538
 
 *Quartier Costa San Giorgio: 1 Haus*
 
@@ -8,78 +8,65 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.669 |
-| Bauschritte | 7 |
-| Y-Bereich | 192 bis 229 |
-| X-Ausdehnung | -128 bis -67 (62 Blöcke) |
-| Z-Ausdehnung | 2190 bis 2220 (31 Blöcke) |
-| Kleinster Schritt | 1.082 Blöcke (Schritt 24.7) |
-| Mittlerer Schritt | 1.667 Blöcke |
-| Größter Schritt | 1.962 Blöcke (Schritt 24.6) |
+| Blöcke | 12.825 |
+| Bauschritte | 8 |
+| Y-Bereich | 183 bis 221 |
+| X-Ausdehnung | 38 bis 99 (62 Blöcke) |
+| Z-Ausdehnung | 2161 bis 2207 (47 Blöcke) |
+| Kleinster Schritt | 971 Blöcke (Schritt 24.8) |
+| Mittlerer Schritt | 1.603 Blöcke |
+| Größter Schritt | 1.849 Blöcke (Schritt 24.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 5.419 | 46,4 % |
-| Terrakotta | `terracotta` | 2.051 | 17,6 % |
-| Weißer Beton | `white_concrete` | 1.417 | 12,1 % |
-| Polierter Tuffstein | `polished_tuff` | 784 | 6,7 % |
-| Graues Buntglas | `gray_stained_glass` | 604 | 5,2 % |
-| Grüner Beton | `green_concrete` | 562 | 4,8 % |
-| Glatter Stein | `smooth_stone` | 346 | 3,0 % |
-| Polierter Andesit | `polished_andesite` | 319 | 2,7 % |
-| Ziegelsteine | `bricks` | 63 | 0,5 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,2 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,2 % |
-| Tuffstein | `tuff` | 18 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 16 | 0,1 % |
+| Tuffstein | `tuff` | 3.418 | 26,7 % |
+| Polierter Andesit | `polished_andesite` | 2.939 | 22,9 % |
+| Glatter Stein | `smooth_stone` | 2.547 | 19,9 % |
+| Terrakotta | `terracotta` | 1.979 | 15,4 % |
+| Polierter Tuffstein | `polished_tuff` | 742 | 5,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 634 | 4,9 % |
+| Graues Buntglas | `gray_stained_glass` | 469 | 3,7 % |
+| Ziegelsteine | `bricks` | 48 | 0,4 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,2 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,1 % |
 | Seelaterne | `sea_lantern` | 9 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 6 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 6 | 0,1 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758448` | Haus w397758448 | 10.587 | 24.1–24.6 |
-| 2 | `w397758448_innen` | Haus w397758448: Innenausbau | 1.082 | 24.7 |
+| 1 | `w397758438` | Haus w397758438 | 11.854 | 24.1–24.7 |
+| 2 | `w397758438_innen` | Haus w397758438: Innenausbau | 971 | 24.8 |
 
 ## Bauschritte
 
-### Schritt 24.1 – Haus w397758448 – Teil 1/6 (Y 192–196)
+### Schritt 24.1 – Haus w397758438 – Teil 1/7 (Y 183–187)
 
-- **Y-Bereich:** 192 bis 196
-- **Blöcke:** 1.722
-- **Bauteile:** `w397758448`
+- **Y-Bereich:** 183 bis 187
+- **Blöcke:** 1.683
+- **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 784 |
-| Rosa Keramik | `pink_terracotta` | 684 |
-| Weißer Beton | `white_concrete` | 182 |
-| Polierter Andesit | `polished_andesite` | 39 |
-| Tuffstein | `tuff` | 18 |
-| Glatter Stein | `smooth_stone` | 12 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Polierter Tuffstein | `polished_tuff` | 742 |
+| Tuffstein | `tuff` | 573 |
+| Polierter Andesit | `polished_andesite` | 183 |
+| Tuffsteinziegel | `tuff_bricks` | 166 |
+| Glatter Stein | `smooth_stone` | 19 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -93,27 +80,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.2 – Haus w397758448 – Teil 2/6 (Y 197–203)
+### Schritt 24.2 – Haus w397758438 – Teil 2/7 (Y 188–193)
 
-- **Y-Bereich:** 197 bis 203
-- **Blöcke:** 1.895
-- **Bauteile:** `w397758448`
+- **Y-Bereich:** 188 bis 193
+- **Blöcke:** 1.719
+- **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.083 |
-| Weißer Beton | `white_concrete` | 216 |
-| Glatter Stein | `smooth_stone` | 191 |
-| Graues Buntglas | `gray_stained_glass` | 164 |
-| Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 76 |
-| Tuffsteinziegel | `tuff_bricks` | 13 |
+| Tuffstein | `tuff` | 579 |
+| Tuffsteinziegel | `tuff_bricks` | 341 |
+| Glatter Stein | `smooth_stone` | 326 |
+| Polierter Andesit | `polished_andesite` | 320 |
+| Graues Buntglas | `gray_stained_glass` | 153 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -127,25 +112,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.3 – Haus w397758448 – Teil 3/6 (Y 204–209)
+### Schritt 24.3 – Haus w397758438 – Teil 3/7 (Y 194–198)
 
-- **Y-Bereich:** 204 bis 209
-- **Blöcke:** 1.648
-- **Bauteile:** `w397758448`
+- **Y-Bereich:** 194 bis 198
+- **Blöcke:** 1.604
+- **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.016 |
-| Weißer Beton | `white_concrete` | 229 |
-| Graues Buntglas | `gray_stained_glass` | 176 |
-| Grüner Beton | `green_concrete` | 164 |
-| Polierter Andesit | `polished_andesite` | 63 |
+| Tuffstein | `tuff` | 555 |
+| Polierter Andesit | `polished_andesite` | 462 |
+| Glatter Stein | `smooth_stone` | 460 |
+| Tuffsteinziegel | `tuff_bricks` | 127 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -159,26 +143,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.4 – Haus w397758448 – Teil 4/6 (Y 210–215)
+### Schritt 24.4 – Haus w397758438 – Teil 4/7 (Y 199–204)
 
-- **Y-Bereich:** 210 bis 215
-- **Blöcke:** 1.744
-- **Bauteile:** `w397758448`
+- **Y-Bereich:** 199 bis 204
+- **Blöcke:** 1.706
+- **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.109 |
-| Weißer Beton | `white_concrete` | 402 |
-| Glatter Stein | `smooth_stone` | 91 |
-| Polierter Andesit | `polished_andesite` | 57 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Grüner Beton | `green_concrete` | 41 |
+| Polierter Andesit | `polished_andesite` | 660 |
+| Tuffstein | `tuff` | 578 |
+| Glatter Stein | `smooth_stone` | 310 |
+| Graues Buntglas | `gray_stained_glass` | 158 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -192,25 +174,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.5 – Haus w397758448 – Teil 5/6 (Y 216–221)
+### Schritt 24.5 – Haus w397758438 – Teil 5/7 (Y 205–210)
 
-- **Y-Bereich:** 216 bis 221
-- **Blöcke:** 1.616
-- **Bauteile:** `w397758448`
+- **Y-Bereich:** 205 bis 210
+- **Blöcke:** 1.849
+- **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 862 |
-| Weißer Beton | `white_concrete` | 266 |
-| Graues Buntglas | `gray_stained_glass` | 220 |
-| Grüner Beton | `green_concrete` | 205 |
-| Polierter Andesit | `polished_andesite` | 63 |
+| Polierter Andesit | `polished_andesite` | 616 |
+| Tuffstein | `tuff` | 612 |
+| Glatter Stein | `smooth_stone` | 525 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -224,25 +205,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.6 – Haus w397758448 – Teil 6/6 (Y 222–229)
+### Schritt 24.6 – Haus w397758438 – Teil 6/7 (Y 211–214)
 
-- **Y-Bereich:** 222 bis 229
-- **Blöcke:** 1.962
-- **Bauteile:** `w397758448`
+- **Y-Bereich:** 211 bis 214
+- **Blöcke:** 1.482
+- **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.091 |
-| Rosa Keramik | `pink_terracotta` | 665 |
-| Weißer Beton | `white_concrete` | 122 |
-| Ziegelsteine | `bricks` | 63 |
-| Polierter Andesit | `polished_andesite` | 21 |
+| Polierter Andesit | `polished_andesite` | 513 |
+| Glatter Stein | `smooth_stone` | 497 |
+| Tuffstein | `tuff` | 410 |
+| Graues Buntglas | `gray_stained_glass` | 62 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -256,35 +236,59 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.7 – Haus w397758448: Innenausbau
+### Schritt 24.7 – Haus w397758438 – Teil 7/7 (Y 215–221)
 
-- **Y-Bereich:** 193 bis 214
-- **Blöcke:** 1.082
-- **Bauteile:** `w397758448_innen`
+- **Y-Bereich:** 215 bis 221
+- **Blöcke:** 1.811
+- **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 960 |
+| Terrakotta | `terracotta` | 1.109 |
+| Glatter Stein | `smooth_stone` | 358 |
+| Polierter Andesit | `polished_andesite` | 185 |
+| Tuffstein | `tuff` | 111 |
+| Ziegelsteine | `bricks` | 48 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 24.8 – Haus w397758438: Innenausbau
+
+- **Y-Bereich:** 185 bis 205
+- **Blöcke:** 971
+- **Bauteile:** `w397758438_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 870 |
 | Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
 | Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 **Beschreibung**
 

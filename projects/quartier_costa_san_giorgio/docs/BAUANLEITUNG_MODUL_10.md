@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 10: Isolato I0449
+# Bauanleitung Modul 10: Isolato I0458
 
 *Quartier Costa San Giorgio: 1 Haus*
 
@@ -8,62 +8,69 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 5.593 |
-| Bauschritte | 3 |
-| Y-Bereich | 180 bis 192 |
-| X-Ausdehnung | -485 bis -397 (89 Blöcke) |
-| Z-Ausdehnung | 2010 bis 2030 (21 Blöcke) |
-| Kleinster Schritt | 1.752 Blöcke (Schritt 10.2) |
-| Mittlerer Schritt | 1.864 Blöcke |
-| Größter Schritt | 2.013 Blöcke (Schritt 10.1) |
+| Blöcke | 8.269 |
+| Bauschritte | 5 |
+| Y-Bereich | 129 bis 165 |
+| X-Ausdehnung | -415 bis -377 (39 Blöcke) |
+| Z-Ausdehnung | 1850 bis 1879 (30 Blöcke) |
+| Kleinster Schritt | 1.174 Blöcke (Schritt 10.5) |
+| Mittlerer Schritt | 1.654 Blöcke |
+| Größter Schritt | 1.862 Blöcke (Schritt 10.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 3.366 | 60,2 % |
-| Terrakotta | `terracotta` | 1.030 | 18,4 % |
-| Polierter Tuffstein | `polished_tuff` | 861 | 15,4 % |
-| Graues Buntglas | `gray_stained_glass` | 211 | 3,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 95 | 1,7 % |
-| Glatter Stein | `smooth_stone` | 22 | 0,4 % |
-| Seelaterne | `sea_lantern` | 5 | 0,1 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
+| Orange Keramik | `orange_terracotta` | 4.892 | 59,2 % |
+| Terrakotta | `terracotta` | 1.791 | 21,7 % |
+| Polierter Tuffstein | `polished_tuff` | 554 | 6,7 % |
+| Graues Buntglas | `gray_stained_glass` | 479 | 5,8 % |
+| Grüner Beton | `green_concrete` | 284 | 3,4 % |
+| Glatter Stein | `smooth_stone` | 103 | 1,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,8 % |
+| Ziegelsteine | `bricks` | 29 | 0,4 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,3 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
+| Seelaterne | `sea_lantern` | 8 | 0,1 % |
+| Tuffstein | `tuff` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w1342926025` | Haus w1342926025 | 5.585 | 10.1–10.3 |
-| 2 | `w1342926025_innen` | Haus w1342926025: Innenausbau | 8 | 10.3 |
+| 1 | `w119220017` | Haus w119220017 | 7.095 | 10.1–10.4 |
+| 2 | `w119220017_innen` | Haus w119220017: Innenausbau | 1.174 | 10.5 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Haus w1342926025 – Teil 1/3 (Y 180–183)
+### Schritt 10.1 – Haus w119220017 – Teil 1/4 (Y 129–137)
 
-- **Y-Bereich:** 180 bis 183
-- **Blöcke:** 2.013
-- **Bauteile:** `w1342926025`
+- **Y-Bereich:** 129 bis 137
+- **Blöcke:** 1.827
+- **Bauteile:** `w119220017`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.146 |
-| Polierter Tuffstein | `polished_tuff` | 861 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Orange Keramik | `orange_terracotta` | 1.000 |
+| Polierter Tuffstein | `polished_tuff` | 554 |
+| Graues Buntglas | `gray_stained_glass` | 137 |
+| Glatter Stein | `smooth_stone` | 103 |
+| Grüner Beton | `green_concrete` | 32 |
+| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 
-Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -77,24 +84,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Haus w1342926025 – Teil 2/3 (Y 184–188)
+### Schritt 10.2 – Haus w119220017 – Teil 2/4 (Y 138–146)
 
-- **Y-Bereich:** 184 bis 188
-- **Blöcke:** 1.752
-- **Bauteile:** `w1342926025`
+- **Y-Bereich:** 138 bis 146
+- **Blöcke:** 1.714
+- **Bauteile:** `w119220017`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.430 |
-| Graues Buntglas | `gray_stained_glass` | 211 |
-| Fichtenholz-Bretter | `spruce_planks` | 95 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Orange Keramik | `orange_terracotta` | 1.516 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
+| Grüner Beton | `green_concrete` | 84 |
 
 **Beschreibung**
 
-Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -108,41 +114,104 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Haus w1342926025 – Teil 3/3 (Y 189–192) & Haus w1342926025: Innenausbau
+### Schritt 10.3 – Haus w119220017 – Teil 3/4 (Y 147–155)
 
-- **Y-Bereich:** 180 bis 192
-- **Blöcke:** 1.828
-- **Bauteile:** `w1342926025`, `w1342926025_innen`
+- **Y-Bereich:** 147 bis 155
+- **Blöcke:** 1.692
+- **Bauteile:** `w119220017`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.030 |
-| Weißer Beton | `white_concrete` | 790 |
-| Seelaterne | `sea_lantern` | 5 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Orange Keramik | `orange_terracotta` | 1.437 |
+| Graues Buntglas | `gray_stained_glass` | 143 |
+| Grüner Beton | `green_concrete` | 112 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.4 – Haus w119220017 – Teil 4/4 (Y 156–165)
+
+- **Y-Bereich:** 156 bis 165
+- **Blöcke:** 1.862
+- **Bauteile:** `w119220017`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 939 |
+| Terrakotta | `terracotta` | 753 |
+| Graues Buntglas | `gray_stained_glass` | 85 |
+| Grüner Beton | `green_concrete` | 56 |
+| Ziegelsteine | `bricks` | 29 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.5 – Haus w119220017: Innenausbau
+
+- **Y-Bereich:** 130 bis 154
+- **Blöcke:** 1.174
+- **Bauteile:** `w119220017_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.038 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
-Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Ein hoher Raum ohne Obergeschoss, Seelaternen im Boden als Licht, Tische, Stühle aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.

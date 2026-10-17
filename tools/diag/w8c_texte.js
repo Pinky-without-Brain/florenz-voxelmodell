@@ -55,3 +55,4 @@ module.exports = {
     }
   }
 };
+module.exports.forte_belvedere = require('./w8c_texte_forte.js');

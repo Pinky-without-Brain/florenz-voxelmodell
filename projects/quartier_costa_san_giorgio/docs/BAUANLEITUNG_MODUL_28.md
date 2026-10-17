@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 28: Isolato I0566
+# Bauanleitung Modul 28: Isolato I0571
 
 *Quartier Costa San Giorgio: 1 Haus*
 
@@ -8,168 +8,86 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.260 |
-| Bauschritte | 4 |
-| Y-Bereich | 134 bis 170 |
-| X-Ausdehnung | 326 bis 361 (36 Blöcke) |
-| Z-Ausdehnung | 2288 bis 2330 (43 Blöcke) |
-| Kleinster Schritt | 1.790 Blöcke (Schritt 28.3) |
-| Mittlerer Schritt | 1.815 Blöcke |
-| Größter Schritt | 1.858 Blöcke (Schritt 28.4) |
+| Blöcke | 2.433 |
+| Bauschritte | 2 |
+| Y-Bereich | 128 bis 162 |
+| X-Ausdehnung | 353 bis 369 (17 Blöcke) |
+| Z-Ausdehnung | 2319 bis 2335 (17 Blöcke) |
+| Kleinster Schritt | 1.190 Blöcke (Schritt 28.2) |
+| Mittlerer Schritt | 1.217 Blöcke |
+| Größter Schritt | 1.243 Blöcke (Schritt 28.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 4.803 | 66,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 747 | 10,3 % |
-| Terrakotta | `terracotta` | 660 | 9,1 % |
-| Polierter Tuffstein | `polished_tuff` | 433 | 6,0 % |
-| Graues Buntglas | `gray_stained_glass` | 269 | 3,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 198 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 101 | 1,4 % |
-| Tuffstein | `tuff` | 35 | 0,5 % |
-| Ziegelsteine | `bricks` | 6 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,1 % |
-| Seelaterne | `sea_lantern` | 2 | 0,0 % |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 2.068 | 85,0 % |
+| Terrakotta | `terracotta` | 139 | 5,7 % |
+| Polierter Tuffstein | `polished_tuff` | 108 | 4,4 % |
+| Graues Buntglas | `gray_stained_glass` | 93 | 3,8 % |
+| Glatter Stein | `smooth_stone` | 18 | 0,7 % |
+| Ziegelsteine | `bricks` | 6 | 0,2 % |
+| Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758440` | Haus w397758440 | 7.258 | 28.1–28.4 |
-| 2 | `w397758440_innen` | Haus w397758440: Innenausbau | 2 | 28.4 |
+| 1 | `w397758444` | Haus w397758444 | 2.432 | 28.1–28.2 |
+| 2 | `w397758444_innen` | Haus w397758444: Innenausbau | 1 | 28.2 |
 
 ## Bauschritte
 
-### Schritt 28.1 – Haus w397758440 – Teil 1/4 (Y 134–142)
+### Schritt 28.1 – Haus w397758444 – Teil 1/2 (Y 128–144)
 
-- **Y-Bereich:** 134 bis 142
-- **Blöcke:** 1.811
-- **Bauteile:** `w397758440`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.034 |
-| Polierter Tuffstein | `polished_tuff` | 433 |
-| Graues Buntglas | `gray_stained_glass` | 113 |
-| Hellgrauer Beton | `light_gray_concrete` | 111 |
-| Glatter Stein | `smooth_stone` | 79 |
-| Tuffstein | `tuff` | 35 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.2 – Haus w397758440 – Teil 2/4 (Y 143–151)
-
-- **Y-Bereich:** 143 bis 151
-- **Blöcke:** 1.801
-- **Bauteile:** `w397758440`
+- **Y-Bereich:** 128 bis 144
+- **Blöcke:** 1.243
+- **Bauteile:** `w397758444`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.515 |
-| Hellgrauer Beton | `light_gray_concrete` | 212 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
-| Glatter Stein | `smooth_stone` | 22 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.3 – Haus w397758440 – Teil 3/4 (Y 152–160)
-
-- **Y-Bereich:** 152 bis 160
-- **Blöcke:** 1.790
-- **Bauteile:** `w397758440`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.438 |
-| Hellgrauer Beton | `light_gray_concrete` | 287 |
-| Graues Buntglas | `gray_stained_glass` | 65 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 28.4 – Haus w397758440 – Teil 4/4 (Y 161–170) & Haus w397758440: Innenausbau
-
-- **Y-Bereich:** 135 bis 170
-- **Blöcke:** 1.858
-- **Bauteile:** `w397758440`, `w397758440_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 816 |
-| Terrakotta | `terracotta` | 660 |
-| Fichtenholz-Bretter | `spruce_planks` | 198 |
-| Hellgrauer Beton | `light_gray_concrete` | 137 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.078 |
+| Polierter Tuffstein | `polished_tuff` | 108 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
-| Ziegelsteine | `bricks` | 6 |
-| Seelaterne | `sea_lantern` | 2 |
+| Glatter Stein | `smooth_stone` | 18 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Nebengebäude (19.–20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 28.2 – Haus w397758444 – Teil 2/2 (Y 145–162) & Haus w397758444: Innenausbau
+
+- **Y-Bereich:** 128 bis 162
+- **Blöcke:** 1.190
+- **Bauteile:** `w397758444`, `w397758444_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 990 |
+| Terrakotta | `terracotta` | 139 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Ziegelsteine | `bricks` | 6 |
+| Seelaterne | `sea_lantern` | 1 |
+
+**Beschreibung**
+
+Nebengebäude (19.–20. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
