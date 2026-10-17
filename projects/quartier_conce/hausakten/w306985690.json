@@ -1,19 +1,19 @@
 {
   "id": "w306985690",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "1542 (Antonio Lupicini, Auftraggeber Leonardo Buonafede)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -23,8 +23,8 @@
     "putzfarbe": "weiss",
     "erdgeschoss": {
       "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rechteck",
@@ -35,15 +35,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "tympanon_mit_inschrift",
+      "portalsaeulen",
+      "hochwassermarken_1547_1557_1844_1966",
+      "weiheinschrift_deo_ac_divo_jacobo"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Neubau ab 1542 nach Überschwemmungen durch Antonio Lupicini für Leonardo Buonafede, Portal mit Säulen und Tympanon mit lateinischer Inschrift, Hochwassermarken seit 1547. Annahme: Geschosse, Material, Fenster, Gesims.",
   "name": "Ex chiesa dei Santi Jacopo e Lorenzo"
 }

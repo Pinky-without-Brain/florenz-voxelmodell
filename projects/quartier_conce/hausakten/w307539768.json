@@ -1,49 +1,55 @@
 {
   "id": "w307539768",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "vor 1307, Umbau 1428; Fassade geprägt von Restaurierung 1911/12 (Castellucci)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 2,
-    "material": "putz",
+    "material": "bruchstein",
     "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "portalBreiteBl": 5,
+      "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "rundbogen",
       "rahmen": "pietra_forte",
-      "laeden": null
+      "laeden": false
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "rosone_ueber_portal",
+      "filaretto_sichtmauerwerk",
+      "wappen_bruderschaft_portal",
+      "fahnenhalter_neumittelalterlich",
+      "zwei_schmale_rundbogenfenster"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Oratorio_di_Santa_Maria_Vergine_della_Croce_al_Tempio",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: gotischer Oratoriumsbau (vor 1307, 1428 erweitert), Satteldachfassade (a capanna) mit vorspringender Dachrinne in sichtbarem Filaretto-Mauerwerk, Steinportal mit Bruderschaftswappen, Rosone darüber, zwei schmale Rundbogenfenster neben dem Portal, Restaurierung 1911/12. Annahme: Achsen, Geschosse.",
   "name": "Chiesa di Santa Maria Vergine della Croce al Tempio"
 }

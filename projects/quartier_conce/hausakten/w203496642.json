@@ -1,49 +1,49 @@
 {
   "id": "w203496642",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Fassade 18. Jh. (Inschrift 1759); Kirche nach Baccio d'Agnolo",
   "geschosse": [
     {
       "art": "eg",
+      "hoeheBl": 16
+    },
+    {
+      "art": "og",
       "hoeheBl": 14
-    },
-    {
-      "art": "og",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 2,
-    "material": "putz",
+    "achsen": 3,
+    "material": "stein_glatt",
     "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rechteck",
       "rahmen": "pietra_serena",
-      "laeden": null
+      "laeden": false
     },
     "gesims": {
-      "art": "keiner",
-      "tiefeBl": 0
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "dreiecksgiebel_toskanische_pilaster",
+      "seitliche_schultern_a_salienti",
+      "weiheinschrift_lateinisch"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giuseppe_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Fassade des 18. Jh. (Inschrift 1759), mit geschnittenem Stein verkleidet, Hauptportal in der Mitte, darüber ein rechteckiges Fenster, Mittelteil mit dreieckigem Giebel auf zwei großen glatten toskanischen Pilastern, seitliche Schultern, lateinische Weiheinschrift. Annahme: Gesims, Achsenzahl, Dachform.",
   "name": "San Giuseppe"
 }

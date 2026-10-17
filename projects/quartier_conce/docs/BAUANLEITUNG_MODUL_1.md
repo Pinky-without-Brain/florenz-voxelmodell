@@ -8,37 +8,35 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 143.122 |
+| Blöcke | 143.493 |
 | Bauschritte | 93 |
 | Y-Bereich | 61 bis 100 |
 | X-Ausdehnung | 868 bis 1039 (172 Blöcke) |
 | Z-Ausdehnung | 755 bis 935 (181 Blöcke) |
 | Kleinster Schritt | 517 Blöcke (Schritt 1.73) |
-| Mittlerer Schritt | 1.539 Blöcke |
+| Mittlerer Schritt | 1.543 Blöcke |
 | Größter Schritt | 2.089 Blöcke (Schritt 1.22) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 44.155 | 30,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 14.550 | 10,2 % |
-| Polierter Tuffstein | `polished_tuff` | 13.847 | 9,7 % |
-| Endsteinziegel | `end_stone_bricks` | 13.563 | 9,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 11.351 | 7,9 % |
+| Terrakotta | `terracotta` | 44.392 | 30,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 19.595 | 13,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 14.550 | 10,1 % |
+| Polierter Tuffstein | `polished_tuff` | 13.847 | 9,6 % |
+| Endsteinziegel | `end_stone_bricks` | 13.369 | 9,3 % |
 | Weißer Beton | `white_concrete` | 8.457 | 5,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 7.406 | 5,2 % |
-| Glatter Stein | `smooth_stone` | 6.208 | 4,3 % |
-| Tuffstein | `tuff` | 5.620 | 3,9 % |
-| Polierter Andesit | `polished_andesite` | 4.481 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 5.902 | 4,1 % |
 | Orange Keramik | `orange_terracotta` | 3.555 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 3.336 | 2,3 % |
+| Graues Buntglas | `gray_stained_glass` | 3.439 | 2,4 % |
+| Polierter Andesit | `polished_andesite` | 2.413 | 1,7 % |
 | Rosa Keramik | `pink_terracotta` | 1.706 | 1,2 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.087 | 0,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 987 | 0,7 % |
 | Ziegelsteine | `bricks` | 743 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 704 | 0,5 % |
-| Grüner Beton | `green_concrete` | 540 | 0,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 509 | 0,4 % |
+| Grüner Beton | `green_concrete` | 601 | 0,4 % |
 | Seelaterne | `sea_lantern` | 265 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 250 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 230 | 0,2 % |
@@ -47,7 +45,8 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 134 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 124 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 38 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 34 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 38 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 36 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 5 | 0,0 % |
@@ -60,7 +59,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 738 |
-| Steintreppe | `stone_stairs` | 112 |
+| Steintreppe | `stone_stairs` | 114 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -70,11 +69,11 @@
 | 2 | `r4100879_innen` | Palazzo Gargiolli: Innenausbau | 5.201 | 1.14–1.17 |
 | 3 | `r7127838` | Reihenhaus an Via dei Pepi | 9.626 | 1.18–1.22 |
 | 4 | `r7127838_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 2.669 | 1.23–1.24 |
-| 5 | `w307104289` | Palazzo Bargellini | 15.523 | 1.25–1.33 |
-| 6 | `w307104289_innen` | Palazzo Bargellini: Innenausbau | 3.096 | 1.34–1.35 |
+| 5 | `w307104289` | Palazzo Bargellini | 15.912 | 1.25–1.33 |
+| 6 | `w307104289_innen` | Palazzo Bargellini: Innenausbau | 3.100 | 1.34–1.35 |
 | 7 | `w484324877` | Reihenhaus an Via del Fico | 3.978 | 1.36–1.37 |
 | 8 | `w484324877_innen` | Reihenhaus an Via del Fico: Innenausbau | 712 | 1.38 |
-| 9 | `w484324879` | Reihenhaus an Largo Piero Bargellini | 4.945 | 1.39–1.41 |
+| 9 | `w484324879` | Reihenhaus an Largo Piero Bargellini | 4.939 | 1.39–1.41 |
 | 10 | `w484324879_innen` | Reihenhaus an Largo Piero Bargellini: Innenausbau | 1.372 | 1.42 |
 | 11 | `w484324880` | Reihenhaus an Via dei Pepi | 6.257 | 1.43–1.46 |
 | 12 | `w484324880_innen` | Reihenhaus an Via dei Pepi: Innenausbau | 2.242 | 1.47–1.48 |
@@ -86,9 +85,9 @@
 | 18 | `w484324891_innen` | Reihenhaus an Via del Fico: Innenausbau | 1.491 | 1.61 |
 | 19 | `w484324893` | Reihenhaus an Via delle Pinzochere | 4.913 | 1.62–1.64 |
 | 20 | `w484324893_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 882 | 1.65 |
-| 21 | `w484324896` | Reihenhaus an Via delle Pinzochere | 2.604 | 1.66–1.67 |
+| 21 | `w484324896` | Reihenhaus an Via delle Pinzochere | 2.596 | 1.66–1.67 |
 | 22 | `w484324896_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 2 | 1.68 |
-| 23 | `w484324897` | Reihenhaus an Via delle Pinzochere | 4.704 | 1.68–1.70 |
+| 23 | `w484324897` | Reihenhaus an Via delle Pinzochere | 4.696 | 1.68–1.70 |
 | 24 | `w484324897_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 1.264 | 1.71 |
 | 25 | `w484324899` | Reihenhaus an Largo Piero Bargellini | 1.599 | 1.72 |
 | 26 | `w484324899_innen` | Reihenhaus an Largo Piero Bargellini: Innenausbau | 517 | 1.73 |
@@ -915,7 +914,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -927,27 +926,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.26 – Palazzo Bargellini – Teil 2/9 (Y 62–65)
+### Schritt 1.26 – Palazzo Bargellini – Teil 2/9 (Y 62–66)
 
-- **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.440
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.778
 - **Bauteile:** `w307104289`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 764 |
-| Polierter Andesit | `polished_andesite` | 381 |
-| Tuffsteinziegel | `tuff_bricks` | 222 |
-| Glatter Stein | `smooth_stone` | 44 |
-| Graues Buntglas | `gray_stained_glass` | 29 |
+| Gelbe Keramik | `yellow_terracotta` | 1.436 |
+| Polierter Andesit | `polished_andesite` | 260 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
+| Grüner Beton | `green_concrete` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -959,27 +958,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.27 – Palazzo Bargellini – Teil 3/9 (Y 66–70)
+### Schritt 1.27 – Palazzo Bargellini – Teil 3/9 (Y 67–71)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.744
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.871
 - **Bauteile:** `w307104289`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 904 |
-| Polierter Andesit | `polished_andesite` | 508 |
-| Tuffsteinziegel | `tuff_bricks` | 185 |
-| Graues Buntglas | `gray_stained_glass` | 87 |
-| Glatter Stein | `smooth_stone` | 60 |
+| Gelbe Keramik | `yellow_terracotta` | 1.332 |
+| Glatter Stein | `smooth_stone` | 257 |
+| Polierter Andesit | `polished_andesite` | 199 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
+| Grüner Beton | `green_concrete` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -991,11 +991,73 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.28 – Palazzo Bargellini – Teil 4/9 (Y 71–75)
+### Schritt 1.28 – Palazzo Bargellini – Teil 4/9 (Y 72–75)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 72 bis 75
+- **Blöcke:** 1.436
+- **Bauteile:** `w307104289`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.122 |
+| Polierter Andesit | `polished_andesite` | 230 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
+| Grüner Beton | `green_concrete` | 10 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 1.29 – Palazzo Bargellini – Teil 5/9 (Y 76–80)
+
+- **Y-Bereich:** 76 bis 80
+- **Blöcke:** 1.724
+- **Bauteile:** `w307104289`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.273 |
+| Polierter Andesit | `polished_andesite` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 141 |
+| Grüner Beton | `green_concrete` | 13 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 1.30 – Palazzo Bargellini – Teil 6/9 (Y 81–85)
+
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.924
 - **Bauteile:** `w307104289`
 
@@ -1003,15 +1065,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 974 |
-| Polierter Andesit | `polished_andesite` | 554 |
-| Glatter Stein | `smooth_stone` | 291 |
-| Tuffsteinziegel | `tuff_bricks` | 73 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
+| Gelbe Keramik | `yellow_terracotta` | 1.446 |
+| Glatter Stein | `smooth_stone` | 257 |
+| Polierter Andesit | `polished_andesite` | 179 |
+| Graues Buntglas | `gray_stained_glass` | 37 |
+| Grüner Beton | `green_concrete` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1023,26 +1085,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.29 – Palazzo Bargellini – Teil 5/9 (Y 76–80)
+### Schritt 1.31 – Palazzo Bargellini – Teil 7/9 (Y 86–90)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 1.742
+- **Y-Bereich:** 86 bis 90
+- **Blöcke:** 1.773
 - **Bauteile:** `w307104289`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 902 |
-| Polierter Andesit | `polished_andesite` | 657 |
-| Graues Buntglas | `gray_stained_glass` | 123 |
-| Glatter Stein | `smooth_stone` | 60 |
+| Gelbe Keramik | `yellow_terracotta` | 1.273 |
+| Polierter Andesit | `polished_andesite` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 141 |
+| Fichtenholz-Bretter | `spruce_planks` | 49 |
+| Grüner Beton | `green_concrete` | 13 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1054,26 +1117,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.30 – Palazzo Bargellini – Teil 6/9 (Y 81–84)
+### Schritt 1.32 – Palazzo Bargellini – Teil 8/9 (Y 91–92)
 
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.556
+- **Y-Bereich:** 91 bis 92
+- **Blöcke:** 1.859
 - **Bauteile:** `w307104289`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 774 |
-| Polierter Andesit | `polished_andesite` | 455 |
-| Glatter Stein | `smooth_stone` | 295 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
+| Terrakotta | `terracotta` | 1.146 |
+| Gelbe Keramik | `yellow_terracotta` | 362 |
+| Fichtenholz-Bretter | `spruce_planks` | 345 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1085,70 +1148,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.31 – Palazzo Bargellini – Teil 7/9 (Y 85–89)
-
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.742
-- **Bauteile:** `w307104289`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 902 |
-| Polierter Andesit | `polished_andesite` | 667 |
-| Graues Buntglas | `gray_stained_glass` | 123 |
-| Glatter Stein | `smooth_stone` | 50 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.32 – Palazzo Bargellini – Teil 8/9 (Y 90–92)
-
-- **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.828
-- **Bauteile:** `w307104289`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 898 |
-| Tuffstein | `tuff` | 400 |
-| Polierter Andesit | `polished_andesite` | 314 |
-| Endsteinziegel | `end_stone_bricks` | 194 |
-| Glatter Stein | `smooth_stone` | 22 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 1.33 – Palazzo Bargellini – Teil 9/9 (Y 93–100)
 
@@ -1165,7 +1165,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Anfang 16. Jh. (Da Cepparello)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bargellini, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1177,12 +1177,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 1.34 – Palazzo Bargellini: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 1.34 – Palazzo Bargellini: Innenausbau – Teil 1/2 (Y 61–71)
 
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.549
+- **Y-Bereich:** 61 bis 71
+- **Blöcke:** 1.545
 - **Bauteile:** `w307104289_innen`
 
 **Teileliste**
@@ -1190,16 +1190,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.481 |
-| Glatter Stein | `smooth_stone` | 28 |
+| Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 20 |
 
 **Beschreibung**
 
@@ -1217,10 +1217,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.35 – Palazzo Bargellini: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 1.35 – Palazzo Bargellini: Innenausbau – Teil 2/2 (Y 72–83)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.547
+- **Y-Bereich:** 72 bis 83
+- **Blöcke:** 1.555
 - **Bauteile:** `w307104289_innen`
 
 **Teileliste**
@@ -1228,10 +1228,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.481 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -1242,7 +1242,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1430,16 +1430,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.41 – Reihenhaus an Largo Piero Bargellini – Teil 3/3 (Y 87–97)
 
 - **Y-Bereich:** 87 bis 97
-- **Blöcke:** 1.597
+- **Blöcke:** 1.591
 - **Bauteile:** `w484324879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 726 |
+| Terrakotta | `terracotta` | 723 |
 | Gelbe Keramik | `yellow_terracotta` | 672 |
-| Fichtenholz-Bretter | `spruce_planks` | 83 |
+| Fichtenholz-Bretter | `spruce_planks` | 80 |
 | Weißer Beton | `white_concrete` | 57 |
 | Ziegelsteine | `bricks` | 32 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
@@ -2312,7 +2312,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.67 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
-- **Blöcke:** 1.279
+- **Blöcke:** 1.271
 - **Bauteile:** `w484324896`
 
 **Teileliste**
@@ -2320,9 +2320,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 898 |
-| Terrakotta | `terracotta` | 280 |
+| Terrakotta | `terracotta` | 276 |
 | Glatter Stein | `smooth_stone` | 42 |
-| Fichtenholz-Bretter | `spruce_planks` | 32 |
+| Fichtenholz-Bretter | `spruce_planks` | 28 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 | Ziegelsteine | `bricks` | 3 |
 
@@ -2408,17 +2408,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.70 – Reihenhaus an Via delle Pinzochere – Teil 3/3 (Y 85–97)
 
 - **Y-Bereich:** 85 bis 97
-- **Blöcke:** 1.607
+- **Blöcke:** 1.599
 - **Bauteile:** `w484324897`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 689 |
+| Terrakotta | `terracotta` | 685 |
 | Endsteinziegel | `end_stone_bricks` | 621 |
 | Weißer Beton | `white_concrete` | 123 |
-| Fichtenholz-Bretter | `spruce_planks` | 85 |
+| Fichtenholz-Bretter | `spruce_planks` | 81 |
 | Graues Buntglas | `gray_stained_glass` | 57 |
 | Ziegelsteine | `bricks` | 32 |
 
