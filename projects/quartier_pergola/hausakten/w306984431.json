@@ -1,23 +1,19 @@
 {
   "id": "w306984431",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "14. Jh. (Trecento); gekappt, Umbauten 16./17. und 18. Jh.",
   "geschosse": [
     {
       "art": "eg",
+      "hoeheBl": 12
+    },
+    {
+      "art": "og",
       "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -39,15 +35,20 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "filaretto",
+      "wappen_albizi",
+      "loggetta_eg_geoeffnet_1970er",
+      "gekappt_drei_geschosse"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_degli_Albizi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Turm mit trecentesken Merkmalen in Pietra a filaretto, gekappt auf drei Geschosse, Albizi-Wappen links an der Fassade, bei der Restaurierung der 1970er Loggetta im EG geöffnet. Annahme: Achsenzahl, Fenstertyp, Dach.",
   "name": "Torre degli Albizi"
 }

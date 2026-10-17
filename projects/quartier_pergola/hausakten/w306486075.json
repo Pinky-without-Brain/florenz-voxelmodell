@@ -1,11 +1,15 @@
 {
   "id": "w306486075",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "17./18. Jh. (nach 1729 Familie Paoli)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 5
     },
     {
       "art": "nobile",
@@ -13,37 +17,40 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "achsen": 9,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 3
+      "art": "putzgesims",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "pilaster_kanten",
+      "portal_via_di_mezzo_wappen"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Bau 17. oder 18. Jh. (Ferretti: kurz nach 1729), drei Obergeschosse plus Mezzanin, neun Achsen zum Borgo Pinti, große verputzte Flächen, Fenster in grauem Naturstein gerahmt, schlichtes Rundbogenportal, zwei Eckpilaster mit vereinfachter Gebälkzone, Monumentalportal mit Wappen an der Via di Mezzo (19. Jh.). Annahme: Putzfarbe, Dachform.",
   "name": "Palazzo Mormorai"
 }

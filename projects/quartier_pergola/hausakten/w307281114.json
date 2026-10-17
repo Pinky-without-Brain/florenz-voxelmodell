@@ -1,26 +1,30 @@
 {
   "id": "w307281114",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Palazzo Pucci di Ottavio, Ende 16. Jh.; Fassade 18. Jh. im Stil; Umbau 1960",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 9,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "tor_und_fenster",
       "portalBreiteBl": 7,
@@ -35,15 +39,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "steinkranzgesims",
+      "portikus_falsch_antik_1960",
+      "buste_buontalenti"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Sede_storica_della_Cassa_di_Risparmio_di_Firenze",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Palazzo Pucci di Ottavio vom Ende des 16. Jh. mit stilistisch angepasster Fassade des 18. Jh., Straßenteil mit EG und vier Obergeschossen (Büros), Steinkranzgesims, 1960 Portikus im alten Stil (Nello Bemporad) mit Buontalenti-Büste. Annahme: Geschosszahl der Fassade, Achsen, Putzfarbe, Fenster, Dach.",
   "name": "Ex Sede centrale della Cassa di Risparmio di Firenze"
 }

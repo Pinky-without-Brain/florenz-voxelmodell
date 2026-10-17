@@ -1,7 +1,7 @@
 {
   "id": "w306984426",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "14. Jh. (Trecento)",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,21 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "filaretto_obergeschosse",
+      "bozze_squadrate_eg",
+      "ruestloecher",
+      "wappen_albizi",
+      "breite_fenster_eingebrochen"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Pazzi_di_Valdarno",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Turm des Trecento, obere Geschosse in Filaretto-Mauerwerk, EG grob behauene Quader, Rüstlöcher, später von den Albizi umgebaut (Albizi-Wappen), zum Wohnen breite Fenster eingebrochen. Annahme: Höhe aus dem Grundriss, Achsenzahl, Dach.",
   "name": "Torre dei Pazzi di Valdarno"
 }

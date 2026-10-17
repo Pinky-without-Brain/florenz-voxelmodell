@@ -1,49 +1,52 @@
 {
   "id": "w307544545",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "1934-36 (Rodolfo Sabatini), Neorenaissance",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 15
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
-    },
-    {
-      "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 15
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
-      "laeden": "gruen"
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "eckquader_sandstein",
+      "medaillons_militaersymbole",
+      "loggia_dreiteilig_sued",
+      "balkon_portal_west",
+      "sitzbank_panca_di_via",
+      "marcapiano"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_del_Mutilato_(Firenze)",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Neorenaissance-Bau 1934-37 von Rodolfo Sabatini, zwei Geschosse über einem Kellergeschoss, symmetrische Fassaden, Eckquader aus Sandstein, Rahmen, Medaillons und Säulen aus Pietra serena, Portale mit Archivolten auf der Mittelachse, Marcapiano und durchgehende Sitzbank, Dachloggia (Altana) mit toskanischen Säulen. Annahme: Achsenzahl, Putzfarbe, Gesims.",
   "name": "Casa del Mutilato"
 }

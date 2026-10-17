@@ -1,7 +1,7 @@
 {
   "id": "w674051057",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Fassade vermutlich 19. Jh., eklektisch",
   "geschosse": [
     {
       "art": "eg",
@@ -24,7 +24,7 @@
     "kanten": "strasse",
     "achsen": 2,
     "material": "putz",
-    "putzfarbe": "terrakotta",
+    "putzfarbe": "weiss",
     "erdgeschoss": {
       "art": "tor_und_fenster",
       "portalBreiteBl": 5,
@@ -39,15 +39,17 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "fassade_einfache_formen"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_di_Jacopo_Pontormo",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Fassade vermutlich im 19. Jh. in einfachen Formen neu gestaltet (eklektisch), vier Geschosse, ohne Spuren der älteren Geschichte. Annahme: alle übrigen Merkmale.",
   "name": "Casa di Jacopo Pontormo"
 }
