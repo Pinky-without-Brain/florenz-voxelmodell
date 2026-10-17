@@ -1,52 +1,65 @@
 {
   "id": "w307320360",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Liberty (Jugendstil), um 1911 (Giovanni Michelazzi)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 7
     },
     {
-      "art": "og",
+      "art": "nobile",
       "hoeheBl": 7
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 5
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 5
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 2,
-    "material": "putz",
-    "putzfarbe": "sand",
+    "achsen": 1,
+    "material": "stein_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rechteck"
+      "art": "portal_mittig",
+      "fenster": "keine",
+      "portalBreiteBl": 5
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "keiner",
-      "laeden": null
+      "typ": "rahmen_stuck",
+      "rahmen": "putz",
+      "laeden": false
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "cornicione_stein",
+      "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "kunststein_travertin_imitat",
+      "zentrale_verglasung_je_geschoss",
+      "lisenen_rahmen",
+      "zwei_drachen_an_der_traufe",
+      "adler_mit_laternen_eg",
+      "girlanden_masken"
+    ],
+    "marcapiano": "keiner"
   },
   "dach": {
-    "form": "sattel",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa-galleria_Vichi",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Liberty-Stil, um 1911 von Giovanni Michelazzi, fünf Geschosse (Erdgeschoss und erster Stock gewerblich, drei Wohngeschosse), sehr schmale Fassade mit zentraler Verglasung je Geschoss zwischen Lisenen, Kunststein als Travertin-Imitat mit Stahl, Glas und Eisen, Erdgeschoss mit Skulpturen und Adlern mit Laternen, auskragende Dachrinne, zwei Drachen an der Traufe, Girlanden und Masken, Denkmalschutz seit 1965. Annahme: Glasfassade als Stuckrahmenfenster abgebildet, Dachform.",
   "name": "Casa-galleria Vichi"
 }

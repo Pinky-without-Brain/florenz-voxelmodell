@@ -1,48 +1,50 @@
 {
   "id": "r6593382",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "loggia",
+  "epoche": "Renaissance, Loggia um 1451 (Michelozzo), restauriert 1789 (Salvetti)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
-    },
-    {
-      "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 16
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 14
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 11,
+    "achsen": 10,
     "material": "putz",
-    "putzfarbe": "ocker",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rechteck"
+      "art": "loggia_offen",
+      "fenster": "keine",
+      "portalBreiteBl": 7
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "zehn_arkaden_neun_saeulen_zwei_pilaster",
+      "neun_robbia_tondi_zwei_halbtondi",
+      "drei_portale_eines_mit_giebel",
+      "marmorbueste_ferdinand_i"
+    ]
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Ospedale_di_San_Paolo_(Firenze)",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Loggia um 1451 nach Entwurf Michelozzos (Spedalingo Benino Benini), restauriert 1789 (Giuseppe Salvetti), Loggia mit zehn Arkaden auf neun Säulen und zwei Pilastern über die gesamte Front, Ordnung von korinthisch bis komposit, zehn Fenster im Obergeschoss, drei nahezu identische Hauptportale (eines mit Giebel und Wappen der Arte dei Giudici e Notai), neun Tondi und zwei Halbtondi von Andrea della Robbia (1489–96), Marmorbüste Ferdinands I. Annahme: Putzfarbe, Gesims, Dach.",
   "name": "Ex ospedale di San Paolo"
 }

@@ -8,48 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 597.988 |
+| Blöcke | 597.788 |
 | Bauschritte | 336 |
 | Y-Bereich | 56 bis 101 |
 | X-Ausdehnung | -1703 bis -1239 (465 Blöcke) |
 | Z-Ausdehnung | -445 bis -10 (436 Blöcke) |
 | Kleinster Schritt | 673 Blöcke (Schritt 8.262) |
-| Mittlerer Schritt | 1.780 Blöcke |
-| Größter Schritt | 2.098 Blöcke (Schritt 8.141) |
+| Mittlerer Schritt | 1.779 Blöcke |
+| Größter Schritt | 2.100 Blöcke (Schritt 8.141) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 256.385 | 42,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 104.865 | 17,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 106.755 | 17,9 % |
 | Polierter Tuffstein | `polished_tuff` | 75.793 | 12,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 40.662 | 6,8 % |
 | Orange Keramik | `orange_terracotta` | 25.114 | 4,2 % |
 | Rosa Keramik | `pink_terracotta` | 16.202 | 2,7 % |
 | Weißer Beton | `white_concrete` | 15.988 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 14.999 | 2,5 % |
+| Glatter Stein | `smooth_stone` | 12.846 | 2,1 % |
 | Endsteinziegel | `end_stone_bricks` | 8.674 | 1,5 % |
-| Graues Buntglas | `gray_stained_glass` | 8.317 | 1,4 % |
+| Graues Buntglas | `gray_stained_glass` | 8.564 | 1,4 % |
 | Tuffstein | `tuff` | 7.944 | 1,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.192 | 1,2 % |
 | Ziegelsteine | `bricks` | 4.544 | 0,8 % |
-| Grüner Beton | `green_concrete` | 3.620 | 0,6 % |
-| Polierter Andesit | `polished_andesite` | 3.456 | 0,6 % |
+| Grüner Beton | `green_concrete` | 3.763 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 3.094 | 0,5 % |
 | Seelaterne | `sea_lantern` | 1.219 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.127 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 832 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 201 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 185 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 888 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 221 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 209 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 136 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 126 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 86 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 86 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 52 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 80 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 80 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 39 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
@@ -60,16 +60,16 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 648 |
-| Steintreppe | `stone_stairs` | 160 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 692 |
+| Steintreppe | `stone_stairs` | 120 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1615373` | Ex monastero della Santissima Concezione | 231.368 | 8.1–8.121 |
-| 2 | `r1615373_innen` | Ex monastero della Santissima Concezione: Innenausbau | 82.267 | 8.121–8.161 |
+| 1 | `r1615373` | Ex monastero della Santissima Concezione | 231.172 | 8.1–8.121 |
+| 2 | `r1615373_innen` | Ex monastero della Santissima Concezione: Innenausbau | 82.263 | 8.121–8.161 |
 | 3 | `r1615528` | Reihenhaus an Piazza Santa Maria Novella | 42.369 | 8.162–8.188 |
 | 4 | `r1615528_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 28.748 | 8.189–8.203 |
 | 5 | `r7108697` | Palazzo des Cinquecento an Via della Scala | 26.888 | 8.204–8.219 |
@@ -118,7 +118,7 @@
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -130,7 +130,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.2 – Ex monastero della Santissima Concezione – Teil 2/121 (Y 57–57)
 
@@ -146,7 +146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -158,7 +158,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.3 – Ex monastero della Santissima Concezione – Teil 3/121 (Y 57–57)
 
@@ -174,7 +174,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -186,7 +186,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.4 – Ex monastero della Santissima Concezione – Teil 4/121 (Y 58–58)
 
@@ -202,7 +202,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -214,7 +214,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.5 – Ex monastero della Santissima Concezione – Teil 5/121 (Y 58–58)
 
@@ -230,7 +230,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -242,7 +242,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.6 – Ex monastero della Santissima Concezione – Teil 6/121 (Y 58–58)
 
@@ -258,7 +258,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -270,7 +270,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.7 – Ex monastero della Santissima Concezione – Teil 7/121 (Y 58–58)
 
@@ -286,7 +286,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -298,7 +298,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.8 – Ex monastero della Santissima Concezione – Teil 8/121 (Y 58–58)
 
@@ -314,7 +314,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -326,7 +326,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.9 – Ex monastero della Santissima Concezione – Teil 9/121 (Y 58–58)
 
@@ -342,7 +342,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -354,7 +354,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.10 – Ex monastero della Santissima Concezione – Teil 10/121 (Y 58–58)
 
@@ -370,7 +370,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -382,7 +382,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.11 – Ex monastero della Santissima Concezione – Teil 11/121 (Y 58–58)
 
@@ -398,7 +398,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -410,7 +410,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.12 – Ex monastero della Santissima Concezione – Teil 12/121 (Y 58–58)
 
@@ -426,7 +426,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -438,7 +438,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.13 – Ex monastero della Santissima Concezione – Teil 13/121 (Y 58–58)
 
@@ -454,7 +454,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -466,7 +466,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.14 – Ex monastero della Santissima Concezione – Teil 14/121 (Y 58–58)
 
@@ -482,7 +482,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -494,7 +494,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.15 – Ex monastero della Santissima Concezione – Teil 15/121 (Y 58–58)
 
@@ -510,7 +510,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -522,7 +522,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.16 – Ex monastero della Santissima Concezione – Teil 16/121 (Y 58–58)
 
@@ -538,7 +538,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -550,7 +550,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.17 – Ex monastero della Santissima Concezione – Teil 17/121 (Y 58–58)
 
@@ -566,7 +566,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -578,7 +578,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.18 – Ex monastero della Santissima Concezione – Teil 18/121 (Y 58–58)
 
@@ -594,7 +594,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -606,7 +606,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.19 – Ex monastero della Santissima Concezione – Teil 19/121 (Y 58–58)
 
@@ -622,7 +622,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -634,7 +634,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.20 – Ex monastero della Santissima Concezione – Teil 20/121 (Y 58–58)
 
@@ -650,7 +650,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -662,7 +662,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.21 – Ex monastero della Santissima Concezione – Teil 21/121 (Y 58–58)
 
@@ -678,7 +678,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -690,7 +690,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.22 – Ex monastero della Santissima Concezione – Teil 22/121 (Y 58–58)
 
@@ -706,7 +706,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -718,7 +718,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.23 – Ex monastero della Santissima Concezione – Teil 23/121 (Y 58–58)
 
@@ -734,7 +734,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -746,7 +746,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.24 – Ex monastero della Santissima Concezione – Teil 24/121 (Y 58–58)
 
@@ -762,7 +762,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -774,7 +774,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.25 – Ex monastero della Santissima Concezione – Teil 25/121 (Y 58–58)
 
@@ -790,7 +790,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -802,7 +802,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.26 – Ex monastero della Santissima Concezione – Teil 26/121 (Y 59–59)
 
@@ -814,13 +814,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.977 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Gelbe Keramik | `yellow_terracotta` | 1.984 |
 | Glatter Stein | `smooth_stone` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -832,7 +831,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.27 – Ex monastero della Santissima Concezione – Teil 27/121 (Y 59–59)
 
@@ -844,12 +843,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.971 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Gelbe Keramik | `yellow_terracotta` | 1.985 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -861,7 +859,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.28 – Ex monastero della Santissima Concezione – Teil 28/121 (Y 60–60)
 
@@ -873,14 +871,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.979 |
+| Gelbe Keramik | `yellow_terracotta` | 1.984 |
 | Glatter Stein | `smooth_stone` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -892,7 +888,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.29 – Ex monastero della Santissima Concezione – Teil 29/121 (Y 60–60)
 
@@ -904,12 +900,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.980 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Gelbe Keramik | `yellow_terracotta` | 1.985 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -921,7 +916,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.30 – Ex monastero della Santissima Concezione – Teil 30/121 (Y 61–61)
 
@@ -933,13 +928,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.714 |
+| Gelbe Keramik | `yellow_terracotta` | 1.721 |
 | Glatter Stein | `smooth_stone` | 361 |
-| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -951,7 +945,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.31 – Ex monastero della Santissima Concezione – Teil 31/121 (Y 61–61)
 
@@ -963,13 +957,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.703 |
+| Gelbe Keramik | `yellow_terracotta` | 1.717 |
 | Glatter Stein | `smooth_stone` | 362 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -981,7 +974,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.32 – Ex monastero della Santissima Concezione – Teil 32/121 (Y 62–62)
 
@@ -993,16 +986,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.558 |
+| Gelbe Keramik | `yellow_terracotta` | 1.563 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
 | Grüner Beton | `green_concrete` | 49 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1014,7 +1005,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.33 – Ex monastero della Santissima Concezione – Teil 33/121 (Y 62–62)
 
@@ -1026,15 +1017,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.533 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1046,7 +1036,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.34 – Ex monastero della Santissima Concezione – Teil 34/121 (Y 63–63)
 
@@ -1058,15 +1048,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.558 |
+| Gelbe Keramik | `yellow_terracotta` | 1.565 |
 | Glatter Stein | `smooth_stone` | 164 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1078,7 +1067,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.35 – Ex monastero della Santissima Concezione – Teil 35/121 (Y 63–63)
 
@@ -1090,15 +1079,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.524 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1110,7 +1098,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.36 – Ex monastero della Santissima Concezione – Teil 36/121 (Y 64–64)
 
@@ -1122,16 +1110,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.560 |
+| Gelbe Keramik | `yellow_terracotta` | 1.572 |
 | Glatter Stein | `smooth_stone` | 157 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
 | Grüner Beton | `green_concrete` | 49 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1143,7 +1129,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.37 – Ex monastero della Santissima Concezione – Teil 37/121 (Y 64–64)
 
@@ -1155,15 +1141,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.533 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1175,7 +1160,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.38 – Ex monastero della Santissima Concezione – Teil 38/121 (Y 65–65)
 
@@ -1187,15 +1172,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.594 |
+| Gelbe Keramik | `yellow_terracotta` | 1.598 |
 | Glatter Stein | `smooth_stone` | 164 |
 | Graues Buntglas | `gray_stained_glass` | 108 |
 | Grüner Beton | `green_concrete` | 26 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1207,7 +1191,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.39 – Ex monastero della Santissima Concezione – Teil 39/121 (Y 65–65)
 
@@ -1219,15 +1203,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.552 |
+| Gelbe Keramik | `yellow_terracotta` | 1.566 |
 | Glatter Stein | `smooth_stone` | 130 |
 | Graues Buntglas | `gray_stained_glass` | 128 |
 | Grüner Beton | `green_concrete` | 73 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1239,7 +1222,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.40 – Ex monastero della Santissima Concezione – Teil 40/121 (Y 66–66)
 
@@ -1251,14 +1234,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.667 |
+| Gelbe Keramik | `yellow_terracotta` | 1.669 |
 | Glatter Stein | `smooth_stone` | 188 |
 | Graues Buntglas | `gray_stained_glass` | 77 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1270,7 +1252,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.41 – Ex monastero della Santissima Concezione – Teil 41/121 (Y 66–66)
 
@@ -1282,14 +1264,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.671 |
+| Gelbe Keramik | `yellow_terracotta` | 1.676 |
 | Glatter Stein | `smooth_stone` | 169 |
 | Graues Buntglas | `gray_stained_glass` | 85 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1301,7 +1282,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.42 – Ex monastero della Santissima Concezione – Teil 42/121 (Y 67–67)
 
@@ -1313,13 +1294,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.775 |
+| Gelbe Keramik | `yellow_terracotta` | 1.779 |
 | Glatter Stein | `smooth_stone` | 210 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1331,7 +1311,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.43 – Ex monastero della Santissima Concezione – Teil 43/121 (Y 67–67)
 
@@ -1343,13 +1323,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.783 |
+| Gelbe Keramik | `yellow_terracotta` | 1.797 |
 | Glatter Stein | `smooth_stone` | 192 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1361,7 +1340,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.44 – Ex monastero della Santissima Concezione – Teil 44/121 (Y 68–68)
 
@@ -1373,12 +1352,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.987 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1390,7 +1368,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.45 – Ex monastero della Santissima Concezione – Teil 45/121 (Y 68–68)
 
@@ -1402,12 +1380,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.984 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1419,7 +1396,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.46 – Ex monastero della Santissima Concezione – Teil 46/121 (Y 69–69)
 
@@ -1431,12 +1408,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.359 |
-| Glatter Stein | `smooth_stone` | 630 |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1448,7 +1424,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.47 – Ex monastero della Santissima Concezione – Teil 47/121 (Y 69–69)
 
@@ -1460,12 +1436,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.425 |
-| Glatter Stein | `smooth_stone` | 564 |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1477,7 +1452,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.48 – Ex monastero della Santissima Concezione – Teil 48/121 (Y 70–70)
 
@@ -1489,12 +1464,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.987 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1506,7 +1480,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.49 – Ex monastero della Santissima Concezione – Teil 49/121 (Y 70–70)
 
@@ -1518,12 +1492,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.984 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1535,7 +1508,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.50 – Ex monastero della Santissima Concezione – Teil 50/121 (Y 71–71)
 
@@ -1547,13 +1520,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.718 |
+| Gelbe Keramik | `yellow_terracotta` | 1.722 |
 | Glatter Stein | `smooth_stone` | 362 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1565,7 +1537,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.51 – Ex monastero della Santissima Concezione – Teil 51/121 (Y 71–71)
 
@@ -1577,13 +1549,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.707 |
+| Gelbe Keramik | `yellow_terracotta` | 1.721 |
 | Glatter Stein | `smooth_stone` | 362 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1595,7 +1566,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.52 – Ex monastero della Santissima Concezione – Teil 52/121 (Y 72–72)
 
@@ -1607,15 +1578,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.565 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1627,7 +1597,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.53 – Ex monastero della Santissima Concezione – Teil 53/121 (Y 72–72)
 
@@ -1639,15 +1609,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.533 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1659,7 +1628,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.54 – Ex monastero della Santissima Concezione – Teil 54/121 (Y 73–73)
 
@@ -1671,15 +1640,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.563 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1691,7 +1659,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.55 – Ex monastero della Santissima Concezione – Teil 55/121 (Y 73–73)
 
@@ -1703,15 +1671,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.524 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1723,7 +1690,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.56 – Ex monastero della Santissima Concezione – Teil 56/121 (Y 74–74)
 
@@ -1735,15 +1702,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.565 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1755,7 +1721,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.57 – Ex monastero della Santissima Concezione – Teil 57/121 (Y 74–74)
 
@@ -1767,15 +1733,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.533 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1787,7 +1752,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.58 – Ex monastero della Santissima Concezione – Teil 58/121 (Y 75–75)
 
@@ -1799,15 +1764,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.563 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1819,7 +1783,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.59 – Ex monastero della Santissima Concezione – Teil 59/121 (Y 75–75)
 
@@ -1831,15 +1795,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.524 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1851,7 +1814,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.60 – Ex monastero della Santissima Concezione – Teil 60/121 (Y 76–76)
 
@@ -1863,15 +1826,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.565 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1883,7 +1845,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.61 – Ex monastero della Santissima Concezione – Teil 61/121 (Y 76–76)
 
@@ -1895,15 +1857,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.533 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1915,25 +1876,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.62 – Ex monastero della Santissima Concezione – Teil 62/121 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.989
+- **Blöcke:** 1.893
 - **Bauteile:** `r1615373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.708 |
-| Glatter Stein | `smooth_stone` | 277 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
+| Glatter Stein | `smooth_stone` | 160 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
+| Grüner Beton | `green_concrete` | 49 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1945,25 +1907,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.63 – Ex monastero della Santissima Concezione – Teil 63/121 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.989
+- **Blöcke:** 1.889
 - **Bauteile:** `r1615373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.717 |
-| Glatter Stein | `smooth_stone` | 258 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
+| Graues Buntglas | `gray_stained_glass` | 130 |
+| Glatter Stein | `smooth_stone` | 127 |
+| Grüner Beton | `green_concrete` | 94 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1975,7 +1938,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.64 – Ex monastero della Santissima Concezione – Teil 64/121 (Y 78–78)
 
@@ -1987,12 +1950,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.359 |
-| Glatter Stein | `smooth_stone` | 630 |
+| Gelbe Keramik | `yellow_terracotta` | 1.712 |
+| Glatter Stein | `smooth_stone` | 277 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2004,7 +1967,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.65 – Ex monastero della Santissima Concezione – Teil 65/121 (Y 78–78)
 
@@ -2016,12 +1979,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.425 |
-| Glatter Stein | `smooth_stone` | 564 |
+| Gelbe Keramik | `yellow_terracotta` | 1.731 |
+| Glatter Stein | `smooth_stone` | 258 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2033,7 +1996,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.66 – Ex monastero della Santissima Concezione – Teil 66/121 (Y 79–79)
 
@@ -2045,12 +2008,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.985 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2062,7 +2024,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.67 – Ex monastero della Santissima Concezione – Teil 67/121 (Y 79–79)
 
@@ -2074,12 +2036,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.975 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2091,11 +2052,123 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.68 – Ex monastero della Santissima Concezione – Teil 68/121 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
+- **Blöcke:** 1.989
+- **Bauteile:** `r1615373`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
+
+**Beschreibung**
+
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.69 – Ex monastero della Santissima Concezione – Teil 69/121 (Y 80–80)
+
+- **Y-Bereich:** 80 bis 80
+- **Blöcke:** 1.989
+- **Bauteile:** `r1615373`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
+
+**Beschreibung**
+
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.70 – Ex monastero della Santissima Concezione – Teil 70/121 (Y 81–81)
+
+- **Y-Bereich:** 81 bis 81
+- **Blöcke:** 1.989
+- **Bauteile:** `r1615373`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
+
+**Beschreibung**
+
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.71 – Ex monastero della Santissima Concezione – Teil 71/121 (Y 81–81)
+
+- **Y-Bereich:** 81 bis 81
+- **Blöcke:** 1.989
+- **Bauteile:** `r1615373`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.989 |
+
+**Beschreibung**
+
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 8.72 – Ex monastero della Santissima Concezione – Teil 72/121 (Y 82–82)
+
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 2.084
 - **Bauteile:** `r1615373`
 
@@ -2103,13 +2176,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.720 |
+| Gelbe Keramik | `yellow_terracotta` | 1.722 |
 | Glatter Stein | `smooth_stone` | 362 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2121,11 +2193,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.69 – Ex monastero della Santissima Concezione – Teil 69/121 (Y 80–80)
+### Schritt 8.73 – Ex monastero della Santissima Concezione – Teil 73/121 (Y 82–82)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 2.083
 - **Bauteile:** `r1615373`
 
@@ -2133,13 +2205,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.716 |
+| Gelbe Keramik | `yellow_terracotta` | 1.721 |
 | Glatter Stein | `smooth_stone` | 362 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2151,135 +2222,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.70 – Ex monastero della Santissima Concezione – Teil 70/121 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.893
-- **Bauteile:** `r1615373`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.563 |
-| Glatter Stein | `smooth_stone` | 160 |
-| Graues Buntglas | `gray_stained_glass` | 117 |
-| Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.71 – Ex monastero della Santissima Concezione – Teil 71/121 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.889
-- **Bauteile:** `r1615373`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.524 |
-| Graues Buntglas | `gray_stained_glass` | 130 |
-| Glatter Stein | `smooth_stone` | 127 |
-| Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 14 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.72 – Ex monastero della Santissima Concezione – Teil 72/121 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.893
-- **Bauteile:** `r1615373`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.565 |
-| Glatter Stein | `smooth_stone` | 160 |
-| Graues Buntglas | `gray_stained_glass` | 117 |
-| Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.73 – Ex monastero della Santissima Concezione – Teil 73/121 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.889
-- **Bauteile:** `r1615373`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.533 |
-| Graues Buntglas | `gray_stained_glass` | 130 |
-| Glatter Stein | `smooth_stone` | 127 |
-| Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.74 – Ex monastero della Santissima Concezione – Teil 74/121 (Y 83–83)
 
@@ -2291,15 +2234,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.563 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2311,7 +2253,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.75 – Ex monastero della Santissima Concezione – Teil 75/121 (Y 83–83)
 
@@ -2323,15 +2265,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.524 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2343,7 +2284,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.76 – Ex monastero della Santissima Concezione – Teil 76/121 (Y 84–84)
 
@@ -2355,15 +2296,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.565 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2375,7 +2315,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.77 – Ex monastero della Santissima Concezione – Teil 77/121 (Y 84–84)
 
@@ -2387,15 +2327,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.533 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2407,7 +2346,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.78 – Ex monastero della Santissima Concezione – Teil 78/121 (Y 85–85)
 
@@ -2419,15 +2358,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.563 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Grüner Beton | `green_concrete` | 49 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2439,7 +2377,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.79 – Ex monastero della Santissima Concezione – Teil 79/121 (Y 85–85)
 
@@ -2451,15 +2389,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.524 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 127 |
 | Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2471,25 +2408,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.80 – Ex monastero della Santissima Concezione – Teil 80/121 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.989
+- **Blöcke:** 1.893
 - **Bauteile:** `r1615373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.710 |
-| Glatter Stein | `smooth_stone` | 277 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Gelbe Keramik | `yellow_terracotta` | 1.567 |
+| Glatter Stein | `smooth_stone` | 160 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
+| Grüner Beton | `green_concrete` | 49 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2501,25 +2439,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.81 – Ex monastero della Santissima Concezione – Teil 81/121 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.989
+- **Blöcke:** 1.889
 - **Bauteile:** `r1615373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.726 |
-| Glatter Stein | `smooth_stone` | 258 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
+| Graues Buntglas | `gray_stained_glass` | 130 |
+| Glatter Stein | `smooth_stone` | 127 |
+| Grüner Beton | `green_concrete` | 94 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2531,25 +2470,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.82 – Ex monastero della Santissima Concezione – Teil 82/121 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.556
+- **Blöcke:** 1.489
 - **Bauteile:** `r1615373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.321 |
-| Glatter Stein | `smooth_stone` | 231 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Gelbe Keramik | `yellow_terracotta` | 1.007 |
+| Glatter Stein | `smooth_stone` | 357 |
+| Graues Buntglas | `gray_stained_glass` | 88 |
+| Grüner Beton | `green_concrete` | 37 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2561,25 +2501,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.83 – Ex monastero della Santissima Concezione – Teil 83/121 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.557
+- **Blöcke:** 1.493
 - **Bauteile:** `r1615373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.334 |
-| Glatter Stein | `smooth_stone` | 219 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Gelbe Keramik | `yellow_terracotta` | 1.086 |
+| Glatter Stein | `smooth_stone` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 73 |
+| Grüner Beton | `green_concrete` | 37 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2591,25 +2532,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.84 – Ex monastero della Santissima Concezione – Teil 84/121 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.557
+- **Blöcke:** 1.492
 - **Bauteile:** `r1615373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.305 |
-| Glatter Stein | `smooth_stone` | 242 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Gelbe Keramik | `yellow_terracotta` | 1.012 |
+| Glatter Stein | `smooth_stone` | 325 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Grüner Beton | `green_concrete` | 69 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2621,7 +2563,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.85 – Ex monastero della Santissima Concezione – Teil 85/121 (Y 88–88)
 
@@ -2633,13 +2575,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.311 |
-| Glatter Stein | `smooth_stone` | 493 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Gelbe Keramik | `yellow_terracotta` | 1.099 |
+| Glatter Stein | `smooth_stone` | 707 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2651,7 +2592,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.86 – Ex monastero della Santissima Concezione – Teil 86/121 (Y 88–88)
 
@@ -2663,13 +2604,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.357 |
-| Glatter Stein | `smooth_stone` | 451 |
-| Polierter Andesit | `polished_andesite` | 1 |
+| Gelbe Keramik | `yellow_terracotta` | 1.203 |
+| Glatter Stein | `smooth_stone` | 606 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2681,7 +2621,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.87 – Ex monastero della Santissima Concezione – Teil 87/121 (Y 88–88)
 
@@ -2693,13 +2633,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.303 |
-| Glatter Stein | `smooth_stone` | 504 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Gelbe Keramik | `yellow_terracotta` | 1.141 |
+| Glatter Stein | `smooth_stone` | 670 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2711,7 +2650,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.88 – Ex monastero della Santissima Concezione – Teil 88/121 (Y 89–89)
 
@@ -2727,7 +2666,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2739,7 +2678,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.89 – Ex monastero della Santissima Concezione – Teil 89/121 (Y 89–89)
 
@@ -2755,7 +2694,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2767,7 +2706,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.90 – Ex monastero della Santissima Concezione – Teil 90/121 (Y 89–89)
 
@@ -2783,7 +2722,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2795,7 +2734,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.91 – Ex monastero della Santissima Concezione – Teil 91/121 (Y 89–89)
 
@@ -2811,7 +2750,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2823,7 +2762,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.92 – Ex monastero della Santissima Concezione – Teil 92/121 (Y 89–89)
 
@@ -2839,7 +2778,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2851,7 +2790,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.93 – Ex monastero della Santissima Concezione – Teil 93/121 (Y 89–89)
 
@@ -2867,7 +2806,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2879,7 +2818,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.94 – Ex monastero della Santissima Concezione – Teil 94/121 (Y 90–90)
 
@@ -2895,7 +2834,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2907,7 +2846,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.95 – Ex monastero della Santissima Concezione – Teil 95/121 (Y 90–90)
 
@@ -2923,7 +2862,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2935,7 +2874,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.96 – Ex monastero della Santissima Concezione – Teil 96/121 (Y 90–90)
 
@@ -2951,7 +2890,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2963,7 +2902,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.97 – Ex monastero della Santissima Concezione – Teil 97/121 (Y 90–90)
 
@@ -2979,7 +2918,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2991,7 +2930,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.98 – Ex monastero della Santissima Concezione – Teil 98/121 (Y 91–91)
 
@@ -3007,7 +2946,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3019,7 +2958,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.99 – Ex monastero della Santissima Concezione – Teil 99/121 (Y 91–91)
 
@@ -3035,7 +2974,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3047,7 +2986,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.100 – Ex monastero della Santissima Concezione – Teil 100/121 (Y 91–91)
 
@@ -3063,7 +3002,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3075,7 +3014,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.101 – Ex monastero della Santissima Concezione – Teil 101/121 (Y 91–91)
 
@@ -3091,7 +3030,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3103,7 +3042,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.102 – Ex monastero della Santissima Concezione – Teil 102/121 (Y 91–91)
 
@@ -3119,7 +3058,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3131,7 +3070,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.103 – Ex monastero della Santissima Concezione – Teil 103/121 (Y 92–92)
 
@@ -3148,7 +3087,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3160,7 +3099,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.104 – Ex monastero della Santissima Concezione – Teil 104/121 (Y 92–92)
 
@@ -3177,7 +3116,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3189,7 +3128,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.105 – Ex monastero della Santissima Concezione – Teil 105/121 (Y 92–92)
 
@@ -3206,7 +3145,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3218,7 +3157,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.106 – Ex monastero della Santissima Concezione – Teil 106/121 (Y 92–92)
 
@@ -3235,7 +3174,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3247,7 +3186,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.107 – Ex monastero della Santissima Concezione – Teil 107/121 (Y 93–93)
 
@@ -3264,7 +3203,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3276,7 +3215,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.108 – Ex monastero della Santissima Concezione – Teil 108/121 (Y 93–93)
 
@@ -3293,7 +3232,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3305,7 +3244,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.109 – Ex monastero della Santissima Concezione – Teil 109/121 (Y 93–93)
 
@@ -3322,7 +3261,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3334,7 +3273,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.110 – Ex monastero della Santissima Concezione – Teil 110/121 (Y 93–93)
 
@@ -3351,7 +3290,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3363,7 +3302,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.111 – Ex monastero della Santissima Concezione – Teil 111/121 (Y 93–93)
 
@@ -3380,7 +3319,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3392,7 +3331,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.112 – Ex monastero della Santissima Concezione – Teil 112/121 (Y 94–94)
 
@@ -3409,7 +3348,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3421,7 +3360,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.113 – Ex monastero della Santissima Concezione – Teil 113/121 (Y 94–94)
 
@@ -3438,7 +3377,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3450,7 +3389,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.114 – Ex monastero della Santissima Concezione – Teil 114/121 (Y 94–94)
 
@@ -3467,7 +3406,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3479,7 +3418,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.115 – Ex monastero della Santissima Concezione – Teil 115/121 (Y 94–94)
 
@@ -3496,7 +3435,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3508,7 +3447,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.116 – Ex monastero della Santissima Concezione – Teil 116/121 (Y 95–95)
 
@@ -3525,7 +3464,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3537,7 +3476,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.117 – Ex monastero della Santissima Concezione – Teil 117/121 (Y 95–95)
 
@@ -3554,7 +3493,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3566,7 +3505,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.118 – Ex monastero della Santissima Concezione – Teil 118/121 (Y 95–95)
 
@@ -3583,7 +3522,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3595,7 +3534,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.119 – Ex monastero della Santissima Concezione – Teil 119/121 (Y 96–96)
 
@@ -3612,7 +3551,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3624,7 +3563,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.120 – Ex monastero della Santissima Concezione – Teil 120/121 (Y 96–96)
 
@@ -3641,7 +3580,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -3653,7 +3592,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.121 – Ex monastero della Santissima Concezione – Teil 121/121 (Y 97–100) & Ex monastero della Santissima Concezione: Innenausbau – Teil 1/41 (Y 58–68)
 
@@ -3668,10 +3607,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Ziegelsteine | `bricks` | 753 |
 | Terrakotta | `terracotta` | 751 |
 | Seelaterne | `sea_lantern` | 202 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 29 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -3679,12 +3617,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 22 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Nebengebäude (Gründung 1563 (Eleonora di Toledo), fertiggestellt 1601), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_monastero_della_Santissima_Concezione, Angaben belegt (Sicherheit 0,6). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3696,7 +3633,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
 ### Schritt 8.122 – Ex monastero della Santissima Concezione: Innenausbau – Teil 2/41 (Y 69–69)
 
@@ -3713,7 +3650,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3742,7 +3679,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3771,7 +3708,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3800,7 +3737,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3829,7 +3766,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3858,7 +3795,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3887,7 +3824,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3916,7 +3853,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3945,7 +3882,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3974,7 +3911,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4000,17 +3937,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.040 |
 | Seelaterne | `sea_lantern` | 7 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4039,7 +3976,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4068,7 +4005,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4097,7 +4034,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4126,7 +4063,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4155,7 +4092,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4184,7 +4121,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4213,7 +4150,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4242,7 +4179,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4256,10 +4193,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.141 – Ex monastero della Santissima Concezione: Innenausbau – Teil 21/41 (Y 69–77)
+### Schritt 8.141 – Ex monastero della Santissima Concezione: Innenausbau – Teil 21/41 (Y 69–79)
 
-- **Y-Bereich:** 69 bis 77
-- **Blöcke:** 2.098
+- **Y-Bereich:** 69 bis 79
+- **Blöcke:** 2.100
 - **Bauteile:** `r1615373_innen`
 
 **Teileliste**
@@ -4267,26 +4204,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.041 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 29 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 13 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 22 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4300,9 +4231,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.142 – Ex monastero della Santissima Concezione: Innenausbau – Teil 22/41 (Y 78–78)
+### Schritt 8.142 – Ex monastero della Santissima Concezione: Innenausbau – Teil 22/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4315,7 +4246,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4329,9 +4260,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.143 – Ex monastero della Santissima Concezione: Innenausbau – Teil 23/41 (Y 78–78)
+### Schritt 8.143 – Ex monastero della Santissima Concezione: Innenausbau – Teil 23/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4344,7 +4275,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4358,9 +4289,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.144 – Ex monastero della Santissima Concezione: Innenausbau – Teil 24/41 (Y 78–78)
+### Schritt 8.144 – Ex monastero della Santissima Concezione: Innenausbau – Teil 24/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4373,7 +4304,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4387,9 +4318,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.145 – Ex monastero della Santissima Concezione: Innenausbau – Teil 25/41 (Y 78–78)
+### Schritt 8.145 – Ex monastero della Santissima Concezione: Innenausbau – Teil 25/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4402,7 +4333,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4416,9 +4347,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.146 – Ex monastero della Santissima Concezione: Innenausbau – Teil 26/41 (Y 78–78)
+### Schritt 8.146 – Ex monastero della Santissima Concezione: Innenausbau – Teil 26/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4431,7 +4362,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4445,9 +4376,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.147 – Ex monastero della Santissima Concezione: Innenausbau – Teil 27/41 (Y 78–78)
+### Schritt 8.147 – Ex monastero della Santissima Concezione: Innenausbau – Teil 27/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.048
 - **Bauteile:** `r1615373_innen`
 
@@ -4460,7 +4391,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4474,9 +4405,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.148 – Ex monastero della Santissima Concezione: Innenausbau – Teil 28/41 (Y 78–78)
+### Schritt 8.148 – Ex monastero della Santissima Concezione: Innenausbau – Teil 28/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4489,7 +4420,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4503,9 +4434,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.149 – Ex monastero della Santissima Concezione: Innenausbau – Teil 29/41 (Y 78–78)
+### Schritt 8.149 – Ex monastero della Santissima Concezione: Innenausbau – Teil 29/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4518,7 +4449,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4532,9 +4463,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.150 – Ex monastero della Santissima Concezione: Innenausbau – Teil 30/41 (Y 78–78)
+### Schritt 8.150 – Ex monastero della Santissima Concezione: Innenausbau – Teil 30/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4547,7 +4478,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4561,9 +4492,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.151 – Ex monastero della Santissima Concezione: Innenausbau – Teil 31/41 (Y 78–78)
+### Schritt 8.151 – Ex monastero della Santissima Concezione: Innenausbau – Teil 31/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4576,7 +4507,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4590,9 +4521,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.152 – Ex monastero della Santissima Concezione: Innenausbau – Teil 32/41 (Y 78–78)
+### Schritt 8.152 – Ex monastero della Santissima Concezione: Innenausbau – Teil 32/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4602,17 +4533,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.040 |
 | Seelaterne | `sea_lantern` | 7 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4626,9 +4557,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.153 – Ex monastero della Santissima Concezione: Innenausbau – Teil 33/41 (Y 78–78)
+### Schritt 8.153 – Ex monastero della Santissima Concezione: Innenausbau – Teil 33/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4641,7 +4572,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4655,9 +4586,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.154 – Ex monastero della Santissima Concezione: Innenausbau – Teil 34/41 (Y 78–78)
+### Schritt 8.154 – Ex monastero della Santissima Concezione: Innenausbau – Teil 34/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4670,7 +4601,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4684,9 +4615,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.155 – Ex monastero della Santissima Concezione: Innenausbau – Teil 35/41 (Y 78–78)
+### Schritt 8.155 – Ex monastero della Santissima Concezione: Innenausbau – Teil 35/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4699,7 +4630,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4713,9 +4644,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.156 – Ex monastero della Santissima Concezione: Innenausbau – Teil 36/41 (Y 78–78)
+### Schritt 8.156 – Ex monastero della Santissima Concezione: Innenausbau – Teil 36/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4728,7 +4659,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4742,9 +4673,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.157 – Ex monastero della Santissima Concezione: Innenausbau – Teil 37/41 (Y 78–78)
+### Schritt 8.157 – Ex monastero della Santissima Concezione: Innenausbau – Teil 37/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.048
 - **Bauteile:** `r1615373_innen`
 
@@ -4757,7 +4688,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4771,9 +4702,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.158 – Ex monastero della Santissima Concezione: Innenausbau – Teil 38/41 (Y 78–78)
+### Schritt 8.158 – Ex monastero della Santissima Concezione: Innenausbau – Teil 38/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4786,7 +4717,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4800,9 +4731,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.159 – Ex monastero della Santissima Concezione: Innenausbau – Teil 39/41 (Y 78–78)
+### Schritt 8.159 – Ex monastero della Santissima Concezione: Innenausbau – Teil 39/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4815,7 +4746,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4829,9 +4760,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.160 – Ex monastero della Santissima Concezione: Innenausbau – Teil 40/41 (Y 78–78)
+### Schritt 8.160 – Ex monastero della Santissima Concezione: Innenausbau – Teil 40/41 (Y 80–80)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.049
 - **Bauteile:** `r1615373_innen`
 
@@ -4844,7 +4775,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -4858,10 +4789,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.161 – Ex monastero della Santissima Concezione: Innenausbau – Teil 41/41 (Y 78–79)
+### Schritt 8.161 – Ex monastero della Santissima Concezione: Innenausbau – Teil 41/41 (Y 80–81)
 
-- **Y-Bereich:** 78 bis 79
-- **Blöcke:** 2.058
+- **Y-Bereich:** 80 bis 81
+- **Blöcke:** 2.052
 - **Bauteile:** `r1615373_innen`
 
 **Teileliste**
@@ -4870,8 +4801,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.041 |
 | Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -4884,7 +4813,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

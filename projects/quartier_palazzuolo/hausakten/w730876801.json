@@ -1,19 +1,19 @@
 {
   "id": "w730876801",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -23,8 +23,8 @@
     "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 6,
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -35,15 +35,19 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "vorhalle_ab_1620",
+      "campanile_a_vela_1825",
+      "galantini_bueste_eingelagert"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Oratorium 1602–04 (Giovanni Nigetti zugeschrieben), Vorhalle und Fassade ab 1620 vermutlich von Matteo Nigetti mit Unterstützung von Maria Maddalena d'Austria und Kardinal Alessandro de' Medici, Glockenwand (Campanile a vela) 1825 ergänzt, über dem Portal früher Büste des Gründers Ippolito Galantini. Annahme: Material, Putzfarbe, Portalform.",
   "name": "Oratorio dei Vanchetoni"
 }

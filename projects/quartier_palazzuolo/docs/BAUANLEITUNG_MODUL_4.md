@@ -8,44 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 747.935 |
+| Blöcke | 748.240 |
 | Bauschritte | 464 |
 | Y-Bereich | 54 bis 98 |
 | X-Ausdehnung | -1994 bis -1493 (502 Blöcke) |
 | Z-Ausdehnung | -171 bis 291 (463 Blöcke) |
 | Kleinster Schritt | 455 Blöcke (Schritt 4.286) |
-| Mittlerer Schritt | 1.612 Blöcke |
+| Mittlerer Schritt | 1.613 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 4.255) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 237.429 | 31,7 % |
-| Polierter Tuffstein | `polished_tuff` | 80.591 | 10,8 % |
+| Terrakotta | `terracotta` | 237.232 | 31,7 % |
+| Polierter Tuffstein | `polished_tuff` | 80.819 | 10,8 % |
 | Orange Keramik | `orange_terracotta` | 77.162 | 10,3 % |
+| Weißer Beton | `white_concrete` | 62.450 | 8,3 % |
 | Rosa Keramik | `pink_terracotta` | 62.419 | 8,3 % |
-| Weißer Beton | `white_concrete` | 62.369 | 8,3 % |
-| Endsteinziegel | `end_stone_bricks` | 50.204 | 6,7 % |
+| Endsteinziegel | `end_stone_bricks` | 47.378 | 6,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 47.085 | 6,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 45.588 | 6,1 % |
 | Gelbe Keramik | `yellow_terracotta` | 26.226 | 3,5 % |
-| Glatter Stein | `smooth_stone` | 18.060 | 2,4 % |
-| Graues Buntglas | `gray_stained_glass` | 10.928 | 1,5 % |
-| Polierter Andesit | `polished_andesite` | 8.238 | 1,1 % |
-| Tuffstein | `tuff` | 5.678 | 0,8 % |
-| Ziegelsteine | `bricks` | 3.625 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3.474 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.989 | 0,3 % |
+| Glatter Stein | `smooth_stone` | 18.575 | 2,5 % |
+| Graues Buntglas | `gray_stained_glass` | 10.820 | 1,4 % |
+| Tuffstein | `tuff` | 8.366 | 1,1 % |
+| Polierter Andesit | `polished_andesite` | 8.249 | 1,1 % |
+| Ziegelsteine | `bricks` | 3.607 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3.409 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.962 | 0,3 % |
 | Grüner Beton | `green_concrete` | 1.723 | 0,2 % |
-| Seelaterne | `sea_lantern` | 1.376 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 670 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 665 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 627 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 622 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 475 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 158 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 146 | 0,0 % |
+| Seelaterne | `sea_lantern` | 1.375 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 669 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 641 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 621 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 605 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 489 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 186 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 176 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 110 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 110 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 94 | 0,0 % |
@@ -59,8 +59,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2.584 |
-| Steintreppe | `stone_stairs` | 484 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2.536 |
+| Steintreppe | `stone_stairs` | 542 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -75,8 +75,8 @@
 | 6 | `r7013673_innen` | Palazzo des Cinquecento an Borgo Ognissanti: Innenausbau | 19.878 | 4.120–4.129 |
 | 7 | `w167273904` | Reihenhaus an Borgo Ognissanti | 6.577 | 4.130–4.133 |
 | 8 | `w167273904_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.521 | 4.134 |
-| 9 | `w307320360` | Casa-galleria Vichi | 4.110 | 4.135–4.136 |
-| 10 | `w307320360_innen` | Casa-galleria Vichi: Innenausbau | 793 | 4.137 |
+| 9 | `w307320360` | Casa-galleria Vichi | 4.112 | 4.135–4.136 |
+| 10 | `w307320360_innen` | Casa-galleria Vichi: Innenausbau | 1.060 | 4.137 |
 | 11 | `w442905895` | Reihenhaus an Borgo Ognissanti | 7.995 | 4.138–4.141 |
 | 12 | `w442905895_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.265 | 4.142 |
 | 13 | `w442905897` | Reihenhaus an Borgo Ognissanti | 5.002 | 4.143–4.145 |
@@ -147,7 +147,7 @@
 | 78 | `w477342324_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 492 | 4.327 |
 | 79 | `w477342325` | Reihenhaus an Via Palazzuolo | 2.203 | 4.328–4.329 |
 | 80 | `w477342325_innen` | Reihenhaus an Via Palazzuolo: Innenausbau | 496 | 4.330 |
-| 81 | `w477342326` | Reihenhaus an Borgo Ognissanti | 5.527 | 4.331–4.333 |
+| 81 | `w477342326` | Reihenhaus an Borgo Ognissanti | 5.528 | 4.331–4.333 |
 | 82 | `w477342326_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.347 | 4.334 |
 | 83 | `w477342327` | Palazzo des Cinquecento an Via Palazzuolo | 12.012 | 4.335–4.340 |
 | 84 | `w477342327_innen` | Palazzo des Cinquecento an Via Palazzuolo: Innenausbau | 2.417 | 4.341–4.342 |
@@ -175,7 +175,7 @@
 | 106 | `w477342339_innen` | Reihenhaus an Via del Porcellana: Innenausbau | 2.275 | 4.381–4.382 |
 | 107 | `w477342340` | Reihenhaus an Via del Porcellana | 6.762 | 4.383–4.386 |
 | 108 | `w477342340_innen` | Reihenhaus an Via del Porcellana: Innenausbau | 1.834 | 4.387 |
-| 109 | `w477342341` | Reihenhaus an Borgo Ognissanti | 3.100 | 4.388–4.389 |
+| 109 | `w477342341` | Reihenhaus an Borgo Ognissanti | 3.101 | 4.388–4.389 |
 | 110 | `w477342341_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.845 | 4.390 |
 | 111 | `w477342342` | Reihenhaus an Via del Porcellana | 3.265 | 4.391–4.392 |
 | 112 | `w477342342_innen` | Reihenhaus an Via del Porcellana: Innenausbau | 1.115 | 4.393 |
@@ -211,8 +211,8 @@
 | 142 | `w493383956_innen` | Reihenhaus an Via del Porcellana: Innenausbau | 1.144 | 4.448 |
 | 143 | `w730876792` | Haus w730876792 | 3.545 | 4.449–4.450 |
 | 144 | `w730876792_innen` | Haus w730876792: Innenausbau | 794 | 4.451 |
-| 145 | `w730876801` | Oratorio dei Vanchetoni | 15.117 | 4.452–4.460 |
-| 146 | `w730876801_innen` | Oratorio dei Vanchetoni: Innenausbau | 4.569 | 4.461–4.464 |
+| 145 | `w730876801` | Oratorio dei Vanchetoni | 15.159 | 4.452–4.460 |
+| 146 | `w730876801_innen` | Oratorio dei Vanchetoni: Innenausbau | 4.561 | 4.461–4.464 |
 | 147 | `strassenschilder` | Straßenschilder | 4 | 4.464 |
 
 ## Bauschritte
@@ -4343,14 +4343,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.723 |
+| Tuffstein | `tuff` | 1.344 |
 | Polierter Tuffstein | `polished_tuff` | 344 |
-| Glatter Stein | `smooth_stone` | 21 |
+| Glatter Stein | `smooth_stone` | 344 |
+| Weißer Beton | `white_concrete` | 31 |
+| Tuffsteinziegel | `tuff_bricks` | 14 |
+| Polierter Andesit | `polished_andesite` | 11 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Liberty (Jugendstil), um 1911 (Giovanni Michelazzi)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa-galleria_Vichi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -4362,27 +4365,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.136 – Casa-galleria Vichi – Teil 2/2 (Y 72–89)
+### Schritt 4.136 – Casa-galleria Vichi – Teil 2/2 (Y 72–87)
 
-- **Y-Bereich:** 72 bis 89
-- **Blöcke:** 2.018
+- **Y-Bereich:** 72 bis 87
+- **Blöcke:** 2.020
 - **Bauteile:** `w307320360`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.540 |
-| Terrakotta | `terracotta` | 426 |
-| Fichtenholz-Bretter | `spruce_planks` | 27 |
-| Ziegelsteine | `bricks` | 18 |
-| Graues Buntglas | `gray_stained_glass` | 7 |
+| Tuffstein | `tuff` | 1.344 |
+| Glatter Stein | `smooth_stone` | 396 |
+| Polierter Tuffstein | `polished_tuff` | 227 |
+| Weißer Beton | `white_concrete` | 50 |
+| Graues Buntglas | `gray_stained_glass` | 3 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Liberty (Jugendstil), um 1911 (Giovanni Michelazzi)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa-galleria_Vichi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -4394,33 +4397,33 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.137 – Casa-galleria Vichi: Innenausbau
 
-- **Y-Bereich:** 55 bis 78
-- **Blöcke:** 793
+- **Y-Bereich:** 55 bis 85
+- **Blöcke:** 1.060
 - **Bauteile:** `w307320360_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 675 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 900 |
+| Glatter Stein | `smooth_stone` | 90 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 42 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 18 |
+| Seelaterne | `sea_lantern` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Steintreppe | `stone_stairs` | 60 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -10847,7 +10850,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.333 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 78–91)
 
 - **Y-Bereich:** 78 bis 91
-- **Blöcke:** 1.849
+- **Blöcke:** 1.850
 - **Bauteile:** `w477342326`
 
 **Teileliste**
@@ -10855,7 +10858,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.100 |
-| Terrakotta | `terracotta` | 656 |
+| Terrakotta | `terracotta` | 657 |
 | Weißer Beton | `white_concrete` | 56 |
 | Ziegelsteine | `bricks` | 21 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
@@ -12716,14 +12719,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.389 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 72–91)
 
 - **Y-Bereich:** 72 bis 91
-- **Blöcke:** 1.548
+- **Blöcke:** 1.549
 - **Bauteile:** `w477342341`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 760 |
+| Terrakotta | `terracotta` | 761 |
 | Gelbe Keramik | `yellow_terracotta` | 632 |
 | Glatter Stein | `smooth_stone` | 92 |
 | Ziegelsteine | `bricks` | 48 |
@@ -14856,7 +14859,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -14868,25 +14871,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.453 – Oratorio dei Vanchetoni – Teil 2/9 (Y 56–58)
 
 - **Y-Bereich:** 56 bis 58
-- **Blöcke:** 2.021
+- **Blöcke:** 2.022
 - **Bauteile:** `w730876801`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.259 |
+| Polierter Tuffstein | `polished_tuff` | 1.260 |
 | Endsteinziegel | `end_stone_bricks` | 756 |
 | Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -14898,25 +14901,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.454 – Oratorio dei Vanchetoni – Teil 3/9 (Y 59–64)
 
 - **Y-Bereich:** 59 bis 64
-- **Blöcke:** 1.780
+- **Blöcke:** 1.821
 - **Bauteile:** `w730876801`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.425 |
-| Glatter Stein | `smooth_stone` | 251 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
+| Endsteinziegel | `end_stone_bricks` | 1.801 |
+| Glatter Stein | `smooth_stone` | 20 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -14928,25 +14930,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.455 – Oratorio dei Vanchetoni – Teil 4/9 (Y 65–70)
+### Schritt 4.455 – Oratorio dei Vanchetoni – Teil 4/9 (Y 65–69)
 
-- **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.796
+- **Y-Bereich:** 65 bis 69
+- **Blöcke:** 1.496
 - **Bauteile:** `w730876801`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.714 |
-| Glatter Stein | `smooth_stone` | 74 |
+| Endsteinziegel | `end_stone_bricks` | 1.475 |
+| Glatter Stein | `smooth_stone` | 13 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -14958,25 +14960,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.456 – Oratorio dei Vanchetoni – Teil 5/9 (Y 71–75)
+### Schritt 4.456 – Oratorio dei Vanchetoni – Teil 5/9 (Y 70–75)
 
-- **Y-Bereich:** 71 bis 75
-- **Blöcke:** 1.478
+- **Y-Bereich:** 70 bis 75
+- **Blöcke:** 1.754
 - **Bauteile:** `w730876801`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.209 |
-| Glatter Stein | `smooth_stone` | 197 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
+| Endsteinziegel | `end_stone_bricks` | 1.359 |
+| Glatter Stein | `smooth_stone` | 276 |
+| Graues Buntglas | `gray_stained_glass` | 119 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -14988,25 +14990,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.457 – Oratorio dei Vanchetoni – Teil 6/9 (Y 76–81)
 
 - **Y-Bereich:** 76 bis 81
-- **Blöcke:** 1.780
+- **Blöcke:** 1.791
 - **Bauteile:** `w730876801`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.449 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Graues Buntglas | `gray_stained_glass` | 71 |
+| Endsteinziegel | `end_stone_bricks` | 1.523 |
+| Glatter Stein | `smooth_stone` | 220 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -15018,25 +15020,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.458 – Oratorio dei Vanchetoni – Teil 7/9 (Y 82–86)
 
 - **Y-Bereich:** 82 bis 86
-- **Blöcke:** 1.615
+- **Blöcke:** 1.628
 - **Bauteile:** `w730876801`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.301 |
-| Glatter Stein | `smooth_stone` | 219 |
-| Graues Buntglas | `gray_stained_glass` | 95 |
+| Endsteinziegel | `end_stone_bricks` | 1.377 |
+| Glatter Stein | `smooth_stone` | 180 |
+| Graues Buntglas | `gray_stained_glass` | 71 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -15048,7 +15050,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.459 – Oratorio dei Vanchetoni – Teil 8/9 (Y 87–88)
 
@@ -15064,7 +15066,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -15076,7 +15078,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.460 – Oratorio dei Vanchetoni – Teil 9/9 (Y 89–94)
 
@@ -15093,7 +15095,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Oratorium 1602–04, Vorhalle und Fassade ab 1620 (Matteo und Giovanni Nigetti)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -15105,29 +15107,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.461 – Oratorio dei Vanchetoni: Innenausbau – Teil 1/4 (Y 56–70)
+### Schritt 4.461 – Oratorio dei Vanchetoni: Innenausbau – Teil 1/4 (Y 56–68)
 
-- **Y-Bereich:** 56 bis 70
-- **Blöcke:** 1.192
+- **Y-Bereich:** 56 bis 68
+- **Blöcke:** 1.189
 - **Bauteile:** `w730876801_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.112 |
-| Glatter Stein | `smooth_stone` | 34 |
-| Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
+| Terrakotta | `terracotta` | 1.120 |
+| Glatter Stein | `smooth_stone` | 30 |
+| Seelaterne | `sea_lantern` | 17 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
+| Steintreppe | `stone_stairs` | 22 |
 
 **Beschreibung**
 
@@ -15145,18 +15147,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.462 – Oratorio dei Vanchetoni: Innenausbau – Teil 2/4 (Y 70–70)
+### Schritt 4.462 – Oratorio dei Vanchetoni: Innenausbau – Teil 2/4 (Y 68–68)
 
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.109
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 1.103
 - **Bauteile:** `w730876801_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.103 |
-| Seelaterne | `sea_lantern` | 6 |
+| Terrakotta | `terracotta` | 1.096 |
+| Seelaterne | `sea_lantern` | 5 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 
@@ -15174,21 +15183,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.463 – Oratorio dei Vanchetoni: Innenausbau – Teil 3/4 (Y 71–78)
+### Schritt 4.463 – Oratorio dei Vanchetoni: Innenausbau – Teil 3/4 (Y 69–77)
 
-- **Y-Bereich:** 71 bis 78
-- **Blöcke:** 1.156
+- **Y-Bereich:** 69 bis 77
+- **Blöcke:** 1.166
 - **Bauteile:** `w730876801_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.112 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Terrakotta | `terracotta` | 1.120 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 6 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -15212,30 +15221,28 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.464 – Oratorio dei Vanchetoni: Innenausbau – Teil 4/4 (Y 78–79) & Straßenschilder
+### Schritt 4.464 – Oratorio dei Vanchetoni: Innenausbau – Teil 4/4 (Y 77–77) & Straßenschilder
 
-- **Y-Bereich:** 62 bis 79
-- **Blöcke:** 1.116
+- **Y-Bereich:** 62 bis 77
+- **Blöcke:** 1.107
 - **Bauteile:** `w730876801_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.103 |
-| Seelaterne | `sea_lantern` | 6 |
+| Terrakotta | `terracotta` | 1.096 |
+| Seelaterne | `sea_lantern` | 5 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 
