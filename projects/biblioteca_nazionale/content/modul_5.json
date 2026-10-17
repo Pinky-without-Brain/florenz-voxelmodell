@@ -1,0 +1,22 @@
+{
+  "module": 5,
+  "title": "Türme mit den Statuen",
+  "subtitle": "Bautüte 5: Türme mit den Statuen von Dante und Galileo",
+  "icon": "🗼",
+  "parts": {
+    "turm": {
+      "title": "Türme",
+      "description": "Zwei Türme an den Ecken der Flussfront steigen über der Traufe (Y 96) bis Y 119; die Wände sind zwei Blöcke dick, mit Gesimsbändern aus Pietra forte, oben schließt eine Platte aus Pietra serena ab. Innen sind die Türme hohl und nicht zugänglich.",
+      "tip": "Baue die Wände lagenweise, die Abschlussplatte zuletzt.",
+      "caution": "Der Schaft ist innen hohl; die Platte schließt ihn dicht ab.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "turm_statuen": {
+      "title": "Statuen von Dante und Galileo",
+      "description": "Auf den Platten der beiden Türme stehen auf runden Sockeln aus Pietra serena zwei Marmorfiguren: der Westturm trägt Dante, der Ostturm Galileo.",
+      "tip": "Sockel zuerst, dann der Rumpf, zuletzt der Kopf.",
+      "caution": "Die Figuren sind Blockfiguren ohne Gesichtszüge; die Zuordnung von Dante zum Westturm ist Stufe C.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    }
+  }
+}

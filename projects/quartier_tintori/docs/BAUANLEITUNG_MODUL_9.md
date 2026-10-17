@@ -2,58 +2,57 @@
 
 # Bauanleitung Modul 9: Isolato I0683 – Via di San Giuseppe
 
-*Quartier dei Tintori: 15 Häuser*
+*Quartier dei Tintori: 14 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 473.840 |
-| Bauschritte | 304 |
+| Blöcke | 324.885 |
+| Bauschritte | 211 |
 | Y-Bereich | 58 bis 104 |
-| X-Ausdehnung | 732 bis 1388 (657 Blöcke) |
+| X-Ausdehnung | 755 bis 1388 (634 Blöcke) |
 | Z-Ausdehnung | 931 bis 1366 (436 Blöcke) |
-| Kleinster Schritt | 44 Blöcke (Schritt 9.165) |
-| Mittlerer Schritt | 1.559 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 9.172) |
+| Kleinster Schritt | 44 Blöcke (Schritt 9.72) |
+| Mittlerer Schritt | 1.540 Blöcke |
+| Größter Schritt | 2.099 Blöcke (Schritt 9.79) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 167.511 | 35,4 % |
-| Tuffstein | `tuff` | 65.505 | 13,8 % |
-| Polierter Tuffstein | `polished_tuff` | 58.552 | 12,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 38.871 | 8,2 % |
-| Glatter Stein | `smooth_stone` | 28.885 | 6,1 % |
-| Weißer Beton | `white_concrete` | 28.318 | 6,0 % |
-| Polierter Andesit | `polished_andesite` | 26.363 | 5,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 15.086 | 3,2 % |
-| Graues Buntglas | `gray_stained_glass` | 13.691 | 2,9 % |
-| Endsteinziegel | `end_stone_bricks` | 7.809 | 1,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 6.927 | 1,5 % |
-| Rosa Keramik | `pink_terracotta` | 5.201 | 1,1 % |
-| Grüner Beton | `green_concrete` | 4.222 | 0,9 % |
-| Ziegelsteine | `bricks` | 3.703 | 0,8 % |
-| Seelaterne | `sea_lantern` | 807 | 0,2 % |
+| Terrakotta | `terracotta` | 100.466 | 30,9 % |
+| Tuffstein | `tuff` | 44.715 | 13,8 % |
+| Polierter Tuffstein | `polished_tuff` | 37.657 | 11,6 % |
+| Polierter Andesit | `polished_andesite` | 25.917 | 8,0 % |
+| Glatter Stein | `smooth_stone` | 24.352 | 7,5 % |
+| Weißer Beton | `white_concrete` | 23.372 | 7,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 15.086 | 4,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 14.040 | 4,3 % |
+| Graues Buntglas | `gray_stained_glass` | 11.239 | 3,5 % |
+| Endsteinziegel | `end_stone_bricks` | 7.814 | 2,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 6.927 | 2,1 % |
+| Rosa Keramik | `pink_terracotta` | 5.201 | 1,6 % |
+| Grüner Beton | `green_concrete` | 3.718 | 1,1 % |
+| Ziegelsteine | `bricks` | 1.522 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 800 | 0,2 % |
-| Orange Keramik | `orange_terracotta` | 519 | 0,1 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 219 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 198 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 182 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 62 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 62 | 0,0 % |
+| Seelaterne | `sea_lantern` | 537 | 0,2 % |
+| Orange Keramik | `orange_terracotta` | 519 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 213 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 176 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 164 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 61 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 61 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 41 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 41 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 41 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 36 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 35 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 35 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 31 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 29 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 29 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 27 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 21 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
@@ -62,2840 +61,47 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 460 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 180 |
+| Steintreppe | `stone_stairs` | 420 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 174 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 122 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w102979687` | Biblioteca Nazionale Centrale di Firenze | 109.261 | 9.1–9.73 |
-| 2 | `w102979687_innen` | Biblioteca Nazionale Centrale di Firenze: Innenausbau | 39.698 | 9.73–9.93 |
-| 3 | `w307539769` | Haus w307539769 | 17.239 | 9.94–9.106 |
-| 4 | `w307539769_innen` | Haus w307539769: Innenausbau | 5.386 | 9.107–9.110 |
-| 5 | `w307539772` | Palazzo Bardi Serzelli | 32.804 | 9.111–9.130 |
-| 6 | `w307539772_innen` | Palazzo Bardi Serzelli: Innenausbau | 7.958 | 9.131–9.134 |
-| 7 | `w307539774` | Palazzo des Cinquecento an Via di San Giuseppe | 19.473 | 9.135–9.145 |
-| 8 | `w307539774_innen` | Palazzo des Cinquecento an Via di San Giuseppe: Innenausbau | 3.568 | 9.146–9.147 |
-| 9 | `w307539783` | Palazzo des Cinquecento an Largo Piero Bargellini | 21.574 | 9.148–9.163 |
-| 10 | `w307539783_innen` | Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau | 4.249 | 9.163–9.166 |
-| 11 | `w307539787` | Scuola-Città Pestalozzi | 73.159 | 9.167–9.216 |
-| 12 | `w307539787_innen` | Scuola-Città Pestalozzi: Innenausbau | 13.475 | 9.217–9.224 |
-| 13 | `w370354370` | Haus w370354370 | 673 | 9.225 |
-| 14 | `w370354370_innen` | Haus w370354370: Innenausbau | 1 | 9.226 |
-| 15 | `w482503628` | Haus w482503628 | 9.743 | 9.226–9.230 |
-| 16 | `w482503628_innen` | Haus w482503628: Innenausbau | 1.890 | 9.231 |
-| 17 | `w482503637` | Haus w482503637 | 27.978 | 9.232–9.250 |
-| 18 | `w482503637_innen` | Haus w482503637: Innenausbau | 6.767 | 9.251–9.254 |
-| 19 | `w482503639` | Palazzo des Cinquecento an Via Tripoli | 10.702 | 9.255–9.260 |
-| 20 | `w482503639_innen` | Palazzo des Cinquecento an Via Tripoli: Innenausbau | 1.780 | 9.261 |
-| 21 | `w482503647` | Haus w482503647 | 3.921 | 9.262–9.263 |
-| 22 | `w482503647_innen` | Haus w482503647: Innenausbau | 661 | 9.264 |
-| 23 | `w482503651` | Haus w482503651 | 9.682 | 9.265–9.269 |
-| 24 | `w482503651_innen` | Haus w482503651: Innenausbau | 2.060 | 9.270 |
-| 25 | `w778074888` | Renaissance-Palazzo an Via Antonio Magliabechi | 33.063 | 9.271–9.292 |
-| 26 | `w778074888_innen` | Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau | 8.964 | 9.293–9.298 |
-| 27 | `w778074893` | Haus w778074893 | 1.443 | 9.299 |
-| 28 | `w778074893_innen` | Haus w778074893: Innenausbau | 1.062 | 9.300 |
-| 29 | `w778074896` | Haus w778074896 | 2.976 | 9.301–9.302 |
-| 30 | `w778074896_innen` | Haus w778074896: Innenausbau | 2.623 | 9.303–9.304 |
-| 31 | `strassenschilder` | Straßenschilder | 7 | 9.304 |
+| 1 | `w307539769` | Haus w307539769 | 17.239 | 9.1–9.13 |
+| 2 | `w307539769_innen` | Haus w307539769: Innenausbau | 5.386 | 9.14–9.17 |
+| 3 | `w307539772` | Palazzo Bardi Serzelli | 32.804 | 9.18–9.37 |
+| 4 | `w307539772_innen` | Palazzo Bardi Serzelli: Innenausbau | 7.958 | 9.38–9.41 |
+| 5 | `w307539774` | Palazzo des Cinquecento an Via di San Giuseppe | 19.473 | 9.42–9.52 |
+| 6 | `w307539774_innen` | Palazzo des Cinquecento an Via di San Giuseppe: Innenausbau | 3.568 | 9.53–9.54 |
+| 7 | `w307539783` | Palazzo des Cinquecento an Largo Piero Bargellini | 21.574 | 9.55–9.70 |
+| 8 | `w307539783_innen` | Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau | 4.249 | 9.70–9.73 |
+| 9 | `w307539787` | Scuola-Città Pestalozzi | 73.159 | 9.74–9.123 |
+| 10 | `w307539787_innen` | Scuola-Città Pestalozzi: Innenausbau | 13.475 | 9.124–9.131 |
+| 11 | `w370354370` | Haus w370354370 | 673 | 9.132 |
+| 12 | `w370354370_innen` | Haus w370354370: Innenausbau | 1 | 9.133 |
+| 13 | `w482503628` | Haus w482503628 | 9.743 | 9.133–9.137 |
+| 14 | `w482503628_innen` | Haus w482503628: Innenausbau | 1.890 | 9.138 |
+| 15 | `w482503637` | Haus w482503637 | 27.978 | 9.139–9.157 |
+| 16 | `w482503637_innen` | Haus w482503637: Innenausbau | 6.767 | 9.158–9.161 |
+| 17 | `w482503639` | Palazzo des Cinquecento an Via Tripoli | 10.702 | 9.162–9.167 |
+| 18 | `w482503639_innen` | Palazzo des Cinquecento an Via Tripoli: Innenausbau | 1.780 | 9.168 |
+| 19 | `w482503647` | Haus w482503647 | 3.921 | 9.169–9.170 |
+| 20 | `w482503647_innen` | Haus w482503647: Innenausbau | 661 | 9.171 |
+| 21 | `w482503651` | Haus w482503651 | 9.682 | 9.172–9.176 |
+| 22 | `w482503651_innen` | Haus w482503651: Innenausbau | 2.060 | 9.177 |
+| 23 | `w778074888` | Renaissance-Palazzo an Via Antonio Magliabechi | 33.070 | 9.178–9.199 |
+| 24 | `w778074888_innen` | Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau | 8.964 | 9.200–9.205 |
+| 25 | `w778074893` | Haus w778074893 | 1.443 | 9.206 |
+| 26 | `w778074893_innen` | Haus w778074893: Innenausbau | 1.062 | 9.207 |
+| 27 | `w778074896` | Haus w778074896 | 2.976 | 9.208–9.209 |
+| 28 | `w778074896_innen` | Haus w778074896: Innenausbau | 2.623 | 9.210–9.211 |
+| 29 | `strassenschilder` | Straßenschilder | 4 | 9.211 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Biblioteca Nazionale Centrale di Firenze – Teil 1/73 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.819
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.819 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.2 – Biblioteca Nazionale Centrale di Firenze – Teil 2/73 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.869
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.869 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.3 – Biblioteca Nazionale Centrale di Firenze – Teil 3/73 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.824
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.824 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.4 – Biblioteca Nazionale Centrale di Firenze – Teil 4/73 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.847
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.847 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.5 – Biblioteca Nazionale Centrale di Firenze – Teil 5/73 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.890
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.890 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.6 – Biblioteca Nazionale Centrale di Firenze – Teil 6/73 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.933
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.933 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.7 – Biblioteca Nazionale Centrale di Firenze – Teil 7/73 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.930
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.930 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.8 – Biblioteca Nazionale Centrale di Firenze – Teil 8/73 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.912
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.912 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.9 – Biblioteca Nazionale Centrale di Firenze – Teil 9/73 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.921
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.921 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.10 – Biblioteca Nazionale Centrale di Firenze – Teil 10/73 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.957
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.957 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.11 – Biblioteca Nazionale Centrale di Firenze – Teil 11/73 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.888
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.888 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.12 – Biblioteca Nazionale Centrale di Firenze – Teil 12/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.090
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.13 – Biblioteca Nazionale Centrale di Firenze – Teil 13/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.089
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.089 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.14 – Biblioteca Nazionale Centrale di Firenze – Teil 14/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.090
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.15 – Biblioteca Nazionale Centrale di Firenze – Teil 15/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.089
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.089 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.16 – Biblioteca Nazionale Centrale di Firenze – Teil 16/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.090
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.17 – Biblioteca Nazionale Centrale di Firenze – Teil 17/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.089
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.089 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.18 – Biblioteca Nazionale Centrale di Firenze – Teil 18/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.090
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.19 – Biblioteca Nazionale Centrale di Firenze – Teil 19/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.089
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.089 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.20 – Biblioteca Nazionale Centrale di Firenze – Teil 20/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.090
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.21 – Biblioteca Nazionale Centrale di Firenze – Teil 21/73 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.089
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.089 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.22 – Biblioteca Nazionale Centrale di Firenze – Teil 22/73 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.162
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.077 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
-| Polierter Andesit | `polished_andesite` | 24 |
-| Glatter Stein | `smooth_stone` | 22 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.23 – Biblioteca Nazionale Centrale di Firenze – Teil 23/73 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.162
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.093 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.24 – Biblioteca Nazionale Centrale di Firenze – Teil 24/73 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.162
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 809 |
-| Weißer Beton | `white_concrete` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
-| Polierter Andesit | `polished_andesite` | 24 |
-| Glatter Stein | `smooth_stone` | 22 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.25 – Biblioteca Nazionale Centrale di Firenze – Teil 25/73 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.051
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 676 |
-| Graues Buntglas | `gray_stained_glass` | 170 |
-| Weißer Beton | `white_concrete` | 139 |
-| Grüner Beton | `green_concrete` | 36 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.26 – Biblioteca Nazionale Centrale di Firenze – Teil 26/73 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.075
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 672 |
-| Graues Buntglas | `gray_stained_glass` | 182 |
-| Weißer Beton | `white_concrete` | 139 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 24 |
-| Glatter Stein | `smooth_stone` | 22 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.27 – Biblioteca Nazionale Centrale di Firenze – Teil 27/73 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.075
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 688 |
-| Graues Buntglas | `gray_stained_glass` | 182 |
-| Weißer Beton | `white_concrete` | 139 |
-| Grüner Beton | `green_concrete` | 36 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.28 – Biblioteca Nazionale Centrale di Firenze – Teil 28/73 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.075
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 672 |
-| Graues Buntglas | `gray_stained_glass` | 182 |
-| Weißer Beton | `white_concrete` | 139 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 24 |
-| Glatter Stein | `smooth_stone` | 22 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.29 – Biblioteca Nazionale Centrale di Firenze – Teil 29/73 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.079
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 691 |
-| Graues Buntglas | `gray_stained_glass` | 179 |
-| Weißer Beton | `white_concrete` | 139 |
-| Grüner Beton | `green_concrete` | 36 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.30 – Biblioteca Nazionale Centrale di Firenze – Teil 30/73 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 868 |
-| Weißer Beton | `white_concrete` | 268 |
-| Glatter Stein | `smooth_stone` | 71 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.31 – Biblioteca Nazionale Centrale di Firenze – Teil 31/73 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.223 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.32 – Biblioteca Nazionale Centrale di Firenze – Teil 32/73 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 645 |
-| Glatter Sandstein | `smooth_sandstone` | 586 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.33 – Biblioteca Nazionale Centrale di Firenze – Teil 33/73 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.223 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.34 – Biblioteca Nazionale Centrale di Firenze – Teil 34/73 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 884 |
-| Weißer Beton | `white_concrete` | 323 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.35 – Biblioteca Nazionale Centrale di Firenze – Teil 35/73 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 729 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.36 – Biblioteca Nazionale Centrale di Firenze – Teil 36/73 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 713 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.37 – Biblioteca Nazionale Centrale di Firenze – Teil 37/73 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 729 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.38 – Biblioteca Nazionale Centrale di Firenze – Teil 38/73 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 713 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.39 – Biblioteca Nazionale Centrale di Firenze – Teil 39/73 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 900 |
-| Weißer Beton | `white_concrete` | 323 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.40 – Biblioteca Nazionale Centrale di Firenze – Teil 40/73 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 739 |
-| Weißer Beton | `white_concrete` | 469 |
-| Polierter Andesit | `polished_andesite` | 23 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.41 – Biblioteca Nazionale Centrale di Firenze – Teil 41/73 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 651 |
-| Glatter Sandstein | `smooth_sandstone` | 580 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.42 – Biblioteca Nazionale Centrale di Firenze – Teil 42/73 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.207 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.43 – Biblioteca Nazionale Centrale di Firenze – Teil 43/73 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.231
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 900 |
-| Weißer Beton | `white_concrete` | 323 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.44 – Biblioteca Nazionale Centrale di Firenze – Teil 44/73 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 713 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.45 – Biblioteca Nazionale Centrale di Firenze – Teil 45/73 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 729 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.46 – Biblioteca Nazionale Centrale di Firenze – Teil 46/73 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 713 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.47 – Biblioteca Nazionale Centrale di Firenze – Teil 47/73 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 729 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.48 – Biblioteca Nazionale Centrale di Firenze – Teil 48/73 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 713 |
-| Weißer Beton | `white_concrete` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.49 – Biblioteca Nazionale Centrale di Firenze – Teil 49/73 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.675
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 900 |
-| Glatter Stein | `smooth_stone` | 444 |
-| Weißer Beton | `white_concrete` | 323 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.50 – Biblioteca Nazionale Centrale di Firenze – Teil 50/73 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.098
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 469 |
-| Glatter Sandstein | `smooth_sandstone` | 416 |
-| Weißer Beton | `white_concrete` | 202 |
-| Polierter Andesit | `polished_andesite` | 11 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.51 – Biblioteca Nazionale Centrale di Firenze – Teil 51/73 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.102
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 500 |
-| Glatter Sandstein | `smooth_sandstone` | 323 |
-| Weißer Beton | `white_concrete` | 267 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.52 – Biblioteca Nazionale Centrale di Firenze – Teil 52/73 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.377
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 743 |
-| Glatter Sandstein | `smooth_sandstone` | 630 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.53 – Biblioteca Nazionale Centrale di Firenze – Teil 53/73 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.375
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 778 |
-| Glatter Sandstein | `smooth_sandstone` | 593 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.54 – Biblioteca Nazionale Centrale di Firenze – Teil 54/73 (Y 93–93)
-
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 2.039
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.039 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.55 – Biblioteca Nazionale Centrale di Firenze – Teil 55/73 (Y 93–93)
-
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 2.050
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.050 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.56 – Biblioteca Nazionale Centrale di Firenze – Teil 56/73 (Y 94–94)
-
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.079
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.079 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.57 – Biblioteca Nazionale Centrale di Firenze – Teil 57/73 (Y 94–94)
-
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.082
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.082 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.58 – Biblioteca Nazionale Centrale di Firenze – Teil 58/73 (Y 95–95)
-
-- **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.242
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.242 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.59 – Biblioteca Nazionale Centrale di Firenze – Teil 59/73 (Y 95–95)
-
-- **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.247
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.247 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.60 – Biblioteca Nazionale Centrale di Firenze – Teil 60/73 (Y 96–96)
-
-- **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.157
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.025 |
-| Ziegelsteine | `bricks` | 132 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.61 – Biblioteca Nazionale Centrale di Firenze – Teil 61/73 (Y 96–96)
-
-- **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.151
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.028 |
-| Ziegelsteine | `bricks` | 123 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.62 – Biblioteca Nazionale Centrale di Firenze – Teil 62/73 (Y 97–97)
-
-- **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.215
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.133 |
-| Ziegelsteine | `bricks` | 82 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.63 – Biblioteca Nazionale Centrale di Firenze – Teil 63/73 (Y 97–97)
-
-- **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.221
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.142 |
-| Ziegelsteine | `bricks` | 79 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.64 – Biblioteca Nazionale Centrale di Firenze – Teil 64/73 (Y 98–98)
-
-- **Y-Bereich:** 98 bis 98
-- **Blöcke:** 2.078
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.859 |
-| Ziegelsteine | `bricks` | 219 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.65 – Biblioteca Nazionale Centrale di Firenze – Teil 65/73 (Y 99–99)
-
-- **Y-Bereich:** 99 bis 99
-- **Blöcke:** 1.117
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.053 |
-| Ziegelsteine | `bricks` | 64 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.66 – Biblioteca Nazionale Centrale di Firenze – Teil 66/73 (Y 99–99)
-
-- **Y-Bereich:** 99 bis 99
-- **Blöcke:** 1.117
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.046 |
-| Ziegelsteine | `bricks` | 71 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.67 – Biblioteca Nazionale Centrale di Firenze – Teil 67/73 (Y 100–100)
-
-- **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.960
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.771 |
-| Ziegelsteine | `bricks` | 189 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.68 – Biblioteca Nazionale Centrale di Firenze – Teil 68/73 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.037
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.910 |
-| Ziegelsteine | `bricks` | 127 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.69 – Biblioteca Nazionale Centrale di Firenze – Teil 69/73 (Y 102–102)
-
-- **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.760
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.591 |
-| Ziegelsteine | `bricks` | 169 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.70 – Biblioteca Nazionale Centrale di Firenze – Teil 70/73 (Y 103–103)
-
-- **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.850
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.802 |
-| Ziegelsteine | `bricks` | 48 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.71 – Biblioteca Nazionale Centrale di Firenze – Teil 71/73 (Y 103–103)
-
-- **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.860
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.837 |
-| Ziegelsteine | `bricks` | 23 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.72 – Biblioteca Nazionale Centrale di Firenze – Teil 72/73 (Y 103–103)
-
-- **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.840
-- **Bauteile:** `w102979687`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.799 |
-| Ziegelsteine | `bricks` | 41 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
-
-### Schritt 9.73 – Biblioteca Nazionale Centrale di Firenze – Teil 73/73 (Y 104–104) & Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 1/21 (Y 62–72)
-
-- **Y-Bereich:** 62 bis 104
-- **Blöcke:** 958
-- **Bauteile:** `w102979687`, `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Ziegelsteine | `bricks` | 814 |
-| Seelaterne | `sea_lantern` | 90 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (1911-1935 (Cesare Bazzani)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Biblioteca_Nazionale_Centrale_di_Firenze, Angaben belegt (Sicherheit 0,6). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.74 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 2/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.968
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.957 |
-| Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.75 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 3/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.987
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.978 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.76 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 4/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 2.003
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.994 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.77 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 5/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.947
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.938 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.78 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 6/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.996
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.987 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.79 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 7/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.983
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.974 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.80 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 8/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.958
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.950 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.81 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 9/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.974
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.965 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.82 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 10/21 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.939
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.931 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.83 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 11/21 (Y 73–81)
-
-- **Y-Bereich:** 73 bis 81
-- **Blöcke:** 2.042
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.982 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.84 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 12/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.968
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.957 |
-| Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.85 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 13/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.987
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.978 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.86 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 14/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 2.003
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.994 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.87 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 15/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.947
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.938 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.88 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 16/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.996
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.987 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.89 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 17/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.983
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.974 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.90 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 18/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.958
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.950 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.91 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 19/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.974
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.965 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.92 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 20/21 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.939
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.931 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.93 – Biblioteca Nazionale Centrale di Firenze: Innenausbau – Teil 21/21 (Y 82–83)
-
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 2.002
-- **Bauteile:** `w102979687_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.982 |
-| Seelaterne | `sea_lantern` | 11 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 9.94 – Haus w307539769 – Teil 1/13 (Y 61–61)
+### Schritt 9.1 – Haus w307539769 – Teil 1/13 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.480
@@ -2923,7 +129,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.95 – Haus w307539769 – Teil 2/13 (Y 61–61)
+### Schritt 9.2 – Haus w307539769 – Teil 2/13 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.497
@@ -2951,7 +157,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.96 – Haus w307539769 – Teil 3/13 (Y 62–64)
+### Schritt 9.3 – Haus w307539769 – Teil 3/13 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 927
@@ -2982,7 +188,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.97 – Haus w307539769 – Teil 4/13 (Y 65–68)
+### Schritt 9.4 – Haus w307539769 – Teil 4/13 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.253
@@ -3014,7 +220,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.98 – Haus w307539769 – Teil 5/13 (Y 69–72)
+### Schritt 9.5 – Haus w307539769 – Teil 5/13 (Y 69–72)
 
 - **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.337
@@ -3045,7 +251,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.99 – Haus w307539769 – Teil 6/13 (Y 73–76)
+### Schritt 9.6 – Haus w307539769 – Teil 6/13 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.352
@@ -3076,7 +282,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.100 – Haus w307539769 – Teil 7/13 (Y 77–80)
+### Schritt 9.7 – Haus w307539769 – Teil 7/13 (Y 77–80)
 
 - **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.352
@@ -3107,7 +313,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.101 – Haus w307539769 – Teil 8/13 (Y 81–84)
+### Schritt 9.8 – Haus w307539769 – Teil 8/13 (Y 81–84)
 
 - **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.380
@@ -3139,7 +345,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.102 – Haus w307539769 – Teil 9/13 (Y 85–88)
+### Schritt 9.9 – Haus w307539769 – Teil 9/13 (Y 85–88)
 
 - **Y-Bereich:** 85 bis 88
 - **Blöcke:** 1.296
@@ -3170,7 +376,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.103 – Haus w307539769 – Teil 10/13 (Y 89–91)
+### Schritt 9.10 – Haus w307539769 – Teil 10/13 (Y 89–91)
 
 - **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.406
@@ -3200,7 +406,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.104 – Haus w307539769 – Teil 11/13 (Y 92–92)
+### Schritt 9.11 – Haus w307539769 – Teil 11/13 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.811
@@ -3228,7 +434,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.105 – Haus w307539769 – Teil 12/13 (Y 93–93)
+### Schritt 9.12 – Haus w307539769 – Teil 12/13 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.106
@@ -3256,7 +462,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.106 – Haus w307539769 – Teil 13/13 (Y 94–96)
+### Schritt 9.13 – Haus w307539769 – Teil 13/13 (Y 94–96)
 
 - **Y-Bereich:** 94 bis 96
 - **Blöcke:** 1.042
@@ -3285,7 +491,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.107 – Haus w307539769: Innenausbau – Teil 1/4 (Y 61–72)
+### Schritt 9.14 – Haus w307539769: Innenausbau – Teil 1/4 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.387
@@ -3324,7 +530,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.108 – Haus w307539769: Innenausbau – Teil 2/4 (Y 72–72)
+### Schritt 9.15 – Haus w307539769: Innenausbau – Teil 2/4 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.321
@@ -3360,7 +566,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.109 – Haus w307539769: Innenausbau – Teil 3/4 (Y 73–81)
+### Schritt 9.16 – Haus w307539769: Innenausbau – Teil 3/4 (Y 73–81)
 
 - **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.357
@@ -3398,7 +604,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.110 – Haus w307539769: Innenausbau – Teil 4/4 (Y 81–81)
+### Schritt 9.17 – Haus w307539769: Innenausbau – Teil 4/4 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.321
@@ -3434,7 +640,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.111 – Palazzo Bardi Serzelli – Teil 1/20 (Y 59–62)
+### Schritt 9.18 – Palazzo Bardi Serzelli – Teil 1/20 (Y 59–62)
 
 - **Y-Bereich:** 59 bis 62
 - **Blöcke:** 695
@@ -3471,7 +677,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.112 – Palazzo Bardi Serzelli – Teil 2/20 (Y 63–63)
+### Schritt 9.19 – Palazzo Bardi Serzelli – Teil 2/20 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.520
@@ -3507,7 +713,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.113 – Palazzo Bardi Serzelli – Teil 3/20 (Y 63–63)
+### Schritt 9.20 – Palazzo Bardi Serzelli – Teil 3/20 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.537
@@ -3543,7 +749,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.114 – Palazzo Bardi Serzelli – Teil 4/20 (Y 63–64)
+### Schritt 9.21 – Palazzo Bardi Serzelli – Teil 4/20 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
 - **Blöcke:** 2.098
@@ -3582,7 +788,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.115 – Palazzo Bardi Serzelli – Teil 5/20 (Y 65–67)
+### Schritt 9.22 – Palazzo Bardi Serzelli – Teil 5/20 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
 - **Blöcke:** 1.687
@@ -3614,7 +820,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.116 – Palazzo Bardi Serzelli – Teil 6/20 (Y 68–70)
+### Schritt 9.23 – Palazzo Bardi Serzelli – Teil 6/20 (Y 68–70)
 
 - **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.694
@@ -3646,7 +852,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.117 – Palazzo Bardi Serzelli – Teil 7/20 (Y 71–73)
+### Schritt 9.24 – Palazzo Bardi Serzelli – Teil 7/20 (Y 71–73)
 
 - **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.772
@@ -3678,7 +884,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.118 – Palazzo Bardi Serzelli – Teil 8/20 (Y 74–75)
+### Schritt 9.25 – Palazzo Bardi Serzelli – Teil 8/20 (Y 74–75)
 
 - **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.576
@@ -3709,7 +915,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.119 – Palazzo Bardi Serzelli – Teil 9/20 (Y 76–78)
+### Schritt 9.26 – Palazzo Bardi Serzelli – Teil 9/20 (Y 76–78)
 
 - **Y-Bereich:** 76 bis 78
 - **Blöcke:** 1.988
@@ -3741,7 +947,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.120 – Palazzo Bardi Serzelli – Teil 10/20 (Y 79–81)
+### Schritt 9.27 – Palazzo Bardi Serzelli – Teil 10/20 (Y 79–81)
 
 - **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.932
@@ -3773,7 +979,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.121 – Palazzo Bardi Serzelli – Teil 11/20 (Y 82–83)
+### Schritt 9.28 – Palazzo Bardi Serzelli – Teil 11/20 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.576
@@ -3804,7 +1010,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.122 – Palazzo Bardi Serzelli – Teil 12/20 (Y 84–85)
+### Schritt 9.29 – Palazzo Bardi Serzelli – Teil 12/20 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.420
@@ -3834,7 +1040,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.123 – Palazzo Bardi Serzelli – Teil 13/20 (Y 86–88)
+### Schritt 9.30 – Palazzo Bardi Serzelli – Teil 13/20 (Y 86–88)
 
 - **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.875
@@ -3865,7 +1071,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.124 – Palazzo Bardi Serzelli – Teil 14/20 (Y 89–90)
+### Schritt 9.31 – Palazzo Bardi Serzelli – Teil 14/20 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.250
@@ -3896,7 +1102,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.125 – Palazzo Bardi Serzelli – Teil 15/20 (Y 91–92)
+### Schritt 9.32 – Palazzo Bardi Serzelli – Teil 15/20 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
 - **Blöcke:** 2.055
@@ -3926,7 +1132,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.126 – Palazzo Bardi Serzelli – Teil 16/20 (Y 93–93)
+### Schritt 9.33 – Palazzo Bardi Serzelli – Teil 16/20 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.427
@@ -3956,7 +1162,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.127 – Palazzo Bardi Serzelli – Teil 17/20 (Y 94–94)
+### Schritt 9.34 – Palazzo Bardi Serzelli – Teil 17/20 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.860
@@ -3984,7 +1190,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.128 – Palazzo Bardi Serzelli – Teil 18/20 (Y 95–96)
+### Schritt 9.35 – Palazzo Bardi Serzelli – Teil 18/20 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.736
@@ -4012,7 +1218,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.129 – Palazzo Bardi Serzelli – Teil 19/20 (Y 97–98)
+### Schritt 9.36 – Palazzo Bardi Serzelli – Teil 19/20 (Y 97–98)
 
 - **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.537
@@ -4041,7 +1247,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.130 – Palazzo Bardi Serzelli – Teil 20/20 (Y 99–103)
+### Schritt 9.37 – Palazzo Bardi Serzelli – Teil 20/20 (Y 99–103)
 
 - **Y-Bereich:** 99 bis 103
 - **Blöcke:** 1.569
@@ -4070,7 +1276,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.131 – Palazzo Bardi Serzelli: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 9.38 – Palazzo Bardi Serzelli: Innenausbau – Teil 1/4 (Y 63–74)
 
 - **Y-Bereich:** 63 bis 74
 - **Blöcke:** 2.048
@@ -4112,7 +1318,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.132 – Palazzo Bardi Serzelli: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 9.39 – Palazzo Bardi Serzelli: Innenausbau – Teil 2/4 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.945
@@ -4141,7 +1347,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.133 – Palazzo Bardi Serzelli: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 9.40 – Palazzo Bardi Serzelli: Innenausbau – Teil 3/4 (Y 75–83)
 
 - **Y-Bereich:** 75 bis 83
 - **Blöcke:** 2.020
@@ -4181,7 +1387,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.134 – Palazzo Bardi Serzelli: Innenausbau – Teil 4/4 (Y 83–83)
+### Schritt 9.41 – Palazzo Bardi Serzelli: Innenausbau – Teil 4/4 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.945
@@ -4210,7 +1416,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.135 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 1/11 (Y 61–61)
+### Schritt 9.42 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 1/11 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.098
@@ -4238,7 +1444,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.136 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 2/11 (Y 61–62)
+### Schritt 9.43 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 2/11 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.583
@@ -4270,7 +1476,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.137 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 3/11 (Y 63–66)
+### Schritt 9.44 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 3/11 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.921
@@ -4303,7 +1509,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.138 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 4/11 (Y 67–70)
+### Schritt 9.45 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 4/11 (Y 67–70)
 
 - **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.800
@@ -4336,7 +1542,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.139 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 5/11 (Y 71–74)
+### Schritt 9.46 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 5/11 (Y 71–74)
 
 - **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.877
@@ -4368,7 +1574,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.140 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 6/11 (Y 75–78)
+### Schritt 9.47 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 6/11 (Y 75–78)
 
 - **Y-Bereich:** 75 bis 78
 - **Blöcke:** 1.724
@@ -4400,7 +1606,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.141 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 7/11 (Y 79–82)
+### Schritt 9.48 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 7/11 (Y 79–82)
 
 - **Y-Bereich:** 79 bis 82
 - **Blöcke:** 1.835
@@ -4432,7 +1638,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.142 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 8/11 (Y 83–86)
+### Schritt 9.49 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 8/11 (Y 83–86)
 
 - **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.803
@@ -4464,7 +1670,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.143 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 9/11 (Y 87–90)
+### Schritt 9.50 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 9/11 (Y 87–90)
 
 - **Y-Bereich:** 87 bis 90
 - **Blöcke:** 1.969
@@ -4496,7 +1702,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.144 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 10/11 (Y 91–92)
+### Schritt 9.51 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 10/11 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
 - **Blöcke:** 2.035
@@ -4527,7 +1733,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.145 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 11/11 (Y 93–97)
+### Schritt 9.52 – Palazzo des Cinquecento an Via di San Giuseppe – Teil 11/11 (Y 93–97)
 
 - **Y-Bereich:** 93 bis 97
 - **Blöcke:** 1.828
@@ -4556,7 +1762,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.146 – Palazzo des Cinquecento an Via di San Giuseppe: Innenausbau – Teil 1/2 (Y 61–71)
+### Schritt 9.53 – Palazzo des Cinquecento an Via di San Giuseppe: Innenausbau – Teil 1/2 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.789
@@ -4594,7 +1800,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.147 – Palazzo des Cinquecento an Via di San Giuseppe: Innenausbau – Teil 2/2 (Y 72–81)
+### Schritt 9.54 – Palazzo des Cinquecento an Via di San Giuseppe: Innenausbau – Teil 2/2 (Y 72–81)
 
 - **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.779
@@ -4634,7 +1840,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.148 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 1/16 (Y 62–64)
+### Schritt 9.55 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 1/16 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.986
@@ -4663,7 +1869,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.149 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 2/16 (Y 64–64)
+### Schritt 9.56 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 2/16 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.287
@@ -4691,7 +1897,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.150 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 3/16 (Y 65–66)
+### Schritt 9.57 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 3/16 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.012
@@ -4722,7 +1928,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.151 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 4/16 (Y 67–68)
+### Schritt 9.58 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 4/16 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
 - **Blöcke:** 964
@@ -4756,7 +1962,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.152 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 5/16 (Y 69–71)
+### Schritt 9.59 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 5/16 (Y 69–71)
 
 - **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.392
@@ -4790,7 +1996,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.153 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 6/16 (Y 72–74)
+### Schritt 9.60 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 6/16 (Y 72–74)
 
 - **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.536
@@ -4821,7 +2027,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.154 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 7/16 (Y 75–77)
+### Schritt 9.61 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 7/16 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.487
@@ -4853,7 +2059,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.155 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 8/16 (Y 78–79)
+### Schritt 9.62 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 8/16 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 926
@@ -4885,7 +2091,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.156 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 9/16 (Y 80–82)
+### Schritt 9.63 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 9/16 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.438
@@ -4917,7 +2123,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.157 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 10/16 (Y 83–85)
+### Schritt 9.64 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 10/16 (Y 83–85)
 
 - **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.536
@@ -4948,7 +2154,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.158 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 11/16 (Y 86–88)
+### Schritt 9.65 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 11/16 (Y 86–88)
 
 - **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.438
@@ -4980,7 +2186,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.159 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 12/16 (Y 89–91)
+### Schritt 9.66 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 12/16 (Y 89–91)
 
 - **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.389
@@ -5012,7 +2218,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.160 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 13/16 (Y 92–93)
+### Schritt 9.67 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 13/16 (Y 92–93)
 
 - **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.178
@@ -5042,7 +2248,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.161 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 14/16 (Y 94–95)
+### Schritt 9.68 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 14/16 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.748
@@ -5072,7 +2278,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.162 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 15/16 (Y 95–95)
+### Schritt 9.69 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 15/16 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.079
@@ -5100,7 +2306,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.163 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 16/16 (Y 96–100) & Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau – Teil 1/4 (Y 64–73)
+### Schritt 9.70 – Palazzo des Cinquecento an Largo Piero Bargellini – Teil 16/16 (Y 96–100) & Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau – Teil 1/4 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 100
 - **Blöcke:** 1.237
@@ -5139,7 +2345,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.164 – Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 9.71 – Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau – Teil 2/4 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 2.073
@@ -5175,7 +2381,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.165 – Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 9.72 – Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau – Teil 3/4 (Y 75–83)
 
 - **Y-Bereich:** 75 bis 83
 - **Blöcke:** 44
@@ -5211,7 +2417,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.166 – Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau – Teil 4/4 (Y 84–84)
+### Schritt 9.73 – Palazzo des Cinquecento an Largo Piero Bargellini: Innenausbau – Teil 4/4 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 2.073
@@ -5247,7 +2453,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.167 – Scuola-Città Pestalozzi – Teil 1/50 (Y 59–63)
+### Schritt 9.74 – Scuola-Città Pestalozzi – Teil 1/50 (Y 59–63)
 
 - **Y-Bereich:** 59 bis 63
 - **Blöcke:** 1.956
@@ -5285,7 +2491,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.168 – Scuola-Città Pestalozzi – Teil 2/50 (Y 63–63)
+### Schritt 9.75 – Scuola-Città Pestalozzi – Teil 2/50 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.537
@@ -5322,7 +2528,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.169 – Scuola-Città Pestalozzi – Teil 3/50 (Y 64–64)
+### Schritt 9.76 – Scuola-Città Pestalozzi – Teil 3/50 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 2.018
@@ -5350,7 +2556,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.170 – Scuola-Città Pestalozzi – Teil 4/50 (Y 64–64)
+### Schritt 9.77 – Scuola-Città Pestalozzi – Teil 4/50 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 2.043
@@ -5387,7 +2593,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.171 – Scuola-Città Pestalozzi – Teil 5/50 (Y 64–64)
+### Schritt 9.78 – Scuola-Città Pestalozzi – Teil 5/50 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 2.041
@@ -5424,7 +2630,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.172 – Scuola-Città Pestalozzi – Teil 6/50 (Y 64–64)
+### Schritt 9.79 – Scuola-Città Pestalozzi – Teil 6/50 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 2.099
@@ -5461,7 +2667,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.173 – Scuola-Città Pestalozzi – Teil 7/50 (Y 65–65)
+### Schritt 9.80 – Scuola-Città Pestalozzi – Teil 7/50 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.357
@@ -5492,7 +2698,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.174 – Scuola-Città Pestalozzi – Teil 8/50 (Y 66–66)
+### Schritt 9.81 – Scuola-Città Pestalozzi – Teil 8/50 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.356
@@ -5523,7 +2729,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.175 – Scuola-Città Pestalozzi – Teil 9/50 (Y 67–67)
+### Schritt 9.82 – Scuola-Città Pestalozzi – Teil 9/50 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.304
@@ -5554,7 +2760,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.176 – Scuola-Città Pestalozzi – Teil 10/50 (Y 68–68)
+### Schritt 9.83 – Scuola-Città Pestalozzi – Teil 10/50 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.291
@@ -5586,7 +2792,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.177 – Scuola-Città Pestalozzi – Teil 11/50 (Y 69–69)
+### Schritt 9.84 – Scuola-Città Pestalozzi – Teil 11/50 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.386
@@ -5618,7 +2824,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.178 – Scuola-Città Pestalozzi – Teil 12/50 (Y 70–70)
+### Schritt 9.85 – Scuola-Città Pestalozzi – Teil 12/50 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.113
@@ -5648,7 +2854,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.179 – Scuola-Città Pestalozzi – Teil 13/50 (Y 71–71)
+### Schritt 9.86 – Scuola-Città Pestalozzi – Teil 13/50 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.403
@@ -5680,7 +2886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.180 – Scuola-Città Pestalozzi – Teil 14/50 (Y 72–72)
+### Schritt 9.87 – Scuola-Città Pestalozzi – Teil 14/50 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.408
@@ -5712,7 +2918,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.181 – Scuola-Città Pestalozzi – Teil 15/50 (Y 73–73)
+### Schritt 9.88 – Scuola-Città Pestalozzi – Teil 15/50 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.280
@@ -5743,7 +2949,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.182 – Scuola-Città Pestalozzi – Teil 16/50 (Y 74–74)
+### Schritt 9.89 – Scuola-Città Pestalozzi – Teil 16/50 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.489
@@ -5773,7 +2979,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.183 – Scuola-Città Pestalozzi – Teil 17/50 (Y 75–75)
+### Schritt 9.90 – Scuola-Città Pestalozzi – Teil 17/50 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.069
@@ -5802,7 +3008,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.184 – Scuola-Città Pestalozzi – Teil 18/50 (Y 75–75)
+### Schritt 9.91 – Scuola-Città Pestalozzi – Teil 18/50 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.068
@@ -5831,7 +3037,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.185 – Scuola-Città Pestalozzi – Teil 19/50 (Y 76–76)
+### Schritt 9.92 – Scuola-Città Pestalozzi – Teil 19/50 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.615
@@ -5862,7 +3068,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.186 – Scuola-Città Pestalozzi – Teil 20/50 (Y 77–77)
+### Schritt 9.93 – Scuola-Città Pestalozzi – Teil 20/50 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.769
@@ -5893,7 +3099,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.187 – Scuola-Città Pestalozzi – Teil 21/50 (Y 78–78)
+### Schritt 9.94 – Scuola-Città Pestalozzi – Teil 21/50 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.465
@@ -5925,7 +3131,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.188 – Scuola-Città Pestalozzi – Teil 22/50 (Y 79–79)
+### Schritt 9.95 – Scuola-Città Pestalozzi – Teil 22/50 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.465
@@ -5957,7 +3163,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.189 – Scuola-Città Pestalozzi – Teil 23/50 (Y 80–80)
+### Schritt 9.96 – Scuola-Città Pestalozzi – Teil 23/50 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.465
@@ -5989,7 +3195,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.190 – Scuola-Città Pestalozzi – Teil 24/50 (Y 81–81)
+### Schritt 9.97 – Scuola-Città Pestalozzi – Teil 24/50 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.465
@@ -6021,7 +3227,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.191 – Scuola-Città Pestalozzi – Teil 25/50 (Y 82–82)
+### Schritt 9.98 – Scuola-Città Pestalozzi – Teil 25/50 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.465
@@ -6053,7 +3259,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.192 – Scuola-Città Pestalozzi – Teil 26/50 (Y 83–83)
+### Schritt 9.99 – Scuola-Città Pestalozzi – Teil 26/50 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.615
@@ -6084,7 +3290,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.193 – Scuola-Città Pestalozzi – Teil 27/50 (Y 84–84)
+### Schritt 9.100 – Scuola-Città Pestalozzi – Teil 27/50 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.069
@@ -6113,7 +3319,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.194 – Scuola-Città Pestalozzi – Teil 28/50 (Y 84–84)
+### Schritt 9.101 – Scuola-Città Pestalozzi – Teil 28/50 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.068
@@ -6142,7 +3348,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.195 – Scuola-Città Pestalozzi – Teil 29/50 (Y 85–85)
+### Schritt 9.102 – Scuola-Città Pestalozzi – Teil 29/50 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.615
@@ -6172,7 +3378,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.196 – Scuola-Città Pestalozzi – Teil 30/50 (Y 86–86)
+### Schritt 9.103 – Scuola-Città Pestalozzi – Teil 30/50 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.769
@@ -6202,7 +3408,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.197 – Scuola-Città Pestalozzi – Teil 31/50 (Y 87–87)
+### Schritt 9.104 – Scuola-Città Pestalozzi – Teil 31/50 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.465
@@ -6233,7 +3439,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.198 – Scuola-Città Pestalozzi – Teil 32/50 (Y 88–88)
+### Schritt 9.105 – Scuola-Città Pestalozzi – Teil 32/50 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.465
@@ -6264,7 +3470,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.199 – Scuola-Città Pestalozzi – Teil 33/50 (Y 89–89)
+### Schritt 9.106 – Scuola-Città Pestalozzi – Teil 33/50 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.465
@@ -6295,7 +3501,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.200 – Scuola-Città Pestalozzi – Teil 34/50 (Y 90–90)
+### Schritt 9.107 – Scuola-Città Pestalozzi – Teil 34/50 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.465
@@ -6326,7 +3532,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.201 – Scuola-Città Pestalozzi – Teil 35/50 (Y 91–91)
+### Schritt 9.108 – Scuola-Città Pestalozzi – Teil 35/50 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.465
@@ -6357,7 +3563,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.202 – Scuola-Città Pestalozzi – Teil 36/50 (Y 92–92)
+### Schritt 9.109 – Scuola-Città Pestalozzi – Teil 36/50 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.079
@@ -6387,7 +3593,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.203 – Scuola-Città Pestalozzi – Teil 37/50 (Y 92–92)
+### Schritt 9.110 – Scuola-Città Pestalozzi – Teil 37/50 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.068
@@ -6417,7 +3623,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.204 – Scuola-Città Pestalozzi – Teil 38/50 (Y 93–93)
+### Schritt 9.111 – Scuola-Città Pestalozzi – Teil 38/50 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.405
@@ -6447,7 +3653,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.205 – Scuola-Città Pestalozzi – Teil 39/50 (Y 93–93)
+### Schritt 9.112 – Scuola-Città Pestalozzi – Teil 39/50 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.399
@@ -6477,7 +3683,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.206 – Scuola-Città Pestalozzi – Teil 40/50 (Y 94–94)
+### Schritt 9.113 – Scuola-Città Pestalozzi – Teil 40/50 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.756
@@ -6507,7 +3713,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.207 – Scuola-Città Pestalozzi – Teil 41/50 (Y 94–94)
+### Schritt 9.114 – Scuola-Città Pestalozzi – Teil 41/50 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.734
@@ -6537,7 +3743,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.208 – Scuola-Città Pestalozzi – Teil 42/50 (Y 95–95)
+### Schritt 9.115 – Scuola-Città Pestalozzi – Teil 42/50 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.501
@@ -6565,7 +3771,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.209 – Scuola-Città Pestalozzi – Teil 43/50 (Y 95–95)
+### Schritt 9.116 – Scuola-Città Pestalozzi – Teil 43/50 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.433
@@ -6593,7 +3799,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.210 – Scuola-Città Pestalozzi – Teil 44/50 (Y 95–95)
+### Schritt 9.117 – Scuola-Città Pestalozzi – Teil 44/50 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.487
@@ -6621,7 +3827,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.211 – Scuola-Città Pestalozzi – Teil 45/50 (Y 96–96)
+### Schritt 9.118 – Scuola-Città Pestalozzi – Teil 45/50 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.056
@@ -6649,7 +3855,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.212 – Scuola-Città Pestalozzi – Teil 46/50 (Y 96–96)
+### Schritt 9.119 – Scuola-Città Pestalozzi – Teil 46/50 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.074
@@ -6677,7 +3883,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.213 – Scuola-Città Pestalozzi – Teil 47/50 (Y 97–97)
+### Schritt 9.120 – Scuola-Città Pestalozzi – Teil 47/50 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.073
@@ -6705,7 +3911,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.214 – Scuola-Città Pestalozzi – Teil 48/50 (Y 97–97)
+### Schritt 9.121 – Scuola-Città Pestalozzi – Teil 48/50 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.079
@@ -6733,7 +3939,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.215 – Scuola-Città Pestalozzi – Teil 49/50 (Y 98–98)
+### Schritt 9.122 – Scuola-Città Pestalozzi – Teil 49/50 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.710
@@ -6762,7 +3968,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.216 – Scuola-Città Pestalozzi – Teil 50/50 (Y 99–104)
+### Schritt 9.123 – Scuola-Città Pestalozzi – Teil 50/50 (Y 99–104)
 
 - **Y-Bereich:** 99 bis 104
 - **Blöcke:** 1.917
@@ -6791,7 +3997,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.217 – Scuola-Città Pestalozzi: Innenausbau – Teil 1/8 (Y 64–75)
+### Schritt 9.124 – Scuola-Città Pestalozzi: Innenausbau – Teil 1/8 (Y 64–75)
 
 - **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.740
@@ -6833,7 +4039,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.218 – Scuola-Città Pestalozzi: Innenausbau – Teil 2/8 (Y 75–75)
+### Schritt 9.125 – Scuola-Città Pestalozzi: Innenausbau – Teil 2/8 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.689
@@ -6862,7 +4068,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.219 – Scuola-Città Pestalozzi: Innenausbau – Teil 3/8 (Y 75–75)
+### Schritt 9.126 – Scuola-Città Pestalozzi: Innenausbau – Teil 3/8 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.649
@@ -6891,7 +4097,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.220 – Scuola-Città Pestalozzi: Innenausbau – Teil 4/8 (Y 75–75)
+### Schritt 9.127 – Scuola-Città Pestalozzi: Innenausbau – Teil 4/8 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.675
@@ -6920,7 +4126,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.221 – Scuola-Città Pestalozzi: Innenausbau – Teil 5/8 (Y 76–84)
+### Schritt 9.128 – Scuola-Città Pestalozzi: Innenausbau – Teil 5/8 (Y 76–84)
 
 - **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.700
@@ -6964,7 +4170,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.222 – Scuola-Città Pestalozzi: Innenausbau – Teil 6/8 (Y 84–84)
+### Schritt 9.129 – Scuola-Città Pestalozzi: Innenausbau – Teil 6/8 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.689
@@ -6993,7 +4199,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.223 – Scuola-Città Pestalozzi: Innenausbau – Teil 7/8 (Y 84–84)
+### Schritt 9.130 – Scuola-Città Pestalozzi: Innenausbau – Teil 7/8 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.649
@@ -7022,7 +4228,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.224 – Scuola-Città Pestalozzi: Innenausbau – Teil 8/8 (Y 84–85)
+### Schritt 9.131 – Scuola-Città Pestalozzi: Innenausbau – Teil 8/8 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.684
@@ -7062,7 +4268,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.225 – Haus w370354370
+### Schritt 9.132 – Haus w370354370
 
 - **Y-Bereich:** 63 bis 94
 - **Blöcke:** 673
@@ -7094,7 +4300,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.226 – Haus w370354370: Innenausbau & Haus w482503628 – Teil 1/5 (Y 62–66)
+### Schritt 9.133 – Haus w370354370: Innenausbau & Haus w482503628 – Teil 1/5 (Y 62–66)
 
 - **Y-Bereich:** 62 bis 66
 - **Blöcke:** 2.055
@@ -7128,7 +4334,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.227 – Haus w482503628 – Teil 2/5 (Y 67–74)
+### Schritt 9.134 – Haus w482503628 – Teil 2/5 (Y 67–74)
 
 - **Y-Bereich:** 67 bis 74
 - **Blöcke:** 1.840
@@ -7160,7 +4366,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.228 – Haus w482503628 – Teil 3/5 (Y 75–83)
+### Schritt 9.135 – Haus w482503628 – Teil 3/5 (Y 75–83)
 
 - **Y-Bereich:** 75 bis 83
 - **Blöcke:** 2.061
@@ -7191,7 +4397,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.229 – Haus w482503628 – Teil 4/5 (Y 84–91)
+### Schritt 9.136 – Haus w482503628 – Teil 4/5 (Y 84–91)
 
 - **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.864
@@ -7223,7 +4429,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.230 – Haus w482503628 – Teil 5/5 (Y 92–98)
+### Schritt 9.137 – Haus w482503628 – Teil 5/5 (Y 92–98)
 
 - **Y-Bereich:** 92 bis 98
 - **Blöcke:** 1.924
@@ -7255,7 +4461,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.231 – Haus w482503628: Innenausbau
+### Schritt 9.138 – Haus w482503628: Innenausbau
 
 - **Y-Bereich:** 62 bis 83
 - **Blöcke:** 1.890
@@ -7295,7 +4501,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.232 – Haus w482503637 – Teil 1/19 (Y 58–62)
+### Schritt 9.139 – Haus w482503637 – Teil 1/19 (Y 58–62)
 
 - **Y-Bereich:** 58 bis 62
 - **Blöcke:** 704
@@ -7323,7 +4529,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.233 – Haus w482503637 – Teil 2/19 (Y 63–63)
+### Schritt 9.140 – Haus w482503637 – Teil 2/19 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.969
@@ -7351,7 +4557,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.234 – Haus w482503637 – Teil 3/19 (Y 63–63)
+### Schritt 9.141 – Haus w482503637 – Teil 3/19 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.949
@@ -7379,7 +4585,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.235 – Haus w482503637 – Teil 4/19 (Y 64–65)
+### Schritt 9.142 – Haus w482503637 – Teil 4/19 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.212
@@ -7410,7 +4616,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.236 – Haus w482503637 – Teil 5/19 (Y 66–68)
+### Schritt 9.143 – Haus w482503637 – Teil 5/19 (Y 66–68)
 
 - **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.789
@@ -7442,7 +4648,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.237 – Haus w482503637 – Teil 6/19 (Y 69–70)
+### Schritt 9.144 – Haus w482503637 – Teil 6/19 (Y 69–70)
 
 - **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.150
@@ -7474,7 +4680,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.238 – Haus w482503637 – Teil 7/19 (Y 71–73)
+### Schritt 9.145 – Haus w482503637 – Teil 7/19 (Y 71–73)
 
 - **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.821
@@ -7506,7 +4712,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.239 – Haus w482503637 – Teil 8/19 (Y 74–75)
+### Schritt 9.146 – Haus w482503637 – Teil 8/19 (Y 74–75)
 
 - **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.260
@@ -7536,7 +4742,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.240 – Haus w482503637 – Teil 9/19 (Y 76–77)
+### Schritt 9.147 – Haus w482503637 – Teil 9/19 (Y 76–77)
 
 - **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.261
@@ -7568,7 +4774,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.241 – Haus w482503637 – Teil 10/19 (Y 78–80)
+### Schritt 9.148 – Haus w482503637 – Teil 10/19 (Y 78–80)
 
 - **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.740
@@ -7600,7 +4806,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.242 – Haus w482503637 – Teil 11/19 (Y 81–82)
+### Schritt 9.149 – Haus w482503637 – Teil 11/19 (Y 81–82)
 
 - **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.210
@@ -7632,7 +4838,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.243 – Haus w482503637 – Teil 12/19 (Y 83–85)
+### Schritt 9.150 – Haus w482503637 – Teil 12/19 (Y 83–85)
 
 - **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.941
@@ -7662,7 +4868,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.244 – Haus w482503637 – Teil 13/19 (Y 86–87)
+### Schritt 9.151 – Haus w482503637 – Teil 13/19 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.160
@@ -7694,7 +4900,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.245 – Haus w482503637 – Teil 14/19 (Y 88–89)
+### Schritt 9.152 – Haus w482503637 – Teil 14/19 (Y 88–89)
 
 - **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.160
@@ -7726,7 +4932,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.246 – Haus w482503637 – Teil 15/19 (Y 90–92)
+### Schritt 9.153 – Haus w482503637 – Teil 15/19 (Y 90–92)
 
 - **Y-Bereich:** 90 bis 92
 - **Blöcke:** 2.033
@@ -7758,7 +4964,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.247 – Haus w482503637 – Teil 16/19 (Y 93–93)
+### Schritt 9.154 – Haus w482503637 – Teil 16/19 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.414
@@ -7789,7 +4995,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.248 – Haus w482503637 – Teil 17/19 (Y 93–93)
+### Schritt 9.155 – Haus w482503637 – Teil 17/19 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.485
@@ -7820,7 +5026,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.249 – Haus w482503637 – Teil 18/19 (Y 93–93)
+### Schritt 9.156 – Haus w482503637 – Teil 18/19 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.460
@@ -7851,7 +5057,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.250 – Haus w482503637 – Teil 19/19 (Y 94–95)
+### Schritt 9.157 – Haus w482503637 – Teil 19/19 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.260
@@ -7879,7 +5085,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.251 – Haus w482503637: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 9.158 – Haus w482503637: Innenausbau – Teil 1/4 (Y 63–74)
 
 - **Y-Bereich:** 63 bis 74
 - **Blöcke:** 1.731
@@ -7921,7 +5127,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.252 – Haus w482503637: Innenausbau – Teil 2/4 (Y 74–75)
+### Schritt 9.159 – Haus w482503637: Innenausbau – Teil 2/4 (Y 74–75)
 
 - **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.653
@@ -7964,7 +5170,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.253 – Haus w482503637: Innenausbau – Teil 3/4 (Y 76–83)
+### Schritt 9.160 – Haus w482503637: Innenausbau – Teil 3/4 (Y 76–83)
 
 - **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.697
@@ -8002,7 +5208,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.254 – Haus w482503637: Innenausbau – Teil 4/4 (Y 83–93)
+### Schritt 9.161 – Haus w482503637: Innenausbau – Teil 4/4 (Y 83–93)
 
 - **Y-Bereich:** 83 bis 93
 - **Blöcke:** 1.686
@@ -8040,7 +5246,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.255 – Palazzo des Cinquecento an Via Tripoli – Teil 1/6 (Y 63–66)
+### Schritt 9.162 – Palazzo des Cinquecento an Via Tripoli – Teil 1/6 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.885
@@ -8073,7 +5279,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.256 – Palazzo des Cinquecento an Via Tripoli – Teil 2/6 (Y 67–73)
+### Schritt 9.163 – Palazzo des Cinquecento an Via Tripoli – Teil 2/6 (Y 67–73)
 
 - **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.779
@@ -8107,7 +5313,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.257 – Palazzo des Cinquecento an Via Tripoli – Teil 3/6 (Y 74–80)
+### Schritt 9.164 – Palazzo des Cinquecento an Via Tripoli – Teil 3/6 (Y 74–80)
 
 - **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.741
@@ -8139,7 +5345,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.258 – Palazzo des Cinquecento an Via Tripoli – Teil 4/6 (Y 81–87)
+### Schritt 9.165 – Palazzo des Cinquecento an Via Tripoli – Teil 4/6 (Y 81–87)
 
 - **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.822
@@ -8172,7 +5378,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.259 – Palazzo des Cinquecento an Via Tripoli – Teil 5/6 (Y 88–93)
+### Schritt 9.166 – Palazzo des Cinquecento an Via Tripoli – Teil 5/6 (Y 88–93)
 
 - **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.791
@@ -8205,7 +5411,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.260 – Palazzo des Cinquecento an Via Tripoli – Teil 6/6 (Y 94–100)
+### Schritt 9.167 – Palazzo des Cinquecento an Via Tripoli – Teil 6/6 (Y 94–100)
 
 - **Y-Bereich:** 94 bis 100
 - **Blöcke:** 1.684
@@ -8234,7 +5440,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.261 – Palazzo des Cinquecento an Via Tripoli: Innenausbau
+### Schritt 9.168 – Palazzo des Cinquecento an Via Tripoli: Innenausbau
 
 - **Y-Bereich:** 63 bis 84
 - **Blöcke:** 1.780
@@ -8278,7 +5484,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.262 – Haus w482503647 – Teil 1/2 (Y 64–80)
+### Schritt 9.169 – Haus w482503647 – Teil 1/2 (Y 64–80)
 
 - **Y-Bereich:** 64 bis 80
 - **Blöcke:** 1.923
@@ -8311,7 +5517,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.263 – Haus w482503647 – Teil 2/2 (Y 81–96)
+### Schritt 9.170 – Haus w482503647 – Teil 2/2 (Y 81–96)
 
 - **Y-Bereich:** 81 bis 96
 - **Blöcke:** 1.998
@@ -8343,7 +5549,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.264 – Haus w482503647: Innenausbau
+### Schritt 9.171 – Haus w482503647: Innenausbau
 
 - **Y-Bereich:** 64 bis 87
 - **Blöcke:** 661
@@ -8381,7 +5587,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.265 – Haus w482503651 – Teil 1/5 (Y 61–64)
+### Schritt 9.172 – Haus w482503651 – Teil 1/5 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.968
@@ -8414,7 +5620,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.266 – Haus w482503651 – Teil 2/5 (Y 65–73)
+### Schritt 9.173 – Haus w482503651 – Teil 2/5 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
 - **Blöcke:** 1.995
@@ -8448,7 +5654,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.267 – Haus w482503651 – Teil 3/5 (Y 74–82)
+### Schritt 9.174 – Haus w482503651 – Teil 3/5 (Y 74–82)
 
 - **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.956
@@ -8480,7 +5686,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.268 – Haus w482503651 – Teil 4/5 (Y 83–90)
+### Schritt 9.175 – Haus w482503651 – Teil 4/5 (Y 83–90)
 
 - **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.782
@@ -8512,7 +5718,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.269 – Haus w482503651 – Teil 5/5 (Y 91–96)
+### Schritt 9.176 – Haus w482503651 – Teil 5/5 (Y 91–96)
 
 - **Y-Bereich:** 91 bis 96
 - **Blöcke:** 1.981
@@ -8543,7 +5749,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.270 – Haus w482503651: Innenausbau
+### Schritt 9.177 – Haus w482503651: Innenausbau
 
 - **Y-Bereich:** 61 bis 81
 - **Blöcke:** 2.060
@@ -8585,7 +5791,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.271 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 1/22 (Y 60–61)
+### Schritt 9.178 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 1/22 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
 - **Blöcke:** 1.423
@@ -8622,7 +5828,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.272 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 2/22 (Y 62–62)
+### Schritt 9.179 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 2/22 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.666
@@ -8650,7 +5856,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.273 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 3/22 (Y 62–62)
+### Schritt 9.180 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 3/22 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.697
@@ -8685,7 +5891,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.274 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 4/22 (Y 62–62)
+### Schritt 9.181 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 4/22 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.698
@@ -8722,7 +5928,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.275 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 5/22 (Y 63–64)
+### Schritt 9.182 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 5/22 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.152
@@ -8753,7 +5959,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.276 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 6/22 (Y 65–66)
+### Schritt 9.183 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 6/22 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.105
@@ -8785,7 +5991,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.277 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 7/22 (Y 67–69)
+### Schritt 9.184 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 7/22 (Y 67–69)
 
 - **Y-Bereich:** 67 bis 69
 - **Blöcke:** 1.607
@@ -8817,7 +6023,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.278 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 8/22 (Y 70–72)
+### Schritt 9.185 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 8/22 (Y 70–72)
 
 - **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.759
@@ -8849,7 +6055,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.279 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 9/22 (Y 73–74)
+### Schritt 9.186 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 9/22 (Y 73–74)
 
 - **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.559
@@ -8880,7 +6086,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.280 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 10/22 (Y 75–76)
+### Schritt 9.187 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 10/22 (Y 75–76)
 
 - **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.344
@@ -8912,7 +6118,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.281 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 11/22 (Y 77–79)
+### Schritt 9.188 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 11/22 (Y 77–79)
 
 - **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.797
@@ -8944,7 +6150,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.282 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 12/22 (Y 80–81)
+### Schritt 9.189 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 12/22 (Y 80–81)
 
 - **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.276
@@ -8976,7 +6182,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.283 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 13/22 (Y 82–83)
+### Schritt 9.190 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 13/22 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.559
@@ -9006,7 +6212,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.284 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 14/22 (Y 84–85)
+### Schritt 9.191 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 14/22 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.344
@@ -9037,7 +6243,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.285 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 15/22 (Y 86–88)
+### Schritt 9.192 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 15/22 (Y 86–88)
 
 - **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.797
@@ -9068,7 +6274,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.286 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 16/22 (Y 89–90)
+### Schritt 9.193 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 16/22 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.276
@@ -9099,10 +6305,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.287 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 17/22 (Y 91–92)
+### Schritt 9.194 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 17/22 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.777
+- **Blöcke:** 1.782
 - **Bauteile:** `w778074888`
 
 **Teileliste**
@@ -9111,7 +6317,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 703 |
 | Tuffstein | `tuff` | 632 |
-| Endsteinziegel | `end_stone_bricks` | 423 |
+| Endsteinziegel | `end_stone_bricks` | 428 |
 | Glatter Stein | `smooth_stone` | 19 |
 
 **Beschreibung**
@@ -9130,17 +6336,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.288 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 18/22 (Y 93–93)
+### Schritt 9.195 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 18/22 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.845
+- **Blöcke:** 1.847
 - **Bauteile:** `w778074888`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.845 |
+| Terrakotta | `terracotta` | 1.847 |
 
 **Beschreibung**
 
@@ -9158,7 +6364,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.289 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 19/22 (Y 94–94)
+### Schritt 9.196 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 19/22 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.071
@@ -9186,7 +6392,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.290 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 20/22 (Y 95–95)
+### Schritt 9.197 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 20/22 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.091
@@ -9214,7 +6420,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.291 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 21/22 (Y 96–97)
+### Schritt 9.198 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 21/22 (Y 96–97)
 
 - **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.942
@@ -9243,7 +6449,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.292 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 22/22 (Y 98–101)
+### Schritt 9.199 – Renaissance-Palazzo an Via Antonio Magliabechi – Teil 22/22 (Y 98–101)
 
 - **Y-Bereich:** 98 bis 101
 - **Blöcke:** 1.278
@@ -9272,7 +6478,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.293 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 1/6 (Y 62–73)
+### Schritt 9.200 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 1/6 (Y 62–73)
 
 - **Y-Bereich:** 62 bis 73
 - **Blöcke:** 1.572
@@ -9314,7 +6520,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.294 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 2/6 (Y 73–73)
+### Schritt 9.201 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 2/6 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.474
@@ -9343,7 +6549,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.295 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 3/6 (Y 73–73)
+### Schritt 9.202 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 3/6 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.444
@@ -9379,7 +6585,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.296 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 4/6 (Y 74–82)
+### Schritt 9.203 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 4/6 (Y 74–82)
 
 - **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.547
@@ -9423,7 +6629,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.297 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 5/6 (Y 82–82)
+### Schritt 9.204 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 5/6 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.474
@@ -9452,7 +6658,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.298 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 6/6 (Y 82–83)
+### Schritt 9.205 – Renaissance-Palazzo an Via Antonio Magliabechi: Innenausbau – Teil 6/6 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.453
@@ -9494,7 +6700,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.299 – Haus w778074893
+### Schritt 9.206 – Haus w778074893
 
 - **Y-Bereich:** 61 bis 96
 - **Blöcke:** 1.443
@@ -9529,7 +6735,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.300 – Haus w778074893: Innenausbau
+### Schritt 9.207 – Haus w778074893: Innenausbau
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.062
@@ -9569,7 +6775,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.301 – Haus w778074896 – Teil 1/2 (Y 59–77)
+### Schritt 9.208 – Haus w778074896 – Teil 1/2 (Y 59–77)
 
 - **Y-Bereich:** 59 bis 77
 - **Blöcke:** 1.485
@@ -9601,7 +6807,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.302 – Haus w778074896 – Teil 2/2 (Y 78–97)
+### Schritt 9.209 – Haus w778074896 – Teil 2/2 (Y 78–97)
 
 - **Y-Bereich:** 78 bis 97
 - **Blöcke:** 1.491
@@ -9633,7 +6839,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.303 – Haus w778074896: Innenausbau – Teil 1/2 (Y 59–74)
+### Schritt 9.210 – Haus w778074896: Innenausbau – Teil 1/2 (Y 59–74)
 
 - **Y-Bereich:** 59 bis 74
 - **Blöcke:** 917
@@ -9675,10 +6881,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.304 – Haus w778074896: Innenausbau – Teil 2/2 (Y 75–83) & Straßenschilder
+### Schritt 9.211 – Haus w778074896: Innenausbau – Teil 2/2 (Y 75–83) & Straßenschilder
 
 - **Y-Bereich:** 69 bis 83
-- **Blöcke:** 1.713
+- **Blöcke:** 1.710
 - **Bauteile:** `w778074896_innen`, `strassenschilder`
 
 **Teileliste**
@@ -9692,7 +6898,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
