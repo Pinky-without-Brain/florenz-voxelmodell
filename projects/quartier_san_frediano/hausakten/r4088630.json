@@ -1,7 +1,7 @@
 {
   "id": "r4088630",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen",
   "geschosse": [
     {
       "art": "eg",
@@ -9,22 +9,22 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
     "material": "putz",
-    "putzfarbe": "sand",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "portal_mittig",
+      "portalBreiteBl": 8,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rahmen_stuck",
@@ -35,15 +35,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "doppelportal_mitte_bugnato",
+      "wappen_pallavicini_rospigliosi",
+      "gedenktafel_craufurd_1827",
+      "restaurierung_1996"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Palast um 1472 durch Niccolò di Zanobi Borgherini, Front zur Piazza del Carmine im 16. Jh. bereits ähnlich der heutigen, doppeltes Mittelportal in Bugnato-Rahmung, Obergeschosse mit Fensterachsen, Doppelwappen Pallavicini-Rospigliosi, Restaurierung von Fassade und Dach 1996. Annahme: Geschosszahl 3, Achsen, Putz, Fenster, Gesims.",
   "name": "Palazzo Rospigliosi Pallavicini"
 }

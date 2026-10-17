@@ -1,15 +1,15 @@
 {
   "id": "w306984404",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1865-69, Neorenaissance (Antonio Cipolla)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 8
     },
     {
       "art": "og",
@@ -18,32 +18,37 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
-    "material": "putz",
+    "achsen": 11,
+    "material": "bugnato_glatt",
     "putzfarbe": "grau",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
-      "tiefeBl": 2
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "bugnato_rustico_a_baule",
+      "eisengitter_kuenstlerisch",
+      "skulpturen_bastianini",
+      "wappen_koenigreich_italien"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_della_Banca_d'Italia_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Neorenaissance 1865-69 von Antonio Cipolla nach Vorbild der römischen Renaissance des 16. Jh., drei Geschosse, elf Achsen, EG durchgehend Quaderwerk (bugnato rustico a baule) mit Eisengittern, Skulpturen von Bastianini über den Portalen, Wappen des Königreichs Italien. Annahme: Obergeschosse glatt, Fenstertyp, Gesims, Dach.",
   "name": "Palazzo della Banca d'Italia"
 }

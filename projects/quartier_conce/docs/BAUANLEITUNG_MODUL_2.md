@@ -8,45 +8,45 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 97.444 |
-| Bauschritte | 61 |
+| Blöcke | 98.367 |
+| Bauschritte | 62 |
 | Y-Bereich | 61 bis 99 |
 | X-Ausdehnung | 977 bis 1115 (139 Blöcke) |
 | Z-Ausdehnung | 717 bis 955 (239 Blöcke) |
-| Kleinster Schritt | 670 Blöcke (Schritt 2.32) |
-| Mittlerer Schritt | 1.597 Blöcke |
-| Größter Schritt | 2.092 Blöcke (Schritt 2.34) |
+| Kleinster Schritt | 670 Blöcke (Schritt 2.33) |
+| Mittlerer Schritt | 1.587 Blöcke |
+| Größter Schritt | 2.092 Blöcke (Schritt 2.35) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 27.040 | 27,7 % |
-| Orange Keramik | `orange_terracotta` | 13.142 | 13,5 % |
-| Endsteinziegel | `end_stone_bricks` | 11.960 | 12,3 % |
-| Rosa Keramik | `pink_terracotta` | 9.946 | 10,2 % |
+| Terrakotta | `terracotta` | 27.804 | 28,3 % |
+| Orange Keramik | `orange_terracotta` | 13.142 | 13,4 % |
+| Endsteinziegel | `end_stone_bricks` | 11.960 | 12,2 % |
+| Rosa Keramik | `pink_terracotta` | 9.946 | 10,1 % |
 | Polierter Tuffstein | `polished_tuff` | 8.329 | 8,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.932 | 8,1 % |
-| Tuffstein | `tuff` | 3.316 | 3,4 % |
 | Weißer Beton | `white_concrete` | 3.246 | 3,3 % |
-| Graues Buntglas | `gray_stained_glass` | 2.656 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 2.591 | 2,7 % |
-| Polierter Andesit | `polished_andesite` | 1.468 | 1,5 % |
+| Tuffstein | `tuff` | 3.063 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 2.763 | 2,8 % |
+| Graues Buntglas | `gray_stained_glass` | 2.662 | 2,7 % |
+| Polierter Andesit | `polished_andesite` | 1.923 | 2,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 1.460 | 1,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 864 | 0,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 865 | 0,9 % |
 | Grüner Beton | `green_concrete` | 853 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 617 | 0,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 488 | 0,5 % |
 | Ziegelsteine | `bricks` | 430 | 0,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 247 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 181 | 0,2 % |
-| Seelaterne | `sea_lantern` | 171 | 0,2 % |
+| Seelaterne | `sea_lantern` | 176 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 167 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 150 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 146 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 74 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 74 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 151 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 147 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 77 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 77 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 44 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 9 | 0,0 % |
@@ -58,8 +58,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 644 |
-| Steintreppe | `stone_stairs` | 120 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 646 |
+| Steintreppe | `stone_stairs` | 126 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -71,33 +71,33 @@
 | 4 | `r7030265_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 737 | 2.10 |
 | 5 | `r7030267` | Reihenhaus an Via delle Pinzochere | 7.019 | 2.11–2.14 |
 | 6 | `r7030267_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 2.048 | 2.15 |
-| 7 | `w115661884` | Casa del boia | 9.824 | 2.16–2.21 |
-| 8 | `w115661884_innen` | Casa del boia: Innenausbau | 1.653 | 2.22 |
-| 9 | `w321893763` | Reihenhaus an Via delle Pinzochere | 3.824 | 2.23–2.24 |
-| 10 | `w321893763_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 856 | 2.25 |
-| 11 | `w478224226` | Reihenhaus an Via San Cristofano | 5.100 | 2.26–2.28 |
-| 12 | `w478224226_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 1.181 | 2.29 |
-| 13 | `w478224227` | Reihenhaus an Via San Cristofano | 4.157 | 2.30–2.31 |
-| 14 | `w478224227_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 670 | 2.32 |
-| 15 | `w478224232` | Reihenhaus an Via San Cristofano | 5.994 | 2.33–2.35 |
-| 16 | `w478224232_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 1.520 | 2.36 |
-| 17 | `w478224234` | Reihenhaus an Via delle Pinzochere | 4.835 | 2.37–2.39 |
-| 18 | `w478224234_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 1.571 | 2.40 |
-| 19 | `w478224237` | Reihenhaus an Via San Cristofano | 2.877 | 2.41–2.42 |
-| 20 | `w478224237_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 753 | 2.43 |
-| 21 | `w478224239` | Reihenhaus an Via delle Pinzochere | 3.701 | 2.44–2.45 |
-| 22 | `w478224239_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 720 | 2.46 |
-| 23 | `w478224241` | Palazzo des Cinquecento an Via delle Pinzochere | 7.796 | 2.47–2.50 |
-| 24 | `w478224241_innen` | Palazzo des Cinquecento an Via delle Pinzochere: Innenausbau | 1.410 | 2.51 |
-| 25 | `w478224244` | Reihenhaus an Via delle Pinzochere | 3.920 | 2.52–2.53 |
-| 26 | `w478224244_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 1.197 | 2.54 |
-| 27 | `w478224245` | Reihenhaus an Via San Cristofano | 2.236 | 2.55–2.56 |
-| 28 | `w478224245_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 850 | 2.57 |
-| 29 | `w478224248` | Reihenhaus an Via San Cristofano | 1.626 | 2.58 |
-| 30 | `w478224248_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 948 | 2.59 |
-| 31 | `w478224259` | Reihenhaus an Via San Cristofano | 1.813 | 2.60 |
-| 32 | `w478224259_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 780 | 2.61 |
-| 33 | `strassenschilder` | Straßenschilder | 23 | 2.61 |
+| 7 | `w115661884` | Casa del boia | 9.951 | 2.16–2.21 |
+| 8 | `w115661884_innen` | Casa del boia: Innenausbau | 2.449 | 2.22–2.23 |
+| 9 | `w321893763` | Reihenhaus an Via delle Pinzochere | 3.824 | 2.24–2.25 |
+| 10 | `w321893763_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 856 | 2.26 |
+| 11 | `w478224226` | Reihenhaus an Via San Cristofano | 5.100 | 2.27–2.29 |
+| 12 | `w478224226_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 1.181 | 2.30 |
+| 13 | `w478224227` | Reihenhaus an Via San Cristofano | 4.157 | 2.31–2.32 |
+| 14 | `w478224227_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 670 | 2.33 |
+| 15 | `w478224232` | Reihenhaus an Via San Cristofano | 5.994 | 2.34–2.36 |
+| 16 | `w478224232_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 1.520 | 2.37 |
+| 17 | `w478224234` | Reihenhaus an Via delle Pinzochere | 4.835 | 2.38–2.40 |
+| 18 | `w478224234_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 1.571 | 2.41 |
+| 19 | `w478224237` | Reihenhaus an Via San Cristofano | 2.877 | 2.42–2.43 |
+| 20 | `w478224237_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 753 | 2.44 |
+| 21 | `w478224239` | Reihenhaus an Via delle Pinzochere | 3.701 | 2.45–2.46 |
+| 22 | `w478224239_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 720 | 2.47 |
+| 23 | `w478224241` | Palazzo des Cinquecento an Via delle Pinzochere | 7.796 | 2.48–2.51 |
+| 24 | `w478224241_innen` | Palazzo des Cinquecento an Via delle Pinzochere: Innenausbau | 1.410 | 2.52 |
+| 25 | `w478224244` | Reihenhaus an Via delle Pinzochere | 3.920 | 2.53–2.54 |
+| 26 | `w478224244_innen` | Reihenhaus an Via delle Pinzochere: Innenausbau | 1.197 | 2.55 |
+| 27 | `w478224245` | Reihenhaus an Via San Cristofano | 2.236 | 2.56–2.57 |
+| 28 | `w478224245_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 850 | 2.58 |
+| 29 | `w478224248` | Reihenhaus an Via San Cristofano | 1.626 | 2.59 |
+| 30 | `w478224248_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 948 | 2.60 |
+| 31 | `w478224259` | Reihenhaus an Via San Cristofano | 1.813 | 2.61 |
+| 32 | `w478224259_innen` | Reihenhaus an Via San Cristofano: Innenausbau | 780 | 2.62 |
+| 33 | `strassenschilder` | Straßenschilder | 23 | 2.62 |
 
 ## Bauschritte
 
@@ -615,7 +615,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 2.16 – Casa del boia – Teil 1/6 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.672
+- **Blöcke:** 1.764
 - **Bauteile:** `w115661884`
 
 **Teileliste**
@@ -623,14 +623,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.028 |
-| Tuffstein | `tuff` | 426 |
-| Glatter Stein | `smooth_stone` | 120 |
-| Tuffsteinziegel | `tuff_bricks` | 93 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Tuffstein | `tuff` | 314 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Polierter Andesit | `polished_andesite` | 134 |
+| Tuffsteinziegel | `tuff_bricks` | 94 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (EG Formen des 16. Jh.; Obergeschosse 19./20. Jh., Inschrift 1915), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_boia_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -642,27 +643,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.17 – Casa del boia – Teil 2/6 (Y 65–71)
+### Schritt 2.17 – Casa del boia – Teil 2/6 (Y 65–70)
 
-- **Y-Bereich:** 65 bis 71
-- **Blöcke:** 1.497
+- **Y-Bereich:** 65 bis 70
+- **Blöcke:** 1.462
 - **Bauteile:** `w115661884`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 840 |
-| Glatter Stein | `smooth_stone` | 311 |
-| Graues Buntglas | `gray_stained_glass` | 190 |
-| Tuffsteinziegel | `tuff_bricks` | 144 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Tuffstein | `tuff` | 637 |
+| Glatter Stein | `smooth_stone` | 325 |
+| Polierter Andesit | `polished_andesite` | 300 |
+| Tuffsteinziegel | `tuff_bricks` | 124 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (EG Formen des 16. Jh.; Obergeschosse 19./20. Jh., Inschrift 1915), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_boia_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -674,12 +675,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.18 – Casa del boia – Teil 3/6 (Y 72–78)
+### Schritt 2.18 – Casa del boia – Teil 3/6 (Y 71–77)
 
-- **Y-Bereich:** 72 bis 78
-- **Blöcke:** 1.783
+- **Y-Bereich:** 71 bis 77
+- **Blöcke:** 1.706
 - **Bauteile:** `w115661884`
 
 **Teileliste**
@@ -687,14 +688,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 704 |
-| Glatter Stein | `smooth_stone` | 511 |
-| Polierter Andesit | `polished_andesite` | 233 |
-| Tuffsteinziegel | `tuff_bricks` | 171 |
+| Glatter Stein | `smooth_stone` | 514 |
+| Polierter Andesit | `polished_andesite` | 324 |
 | Graues Buntglas | `gray_stained_glass` | 164 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (EG Formen des 16. Jh.; Obergeschosse 19./20. Jh., Inschrift 1915), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_boia_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -706,27 +706,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.19 – Casa del boia – Teil 4/6 (Y 79–84)
+### Schritt 2.19 – Casa del boia – Teil 4/6 (Y 78–84)
 
-- **Y-Bereich:** 79 bis 84
-- **Blöcke:** 1.581
+- **Y-Bereich:** 78 bis 84
+- **Blöcke:** 1.706
 - **Bauteile:** `w115661884`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 642 |
-| Glatter Stein | `smooth_stone` | 509 |
-| Polierter Andesit | `polished_andesite` | 297 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
-| Tuffsteinziegel | `tuff_bricks` | 51 |
+| Tuffstein | `tuff` | 704 |
+| Glatter Stein | `smooth_stone` | 514 |
+| Polierter Andesit | `polished_andesite` | 324 |
+| Graues Buntglas | `gray_stained_glass` | 164 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (EG Formen des 16. Jh.; Obergeschosse 19./20. Jh., Inschrift 1915), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_boia_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -738,12 +737,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.20 – Casa del boia – Teil 5/6 (Y 85–90)
 
 - **Y-Bereich:** 85 bis 90
-- **Blöcke:** 1.505
+- **Blöcke:** 1.527
 - **Bauteile:** `w115661884`
 
 **Teileliste**
@@ -751,14 +750,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 588 |
-| Polierter Andesit | `polished_andesite` | 404 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 374 |
+| Polierter Andesit | `polished_andesite` | 324 |
 | Graues Buntglas | `gray_stained_glass` | 164 |
 | Endsteinziegel | `end_stone_bricks` | 77 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (EG Formen des 16. Jh.; Obergeschosse 19./20. Jh., Inschrift 1915), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_boia_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -770,7 +769,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.21 – Casa del boia – Teil 6/6 (Y 91–99)
 
@@ -791,7 +790,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (EG Formen des 16. Jh.; Obergeschosse 19./20. Jh., Inschrift 1915), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_boia_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -803,12 +802,56 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.22 – Casa del boia: Innenausbau
+### Schritt 2.22 – Casa del boia: Innenausbau – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 61 bis 82
-- **Blöcke:** 1.653
+- **Y-Bereich:** 61 bis 76
+- **Blöcke:** 857
+- **Bauteile:** `w115661884_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 764 |
+| Glatter Stein | `smooth_stone` | 44 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
+| Seelaterne | `sea_lantern` | 10 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 30 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 2.23 – Casa del boia: Innenausbau – Teil 2/2 (Y 77–85)
+
+- **Y-Bereich:** 77 bis 85
+- **Blöcke:** 1.592
 - **Bauteile:** `w115661884_innen`
 
 **Teileliste**
@@ -816,11 +859,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.528 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
-| Seelaterne | `sea_lantern` | 15 |
+| Glatter Stein | `smooth_stone` | 20 |
+| Seelaterne | `sea_lantern` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
@@ -830,7 +873,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
@@ -849,7 +892,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.23 – Reihenhaus an Via delle Pinzochere – Teil 1/2 (Y 61–77)
+### Schritt 2.24 – Reihenhaus an Via delle Pinzochere – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.917
@@ -882,7 +925,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.24 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 78–96)
+### Schritt 2.25 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 1.907
@@ -915,7 +958,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.25 – Reihenhaus an Via delle Pinzochere: Innenausbau
+### Schritt 2.26 – Reihenhaus an Via delle Pinzochere: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 856
@@ -957,7 +1000,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.26 – Reihenhaus an Via San Cristofano – Teil 1/3 (Y 62–71)
+### Schritt 2.27 – Reihenhaus an Via San Cristofano – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.655
@@ -990,7 +1033,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.27 – Reihenhaus an Via San Cristofano – Teil 2/3 (Y 72–84)
+### Schritt 2.28 – Reihenhaus an Via San Cristofano – Teil 2/3 (Y 72–84)
 
 - **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.733
@@ -1020,7 +1063,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.28 – Reihenhaus an Via San Cristofano – Teil 3/3 (Y 85–98)
+### Schritt 2.29 – Reihenhaus an Via San Cristofano – Teil 3/3 (Y 85–98)
 
 - **Y-Bereich:** 85 bis 98
 - **Blöcke:** 1.712
@@ -1052,7 +1095,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.29 – Reihenhaus an Via San Cristofano: Innenausbau
+### Schritt 2.30 – Reihenhaus an Via San Cristofano: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.181
@@ -1092,7 +1135,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.30 – Reihenhaus an Via San Cristofano – Teil 1/2 (Y 62–78)
+### Schritt 2.31 – Reihenhaus an Via San Cristofano – Teil 1/2 (Y 62–78)
 
 - **Y-Bereich:** 62 bis 78
 - **Blöcke:** 2.071
@@ -1124,7 +1167,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.31 – Reihenhaus an Via San Cristofano – Teil 2/2 (Y 79–97)
+### Schritt 2.32 – Reihenhaus an Via San Cristofano – Teil 2/2 (Y 79–97)
 
 - **Y-Bereich:** 79 bis 97
 - **Blöcke:** 2.086
@@ -1157,7 +1200,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.32 – Reihenhaus an Via San Cristofano: Innenausbau
+### Schritt 2.33 – Reihenhaus an Via San Cristofano: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 670
@@ -1197,7 +1240,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.33 – Reihenhaus an Via San Cristofano – Teil 1/3 (Y 61–70)
+### Schritt 2.34 – Reihenhaus an Via San Cristofano – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.936
@@ -1230,7 +1273,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.34 – Reihenhaus an Via San Cristofano – Teil 2/3 (Y 71–84)
+### Schritt 2.35 – Reihenhaus an Via San Cristofano – Teil 2/3 (Y 71–84)
 
 - **Y-Bereich:** 71 bis 84
 - **Blöcke:** 2.092
@@ -1260,7 +1303,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.35 – Reihenhaus an Via San Cristofano – Teil 3/3 (Y 85–97)
+### Schritt 2.36 – Reihenhaus an Via San Cristofano – Teil 3/3 (Y 85–97)
 
 - **Y-Bereich:** 85 bis 97
 - **Blöcke:** 1.966
@@ -1292,7 +1335,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.36 – Reihenhaus an Via San Cristofano: Innenausbau
+### Schritt 2.37 – Reihenhaus an Via San Cristofano: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.520
@@ -1334,7 +1377,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.37 – Reihenhaus an Via delle Pinzochere – Teil 1/3 (Y 61–70)
+### Schritt 2.38 – Reihenhaus an Via delle Pinzochere – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.622
@@ -1365,7 +1408,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.38 – Reihenhaus an Via delle Pinzochere – Teil 2/3 (Y 71–84)
+### Schritt 2.39 – Reihenhaus an Via delle Pinzochere – Teil 2/3 (Y 71–84)
 
 - **Y-Bereich:** 71 bis 84
 - **Blöcke:** 1.616
@@ -1396,7 +1439,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.39 – Reihenhaus an Via delle Pinzochere – Teil 3/3 (Y 85–98)
+### Schritt 2.40 – Reihenhaus an Via delle Pinzochere – Teil 3/3 (Y 85–98)
 
 - **Y-Bereich:** 85 bis 98
 - **Blöcke:** 1.597
@@ -1429,7 +1472,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.40 – Reihenhaus an Via delle Pinzochere: Innenausbau
+### Schritt 2.41 – Reihenhaus an Via delle Pinzochere: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.571
@@ -1469,7 +1512,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.41 – Reihenhaus an Via San Cristofano – Teil 1/2 (Y 61–77)
+### Schritt 2.42 – Reihenhaus an Via San Cristofano – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.463
@@ -1501,7 +1544,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.42 – Reihenhaus an Via San Cristofano – Teil 2/2 (Y 78–95)
+### Schritt 2.43 – Reihenhaus an Via San Cristofano – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.414
@@ -1533,7 +1576,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.43 – Reihenhaus an Via San Cristofano: Innenausbau
+### Schritt 2.44 – Reihenhaus an Via San Cristofano: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 753
@@ -1573,7 +1616,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.44 – Reihenhaus an Via delle Pinzochere – Teil 1/2 (Y 61–77)
+### Schritt 2.45 – Reihenhaus an Via delle Pinzochere – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.873
@@ -1604,7 +1647,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.45 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 78–95)
+### Schritt 2.46 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.828
@@ -1637,7 +1680,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.46 – Reihenhaus an Via delle Pinzochere: Innenausbau
+### Schritt 2.47 – Reihenhaus an Via delle Pinzochere: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 720
@@ -1677,7 +1720,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.47 – Palazzo des Cinquecento an Via delle Pinzochere – Teil 1/4 (Y 61–67)
+### Schritt 2.48 – Palazzo des Cinquecento an Via delle Pinzochere – Teil 1/4 (Y 61–67)
 
 - **Y-Bereich:** 61 bis 67
 - **Blöcke:** 1.971
@@ -1712,7 +1755,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.48 – Palazzo des Cinquecento an Via delle Pinzochere – Teil 2/4 (Y 68–78)
+### Schritt 2.49 – Palazzo des Cinquecento an Via delle Pinzochere – Teil 2/4 (Y 68–78)
 
 - **Y-Bereich:** 68 bis 78
 - **Blöcke:** 2.011
@@ -1745,7 +1788,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.49 – Palazzo des Cinquecento an Via delle Pinzochere – Teil 3/4 (Y 79–88)
+### Schritt 2.50 – Palazzo des Cinquecento an Via delle Pinzochere – Teil 3/4 (Y 79–88)
 
 - **Y-Bereich:** 79 bis 88
 - **Blöcke:** 1.816
@@ -1778,7 +1821,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.50 – Palazzo des Cinquecento an Via delle Pinzochere – Teil 4/4 (Y 89–98)
+### Schritt 2.51 – Palazzo des Cinquecento an Via delle Pinzochere – Teil 4/4 (Y 89–98)
 
 - **Y-Bereich:** 89 bis 98
 - **Blöcke:** 1.998
@@ -1811,7 +1854,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.51 – Palazzo des Cinquecento an Via delle Pinzochere: Innenausbau
+### Schritt 2.52 – Palazzo des Cinquecento an Via delle Pinzochere: Innenausbau
 
 - **Y-Bereich:** 61 bis 82
 - **Blöcke:** 1.410
@@ -1855,7 +1898,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.52 – Reihenhaus an Via delle Pinzochere – Teil 1/2 (Y 61–77)
+### Schritt 2.53 – Reihenhaus an Via delle Pinzochere – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 2.000
@@ -1887,7 +1930,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.53 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 78–95)
+### Schritt 2.54 – Reihenhaus an Via delle Pinzochere – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.920
@@ -1920,7 +1963,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.54 – Reihenhaus an Via delle Pinzochere: Innenausbau
+### Schritt 2.55 – Reihenhaus an Via delle Pinzochere: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.197
@@ -1960,7 +2003,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.55 – Reihenhaus an Via San Cristofano – Teil 1/2 (Y 61–77)
+### Schritt 2.56 – Reihenhaus an Via San Cristofano – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.118
@@ -1993,7 +2036,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.56 – Reihenhaus an Via San Cristofano – Teil 2/2 (Y 78–93)
+### Schritt 2.57 – Reihenhaus an Via San Cristofano – Teil 2/2 (Y 78–93)
 
 - **Y-Bereich:** 78 bis 93
 - **Blöcke:** 1.118
@@ -2024,7 +2067,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.57 – Reihenhaus an Via San Cristofano: Innenausbau
+### Schritt 2.58 – Reihenhaus an Via San Cristofano: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 850
@@ -2064,7 +2107,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.58 – Reihenhaus an Via San Cristofano
+### Schritt 2.59 – Reihenhaus an Via San Cristofano
 
 - **Y-Bereich:** 62 bis 96
 - **Blöcke:** 1.626
@@ -2098,7 +2141,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.59 – Reihenhaus an Via San Cristofano: Innenausbau
+### Schritt 2.60 – Reihenhaus an Via San Cristofano: Innenausbau
 
 - **Y-Bereich:** 62 bis 85
 - **Blöcke:** 948
@@ -2138,7 +2181,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.60 – Reihenhaus an Via San Cristofano
+### Schritt 2.61 – Reihenhaus an Via San Cristofano
 
 - **Y-Bereich:** 62 bis 96
 - **Blöcke:** 1.813
@@ -2172,7 +2215,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.61 – Reihenhaus an Via San Cristofano: Innenausbau & Straßenschilder
+### Schritt 2.62 – Reihenhaus an Via San Cristofano: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 803

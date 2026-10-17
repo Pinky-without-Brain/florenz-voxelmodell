@@ -1,19 +1,19 @@
 {
   "id": "w306378147",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "chiesa_minore",
+  "epoche": "Kirche des Klosters Santa Chiara, um 1494",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -23,7 +23,7 @@
     "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
+      "portalBreiteBl": 6,
       "fenster": "rechteck"
     },
     "fenster": {
@@ -35,15 +35,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "portal_architrav_quattrocento",
+      "pfeiler_mit_kauernden_loewen_marmor",
+      "buste_pio_fedi",
+      "relief_zwei_engel_madonna"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Galleria_Pio_Fedi",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: ehemalige Kirche des Klosters Santa Chiara (um 1494), Portal mit altem Architrav, darüber Büste von Pio Fedi und Relief zweier Engel mit Madonnenrund, beiderseits Pfeiler mit je einem kauernden Marmorlöwen. Annahme: Geschosse, Material, Fenster, Gesims, Typ.",
   "name": "Galleria Pio Fedi"
 }

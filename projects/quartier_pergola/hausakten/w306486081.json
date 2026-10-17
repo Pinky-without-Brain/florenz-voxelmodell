@@ -1,19 +1,19 @@
 {
   "id": "w306486081",
   "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "epoche": "spätes 15./16. Jh.; Umbau 1837 (Casamorata)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -23,27 +23,30 @@
     "putzfarbe": "ocker",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "rechteck",
+      "rahmen": "pietra_forte",
+      "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "buste_ferdinando_I_giambologna",
+      "wappen_medici_ueber_fenstern"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bellini_delle_Stelle",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Bau spätes 15./16. Jh., Hauptbau 1837 von Luigi Casamorata umgebaut, drei Geschosse, fünf Achsen, über dem Portal Büste Ferdinands I. (Giambologna 1603), darüber Wappen mit Medici-Kugeln; anschließender Werkstatttrakt (ehemalige Ställe) mit fünf Fenstern. Annahme: Putz und Farbe, Fenstertyp, Gesims, Dach.",
   "name": "Palazzo Bellini delle Stelle"
 }

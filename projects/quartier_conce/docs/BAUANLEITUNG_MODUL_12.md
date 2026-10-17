@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 289.749 |
+| Blöcke | 289.780 |
 | Bauschritte | 181 |
 | Y-Bereich | 60 bis 105 |
 | X-Ausdehnung | 1403 bis 1673 (271 Blöcke) |
@@ -27,19 +27,19 @@
 | Polierter Tuffstein | `polished_tuff` | 27.749 | 9,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 27.460 | 9,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 25.679 | 8,9 % |
-| Weißer Beton | `white_concrete` | 18.436 | 6,4 % |
+| Weißer Beton | `white_concrete` | 18.488 | 6,4 % |
 | Orange Keramik | `orange_terracotta` | 8.911 | 3,1 % |
-| Graues Buntglas | `gray_stained_glass` | 6.204 | 2,1 % |
+| Graues Buntglas | `gray_stained_glass` | 6.205 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 4.876 | 1,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 4.359 | 1,5 % |
-| Glatter Stein | `smooth_stone` | 3.264 | 1,1 % |
+| Glatter Stein | `smooth_stone` | 3.247 | 1,1 % |
 | Grüner Beton | `green_concrete` | 2.468 | 0,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.858 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.857 | 0,6 % |
 | Ziegelsteine | `bricks` | 1.679 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.207 | 0,4 % |
 | Seelaterne | `sea_lantern` | 578 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 423 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 397 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 422 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 396 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 299 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 277 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 153 | 0,1 % |
@@ -48,7 +48,7 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 38 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
@@ -57,8 +57,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.396 |
-| Steintreppe | `stone_stairs` | 164 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.394 |
+| Steintreppe | `stone_stairs` | 162 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -66,8 +66,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w115821787` | Reihenhaus an Via dei Conciatori | 6.836 | 12.1–12.4 |
 | 2 | `w115821787_innen` | Reihenhaus an Via dei Conciatori: Innenausbau | 1.305 | 12.5 |
-| 3 | `w306985690` | Ex chiesa dei Santi Jacopo e Lorenzo | 10.171 | 12.6–12.11 |
-| 4 | `w306985690_innen` | Ex chiesa dei Santi Jacopo e Lorenzo: Innenausbau | 1.974 | 12.12 |
+| 3 | `w306985690` | Ex chiesa dei Santi Jacopo e Lorenzo | 10.209 | 12.6–12.11 |
+| 4 | `w306985690_innen` | Ex chiesa dei Santi Jacopo e Lorenzo: Innenausbau | 1.967 | 12.12 |
 | 5 | `w483746894` | Reihenhaus an Via dei Conciatori | 8.574 | 12.13–12.17 |
 | 6 | `w483746894_innen` | Reihenhaus an Via dei Conciatori: Innenausbau | 2.194 | 12.18–12.19 |
 | 7 | `w483746895` | Reihenhaus an Via delle Conce | 10.634 | 12.20–12.25 |
@@ -302,7 +302,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 12.6 – Ex chiesa dei Santi Jacopo e Lorenzo – Teil 1/6 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.660
+- **Blöcke:** 1.664
 - **Bauteile:** `w306985690`
 
 **Teileliste**
@@ -310,12 +310,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.186 |
-| Weißer Beton | `white_concrete` | 468 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Weißer Beton | `white_concrete` | 474 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1542 (Antonio Lupicini, Auftraggeber Leonardo Buonafede)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -327,25 +327,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.7 – Ex chiesa dei Santi Jacopo e Lorenzo – Teil 2/6 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
-- **Blöcke:** 1.640
+- **Blöcke:** 1.656
 - **Bauteile:** `w306985690`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.502 |
-| Glatter Stein | `smooth_stone` | 99 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
+| Weißer Beton | `white_concrete` | 1.523 |
+| Glatter Stein | `smooth_stone` | 93 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1542 (Antonio Lupicini, Auftraggeber Leonardo Buonafede)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -357,7 +357,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.8 – Ex chiesa dei Santi Jacopo e Lorenzo – Teil 3/6 (Y 71–77)
 
@@ -369,12 +369,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.696 |
-| Glatter Stein | `smooth_stone` | 52 |
+| Weißer Beton | `white_concrete` | 1.651 |
+| Glatter Stein | `smooth_stone` | 71 |
+| Graues Buntglas | `gray_stained_glass` | 26 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1542 (Antonio Lupicini, Auftraggeber Leonardo Buonafede)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -386,25 +387,55 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.9 – Ex chiesa dei Santi Jacopo e Lorenzo – Teil 4/6 (Y 78–84)
 
 - **Y-Bereich:** 78 bis 84
-- **Blöcke:** 1.719
+- **Blöcke:** 1.746
 - **Bauteile:** `w306985690`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.563 |
+| Weißer Beton | `white_concrete` | 1.607 |
+| Glatter Stein | `smooth_stone` | 100 |
+| Graues Buntglas | `gray_stained_glass` | 39 |
+
+**Beschreibung**
+
+Kleine Kirche (1542 (Antonio Lupicini, Auftraggeber Leonardo Buonafede)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.10 – Ex chiesa dei Santi Jacopo e Lorenzo – Teil 5/6 (Y 85–91)
+
+- **Y-Bereich:** 85 bis 91
+- **Blöcke:** 1.795
+- **Bauteile:** `w306985690`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.639 |
 | Glatter Stein | `smooth_stone` | 91 |
 | Graues Buntglas | `gray_stained_glass` | 65 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1542 (Antonio Lupicini, Auftraggeber Leonardo Buonafede)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -416,37 +447,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.10 – Ex chiesa dei Santi Jacopo e Lorenzo – Teil 5/6 (Y 85–91)
-
-- **Y-Bereich:** 85 bis 91
-- **Blöcke:** 1.804
-- **Bauteile:** `w306985690`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.613 |
-| Glatter Stein | `smooth_stone` | 126 |
-| Graues Buntglas | `gray_stained_glass` | 65 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.11 – Ex chiesa dei Santi Jacopo e Lorenzo – Teil 6/6 (Y 92–97)
 
@@ -463,7 +464,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1542 (Antonio Lupicini, Auftraggeber Leonardo Buonafede)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -475,12 +476,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.12 – Ex chiesa dei Santi Jacopo e Lorenzo: Innenausbau
 
-- **Y-Bereich:** 61 bis 84
-- **Blöcke:** 1.974
+- **Y-Bereich:** 61 bis 82
+- **Blöcke:** 1.967
 - **Bauteile:** `w306985690_innen`
 
 **Teileliste**
@@ -488,22 +489,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.850 |
-| Glatter Stein | `smooth_stone` | 56 |
+| Glatter Stein | `smooth_stone` | 54 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Seelaterne | `sea_lantern` | 18 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 44 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+| Steintreppe | `stone_stairs` | 42 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 

@@ -1,49 +1,55 @@
 {
   "id": "w306984396",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "um 1500; Umbau Silvani 1625-34",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 9,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "bifora",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
+      "art": "gronda_holz",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "wappen_albizi",
+      "wappen_arte_della_lana",
+      "gedenktafel_1879",
+      "loggia_hof_sechsbogig",
+      "marcapiano"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Albizi",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Renaissancefassade um 1500 auf älteren Kaufmannshäusern (Baccio d'Agnolo oder Cronaca zugeschrieben), Umbau Silvani 1625-34, verputzt mit Steinportal, Steinrahmen (a bozze piatte) und Gurtgesimsen, stark überstehendes Dach, Albizi-Wappen unter dem 2. Geschoss und an den Enden, rückseitig sechsbogige Loggia. Annahme: Geschosszahl 3, Achsenzahl, Putzfarbe, Portalbreite.",
   "name": "Palazzo Albizi"
 }

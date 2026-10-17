@@ -1,7 +1,7 @@
 {
   "id": "w476740650",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Wiederherstellung 1567 (Inschrift), nach Hochwasser 1557",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -35,15 +35,20 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "terrakottarelief_madonna_nach_giuliano_da_maiano",
+      "wappen_medici_inschrift_1567",
+      "graffito_beschaedigt",
+      "tabernakel_portal"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Convento_delle_Fanciulle_del_Ceppo",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Wappeninschrift 1567 (instauravit), sehr ausgedehnter Bau, Portal Nr. 9 mit modernem Terrakottarelief der Madonna nach Giuliano da Maiano, ehemals steinernes Medici-Wappen, beschädigte Graffito-Fläche. Annahme: Geschosse, Achsen, Material, Fenster, Gesims, Dach.",
   "name": "Convento delle Fanciulle del Ceppo"
 }

@@ -1,23 +1,19 @@
 {
   "id": "w306798529",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "Ende 13./Anfang 14. Jh.; gekürzt 1251/1292, im 16. und Ende 18. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 12
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 10
     }
   ],
   "fassade": {
@@ -26,28 +22,34 @@
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 5,
-      "fenster": "rundbogen"
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
-      "laeden": null
+      "typ": "bifora",
+      "rahmen": "pietra_serena",
+      "laeden": false
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "pietraforte_bozze_squadrate",
+      "gueltische_zinnen_original",
+      "segmentbogen_arnolfianisch_eg",
+      "mittelalterliche_eisen_haken_ringe",
+      "wappen_lanfredini_bruschi"
+    ]
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Lanfredini",
+  "sicherheit": 0.85,
+  "notiz": "Nach it.Wikipedia: Turm Ende 13./Anfang 14. Jh., mehrfach gekürzt, heute zwei Geschosse, Mezzanin und Keller, Fassade aus Pietraforte mit Quadern bis zum Bogenansatz des 1. Geschosses, darüber kleinteiliger, EG mit großem Segmentbogen (Fondaco), Hauptbifora im 1. Geschoss, originale guelfische Zinnen, mittelalterliche Eisen (Stangenhaken, Tierringe). Annahme: Achsenzahl, Dachform flach wegen Zinnen.",
   "name": "Torre dei Lanfredini"
 }

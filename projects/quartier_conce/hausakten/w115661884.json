@@ -1,25 +1,29 @@
 {
   "id": "w115661884",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "EG Formen des 16. Jh.; Obergeschosse 19./20. Jh., Inschrift 1915",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
-    "material": "bugnato_abgestuft",
+    "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_mittig",
@@ -35,15 +39,20 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "quader_pietra_forte_eg",
+      "hochwassermarke_1547_auf_bugna",
+      "inschrift_1915",
+      "freistehend_drei_seiten"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_del_boia_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: vier Geschosse, EG ganz aus Pietra-forte-Quadern (16. Jh., mit modernen Ergänzungen, zur Via San Cristofano Kunststein), Obergeschosse in der Bauweise des 19./20. Jh., Inschriften 1547 (Hochwassermarke) und 1915 (Restaurierung), auf drei Seiten freistehend. Annahme: Achsen, Fenster, Gesims, Dach.",
   "name": "Casa del boia"
 }

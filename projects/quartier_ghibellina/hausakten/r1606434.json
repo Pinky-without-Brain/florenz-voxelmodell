@@ -1,7 +1,7 @@
 {
   "id": "r1606434",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "Graffito kurz nach 1452 (Tommaso Lapi); EG-Fensterrahmen 17. Jh.; Restaurierung 1916",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,46 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 7,
     "material": "putz",
-    "putzfarbe": "rosa",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "portal_seitlich",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "rundbogen",
       "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
+      "art": "putzgesims",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "graffito_fassade_quader_ranken",
+      "portal_rustikal_5_achse",
+      "steingurte",
+      "konsolenband_perspektivisch"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Lapi",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Palast mit Graffito-Fassade (kurz nach 1452) die Quader, Blüten, Früchte und Ranken nachbildet, drei Geschosse, sieben Achsen, rustikales Portal in der fünften Achse, EG-Fenster mit glatten Steinrahmen (17. Jh.), Rundbogenfenster auf Steingurten, Band mit perspektivischen Konsolen. Annahme: Putzfarbe, Gesimsart, Dachform.",
   "name": "Palazzo Lapi"
 }

@@ -1,11 +1,15 @@
 {
   "id": "r7284650",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh. (Fassade cinquecentesk)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 5
     },
     {
       "art": "nobile",
@@ -13,21 +17,21 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 4,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -35,15 +39,21 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "bossen_portal",
+      "bossen_fensterrahmen",
+      "bossen_ecken",
+      "gurtbaender_bossen",
+      "wappen_lenzi_marzichi"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Marzichi-Lenzi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Fassade eindeutig 16. Jh., drei Geschosse plus Mezzanin, vier Achsen, verputzt mit Bossenwerk (massives Portal, Fensterrahmen, Gurtbänder und Ecken), mittig Wappen mit Stier (Lenzi und Marzichi). Annahme: Putzfarbe, Gesims, Dachform.",
   "name": "Palazzo Marzichi-Lenzi"
 }

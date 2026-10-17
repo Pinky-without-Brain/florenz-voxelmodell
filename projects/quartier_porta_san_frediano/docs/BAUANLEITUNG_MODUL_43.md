@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 525.140 |
+| Blöcke | 525.136 |
 | Bauschritte | 321 |
 | Y-Bereich | 55 bis 105 |
 | X-Ausdehnung | -2801 bis -2467 (335 Blöcke) |
@@ -21,10 +21,10 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 146.377 | 27,9 % |
+| Terrakotta | `terracotta` | 146.379 | 27,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 89.806 | 17,1 % |
 | Tuffstein | `tuff` | 86.383 | 16,4 % |
-| Polierter Tuffstein | `polished_tuff` | 45.608 | 8,7 % |
+| Polierter Tuffstein | `polished_tuff` | 45.609 | 8,7 % |
 | Rosa Keramik | `pink_terracotta` | 23.544 | 4,5 % |
 | Weißer Beton | `white_concrete` | 22.770 | 4,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 21.648 | 4,1 % |
@@ -33,12 +33,12 @@
 | Polierter Andesit | `polished_andesite` | 13.869 | 2,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 11.761 | 2,2 % |
 | Graues Buntglas | `gray_stained_glass` | 8.230 | 1,6 % |
-| Glatter Stein | `smooth_stone` | 5.522 | 1,1 % |
+| Glatter Stein | `smooth_stone` | 5.520 | 1,1 % |
 | Ziegelsteine | `bricks` | 2.664 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.600 | 0,5 % |
 | Grüner Beton | `green_concrete` | 2.235 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.783 | 0,3 % |
-| Seelaterne | `sea_lantern` | 844 | 0,2 % |
+| Seelaterne | `sea_lantern` | 841 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 540 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 502 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 477 | 0,1 % |
@@ -46,7 +46,7 @@
 | Rote Keramik | `red_terracotta` | 234 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 234 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 31 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
@@ -59,7 +59,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 1.960 |
-| Steintreppe | `stone_stairs` | 124 |
+| Steintreppe | `stone_stairs` | 122 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -68,8 +68,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7095205` | Palazzo des Cinquecento an Viale Vasco Pratolini | 234.057 | 43.1–43.136 |
 | 2 | `r7095205_innen` | Palazzo des Cinquecento an Viale Vasco Pratolini: Innenausbau | 42.198 | 43.137–43.159 |
-| 3 | `w306379750` | Ex Chiesa di San Francesco di Sales | 10.630 | 43.159–43.164 |
-| 4 | `w306379750_innen` | Ex Chiesa di San Francesco di Sales: Innenausbau | 2.821 | 43.165–43.166 |
+| 3 | `w306379750` | Ex Chiesa di San Francesco di Sales | 10.631 | 43.159–43.164 |
+| 4 | `w306379750_innen` | Ex Chiesa di San Francesco di Sales: Innenausbau | 2.816 | 43.165–43.166 |
 | 5 | `w481855917` | Reihenhaus an Via di Camaldoli | 4.829 | 43.167–43.169 |
 | 6 | `w481855917_innen` | Reihenhaus an Via di Camaldoli: Innenausbau | 744 | 43.170 |
 | 7 | `w481855932` | Reihenhaus an Via dell'Orto | 4.298 | 43.171–43.173 |
@@ -4779,14 +4779,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 43.159 – Palazzo des Cinquecento an Viale Vasco Pratolini: Innenausbau – Teil 23/23 (Y 84–84) & Ex Chiesa di San Francesco di Sales – Teil 1/6 (Y 55–56)
 
 - **Y-Bereich:** 55 bis 84
-- **Blöcke:** 1.856
+- **Blöcke:** 1.857
 - **Bauteile:** `r7095205_innen`, `w306379750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.579 |
+| Polierter Tuffstein | `polished_tuff` | 1.580 |
 | Hellgrauer Beton | `light_gray_concrete` | 266 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -4803,7 +4803,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Kleine Kirche (1700, Barock (Anton Maria Ferri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Sales_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4815,7 +4815,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 43.160 – Ex Chiesa di San Francesco di Sales – Teil 2/6 (Y 57–63)
 
@@ -4833,7 +4833,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1700, Barock (Anton Maria Ferri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Sales_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4845,24 +4845,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 43.161 – Ex Chiesa di San Francesco di Sales – Teil 3/6 (Y 64–70)
+### Schritt 43.161 – Ex Chiesa di San Francesco di Sales – Teil 3/6 (Y 64–71)
 
-- **Y-Bereich:** 64 bis 70
-- **Blöcke:** 1.569
+- **Y-Bereich:** 64 bis 71
+- **Blöcke:** 1.755
 - **Bauteile:** `w306379750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.555 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.493 |
+| Polierter Andesit | `polished_andesite` | 176 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1700, Barock (Anton Maria Ferri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Sales_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4874,25 +4875,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 43.162 – Ex Chiesa di San Francesco di Sales – Teil 4/6 (Y 71–79)
+### Schritt 43.162 – Ex Chiesa di San Francesco di Sales – Teil 4/6 (Y 72–79)
 
-- **Y-Bereich:** 71 bis 79
-- **Blöcke:** 1.966
+- **Y-Bereich:** 72 bis 79
+- **Blöcke:** 1.743
 - **Bauteile:** `w306379750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.398 |
-| Polierter Andesit | `polished_andesite` | 399 |
-| Graues Buntglas | `gray_stained_glass` | 169 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.352 |
+| Polierter Andesit | `polished_andesite` | 265 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1700, Barock (Anton Maria Ferri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Sales_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4904,26 +4905,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 43.163 – Ex Chiesa di San Francesco di Sales – Teil 5/6 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
-- **Blöcke:** 1.840
+- **Blöcke:** 1.877
 - **Bauteile:** `w306379750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 863 |
+| Hellgrauer Beton | `light_gray_concrete` | 971 |
 | Terrakotta | `terracotta` | 621 |
-| Polierter Andesit | `polished_andesite` | 187 |
-| Graues Buntglas | `gray_stained_glass` | 169 |
+| Polierter Andesit | `polished_andesite` | 159 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1700, Barock (Anton Maria Ferri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Sales_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4935,7 +4936,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 43.164 – Ex Chiesa di San Francesco di Sales – Teil 6/6 (Y 87–95)
 
@@ -4952,7 +4953,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1700, Barock (Anton Maria Ferri)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Sales_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -4964,23 +4965,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 43.165 – Ex Chiesa di San Francesco di Sales: Innenausbau – Teil 1/2 (Y 55–69)
+### Schritt 43.165 – Ex Chiesa di San Francesco di Sales: Innenausbau – Teil 1/2 (Y 55–67)
 
-- **Y-Bereich:** 55 bis 69
-- **Blöcke:** 1.425
+- **Y-Bereich:** 55 bis 67
+- **Blöcke:** 1.416
 - **Bauteile:** `w306379750_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.344 |
-| Glatter Stein | `smooth_stone` | 34 |
-| Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
+| Terrakotta | `terracotta` | 1.345 |
+| Glatter Stein | `smooth_stone` | 30 |
+| Seelaterne | `sea_lantern` | 14 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -4989,7 +4990,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
+| Steintreppe | `stone_stairs` | 24 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -5008,21 +5009,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 43.166 – Ex Chiesa di San Francesco di Sales: Innenausbau – Teil 2/2 (Y 70–78)
+### Schritt 43.166 – Ex Chiesa di San Francesco di Sales: Innenausbau – Teil 2/2 (Y 68–77)
 
-- **Y-Bereich:** 70 bis 78
-- **Blöcke:** 1.396
+- **Y-Bereich:** 68 bis 77
+- **Blöcke:** 1.400
 - **Bauteile:** `w306379750_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.344 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Terrakotta | `terracotta` | 1.345 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
@@ -5031,7 +5032,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 18 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**

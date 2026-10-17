@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 112.488 |
+| Blöcke | 112.492 |
 | Bauschritte | 75 |
 | Y-Bereich | 57 bis 95 |
 | X-Ausdehnung | -1840 bis -1711 (130 Blöcke) |
@@ -26,16 +26,16 @@
 | Hellgrauer Beton | `light_gray_concrete` | 14.265 | 12,7 % |
 | Orange Keramik | `orange_terracotta` | 10.485 | 9,3 % |
 | Polierter Tuffstein | `polished_tuff` | 10.184 | 9,1 % |
-| Glatter Sandstein | `smooth_sandstone` | 8.671 | 7,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 8.676 | 7,7 % |
 | Rosa Keramik | `pink_terracotta` | 4.654 | 4,1 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.485 | 3,1 % |
 | Graues Buntglas | `gray_stained_glass` | 2.460 | 2,2 % |
 | Endsteinziegel | `end_stone_bricks` | 1.899 | 1,7 % |
-| Glatter Stein | `smooth_stone` | 1.823 | 1,6 % |
+| Glatter Stein | `smooth_stone` | 1.825 | 1,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.011 | 0,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 974 | 0,9 % |
 | Grüner Beton | `green_concrete` | 797 | 0,7 % |
-| Polierter Andesit | `polished_andesite` | 723 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 718 | 0,6 % |
 | Ziegelsteine | `bricks` | 489 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 269 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 251 | 0,2 % |
@@ -44,8 +44,8 @@
 | Weiße Keramik | `white_terracotta` | 119 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 103 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 95 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 21 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
@@ -57,14 +57,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 718 |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w306378566` | Palazzo Tempi-Mazzei | 15.541 | 7.1–7.11 |
-| 2 | `w306378566_innen` | Palazzo Tempi-Mazzei: Innenausbau | 2.395 | 7.12–7.13 |
+| 2 | `w306378566_innen` | Palazzo Tempi-Mazzei: Innenausbau | 2.399 | 7.12–7.13 |
 | 3 | `w478557076` | Reihenhaus an Via dei Serragli | 6.467 | 7.14–7.17 |
 | 4 | `w478557076_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 2.332 | 7.18–7.19 |
 | 5 | `w478557077` | Reihenhaus an Via dei Serragli | 5.023 | 7.20–7.22 |
@@ -117,7 +117,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -129,7 +129,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.2 – Palazzo Tempi-Mazzei – Teil 2/11 (Y 58–60)
 
@@ -148,7 +148,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -160,7 +160,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.3 – Palazzo Tempi-Mazzei – Teil 3/11 (Y 61–64)
 
@@ -181,7 +181,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -193,7 +193,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.4 – Palazzo Tempi-Mazzei – Teil 4/11 (Y 65–68)
 
@@ -213,7 +213,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -225,7 +225,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.5 – Palazzo Tempi-Mazzei – Teil 5/11 (Y 69–72)
 
@@ -245,7 +245,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -257,27 +257,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.6 – Palazzo Tempi-Mazzei – Teil 6/11 (Y 73–75)
 
 - **Y-Bereich:** 73 bis 75
-- **Blöcke:** 1.136
+- **Blöcke:** 1.110
 - **Bauteile:** `w306378566`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 822 |
-| Weißer Beton | `white_concrete` | 155 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
-| Grüner Beton | `green_concrete` | 66 |
+| Glatter Sandstein | `smooth_sandstone` | 763 |
+| Graues Buntglas | `gray_stained_glass` | 123 |
+| Weißer Beton | `white_concrete` | 114 |
+| Grüner Beton | `green_concrete` | 99 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -289,7 +289,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.7 – Palazzo Tempi-Mazzei – Teil 7/11 (Y 76–79)
 
@@ -301,14 +301,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.191 |
+| Glatter Sandstein | `smooth_sandstone` | 1.196 |
 | Weißer Beton | `white_concrete` | 195 |
 | Glatter Stein | `smooth_stone` | 182 |
-| Polierter Andesit | `polished_andesite` | 16 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -320,27 +320,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.8 – Palazzo Tempi-Mazzei – Teil 8/11 (Y 80–83)
 
 - **Y-Bereich:** 80 bis 83
-- **Blöcke:** 1.480
+- **Blöcke:** 1.506
 - **Bauteile:** `w306378566`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.014 |
-| Graues Buntglas | `gray_stained_glass` | 164 |
-| Weißer Beton | `white_concrete` | 152 |
-| Grüner Beton | `green_concrete` | 132 |
+| Glatter Sandstein | `smooth_sandstone` | 1.073 |
+| Weißer Beton | `white_concrete` | 193 |
+| Graues Buntglas | `gray_stained_glass` | 123 |
+| Grüner Beton | `green_concrete` | 99 |
 | Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -352,7 +352,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.9 – Palazzo Tempi-Mazzei – Teil 9/11 (Y 84–86)
 
@@ -373,7 +373,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -385,7 +385,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.10 – Palazzo Tempi-Mazzei – Teil 10/11 (Y 87–88)
 
@@ -404,7 +404,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -416,7 +416,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.11 – Palazzo Tempi-Mazzei – Teil 11/11 (Y 89–92)
 
@@ -433,7 +433,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade mit Merkmalen des 16. und 18. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -445,7 +445,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.12 – Palazzo Tempi-Mazzei: Innenausbau – Teil 1/2 (Y 57–67)
 
@@ -489,10 +489,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.13 – Palazzo Tempi-Mazzei: Innenausbau – Teil 2/2 (Y 68–78)
+### Schritt 7.13 – Palazzo Tempi-Mazzei: Innenausbau – Teil 2/2 (Y 68–79)
 
-- **Y-Bereich:** 68 bis 78
-- **Blöcke:** 1.195
+- **Y-Bereich:** 68 bis 79
+- **Blöcke:** 1.199
 - **Bauteile:** `w306378566_innen`
 
 **Teileliste**
@@ -500,8 +500,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.135 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -511,7 +511,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
 
 **Beschreibung**
 

@@ -4,7 +4,7 @@
 
 *Projekt `quartier_porta_san_frediano`, Art: quartier*
 
-**Statistik (generiert):** 2.341.552 Blöcke in 1.480 Bauschritten, 52 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.341.699 Blöcke in 1.480 Bauschritten, 52 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -3143 bis -2392, Y 52 bis 105, Z 189 bis 1417.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -50,9 +50,9 @@ Ausdehnung des Modells: X -3143 bis -2392, Y 52 bis 105, Z 189 bis 1417.
 | 38 | Isolato I0101 – Lungarno Santa Rosa | 73.879 | 46 | [BAUANLEITUNG_MODUL_38.md](BAUANLEITUNG_MODUL_38.md) |
 | 39 | Isolato I0109 | 21.062 | 12 | [BAUANLEITUNG_MODUL_39.md](BAUANLEITUNG_MODUL_39.md) |
 | 40 | Isolato I0114 – Viale Vasco Pratolini | 7.090 | 5 | [BAUANLEITUNG_MODUL_40.md](BAUANLEITUNG_MODUL_40.md) |
-| 41 | Isolato I0117 – Viale Ludovico Ariosto | 19.684 | 11 | [BAUANLEITUNG_MODUL_41.md](BAUANLEITUNG_MODUL_41.md) |
+| 41 | Isolato I0117 – Viale Ludovico Ariosto | 19.835 | 11 | [BAUANLEITUNG_MODUL_41.md](BAUANLEITUNG_MODUL_41.md) |
 | 42 | Isolato I0119 | 3.157 | 2 | [BAUANLEITUNG_MODUL_42.md](BAUANLEITUNG_MODUL_42.md) |
-| 43 | Isolato I0120 – Via dell'Orto | 525.140 | 321 | [BAUANLEITUNG_MODUL_43.md](BAUANLEITUNG_MODUL_43.md) |
+| 43 | Isolato I0120 – Via dell'Orto | 525.136 | 321 | [BAUANLEITUNG_MODUL_43.md](BAUANLEITUNG_MODUL_43.md) |
 | 44 | Isolato I0121 – Lungarno Santa Rosa | 12.644 | 7 | [BAUANLEITUNG_MODUL_44.md](BAUANLEITUNG_MODUL_44.md) |
 | 45 | Isolato I0135 – Via lungo le Mura di Santa Rosa | 4.447 | 3 | [BAUANLEITUNG_MODUL_45.md](BAUANLEITUNG_MODUL_45.md) |
 | 46 | Isolato I0144 – Lungarno Santa Rosa | 6.132 | 4 | [BAUANLEITUNG_MODUL_46.md](BAUANLEITUNG_MODUL_46.md) |
@@ -61,41 +61,41 @@ Ausdehnung des Modells: X -3143 bis -2392, Y 52 bis 105, Z 189 bis 1417.
 | 49 | Isolato I0157 | 17.212 | 9 | [BAUANLEITUNG_MODUL_49.md](BAUANLEITUNG_MODUL_49.md) |
 | 50 | Isolato I0159 – Via Lorenzo Bartolini | 117.349 | 75 | [BAUANLEITUNG_MODUL_50.md](BAUANLEITUNG_MODUL_50.md) |
 | 51 | Isolato I0160 – Lungarno Soderini | 48.934 | 32 | [BAUANLEITUNG_MODUL_51.md](BAUANLEITUNG_MODUL_51.md) |
-| | **Summe** | **2.341.552** | **1.480** | |
+| | **Summe** | **2.341.699** | **1.480** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 674.479 | 28,8 % |
-| Weißer Beton | `white_concrete` | 237.504 | 10,1 % |
-| Polierter Tuffstein | `polished_tuff` | 225.317 | 9,6 % |
+| Terrakotta | `terracotta` | 674.481 | 28,8 % |
+| Weißer Beton | `white_concrete` | 237.241 | 10,1 % |
+| Polierter Tuffstein | `polished_tuff` | 225.318 | 9,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 212.322 | 9,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 179.716 | 7,7 % |
-| Tuffstein | `tuff` | 126.365 | 5,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 172.170 | 7,4 % |
+| Tuffstein | `tuff` | 134.185 | 5,7 % |
 | Rosa Keramik | `pink_terracotta` | 115.147 | 4,9 % |
 | Endsteinziegel | `end_stone_bricks` | 106.900 | 4,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 96.485 | 4,1 % |
 | Orange Keramik | `orange_terracotta` | 92.037 | 3,9 % |
-| Graues Buntglas | `gray_stained_glass` | 72.718 | 3,1 % |
-| Glatter Stein | `smooth_stone` | 66.601 | 2,8 % |
-| Polierter Andesit | `polished_andesite` | 53.119 | 2,3 % |
-| Grüner Beton | `green_concrete` | 30.398 | 1,3 % |
+| Graues Buntglas | `gray_stained_glass` | 72.507 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 66.538 | 2,8 % |
+| Polierter Andesit | `polished_andesite` | 53.132 | 2,3 % |
+| Grüner Beton | `green_concrete` | 30.080 | 1,3 % |
 | Ziegelsteine | `bricks` | 15.079 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 9.942 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 9.939 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 9.384 | 0,4 % |
-| Seelaterne | `sea_lantern` | 3.841 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 2.843 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2.004 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.924 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1.854 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.788 | 0,1 % |
+| Seelaterne | `sea_lantern` | 3.838 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 3.563 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2.003 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.925 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1.853 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.789 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 1.000 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 1.000 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 520 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 480 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 394 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 370 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 368 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
@@ -109,5 +109,5 @@ Ausdehnung des Modells: X -3143 bis -2392, Y 52 bis 105, Z 189 bis 1417.
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 7.570 |
-| Steintreppe | `stone_stairs` | 1.764 |
+| Steintreppe | `stone_stairs` | 1.762 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 9 |

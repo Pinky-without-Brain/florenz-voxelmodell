@@ -1,7 +1,7 @@
 {
   "id": "w306378566",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Fassade mit Merkmalen des 16. und 18. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -9,16 +9,16 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 7,
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
@@ -35,15 +35,19 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_mazzei_ueber_portal",
+      "wappen_pandolfini_ecke",
+      "tabernakel_canto_alla_cuculia_bicci_di_lorenzo"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi-Mazzei",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Hauptfront an der Via Santa Monica mit Merkmalen des 16. und 18. Jh. und sieben Achsen, Mazzei-Wappen über dem Portal, Pandolfini-Wappen an der Ecke zur Via d'Ardiglione, Tabernakel von Bicci di Lorenzo nahe der Ecke Via de' Serragli. Annahme: Geschosse, Material, Fenster, Gesims, Dach.",
   "name": "Palazzo Tempi-Mazzei"
 }

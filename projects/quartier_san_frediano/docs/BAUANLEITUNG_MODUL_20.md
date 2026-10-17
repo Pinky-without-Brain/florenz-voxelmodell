@@ -8,48 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 427.016 |
+| Blöcke | 427.221 |
 | Bauschritte | 274 |
 | Y-Bereich | 55 bis 101 |
 | X-Ausdehnung | -2266 bis -1917 (350 Blöcke) |
 | Z-Ausdehnung | 778 bis 1079 (302 Blöcke) |
 | Kleinster Schritt | 439 Blöcke (Schritt 20.236) |
-| Mittlerer Schritt | 1.558 Blöcke |
+| Mittlerer Schritt | 1.559 Blöcke |
 | Größter Schritt | 2.094 Blöcke (Schritt 20.138) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 123.889 | 29,0 % |
-| Endsteinziegel | `end_stone_bricks` | 47.066 | 11,0 % |
+| Terrakotta | `terracotta` | 123.891 | 29,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 46.400 | 10,9 % |
-| Weißer Beton | `white_concrete` | 38.957 | 9,1 % |
-| Polierter Tuffstein | `polished_tuff` | 38.027 | 8,9 % |
+| Weißer Beton | `white_concrete` | 38.737 | 9,1 % |
+| Polierter Tuffstein | `polished_tuff` | 38.028 | 8,9 % |
+| Endsteinziegel | `end_stone_bricks` | 33.752 | 7,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 28.550 | 6,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 25.297 | 5,9 % |
 | Rosa Keramik | `pink_terracotta` | 24.216 | 5,7 % |
 | Orange Keramik | `orange_terracotta` | 15.646 | 3,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 11.850 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 11.320 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 10.293 | 2,4 % |
+| Graues Buntglas | `gray_stained_glass` | 11.245 | 2,6 % |
+| Glatter Stein | `smooth_stone` | 10.609 | 2,5 % |
+| Polierter Andesit | `polished_andesite` | 7.388 | 1,7 % |
 | Tuffstein | `tuff` | 7.345 | 1,7 % |
-| Polierter Andesit | `polished_andesite` | 7.334 | 1,7 % |
-| Grüner Beton | `green_concrete` | 3.392 | 0,8 % |
+| Grüner Beton | `green_concrete` | 3.388 | 0,8 % |
 | Fichtenholz-Bretter | `spruce_planks` | 3.243 | 0,8 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.716 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.717 | 0,6 % |
 | Ziegelsteine | `bricks` | 2.028 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.058 | 0,2 % |
-| Seelaterne | `sea_lantern` | 768 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 670 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 624 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.054 | 0,2 % |
+| Seelaterne | `sea_lantern` | 765 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 671 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 625 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 403 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 377 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 338 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 338 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 62 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 84 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 78 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
@@ -59,15 +57,15 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2.074 |
-| Steintreppe | `stone_stairs` | 160 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2.076 |
+| Steintreppe | `stone_stairs` | 162 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4088630` | Palazzo Rospigliosi Pallavicini | 28.131 | 20.1–20.16 |
-| 2 | `r4088630_innen` | Palazzo Rospigliosi Pallavicini: Innenausbau | 6.663 | 20.17–20.20 |
+| 1 | `r4088630` | Palazzo Rospigliosi Pallavicini | 28.330 | 20.1–20.16 |
+| 2 | `r4088630_innen` | Palazzo Rospigliosi Pallavicini: Innenausbau | 6.669 | 20.17–20.20 |
 | 3 | `r7130752` | Reihenhaus an Piazza del Carmine | 13.252 | 20.21–20.27 |
 | 4 | `r7130752_innen` | Reihenhaus an Piazza del Carmine: Innenausbau | 3.833 | 20.28–20.30 |
 | 5 | `r7130753` | Reihenhaus an Piazza del Carmine | 13.289 | 20.31–20.38 |
@@ -182,7 +180,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -194,23 +192,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.2 – Palazzo Rospigliosi Pallavicini – Teil 2/16 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.924
+- **Blöcke:** 1.925
 - **Bauteile:** `r4088630`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.924 |
+| Polierter Tuffstein | `polished_tuff` | 1.925 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -222,27 +220,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.3 – Palazzo Rospigliosi Pallavicini – Teil 3/16 (Y 58–59)
 
 - **Y-Bereich:** 58 bis 59
-- **Blöcke:** 1.287
+- **Blöcke:** 1.240
 - **Bauteile:** `r4088630`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.148 |
-| Weißer Beton | `white_concrete` | 112 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Gelbe Keramik | `yellow_terracotta` | 1.215 |
+| Polierter Andesit | `polished_andesite` | 17 |
 | Glatter Stein | `smooth_stone` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -254,29 +251,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.4 – Palazzo Rospigliosi Pallavicini – Teil 4/16 (Y 60–62)
 
 - **Y-Bereich:** 60 bis 62
-- **Blöcke:** 1.836
+- **Blöcke:** 1.762
 - **Bauteile:** `r4088630`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.215 |
-| Weißer Beton | `white_concrete` | 344 |
-| Graues Buntglas | `gray_stained_glass` | 138 |
-| Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 32 |
+| Gelbe Keramik | `yellow_terracotta` | 1.244 |
+| Weißer Beton | `white_concrete` | 250 |
+| Graues Buntglas | `gray_stained_glass` | 134 |
+| Grüner Beton | `green_concrete` | 92 |
+| Polierter Andesit | `polished_andesite` | 29 |
 | Glatter Stein | `smooth_stone` | 9 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -288,29 +285,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.5 – Palazzo Rospigliosi Pallavicini – Teil 5/16 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.769
+- **Blöcke:** 1.774
 - **Bauteile:** `r4088630`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.231 |
-| Weißer Beton | `white_concrete` | 264 |
-| Graues Buntglas | `gray_stained_glass` | 138 |
-| Grüner Beton | `green_concrete` | 94 |
-| Polierter Andesit | `polished_andesite` | 24 |
+| Gelbe Keramik | `yellow_terracotta` | 1.259 |
+| Weißer Beton | `white_concrete` | 250 |
+| Grüner Beton | `green_concrete` | 92 |
+| Polierter Andesit | `polished_andesite` | 90 |
+| Graues Buntglas | `gray_stained_glass` | 67 |
 | Glatter Stein | `smooth_stone` | 13 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -322,26 +319,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.6 – Palazzo Rospigliosi Pallavicini – Teil 6/16 (Y 66–68)
 
 - **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.887
+- **Blöcke:** 2.044
 - **Bauteile:** `r4088630`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.566 |
-| Glatter Stein | `smooth_stone` | 288 |
-| Polierter Andesit | `polished_andesite` | 28 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Gelbe Keramik | `yellow_terracotta` | 1.566 |
+| Glatter Stein | `smooth_stone` | 445 |
+| Polierter Andesit | `polished_andesite` | 29 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -353,7 +350,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.7 – Palazzo Rospigliosi Pallavicini – Teil 7/16 (Y 69–71)
 
@@ -365,7 +362,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.246 |
+| Gelbe Keramik | `yellow_terracotta` | 1.246 |
 | Weißer Beton | `white_concrete` | 273 |
 | Graues Buntglas | `gray_stained_glass` | 144 |
 | Grüner Beton | `green_concrete` | 100 |
@@ -373,7 +370,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -385,7 +382,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.8 – Palazzo Rospigliosi Pallavicini – Teil 8/16 (Y 72–74)
 
@@ -397,7 +394,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.134 |
+| Gelbe Keramik | `yellow_terracotta` | 1.134 |
 | Graues Buntglas | `gray_stained_glass` | 216 |
 | Weißer Beton | `white_concrete` | 201 |
 | Grüner Beton | `green_concrete` | 150 |
@@ -405,7 +402,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -417,26 +414,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.9 – Palazzo Rospigliosi Pallavicini – Teil 9/16 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.887
+- **Blöcke:** 1.834
 - **Bauteile:** `r4088630`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.246 |
-| Weißer Beton | `white_concrete` | 338 |
-| Glatter Stein | `smooth_stone` | 288 |
-| Polierter Andesit | `polished_andesite` | 15 |
+| Gelbe Keramik | `yellow_terracotta` | 1.289 |
+| Weißer Beton | `white_concrete` | 405 |
+| Graues Buntglas | `gray_stained_glass` | 72 |
+| Grüner Beton | `green_concrete` | 50 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -448,25 +446,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.10 – Palazzo Rospigliosi Pallavicini – Teil 10/16 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
-- **Blöcke:** 1.258
+- **Blöcke:** 1.415
 - **Bauteile:** `r4088630`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.104 |
-| Weißer Beton | `white_concrete` | 139 |
-| Polierter Andesit | `polished_andesite` | 15 |
+| Gelbe Keramik | `yellow_terracotta` | 967 |
+| Glatter Stein | `smooth_stone` | 445 |
+| Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -478,27 +476,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.11 – Palazzo Rospigliosi Pallavicini – Teil 11/16 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
-- **Blöcke:** 1.728
+- **Blöcke:** 1.781
 - **Bauteile:** `r4088630`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.134 |
-| Graues Buntglas | `gray_stained_glass` | 216 |
-| Weißer Beton | `white_concrete` | 201 |
-| Grüner Beton | `green_concrete` | 150 |
+| Gelbe Keramik | `yellow_terracotta` | 1.237 |
+| Weißer Beton | `white_concrete` | 273 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+| Grüner Beton | `green_concrete` | 100 |
 | Polierter Andesit | `polished_andesite` | 27 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -510,7 +508,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.12 – Palazzo Rospigliosi Pallavicini – Teil 12/16 (Y 83–85)
 
@@ -522,7 +520,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.246 |
+| Gelbe Keramik | `yellow_terracotta` | 1.246 |
 | Weißer Beton | `white_concrete` | 273 |
 | Graues Buntglas | `gray_stained_glass` | 144 |
 | Grüner Beton | `green_concrete` | 100 |
@@ -530,7 +528,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -542,7 +540,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.13 – Palazzo Rospigliosi Pallavicini – Teil 13/16 (Y 86–87)
 
@@ -554,14 +552,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.044 |
+| Gelbe Keramik | `yellow_terracotta` | 1.044 |
 | Glatter Stein | `smooth_stone` | 539 |
 | Weißer Beton | `white_concrete` | 199 |
 | Polierter Andesit | `polished_andesite` | 15 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -573,7 +571,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.14 – Palazzo Rospigliosi Pallavicini – Teil 14/16 (Y 88–88)
 
@@ -589,7 +587,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -601,7 +599,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.15 – Palazzo Rospigliosi Pallavicini – Teil 15/16 (Y 89–90)
 
@@ -617,7 +615,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -629,7 +627,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.16 – Palazzo Rospigliosi Pallavicini – Teil 16/16 (Y 91–97)
 
@@ -646,7 +644,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (um 1472 (Niccolò di Zanobi Borgherini); Platzfront im 16. Jh. ähnlich der heutigen), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rospigliosi_Pallavicini, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -658,12 +656,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 20.17 – Palazzo Rospigliosi Pallavicini: Innenausbau – Teil 1/4 (Y 57–67)
 
 - **Y-Bereich:** 57 bis 67
-- **Blöcke:** 1.706
+- **Blöcke:** 1.705
 - **Bauteile:** `r4088630_innen`
 
 **Teileliste**
@@ -671,10 +669,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.630 |
-| Seelaterne | `sea_lantern` | 27 |
+| Seelaterne | `sea_lantern` | 26 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -712,8 +710,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.618 |
-| Seelaterne | `sea_lantern` | 11 |
+| Terrakotta | `terracotta` | 1.619 |
+| Seelaterne | `sea_lantern` | 10 |
 
 **Beschreibung**
 
@@ -731,10 +729,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.19 – Palazzo Rospigliosi Pallavicini: Innenausbau – Teil 3/4 (Y 68–77)
+### Schritt 20.19 – Palazzo Rospigliosi Pallavicini: Innenausbau – Teil 3/4 (Y 68–78)
 
-- **Y-Bereich:** 68 bis 77
-- **Blöcke:** 1.690
+- **Y-Bereich:** 68 bis 78
+- **Blöcke:** 1.697
 - **Bauteile:** `r4088630_innen`
 
 **Teileliste**
@@ -742,18 +740,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.630 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -771,9 +773,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.20 – Palazzo Rospigliosi Pallavicini: Innenausbau – Teil 4/4 (Y 77–78)
+### Schritt 20.20 – Palazzo Rospigliosi Pallavicini: Innenausbau – Teil 4/4 (Y 78–79)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.638
 - **Bauteile:** `r4088630_innen`
 
@@ -781,8 +783,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.618 |
-| Seelaterne | `sea_lantern` | 11 |
+| Terrakotta | `terracotta` | 1.619 |
+| Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |

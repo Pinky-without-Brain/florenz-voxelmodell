@@ -8,47 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 155.526 |
+| Blöcke | 156.008 |
 | Bauschritte | 98 |
 | Y-Bereich | 56 bis 106 |
 | X-Ausdehnung | 651 bis 821 (171 Blöcke) |
 | Z-Ausdehnung | 636 bis 852 (217 Blöcke) |
-| Kleinster Schritt | 536 Blöcke (Schritt 0.17) |
-| Mittlerer Schritt | 1.587 Blöcke |
+| Kleinster Schritt | 591 Blöcke (Schritt 0.32) |
+| Mittlerer Schritt | 1.592 Blöcke |
 | Größter Schritt | 2.072 Blöcke (Schritt 0.77) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 47.471 | 30,5 % |
-| Endsteinziegel | `end_stone_bricks` | 31.232 | 20,1 % |
+| Terrakotta | `terracotta` | 47.947 | 30,7 % |
+| Endsteinziegel | `end_stone_bricks` | 31.158 | 20,0 % |
 | Polierter Tuffstein | `polished_tuff` | 13.707 | 8,8 % |
-| Weißer Beton | `white_concrete` | 12.526 | 8,1 % |
-| Tuffstein | `tuff` | 11.189 | 7,2 % |
+| Weißer Beton | `white_concrete` | 12.526 | 8,0 % |
+| Tuffstein | `tuff` | 8.908 | 5,7 % |
 | Orange Keramik | `orange_terracotta` | 7.179 | 4,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 5.876 | 3,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.194 | 3,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 5.001 | 3,2 % |
-| Glatter Stein | `smooth_stone` | 4.285 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 3.533 | 2,3 % |
-| Polierter Andesit | `polished_andesite` | 3.092 | 2,0 % |
+| Glatter Stein | `smooth_stone` | 4.398 | 2,8 % |
+| Graues Buntglas | `gray_stained_glass` | 3.538 | 2,3 % |
+| Rosa Keramik | `pink_terracotta` | 2.964 | 1,9 % |
+| Polierter Andesit | `polished_andesite` | 2.526 | 1,6 % |
 | Grüner Beton | `green_concrete` | 1.680 | 1,1 % |
 | Ziegelsteine | `bricks` | 874 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 723 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 510 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 361 | 0,2 % |
-| Seelaterne | `sea_lantern` | 283 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 339 | 0,2 % |
+| Seelaterne | `sea_lantern` | 287 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 160 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 150 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 116 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 112 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 54 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 54 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 55 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 55 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 50 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 46 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 34 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 38 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 34 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
@@ -57,7 +58,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 538 |
-| Steintreppe | `stone_stairs` | 158 |
+| Steintreppe | `stone_stairs` | 168 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -67,8 +68,8 @@
 | 2 | `r7127839_innen` | Reihenhaus an Via Giuseppe Verdi: Innenausbau | 2.286 | 0.7–0.8 |
 | 3 | `w307104280` | Palazzo di Maffeo Barberini | 7.402 | 0.9–0.12 |
 | 4 | `w307104280_innen` | Palazzo di Maffeo Barberini: Innenausbau | 1.073 | 0.13 |
-| 5 | `w307104292` | Casa del Diluvio | 5.522 | 0.14–0.16 |
-| 6 | `w307104292_innen` | Casa del Diluvio: Innenausbau | 536 | 0.17 |
+| 5 | `w307104292` | Casa del Diluvio | 5.496 | 0.14–0.16 |
+| 6 | `w307104292_innen` | Casa del Diluvio: Innenausbau | 1.044 | 0.17 |
 | 7 | `w484324884` | Reihenhaus an Piazza di Santa Croce | 6.421 | 0.18–0.21 |
 | 8 | `w484324884_innen` | Reihenhaus an Piazza di Santa Croce: Innenausbau | 1.299 | 0.22 |
 | 9 | `w484324885` | Reihenhaus an Via Giuseppe Verdi | 8.109 | 0.23–0.27 |
@@ -535,23 +536,23 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.14 – Casa del Diluvio – Teil 1/3 (Y 62–69)
 
 - **Y-Bereich:** 62 bis 69
-- **Blöcke:** 1.809
+- **Blöcke:** 1.824
 - **Bauteile:** `w307104292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 678 |
+| Rosa Keramik | `pink_terracotta` | 910 |
 | Polierter Tuffstein | `polished_tuff` | 659 |
-| Glatter Stein | `smooth_stone` | 160 |
-| Polierter Andesit | `polished_andesite` | 119 |
-| Tuffsteinziegel | `tuff_bricks` | 117 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
+| Glatter Stein | `smooth_stone` | 164 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
+| Polierter Andesit | `polished_andesite` | 24 |
+| Tuffsteinziegel | `tuff_bricks` | 10 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fronten frühes 19. Jh. (1832-49) mit Aufstockung; Portal 15./16. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_Diluvio, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -563,27 +564,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.15 – Casa del Diluvio – Teil 2/3 (Y 70–80)
 
 - **Y-Bereich:** 70 bis 80
-- **Blöcke:** 1.898
+- **Blöcke:** 1.874
 - **Bauteile:** `w307104292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.098 |
-| Glatter Stein | `smooth_stone` | 330 |
-| Polierter Andesit | `polished_andesite` | 303 |
-| Graues Buntglas | `gray_stained_glass` | 103 |
-| Tuffsteinziegel | `tuff_bricks` | 64 |
+| Rosa Keramik | `pink_terracotta` | 1.338 |
+| Glatter Stein | `smooth_stone` | 412 |
+| Graues Buntglas | `gray_stained_glass` | 105 |
+| Polierter Andesit | `polished_andesite` | 19 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fronten frühes 19. Jh. (1832-49) mit Aufstockung; Portal 15./16. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_Diluvio, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -595,12 +595,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.16 – Casa del Diluvio – Teil 3/3 (Y 81–92)
 
 - **Y-Bereich:** 81 bis 92
-- **Blöcke:** 1.815
+- **Blöcke:** 1.798
 - **Bauteile:** `w307104292`
 
 **Teileliste**
@@ -608,16 +608,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 848 |
-| Tuffstein | `tuff` | 505 |
-| Polierter Andesit | `polished_andesite` | 198 |
-| Glatter Stein | `smooth_stone` | 103 |
-| Endsteinziegel | `end_stone_bricks` | 74 |
+| Rosa Keramik | `pink_terracotta` | 716 |
+| Glatter Stein | `smooth_stone` | 114 |
+| Graues Buntglas | `gray_stained_glass` | 61 |
 | Ziegelsteine | `bricks` | 48 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fronten frühes 19. Jh. (1832-49) mit Aufstockung; Portal 15./16. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_del_Diluvio, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -629,31 +628,31 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.17 – Casa del Diluvio: Innenausbau
 
-- **Y-Bereich:** 62 bis 74
-- **Blöcke:** 536
+- **Y-Bereich:** 62 bis 79
+- **Blöcke:** 1.044
 - **Bauteile:** `w307104292_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 476 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Terrakotta | `terracotta` | 952 |
+| Glatter Stein | `smooth_stone` | 44 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 16 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 32 |
 
 **Beschreibung**
 

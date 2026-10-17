@@ -1,29 +1,25 @@
 {
   "id": "w480911004",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "zweckbau",
+  "epoche": "gegründet 1372, vollendet 1378 (Agnolo Gaddi vermutet)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
-    },
-    {
-      "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 16
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 14
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 9,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
+      "portalBreiteBl": 6,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
@@ -35,15 +31,21 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "bugnato_strassenportal",
+      "wappen_parte_guelfa",
+      "wappen_alberti_di_catenaia",
+      "hundert_wohneinheiten",
+      "dreilappige_monofore_kirche"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Ospizio_di_Orbatello",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Hospiz 1372-78 (Agnolo Gaddi vermutet), zwei Geschosse um drei Gänge mit 100 Wohneinheiten, Straßenportal in Bugnato mit Parte-Guelfa-Wappen, Kirche mit Ziegelgiebel. Annahme: Putz und Farbe, Achsen, Fenstertyp, Dach.",
   "name": "Ex ospizio di Orbatello"
 }

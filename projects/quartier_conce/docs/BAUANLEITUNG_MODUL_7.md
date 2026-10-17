@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 121.998 |
+| Blöcke | 122.009 |
 | Bauschritte | 74 |
 | Y-Bereich | 61 bis 100 |
 | X-Ausdehnung | 1252 bis 1391 (140 Blöcke) |
 | Z-Ausdehnung | 923 bis 1109 (187 Blöcke) |
-| Kleinster Schritt | 414 Blöcke (Schritt 7.3) |
+| Kleinster Schritt | 410 Blöcke (Schritt 7.3) |
 | Mittlerer Schritt | 1.649 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 7.35) |
 
@@ -21,34 +21,35 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 41.205 | 33,8 % |
+| Terrakotta | `terracotta` | 41.216 | 33,8 % |
 | Weißer Beton | `white_concrete` | 13.160 | 10,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 12.950 | 10,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 12.948 | 10,6 % |
 | Polierter Tuffstein | `polished_tuff` | 12.076 | 9,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 11.617 | 9,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 10.358 | 8,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.137 | 7,5 % |
 | Orange Keramik | `orange_terracotta` | 4.931 | 4,0 % |
-| Glatter Stein | `smooth_stone` | 3.174 | 2,6 % |
-| Graues Buntglas | `gray_stained_glass` | 2.833 | 2,3 % |
+| Glatter Stein | `smooth_stone` | 3.172 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 2.831 | 2,3 % |
 | Rosa Keramik | `pink_terracotta` | 2.716 | 2,2 % |
+| Tuffstein | `tuff` | 2.412 | 2,0 % |
 | Endsteinziegel | `end_stone_bricks` | 2.274 | 1,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 946 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 970 | 0,8 % |
 | Grüner Beton | `green_concrete` | 885 | 0,7 % |
 | Ziegelsteine | `bricks` | 696 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 659 | 0,5 % |
-| Polierter Andesit | `polished_andesite` | 425 | 0,3 % |
+| Polierter Andesit | `polished_andesite` | 433 | 0,4 % |
 | Seelaterne | `sea_lantern` | 262 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 194 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 186 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 61 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 85 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 61 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 60 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 60 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 57 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 41 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
@@ -59,14 +60,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 498 |
-| Steintreppe | `stone_stairs` | 164 |
+| Steintreppe | `stone_stairs` | 162 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307539768` | Chiesa di Santa Maria Vergine della Croce al Tempio | 3.156 | 7.1–7.2 |
-| 2 | `w307539768_innen` | Chiesa di Santa Maria Vergine della Croce al Tempio: Innenausbau | 414 | 7.3 |
+| 1 | `w307539768` | Chiesa di Santa Maria Vergine della Croce al Tempio | 3.177 | 7.1–7.2 |
+| 2 | `w307539768_innen` | Chiesa di Santa Maria Vergine della Croce al Tempio: Innenausbau | 410 | 7.3 |
 | 3 | `w476740624` | Reihenhaus an Via delle Conce | 9.922 | 7.4–7.9 |
 | 4 | `w476740624_innen` | Reihenhaus an Via delle Conce: Innenausbau | 2.714 | 7.10–7.11 |
 | 5 | `w476740625` | Palazzo des Cinquecento an Via delle Conce | 11.296 | 7.12–7.17 |
@@ -85,13 +86,13 @@
 | 18 | `w476740656_innen` | Reihenhaus an Via dei Macci: Innenausbau | 934 | 7.45 |
 | 19 | `w476740669` | Reihenhaus an Via dei Macci | 3.443 | 7.46–7.47 |
 | 20 | `w476740669_innen` | Reihenhaus an Via dei Macci: Innenausbau | 1.938 | 7.48 |
-| 21 | `w476740679` | Reihenhaus an Via di San Giuseppe | 9.199 | 7.49–7.53 |
+| 21 | `w476740679` | Reihenhaus an Via di San Giuseppe | 9.195 | 7.49–7.53 |
 | 22 | `w476740679_innen` | Reihenhaus an Via di San Giuseppe: Innenausbau | 2.808 | 7.54–7.55 |
 | 23 | `w476740689` | Palazzo des Cinquecento an Via dei Conciatori | 8.054 | 7.56–7.60 |
 | 24 | `w476740689_innen` | Palazzo des Cinquecento an Via dei Conciatori: Innenausbau | 1.893 | 7.61 |
 | 25 | `w476740691` | Reihenhaus an Via dei Macci | 3.814 | 7.62–7.63 |
 | 26 | `w476740691_innen` | Reihenhaus an Via dei Macci: Innenausbau | 2.605 | 7.64–7.65 |
-| 27 | `w476740693` | Palazzo des Cinquecento an Via delle Conce | 11.904 | 7.66–7.72 |
+| 27 | `w476740693` | Palazzo des Cinquecento an Via delle Conce | 11.902 | 7.66–7.72 |
 | 28 | `w476740693_innen` | Palazzo des Cinquecento an Via delle Conce: Innenausbau | 3.430 | 7.73–7.74 |
 | 29 | `strassenschilder` | Straßenschilder | 8 | 7.74 |
 
@@ -100,21 +101,22 @@
 ### Schritt 7.1 – Chiesa di Santa Maria Vergine della Croce al Tempio – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
-- **Blöcke:** 1.612
+- **Blöcke:** 1.608
 - **Bauteile:** `w307539768`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.301 |
+| Tuffstein | `tuff` | 1.253 |
 | Polierter Tuffstein | `polished_tuff` | 251 |
-| Polierter Andesit | `polished_andesite` | 52 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
+| Polierter Andesit | `polished_andesite` | 64 |
+| Tuffsteinziegel | `tuff_bricks` | 26 |
+| Graues Buntglas | `gray_stained_glass` | 14 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (vor 1307, Umbau 1428; Fassade geprägt von Restaurierung 1911/12 (Castellucci)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_di_Santa_Maria_Vergine_della_Croce_al_Tempio, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -126,27 +128,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.2 – Chiesa di Santa Maria Vergine della Croce al Tempio – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
-- **Blöcke:** 1.544
+- **Blöcke:** 1.569
 - **Bauteile:** `w307539768`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.179 |
-| Terrakotta | `terracotta` | 294 |
-| Polierter Andesit | `polished_andesite` | 38 |
-| Graues Buntglas | `gray_stained_glass` | 30 |
+| Tuffstein | `tuff` | 1.159 |
+| Terrakotta | `terracotta` | 307 |
+| Polierter Andesit | `polished_andesite` | 34 |
+| Fichtenholz-Bretter | `spruce_planks` | 26 |
+| Graues Buntglas | `gray_stained_glass` | 22 |
+| Tuffsteinziegel | `tuff_bricks` | 18 |
 | Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (vor 1307, Umbau 1428; Fassade geprägt von Restaurierung 1911/12 (Castellucci)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Oratorio_di_Santa_Maria_Vergine_della_Croce_al_Tempio, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -158,12 +162,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 7.3 – Chiesa di Santa Maria Vergine della Croce al Tempio: Innenausbau
 
-- **Y-Bereich:** 61 bis 83
-- **Blöcke:** 414
+- **Y-Bereich:** 61 bis 82
+- **Blöcke:** 410
 - **Bauteile:** `w307539768_innen`
 
 **Teileliste**
@@ -171,16 +175,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 308 |
-| Glatter Stein | `smooth_stone` | 56 |
+| Glatter Stein | `smooth_stone` | 54 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Seelaterne | `sea_lantern` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 44 |
+| Steintreppe | `stone_stairs` | 42 |
 
 **Beschreibung**
 
@@ -1865,16 +1869,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.53 – Reihenhaus an Via di San Giuseppe – Teil 5/5 (Y 91–99)
 
 - **Y-Bereich:** 91 bis 99
-- **Blöcke:** 1.949
+- **Blöcke:** 1.945
 - **Bauteile:** `w476740679`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.530 |
+| Terrakotta | `terracotta` | 1.528 |
 | Orange Keramik | `orange_terracotta` | 219 |
-| Fichtenholz-Bretter | `spruce_planks` | 142 |
+| Fichtenholz-Bretter | `spruce_planks` | 140 |
 | Ziegelsteine | `bricks` | 58 |
 
 **Beschreibung**
@@ -2485,7 +2489,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.71 – Palazzo des Cinquecento an Via delle Conce – Teil 6/7 (Y 91–93)
 
 - **Y-Bereich:** 91 bis 93
-- **Blöcke:** 1.654
+- **Blöcke:** 1.652
 - **Bauteile:** `w476740693`
 
 **Teileliste**
@@ -2493,7 +2497,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 886 |
-| Hellgrauer Beton | `light_gray_concrete` | 763 |
+| Hellgrauer Beton | `light_gray_concrete` | 761 |
 | Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**

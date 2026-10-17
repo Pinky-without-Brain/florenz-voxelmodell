@@ -1,7 +1,7 @@
 {
   "id": "w113484938",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "chiesa_minore",
+  "epoche": "15. Jh. (Entwurf 1434, Brunelleschi; vollendet 1937)",
   "geschosse": [
     {
       "art": "eg",
@@ -12,30 +12,34 @@
     "kanten": "strasse",
     "achsen": 3,
     "material": "putz",
-    "putzfarbe": "terrakotta",
+    "putzfarbe": "weiss",
     "erdgeschoss": {
       "art": "portal_seitlich",
       "portalBreiteBl": 5,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "oculi_ziegelrahmen",
+      "achteck_tambour",
+      "laterne_achteckig"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Rotonda_del_Brunelleschi",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Brunelleschis unvollendeter Zentralbau (Entwurf 1434), achteckiger Grundriss mit Kapellen, Pilaster und Lisenen aus Pietra serena, verputzter Tambour mit acht Okuli (Ziegelrahmen), im 17. Jh. Dach, achteckige Laterne. Annahme: Putzfarbe und Dachform; die Kuppel selbst kann das Schema nicht bauen.",
   "name": "Rotonda del Brunelleschi"
 }

@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 77.782 |
+| Blöcke | 77.158 |
 | Bauschritte | 53 |
 | Y-Bereich | 57 bis 100 |
 | X-Ausdehnung | -2278 bis -2116 (163 Blöcke) |
 | Z-Ausdehnung | 514 bis 650 (137 Blöcke) |
 | Kleinster Schritt | 1.140 Blöcke (Schritt 19.9) |
-| Mittlerer Schritt | 1.468 Blöcke |
+| Mittlerer Schritt | 1.456 Blöcke |
 | Größter Schritt | 1.995 Blöcke (Schritt 19.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 30.062 | 38,6 % |
-| Tuffstein | `tuff` | 18.212 | 23,4 % |
-| Polierter Tuffstein | `polished_tuff` | 9.736 | 12,5 % |
-| Polierter Andesit | `polished_andesite` | 8.461 | 10,9 % |
-| Glatter Stein | `smooth_stone` | 6.141 | 7,9 % |
-| Graues Buntglas | `gray_stained_glass` | 2.145 | 2,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.796 | 2,3 % |
+| Terrakotta | `terracotta` | 30.062 | 39,0 % |
+| Tuffstein | `tuff` | 18.210 | 23,6 % |
+| Polierter Tuffstein | `polished_tuff` | 9.736 | 12,6 % |
+| Polierter Andesit | `polished_andesite` | 8.580 | 11,1 % |
+| Glatter Stein | `smooth_stone` | 5.519 | 7,2 % |
+| Graues Buntglas | `gray_stained_glass` | 2.148 | 2,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.672 | 2,2 % |
 | Endsteinziegel | `end_stone_bricks` | 626 | 0,8 % |
 | Ziegelsteine | `bricks` | 419 | 0,5 % |
 | Seelaterne | `sea_lantern` | 126 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
@@ -46,15 +46,15 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1632267` | Granaio dell'Abbondanza | 60.572 | 19.1–19.43 |
-| 2 | `r1632267_innen` | Granaio dell'Abbondanza: Innenausbau | 17.207 | 19.44–19.53 |
+| 1 | `r1632267` | Granaio dell'Abbondanza | 59.944 | 19.1–19.43 |
+| 2 | `r1632267_innen` | Granaio dell'Abbondanza: Innenausbau | 17.211 | 19.44–19.53 |
 | 3 | `strassenschilder` | Straßenschilder | 3 | 19.53 |
 
 ## Bauschritte
@@ -73,7 +73,7 @@
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -85,7 +85,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.2 – Granaio dell'Abbondanza – Teil 2/43 (Y 57–57)
 
@@ -101,7 +101,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -113,7 +113,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.3 – Granaio dell'Abbondanza – Teil 3/43 (Y 57–57)
 
@@ -129,7 +129,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -141,7 +141,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.4 – Granaio dell'Abbondanza – Teil 4/43 (Y 57–57)
 
@@ -157,7 +157,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -169,7 +169,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.5 – Granaio dell'Abbondanza – Teil 5/43 (Y 57–57)
 
@@ -185,7 +185,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -197,7 +197,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.6 – Granaio dell'Abbondanza – Teil 6/43 (Y 58–58)
 
@@ -216,7 +216,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -228,7 +228,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.7 – Granaio dell'Abbondanza – Teil 7/43 (Y 59–59)
 
@@ -247,7 +247,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -259,7 +259,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.8 – Granaio dell'Abbondanza – Teil 8/43 (Y 60–60)
 
@@ -278,7 +278,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -290,7 +290,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.9 – Granaio dell'Abbondanza – Teil 9/43 (Y 61–61)
 
@@ -310,7 +310,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -322,7 +322,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.10 – Granaio dell'Abbondanza – Teil 10/43 (Y 62–62)
 
@@ -342,7 +342,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -354,43 +354,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.11 – Granaio dell'Abbondanza – Teil 11/43 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.147
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 560 |
-| Polierter Andesit | `polished_andesite` | 174 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
-| Glatter Stein | `smooth_stone` | 141 |
-| Tuffsteinziegel | `tuff_bricks` | 128 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.12 – Granaio dell'Abbondanza – Teil 12/43 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.148
 - **Bauteile:** `r1632267`
 
@@ -399,14 +367,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 561 |
-| Polierter Andesit | `polished_andesite` | 162 |
-| Glatter Stein | `smooth_stone` | 153 |
+| Polierter Andesit | `polished_andesite` | 174 |
+| Glatter Stein | `smooth_stone` | 144 |
 | Graues Buntglas | `gray_stained_glass` | 141 |
-| Tuffsteinziegel | `tuff_bricks` | 131 |
+| Tuffsteinziegel | `tuff_bricks` | 128 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -418,11 +386,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 19.13 – Granaio dell'Abbondanza – Teil 13/43 (Y 65–65)
+### Schritt 19.12 – Granaio dell'Abbondanza – Teil 12/43 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.180
 - **Bauteile:** `r1632267`
 
@@ -431,14 +399,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 593 |
-| Glatter Stein | `smooth_stone` | 181 |
-| Polierter Andesit | `polished_andesite` | 166 |
-| Tuffsteinziegel | `tuff_bricks` | 138 |
+| Glatter Stein | `smooth_stone` | 190 |
+| Polierter Andesit | `polished_andesite` | 164 |
+| Tuffsteinziegel | `tuff_bricks` | 131 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -450,7 +418,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 19.13 – Granaio dell'Abbondanza – Teil 13/43 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.241
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 654 |
+| Glatter Stein | `smooth_stone` | 215 |
+| Polierter Andesit | `polished_andesite` | 198 |
+| Tuffsteinziegel | `tuff_bricks` | 174 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.14 – Granaio dell'Abbondanza – Teil 14/43 (Y 66–66)
 
@@ -463,13 +462,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 654 |
-| Glatter Stein | `smooth_stone` | 224 |
-| Polierter Andesit | `polished_andesite` | 205 |
-| Tuffsteinziegel | `tuff_bricks` | 158 |
+| Tuffsteinziegel | `tuff_bricks` | 288 |
+| Polierter Andesit | `polished_andesite` | 285 |
+| Glatter Stein | `smooth_stone` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -481,7 +480,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.15 – Granaio dell'Abbondanza – Teil 15/43 (Y 67–67)
 
@@ -494,13 +493,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 654 |
-| Polierter Andesit | `polished_andesite` | 292 |
-| Tuffsteinziegel | `tuff_bricks` | 290 |
-| Glatter Stein | `smooth_stone` | 5 |
+| Glatter Stein | `smooth_stone` | 587 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -512,40 +509,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.16 – Granaio dell'Abbondanza – Teil 16/43 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.554
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 900 |
-| Tuffstein | `tuff` | 654 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.17 – Granaio dell'Abbondanza – Teil 17/43 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.241
 - **Bauteile:** `r1632267`
 
@@ -554,12 +522,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 654 |
-| Polierter Andesit | `polished_andesite` | 582 |
-| Glatter Stein | `smooth_stone` | 5 |
+| Polierter Andesit | `polished_andesite` | 573 |
+| Glatter Stein | `smooth_stone` | 14 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -571,11 +539,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 19.18 – Granaio dell'Abbondanza – Teil 18/43 (Y 70–70)
+### Schritt 19.17 – Granaio dell'Abbondanza – Teil 17/43 (Y 69–69)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.332
 - **Bauteile:** `r1632267`
 
@@ -584,12 +552,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 654 |
-| Glatter Stein | `smooth_stone` | 390 |
-| Polierter Andesit | `polished_andesite` | 288 |
+| Glatter Stein | `smooth_stone` | 381 |
+| Polierter Andesit | `polished_andesite` | 297 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -601,7 +569,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 19.18 – Granaio dell'Abbondanza – Teil 18/43 (Y 70–70)
+
+- **Y-Bereich:** 70 bis 70
+- **Blöcke:** 1.145
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 558 |
+| Polierter Andesit | `polished_andesite` | 288 |
+| Glatter Stein | `smooth_stone` | 152 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.19 – Granaio dell'Abbondanza – Teil 19/43 (Y 71–71)
 
@@ -620,7 +619,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -632,7 +631,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.20 – Granaio dell'Abbondanza – Teil 20/43 (Y 72–72)
 
@@ -651,7 +650,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -663,7 +662,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.21 – Granaio dell'Abbondanza – Teil 21/43 (Y 73–73)
 
@@ -682,7 +681,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -694,7 +693,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.22 – Granaio dell'Abbondanza – Teil 22/43 (Y 74–74)
 
@@ -713,7 +712,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -725,7 +724,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.23 – Granaio dell'Abbondanza – Teil 23/43 (Y 75–75)
 
@@ -744,7 +743,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -756,7 +755,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.24 – Granaio dell'Abbondanza – Teil 24/43 (Y 76–76)
 
@@ -774,7 +773,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -786,24 +785,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.25 – Granaio dell'Abbondanza – Teil 25/43 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.554
+- **Blöcke:** 1.241
 - **Bauteile:** `r1632267`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 900 |
 | Tuffstein | `tuff` | 654 |
+| Polierter Andesit | `polished_andesite` | 582 |
+| Glatter Stein | `smooth_stone` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -815,7 +815,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.26 – Granaio dell'Abbondanza – Teil 26/43 (Y 78–78)
 
@@ -828,12 +828,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 654 |
-| Polierter Andesit | `polished_andesite` | 573 |
-| Glatter Stein | `smooth_stone` | 14 |
+| Glatter Stein | `smooth_stone` | 587 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -845,11 +844,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.27 – Granaio dell'Abbondanza – Teil 27/43 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.241
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 654 |
+| Polierter Andesit | `polished_andesite` | 582 |
+| Glatter Stein | `smooth_stone` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 19.28 – Granaio dell'Abbondanza – Teil 28/43 (Y 80–80)
+
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.332
 - **Bauteile:** `r1632267`
 
@@ -858,43 +887,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 654 |
-| Glatter Stein | `smooth_stone` | 381 |
-| Polierter Andesit | `polished_andesite` | 297 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.28 – Granaio dell'Abbondanza – Teil 28/43 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.145
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 558 |
+| Glatter Stein | `smooth_stone` | 390 |
 | Polierter Andesit | `polished_andesite` | 288 |
-| Glatter Stein | `smooth_stone` | 152 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -906,7 +904,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.29 – Granaio dell'Abbondanza – Teil 29/43 (Y 81–81)
 
@@ -925,7 +923,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -937,7 +935,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.30 – Granaio dell'Abbondanza – Teil 30/43 (Y 82–82)
 
@@ -956,7 +954,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -968,7 +966,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.31 – Granaio dell'Abbondanza – Teil 31/43 (Y 83–83)
 
@@ -987,7 +985,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -999,7 +997,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.32 – Granaio dell'Abbondanza – Teil 32/43 (Y 84–84)
 
@@ -1018,7 +1016,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1030,25 +1028,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.33 – Granaio dell'Abbondanza – Teil 33/43 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.241
+- **Blöcke:** 1.145
 - **Bauteile:** `r1632267`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 654 |
+| Tuffstein | `tuff` | 558 |
 | Polierter Andesit | `polished_andesite` | 297 |
-| Glatter Stein | `smooth_stone` | 290 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+| Glatter Stein | `smooth_stone` | 143 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1060,7 +1059,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.34 – Granaio dell'Abbondanza – Teil 34/43 (Y 86–86)
 
@@ -1073,13 +1072,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 654 |
-| Polierter Andesit | `polished_andesite` | 573 |
 | Endsteinziegel | `end_stone_bricks` | 313 |
-| Glatter Stein | `smooth_stone` | 14 |
+| Glatter Stein | `smooth_stone` | 299 |
+| Polierter Andesit | `polished_andesite` | 288 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1091,7 +1090,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.35 – Granaio dell'Abbondanza – Teil 35/43 (Y 87–87)
 
@@ -1110,7 +1109,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1122,7 +1121,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.36 – Granaio dell'Abbondanza – Teil 36/43 (Y 88–88)
 
@@ -1138,7 +1137,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1150,7 +1149,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.37 – Granaio dell'Abbondanza – Teil 37/43 (Y 88–88)
 
@@ -1166,7 +1165,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1178,7 +1177,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.38 – Granaio dell'Abbondanza – Teil 38/43 (Y 89–89)
 
@@ -1194,7 +1193,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1206,7 +1205,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.39 – Granaio dell'Abbondanza – Teil 39/43 (Y 90–90)
 
@@ -1222,7 +1221,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1234,7 +1233,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.40 – Granaio dell'Abbondanza – Teil 40/43 (Y 91–91)
 
@@ -1251,7 +1250,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1263,7 +1262,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.41 – Granaio dell'Abbondanza – Teil 41/43 (Y 92–92)
 
@@ -1280,7 +1279,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1292,7 +1291,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.42 – Granaio dell'Abbondanza – Teil 42/43 (Y 93–94)
 
@@ -1309,7 +1308,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1321,7 +1320,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 19.43 – Granaio dell'Abbondanza – Teil 43/43 (Y 95–100)
 
@@ -1338,7 +1337,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1350,12 +1349,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 19.44 – Granaio dell'Abbondanza: Innenausbau – Teil 1/10 (Y 57–68)
+### Schritt 19.44 – Granaio dell'Abbondanza: Innenausbau – Teil 1/10 (Y 57–67)
 
-- **Y-Bereich:** 57 bis 68
-- **Blöcke:** 1.772
+- **Y-Bereich:** 57 bis 67
+- **Blöcke:** 1.768
 - **Bauteile:** `r1632267_innen`
 
 **Teileliste**
@@ -1364,15 +1363,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.672 |
 | Seelaterne | `sea_lantern` | 50 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 20 |
 
 **Beschreibung**
 
@@ -1390,9 +1389,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.45 – Granaio dell'Abbondanza: Innenausbau – Teil 2/10 (Y 68–68)
+### Schritt 19.45 – Granaio dell'Abbondanza: Innenausbau – Teil 2/10 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.721
 - **Bauteile:** `r1632267_innen`
 
@@ -1419,9 +1418,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.46 – Granaio dell'Abbondanza: Innenausbau – Teil 3/10 (Y 68–68)
+### Schritt 19.46 – Granaio dell'Abbondanza: Innenausbau – Teil 3/10 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.693
 - **Bauteile:** `r1632267_innen`
 
@@ -1448,9 +1447,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.47 – Granaio dell'Abbondanza: Innenausbau – Teil 4/10 (Y 68–68)
+### Schritt 19.47 – Granaio dell'Abbondanza: Innenausbau – Teil 4/10 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.706
 - **Bauteile:** `r1632267_innen`
 
@@ -1477,9 +1476,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.48 – Granaio dell'Abbondanza: Innenausbau – Teil 5/10 (Y 68–68)
+### Schritt 19.48 – Granaio dell'Abbondanza: Innenausbau – Teil 5/10 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.729
 - **Bauteile:** `r1632267_innen`
 
@@ -1506,10 +1505,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.49 – Granaio dell'Abbondanza: Innenausbau – Teil 6/10 (Y 69–77)
+### Schritt 19.49 – Granaio dell'Abbondanza: Innenausbau – Teil 6/10 (Y 68–78)
 
-- **Y-Bereich:** 69 bis 77
-- **Blöcke:** 1.731
+- **Y-Bereich:** 68 bis 78
+- **Blöcke:** 1.739
 - **Bauteile:** `r1632267_innen`
 
 **Teileliste**
@@ -1517,10 +1516,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.672 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -1531,7 +1530,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1550,9 +1549,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.50 – Granaio dell'Abbondanza: Innenausbau – Teil 7/10 (Y 77–77)
+### Schritt 19.50 – Granaio dell'Abbondanza: Innenausbau – Teil 7/10 (Y 78–78)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.721
 - **Bauteile:** `r1632267_innen`
 
@@ -1579,9 +1578,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.51 – Granaio dell'Abbondanza: Innenausbau – Teil 8/10 (Y 77–77)
+### Schritt 19.51 – Granaio dell'Abbondanza: Innenausbau – Teil 8/10 (Y 78–78)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.693
 - **Bauteile:** `r1632267_innen`
 
@@ -1608,9 +1607,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.52 – Granaio dell'Abbondanza: Innenausbau – Teil 9/10 (Y 77–77)
+### Schritt 19.52 – Granaio dell'Abbondanza: Innenausbau – Teil 9/10 (Y 78–78)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.706
 - **Bauteile:** `r1632267_innen`
 
@@ -1637,9 +1636,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.53 – Granaio dell'Abbondanza: Innenausbau – Teil 10/10 (Y 77–78) & Straßenschilder
+### Schritt 19.53 – Granaio dell'Abbondanza: Innenausbau – Teil 10/10 (Y 78–79) & Straßenschilder
 
-- **Y-Bereich:** 64 bis 78
+- **Y-Bereich:** 64 bis 79
 - **Blöcke:** 1.738
 - **Bauteile:** `r1632267_innen`, `strassenschilder`
 

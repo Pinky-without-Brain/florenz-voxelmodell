@@ -1,7 +1,7 @@
 {
   "id": "w118932420",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "casa_torre",
+  "epoche": "1332-34 (Andrea Pisano zugeschrieben), im 16. Jh. für Feuerwaffen umgebaut",
   "geschosse": [
     {
       "art": "eg",
@@ -23,11 +23,12 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 4,
-    "material": "putz",
+    "material": "bruchstein",
     "putzfarbe": "grau",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rundbogen"
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 9,
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rahmen_stuck",
@@ -38,15 +39,21 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "holztor_original_genietet",
+      "wappen_pietra_serena_stadtseite",
+      "wappen_marmor_lilie_aussen",
+      "pferderinge_fackelhalter",
+      "seitliche_nebenoeffnungen"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach mittlere Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Porta_San_Frediano",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Stadttor der sechsten Stadtmauer 1332-34 (Andrea Pisano zugeschrieben), blieb in der Höhe unvollendet und wurde später abgesenkt, kurz vor der Belagerung für Feuerwaffen umgebaut, originales genietetes Holztor, Wappen aus Pietra serena (Stadtseite) und Marmor mit Lilie (außen), schmiedeeiserne Ringe und Fackelhalter, seitliche Nebenöffnungen. Annahme: Geschosse, Fenster, Dach.",
   "name": "Porta San Frediano"
 }

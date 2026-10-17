@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 117.725 |
+| Blöcke | 117.730 |
 | Bauschritte | 77 |
 | Y-Bereich | 61 bis 99 |
 | X-Ausdehnung | 844 bis 985 (142 Blöcke) |
@@ -22,22 +22,20 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 35.885 | 30,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 13.362 | 11,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 13.362 | 11,3 % |
 | Orange Keramik | `orange_terracotta` | 11.654 | 9,9 % |
 | Polierter Tuffstein | `polished_tuff` | 10.498 | 8,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.455 | 8,0 % |
 | Endsteinziegel | `end_stone_bricks` | 8.192 | 7,0 % |
 | Rosa Keramik | `pink_terracotta` | 7.871 | 6,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 5.566 | 4,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 4.771 | 4,1 % |
 | Weißer Beton | `white_concrete` | 4.595 | 3,9 % |
-| Polierter Andesit | `polished_andesite` | 3.312 | 2,8 % |
-| Tuffstein | `tuff` | 2.876 | 2,4 % |
-| Glatter Stein | `smooth_stone` | 2.628 | 2,2 % |
-| Graues Buntglas | `gray_stained_glass` | 2.197 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 3.797 | 3,2 % |
+| Graues Buntglas | `gray_stained_glass` | 2.272 | 1,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.085 | 0,9 % |
+| Polierter Andesit | `polished_andesite` | 615 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 594 | 0,5 % |
 | Ziegelsteine | `bricks` | 578 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 365 | 0,3 % |
 | Grüner Beton | `green_concrete` | 318 | 0,3 % |
 | Seelaterne | `sea_lantern` | 236 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 223 | 0,2 % |
@@ -47,7 +45,8 @@
 | Rote Keramik | `red_terracotta` | 135 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 135 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 13 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
@@ -56,7 +55,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 828 |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -64,8 +63,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7116219` | Reihenhaus an Via Ghibellina | 15.299 | 4.1–4.10 |
 | 2 | `r7116219_innen` | Reihenhaus an Via Ghibellina: Innenausbau | 4.233 | 4.11–4.13 |
-| 3 | `w306984411` | Palazzo Gherardi | 11.144 | 4.14–4.20 |
-| 4 | `w306984411_innen` | Palazzo Gherardi: Innenausbau | 2.469 | 4.21–4.22 |
+| 3 | `w306984411` | Palazzo Gherardi | 11.145 | 4.14–4.20 |
+| 4 | `w306984411_innen` | Palazzo Gherardi: Innenausbau | 2.473 | 4.21–4.22 |
 | 5 | `w483268319` | Reihenhaus an Via dell'Agnolo | 4.382 | 4.23–4.25 |
 | 6 | `w483268319_innen` | Reihenhaus an Via dell'Agnolo: Innenausbau | 720 | 4.26 |
 | 7 | `w483268330` | Reihenhaus an Via Ghibellina | 5.601 | 4.27–4.29 |
@@ -529,7 +528,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.14 – Palazzo Gherardi – Teil 1/7 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.655
+- **Blöcke:** 1.658
 - **Bauteile:** `w306984411`
 
 **Teileliste**
@@ -537,14 +536,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.422 |
-| Tuffstein | `tuff` | 106 |
-| Polierter Andesit | `polished_andesite` | 69 |
-| Tuffsteinziegel | `tuff_bricks` | 54 |
-| Glatter Stein | `smooth_stone` | 4 |
+| Gelbe Keramik | `yellow_terracotta` | 228 |
+| Polierter Andesit | `polished_andesite` | 5 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento (Frührenaissance)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -556,27 +555,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.15 – Palazzo Gherardi – Teil 2/7 (Y 63–69)
 
 - **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.527
+- **Blöcke:** 1.569
 - **Bauteile:** `w306984411`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 618 |
-| Polierter Andesit | `polished_andesite` | 512 |
-| Tuffsteinziegel | `tuff_bricks` | 222 |
-| Graues Buntglas | `gray_stained_glass` | 155 |
-| Glatter Stein | `smooth_stone` | 20 |
+| Gelbe Keramik | `yellow_terracotta` | 1.010 |
+| Glatter Stein | `smooth_stone` | 372 |
+| Graues Buntglas | `gray_stained_glass` | 152 |
+| Polierter Andesit | `polished_andesite` | 28 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento (Frührenaissance)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -588,27 +587,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.16 – Palazzo Gherardi – Teil 3/7 (Y 70–75)
 
 - **Y-Bereich:** 70 bis 75
-- **Blöcke:** 1.540
+- **Blöcke:** 1.510
 - **Bauteile:** `w306984411`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 637 |
-| Polierter Andesit | `polished_andesite` | 552 |
-| Glatter Stein | `smooth_stone` | 226 |
-| Tuffsteinziegel | `tuff_bricks` | 89 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
+| Gelbe Keramik | `yellow_terracotta` | 992 |
+| Glatter Stein | `smooth_stone` | 413 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Polierter Andesit | `polished_andesite` | 20 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento (Frührenaissance)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -620,26 +619,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.17 – Palazzo Gherardi – Teil 4/7 (Y 76–82)
 
 - **Y-Bereich:** 76 bis 82
-- **Blöcke:** 1.677
+- **Blöcke:** 1.669
 - **Bauteile:** `w306984411`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 661 |
-| Polierter Andesit | `polished_andesite` | 640 |
-| Glatter Stein | `smooth_stone` | 232 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
+| Gelbe Keramik | `yellow_terracotta` | 1.020 |
+| Glatter Stein | `smooth_stone` | 472 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento (Frührenaissance)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -651,26 +650,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.18 – Palazzo Gherardi – Teil 5/7 (Y 83–89)
 
 - **Y-Bereich:** 83 bis 89
-- **Blöcke:** 1.672
+- **Blöcke:** 1.666
 - **Bauteile:** `w306984411`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 759 |
-| Tuffstein | `tuff` | 632 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Glatter Stein | `smooth_stone` | 101 |
+| Gelbe Keramik | `yellow_terracotta` | 1.029 |
+| Glatter Stein | `smooth_stone` | 418 |
+| Graues Buntglas | `gray_stained_glass` | 199 |
+| Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento (Frührenaissance)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -682,7 +681,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.19 – Palazzo Gherardi – Teil 6/7 (Y 90–92)
 
@@ -695,13 +694,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 893 |
-| Glatter Stein | `smooth_stone` | 481 |
-| Polierter Andesit | `polished_andesite` | 262 |
-| Tuffstein | `tuff` | 222 |
+| Glatter Stein | `smooth_stone` | 554 |
+| Gelbe Keramik | `yellow_terracotta` | 405 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento (Frührenaissance)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -713,7 +712,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.20 – Palazzo Gherardi – Teil 7/7 (Y 93–97)
 
@@ -730,7 +729,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento (Frührenaissance)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Gherardi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -742,12 +741,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.21 – Palazzo Gherardi: Innenausbau – Teil 1/2 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.233
+- **Blöcke:** 1.242
 - **Bauteile:** `w306984411_innen`
 
 **Teileliste**
@@ -759,12 +758,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 14 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -782,10 +787,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.22 – Palazzo Gherardi: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 4.22 – Palazzo Gherardi: Innenausbau – Teil 2/2 (Y 73–83)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.236
+- **Y-Bereich:** 73 bis 83
+- **Blöcke:** 1.231
 - **Bauteile:** `w306984411_innen`
 
 **Teileliste**
@@ -793,22 +798,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.169 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+| Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 

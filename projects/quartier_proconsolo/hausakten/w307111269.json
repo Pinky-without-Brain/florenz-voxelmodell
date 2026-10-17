@@ -1,19 +1,19 @@
 {
   "id": "w307111269",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "aus zwei mittelalterlichen Kaufmannshäusern; Fassade 18. Jh. (Malaspina); Restaurierung bis 1986",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -22,28 +22,33 @@
     "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rundbogen",
-      "rahmen": "pietra_serena",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "glatte_rustika_pietraforte_1_geschoss",
+      "fondaci_zugemauerte_eingaenge",
+      "rundbogenportal_18jh_gestrichen",
+      "malaspina_gesimse"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Venerosi_Pesciolini_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Umbau und Zusammenlegung zweier mittelalterlicher Kaufmannshäuser, Fassade im 18. Jh. durch die Malaspina umgestaltet, erstes Geschoss in glatter Pietraforte-Rustika (zuvor unter Steinimitations-Putz), zwei Obergeschosse mit aufeinanderfolgenden Bögen unter strengem Profil und reicheren Gesimsen, Steinportal mit Rundbogen (18. Jh.), zugemauerte Fondaci-Eingänge, Restaurierung bis 1986. Annahme: Achsenzahl, Putzfarbe, Dachform.",
   "name": "Palazzo Venerosi Pesciolini"
 }

@@ -8,46 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 243.101 |
+| Blöcke | 243.997 |
 | Bauschritte | 159 |
 | Y-Bereich | 63 bis 105 |
-| X-Ausdehnung | 886 bis 1112 (227 Blöcke) |
+| X-Ausdehnung | 887 bis 1112 (226 Blöcke) |
 | Z-Ausdehnung | -181 bis 135 (317 Blöcke) |
 | Kleinster Schritt | 399 Blöcke (Schritt 9.45) |
-| Mittlerer Schritt | 1.529 Blöcke |
+| Mittlerer Schritt | 1.535 Blöcke |
 | Größter Schritt | 2.066 Blöcke (Schritt 9.65) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 73.594 | 30,3 % |
+| Terrakotta | `terracotta` | 74.945 | 30,7 % |
 | Endsteinziegel | `end_stone_bricks` | 33.108 | 13,6 % |
-| Weißer Beton | `white_concrete` | 26.189 | 10,8 % |
+| Weißer Beton | `white_concrete` | 25.647 | 10,5 % |
 | Orange Keramik | `orange_terracotta` | 24.530 | 10,1 % |
 | Polierter Tuffstein | `polished_tuff` | 23.581 | 9,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 13.436 | 5,5 % |
-| Rosa Keramik | `pink_terracotta` | 12.325 | 5,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 20.418 | 8,4 % |
+| Rosa Keramik | `pink_terracotta` | 12.326 | 5,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 9.243 | 3,8 % |
-| Polierter Andesit | `polished_andesite` | 4.697 | 1,9 % |
-| Tuffstein | `tuff` | 4.641 | 1,9 % |
-| Graues Buntglas | `gray_stained_glass` | 4.042 | 1,7 % |
-| Glatter Stein | `smooth_stone` | 3.539 | 1,5 % |
+| Graues Buntglas | `gray_stained_glass` | 4.202 | 1,7 % |
+| Glatter Stein | `smooth_stone` | 3.421 | 1,4 % |
+| Polierter Andesit | `polished_andesite` | 2.806 | 1,2 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.302 | 0,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.084 | 0,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.085 | 0,9 % |
 | Ziegelsteine | `bricks` | 1.206 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.149 | 0,5 % |
 | Grüner Beton | `green_concrete` | 563 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 485 | 0,2 % |
-| Seelaterne | `sea_lantern` | 455 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 443 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 419 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 352 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 324 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 133 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 133 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 64 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 56 | 0,0 % |
+| Seelaterne | `sea_lantern` | 463 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 442 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 418 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 354 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 326 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 136 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 136 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 68 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 60 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 32 | 0,0 % |
+| Tuffstein | `tuff` | 22 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
@@ -56,8 +56,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.538 |
-| Steintreppe | `stone_stairs` | 120 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.540 |
+| Steintreppe | `stone_stairs` | 128 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -65,13 +65,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w306486036` | Reihenhaus an Borgo Pinti | 8.143 | 9.1–9.5 |
 | 2 | `w306486036_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 2.496 | 9.6–9.7 |
-| 3 | `w306486075` | Palazzo Mormorai | 14.912 | 9.8–9.16 |
-| 4 | `w306486075_innen` | Palazzo Mormorai: Innenausbau | 3.073 | 9.17–9.18 |
-| 5 | `w306486081` | Palazzo Bellini delle Stelle | 7.219 | 9.19–9.22 |
-| 6 | `w306486081_innen` | Palazzo Bellini delle Stelle: Innenausbau | 1.763 | 9.23 |
+| 3 | `w306486075` | Palazzo Mormorai | 14.282 | 9.8–9.15 |
+| 4 | `w306486075_innen` | Palazzo Mormorai: Innenausbau | 4.576 | 9.16–9.18 |
+| 5 | `w306486081` | Palazzo Bellini delle Stelle | 7.235 | 9.19–9.22 |
+| 6 | `w306486081_innen` | Palazzo Bellini delle Stelle: Innenausbau | 1.767 | 9.23 |
 | 7 | `w496186179` | Haus w496186179 | 4.208 | 9.24–9.26 |
 | 8 | `w496186179_innen` | Haus w496186179: Innenausbau | 811 | 9.27 |
-| 9 | `w496186180` | Reihenhaus an Via Fiesolana | 9.152 | 9.28–9.32 |
+| 9 | `w496186180` | Reihenhaus an Via Fiesolana | 9.153 | 9.28–9.32 |
 | 10 | `w496186180_innen` | Reihenhaus an Via Fiesolana: Innenausbau | 2.681 | 9.33–9.34 |
 | 11 | `w496186182` | Reihenhaus an Via Fiesolana | 2.537 | 9.35–9.36 |
 | 12 | `w496186182_innen` | Reihenhaus an Via Fiesolana: Innenausbau | 297 | 9.37 |
@@ -109,7 +109,7 @@
 | 44 | `w496186228_innen` | Reihenhaus an Via Fiesolana: Innenausbau | 642 | 9.106 |
 | 45 | `w496186230` | Reihenhaus an Via dei Pilastri | 4.563 | 9.107–9.109 |
 | 46 | `w496186230_innen` | Reihenhaus an Via dei Pilastri: Innenausbau | 1.358 | 9.110 |
-| 47 | `w496186231` | Reihenhaus an Via di Mezzo | 5.043 | 9.111–9.113 |
+| 47 | `w496186231` | Reihenhaus an Via di Mezzo | 5.045 | 9.111–9.113 |
 | 48 | `w496186231_innen` | Reihenhaus an Via di Mezzo: Innenausbau | 1.033 | 9.114 |
 | 49 | `w496186232` | Reihenhaus an Borgo Pinti | 6.316 | 9.115–9.118 |
 | 50 | `w496186232_innen` | Reihenhaus an Borgo Pinti: Innenausbau | 1.008 | 9.119 |
@@ -380,7 +380,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.8 – Palazzo Mormorai – Teil 1/9 (Y 65–65)
+### Schritt 9.8 – Palazzo Mormorai – Teil 1/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.810
@@ -394,7 +394,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17./18. Jh. (nach 1729 Familie Paoli)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -406,27 +406,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.9 – Palazzo Mormorai – Teil 2/9 (Y 66–70)
+### Schritt 9.9 – Palazzo Mormorai – Teil 2/8 (Y 66–71)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.607
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.896
 - **Bauteile:** `w306486075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 775 |
-| Polierter Andesit | `polished_andesite` | 297 |
-| Tuffsteinziegel | `tuff_bricks` | 255 |
-| Glatter Stein | `smooth_stone` | 202 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
+| Gelbe Keramik | `yellow_terracotta` | 1.395 |
+| Glatter Stein | `smooth_stone` | 315 |
+| Graues Buntglas | `gray_stained_glass` | 150 |
+| Polierter Andesit | `polished_andesite` | 23 |
+| Tuffsteinziegel | `tuff_bricks` | 13 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17./18. Jh. (nach 1729 Familie Paoli)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -438,27 +438,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.10 – Palazzo Mormorai – Teil 3/9 (Y 71–75)
+### Schritt 9.10 – Palazzo Mormorai – Teil 3/8 (Y 72–76)
 
-- **Y-Bereich:** 71 bis 75
-- **Blöcke:** 1.574
+- **Y-Bereich:** 72 bis 76
+- **Blöcke:** 1.664
 - **Bauteile:** `w306486075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 754 |
-| Polierter Andesit | `polished_andesite` | 343 |
-| Tuffsteinziegel | `tuff_bricks` | 211 |
-| Glatter Stein | `smooth_stone` | 188 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
+| Gelbe Keramik | `yellow_terracotta` | 1.136 |
+| Glatter Stein | `smooth_stone` | 468 |
+| Graues Buntglas | `gray_stained_glass` | 52 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17./18. Jh. (nach 1729 Familie Paoli)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -470,26 +469,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.11 – Palazzo Mormorai – Teil 4/9 (Y 76–80)
+### Schritt 9.11 – Palazzo Mormorai – Teil 4/8 (Y 77–81)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 1.722
+- **Y-Bereich:** 77 bis 81
+- **Blöcke:** 1.664
 - **Bauteile:** `w306486075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 780 |
-| Glatter Stein | `smooth_stone` | 461 |
-| Polierter Andesit | `polished_andesite` | 393 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
+| Gelbe Keramik | `yellow_terracotta` | 1.131 |
+| Glatter Stein | `smooth_stone` | 473 |
+| Graues Buntglas | `gray_stained_glass` | 52 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17./18. Jh. (nach 1729 Familie Paoli)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -501,26 +500,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.12 – Palazzo Mormorai – Teil 5/9 (Y 81–85)
+### Schritt 9.12 – Palazzo Mormorai – Teil 5/8 (Y 82–87)
 
-- **Y-Bereich:** 81 bis 85
-- **Blöcke:** 1.677
+- **Y-Bereich:** 82 bis 87
+- **Blöcke:** 1.804
 - **Bauteile:** `w306486075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 765 |
-| Glatter Stein | `smooth_stone` | 457 |
-| Polierter Andesit | `polished_andesite` | 349 |
-| Graues Buntglas | `gray_stained_glass` | 106 |
+| Gelbe Keramik | `yellow_terracotta` | 1.138 |
+| Glatter Stein | `smooth_stone` | 394 |
+| Graues Buntglas | `gray_stained_glass` | 260 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17./18. Jh. (nach 1729 Familie Paoli)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -532,26 +531,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.13 – Palazzo Mormorai – Teil 6/9 (Y 86–90)
+### Schritt 9.13 – Palazzo Mormorai – Teil 6/8 (Y 88–93)
 
-- **Y-Bereich:** 86 bis 90
-- **Blöcke:** 1.595
+- **Y-Bereich:** 88 bis 93
+- **Blöcke:** 1.918
 - **Bauteile:** `w306486075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 745 |
-| Polierter Andesit | `polished_andesite` | 469 |
-| Glatter Stein | `smooth_stone` | 249 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
+| Gelbe Keramik | `yellow_terracotta` | 1.275 |
+| Glatter Stein | `smooth_stone` | 478 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17./18. Jh. (nach 1729 Familie Paoli)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -563,26 +562,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.14 – Palazzo Mormorai – Teil 7/9 (Y 91–94)
+### Schritt 9.14 – Palazzo Mormorai – Teil 7/8 (Y 94–96)
 
-- **Y-Bereich:** 91 bis 94
-- **Blöcke:** 1.590
+- **Y-Bereich:** 94 bis 96
+- **Blöcke:** 1.836
 - **Bauteile:** `w306486075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 630 |
-| Glatter Stein | `smooth_stone` | 464 |
-| Polierter Andesit | `polished_andesite` | 434 |
-| Graues Buntglas | `gray_stained_glass` | 62 |
+| Terrakotta | `terracotta` | 864 |
+| Gelbe Keramik | `yellow_terracotta` | 859 |
+| Glatter Stein | `smooth_stone` | 109 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17./18. Jh. (nach 1729 Familie Paoli)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -594,40 +593,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.15 – Palazzo Mormorai – Teil 8/9 (Y 95–96)
-
-- **Y-Bereich:** 95 bis 96
-- **Blöcke:** 1.647
-- **Bauteile:** `w306486075`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 982 |
-| Glatter Stein | `smooth_stone` | 332 |
-| Tuffstein | `tuff` | 170 |
-| Polierter Andesit | `polished_andesite` | 163 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.16 – Palazzo Mormorai – Teil 9/9 (Y 97–105)
+### Schritt 9.15 – Palazzo Mormorai – Teil 8/8 (Y 97–105)
 
 - **Y-Bereich:** 97 bis 105
 - **Blöcke:** 1.690
@@ -642,7 +610,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17./18. Jh. (nach 1729 Familie Paoli)), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Mormorai, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -654,12 +622,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 9.17 – Palazzo Mormorai: Innenausbau – Teil 1/2 (Y 65–76)
+### Schritt 9.16 – Palazzo Mormorai: Innenausbau – Teil 1/3 (Y 65–74)
 
-- **Y-Bereich:** 65 bis 76
-- **Blöcke:** 1.537
+- **Y-Bereich:** 65 bis 74
+- **Blöcke:** 1.529
 - **Bauteile:** `w306486075_innen`
 
 **Teileliste**
@@ -667,19 +635,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.468 |
-| Glatter Stein | `smooth_stone` | 28 |
+| Glatter Stein | `smooth_stone` | 24 |
 | Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 18 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -698,10 +666,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.18 – Palazzo Mormorai: Innenausbau – Teil 2/2 (Y 77–86)
+### Schritt 9.17 – Palazzo Mormorai: Innenausbau – Teil 2/3 (Y 75–80)
 
-- **Y-Bereich:** 77 bis 86
-- **Blöcke:** 1.536
+- **Y-Bereich:** 75 bis 80
+- **Blöcke:** 1.524
 - **Bauteile:** `w306486075_innen`
 
 **Teileliste**
@@ -709,22 +677,66 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.468 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 18 |
 | Seelaterne | `sea_lantern` | 8 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 4 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 12 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 9.18 – Palazzo Mormorai: Innenausbau – Teil 3/3 (Y 81–89)
+
+- **Y-Bereich:** 81 bis 89
+- **Blöcke:** 1.523
+- **Bauteile:** `w306486075_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.468 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -745,7 +757,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 9.19 – Palazzo Bellini delle Stelle – Teil 1/4 (Y 65–70)
 
 - **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.770
+- **Blöcke:** 1.779
 - **Bauteile:** `w306486081`
 
 **Teileliste**
@@ -754,15 +766,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 995 |
 | Gelbe Keramik | `yellow_terracotta` | 659 |
-| Weißer Beton | `white_concrete` | 62 |
+| Polierter Andesit | `polished_andesite` | 91 |
 | Graues Buntglas | `gray_stained_glass` | 28 |
-| Glatter Stein | `smooth_stone` | 16 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (spätes 15./16. Jh.; Umbau 1837 (Casamorata)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bellini_delle_Stelle, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -774,28 +784,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.20 – Palazzo Bellini delle Stelle – Teil 2/4 (Y 71–82)
 
 - **Y-Bereich:** 71 bis 82
-- **Blöcke:** 1.897
+- **Blöcke:** 1.905
 - **Bauteile:** `w306486081`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.524 |
-| Weißer Beton | `white_concrete` | 185 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
+| Gelbe Keramik | `yellow_terracotta` | 1.517 |
+| Polierter Andesit | `polished_andesite` | 203 |
+| Graues Buntglas | `gray_stained_glass` | 113 |
 | Glatter Stein | `smooth_stone` | 69 |
-| Polierter Andesit | `polished_andesite` | 20 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (spätes 15./16. Jh.; Umbau 1837 (Casamorata)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bellini_delle_Stelle, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -807,26 +816,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.21 – Palazzo Bellini delle Stelle – Teil 3/4 (Y 83–93)
 
 - **Y-Bereich:** 83 bis 93
-- **Blöcke:** 1.749
+- **Blöcke:** 1.748
 - **Bauteile:** `w306486081`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.350 |
-| Weißer Beton | `white_concrete` | 245 |
-| Graues Buntglas | `gray_stained_glass` | 85 |
+| Gelbe Keramik | `yellow_terracotta` | 1.389 |
+| Polierter Andesit | `polished_andesite` | 188 |
+| Graues Buntglas | `gray_stained_glass` | 102 |
 | Glatter Stein | `smooth_stone` | 69 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (spätes 15./16. Jh.; Umbau 1837 (Casamorata)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bellini_delle_Stelle, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -838,7 +847,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.22 – Palazzo Bellini delle Stelle – Teil 4/4 (Y 94–103)
 
@@ -851,14 +860,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.287 |
-| Gelbe Keramik | `yellow_terracotta` | 278 |
+| Gelbe Keramik | `yellow_terracotta` | 293 |
 | Glatter Stein | `smooth_stone` | 124 |
 | Ziegelsteine | `bricks` | 64 |
-| Weißer Beton | `white_concrete` | 50 |
+| Polierter Andesit | `polished_andesite` | 35 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (spätes 15./16. Jh.; Umbau 1837 (Casamorata)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bellini_delle_Stelle, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -870,12 +879,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.23 – Palazzo Bellini delle Stelle: Innenausbau
 
-- **Y-Bereich:** 65 bis 86
-- **Blöcke:** 1.763
+- **Y-Bereich:** 65 bis 87
+- **Blöcke:** 1.767
 - **Bauteile:** `w306486081_innen`
 
 **Teileliste**
@@ -883,9 +892,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.646 |
-| Glatter Stein | `smooth_stone` | 52 |
+| Glatter Stein | `smooth_stone` | 54 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 5 |
 | Weiße Keramik | `white_terracotta` | 5 |
@@ -894,7 +903,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 
 **Beschreibung**
 
@@ -1179,7 +1188,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.32 – Reihenhaus an Via Fiesolana – Teil 5/5 (Y 95–100)
 
 - **Y-Bereich:** 95 bis 100
-- **Blöcke:** 1.723
+- **Blöcke:** 1.724
 - **Bauteile:** `w496186180`
 
 **Teileliste**
@@ -1187,7 +1196,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.381 |
-| Rosa Keramik | `pink_terracotta` | 262 |
+| Rosa Keramik | `pink_terracotta` | 263 |
 | Ziegelsteine | `bricks` | 80 |
 
 **Beschreibung**
@@ -3882,15 +3891,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.113 – Reihenhaus an Via di Mezzo – Teil 3/3 (Y 87–98)
 
 - **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.736
+- **Blöcke:** 1.738
 - **Bauteile:** `w496186231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 870 |
-| Terrakotta | `terracotta` | 572 |
+| Gelbe Keramik | `yellow_terracotta` | 871 |
+| Terrakotta | `terracotta` | 573 |
 | Polierter Andesit | `polished_andesite` | 189 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
 | Ziegelsteine | `bricks` | 25 |

@@ -1,30 +1,26 @@
 {
   "id": "w306984413",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "spätes 16. Jh.; Erme 1604 vollendet (G. B. Caccini vermutet)",
   "geschosse": [
     {
       "art": "eg",
+      "hoeheBl": 10
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 11
+    },
+    {
+      "art": "og",
       "hoeheBl": 9
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 4,
     "material": "putz",
-    "putzfarbe": "grau",
+    "putzfarbe": "rosa",
     "erdgeschoss": {
       "art": "portal_seitlich",
       "portalBreiteBl": 5,
@@ -39,15 +35,21 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "erme_fuenfzehn",
+      "wappen_albizi",
+      "wappen_pazzi",
+      "portraet_cosimo_I",
+      "dachloggia_geschlossen"
+    ]
   },
   "dach": {
-    "form": "sattel",
+    "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Valori-Altoviti",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Palast des späten 16. Jh. aus drei mittelalterlichen Häusern (Dei Visacci), vermutlich von Giovanni Battista Caccini, Fassade mit fünfzehn Erme berühmter Florentiner (1604), Porträt Cosimos I. über dem Portal, Albizi-Wappen, oben Loggia (heute geschlossen). Annahme: Achsenzahl, Fenstertyp, Gesims, Putzfarbe.",
   "name": "Palazzo Valori-Altoviti"
 }

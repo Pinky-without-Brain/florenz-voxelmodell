@@ -1,19 +1,19 @@
 {
   "id": "w306378155",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Fassade um 1490 (Umbauten 1490-1525), Renaissance",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -22,28 +22,34 @@
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rundbogen",
       "rahmen": "pietra_serena",
-      "laeden": null
+      "laeden": false
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "rundbogenportal_mittig",
+      "zwei_monofore_oben",
+      "oculus_mitte",
+      "wappen_13jh_pilgerhilfe",
+      "wappen_bini"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Oratorio_di_San_Sebastiano_de'_Bini",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Fassade um 1490 realisiert (Umbauten 1490-1525), Rundbogenportal in der Mitte, oben zwei seitliche Monofore mit Oculus dazwischen, rechts Wappen des 13. Jh., Bini-Wappen am Portal. Annahme: Geschosse, Material, Giebel.",
   "name": "Oratorio di San Sebastiano de' Bini"
 }

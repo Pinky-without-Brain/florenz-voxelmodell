@@ -1,23 +1,27 @@
 {
   "id": "w306818331",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "Mittelalter (Ereignisse 1265 und 1380); Restaurierungen um 1830, 1925, 1981-85",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 6
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
@@ -39,15 +43,21 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "filaretto_sichtbar",
+      "fuenf_geschosse_rechteckig",
+      "panoramaraum_unter_satteldach",
+      "terrakotta_kopien_della_robbia_ueber_portal",
+      "ruestloecher_geschosshoehen"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Marsili",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: rechteckiger Turm mit fünf Geschossen, die oberen zwei ragen über die Nachbarbauten, sichtbares Filaretto-Mauerwerk, oberste Etage (Panoramafenster unter Satteldach) jüngster Teil, Terrakotta-Kopien nach della Robbia über dem Portal, Rüstlöcher auf Geschosshöhe, Kriegsschäden an der Ecke Via Toscanella. Annahme: Achsen, Fenstertyp.",
   "name": "Torre dei Marsili"
 }

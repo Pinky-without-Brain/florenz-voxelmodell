@@ -8,36 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 219.374 |
+| Blöcke | 219.296 |
 | Bauschritte | 140 |
 | Y-Bereich | 58 bis 99 |
 | X-Ausdehnung | -1467 bis -1202 (266 Blöcke) |
 | Z-Ausdehnung | 913 bis 1101 (189 Blöcke) |
 | Kleinster Schritt | 617 Blöcke (Schritt 2.58) |
-| Mittlerer Schritt | 1.567 Blöcke |
+| Mittlerer Schritt | 1.566 Blöcke |
 | Größter Schritt | 2.088 Blöcke (Schritt 2.125) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 84.658 | 38,6 % |
-| Polierter Tuffstein | `polished_tuff` | 23.503 | 10,7 % |
-| Endsteinziegel | `end_stone_bricks` | 20.869 | 9,5 % |
-| Tuffstein | `tuff` | 16.995 | 7,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 14.660 | 6,7 % |
-| Polierter Andesit | `polished_andesite` | 11.632 | 5,3 % |
+| Terrakotta | `terracotta` | 84.525 | 38,5 % |
+| Endsteinziegel | `end_stone_bricks` | 34.809 | 15,9 % |
+| Polierter Tuffstein | `polished_tuff` | 23.552 | 10,7 % |
+| Tuffstein | `tuff` | 17.190 | 7,8 % |
+| Polierter Andesit | `polished_andesite` | 11.436 | 5,2 % |
 | Rosa Keramik | `pink_terracotta` | 9.824 | 4,5 % |
-| Weißer Beton | `white_concrete` | 8.154 | 3,7 % |
-| Glatter Stein | `smooth_stone` | 6.583 | 3,0 % |
+| Weißer Beton | `white_concrete` | 8.030 | 3,7 % |
+| Glatter Stein | `smooth_stone` | 6.687 | 3,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.669 | 2,1 % |
 | Orange Keramik | `orange_terracotta` | 4.471 | 2,0 % |
-| Graues Buntglas | `gray_stained_glass` | 4.193 | 1,9 % |
+| Graues Buntglas | `gray_stained_glass` | 4.160 | 1,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 3.094 | 1,4 % |
-| Ziegelsteine | `bricks` | 1.251 | 0,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.049 | 0,5 % |
+| Ziegelsteine | `bricks` | 1.248 | 0,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.067 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 837 | 0,4 % |
 | Grüner Beton | `green_concrete` | 824 | 0,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 763 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 582 | 0,3 % |
 | Seelaterne | `sea_lantern` | 465 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 268 | 0,1 % |
@@ -48,7 +48,7 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 54 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 44 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 36 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 38 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 36 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
@@ -60,7 +60,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 628 |
-| Steintreppe | `stone_stairs` | 158 |
+| Steintreppe | `stone_stairs` | 160 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -68,8 +68,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r4096736` | Palazzo Coverelli | 17.768 | 2.1–2.10 |
 | 2 | `r4096736_innen` | Palazzo Coverelli: Innenausbau | 3.933 | 2.11–2.12 |
-| 3 | `r4096737` | Palazzo Bardi-Guicciardini | 25.233 | 2.13–2.27 |
-| 4 | `r4096737_innen` | Palazzo Bardi-Guicciardini: Innenausbau | 5.904 | 2.28–2.31 |
+| 3 | `r4096737` | Palazzo Bardi-Guicciardini | 25.150 | 2.13–2.27 |
+| 4 | `r4096737_innen` | Palazzo Bardi-Guicciardini: Innenausbau | 5.908 | 2.28–2.31 |
 | 5 | `r7025582` | Reihenhaus an Lungarno Guicciardini | 22.435 | 2.32–2.44 |
 | 6 | `r7025582_innen` | Reihenhaus an Lungarno Guicciardini: Innenausbau | 10.602 | 2.45–2.50 |
 | 7 | `w306798515` | Palazzo des Cinquecento an Via dei Geppi | 6.575 | 2.51–2.54 |
@@ -98,7 +98,7 @@
 | 30 | `w477942466_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 1.745 | 2.129 |
 | 31 | `w477942467` | Reihenhaus an Via di Santo Spirito | 6.506 | 2.130–2.133 |
 | 32 | `w477942467_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 2.885 | 2.134–2.135 |
-| 33 | `w477942468` | Reihenhaus an Via di Santo Spirito | 2.257 | 2.136–2.137 |
+| 33 | `w477942468` | Reihenhaus an Via di Santo Spirito | 2.258 | 2.136–2.137 |
 | 34 | `w477942468_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 1.776 | 2.138 |
 | 35 | `w477942469` | Reihenhaus an Via di Santo Spirito | 1.512 | 2.139 |
 | 36 | `w477942469_innen` | Reihenhaus an Via di Santo Spirito: Innenausbau | 698 | 2.140 |
@@ -506,7 +506,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -518,7 +518,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.14 – Palazzo Bardi-Guicciardini – Teil 2/15 (Y 59–59)
 
@@ -534,7 +534,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -546,27 +546,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.15 – Palazzo Bardi-Guicciardini – Teil 3/15 (Y 60–62)
 
 - **Y-Bereich:** 60 bis 62
-- **Blöcke:** 1.763
+- **Blöcke:** 1.680
 - **Bauteile:** `r4096737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.537 |
-| Weißer Beton | `white_concrete` | 198 |
+| Endsteinziegel | `end_stone_bricks` | 1.578 |
+| Weißer Beton | `white_concrete` | 74 |
 | Polierter Andesit | `polished_andesite` | 13 |
 | Glatter Stein | `smooth_stone` | 12 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -578,7 +578,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.16 – Palazzo Bardi-Guicciardini – Teil 4/15 (Y 63–65)
 
@@ -590,7 +590,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.273 |
+| Endsteinziegel | `end_stone_bricks` | 1.273 |
 | Weißer Beton | `white_concrete` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 99 |
 | Grüner Beton | `green_concrete` | 78 |
@@ -600,7 +600,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -612,7 +612,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.17 – Palazzo Bardi-Guicciardini – Teil 5/15 (Y 66–68)
 
@@ -624,7 +624,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.463 |
+| Endsteinziegel | `end_stone_bricks` | 1.463 |
 | Weißer Beton | `white_concrete` | 115 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
 | Grüner Beton | `green_concrete` | 26 |
@@ -634,7 +634,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -646,7 +646,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.18 – Palazzo Bardi-Guicciardini – Teil 6/15 (Y 69–71)
 
@@ -658,14 +658,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.454 |
+| Endsteinziegel | `end_stone_bricks` | 1.454 |
 | Glatter Stein | `smooth_stone` | 166 |
 | Weißer Beton | `white_concrete` | 78 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -677,7 +677,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.19 – Palazzo Bardi-Guicciardini – Teil 7/15 (Y 72–74)
 
@@ -689,7 +689,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.283 |
+| Endsteinziegel | `end_stone_bricks` | 1.283 |
 | Weißer Beton | `white_concrete` | 129 |
 | Graues Buntglas | `gray_stained_glass` | 105 |
 | Grüner Beton | `green_concrete` | 90 |
@@ -697,7 +697,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -709,27 +709,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.20 – Palazzo Bardi-Guicciardini – Teil 8/15 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.646
+- **Blöcke:** 1.617
 - **Bauteile:** `r4096737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.344 |
-| Weißer Beton | `white_concrete` | 164 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-| Grüner Beton | `green_concrete` | 60 |
+| Endsteinziegel | `end_stone_bricks` | 1.285 |
+| Weißer Beton | `white_concrete` | 129 |
+| Graues Buntglas | `gray_stained_glass` | 105 |
+| Grüner Beton | `green_concrete` | 90 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -741,7 +741,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.21 – Palazzo Bardi-Guicciardini – Teil 9/15 (Y 78–80)
 
@@ -753,14 +753,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.414 |
+| Endsteinziegel | `end_stone_bricks` | 1.338 |
+| Weißer Beton | `white_concrete` | 194 |
 | Glatter Stein | `smooth_stone` | 166 |
-| Weißer Beton | `white_concrete` | 116 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -772,27 +772,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.22 – Palazzo Bardi-Guicciardini – Teil 10/15 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
-- **Blöcke:** 1.646
+- **Blöcke:** 1.675
 - **Bauteile:** `r4096737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.344 |
-| Weißer Beton | `white_concrete` | 164 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-| Grüner Beton | `green_concrete` | 60 |
+| Endsteinziegel | `end_stone_bricks` | 1.481 |
+| Weißer Beton | `white_concrete` | 121 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
+| Grüner Beton | `green_concrete` | 30 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -804,7 +804,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.23 – Palazzo Bardi-Guicciardini – Teil 11/15 (Y 84–86)
 
@@ -816,7 +816,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.283 |
+| Endsteinziegel | `end_stone_bricks` | 1.283 |
 | Weißer Beton | `white_concrete` | 129 |
 | Graues Buntglas | `gray_stained_glass` | 105 |
 | Grüner Beton | `green_concrete` | 90 |
@@ -824,7 +824,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -836,7 +836,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.24 – Palazzo Bardi-Guicciardini – Teil 12/15 (Y 87–89)
 
@@ -848,14 +848,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.502 |
+| Endsteinziegel | `end_stone_bricks` | 1.502 |
 | Fichtenholz-Bretter | `spruce_planks` | 277 |
 | Weißer Beton | `white_concrete` | 194 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -867,7 +867,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.25 – Palazzo Bardi-Guicciardini – Teil 13/15 (Y 90–90)
 
@@ -883,7 +883,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -895,7 +895,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.26 – Palazzo Bardi-Guicciardini – Teil 14/15 (Y 91–92)
 
@@ -911,7 +911,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -923,7 +923,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.27 – Palazzo Bardi-Guicciardini – Teil 15/15 (Y 93–99)
 
@@ -940,7 +940,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -952,7 +952,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.28 – Palazzo Bardi-Guicciardini: Innenausbau – Teil 1/4 (Y 59–69)
 
@@ -1028,10 +1028,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.30 – Palazzo Bardi-Guicciardini: Innenausbau – Teil 3/4 (Y 70–79)
+### Schritt 2.30 – Palazzo Bardi-Guicciardini: Innenausbau – Teil 3/4 (Y 70–80)
 
-- **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.491
+- **Y-Bereich:** 70 bis 80
+- **Blöcke:** 1.495
 - **Bauteile:** `r4096737_innen`
 
 **Teileliste**
@@ -1039,8 +1039,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.432 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Seelaterne | `sea_lantern` | 9 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -1050,7 +1050,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 20 |
 
 **Beschreibung**
 
@@ -1068,9 +1068,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.31 – Palazzo Bardi-Guicciardini: Innenausbau – Teil 4/4 (Y 79–80)
+### Schritt 2.31 – Palazzo Bardi-Guicciardini: Innenausbau – Teil 4/4 (Y 80–81)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.458
 - **Bauteile:** `r4096737_innen`
 
@@ -2755,7 +2755,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 2.83 – Torre dei Lanfredini
 
-- **Y-Bereich:** 58 bis 93
+- **Y-Bereich:** 58 bis 90
 - **Blöcke:** 1.576
 - **Bauteile:** `w306798529`
 
@@ -2763,18 +2763,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 962 |
-| Polierter Andesit | `polished_andesite` | 194 |
-| Terrakotta | `terracotta` | 134 |
-| Polierter Tuffstein | `polished_tuff` | 93 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
-| Tuffsteinziegel | `tuff_bricks` | 69 |
+| Tuffstein | `tuff` | 1.157 |
+| Polierter Tuffstein | `polished_tuff` | 142 |
+| Glatter Stein | `smooth_stone` | 102 |
+| Tuffsteinziegel | `tuff_bricks` | 87 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 | Fichtenholz-Bretter | `spruce_planks` | 40 |
-| Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Ende 13./Anfang 14. Jh.; gekürzt 1251/1292, im 16. und Ende 18. Jh.), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Lanfredini, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -2786,7 +2784,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.84 – Torre dei Lanfredini: Innenausbau & Reihenhaus an Via di Santo Spirito – Teil 1/3 (Y 58–67)
 
@@ -2805,7 +2803,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -4602,14 +4600,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.137 – Reihenhaus an Via di Santo Spirito – Teil 2/2 (Y 78–93)
 
 - **Y-Bereich:** 78 bis 93
-- **Blöcke:** 1.115
+- **Blöcke:** 1.116
 - **Bauteile:** `w477942468`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 717 |
+| Terrakotta | `terracotta` | 718 |
 | Rosa Keramik | `pink_terracotta` | 252 |
 | Weißer Beton | `white_concrete` | 87 |
 | Ziegelsteine | `bricks` | 35 |

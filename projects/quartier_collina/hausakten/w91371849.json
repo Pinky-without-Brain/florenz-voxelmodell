@@ -1,49 +1,54 @@
 {
   "id": "w91371849",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Umbau 1499-1504, Renaissance (Cronaca)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 2,
     "material": "putz",
-    "putzfarbe": "sand",
+    "putzfarbe": "weiss",
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "tabernakel",
       "rahmen": "pietra_serena",
-      "laeden": null
+      "laeden": false
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "fenster_wechselnd_halbkreis_dreieck_giebel",
+      "wappen_adler_arte_di_calimala",
+      "zypressen_rahmen",
+      "schlichte_verputzte_flaechen"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Umbau 1499-1504 durch Simone del Pollaiolo (Cronaca), Renaissance, schlichte verputzte Flächen, Fenster mit Giebeln abwechselnd halbkreisförmig und dreieckig, am Giebel Adlerwappen der Arte di Calimala, von Zypressen gerahmt. Annahme: Geschosse, Achsen, Portalform, Gesims.",
   "name": "Chiesa di San Salvatore al Monte"
 }

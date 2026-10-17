@@ -1,19 +1,19 @@
 {
   "id": "w306378565",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Baubeginn 1447, Renaissance; Türflügel um 1590",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -23,27 +23,32 @@
     "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "portal_giebel",
-      "portalBreiteBl": 7,
+      "portalBreiteBl": 6,
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
-      "laeden": null
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
+      "laeden": false
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "steinportal_mit_lunette_madonna",
+      "wappenstein_pietra_serena_abgeschliffen",
+      "wappen_capponi_ueber_oculus",
+      "oculus"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Monica_(Firenze)",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Bau 1447 begonnen, einfache Fassade a capanna, mittiges Steinportal des 15. Jh. mit Lünette (Madonna mit Kind), zwei Rundbogenfenster seitlich des Portals und höher ein Oculus, Wappenstein aus Pietra serena über dem Portal, Capponi-Wappen über dem Oculus. Annahme: Wandmaterial, Geschosse, Gesims.",
   "name": "Chiesa di Santa Monica"
 }

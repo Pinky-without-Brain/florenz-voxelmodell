@@ -1,7 +1,7 @@
 {
   "id": "r4096737",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Fassade Via Santo Spirito spätes 16./frühes 17. Jh., Lungarno-Front 19. Jh. (Giuseppe Poggi ab 1840)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,22 +9,22 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 7,
     "material": "putz",
-    "putzfarbe": "ocker",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rahmen_stuck",
@@ -35,15 +35,21 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "zwei_symmetrische_portale_lungarno",
+      "kutschendurchgang",
+      "balkon_verlaengert",
+      "wappen_guicciardini_drei_jagdhoerner",
+      "filaretto_unter_putz_via_santo_spirito"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bardi-Guicciardini",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: alter Eingang Via Santo Spirito 14 (Filaretto-Mauerwerk unter Putz, spätes 16./frühes 17. Jh.), Lungarno-Front 19. Jh., ab 1840 von Giuseppe Poggi umgestaltet und von drei auf sieben Achsen gebracht, zweites symmetrisches Portal und Kutschendurchgang, verlängerter Balkon, Guicciardini-Wappen mit drei Jagdhörnern. Annahme: Geschosszahl, Putzfarbe, Fenster, Gesims, Dach.",
   "name": "Palazzo Bardi-Guicciardini"
 }

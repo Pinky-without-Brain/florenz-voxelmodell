@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 342.787 |
+| Blöcke | 342.775 |
 | Bauschritte | 215 |
 | Y-Bereich | 55 bis 102 |
 | X-Ausdehnung | -1762 bis -1518 (245 Blöcke) |
@@ -24,17 +24,17 @@
 | Terrakotta | `terracotta` | 121.886 | 35,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 49.086 | 14,3 % |
 | Polierter Tuffstein | `polished_tuff` | 37.416 | 10,9 % |
-| Weißer Beton | `white_concrete` | 23.714 | 6,9 % |
+| Weißer Beton | `white_concrete` | 22.053 | 6,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 20.731 | 6,0 % |
-| Endsteinziegel | `end_stone_bricks` | 18.406 | 5,4 % |
+| Endsteinziegel | `end_stone_bricks` | 18.549 | 5,4 % |
 | Tuffstein | `tuff` | 15.267 | 4,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 11.062 | 3,2 % |
+| Glatter Stein | `smooth_stone` | 9.897 | 2,9 % |
 | Orange Keramik | `orange_terracotta` | 8.619 | 2,5 % |
-| Glatter Stein | `smooth_stone` | 8.486 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 7.648 | 2,2 % |
+| Graues Buntglas | `gray_stained_glass` | 7.701 | 2,2 % |
 | Polierter Andesit | `polished_andesite` | 6.260 | 1,8 % |
 | Rosa Keramik | `pink_terracotta` | 4.037 | 1,2 % |
-| Grüner Beton | `green_concrete` | 3.608 | 1,1 % |
+| Grüner Beton | `green_concrete` | 3.648 | 1,1 % |
 | Ziegelsteine | `bricks` | 1.991 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.219 | 0,4 % |
 | Seelaterne | `sea_lantern` | 659 | 0,2 % |
@@ -48,7 +48,7 @@
 | Weiße Keramik | `white_terracotta` | 144 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 106 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 104 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
@@ -59,14 +59,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 924 |
-| Steintreppe | `stone_stairs` | 290 |
+| Steintreppe | `stone_stairs` | 292 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4088608` | Palazzo Antinori di Brindisi | 32.233 | 8.1–8.21 |
-| 2 | `r4088608_innen` | Palazzo Antinori di Brindisi: Innenausbau | 9.687 | 8.22–8.27 |
+| 1 | `r4088608` | Palazzo Antinori di Brindisi | 32.217 | 8.1–8.21 |
+| 2 | `r4088608_innen` | Palazzo Antinori di Brindisi: Innenausbau | 9.691 | 8.22–8.27 |
 | 3 | `r4088609` | Palazzo Rosselli del Turco | 15.877 | 8.28–8.36 |
 | 4 | `r4088609_innen` | Palazzo Rosselli del Turco: Innenausbau | 3.887 | 8.37–8.38 |
 | 5 | `r7510656` | Reihenhaus an Via Maffia | 14.100 | 8.39–8.48 |
@@ -137,7 +137,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -149,7 +149,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.2 – Palazzo Antinori di Brindisi – Teil 2/21 (Y 58–58)
 
@@ -165,7 +165,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -177,7 +177,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.3 – Palazzo Antinori di Brindisi – Teil 3/21 (Y 58–58)
 
@@ -193,7 +193,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -205,7 +205,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.4 – Palazzo Antinori di Brindisi – Teil 4/21 (Y 59–59)
 
@@ -224,7 +224,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -236,27 +236,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.5 – Palazzo Antinori di Brindisi – Teil 5/21 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.372
+- **Blöcke:** 1.322
 - **Bauteile:** `r4088608`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.144 |
-| Weißer Beton | `white_concrete` | 218 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Endsteinziegel | `end_stone_bricks` | 1.185 |
+| Glatter Stein | `smooth_stone` | 133 |
 | Polierter Andesit | `polished_andesite` | 2 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -268,7 +267,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.6 – Palazzo Antinori di Brindisi – Teil 6/21 (Y 62–64)
 
@@ -282,15 +281,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.416 |
 | Graues Buntglas | `gray_stained_glass` | 150 |
-| Weißer Beton | `white_concrete` | 123 |
+| Glatter Stein | `smooth_stone` | 132 |
 | Grüner Beton | `green_concrete` | 111 |
-| Glatter Stein | `smooth_stone` | 9 |
 | Polierter Andesit | `polished_andesite` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -302,7 +300,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.7 – Palazzo Antinori di Brindisi – Teil 7/21 (Y 65–66)
 
@@ -315,16 +313,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.025 |
-| Weißer Beton | `white_concrete` | 132 |
+| Glatter Stein | `smooth_stone` | 142 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 | Grüner Beton | `green_concrete` | 37 |
-| Glatter Stein | `smooth_stone` | 10 |
 | Polierter Andesit | `polished_andesite` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -336,7 +333,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.8 – Palazzo Antinori di Brindisi – Teil 8/21 (Y 67–69)
 
@@ -355,7 +352,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -367,12 +364,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.9 – Palazzo Antinori di Brindisi – Teil 9/21 (Y 70–71)
 
 - **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.264
+- **Blöcke:** 1.301
 - **Bauteile:** `r4088608`
 
 **Teileliste**
@@ -380,13 +377,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.032 |
-| Weißer Beton | `white_concrete` | 139 |
+| Glatter Stein | `smooth_stone` | 176 |
 | Graues Buntglas | `gray_stained_glass` | 53 |
 | Grüner Beton | `green_concrete` | 40 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -398,7 +395,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.10 – Palazzo Antinori di Brindisi – Teil 10/21 (Y 72–74)
 
@@ -412,12 +409,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.428 |
 | Graues Buntglas | `gray_stained_glass` | 159 |
-| Weißer Beton | `white_concrete` | 129 |
+| Glatter Stein | `smooth_stone` | 129 |
 | Grüner Beton | `green_concrete` | 120 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -429,26 +426,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.11 – Palazzo Antinori di Brindisi – Teil 11/21 (Y 75–76)
 
 - **Y-Bereich:** 75 bis 76
-- **Blöcke:** 1.264
+- **Blöcke:** 1.224
 - **Bauteile:** `r4088608`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.032 |
-| Weißer Beton | `white_concrete` | 139 |
-| Graues Buntglas | `gray_stained_glass` | 53 |
-| Grüner Beton | `green_concrete` | 40 |
+| Endsteinziegel | `end_stone_bricks` | 952 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
+| Glatter Stein | `smooth_stone` | 86 |
+| Grüner Beton | `green_concrete` | 80 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -460,25 +457,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.12 – Palazzo Antinori di Brindisi – Teil 12/21 (Y 77–78)
+### Schritt 8.12 – Palazzo Antinori di Brindisi – Teil 12/21 (Y 77–79)
 
-- **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.304
+- **Y-Bereich:** 77 bis 79
+- **Blöcke:** 1.956
 - **Bauteile:** `r4088608`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 968 |
-| Weißer Beton | `white_concrete` | 235 |
-| Glatter Stein | `smooth_stone` | 101 |
+| Endsteinziegel | `end_stone_bricks` | 1.663 |
+| Glatter Stein | `smooth_stone` | 293 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -490,26 +486,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 8.13 – Palazzo Antinori di Brindisi – Teil 13/21 (Y 79–81)
+### Schritt 8.13 – Palazzo Antinori di Brindisi – Teil 13/21 (Y 80–81)
 
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.916
+- **Y-Bereich:** 80 bis 81
+- **Blöcke:** 1.341
 - **Bauteile:** `r4088608`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.684 |
-| Weißer Beton | `white_concrete` | 139 |
-| Graues Buntglas | `gray_stained_glass` | 53 |
-| Grüner Beton | `green_concrete` | 40 |
+| Endsteinziegel | `end_stone_bricks` | 1.208 |
+| Glatter Stein | `smooth_stone` | 133 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -521,7 +515,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.14 – Palazzo Antinori di Brindisi – Teil 14/21 (Y 82–83)
 
@@ -535,12 +529,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 952 |
 | Graues Buntglas | `gray_stained_glass` | 106 |
-| Weißer Beton | `white_concrete` | 86 |
+| Glatter Stein | `smooth_stone` | 86 |
 | Grüner Beton | `green_concrete` | 80 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -552,26 +546,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.15 – Palazzo Antinori di Brindisi – Teil 15/21 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.876
+- **Blöcke:** 1.836
 - **Bauteile:** `r4088608`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.508 |
-| Weißer Beton | `white_concrete` | 182 |
-| Graues Buntglas | `gray_stained_glass` | 106 |
-| Grüner Beton | `green_concrete` | 80 |
+| Endsteinziegel | `end_stone_bricks` | 1.428 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
+| Glatter Stein | `smooth_stone` | 129 |
+| Grüner Beton | `green_concrete` | 120 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -583,7 +577,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.16 – Palazzo Antinori di Brindisi – Teil 16/21 (Y 87–88)
 
@@ -595,12 +589,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.393 |
-| Weißer Beton | `white_concrete` | 139 |
+| Endsteinziegel | `end_stone_bricks` | 1.436 |
+| Glatter Stein | `smooth_stone` | 96 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -612,7 +606,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.17 – Palazzo Antinori di Brindisi – Teil 17/21 (Y 89–89)
 
@@ -628,7 +622,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -640,7 +634,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.18 – Palazzo Antinori di Brindisi – Teil 18/21 (Y 90–90)
 
@@ -656,7 +650,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -668,7 +662,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.19 – Palazzo Antinori di Brindisi – Teil 19/21 (Y 91–91)
 
@@ -684,7 +678,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -696,7 +690,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.20 – Palazzo Antinori di Brindisi – Teil 20/21 (Y 92–93)
 
@@ -713,7 +707,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -725,7 +719,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.21 – Palazzo Antinori di Brindisi – Teil 21/21 (Y 94–98)
 
@@ -742,7 +736,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Grundstücke 1444-47 (Antonio di Tommaso Antinori); Umbau des rechten Teils Giuseppe Poggi 1856 bis ca. 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Antinori_di_Brindisi, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -754,7 +748,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.22 – Palazzo Antinori di Brindisi: Innenausbau – Teil 1/6 (Y 58–68)
 
@@ -801,22 +795,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.23 – Palazzo Antinori di Brindisi: Innenausbau – Teil 2/6 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.603
+- **Blöcke:** 1.609
 - **Bauteile:** `r4088608_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.591 |
+| Terrakotta | `terracotta` | 1.599 |
 | Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 
@@ -837,88 +824,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.24 – Palazzo Antinori di Brindisi: Innenausbau – Teil 3/6 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.585
+- **Blöcke:** 1.579
 - **Bauteile:** `r4088608_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.577 |
+| Terrakotta | `terracotta` | 1.569 |
 | Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.25 – Palazzo Antinori di Brindisi: Innenausbau – Teil 4/6 (Y 69–78)
-
-- **Y-Bereich:** 69 bis 78
-- **Blöcke:** 1.641
-- **Bauteile:** `r4088608_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.580 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.26 – Palazzo Antinori di Brindisi: Innenausbau – Teil 5/6 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.603
-- **Bauteile:** `r4088608_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.591 |
-| Seelaterne | `sea_lantern` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
@@ -943,18 +857,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.27 – Palazzo Antinori di Brindisi: Innenausbau – Teil 6/6 (Y 78–79)
+### Schritt 8.25 – Palazzo Antinori di Brindisi: Innenausbau – Teil 4/6 (Y 69–79)
 
-- **Y-Bereich:** 78 bis 79
-- **Blöcke:** 1.594
+- **Y-Bereich:** 69 bis 79
+- **Blöcke:** 1.645
 - **Bauteile:** `r4088608_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.577 |
+| Terrakotta | `terracotta` | 1.580 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -965,7 +882,79 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 8.26 – Palazzo Antinori di Brindisi: Innenausbau – Teil 5/6 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.609
+- **Bauteile:** `r4088608_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.599 |
+| Seelaterne | `sea_lantern` | 10 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 8.27 – Palazzo Antinori di Brindisi: Innenausbau – Teil 6/6 (Y 79–80)
+
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.588
+- **Bauteile:** `r4088608_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.569 |
+| Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 

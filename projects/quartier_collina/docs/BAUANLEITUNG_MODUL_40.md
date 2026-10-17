@@ -8,31 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 123.162 |
+| Blöcke | 123.240 |
 | Bauschritte | 71 |
 | Y-Bereich | 197 bis 243 |
 | X-Ausdehnung | 1347 bis 1555 (209 Blöcke) |
 | Z-Ausdehnung | 2533 bis 2723 (191 Blöcke) |
 | Kleinster Schritt | 805 Blöcke (Schritt 40.55) |
-| Mittlerer Schritt | 1.735 Blöcke |
+| Mittlerer Schritt | 1.736 Blöcke |
 | Größter Schritt | 2.085 Blöcke (Schritt 40.40) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 53.030 | 43,1 % |
+| Endsteinziegel | `end_stone_bricks` | 43.761 | 35,5 % |
 | Terrakotta | `terracotta` | 41.066 | 33,3 % |
 | Polierter Tuffstein | `polished_tuff` | 13.789 | 11,2 % |
-| Glatter Stein | `smooth_stone` | 6.517 | 5,3 % |
+| Weißer Beton | `white_concrete` | 9.239 | 7,5 % |
+| Glatter Stein | `smooth_stone` | 6.747 | 5,5 % |
 | Tuffstein | `tuff` | 4.789 | 3,9 % |
-| Graues Buntglas | `gray_stained_glass` | 2.964 | 2,4 % |
+| Graues Buntglas | `gray_stained_glass` | 2.844 | 2,3 % |
 | Ziegelsteine | `bricks` | 712 | 0,6 % |
 | Seelaterne | `sea_lantern` | 195 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
@@ -43,7 +44,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 88 |
+| Steintreppe | `stone_stairs` | 86 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -52,8 +53,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1645127` | Convento di San Salvatore al Monte alle Croci | 77.035 | 40.1–40.46 |
 | 2 | `r1645127_innen` | Convento di San Salvatore al Monte alle Croci: Innenausbau | 16.207 | 40.46–40.54 |
-| 3 | `w91371849` | Chiesa di San Salvatore al Monte | 22.436 | 40.55–40.67 |
-| 4 | `w91371849_innen` | Chiesa di San Salvatore al Monte: Innenausbau | 7.484 | 40.68–40.71 |
+| 3 | `w91371849` | Chiesa di San Salvatore al Monte | 22.518 | 40.55–40.67 |
+| 4 | `w91371849_innen` | Chiesa di San Salvatore al Monte: Innenausbau | 7.480 | 40.68–40.71 |
 
 ## Bauschritte
 
@@ -1678,7 +1679,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1690,7 +1691,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.56 – Chiesa di San Salvatore al Monte – Teil 2/13 (Y 201–201)
 
@@ -1706,7 +1707,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1718,7 +1719,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.57 – Chiesa di San Salvatore al Monte – Teil 3/13 (Y 201–201)
 
@@ -1734,7 +1735,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1746,7 +1747,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.58 – Chiesa di San Salvatore al Monte – Teil 4/13 (Y 202–205)
 
@@ -1758,13 +1759,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.479 |
+| Weißer Beton | `white_concrete` | 1.479 |
 | Glatter Stein | `smooth_stone` | 230 |
 | Graues Buntglas | `gray_stained_glass` | 57 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1776,7 +1777,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.59 – Chiesa di San Salvatore al Monte – Teil 5/13 (Y 206–210)
 
@@ -1788,13 +1789,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.279 |
-| Glatter Stein | `smooth_stone` | 374 |
+| Weißer Beton | `white_concrete` | 1.273 |
+| Glatter Stein | `smooth_stone` | 380 |
 | Graues Buntglas | `gray_stained_glass` | 228 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1806,7 +1807,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.60 – Chiesa di San Salvatore al Monte – Teil 6/13 (Y 211–214)
 
@@ -1818,13 +1819,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.622 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Weißer Beton | `white_concrete` | 1.628 |
+| Glatter Stein | `smooth_stone` | 12 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1836,25 +1837,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.61 – Chiesa di San Salvatore al Monte – Teil 7/13 (Y 215–219)
 
 - **Y-Bereich:** 215 bis 219
-- **Blöcke:** 2.027
+- **Blöcke:** 1.945
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.614 |
-| Glatter Stein | `smooth_stone` | 293 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
+| Weißer Beton | `white_concrete` | 1.286 |
+| Glatter Stein | `smooth_stone` | 419 |
+| Graues Buntglas | `gray_stained_glass` | 240 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1866,25 +1867,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.62 – Chiesa di San Salvatore al Monte – Teil 8/13 (Y 220–223)
 
 - **Y-Bereich:** 220 bis 223
-- **Blöcke:** 1.529
+- **Blöcke:** 1.652
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.037 |
-| Glatter Stein | `smooth_stone` | 312 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
+| Weißer Beton | `white_concrete` | 1.350 |
+| Glatter Stein | `smooth_stone` | 302 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1896,25 +1896,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 40.63 – Chiesa di San Salvatore al Monte – Teil 9/13 (Y 224–227)
+### Schritt 40.63 – Chiesa di San Salvatore al Monte – Teil 9/13 (Y 224–228)
 
-- **Y-Bereich:** 224 bis 227
-- **Blöcke:** 1.614
+- **Y-Bereich:** 224 bis 228
+- **Blöcke:** 1.945
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.201 |
-| Glatter Stein | `smooth_stone` | 293 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
+| Weißer Beton | `white_concrete` | 1.286 |
+| Glatter Stein | `smooth_stone` | 419 |
+| Graues Buntglas | `gray_stained_glass` | 240 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1926,25 +1926,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 40.64 – Chiesa di San Salvatore al Monte – Teil 10/13 (Y 228–231)
+### Schritt 40.64 – Chiesa di San Salvatore al Monte – Teil 10/13 (Y 229–231)
 
-- **Y-Bereich:** 228 bis 231
-- **Blöcke:** 1.529
+- **Y-Bereich:** 229 bis 231
+- **Blöcke:** 1.239
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.037 |
-| Glatter Stein | `smooth_stone` | 312 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
+| Weißer Beton | `white_concrete` | 937 |
+| Glatter Stein | `smooth_stone` | 302 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1956,7 +1955,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.65 – Chiesa di San Salvatore al Monte – Teil 11/13 (Y 232–233)
 
@@ -1972,7 +1971,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -1984,7 +1983,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.66 – Chiesa di San Salvatore al Monte – Teil 12/13 (Y 234–235)
 
@@ -2001,7 +2000,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2013,7 +2012,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.67 – Chiesa di San Salvatore al Monte – Teil 13/13 (Y 236–243)
 
@@ -2030,7 +2029,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Umbau 1499-1504, Renaissance (Cronaca)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2042,12 +2041,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 40.68 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 1/4 (Y 201–215)
+### Schritt 40.68 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 1/4 (Y 201–213)
 
-- **Y-Bereich:** 201 bis 215
-- **Blöcke:** 1.903
+- **Y-Bereich:** 201 bis 213
+- **Blöcke:** 1.895
 - **Bauteile:** `w91371849_innen`
 
 **Teileliste**
@@ -2055,10 +2054,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.814 |
-| Glatter Stein | `smooth_stone` | 34 |
+| Glatter Stein | `smooth_stone` | 30 |
 | Seelaterne | `sea_lantern` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 14 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -2067,7 +2066,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 26 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2086,9 +2085,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.69 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 2/4 (Y 215–215)
+### Schritt 40.69 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 2/4 (Y 213–213)
 
-- **Y-Bereich:** 215 bis 215
+- **Y-Bereich:** 213 bis 213
 - **Blöcke:** 1.860
 - **Bauteile:** `w91371849_innen`
 
@@ -2122,10 +2121,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.70 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 3/4 (Y 216–223)
+### Schritt 40.70 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 3/4 (Y 214–222)
 
-- **Y-Bereich:** 216 bis 223
-- **Blöcke:** 1.861
+- **Y-Bereich:** 214 bis 222
+- **Blöcke:** 1.865
 - **Bauteile:** `w91371849_innen`
 
 **Teileliste**
@@ -2133,9 +2132,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.814 |
-| Glatter Stein | `smooth_stone` | 22 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
@@ -2145,7 +2144,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 14 |
+| Steintreppe | `stone_stairs` | 16 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2164,9 +2163,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.71 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 4/4 (Y 223–223)
+### Schritt 40.71 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 4/4 (Y 222–222)
 
-- **Y-Bereich:** 223 bis 223
+- **Y-Bereich:** 222 bis 222
 - **Blöcke:** 1.860
 - **Bauteile:** `w91371849_innen`
 
