@@ -1,11 +1,11 @@
 {
   "id": "w306692128",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "13. Jh. (Rossi d'Oltrarno); 1944 zerstört, Wiederaufbau 1950er",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
@@ -21,11 +21,11 @@
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -46,15 +46,20 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "filaretto_pietraforte_pontevecchio_seite",
+      "bacco_nische_1838",
+      "dachterrasse",
+      "via_guicciardini_seite_modern"
+    ]
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Rossi-Cerchi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Turm der guelfischen Rossi im 13. Jh., 1924-25 mittelalterlich restauriert, 1944 durch deutsche Minen zerstört, Wiederaufbau in den 1950ern (Entwurf Francesco Tiezzi), Filaretto aus Pietraforte zum Ponte Vecchio hin, Seite zur Via Guicciardini modern, Terrasse oben, Bacco-Fontäne in Nische am Sockel. Annahme: Geschosse, Fenster, Achsen.",
   "name": "Torre dei Rossi-Cerchi"
 }

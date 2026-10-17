@@ -8,50 +8,50 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 25.168 |
+| Blöcke | 25.390 |
 | Bauschritte | 16 |
 | Y-Bereich | 60 bis 100 |
 | X-Ausdehnung | -990 bis -937 (54 Blöcke) |
 | Z-Ausdehnung | 1170 bis 1253 (84 Blöcke) |
-| Kleinster Schritt | 737 Blöcke (Schritt 5.16) |
-| Mittlerer Schritt | 1.573 Blöcke |
+| Kleinster Schritt | 957 Blöcke (Schritt 5.16) |
+| Mittlerer Schritt | 1.587 Blöcke |
 | Größter Schritt | 1.948 Blöcke (Schritt 5.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 8.919 | 35,4 % |
-| Terrakotta | `terracotta` | 7.319 | 29,1 % |
-| Polierter Tuffstein | `polished_tuff` | 2.437 | 9,7 % |
+| Weißer Beton | `white_concrete` | 8.919 | 35,1 % |
+| Terrakotta | `terracotta` | 7.516 | 29,6 % |
+| Polierter Tuffstein | `polished_tuff` | 2.437 | 9,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.842 | 7,3 % |
-| Tuffstein | `tuff` | 1.247 | 5,0 % |
-| Graues Buntglas | `gray_stained_glass` | 1.165 | 4,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.195 | 4,7 % |
+| Tuffstein | `tuff` | 1.175 | 4,6 % |
 | Glatter Stein | `smooth_stone` | 1.088 | 4,3 % |
-| Polierter Andesit | `polished_andesite` | 570 | 2,3 % |
+| Polierter Andesit | `polished_andesite` | 627 | 2,5 % |
 | Ziegelsteine | `bricks` | 166 | 0,7 % |
-| Tuffsteinziegel | `tuff_bricks` | 105 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 72 | 0,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 92 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 82 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 70 | 0,3 % |
-| Seelaterne | `sea_lantern` | 37 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,1 % |
+| Seelaterne | `sea_lantern` | 38 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 37 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 21 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 18 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 18 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 15 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 15 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 18 | 0,1 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 56 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 62 |
 | Steintreppe | `stone_stairs` | 40 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -60,8 +60,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1629425` | Palazzo des Ottocento an Via dei Sapiti | 18.315 | 5.1–5.11 |
 | 2 | `r1629425_innen` | Palazzo des Ottocento an Via dei Sapiti: Innenausbau | 3.562 | 5.12–5.13 |
-| 3 | `w306818331` | Torre dei Marsili | 2.554 | 5.14–5.15 |
-| 4 | `w306818331_innen` | Torre dei Marsili: Innenausbau | 732 | 5.16 |
+| 3 | `w306818331` | Torre dei Marsili | 2.556 | 5.14–5.15 |
+| 4 | `w306818331_innen` | Torre dei Marsili: Innenausbau | 952 | 5.16 |
 | 5 | `strassenschilder` | Straßenschilder | 5 | 5.16 |
 
 ## Bauschritte
@@ -492,22 +492,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.14 – Torre dei Marsili – Teil 1/2 (Y 60–77)
 
 - **Y-Bereich:** 60 bis 77
-- **Blöcke:** 1.281
+- **Blöcke:** 1.285
 - **Bauteile:** `w306818331`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 688 |
+| Tuffstein | `tuff` | 683 |
 | Polierter Tuffstein | `polished_tuff` | 270 |
-| Polierter Andesit | `polished_andesite` | 212 |
-| Tuffsteinziegel | `tuff_bricks` | 60 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
+| Polierter Andesit | `polished_andesite` | 205 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 53 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Mittelalter (Ereignisse 1265 und 1380); Restaurierungen um 1830, 1925, 1981-85), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Marsili, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -519,29 +519,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.15 – Torre dei Marsili – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
-- **Blöcke:** 1.273
+- **Blöcke:** 1.271
 - **Bauteile:** `w306818331`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 559 |
+| Tuffstein | `tuff` | 492 |
 | Terrakotta | `terracotta` | 381 |
-| Polierter Andesit | `polished_andesite` | 130 |
+| Polierter Andesit | `polished_andesite` | 194 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
 | Fichtenholz-Bretter | `spruce_planks` | 70 |
-| Graues Buntglas | `gray_stained_glass` | 67 |
-| Tuffsteinziegel | `tuff_bricks` | 45 |
+| Tuffsteinziegel | `tuff_bricks` | 39 |
 | Ziegelsteine | `bricks` | 21 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Mittelalter (Ereignisse 1265 und 1380); Restaurierungen um 1830, 1925, 1981-85), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Marsili, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -553,37 +553,37 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 5.16 – Torre dei Marsili: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 60 bis 84
-- **Blöcke:** 737
+- **Y-Bereich:** 60 bis 85
+- **Blöcke:** 957
 - **Bauteile:** `w306818331_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 591 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
-| Rote Keramik | `red_terracotta` | 9 |
-| Weiße Keramik | `white_terracotta` | 9 |
-| Seelaterne | `sea_lantern` | 4 |
+| Terrakotta | `terracotta` | 788 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 77 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 35 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 19 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Weiße Keramik | `white_terracotta` | 12 |
+| Seelaterne | `sea_lantern` | 5 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 58 |
 
 **Beschreibung**
 
