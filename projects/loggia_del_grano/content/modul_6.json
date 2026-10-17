@@ -1,0 +1,50 @@
+{
+  "module": 6,
+  "title": "Ausstattung",
+  "subtitle": "Bautüte 6: Wappen, Markt und Theater",
+  "icon": "🛡️",
+  "parts": {
+    "wappen": {
+      "title": "Wappen der Rückwand",
+      "description": "Fünf goldgerahmte Schilde (3 × 4 Blöcke) in der Rückwand der Halle: Popolo, Stadt, Parte Guelfa, Staio und die Türme der Capitani di Torre.",
+      "tip": "Die Felder ersetzen Wandblöcke der inneren Lage.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Die Wappenbilder sind nicht nachgebildet, nur die Farbwahl deutet sie an.",
+      "fact": "An der Rückwand des Loggiatos hängen die Wappen des Popolo, der Stadt und der Parte Guelfa sowie das Zeichen des Staio und zwei Türme der Capitani di Torre (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "tafeln": {
+      "title": "Gedenktafeln",
+      "description": "Zwei weiße Marmortafeln mit Goldrand (4 × 2 Blöcke) zwischen den Schilden.",
+      "tip": "Zwei Lagen hoch.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Der Text ist nicht dargestellt.",
+      "fact": "Zwei Gedenktafeln zeigen die Wappen der Capitani di Torre sowie Lilie, Volkskreuz, Guelfenadler und Staio (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "getreidebaenke": {
+      "title": "Getreidebänke",
+      "description": "Drei Verkaufstische aus Holz (4 × 1 Blöcke, eine Lage hoch) in der Halle.",
+      "tip": "Einfach aufsetzen, sie stehen frei.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Die Einrichtung des Marktes ist nicht überliefert.",
+      "fact": "Die Loggia war ein Getreidemarkt und Speicher (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "staio": {
+      "title": "Staio",
+      "description": "Ein Messgefäß aus Bronze (3 × 3 Blöcke, eine Lage hoch) in der Mitte der Halle erinnert an das Getreidemaß der Stadt.",
+      "tip": "Eine Lage hoch, man steigt darüber.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Das Gefäß ist als Block dargestellt; seine Lage ist erfunden.",
+      "fact": "Der Staio steht als Zeichen in den Wappen der Rückwand (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "buehne": {
+      "title": "Bühne",
+      "description": "Im Obergeschoss steht an der Rückwand eine Holzbühne (eine Lage hoch).",
+      "tip": "Eine Lage hoch, begehbar.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Eine Bühnenmaschinerie ist nicht dargestellt.",
+      "fact": "Das 1868 aufgestockte Obergeschoss diente als Teatro della Loggia, später Teatro Salvini (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "sitzreihen": {
+      "title": "Sitzreihen",
+      "description": "Vier Reihen Holzbänke (eine Lage hoch) mit einem Mittelgang im Obergeschoss.",
+      "tip": "Zwischen den Reihen sind Gänge frei.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Die Zahl der Reihen ist Stufe C.",
+      "fact": "Das Obergeschoss war ein Theater, später ein Kino (Ex-Cinema Capitol) (Quelle: it.wikipedia, Loggia del Grano)."
+    }
+  }
+}
