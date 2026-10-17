@@ -1,0 +1,11 @@
+{
+  "id": "forte_belvedere",
+  "title": "Forte di Belvedere",
+  "type": "wahrzeichen",
+  "gebaeude": ["w24879633", "w160800063", "w398240863", "w398240882"],
+  "bodenY": 185,
+  "rahmen": { "ox": -464, "oz": 2242, "thetaDeg": 0 },
+  "masken": {},
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
+}

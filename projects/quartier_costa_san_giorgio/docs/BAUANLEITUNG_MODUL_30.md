@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 30: Isolato I0573 – Via di Belvedere
+# Bauanleitung Modul 30: Isolato I0574 – Via di Belvedere
 
 *Quartier Costa San Giorgio: 1 Haus*
 
@@ -8,67 +8,64 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.999 |
-| Bauschritte | 3 |
-| Y-Bereich | 134 bis 170 |
-| X-Ausdehnung | 363 bis 383 (21 Blöcke) |
-| Z-Ausdehnung | 2214 bis 2228 (15 Blöcke) |
-| Kleinster Schritt | 378 Blöcke (Schritt 30.3) |
-| Mittlerer Schritt | 1.333 Blöcke |
-| Größter Schritt | 1.823 Blöcke (Schritt 30.2) |
+| Blöcke | 17.484 |
+| Bauschritte | 11 |
+| Y-Bereich | 128 bis 171 |
+| X-Ausdehnung | 345 bis 410 (66 Blöcke) |
+| Z-Ausdehnung | 2252 bis 2312 (61 Blöcke) |
+| Kleinster Schritt | 1.242 Blöcke (Schritt 30.11) |
+| Mittlerer Schritt | 1.589 Blöcke |
+| Größter Schritt | 1.911 Blöcke (Schritt 30.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.359 | 59,0 % |
-| Terrakotta | `terracotta` | 479 | 12,0 % |
-| Glatter Stein | `smooth_stone` | 447 | 11,2 % |
-| Polierter Tuffstein | `polished_tuff` | 202 | 5,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 199 | 5,0 % |
-| Graues Buntglas | `gray_stained_glass` | 181 | 4,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 | 1,7 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,7 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 | 0,6 % |
-| Seelaterne | `sea_lantern` | 4 | 0,1 % |
-| Ziegelsteine | `bricks` | 3 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 3 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 3 | 0,1 % |
+| Orange Keramik | `orange_terracotta` | 7.766 | 44,4 % |
+| Terrakotta | `terracotta` | 4.413 | 25,2 % |
+| Glatter Stein | `smooth_stone` | 2.399 | 13,7 % |
+| Polierter Tuffstein | `polished_tuff` | 1.555 | 8,9 % |
+| Graues Buntglas | `gray_stained_glass` | 436 | 2,5 % |
+| Tuffstein | `tuff` | 356 | 2,0 % |
+| Polierter Andesit | `polished_andesite` | 334 | 1,9 % |
+| Ziegelsteine | `bricks` | 92 | 0,5 % |
+| Grüner Beton | `green_concrete` | 56 | 0,3 % |
+| Seelaterne | `sea_lantern` | 24 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 13 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Steintreppe | `stone_stairs` | 40 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758442` | Wohnturm an Via di Belvedere | 3.621 | 30.1–30.2 |
-| 2 | `w397758442_innen` | Wohnturm an Via di Belvedere: Innenausbau | 378 | 30.3 |
+| 1 | `w397758457` | Palazzo des Cinquecento an Via di Belvedere | 14.992 | 30.1–30.9 |
+| 2 | `w397758457_innen` | Palazzo des Cinquecento an Via di Belvedere: Innenausbau | 2.492 | 30.10–30.11 |
 
 ## Bauschritte
 
-### Schritt 30.1 – Wohnturm an Via di Belvedere – Teil 1/2 (Y 134–150)
+### Schritt 30.1 – Palazzo des Cinquecento an Via di Belvedere – Teil 1/9 (Y 128–133)
 
-- **Y-Bereich:** 134 bis 150
-- **Blöcke:** 1.798
-- **Bauteile:** `w397758442`
+- **Y-Bereich:** 128 bis 133
+- **Blöcke:** 1.911
+- **Bauteile:** `w397758457`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.262 |
-| Polierter Tuffstein | `polished_tuff` | 202 |
-| Glatter Stein | `smooth_stone` | 156 |
-| Tuffsteinziegel | `tuff_bricks` | 110 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
+| Polierter Tuffstein | `polished_tuff` | 1.555 |
+| Tuffstein | `tuff` | 356 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -82,26 +79,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.2 – Wohnturm an Via di Belvedere – Teil 2/2 (Y 151–170)
+### Schritt 30.2 – Palazzo des Cinquecento an Via di Belvedere – Teil 2/9 (Y 134–137)
 
-- **Y-Bereich:** 151 bis 170
-- **Blöcke:** 1.823
-- **Bauteile:** `w397758442`
+- **Y-Bereich:** 134 bis 137
+- **Blöcke:** 1.407
+- **Bauteile:** `w397758457`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.097 |
-| Glatter Stein | `smooth_stone` | 291 |
-| Terrakotta | `terracotta` | 230 |
-| Graues Buntglas | `gray_stained_glass` | 113 |
-| Tuffsteinziegel | `tuff_bricks` | 89 |
-| Ziegelsteine | `bricks` | 3 |
+| Orange Keramik | `orange_terracotta` | 1.167 |
+| Glatter Stein | `smooth_stone` | 152 |
+| Polierter Andesit | `polished_andesite` | 46 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -115,33 +112,290 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.3 – Wohnturm an Via di Belvedere: Innenausbau
+### Schritt 30.3 – Palazzo des Cinquecento an Via di Belvedere – Teil 3/9 (Y 138–142)
 
-- **Y-Bereich:** 135 bis 159
-- **Blöcke:** 378
-- **Bauteile:** `w397758442_innen`
+- **Y-Bereich:** 138 bis 142
+- **Blöcke:** 1.750
+- **Bauteile:** `w397758457`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 249 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
-| Seelaterne | `sea_lantern` | 4 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Orange Keramik | `orange_terracotta` | 1.347 |
+| Glatter Stein | `smooth_stone` | 227 |
+| Polierter Andesit | `polished_andesite` | 93 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Grüner Beton | `green_concrete` | 12 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 30.4 – Palazzo des Cinquecento an Via di Belvedere – Teil 4/9 (Y 143–146)
+
+- **Y-Bereich:** 143 bis 146
+- **Blöcke:** 1.443
+- **Bauteile:** `w397758457`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 984 |
+| Glatter Stein | `smooth_stone` | 386 |
+| Polierter Andesit | `polished_andesite` | 35 |
+| Graues Buntglas | `gray_stained_glass` | 34 |
+| Grüner Beton | `green_concrete` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 30.5 – Palazzo des Cinquecento an Via di Belvedere – Teil 5/9 (Y 147–151)
+
+- **Y-Bereich:** 147 bis 151
+- **Blöcke:** 1.731
+- **Bauteile:** `w397758457`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.255 |
+| Glatter Stein | `smooth_stone` | 279 |
+| Graues Buntglas | `gray_stained_glass` | 136 |
+| Polierter Andesit | `polished_andesite` | 45 |
+| Grüner Beton | `green_concrete` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 30.6 – Palazzo des Cinquecento an Via di Belvedere – Teil 6/9 (Y 152–156)
+
+- **Y-Bereich:** 152 bis 156
+- **Blöcke:** 1.802
+- **Bauteile:** `w397758457`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.194 |
+| Glatter Stein | `smooth_stone` | 520 |
+| Polierter Andesit | `polished_andesite` | 50 |
+| Graues Buntglas | `gray_stained_glass` | 34 |
+| Grüner Beton | `green_concrete` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 30.7 – Palazzo des Cinquecento an Via di Belvedere – Teil 7/9 (Y 157–161)
+
+- **Y-Bereich:** 157 bis 161
+- **Blöcke:** 1.731
+- **Bauteile:** `w397758457`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.255 |
+| Glatter Stein | `smooth_stone` | 279 |
+| Graues Buntglas | `gray_stained_glass` | 136 |
+| Polierter Andesit | `polished_andesite` | 45 |
+| Grüner Beton | `green_concrete` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 30.8 – Palazzo des Cinquecento an Via di Belvedere – Teil 8/9 (Y 162–164)
+
+- **Y-Bereich:** 162 bis 164
+- **Blöcke:** 1.877
+- **Bauteile:** `w397758457`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 789 |
+| Orange Keramik | `orange_terracotta` | 564 |
+| Glatter Stein | `smooth_stone` | 504 |
+| Polierter Andesit | `polished_andesite` | 20 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 30.9 – Palazzo des Cinquecento an Via di Belvedere – Teil 9/9 (Y 165–171)
+
+- **Y-Bereich:** 165 bis 171
+- **Blöcke:** 1.340
+- **Bauteile:** `w397758457`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.248 |
+| Ziegelsteine | `bricks` | 92 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 30.10 – Palazzo des Cinquecento an Via di Belvedere: Innenausbau – Teil 1/2 (Y 133–143)
+
+- **Y-Bereich:** 133 bis 143
+- **Blöcke:** 1.250
+- **Bauteile:** `w397758457_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.188 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 16 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Steintreppe | `stone_stairs` | 20 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 30.11 – Palazzo des Cinquecento an Via di Belvedere: Innenausbau – Teil 2/2 (Y 144–153)
+
+- **Y-Bereich:** 144 bis 153
+- **Blöcke:** 1.242
+- **Bauteile:** `w397758457_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.188 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Seelaterne | `sea_lantern` | 8 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

@@ -1,0 +1,11 @@
+{
+  "id": "loggia_del_grano",
+  "title": "Loggia del Grano",
+  "type": "wahrzeichen",
+  "gebaeude": ["w307129126"],
+  "bodenY": 61,
+  "rahmen": { "ox": 14.5, "oz": 997.5, "thetaDeg": 33.69 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

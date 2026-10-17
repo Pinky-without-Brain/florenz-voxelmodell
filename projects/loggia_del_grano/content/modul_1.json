@@ -1,0 +1,22 @@
+{
+  "module": 1,
+  "title": "Pfeiler und Arkaden",
+  "subtitle": "Bautüte 1: Erdgeschosshalle mit Rundbögen",
+  "icon": "🏛️",
+  "parts": {
+    "pfeiler": {
+      "title": "Pfeiler",
+      "description": "Die Stützen der Arkaden: vier bossierte Eckpfeiler aus rustiziertem Pietra forte und dazwischen Stützen aus Pietra serena mit Kämpfer auf Lage 5.",
+      "tip": "Setze zuerst die Eckpfeiler.",
+      "caution": "Die toskanischen Säulen sind als Pfeiler vereinfacht.",
+      "fact": "Die Bögen ruhen auf toskanischen Säulen, an den Ecken stehen Pfeiler mit Bossenwerk (Quelle: it.wikipedia, Loggia del Grano)."
+    },
+    "arkadenwand": {
+      "title": "Arkaden und Rückwand",
+      "description": "Drei Rundbögen an der Stirnseite, zwei an jeder Seite (bis zum Boden offen, bis 10 Blöcke hoch), geschlossene Rückwand; darüber das Gebälk auf Lage 11.",
+      "tip": "Die Rückwand bleibt geschlossen.",
+      "caution": "Die Gitter vor den Bögen sind nicht nachgebildet.",
+      "fact": "Die Loggia hat drei Bögen an der Stirnseite und zwei an jeder Seite (Quelle: it.wikipedia, Loggia del Grano)."
+    }
+  }
+}

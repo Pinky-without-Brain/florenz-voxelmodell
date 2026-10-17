@@ -1,0 +1,29 @@
+{
+  "module": 7,
+  "title": "Ausstattung",
+  "subtitle": "Bautüte 7: Medici-Wappen, Uhr und Schachtbrunnen",
+  "icon": "🕰️",
+  "parts": {
+    "torwappen": {
+      "title": "Wappen der Medici über dem Tor",
+      "description": "Ein goldgerahmtes Schild (5 × 2 Blöcke) in der Brüstung über dem Tor, mit roten und weißen Feldern.",
+      "tip": "Die Felder ersetzen Brüstungsblöcke auf Lage 6 und 7.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Die Kugeln des Medici-Wappens sind nicht nachgebildet, nur die Farben deuten sie an.",
+      "fact": "Das Portal auf der Ostseite zwischen zwei Bastionen der Kurtine trägt ein Wappen der Medici (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "uhr": {
+      "title": "Uhr der Palazzina",
+      "description": "Ein rundes Zifferblatt (5 Blöcke) mit goldenem Rand und dunklen Zeigerachsen an der Nordfassade der Palazzina.",
+      "tip": "Die Felder ersetzen Wandblöcke der Außenlage.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Die Zeigerstellung ist nicht dargestellt.",
+      "fact": "Die Uhr an der Nordfassade der Palazzina ist ein Zusatz des 18. Jahrhunderts (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "pozzo": {
+      "title": "Schachtbrunnen",
+      "description": "Ein Kranz aus Pietra forte (3 × 3 Blöcke, eine Lage hoch) mit einem Bronzedeckel in der Mitte der Halle der Palazzina.",
+      "tip": "Eine Lage hoch, man kann darüber steigen.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Die Lage im Haus und die Tiefe des Schachts sind nicht überliefert; die Schatzkammer darunter ist nicht gebaut.",
+      "fact": "Von der Palazzina aus führt ein in den Fels gegrabener Brunnenschacht zu einer Schatzkammer (Quelle: it.wikipedia, Forte Belvedere)."
+    }
+  }
+}

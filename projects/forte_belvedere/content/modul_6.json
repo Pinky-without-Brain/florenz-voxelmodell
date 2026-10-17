@@ -1,0 +1,15 @@
+{
+  "module": 6,
+  "title": "Licht",
+  "subtitle": "Bautüte 6: Seelaternen im Torweg und in der Palazzina",
+  "icon": "💡",
+  "parts": {
+    "licht": {
+      "title": "Licht",
+      "description": "Seelaternen im Boden des Torwegs und der Räume der Palazzina, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Lampen ersetzen Bodenblöcke.",
+      "caution": "Die Lampen sind unauffällig, aber hell.",
+      "fact": "Ohne Licht wären die Räume im Spiel dunkel."
+    }
+  }
+}

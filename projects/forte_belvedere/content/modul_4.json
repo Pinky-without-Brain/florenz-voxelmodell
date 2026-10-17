@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Stufen zur Wallkrone",
+  "subtitle": "Bautüte 4: Treppen vom Hof auf die Wälle",
+  "icon": "🪜",
+  "parts": {
+    "wallstufen": {
+      "title": "Stufen zur Wallkrone",
+      "description": "Zwanzig Treppen aus Treppenblöcken (3 breit, fünf Stufen, Stützmauerwerk darunter) führen von der Hoffläche auf die Wallkrone, rund um den Umriss verteilt.",
+      "tip": "Setze die Stufen von unten nach oben.",
+      "caution": "Zahl und Lage der Treppen sind Stufe C.",
+      "fact": "Die Wälle sind begehbar; Treppen und Rampen verbinden die Terrassen (Quelle: it.wikipedia, Forte Belvedere)."
+    }
+  }
+}

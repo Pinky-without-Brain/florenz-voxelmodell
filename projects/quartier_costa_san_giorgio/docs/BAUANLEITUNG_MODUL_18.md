@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 18: Isolato I0493 – Costa San Giorgio
+# Bauanleitung Modul 18: Isolato I0496 – Via del Forte di San Giorgio
 
 *Quartier Costa San Giorgio: 1 Haus*
 
@@ -8,68 +8,72 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 18.770 |
-| Bauschritte | 12 |
-| Y-Bereich | 177 bis 216 |
-| X-Ausdehnung | -252 bis -188 (65 Blöcke) |
-| Z-Ausdehnung | 2148 bis 2216 (69 Blöcke) |
-| Kleinster Schritt | 1.313 Blöcke (Schritt 18.12) |
-| Mittlerer Schritt | 1.564 Blöcke |
-| Größter Schritt | 1.966 Blöcke (Schritt 18.9) |
+| Blöcke | 3.787 |
+| Bauschritte | 3 |
+| Y-Bereich | 175 bis 210 |
+| X-Ausdehnung | -229 bis -209 (21 Blöcke) |
+| Z-Ausdehnung | 2090 bis 2106 (17 Blöcke) |
+| Kleinster Schritt | 348 Blöcke (Schritt 18.3) |
+| Mittlerer Schritt | 1.262 Blöcke |
+| Größter Schritt | 1.766 Blöcke (Schritt 18.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 8.996 | 47,9 % |
-| Terrakotta | `terracotta` | 4.680 | 24,9 % |
-| Polierter Tuffstein | `polished_tuff` | 1.668 | 8,9 % |
-| Weißer Beton | `white_concrete` | 1.205 | 6,4 % |
-| Glatter Stein | `smooth_stone` | 828 | 4,4 % |
-| Graues Buntglas | `gray_stained_glass` | 704 | 3,8 % |
-| Polierter Andesit | `polished_andesite` | 476 | 2,5 % |
-| Ziegelsteine | `bricks` | 109 | 0,6 % |
-| Tuffstein | `tuff` | 26 | 0,1 % |
-| Seelaterne | `sea_lantern` | 24 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 6 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Rosa Keramik | `pink_terracotta` | 2.294 | 60,6 % |
+| Terrakotta | `terracotta` | 527 | 13,9 % |
+| Weißer Beton | `white_concrete` | 365 | 9,6 % |
+| Polierter Tuffstein | `polished_tuff` | 180 | 4,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 125 | 3,3 % |
+| Graues Buntglas | `gray_stained_glass` | 122 | 3,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 1,8 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 | 0,7 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 | 0,6 % |
+| Grüner Beton | `green_concrete` | 20 | 0,5 % |
+| Polierter Andesit | `polished_andesite` | 19 | 0,5 % |
+| Seelaterne | `sea_lantern` | 4 | 0,1 % |
+| Ziegelsteine | `bricks` | 3 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 3 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 3 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119229746` | Palazzo des Ottocento an Costa San Giorgio | 16.142 | 18.1–18.10 |
-| 2 | `w119229746_innen` | Palazzo des Ottocento an Costa San Giorgio: Innenausbau | 2.626 | 18.11–18.12 |
-| 3 | `strassenschilder` | Straßenschilder | 2 | 18.12 |
+| 1 | `w119220014` | Reihenhaus an Via del Forte di San Giorgio | 3.439 | 18.1–18.2 |
+| 2 | `w119220014_innen` | Reihenhaus an Via del Forte di San Giorgio: Innenausbau | 348 | 18.3 |
 
 ## Bauschritte
 
-### Schritt 18.1 – Palazzo des Ottocento an Costa San Giorgio – Teil 1/10 (Y 177–178)
+### Schritt 18.1 – Reihenhaus an Via del Forte di San Giorgio – Teil 1/2 (Y 175–192)
 
-- **Y-Bereich:** 177 bis 178
-- **Blöcke:** 1.694
-- **Bauteile:** `w119229746`
+- **Y-Bereich:** 175 bis 192
+- **Blöcke:** 1.766
+- **Bauteile:** `w119220014`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.668 |
-| Tuffstein | `tuff` | 26 |
+| Rosa Keramik | `pink_terracotta` | 1.323 |
+| Polierter Tuffstein | `polished_tuff` | 180 |
+| Weißer Beton | `white_concrete` | 180 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Polierter Andesit | `polished_andesite` | 19 |
+| Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -83,25 +87,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.2 – Palazzo des Ottocento an Costa San Giorgio – Teil 2/10 (Y 179–182)
+### Schritt 18.2 – Reihenhaus an Via del Forte di San Giorgio – Teil 2/2 (Y 193–210)
 
-- **Y-Bereich:** 179 bis 182
-- **Blöcke:** 1.538
-- **Bauteile:** `w119229746`
+- **Y-Bereich:** 193 bis 210
+- **Blöcke:** 1.673
+- **Bauteile:** `w119220014`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.142 |
-| Graues Buntglas | `gray_stained_glass` | 139 |
-| Glatter Stein | `smooth_stone` | 96 |
-| Weißer Beton | `white_concrete` | 93 |
-| Polierter Andesit | `polished_andesite` | 68 |
+| Rosa Keramik | `pink_terracotta` | 971 |
+| Terrakotta | `terracotta` | 311 |
+| Weißer Beton | `white_concrete` | 185 |
+| Fichtenholz-Bretter | `spruce_planks` | 125 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Grüner Beton | `green_concrete` | 12 |
+| Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -115,278 +121,35 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.3 – Palazzo des Ottocento an Costa San Giorgio – Teil 3/10 (Y 183–186)
+### Schritt 18.3 – Reihenhaus an Via del Forte di San Giorgio: Innenausbau
 
-- **Y-Bereich:** 183 bis 186
-- **Blöcke:** 1.525
-- **Bauteile:** `w119229746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.013 |
-| Graues Buntglas | `gray_stained_glass` | 205 |
-| Weißer Beton | `white_concrete` | 142 |
-| Glatter Stein | `smooth_stone` | 97 |
-| Polierter Andesit | `polished_andesite` | 68 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.4 – Palazzo des Ottocento an Costa San Giorgio – Teil 4/10 (Y 187–190)
-
-- **Y-Bereich:** 187 bis 190
-- **Blöcke:** 1.644
-- **Bauteile:** `w119229746`
+- **Y-Bereich:** 175 bis 199
+- **Blöcke:** 348
+- **Bauteile:** `w119220014_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.229 |
-| Glatter Stein | `smooth_stone` | 315 |
-| Weißer Beton | `white_concrete` | 56 |
-| Polierter Andesit | `polished_andesite` | 44 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.5 – Palazzo des Ottocento an Costa San Giorgio – Teil 5/10 (Y 191–194)
-
-- **Y-Bereich:** 191 bis 194
-- **Blöcke:** 1.587
-- **Bauteile:** `w119229746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.155 |
-| Weißer Beton | `white_concrete` | 256 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Polierter Andesit | `polished_andesite` | 68 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.6 – Palazzo des Ottocento an Costa San Giorgio – Teil 6/10 (Y 195–198)
-
-- **Y-Bereich:** 195 bis 198
-- **Blöcke:** 1.606
-- **Bauteile:** `w119229746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.007 |
-| Glatter Stein | `smooth_stone` | 268 |
-| Weißer Beton | `white_concrete` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Polierter Andesit | `polished_andesite` | 58 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.7 – Palazzo des Ottocento an Costa San Giorgio – Teil 7/10 (Y 199–202)
-
-- **Y-Bereich:** 199 bis 202
-- **Blöcke:** 1.606
-- **Bauteile:** `w119229746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.265 |
-| Weißer Beton | `white_concrete` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Polierter Andesit | `polished_andesite` | 68 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.8 – Palazzo des Ottocento an Costa San Giorgio – Teil 8/10 (Y 203–206)
-
-- **Y-Bereich:** 203 bis 206
-- **Blöcke:** 1.587
-- **Bauteile:** `w119229746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.155 |
-| Weißer Beton | `white_concrete` | 256 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Polierter Andesit | `polished_andesite` | 68 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.9 – Palazzo des Ottocento an Costa San Giorgio – Teil 9/10 (Y 207–209)
-
-- **Y-Bereich:** 207 bis 209
-- **Blöcke:** 1.966
-- **Bauteile:** `w119229746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.030 |
-| Terrakotta | `terracotta` | 902 |
-| Polierter Andesit | `polished_andesite` | 34 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.10 – Palazzo des Ottocento an Costa San Giorgio – Teil 10/10 (Y 210–216)
-
-- **Y-Bereich:** 210 bis 216
-- **Blöcke:** 1.389
-- **Bauteile:** `w119229746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.280 |
-| Ziegelsteine | `bricks` | 109 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.11 – Palazzo des Ottocento an Costa San Giorgio: Innenausbau – Teil 1/2 (Y 178–189)
-
-- **Y-Bereich:** 178 bis 189
-- **Blöcke:** 1.315
-- **Bauteile:** `w119229746_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.249 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Terrakotta | `terracotta` | 216 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Seelaterne | `sea_lantern` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -399,45 +162,3 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 **Fakt**
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 18.12 – Palazzo des Ottocento an Costa San Giorgio: Innenausbau – Teil 2/2 (Y 190–199) & Straßenschilder
-
-- **Y-Bereich:** 185 bis 199
-- **Blöcke:** 1.313
-- **Bauteile:** `w119229746_innen`, `strassenschilder`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.249 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

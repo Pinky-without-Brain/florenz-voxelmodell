@@ -1,0 +1,11 @@
+{
+  "id": "torre_alberti",
+  "title": "Torre degli Alberti",
+  "type": "wahrzeichen",
+  "gebaeude": ["w307106612"],
+  "bodenY": 61,
+  "rahmen": { "ox": 469, "oz": 1158.5, "thetaDeg": -17.2 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

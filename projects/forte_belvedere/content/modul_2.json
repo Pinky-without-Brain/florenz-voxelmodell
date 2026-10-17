@@ -1,0 +1,22 @@
+{
+  "module": 2,
+  "title": "Bastionen und Brüstung",
+  "subtitle": "Bautüte 2: Plattformen der Bastionsspitzen und Brüstung",
+  "icon": "🛡️",
+  "parts": {
+    "plattformen": {
+      "title": "Bastionsplattformen",
+      "description": "An den spitzen Ecken des Umrisses (Radius 15 Blöcke) liegt die Fläche massiv bis zur Wallkrone auf Lage 5: die Bastionen für die Geschütze.",
+      "tip": "Der Rand zum Hof ist mit Pietra forte verkleidet.",
+      "caution": "Welche Ecken Bastionen sind, ist aus dem Umriss abgeleitet (spitzer Winkel, lange Kanten).",
+      "fact": "Die Festung hat bastionierte Fronten im Norden und Süden und zangenförmige im Osten und Westen (Quelle: it.wikipedia, Forte Belvedere)."
+    },
+    "brustwehr": {
+      "title": "Brüstung",
+      "description": "Eine zwei Blöcke dicke und zwei Lagen hohe Brüstung aus Pietra forte (Lage 6 und 7) begleitet die Wallkrone auf der Außenseite; Zinnen und Schießscharten fehlen.",
+      "tip": "Setze zwei Lagen auf die äußeren Blöcke der Krone.",
+      "caution": "Schießscharten sind nicht belegt und nicht gebaut.",
+      "fact": "Die Wälle der Festung sind begehbar (Quelle: it.wikipedia, Forte Belvedere)."
+    }
+  }
+}
