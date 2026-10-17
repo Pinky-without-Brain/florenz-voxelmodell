@@ -4,7 +4,7 @@
 
 *Projekt `quartier_romana`, Art: quartier*
 
-**Statistik (generiert):** 2.252.009 Blöcke in 1.386 Bauschritten, 47 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.252.005 Blöcke in 1.386 Bauschritten, 47 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -2974 bis -1616, Y 58 bis 171, Z 2024 bis 2734.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -49,14 +49,14 @@ Ausdehnung des Modells: X -2974 bis -1616, Y 58 bis 171, Z 2024 bis 2734.
 | 37 | Isolato I0235 | 11.574 | 7 | [BAUANLEITUNG_MODUL_37.md](BAUANLEITUNG_MODUL_37.md) |
 | 38 | Isolato I0245 – Via Romana | 415.815 | 251 | [BAUANLEITUNG_MODUL_38.md](BAUANLEITUNG_MODUL_38.md) |
 | 39 | Isolato I0246 – Via dei Mori | 43.089 | 25 | [BAUANLEITUNG_MODUL_39.md](BAUANLEITUNG_MODUL_39.md) |
-| 40 | Isolato I0254 – Via dei Mori | 18.622 | 12 | [BAUANLEITUNG_MODUL_40.md](BAUANLEITUNG_MODUL_40.md) |
+| 40 | Isolato I0254 – Via dei Mori | 18.618 | 12 | [BAUANLEITUNG_MODUL_40.md](BAUANLEITUNG_MODUL_40.md) |
 | 41 | Isolato I0260 | 7.137 | 5 | [BAUANLEITUNG_MODUL_41.md](BAUANLEITUNG_MODUL_41.md) |
 | 42 | Isolato I0261 – Via dei Mori | 911 | 1 | [BAUANLEITUNG_MODUL_42.md](BAUANLEITUNG_MODUL_42.md) |
 | 43 | Isolato I0267 | 5.296 | 4 | [BAUANLEITUNG_MODUL_43.md](BAUANLEITUNG_MODUL_43.md) |
 | 44 | Isolato I0273 – Via del Ronco | 213.928 | 130 | [BAUANLEITUNG_MODUL_44.md](BAUANLEITUNG_MODUL_44.md) |
 | 45 | Isolato I0279 – Via Romana | 1.758 | 1 | [BAUANLEITUNG_MODUL_45.md](BAUANLEITUNG_MODUL_45.md) |
 | 46 | Isolato I0283 | 50.973 | 30 | [BAUANLEITUNG_MODUL_46.md](BAUANLEITUNG_MODUL_46.md) |
-| | **Summe** | **2.252.009** | **1.386** | |
+| | **Summe** | **2.252.005** | **1.386** | |
 
 ## Gesamt-Stückliste
 
@@ -72,9 +72,9 @@ Ausdehnung des Modells: X -2974 bis -1616, Y 58 bis 171, Z 2024 bis 2734.
 | Orange Keramik | `orange_terracotta` | 128.262 | 5,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 97.926 | 4,3 % |
 | Rosa Keramik | `pink_terracotta` | 78.475 | 3,5 % |
-| Graues Buntglas | `gray_stained_glass` | 66.816 | 3,0 % |
-| Glatter Stein | `smooth_stone` | 66.804 | 3,0 % |
-| Polierter Andesit | `polished_andesite` | 63.351 | 2,8 % |
+| Glatter Stein | `smooth_stone` | 67.693 | 3,0 % |
+| Graues Buntglas | `gray_stained_glass` | 66.825 | 3,0 % |
+| Polierter Andesit | `polished_andesite` | 62.451 | 2,8 % |
 | Grüner Beton | `green_concrete` | 22.482 | 1,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 13.619 | 0,6 % |
 | Ziegelsteine | `bricks` | 12.444 | 0,6 % |
@@ -88,7 +88,7 @@ Ausdehnung des Modells: X -2974 bis -1616, Y 58 bis 171, Z 2024 bis 2734.
 | Rote Keramik | `red_terracotta` | 1.065 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 1.065 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 480 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 444 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 442 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 394 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 386 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 224 | 0,0 % |
@@ -105,5 +105,5 @@ Ausdehnung des Modells: X -2974 bis -1616, Y 58 bis 171, Z 2024 bis 2734.
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 7.072 |
-| Steintreppe | `stone_stairs` | 1.704 |
+| Steintreppe | `stone_stairs` | 1.702 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 490 |

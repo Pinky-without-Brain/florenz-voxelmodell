@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 18.622 |
+| Blöcke | 18.618 |
 | Bauschritte | 12 |
 | Y-Bereich | 64 bis 102 |
 | X-Ausdehnung | -2042 bis -1982 (61 Blöcke) |
@@ -24,13 +24,13 @@
 | Weißer Beton | `white_concrete` | 9.946 | 53,4 % |
 | Terrakotta | `terracotta` | 4.575 | 24,6 % |
 | Polierter Tuffstein | `polished_tuff` | 1.665 | 8,9 % |
-| Polierter Andesit | `polished_andesite` | 1.032 | 5,5 % |
-| Glatter Stein | `smooth_stone` | 436 | 2,3 % |
+| Glatter Stein | `smooth_stone` | 1.325 | 7,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 434 | 2,3 % |
-| Graues Buntglas | `gray_stained_glass` | 326 | 1,8 % |
+| Graues Buntglas | `gray_stained_glass` | 335 | 1,8 % |
+| Polierter Andesit | `polished_andesite` | 132 | 0,7 % |
 | Ziegelsteine | `bricks` | 84 | 0,5 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,2 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 42 | 0,2 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,2 % |
 | Seelaterne | `sea_lantern` | 27 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,1 % |
 
@@ -38,7 +38,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 84 |
+| Steintreppe | `stone_stairs` | 82 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -47,7 +47,7 @@
 | 1 | `w118948108` | Palazzo des Cinquecento an Via dei Mori | 6.992 | 40.1–40.4 |
 | 2 | `w118948108_innen` | Palazzo des Cinquecento an Via dei Mori: Innenausbau | 501 | 40.5 |
 | 3 | `w306378148` | Chiesa di San Pier Gattolino | 8.915 | 40.6–40.10 |
-| 4 | `w306378148_innen` | Chiesa di San Pier Gattolino: Innenausbau | 2.214 | 40.11–40.12 |
+| 4 | `w306378148_innen` | Chiesa di San Pier Gattolino: Innenausbau | 2.210 | 40.11–40.12 |
 
 ## Bauschritte
 
@@ -233,11 +233,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.254 |
 | Weißer Beton | `white_concrete` | 447 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (16.-17. Jh. (Renaissance und Barock), nach Zerstörung 1545-47 wiedererrichtet), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Gattolino, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -249,7 +249,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.7 – Chiesa di San Pier Gattolino – Teil 2/5 (Y 67–76)
 
@@ -262,12 +262,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.608 |
-| Polierter Andesit | `polished_andesite` | 282 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
+| Glatter Stein | `smooth_stone` | 273 |
+| Graues Buntglas | `gray_stained_glass` | 53 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (16.-17. Jh. (Renaissance und Barock), nach Zerstörung 1545-47 wiedererrichtet), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Gattolino, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -279,7 +279,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.8 – Chiesa di San Pier Gattolino – Teil 3/5 (Y 77–85)
 
@@ -291,13 +291,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.437 |
-| Polierter Andesit | `polished_andesite` | 256 |
+| Weißer Beton | `white_concrete` | 1.387 |
+| Glatter Stein | `smooth_stone` | 306 |
 | Graues Buntglas | `gray_stained_glass` | 55 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (16.-17. Jh. (Renaissance und Barock), nach Zerstörung 1545-47 wiedererrichtet), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Gattolino, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -309,7 +309,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.9 – Chiesa di San Pier Gattolino – Teil 4/5 (Y 86–94)
 
@@ -321,13 +321,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.449 |
-| Polierter Andesit | `polished_andesite` | 356 |
+| Weißer Beton | `white_concrete` | 1.499 |
+| Glatter Stein | `smooth_stone` | 306 |
 | Graues Buntglas | `gray_stained_glass` | 55 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (16.-17. Jh. (Renaissance und Barock), nach Zerstörung 1545-47 wiedererrichtet), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Gattolino, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -339,7 +339,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 40.10 – Chiesa di San Pier Gattolino – Teil 5/5 (Y 95–102)
 
@@ -356,7 +356,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (16.-17. Jh. (Renaissance und Barock), nach Zerstörung 1545-47 wiedererrichtet), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Gattolino, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -368,12 +368,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 40.11 – Chiesa di San Pier Gattolino: Innenausbau – Teil 1/2 (Y 64–78)
+### Schritt 40.11 – Chiesa di San Pier Gattolino: Innenausbau – Teil 1/2 (Y 64–76)
 
-- **Y-Bereich:** 64 bis 78
-- **Blöcke:** 1.122
+- **Y-Bereich:** 64 bis 76
+- **Blöcke:** 1.114
 - **Bauteile:** `w306378148_innen`
 
 **Teileliste**
@@ -381,16 +381,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.048 |
-| Glatter Stein | `smooth_stone` | 34 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 14 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 14 |
+| Glatter Stein | `smooth_stone` | 30 |
 | Seelaterne | `sea_lantern` | 12 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
+| Steintreppe | `stone_stairs` | 24 |
 
 **Beschreibung**
 
@@ -408,10 +408,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.12 – Chiesa di San Pier Gattolino: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 40.12 – Chiesa di San Pier Gattolino: Innenausbau – Teil 2/2 (Y 77–85)
 
-- **Y-Bereich:** 79 bis 86
-- **Blöcke:** 1.092
+- **Y-Bereich:** 77 bis 85
+- **Blöcke:** 1.096
 - **Bauteile:** `w306378148_innen`
 
 **Teileliste**
@@ -419,8 +419,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.048 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Seelaterne | `sea_lantern` | 6 |
 
@@ -428,7 +428,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 18 |
 
 **Beschreibung**
 
