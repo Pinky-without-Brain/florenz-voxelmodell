@@ -1,0 +1,71 @@
+{
+  "module": 6,
+  "title": "Museumssäle, Cortile und Portal",
+  "subtitle": "Bautüte 6: Androne, Salone del Nicchio, Cortile dei Fiorentini, Museumssäle, Portalsäulen",
+  "icon": "🏺",
+  "parts": {
+    "androne": {
+      "title": "Androne",
+      "description": "Die Eingangshalle hinter dem Portal an der Via della Colonna ist ein schmaler Gang zwischen zwei Wänden und führt zum Cortile. Der Boden hat ein Schachmuster aus Pflaster und Marmor, die Wandfelder sind weiß und gelb zwischen Pilastern aus Pietra serena, die Decke eine Kassettenverkleidung.",
+      "tip": "Boden zuerst, dann die Wandfelder, die Decke zuletzt.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Raumfolge hinter dem Portal ist nicht belegt.",
+      "fact": "Der Haupteingang lag an der Via della Colonna 38; die Portalsäulen setzte Paolo Comotto 1865 bis 1871 (Quelle: it.wikipedia, Palazzo della Crocetta)."
+    },
+    "salone_nicchio": {
+      "title": "Salone del Nicchio",
+      "description": "Der Saal im Erdgeschoss des Westflügels neben dem Eingang an der Via Gino Capponi hat einen Cotto-Marmor-Schachboden, Wandfelder in Weiß und Gelb und eine Kassettendecke aus Pietra serena mit Goldfeldern.",
+      "tip": "Boden, Wandfelder, dann die Decke.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Das Nicchio (die Muschelnische) ist nicht nachgebaut.",
+      "fact": "Der Salone del Nicchio liegt neben dem Eingang und zeigt Sonderausstellungen (Quelle: it.wikipedia, Museo archeologico nazionale (Firenze))."
+    },
+    "cortile": {
+      "title": "Cortile dei Fiorentini",
+      "description": "Der offene Hof im Ostflügel (72 × 30 Blöcke) hat ein Schachmuster aus Pflaster und Marmor mit Mittelstreifen aus Pietra serena und eine Statue auf einem Sockel aus Pietra serena.",
+      "tip": "Erst die Streifen, dann das Schachmuster.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Statue ist eine Blockfigur ohne Vorbild.",
+      "fact": "Der Hof „Cortile dei Fiorentini“ ist in OpenStreetMap als Teilfläche des Palastes erfasst; seine Gestaltung ist Stufe C."
+    },
+    "museo_egizio": {
+      "title": "Ägyptische Sammlung (Piano 1)",
+      "description": "Im ersten Obergeschoss des Ostflügels liegen drei Säle mit Cotto-Marmor-Schachboden, Wandfeldern, Kassettendecke und Vitrinenreihen aus Glasblöcken. Ein Streitwagen aus Holz steht im Saal an der Via della Colonna.",
+      "tip": "Die Vitrinen sind eine Lage hoch.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Vitrinen sind leer.",
+      "fact": "Das erste Obergeschoss zeigt die Ägyptische Sammlung; dazu gehören ein Streitwagen aus dem 15. Jahrhundert v. Chr., ein Relief der Maat und Fayum-Porträts (Quelle: it.wikipedia, Museo archeologico nazionale (Firenze))."
+    },
+    "sala_chimera": {
+      "title": "Sala della Chimera",
+      "description": "Im Westflügel steht die Chimäre von Arezzo als Bronzeblock-Figur auf einem Sockel; daneben der Arringatore mit erhobenem Arm und die Minerva von Arezzo. Die Decke ist als bemalter Himmel mit Wolken und einem Goldband gestaltet.",
+      "tip": "Sockel zuerst, dann die Figuren.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Chimäre ist als Raubtier ohne Ziegenkopf nachgebildet.",
+      "fact": "Der Saal mit der Chimäre ist von Filippo Tarchiani ausgemalt, dort steht auch der Arringatore (Quelle: it.wikipedia, Museo archeologico nazionale (Firenze))."
+    },
+    "corridoio_maddalena": {
+      "title": "Corridoio di Maria Maddalena",
+      "description": "Zwei Säle im Vorderflügel mit Vitrinenreihen, vereinfacht für den Korridor mit den Kameen der Medici und der Lothringer.",
+      "tip": "Wie in den anderen Sälen: Boden, Wände, Decke, Vitrinen.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Der echte Korridor ist ein erhöhter Gang zur Santissima Annunziata, der hier nicht nachgebaut ist.",
+      "fact": "Maria Maddalena nutzte einen erhöhten Korridor nach Art des Vasari-Korridors; heute zeigt ein Gang Kameen der Medici und der Lothringer (Quelle: it.wikipedia, Palazzo della Crocetta; Museo archeologico nazionale)."
+    },
+    "museo_etrusco": {
+      "title": "Etruskische, griechische und römische Sammlungen (Piano 2)",
+      "description": "Im obersten Geschoss des Vorderflügels reihen sich fünf Säle mit Vitrinen (Vasen, Bronzen, Spiegel, Waffen). Eine Vitrine zeigt das Vaso François (schwarz auf Sockel mit Glashaube), ein Kouros aus Marmor steht auf einem Sockel.",
+      "tip": "Die Vitrinen sind eine Lage hoch, der Sockel des Vasos zwei.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Reihenfolge der Sammlungen ist nicht belegt.",
+      "fact": "Im zweiten Obergeschoss liegen die etruskischen, griechischen und römischen Sammlungen mit attischen Vasen und griechischer Skulptur (Quelle: it.wikipedia, Museo archeologico nazionale (Firenze))."
+    },
+    "galleria_idolino": {
+      "title": "Galleria dell'Idolino",
+      "description": "Am Ende der Galerie des zweiten Obergeschosses steht der Idolino von Pesaro, eine Bronzeblock-Figur auf einem Sockel; zwei Säle mit Cotto-Marmor-Schachboden.",
+      "tip": "Sockel zuerst, dann die Figur.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Haltung der Figur ist nicht nachgebildet.",
+      "fact": "Die Galerie des Idolino liegt am Ende der Galerie im zweiten Obergeschoss (Quelle: it.wikipedia, Museo archeologico nazionale (Firenze))."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}
