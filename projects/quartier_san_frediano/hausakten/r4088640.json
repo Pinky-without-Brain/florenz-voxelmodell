@@ -1,7 +1,7 @@
 {
   "id": "r4088640",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Ursprung 2. Hälfte 13. Jh.; Umbau 1769 (Vincenzo Maria Capponi)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,49 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "pietra_serena",
+      "typ": "rechteck",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "graffito_fensterrahmen",
+      "majolika_einlagen_blau_weiss",
+      "marcapiano_pietraforte",
+      "zinnen_abschluss",
+      "u_foermiger_grundriss_zum_arno_offen",
+      "arkade_pietra_serena_hof",
+      "wappen_capponi_marchesenkrone"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_Capponi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Ursprung 2. Hälfte 13. Jh., Erscheinungsbild im Wesentlichen aus dem Umbau von 1769 durch Marchese Vincenzo Maria Capponi, Erdgeschoss und zwei Obergeschosse, Pietraforte und Ziegel, Fenster in Graffito-Rahmen mit Majolika-Einlagen im oberen Band, Marcapiano aus Pietraforte, Zinnen als Abschluss, U-förmiger Grundriss mit dreifacher Rundbogenarkade (Pietra serena) zum Arno. Annahme: Putzfarbe, Achsen, Dachform.",
   "name": "Casa Capponi"
 }

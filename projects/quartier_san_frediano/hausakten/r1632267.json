@@ -1,19 +1,19 @@
 {
   "id": "r1632267",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "1695 (Giovan Battista Foggini, Auftrag Cosimo III. de' Medici)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -35,15 +35,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "freistehend_quadratisch_fortartig",
+      "grosses_wappen_medici_fassade"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Granaio_dell'Abbondanza",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: 1695 nach Plänen von Giovan Battista Foggini für Cosimo III. errichtet, quadratischer freistehender, fortartiger Grundriss, großes Medici-Wappen an der Fassade, im 19. Jh. Militärbäckerei und Kaserne (Caserma Cavalli). Annahme: Geschosse, Achsen, Material, Fenster, Gesims, Dach.",
   "name": "Granaio dell'Abbondanza"
 }
