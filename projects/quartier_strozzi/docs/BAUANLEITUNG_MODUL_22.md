@@ -8,35 +8,35 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.050 |
+| Blöcke | 84.212 |
 | Bauschritte | 53 |
 | Y-Bereich | 66 bis 111 |
-| X-Ausdehnung | -245 bis -133 (113 Blöcke) |
-| Z-Ausdehnung | 275 bis 363 (89 Blöcke) |
+| X-Ausdehnung | -245 bis -132 (114 Blöcke) |
+| Z-Ausdehnung | 275 bis 364 (90 Blöcke) |
 | Kleinster Schritt | 588 Blöcke (Schritt 22.10) |
-| Mittlerer Schritt | 1.586 Blöcke |
+| Mittlerer Schritt | 1.589 Blöcke |
 | Größter Schritt | 2.066 Blöcke (Schritt 22.23) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 27.569 | 32,8 % |
+| Terrakotta | `terracotta` | 27.649 | 32,8 % |
 | Rosa Keramik | `pink_terracotta` | 10.755 | 12,8 % |
 | Weißer Beton | `white_concrete` | 7.848 | 9,3 % |
 | Polierter Tuffstein | `polished_tuff` | 7.393 | 8,8 % |
-| Tuffstein | `tuff` | 7.062 | 8,4 % |
+| Tuffstein | `tuff` | 7.101 | 8,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.313 | 6,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 4.366 | 5,2 % |
 | Orange Keramik | `orange_terracotta` | 2.916 | 3,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.777 | 3,3 % |
-| Graues Buntglas | `gray_stained_glass` | 1.796 | 2,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.778 | 2,1 % |
 | Glatter Stein | `smooth_stone` | 1.279 | 1,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 958 | 1,1 % |
-| Polierter Andesit | `polished_andesite` | 936 | 1,1 % |
-| Fichtenholz-Bretter | `spruce_planks` | 696 | 0,8 % |
-| Ziegelsteine | `bricks` | 478 | 0,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 345 | 0,4 % |
+| Polierter Andesit | `polished_andesite` | 891 | 1,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 791 | 0,9 % |
+| Ziegelsteine | `bricks` | 477 | 0,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 357 | 0,4 % |
 | Grüner Beton | `green_concrete` | 316 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 209 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 193 | 0,2 % |
@@ -67,7 +67,7 @@
 | 2 | `w307544516_innen` | Torre della Pagliazza: Innenausbau | 639 | 22.3 |
 | 3 | `w307544536` | Torre dei Ricci | 5.989 | 22.4–22.6 |
 | 4 | `w307544536_innen` | Torre dei Ricci: Innenausbau | 1.511 | 22.7 |
-| 5 | `w307544542` | Torre dei Ghiberti | 2.447 | 22.8–22.9 |
+| 5 | `w307544542` | Torre dei Ghiberti | 2.609 | 22.8–22.9 |
 | 6 | `w307544542_innen` | Torre dei Ghiberti: Innenausbau | 588 | 22.10 |
 | 7 | `w542315394` | Reihenhaus an Via del Corso | 5.729 | 22.11–22.13 |
 | 8 | `w542315394_innen` | Reihenhaus an Via del Corso: Innenausbau | 1.741 | 22.14 |
@@ -111,7 +111,7 @@
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Fundamente römisch, Turm frühmittelalterlich (byzantinisch), Restaurierung 1983–88), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_della_Pagliazza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -123,7 +123,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 22.2 – Torre della Pagliazza – Teil 2/2 (Y 84–102)
 
@@ -143,7 +143,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Fundamente römisch, Turm frühmittelalterlich (byzantinisch), Restaurierung 1983–88), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_della_Pagliazza, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -155,7 +155,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 22.3 – Torre della Pagliazza: Innenausbau
 
@@ -215,7 +215,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Mittelalter, nach 1250 gekürzt, aus Donati- und Ricci-Turm verschmolzen), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ricci, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -227,7 +227,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 22.5 – Torre dei Ricci – Teil 2/3 (Y 76–88)
 
@@ -246,7 +246,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Mittelalter, nach 1250 gekürzt, aus Donati- und Ricci-Turm verschmolzen), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ricci, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -258,7 +258,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 22.6 – Torre dei Ricci – Teil 3/3 (Y 89–102)
 
@@ -279,7 +279,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Mittelalter, nach 1250 gekürzt, aus Donati- und Ricci-Turm verschmolzen), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ricci, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -291,7 +291,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 22.7 – Torre dei Ricci: Innenausbau
 
@@ -335,25 +335,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.8 – Torre dei Ghiberti – Teil 1/2 (Y 66–82)
+### Schritt 22.8 – Torre dei Ghiberti – Teil 1/2 (Y 66–83)
 
-- **Y-Bereich:** 66 bis 82
-- **Blöcke:** 1.242
+- **Y-Bereich:** 66 bis 83
+- **Blöcke:** 1.307
 - **Bauteile:** `w307544542`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 767 |
+| Tuffstein | `tuff` | 855 |
 | Polierter Tuffstein | `polished_tuff` | 225 |
-| Polierter Andesit | `polished_andesite` | 152 |
-| Graues Buntglas | `gray_stained_glass` | 49 |
-| Tuffsteinziegel | `tuff_bricks` | 49 |
+| Polierter Andesit | `polished_andesite` | 131 |
+| Tuffsteinziegel | `tuff_bricks` | 65 |
+| Graues Buntglas | `gray_stained_glass` | 31 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (13. Jh. (Turm), vor 1427 zum Stadtpalast umgebaut), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ghiberti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -365,28 +365,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.9 – Torre dei Ghiberti – Teil 2/2 (Y 83–102)
+### Schritt 22.9 – Torre dei Ghiberti – Teil 2/2 (Y 84–105)
 
-- **Y-Bereich:** 83 bis 102
-- **Blöcke:** 1.205
+- **Y-Bereich:** 84 bis 105
+- **Blöcke:** 1.302
 - **Bauteile:** `w307544542`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 677 |
-| Terrakotta | `terracotta` | 274 |
-| Polierter Andesit | `polished_andesite` | 144 |
+| Tuffstein | `tuff` | 628 |
+| Terrakotta | `terracotta` | 354 |
+| Polierter Andesit | `polished_andesite` | 120 |
+| Fichtenholz-Bretter | `spruce_planks` | 95 |
 | Graues Buntglas | `gray_stained_glass` | 62 |
-| Tuffsteinziegel | `tuff_bricks` | 37 |
-| Ziegelsteine | `bricks` | 11 |
+| Tuffsteinziegel | `tuff_bricks` | 33 |
+| Ziegelsteine | `bricks` | 10 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (13. Jh. (Turm), vor 1427 zum Stadtpalast umgebaut), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Ghiberti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -398,7 +399,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 22.10 – Torre dei Ghiberti: Innenausbau
 

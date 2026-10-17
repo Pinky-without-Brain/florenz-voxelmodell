@@ -8,46 +8,47 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 176.972 |
+| Blöcke | 177.506 |
 | Bauschritte | 114 |
 | Y-Bereich | 62 bis 111 |
 | X-Ausdehnung | -808 bis -531 (278 Blöcke) |
 | Z-Ausdehnung | 658 bis 807 (150 Blöcke) |
 | Kleinster Schritt | 560 Blöcke (Schritt 4.107) |
-| Mittlerer Schritt | 1.552 Blöcke |
+| Mittlerer Schritt | 1.557 Blöcke |
 | Größter Schritt | 2.094 Blöcke (Schritt 4.20) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 63.168 | 35,7 % |
+| Terrakotta | `terracotta` | 63.453 | 35,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 24.972 | 14,1 % |
-| Polierter Tuffstein | `polished_tuff` | 19.428 | 11,0 % |
-| Weißer Beton | `white_concrete` | 15.808 | 8,9 % |
+| Polierter Tuffstein | `polished_tuff` | 19.428 | 10,9 % |
+| Weißer Beton | `white_concrete` | 14.545 | 8,2 % |
 | Rosa Keramik | `pink_terracotta` | 11.497 | 6,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 11.312 | 6,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 10.539 | 6,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 10.962 | 6,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 9.328 | 5,3 % |
 | Endsteinziegel | `end_stone_bricks` | 5.494 | 3,1 % |
-| Graues Buntglas | `gray_stained_glass` | 4.008 | 2,3 % |
-| Glatter Stein | `smooth_stone` | 2.611 | 1,5 % |
-| Polierter Andesit | `polished_andesite` | 2.565 | 1,4 % |
-| Ziegelsteine | `bricks` | 1.332 | 0,8 % |
-| Grüner Beton | `green_concrete` | 1.134 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 876 | 0,5 % |
+| Graues Buntglas | `gray_stained_glass` | 3.967 | 2,2 % |
+| Polierter Andesit | `polished_andesite` | 3.689 | 2,1 % |
+| Glatter Stein | `smooth_stone` | 2.770 | 1,6 % |
+| Orange Keramik | `orange_terracotta` | 2.087 | 1,2 % |
+| Ziegelsteine | `bricks` | 1.328 | 0,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 877 | 0,5 % |
+| Grüner Beton | `green_concrete` | 867 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 660 | 0,4 % |
-| Seelaterne | `sea_lantern` | 381 | 0,2 % |
+| Seelaterne | `sea_lantern` | 383 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 187 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 179 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 164 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 152 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 123 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 123 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 68 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 60 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 165 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 153 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 126 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 126 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 70 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 62 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 46 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 33 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 25 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 5 | 0,0 % |
@@ -56,8 +57,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 682 |
-| Steintreppe | `stone_stairs` | 208 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 684 |
+| Steintreppe | `stone_stairs` | 220 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -65,8 +66,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7149581` | Reihenhaus an Via Porta Rossa | 14.147 | 4.1–4.8 |
 | 2 | `r7149581_innen` | Reihenhaus an Via Porta Rossa: Innenausbau | 4.520 | 4.9–4.11 |
-| 3 | `r9459937` | Palazzo Bartolini-Torrigiani | 16.535 | 4.12–4.20 |
-| 4 | `r9459937_innen` | Palazzo Bartolini-Torrigiani: Innenausbau | 4.801 | 4.21–4.24 |
+| 3 | `r9459937` | Palazzo Bartolini-Torrigiani | 16.655 | 4.12–4.20 |
+| 4 | `r9459937_innen` | Palazzo Bartolini-Torrigiani: Innenausbau | 4.809 | 4.21–4.24 |
 | 5 | `w307296638` | Reihenhaus an Via Porta Rossa | 6.633 | 4.25–4.28 |
 | 6 | `w307296638_innen` | Reihenhaus an Via Porta Rossa: Innenausbau | 3.063 | 4.29–4.30 |
 | 7 | `w307296640` | Reihenhaus an Vicolo del Panico | 8.893 | 4.31–4.35 |
@@ -89,8 +90,8 @@
 | 24 | `w485934052_innen` | Reihenhaus an Via delle Terme: Innenausbau | 5.515 | 4.80–4.82 |
 | 25 | `w485934054` | Reihenhaus an Via delle Terme | 3.219 | 4.83–4.84 |
 | 26 | `w485934054_innen` | Reihenhaus an Via delle Terme: Innenausbau | 1.257 | 4.85 |
-| 27 | `w485934056` | Palazzo Canacci | 3.714 | 4.86–4.87 |
-| 28 | `w485934056_innen` | Palazzo Canacci: Innenausbau | 657 | 4.88 |
+| 27 | `w485934056` | Palazzo Canacci | 3.818 | 4.86–4.87 |
+| 28 | `w485934056_innen` | Palazzo Canacci: Innenausbau | 959 | 4.88 |
 | 29 | `w485934058` | Reihenhaus an Vicolo del Panico | 6.158 | 4.89–4.92 |
 | 30 | `w485934058_innen` | Reihenhaus an Vicolo del Panico: Innenausbau | 2.151 | 4.93–4.94 |
 | 31 | `w485934059` | Palazzo des Ottocento an Pellicceria | 16.540 | 4.95–4.107 |
@@ -482,7 +483,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -494,12 +495,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.13 – Palazzo Bartolini-Torrigiani – Teil 2/9 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
-- **Blöcke:** 1.932
+- **Blöcke:** 1.938
 - **Bauteile:** `r9459937`
 
 **Teileliste**
@@ -507,13 +508,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.348 |
-| Gelbe Keramik | `yellow_terracotta` | 480 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
-| Glatter Stein | `smooth_stone` | 36 |
+| Gelbe Keramik | `yellow_terracotta` | 488 |
+| Graues Buntglas | `gray_stained_glass` | 62 |
+| Polierter Andesit | `polished_andesite` | 40 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -525,27 +526,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.14 – Palazzo Bartolini-Torrigiani – Teil 3/9 (Y 65–71)
+### Schritt 4.14 – Palazzo Bartolini-Torrigiani – Teil 3/9 (Y 65–70)
 
-- **Y-Bereich:** 65 bis 71
-- **Blöcke:** 2.085
+- **Y-Bereich:** 65 bis 70
+- **Blöcke:** 1.781
 - **Bauteile:** `r9459937`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.453 |
-| Graues Buntglas | `gray_stained_glass` | 328 |
-| Glatter Stein | `smooth_stone` | 141 |
-| Weißer Beton | `white_concrete` | 130 |
-| Grüner Beton | `green_concrete` | 33 |
+| Gelbe Keramik | `yellow_terracotta` | 1.219 |
+| Graues Buntglas | `gray_stained_glass` | 291 |
+| Polierter Andesit | `polished_andesite` | 265 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -557,27 +557,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.15 – Palazzo Bartolini-Torrigiani – Teil 4/9 (Y 72–77)
+### Schritt 4.15 – Palazzo Bartolini-Torrigiani – Teil 4/9 (Y 71–76)
 
-- **Y-Bereich:** 72 bis 77
-- **Blöcke:** 2.008
+- **Y-Bereich:** 71 bis 76
+- **Blöcke:** 2.078
 - **Bauteile:** `r9459937`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.563 |
-| Glatter Stein | `smooth_stone` | 165 |
-| Weißer Beton | `white_concrete` | 134 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
-| Grüner Beton | `green_concrete` | 56 |
+| Gelbe Keramik | `yellow_terracotta` | 1.684 |
+| Polierter Andesit | `polished_andesite` | 221 |
+| Glatter Stein | `smooth_stone` | 130 |
+| Graues Buntglas | `gray_stained_glass` | 41 |
+| Grüner Beton | `green_concrete` | 2 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -589,27 +589,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.16 – Palazzo Bartolini-Torrigiani – Teil 5/9 (Y 78–82)
+### Schritt 4.16 – Palazzo Bartolini-Torrigiani – Teil 5/9 (Y 77–82)
 
-- **Y-Bereich:** 78 bis 82
-- **Blöcke:** 1.660
+- **Y-Bereich:** 77 bis 82
+- **Blöcke:** 1.918
 - **Bauteile:** `r9459937`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.139 |
-| Weißer Beton | `white_concrete` | 239 |
-| Glatter Stein | `smooth_stone` | 136 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
-| Grüner Beton | `green_concrete` | 56 |
+| Gelbe Keramik | `yellow_terracotta` | 1.443 |
+| Polierter Andesit | `polished_andesite` | 272 |
+| Graues Buntglas | `gray_stained_glass` | 197 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -621,26 +620,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.17 – Palazzo Bartolini-Torrigiani – Teil 6/9 (Y 83–88)
 
 - **Y-Bereich:** 83 bis 88
-- **Blöcke:** 1.928
+- **Blöcke:** 2.043
 - **Bauteile:** `r9459937`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.442 |
-| Weißer Beton | `white_concrete` | 194 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 112 |
+| Gelbe Keramik | `yellow_terracotta` | 1.638 |
+| Polierter Andesit | `polished_andesite` | 183 |
+| Glatter Stein | `smooth_stone` | 136 |
+| Graues Buntglas | `gray_stained_glass` | 82 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -652,27 +652,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.18 – Palazzo Bartolini-Torrigiani – Teil 7/9 (Y 89–92)
 
 - **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.660
+- **Blöcke:** 1.635
 - **Bauteile:** `r9459937`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.070 |
+| Gelbe Keramik | `yellow_terracotta` | 1.098 |
 | Glatter Stein | `smooth_stone` | 308 |
-| Weißer Beton | `white_concrete` | 209 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
-| Grüner Beton | `green_concrete` | 28 |
+| Polierter Andesit | `polished_andesite` | 155 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -684,7 +683,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.19 – Palazzo Bartolini-Torrigiani – Teil 8/9 (Y 93–94)
 
@@ -700,7 +699,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -712,7 +711,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.20 – Palazzo Bartolini-Torrigiani – Teil 9/9 (Y 95–102)
 
@@ -729,7 +728,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (13. Jh. (Turm), frühes 16. Jh. (Umbau, Baccio d'Agnolo zugeschrieben)), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini-Torrigiani, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -741,7 +740,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.21 – Palazzo Bartolini-Torrigiani: Innenausbau – Teil 1/4 (Y 62–73)
 
@@ -814,10 +813,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.23 – Palazzo Bartolini-Torrigiani: Innenausbau – Teil 3/4 (Y 74–82)
+### Schritt 4.23 – Palazzo Bartolini-Torrigiani: Innenausbau – Teil 3/4 (Y 74–84)
 
-- **Y-Bereich:** 74 bis 82
-- **Blöcke:** 1.208
+- **Y-Bereich:** 74 bis 84
+- **Blöcke:** 1.216
 - **Bauteile:** `r9459937_innen`
 
 **Teileliste**
@@ -825,9 +824,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.151 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -839,7 +838,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -858,9 +857,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.24 – Palazzo Bartolini-Torrigiani: Innenausbau – Teil 4/4 (Y 82–83)
+### Schritt 4.24 – Palazzo Bartolini-Torrigiani: Innenausbau – Teil 4/4 (Y 84–85)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.188
 - **Bauteile:** `r9459937_innen`
 
@@ -2971,24 +2970,23 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.86 – Palazzo Canacci – Teil 1/2 (Y 66–83)
 
 - **Y-Bereich:** 66 bis 83
-- **Blöcke:** 1.855
+- **Blöcke:** 1.920
 - **Bauteile:** `w485934056`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.097 |
+| Orange Keramik | `orange_terracotta` | 1.129 |
 | Polierter Tuffstein | `polished_tuff` | 375 |
-| Weißer Beton | `white_concrete` | 149 |
-| Graues Buntglas | `gray_stained_glass` | 87 |
-| Polierter Andesit | `polished_andesite` | 68 |
-| Glatter Stein | `smooth_stone` | 59 |
-| Tuffsteinziegel | `tuff_bricks` | 20 |
+| Glatter Stein | `smooth_stone` | 259 |
+| Graues Buntglas | `gray_stained_glass` | 89 |
+| Polierter Andesit | `polished_andesite` | 56 |
+| Tuffsteinziegel | `tuff_bricks` | 12 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh. (Kauf 1455; Restaurierungen 1902–04, 1965)), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Canacci, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -3000,29 +2998,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.87 – Palazzo Canacci – Teil 2/2 (Y 84–101)
+### Schritt 4.87 – Palazzo Canacci – Teil 2/2 (Y 84–105)
 
-- **Y-Bereich:** 84 bis 101
-- **Blöcke:** 1.859
+- **Y-Bereich:** 84 bis 105
+- **Blöcke:** 1.898
 - **Bauteile:** `w485934056`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 887 |
-| Terrakotta | `terracotta` | 493 |
-| Weißer Beton | `white_concrete` | 208 |
-| Glatter Stein | `smooth_stone` | 143 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Ziegelsteine | `bricks` | 34 |
+| Orange Keramik | `orange_terracotta` | 958 |
+| Terrakotta | `terracotta` | 509 |
+| Glatter Stein | `smooth_stone` | 296 |
+| Graues Buntglas | `gray_stained_glass` | 71 |
 | Polierter Andesit | `polished_andesite` | 34 |
+| Ziegelsteine | `bricks` | 30 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (15. Jh. (Kauf 1455; Restaurierungen 1902–04, 1965)), 4 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Canacci, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -3034,37 +3031,37 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.88 – Palazzo Canacci: Innenausbau
 
-- **Y-Bereich:** 66 bis 87
-- **Blöcke:** 657
+- **Y-Bereich:** 66 bis 91
+- **Blöcke:** 959
 - **Bauteile:** `w485934056_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 538 |
-| Glatter Stein | `smooth_stone` | 52 |
+| Terrakotta | `terracotta` | 807 |
+| Glatter Stein | `smooth_stone` | 66 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 26 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Seelaterne | `sea_lantern` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 6 |
+| Steintreppe | `stone_stairs` | 48 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 8 |
 
 **Beschreibung**
 

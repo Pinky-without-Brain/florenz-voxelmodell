@@ -1,19 +1,19 @@
 {
   "id": "r4103611",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Umbau 1841 (Bartolommeo Silvestri)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -35,15 +35,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "panoramaloggia_oberstes_geschoss",
+      "gedenktafel_manzoni_1827"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach mittlere Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzi_Gianfigliazzi",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia (Artikel zu beiden Lungarno-Corsini-Palazzi): Nr. 4 1841 von Bartolommeo Silvestri umgebaut, Achsen neu geregelt, Panoramaloggia im obersten Geschoss, Gedenktafel für Alessandro Manzoni (1827). Annahme: Zuordnung dieser OSM-Fläche zu Nr. 4 (nicht eindeutig), Loggia als Altana abgebildet, übrige Merkmale aus der Typologie.",
   "name": "Palazzi Gianfigliazzi"
 }

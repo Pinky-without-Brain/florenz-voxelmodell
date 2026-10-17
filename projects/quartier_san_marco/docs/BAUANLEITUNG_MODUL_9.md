@@ -23,25 +23,29 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 24.779 | 29,9 % |
 | Orange Keramik | `orange_terracotta` | 10.935 | 13,2 % |
-| Glatter Sandstein | `smooth_sandstone` | 8.797 | 10,6 % |
 | Weißer Beton | `white_concrete` | 8.586 | 10,3 % |
 | Endsteinziegel | `end_stone_bricks` | 7.303 | 8,8 % |
 | Polierter Tuffstein | `polished_tuff` | 6.962 | 8,4 % |
 | Rosa Keramik | `pink_terracotta` | 6.542 | 7,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 4.272 | 5,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 3.755 | 4,5 % |
-| Glatter Stein | `smooth_stone` | 1.199 | 1,4 % |
+| Polierter Andesit | `polished_andesite` | 2.557 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 1.771 | 2,1 % |
+| Tuffstein | `tuff` | 1.768 | 2,1 % |
 | Graues Buntglas | `gray_stained_glass` | 940 | 1,1 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 869 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 623 | 0,8 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 805 | 1,0 % |
 | Ziegelsteine | `bricks` | 467 | 0,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 315 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 311 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 197 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 181 | 0,2 % |
 | Seelaterne | `sea_lantern` | 176 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 132 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 124 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 108 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 102 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 36 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 36 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 24 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
@@ -51,7 +55,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 634 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 588 |
+| Steintreppe | `stone_stairs` | 46 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -1652,13 +1657,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 995 |
-| Glatter Sandstein | `smooth_sandstone` | 746 |
-| Glatter Stein | `smooth_stone` | 113 |
+| Tuffstein | `tuff` | 281 |
+| Polierter Andesit | `polished_andesite` | 242 |
+| Tuffsteinziegel | `tuff_bricks` | 192 |
+| Glatter Stein | `smooth_stone` | 144 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umgestaltung Ende 19./Anfang 20. Jh. (neomanieristisch)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Due_Fontane, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1670,7 +1677,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.48 – Palazzo delle Due Fontane – Teil 2/4 (Y 73–83)
 
@@ -1682,13 +1689,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.664 |
-| Glatter Stein | `smooth_stone` | 254 |
+| Tuffstein | `tuff` | 637 |
+| Polierter Andesit | `polished_andesite` | 616 |
+| Glatter Stein | `smooth_stone` | 542 |
+| Tuffsteinziegel | `tuff_bricks` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umgestaltung Ende 19./Anfang 20. Jh. (neomanieristisch)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Due_Fontane, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1700,7 +1709,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.49 – Palazzo delle Due Fontane – Teil 3/4 (Y 84–94)
 
@@ -1712,13 +1721,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.609 |
-| Glatter Stein | `smooth_stone` | 301 |
+| Polierter Andesit | `polished_andesite` | 804 |
+| Tuffstein | `tuff` | 629 |
+| Glatter Stein | `smooth_stone` | 477 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umgestaltung Ende 19./Anfang 20. Jh. (neomanieristisch)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Due_Fontane, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1730,7 +1740,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.50 – Palazzo delle Due Fontane – Teil 4/4 (Y 95–104)
 
@@ -1743,14 +1753,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.208 |
-| Glatter Sandstein | `smooth_sandstone` | 506 |
+| Polierter Andesit | `polished_andesite` | 272 |
+| Tuffstein | `tuff` | 221 |
+| Glatter Stein | `smooth_stone` | 78 |
 | Ziegelsteine | `bricks` | 77 |
-| Glatter Stein | `smooth_stone` | 65 |
 | Graues Buntglas | `gray_stained_glass` | 13 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Umgestaltung Ende 19./Anfang 20. Jh. (neomanieristisch)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Due_Fontane, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1762,7 +1773,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.51 – Palazzo delle Due Fontane: Innenausbau – Teil 1/2 (Y 67–82)
 
@@ -1775,9 +1786,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 805 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
+| Glatter Stein | `smooth_stone` | 44 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
 | Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
@@ -1786,11 +1797,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
+| Steintreppe | `stone_stairs` | 30 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1815,10 +1826,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.610 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Glatter Stein | `smooth_stone` | 20 |
 | Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
@@ -1830,11 +1841,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 16 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 

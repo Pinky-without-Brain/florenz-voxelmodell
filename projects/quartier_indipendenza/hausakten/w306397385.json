@@ -1,19 +1,23 @@
 {
   "id": "w306397385",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "erweitert ab 1555 (Baglioni), 1648 (Cerretani), 1937 stark restauriert",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
@@ -35,15 +39,17 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "eckpalazzo_piazza_unita"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Cerretani",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Erweiterungen unter verschiedenen Familien (1555 Baglioni, ab 1648 Cerretani), 1937 stark restauriert, vier Geschosse laut Infobox, Fresken von Vincenzo Meucci (1743) im Inneren. Annahme: alle Fassadenmerkmale aus der Typologie.",
   "name": "Palazzo dei Cerretani"
 }

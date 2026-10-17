@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 233.222 |
+| Blöcke | 233.254 |
 | Bauschritte | 147 |
 | Y-Bereich | 61 bis 102 |
 | X-Ausdehnung | -720 bis -478 (243 Blöcke) |
@@ -22,29 +22,30 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 90.030 | 38,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 49.780 | 21,3 % |
+| Hellgrauer Beton | `light_gray_concrete` | 42.984 | 18,4 % |
 | Polierter Tuffstein | `polished_tuff` | 27.815 | 11,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 15.542 | 6,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 12.508 | 5,4 % |
 | Endsteinziegel | `end_stone_bricks` | 6.783 | 2,9 % |
+| Tuffstein | `tuff` | 6.697 | 2,9 % |
 | Weißer Beton | `white_concrete` | 6.548 | 2,8 % |
 | Orange Keramik | `orange_terracotta` | 6.475 | 2,8 % |
-| Glatter Stein | `smooth_stone` | 5.478 | 2,3 % |
-| Graues Buntglas | `gray_stained_glass` | 3.902 | 1,7 % |
+| Glatter Stein | `smooth_stone` | 5.476 | 2,3 % |
+| Graues Buntglas | `gray_stained_glass` | 3.800 | 1,6 % |
 | Rosa Keramik | `pink_terracotta` | 2.245 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 1.590 | 0,7 % |
 | Ziegelsteine | `bricks` | 1.495 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 1.446 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 717 | 0,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 599 | 0,3 % |
 | Seelaterne | `sea_lantern` | 485 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 443 | 0,2 % |
 | Grüner Beton | `green_concrete` | 288 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 153 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 141 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 140 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 124 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 122 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 80 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 74 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 62 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 41 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 41 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
@@ -58,14 +59,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 448 |
-| Steintreppe | `stone_stairs` | 344 |
+| Steintreppe | `stone_stairs` | 342 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306395974` | Chiesa di San Barnaba | 10.851 | 11.1–11.6 |
-| 2 | `w306395974_innen` | Chiesa di San Barnaba: Innenausbau | 2.237 | 11.7–11.8 |
+| 1 | `w306395974` | Chiesa di San Barnaba | 10.887 | 11.1–11.6 |
+| 2 | `w306395974_innen` | Chiesa di San Barnaba: Innenausbau | 2.233 | 11.7–11.8 |
 | 3 | `w461617772` | Palazzo des Ottocento an Via Panicale | 13.328 | 11.9–11.16 |
 | 4 | `w461617772_innen` | Palazzo des Ottocento an Via Panicale: Innenausbau | 2.636 | 11.17–11.18 |
 | 5 | `w461617773` | Palazzo des Ottocento an Via Chiara | 10.849 | 11.19–11.24 |
@@ -113,12 +114,13 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.330 |
-| Hellgrauer Beton | `light_gray_concrete` | 510 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Tuffstein | `tuff` | 487 |
+| Tuffsteinziegel | `tuff_bricks` | 20 |
+| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, 1309–1350 (Umbau um 1810)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -130,25 +132,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.2 – Chiesa di San Barnaba – Teil 2/6 (Y 66–72)
 
 - **Y-Bereich:** 66 bis 72
-- **Blöcke:** 1.798
+- **Blöcke:** 1.831
 - **Bauteile:** `w306395974`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.524 |
-| Polierter Andesit | `polished_andesite` | 172 |
-| Graues Buntglas | `gray_stained_glass` | 102 |
+| Tuffstein | `tuff` | 1.685 |
+| Tuffsteinziegel | `tuff_bricks` | 115 |
+| Polierter Andesit | `polished_andesite` | 27 |
+| Graues Buntglas | `gray_stained_glass` | 4 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, 1309–1350 (Umbau um 1810)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -160,25 +163,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.3 – Chiesa di San Barnaba – Teil 3/6 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.859
+- **Blöcke:** 1.836
 - **Bauteile:** `w306395974`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.779 |
-| Polierter Andesit | `polished_andesite` | 72 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
+| Tuffstein | `tuff` | 1.582 |
+| Polierter Andesit | `polished_andesite` | 106 |
+| Tuffsteinziegel | `tuff_bricks` | 90 |
+| Graues Buntglas | `gray_stained_glass` | 58 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, 1309–1350 (Umbau um 1810)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -190,11 +194,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.4 – Chiesa di San Barnaba – Teil 4/6 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
+- **Blöcke:** 1.827
+- **Bauteile:** `w306395974`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.500 |
+| Polierter Andesit | `polished_andesite` | 165 |
+| Tuffsteinziegel | `tuff_bricks` | 85 |
+| Graues Buntglas | `gray_stained_glass` | 77 |
+
+**Beschreibung**
+
+Kleine Kirche (Gotik, 1309–1350 (Umbau um 1810)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze), Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 11.5 – Chiesa di San Barnaba – Teil 5/6 (Y 87–93)
+
+- **Y-Bereich:** 87 bis 93
 - **Blöcke:** 1.784
 - **Bauteile:** `w306395974`
 
@@ -202,13 +237,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.514 |
+| Tuffstein | `tuff` | 1.443 |
 | Polierter Andesit | `polished_andesite` | 139 |
 | Graues Buntglas | `gray_stained_glass` | 131 |
+| Tuffsteinziegel | `tuff_bricks` | 71 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, 1309–1350 (Umbau um 1810)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -220,37 +256,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 11.5 – Chiesa di San Barnaba – Teil 5/6 (Y 87–93)
-
-- **Y-Bereich:** 87 bis 93
-- **Blöcke:** 1.801
-- **Bauteile:** `w306395974`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.469 |
-| Polierter Andesit | `polished_andesite` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 131 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.6 – Chiesa di San Barnaba – Teil 6/6 (Y 94–101)
 
@@ -267,7 +273,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Gotik, 1309–1350 (Umbau um 1810)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -279,12 +285,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 11.7 – Chiesa di San Barnaba: Innenausbau – Teil 1/2 (Y 63–77)
+### Schritt 11.7 – Chiesa di San Barnaba: Innenausbau – Teil 1/2 (Y 63–75)
 
-- **Y-Bereich:** 63 bis 77
-- **Blöcke:** 1.134
+- **Y-Bereich:** 63 bis 75
+- **Blöcke:** 1.126
 - **Bauteile:** `w306395974_innen`
 
 **Teileliste**
@@ -292,16 +298,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.058 |
-| Glatter Stein | `smooth_stone` | 34 |
+| Glatter Stein | `smooth_stone` | 30 |
 | Seelaterne | `sea_lantern` | 14 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 14 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 14 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
+| Steintreppe | `stone_stairs` | 24 |
 
 **Beschreibung**
 
@@ -319,10 +325,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.8 – Chiesa di San Barnaba: Innenausbau – Teil 2/2 (Y 78–85)
+### Schritt 11.8 – Chiesa di San Barnaba: Innenausbau – Teil 2/2 (Y 76–84)
 
-- **Y-Bereich:** 78 bis 85
-- **Blöcke:** 1.103
+- **Y-Bereich:** 76 bis 84
+- **Blöcke:** 1.107
 - **Bauteile:** `w306395974_innen`
 
 **Teileliste**
@@ -330,8 +336,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.058 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
 
@@ -339,7 +345,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 18 |
 
 **Beschreibung**
 

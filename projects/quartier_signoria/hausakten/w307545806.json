@@ -1,7 +1,7 @@
 {
   "id": "w307545806",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "Ende 13./Anfang 14. Jh. (aus Wohntürmen der Cerchi)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,40 +9,46 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "material": "bruchstein",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rechteck"
+      "art": "tor_und_fenster",
+      "fenster": "rechteck_vergittert",
+      "portalBreiteBl": 6
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
+      "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "spitzbogige_portale",
+      "fruehes_bugnato",
+      "alepri_turm_teilweise_eingeschlossen",
+      "ghiere_dicke_bogensteine"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Cerchi",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Ende 13./Anfang 14. Jh. aus mehreren Wohntürmen der Cerchi entstanden, unverputzte regelmäßige Quaderfassade, mehrere Portale mit massiven Spitzbögen, leicht vorspringendes Bugnato im Erdgeschoss (eines der frühesten der Stadt), Öffnungen mit flachen oder leicht spitzen Bögen mit dicken Ghiere, schließt den Turm der Alepri teilweise ein. Annahme: Achsen, Geschosse, Traufe.",
   "name": "Palazzo dei Cerchi"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w307544536",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "Mittelalter, nach 1250 gekürzt, aus Donati- und Ricci-Turm verschmolzen",
   "geschosse": [
     {
       "art": "eg",
@@ -31,7 +31,7 @@
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "rundbogen",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -39,15 +39,19 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "buche_pontaie_mit_konsolen_bis_3og",
+      "monofore_oberstes_geschoss",
+      "bossen_sichtmauerwerk"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Ricci",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: mittelalterlicher Turm, nach der Machtübernahme des Popolo (1250) gekürzt, aus der Verschmelzung zweier Türme (Donati und Ricci) zu einem rechteckigen Hausturm, große regelmäßige Bruchsteinquader im Sichtmauerwerk, Balkenlöcher mit Konsolen bis zum dritten Stock, Monoforen im obersten Geschoss, spätere regelmäßige Fenster. Annahme: Erdgeschoss, Dach, Geschosszahl.",
   "name": "Torre dei Ricci"
 }

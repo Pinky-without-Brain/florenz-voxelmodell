@@ -1,7 +1,7 @@
 {
   "id": "w462375323",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "14. Jh. (aus älteren Häusern und Türmen), restauriert Ende 19. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,47 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
-    "material": "bugnato_abgestuft",
+    "achsen": 3,
+    "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
       "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 5,
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "pietra_serena",
+      "typ": "rechteck",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 3
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "eckquader_pietraforte",
+      "fassadenanker",
+      "zinnenbekroenung_verloren",
+      "flachbogenoeffnungen_vermauert"
+    ],
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Catellini",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Trecento-Palazzo aus zusammengelegten Häusern und Türmen, Ende 19. Jh. restauriert, Eckquader aus Pietraforte, glattes Bugnato, seitlich Filaretto, Obergeschosse mit drei Fensterachsen, ursprünglich drei Flachbogenportale im Erdgeschoss (heute vermauert), Fenster ursprünglich Flachbogen, jetzt rechteckig, Fassadenanker, Zinnenbekrönung verloren. Annahme: Geschosse, Gesims.",
   "name": "Palazzo dei Catellini"
 }

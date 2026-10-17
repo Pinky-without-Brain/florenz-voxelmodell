@@ -1,11 +1,11 @@
 {
   "id": "w307174621",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Florentinischer Barock, Auftrag 1626 (Gherardo Silvani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
@@ -13,37 +13,48 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 5
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
     "material": "putz",
-    "putzfarbe": "sand",
+    "putzfarbe": "weiss",
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "balkon_auf_zwei_saeulen",
+      "ladenportale_dreiecksgiebel",
+      "statuen_strozzi_ciappi_wappen",
+      "dorischer_fries_triglyphen_trophaeen",
+      "lisenen_balustraden"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Strozzi_del_Poeta",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Gherardo Silvani, Auftrag 1626, florentinischer Barock, Erdgeschoss, zwei Obergeschosse und Dachgeschoss mit Rechteckfenstern, Pietra-serena-Architekturelemente vor hellem Putz, vier Ladenportale mit Dreiecksgiebel und mittiges Rundbogenportal zwischen zwei Säulen mit Balkon, Piano nobile mit Lisenen, Balustraden und Bogengiebeln, dorischer Triglyphenfries mit Trophäen-Metopen (Cosimo Lotti) und Zahnschnitt, Statuen mit Strozzi- und Ciappi-Wappen. Annahme: Achsenzahl, Traufe, Putzton.",
   "name": "Palazzo Strozzi del Poeta"
 }

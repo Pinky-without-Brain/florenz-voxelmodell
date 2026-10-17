@@ -1,11 +1,11 @@
 {
   "id": "w485934056",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "15. Jh. (Kauf 1455; Restaurierungen 1902–04, 1965)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
@@ -13,37 +13,47 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "portal_seitlich",
+      "portalBreiteBl": 5,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "rundbogen",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
+      "art": "putzgesims",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "sgraffito_falsches_ziegelmauerwerk",
+      "canacci_wappen_mittig",
+      "steinkreuz_santo_stefano",
+      "altana_ionische_saeulen"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Canacci",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: 15. Jh., vier Geschosse, sechs Achsen an der Piazza-Seite, Putz mit Sgraffito als falsches Ziegelmauerwerk, zwei Portale an der Piazza, Bogenfenster mit Steinrahmen, Marcadavanzale-Gesims, Altana auf elf ionischen Säulen, Canacci-Wappen mittig. Annahme: Terrakotta als Putzfarbe zum Ziegel-Sgraffito, Gesimsart.",
   "name": "Palazzo Canacci"
 }

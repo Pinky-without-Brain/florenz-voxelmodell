@@ -1,7 +1,7 @@
 {
   "id": "r4101348",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Manierismus, Bau ab 1599 (Buontalenti oder Silvani, umstritten)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -22,12 +22,12 @@
     "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -35,15 +35,20 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "steinbalustrade_terrasse",
+      "architrave_vorspringend",
+      "venturi_wappen_drei_rocchi"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Venturi_(già_Doni)",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: manieristische Fassade, Baubeginn 1599 (Zuschreibung Buontalenti oder Silvani umstritten), Erdgeschoss und zwei Fensterreihen darüber, zwei große Portale und Kniefenster im Erdgeschoss, Marcapiano-Gesimse, Fenster mit vorspringenden Architraven, erhöhte Terrasse mit Steinbalustrade links, Venturi-Wappen im Eingangsbereich; Seite Via Panzani im 19. Jh. verändert. Annahme: Material, Achsen, Rahmenstein.",
   "name": "Palazzo Venturi"
 }

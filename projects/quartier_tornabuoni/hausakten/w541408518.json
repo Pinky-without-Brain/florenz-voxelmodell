@@ -1,7 +1,7 @@
 {
   "id": "w541408518",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Umbau 1827 (G. B. Silvestri)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,22 +9,22 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
+      "fenster": "rundbogen"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -35,15 +35,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "finto_bugnato_eg",
+      "schlusssteine_voluten",
+      "halbmonde_strozzi"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Altoviti_Sangalletti",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: heutige Erscheinung auf die Restaurierung von 1827 (Silvestri) zurückgehend, im Erdgeschoss vereinheitlichte Fassade mit vorgetäuschter Rustika um eine Bogenreihe zu Läden, Schlusssteine mit Voluten, Halbmonde zwischen den Bögen. Annahme: Putzfarbe, Geschosse, Achsen, Fenster.",
   "name": "Palazzo Altoviti Sangalletti"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w306692130",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "frühes 13. Jh., Wiederaufbau nach 1944 (Morozzi)",
   "geschosse": [
     {
       "art": "eg",
@@ -30,27 +30,33 @@
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "geschlossen",
-      "fenster": "keine"
+      "art": "tor_und_fenster",
+      "fenster": "keine",
+      "portalBreiteBl": 5
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "loewenkoepfe_ueber_tueren",
+      "amidei_wappen_gebaendert",
+      "dante_gedenktafel",
+      "doppelbogen_portale"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_degli_Amidei",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Turm der Amidei, frühes 13. Jh. (1241 erwähnt), später um mehrere Geschosse gekappt, im August 1944 durch Minen weitgehend zerstört und unter Guido Morozzi mit geborgenen Steinen wiederaufgebaut, Filaretto-Verkleidung, zwei hohe Erdgeschossportale mit Doppelbogen (eines spitz), zwei Löwenköpfe über den Türen, Amidei-Wappen und Dante-Gedenktafel von 1900. Annahme: Achsen, Fensterform, Dach.",
   "name": "Torre degli Amidei"
 }

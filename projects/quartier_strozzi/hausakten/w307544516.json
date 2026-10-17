@@ -1,7 +1,7 @@
 {
   "id": "w307544516",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "Fundamente römisch, Turm frühmittelalterlich (byzantinisch), Restaurierung 1983–88",
   "geschosse": [
     {
       "art": "eg",
@@ -39,15 +39,19 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "halbkreisfoermiger_grundriss",
+      "roemische_exedra_vermutet",
+      "museum_im_sockel"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_della_Pagliazza",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Ursprung 6./7. Jh. (Infobox: byzantinisch), Fundamente aus der Römerzeit, seltene halbkreisförmige Form (vermutlich auf eine römische Exedra zurückgehend), im 15. Jh. kleine Werkstätten im Erdgeschoss, Restaurierung 1983–88 (Italo Gamberini) entfernte Anbauten. Annahme: Material und alle Öffnungen aus der Typologie.",
   "name": "Torre della Pagliazza"
 }

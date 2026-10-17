@@ -8,48 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 227.653 |
-| Bauschritte | 152 |
+| Blöcke | 229.762 |
+| Bauschritte | 153 |
 | Y-Bereich | 58 bis 102 |
 | X-Ausdehnung | -1225 bis -905 (321 Blöcke) |
 | Z-Ausdehnung | 276 bis 448 (173 Blöcke) |
-| Kleinster Schritt | 390 Blöcke (Schritt 2.100) |
-| Mittlerer Schritt | 1.498 Blöcke |
-| Größter Schritt | 2.072 Blöcke (Schritt 2.39) |
+| Kleinster Schritt | 390 Blöcke (Schritt 2.101) |
+| Mittlerer Schritt | 1.502 Blöcke |
+| Größter Schritt | 2.073 Blöcke (Schritt 2.52) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 77.299 | 34,0 % |
-| Polierter Tuffstein | `polished_tuff` | 23.553 | 10,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 21.223 | 9,3 % |
+| Terrakotta | `terracotta` | 79.160 | 34,5 % |
+| Polierter Tuffstein | `polished_tuff` | 23.552 | 10,3 % |
+| Tuffstein | `tuff` | 19.274 | 8,4 % |
 | Orange Keramik | `orange_terracotta` | 19.219 | 8,4 % |
-| Weißer Beton | `white_concrete` | 17.627 | 7,7 % |
-| Tuffstein | `tuff` | 17.080 | 7,5 % |
-| Endsteinziegel | `end_stone_bricks` | 11.205 | 4,9 % |
+| Weißer Beton | `white_concrete` | 15.792 | 6,9 % |
+| Glatter Stein | `smooth_stone` | 13.077 | 5,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 12.439 | 5,4 % |
+| Endsteinziegel | `end_stone_bricks` | 11.113 | 4,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 11.034 | 4,8 % |
 | Rosa Keramik | `pink_terracotta` | 5.206 | 2,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 4.439 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 4.138 | 1,8 % |
-| Graues Buntglas | `gray_stained_glass` | 3.977 | 1,7 % |
-| Glatter Stein | `smooth_stone` | 3.928 | 1,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.547 | 0,7 % |
+| Graues Buntglas | `gray_stained_glass` | 3.865 | 1,7 % |
+| Polierter Andesit | `polished_andesite` | 3.833 | 1,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.548 | 0,7 % |
 | Ziegelsteine | `bricks` | 1.428 | 0,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.081 | 0,5 % |
-| Grüner Beton | `green_concrete` | 854 | 0,4 % |
+| Grüner Beton | `green_concrete` | 857 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 669 | 0,3 % |
-| Seelaterne | `sea_lantern` | 468 | 0,2 % |
+| Seelaterne | `sea_lantern` | 482 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 346 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 324 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 270 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 250 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 177 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 177 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 271 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 251 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 180 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 180 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 70 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 62 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
@@ -60,8 +58,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.190 |
-| Steintreppe | `stone_stairs` | 124 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.192 |
+| Steintreppe | `stone_stairs` | 132 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -70,63 +68,63 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r6850582` | Renaissance-Palazzo an Via dei Federighi | 35.767 | 2.1–2.28 |
 | 2 | `r6850582_innen` | Renaissance-Palazzo an Via dei Federighi: Innenausbau | 9.062 | 2.29–2.34 |
-| 3 | `w116673459` | ex Chiesa di San Pancrazio | 19.916 | 2.35–2.45 |
-| 4 | `w116673459_innen` | ex Chiesa di San Pancrazio: Innenausbau | 7.337 | 2.46–2.49 |
-| 5 | `w307170312` | Palazzo Dudley | 18.458 | 2.50–2.60 |
-| 6 | `w307170312_innen` | Palazzo Dudley: Innenausbau | 3.871 | 2.61–2.62 |
-| 7 | `w307320831` | Reihenhaus an Via dei Palchetti | 5.611 | 2.63–2.65 |
-| 8 | `w307320831_innen` | Reihenhaus an Via dei Palchetti: Innenausbau | 2.239 | 2.66–2.67 |
-| 9 | `w463879818` | Reihenhaus an Via della Vigna Nuova | 6.539 | 2.68–2.71 |
-| 10 | `w463879818_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.460 | 2.72 |
-| 11 | `w463879820` | Reihenhaus an Via della Spada | 5.274 | 2.73–2.75 |
-| 12 | `w463879820_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.161 | 2.76 |
-| 13 | `w463879823` | Reihenhaus an Via della Vigna Nuova | 7.364 | 2.77–2.80 |
-| 14 | `w463879823_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.801 | 2.81 |
-| 15 | `w463879829` | Reihenhaus an Via della Vigna Nuova | 6.160 | 2.82–2.85 |
-| 16 | `w463879829_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 949 | 2.86 |
-| 17 | `w463879830` | Reihenhaus an Via della Spada | 8.545 | 2.87–2.91 |
-| 18 | `w463879830_innen` | Reihenhaus an Via della Spada: Innenausbau | 2.867 | 2.92–2.93 |
-| 19 | `w463879838` | Reihenhaus an Via della Vigna Nuova | 4.807 | 2.94–2.96 |
-| 20 | `w463879838_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.476 | 2.97 |
-| 21 | `w463879841` | Reihenhaus an Via della Spada | 2.773 | 2.98–2.99 |
-| 22 | `w463879841_innen` | Reihenhaus an Via della Spada: Innenausbau | 390 | 2.100 |
-| 23 | `w463879842` | Reihenhaus an Via della Vigna Nuova | 4.335 | 2.101–2.103 |
-| 24 | `w463879842_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.521 | 2.104 |
-| 25 | `w463879852` | Haus w463879852 | 3.242 | 2.105–2.106 |
-| 26 | `w463879852_innen` | Haus w463879852: Innenausbau | 646 | 2.107 |
-| 27 | `w463879853` | Reihenhaus an Via della Spada | 2.169 | 2.108–2.109 |
-| 28 | `w463879853_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.232 | 2.110 |
-| 29 | `w463879855` | Reihenhaus an Via della Vigna Nuova | 4.469 | 2.111–2.113 |
-| 30 | `w463879855_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.139 | 2.114 |
-| 31 | `w463879856` | Reihenhaus an Via della Spada | 4.021 | 2.115–2.116 |
-| 32 | `w463879856_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.589 | 2.117 |
-| 33 | `w463879867` | Reihenhaus an Via della Vigna Nuova | 4.310 | 2.118–2.120 |
-| 34 | `w463879867_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.442 | 2.121 |
-| 35 | `w463879869` | Reihenhaus an Via della Vigna Nuova | 1.989 | 2.122 |
-| 36 | `w463879869_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 3 | 2.123 |
-| 37 | `w463879872` | Reihenhaus an Via della Vigna Nuova | 2.888 | 2.123–2.124 |
-| 38 | `w463879872_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.159 | 2.125 |
-| 39 | `w463879873` | Haus w463879873 | 3.905 | 2.126–2.127 |
-| 40 | `w463879873_innen` | Haus w463879873: Innenausbau | 559 | 2.128 |
-| 41 | `w463879905` | Reihenhaus an Via della Vigna Nuova | 3.318 | 2.129–2.130 |
-| 42 | `w463879905_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.186 | 2.131 |
-| 43 | `w463879908` | Reihenhaus an Via della Spada | 6.449 | 2.132–2.135 |
-| 44 | `w463879908_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.595 | 2.136 |
-| 45 | `w463879913` | Reihenhaus an Via della Vigna Nuova | 2.841 | 2.137–2.138 |
-| 46 | `w463879913_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.541 | 2.139 |
-| 47 | `w463879917` | Haus w463879917 | 1.484 | 2.140 |
-| 48 | `w463879917_innen` | Haus w463879917: Innenausbau | 4 | 2.141 |
-| 49 | `w463879920` | Reihenhaus an Via della Vigna Nuova | 2.765 | 2.141–2.142 |
-| 50 | `w463879920_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.292 | 2.143 |
-| 51 | `w463879921` | Haus w463879921 | 1.915 | 2.144 |
-| 52 | `w463879921_innen` | Haus w463879921: Innenausbau | 817 | 2.145 |
-| 53 | `w463879922` | Reihenhaus an Via della Spada | 2.283 | 2.146–2.147 |
-| 54 | `w463879922_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.169 | 2.148 |
-| 55 | `w673491039` | Haus w673491039 | 1.188 | 2.149 |
-| 56 | `w673491039_innen` | Haus w673491039: Innenausbau | 1 | 2.150 |
-| 57 | `w675531843` | Reihenhaus an Via della Vigna Nuova | 2.148 | 2.150–2.151 |
-| 58 | `w675531843_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.204 | 2.152 |
-| 59 | `strassenschilder` | Straßenschilder | 8 | 2.152 |
+| 3 | `w116673459` | ex Chiesa di San Pancrazio | 19.999 | 2.35–2.45 |
+| 4 | `w116673459_innen` | ex Chiesa di San Pancrazio: Innenausbau | 7.333 | 2.46–2.49 |
+| 5 | `w307170312` | Palazzo Dudley | 18.578 | 2.50–2.60 |
+| 6 | `w307170312_innen` | Palazzo Dudley: Innenausbau | 5.781 | 2.61–2.63 |
+| 7 | `w307320831` | Reihenhaus an Via dei Palchetti | 5.611 | 2.64–2.66 |
+| 8 | `w307320831_innen` | Reihenhaus an Via dei Palchetti: Innenausbau | 2.239 | 2.67–2.68 |
+| 9 | `w463879818` | Reihenhaus an Via della Vigna Nuova | 6.539 | 2.69–2.72 |
+| 10 | `w463879818_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.460 | 2.73 |
+| 11 | `w463879820` | Reihenhaus an Via della Spada | 5.274 | 2.74–2.76 |
+| 12 | `w463879820_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.161 | 2.77 |
+| 13 | `w463879823` | Reihenhaus an Via della Vigna Nuova | 7.364 | 2.78–2.81 |
+| 14 | `w463879823_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.801 | 2.82 |
+| 15 | `w463879829` | Reihenhaus an Via della Vigna Nuova | 6.160 | 2.83–2.86 |
+| 16 | `w463879829_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 949 | 2.87 |
+| 17 | `w463879830` | Reihenhaus an Via della Spada | 8.545 | 2.88–2.92 |
+| 18 | `w463879830_innen` | Reihenhaus an Via della Spada: Innenausbau | 2.867 | 2.93–2.94 |
+| 19 | `w463879838` | Reihenhaus an Via della Vigna Nuova | 4.807 | 2.95–2.97 |
+| 20 | `w463879838_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.476 | 2.98 |
+| 21 | `w463879841` | Reihenhaus an Via della Spada | 2.773 | 2.99–2.100 |
+| 22 | `w463879841_innen` | Reihenhaus an Via della Spada: Innenausbau | 390 | 2.101 |
+| 23 | `w463879842` | Reihenhaus an Via della Vigna Nuova | 4.335 | 2.102–2.104 |
+| 24 | `w463879842_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.521 | 2.105 |
+| 25 | `w463879852` | Haus w463879852 | 3.242 | 2.106–2.107 |
+| 26 | `w463879852_innen` | Haus w463879852: Innenausbau | 646 | 2.108 |
+| 27 | `w463879853` | Reihenhaus an Via della Spada | 2.169 | 2.109–2.110 |
+| 28 | `w463879853_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.232 | 2.111 |
+| 29 | `w463879855` | Reihenhaus an Via della Vigna Nuova | 4.469 | 2.112–2.114 |
+| 30 | `w463879855_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.139 | 2.115 |
+| 31 | `w463879856` | Reihenhaus an Via della Spada | 4.021 | 2.116–2.117 |
+| 32 | `w463879856_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.589 | 2.118 |
+| 33 | `w463879867` | Reihenhaus an Via della Vigna Nuova | 4.310 | 2.119–2.121 |
+| 34 | `w463879867_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.442 | 2.122 |
+| 35 | `w463879869` | Reihenhaus an Via della Vigna Nuova | 1.989 | 2.123 |
+| 36 | `w463879869_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 3 | 2.124 |
+| 37 | `w463879872` | Reihenhaus an Via della Vigna Nuova | 2.888 | 2.124–2.125 |
+| 38 | `w463879872_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.159 | 2.126 |
+| 39 | `w463879873` | Haus w463879873 | 3.905 | 2.127–2.128 |
+| 40 | `w463879873_innen` | Haus w463879873: Innenausbau | 559 | 2.129 |
+| 41 | `w463879905` | Reihenhaus an Via della Vigna Nuova | 3.318 | 2.130–2.131 |
+| 42 | `w463879905_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.186 | 2.132 |
+| 43 | `w463879908` | Reihenhaus an Via della Spada | 6.449 | 2.133–2.136 |
+| 44 | `w463879908_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.595 | 2.137 |
+| 45 | `w463879913` | Reihenhaus an Via della Vigna Nuova | 2.841 | 2.138–2.139 |
+| 46 | `w463879913_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.541 | 2.140 |
+| 47 | `w463879917` | Haus w463879917 | 1.484 | 2.141 |
+| 48 | `w463879917_innen` | Haus w463879917: Innenausbau | 4 | 2.142 |
+| 49 | `w463879920` | Reihenhaus an Via della Vigna Nuova | 2.765 | 2.142–2.143 |
+| 50 | `w463879920_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.292 | 2.144 |
+| 51 | `w463879921` | Haus w463879921 | 1.915 | 2.145 |
+| 52 | `w463879921_innen` | Haus w463879921: Innenausbau | 817 | 2.146 |
+| 53 | `w463879922` | Reihenhaus an Via della Spada | 2.283 | 2.147–2.148 |
+| 54 | `w463879922_innen` | Reihenhaus an Via della Spada: Innenausbau | 1.169 | 2.149 |
+| 55 | `w673491039` | Haus w673491039 | 1.188 | 2.150 |
+| 56 | `w673491039_innen` | Haus w673491039: Innenausbau | 1 | 2.151 |
+| 57 | `w675531843` | Reihenhaus an Via della Vigna Nuova | 2.148 | 2.151–2.152 |
+| 58 | `w675531843_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 1.204 | 2.153 |
+| 59 | `strassenschilder` | Straßenschilder | 8 | 2.153 |
 
 ## Bauschritte
 
@@ -1221,7 +1219,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1233,7 +1231,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.36 – ex Chiesa di San Pancrazio – Teil 2/11 (Y 60–60)
 
@@ -1249,7 +1247,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1261,25 +1259,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.37 – ex Chiesa di San Pancrazio – Teil 3/11 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.485
+- **Blöcke:** 1.484
 - **Bauteile:** `w116673459`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.341 |
-| Polierter Andesit | `polished_andesite` | 115 |
-| Graues Buntglas | `gray_stained_glass` | 29 |
+| Glatter Stein | `smooth_stone` | 1.072 |
+| Tuffstein | `tuff` | 400 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1291,25 +1289,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.38 – ex Chiesa di San Pancrazio – Teil 4/11 (Y 65–69)
 
 - **Y-Bereich:** 65 bis 69
-- **Blöcke:** 1.646
+- **Blöcke:** 1.728
 - **Bauteile:** `w116673459`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.359 |
-| Polierter Andesit | `polished_andesite` | 200 |
-| Graues Buntglas | `gray_stained_glass` | 87 |
+| Glatter Stein | `smooth_stone` | 1.365 |
+| Tuffstein | `tuff` | 345 |
+| Polierter Andesit | `polished_andesite` | 14 |
+| Graues Buntglas | `gray_stained_glass` | 4 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1321,25 +1320,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.39 – ex Chiesa di San Pancrazio – Teil 5/11 (Y 70–75)
+### Schritt 2.39 – ex Chiesa di San Pancrazio – Teil 5/11 (Y 70–74)
 
-- **Y-Bereich:** 70 bis 75
-- **Blöcke:** 2.072
+- **Y-Bereich:** 70 bis 74
+- **Blöcke:** 1.754
 - **Bauteile:** `w116673459`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 2.054 |
-| Polierter Andesit | `polished_andesite` | 10 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
+| Glatter Stein | `smooth_stone` | 1.305 |
+| Tuffstein | `tuff` | 345 |
+| Polierter Andesit | `polished_andesite` | 100 |
+| Graues Buntglas | `gray_stained_glass` | 4 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1351,25 +1351,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.40 – ex Chiesa di San Pancrazio – Teil 6/11 (Y 76–80)
+### Schritt 2.40 – ex Chiesa di San Pancrazio – Teil 6/11 (Y 75–80)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 1.656
+- **Y-Bereich:** 75 bis 80
+- **Blöcke:** 1.954
 - **Bauteile:** `w116673459`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.300 |
-| Polierter Andesit | `polished_andesite` | 224 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
+| Glatter Stein | `smooth_stone` | 1.148 |
+| Tuffstein | `tuff` | 414 |
+| Polierter Andesit | `polished_andesite` | 231 |
+| Graues Buntglas | `gray_stained_glass` | 161 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1381,25 +1382,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.41 – ex Chiesa di San Pancrazio – Teil 7/11 (Y 81–85)
 
 - **Y-Bereich:** 81 bis 85
-- **Blöcke:** 1.709
+- **Blöcke:** 1.706
 - **Bauteile:** `w116673459`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.423 |
-| Polierter Andesit | `polished_andesite` | 224 |
-| Graues Buntglas | `gray_stained_glass` | 62 |
+| Glatter Stein | `smooth_stone` | 1.137 |
+| Tuffstein | `tuff` | 345 |
+| Polierter Andesit | `polished_andesite` | 158 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1411,26 +1413,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.42 – ex Chiesa di San Pancrazio – Teil 8/11 (Y 86–90)
 
 - **Y-Bereich:** 86 bis 90
-- **Blöcke:** 1.920
+- **Blöcke:** 1.945
 - **Bauteile:** `w116673459`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.307 |
-| Glatter Stein | `smooth_stone` | 287 |
-| Polierter Andesit | `polished_andesite` | 198 |
-| Graues Buntglas | `gray_stained_glass` | 128 |
+| Glatter Stein | `smooth_stone` | 1.340 |
+| Tuffstein | `tuff` | 345 |
+| Polierter Andesit | `polished_andesite` | 165 |
+| Graues Buntglas | `gray_stained_glass` | 95 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1442,7 +1444,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.43 – ex Chiesa di San Pancrazio – Teil 9/11 (Y 91–92)
 
@@ -1458,7 +1460,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1470,7 +1472,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.44 – ex Chiesa di San Pancrazio – Teil 10/11 (Y 93–95)
 
@@ -1487,7 +1489,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1499,7 +1501,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.45 – ex Chiesa di San Pancrazio – Teil 11/11 (Y 96–101)
 
@@ -1516,7 +1518,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze), Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1528,12 +1530,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.46 – ex Chiesa di San Pancrazio: Innenausbau – Teil 1/4 (Y 60–74)
+### Schritt 2.46 – ex Chiesa di San Pancrazio: Innenausbau – Teil 1/4 (Y 60–72)
 
-- **Y-Bereich:** 60 bis 74
-- **Blöcke:** 1.903
+- **Y-Bereich:** 60 bis 72
+- **Blöcke:** 1.895
 - **Bauteile:** `w116673459_innen`
 
 **Teileliste**
@@ -1541,16 +1543,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.815 |
-| Glatter Stein | `smooth_stone` | 34 |
+| Glatter Stein | `smooth_stone` | 30 |
 | Seelaterne | `sea_lantern` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 26 |
+| Steintreppe | `stone_stairs` | 22 |
 
 **Beschreibung**
 
@@ -1568,9 +1570,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.47 – ex Chiesa di San Pancrazio: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 2.47 – ex Chiesa di San Pancrazio: Innenausbau – Teil 2/4 (Y 72–72)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.787
 - **Bauteile:** `w116673459_innen`
 
@@ -1604,10 +1606,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.48 – ex Chiesa di San Pancrazio: Innenausbau – Teil 3/4 (Y 75–82)
+### Schritt 2.48 – ex Chiesa di San Pancrazio: Innenausbau – Teil 3/4 (Y 73–81)
 
-- **Y-Bereich:** 75 bis 82
-- **Blöcke:** 1.860
+- **Y-Bereich:** 73 bis 81
+- **Blöcke:** 1.864
 - **Bauteile:** `w116673459_innen`
 
 **Teileliste**
@@ -1615,16 +1617,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.815 |
-| Glatter Stein | `smooth_stone` | 22 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 14 |
+| Steintreppe | `stone_stairs` | 16 |
 
 **Beschreibung**
 
@@ -1642,9 +1644,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.49 – ex Chiesa di San Pancrazio: Innenausbau – Teil 4/4 (Y 82–82)
+### Schritt 2.49 – ex Chiesa di San Pancrazio: Innenausbau – Teil 4/4 (Y 81–81)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.787
 - **Bauteile:** `w116673459_innen`
 
@@ -1681,18 +1683,18 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 2.50 – Palazzo Dudley – Teil 1/11 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.171
+- **Blöcke:** 1.170
 - **Bauteile:** `w307170312`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.171 |
+| Polierter Tuffstein | `polished_tuff` | 1.170 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1704,7 +1706,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.51 – Palazzo Dudley – Teil 2/11 (Y 62–64)
 
@@ -1718,14 +1720,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.142 |
 | Endsteinziegel | `end_stone_bricks` | 793 |
-| Weißer Beton | `white_concrete` | 78 |
+| Glatter Stein | `smooth_stone` | 82 |
 | Polierter Andesit | `polished_andesite` | 13 |
-| Glatter Stein | `smooth_stone` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1737,29 +1738,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.52 – Palazzo Dudley – Teil 3/11 (Y 65–69)
 
 - **Y-Bereich:** 65 bis 69
-- **Blöcke:** 2.020
+- **Blöcke:** 2.073
 - **Bauteile:** `w307170312`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.245 |
-| Weißer Beton | `white_concrete` | 343 |
-| Graues Buntglas | `gray_stained_glass` | 224 |
-| Grüner Beton | `green_concrete` | 160 |
+| Endsteinziegel | `end_stone_bricks` | 1.333 |
+| Glatter Stein | `smooth_stone` | 415 |
+| Graues Buntglas | `gray_stained_glass` | 168 |
+| Grüner Beton | `green_concrete` | 120 |
 | Polierter Andesit | `polished_andesite` | 33 |
-| Glatter Stein | `smooth_stone` | 11 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1771,107 +1771,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.53 – Palazzo Dudley – Teil 4/11 (Y 70–72)
 
 - **Y-Bereich:** 70 bis 72
-- **Blöcke:** 1.316
-- **Bauteile:** `w307170312`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 980 |
-| Glatter Stein | `smooth_stone` | 207 |
-| Weißer Beton | `white_concrete` | 102 |
-| Polierter Andesit | `polished_andesite` | 19 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 2.54 – Palazzo Dudley – Teil 5/11 (Y 73–76)
-
-- **Y-Bereich:** 73 bis 76
-- **Blöcke:** 1.664
-- **Bauteile:** `w307170312`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.237 |
-| Weißer Beton | `white_concrete` | 200 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Grüner Beton | `green_concrete` | 86 |
-| Polierter Andesit | `polished_andesite` | 21 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 2.55 – Palazzo Dudley – Teil 6/11 (Y 77–81)
-
-- **Y-Bereich:** 77 bis 81
-- **Blöcke:** 2.055
-- **Bauteile:** `w307170312`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.318 |
-| Weißer Beton | `white_concrete` | 402 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 129 |
-| Polierter Andesit | `polished_andesite` | 26 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 2.56 – Palazzo Dudley – Teil 7/11 (Y 82–84)
-
-- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.323
 - **Bauteile:** `w307170312`
 
@@ -1879,14 +1783,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 999 |
-| Weißer Beton | `white_concrete` | 216 |
-| Glatter Stein | `smooth_stone` | 97 |
-| Polierter Andesit | `polished_andesite` | 11 |
+| Endsteinziegel | `end_stone_bricks` | 1.101 |
+| Glatter Stein | `smooth_stone` | 202 |
+| Polierter Andesit | `polished_andesite` | 12 |
+| Tuffsteinziegel | `tuff_bricks` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1898,27 +1802,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.57 – Palazzo Dudley – Teil 8/11 (Y 85–89)
+### Schritt 2.54 – Palazzo Dudley – Teil 5/11 (Y 73–77)
 
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.955
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 2.042
 - **Bauteile:** `w307170312`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.183 |
-| Graues Buntglas | `gray_stained_glass` | 300 |
-| Weißer Beton | `white_concrete` | 230 |
-| Grüner Beton | `green_concrete` | 215 |
+| Endsteinziegel | `end_stone_bricks` | 1.274 |
+| Glatter Stein | `smooth_stone` | 329 |
+| Graues Buntglas | `gray_stained_glass` | 240 |
+| Grüner Beton | `green_concrete` | 172 |
 | Polierter Andesit | `polished_andesite` | 27 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1930,25 +1834,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.58 – Palazzo Dudley – Teil 9/11 (Y 90–92)
+### Schritt 2.55 – Palazzo Dudley – Teil 6/11 (Y 78–80)
 
-- **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.573
+- **Y-Bereich:** 78 bis 80
+- **Blöcke:** 1.273
 - **Bauteile:** `w307170312`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.297 |
-| Weißer Beton | `white_concrete` | 264 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Endsteinziegel | `end_stone_bricks` | 801 |
+| Glatter Stein | `smooth_stone` | 359 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Grüner Beton | `green_concrete` | 43 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1960,7 +1866,103 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 2.56 – Palazzo Dudley – Teil 7/11 (Y 81–85)
+
+- **Y-Bereich:** 81 bis 85
+- **Blöcke:** 2.042
+- **Bauteile:** `w307170312`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.274 |
+| Glatter Stein | `smooth_stone` | 329 |
+| Graues Buntglas | `gray_stained_glass` | 240 |
+| Grüner Beton | `green_concrete` | 172 |
+| Polierter Andesit | `polished_andesite` | 27 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 2.57 – Palazzo Dudley – Teil 8/11 (Y 86–89)
+
+- **Y-Bereich:** 86 bis 89
+- **Blöcke:** 1.751
+- **Bauteile:** `w307170312`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.131 |
+| Glatter Stein | `smooth_stone` | 504 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Grüner Beton | `green_concrete` | 43 |
+| Polierter Andesit | `polished_andesite` | 13 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 2.58 – Palazzo Dudley – Teil 9/11 (Y 90–92)
+
+- **Y-Bereich:** 90 bis 92
+- **Blöcke:** 1.523
+- **Bauteile:** `w307170312`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.253 |
+| Glatter Stein | `smooth_stone` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Grüner Beton | `green_concrete` | 43 |
+| Polierter Andesit | `polished_andesite` | 13 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.59 – Palazzo Dudley – Teil 10/11 (Y 93–94)
 
@@ -1976,7 +1978,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1988,7 +1990,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.60 – Palazzo Dudley – Teil 11/11 (Y 95–102)
 
@@ -2005,7 +2007,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1578–84 (Ammannati), Umbau 1912/13 (Coppedè)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Dudley, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2017,23 +2019,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.61 – Palazzo Dudley: Innenausbau – Teil 1/2 (Y 62–72)
+### Schritt 2.61 – Palazzo Dudley: Innenausbau – Teil 1/3 (Y 62–71)
 
-- **Y-Bereich:** 62 bis 72
-- **Blöcke:** 1.933
+- **Y-Bereich:** 62 bis 71
+- **Blöcke:** 1.930
 - **Bauteile:** `w307170312_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.864 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 20 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Terrakotta | `terracotta` | 1.863 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Seelaterne | `sea_lantern` | 22 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -2042,7 +2044,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 18 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -2061,22 +2063,66 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.62 – Palazzo Dudley: Innenausbau – Teil 2/2 (Y 73–83)
+### Schritt 2.62 – Palazzo Dudley: Innenausbau – Teil 2/3 (Y 72–80)
 
-- **Y-Bereich:** 73 bis 83
-- **Blöcke:** 1.938
+- **Y-Bereich:** 72 bis 80
+- **Blöcke:** 1.925
 - **Bauteile:** `w307170312_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.864 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Terrakotta | `terracotta` | 1.863 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 2.63 – Palazzo Dudley: Innenausbau – Teil 3/3 (Y 81–88)
+
+- **Y-Bereich:** 81 bis 88
+- **Blöcke:** 1.926
+- **Bauteile:** `w307170312_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.863 |
+| Glatter Stein | `smooth_stone` | 20 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
@@ -2086,7 +2132,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 14 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
@@ -2105,7 +2151,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.63 – Reihenhaus an Via dei Palchetti – Teil 1/3 (Y 60–69)
+### Schritt 2.64 – Reihenhaus an Via dei Palchetti – Teil 1/3 (Y 60–69)
 
 - **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.885
@@ -2139,7 +2185,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.64 – Reihenhaus an Via dei Palchetti – Teil 2/3 (Y 70–85)
+### Schritt 2.65 – Reihenhaus an Via dei Palchetti – Teil 2/3 (Y 70–85)
 
 - **Y-Bereich:** 70 bis 85
 - **Blöcke:** 1.868
@@ -2170,7 +2216,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.65 – Reihenhaus an Via dei Palchetti – Teil 3/3 (Y 86–96)
+### Schritt 2.66 – Reihenhaus an Via dei Palchetti – Teil 3/3 (Y 86–96)
 
 - **Y-Bereich:** 86 bis 96
 - **Blöcke:** 1.858
@@ -2204,7 +2250,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.66 – Reihenhaus an Via dei Palchetti: Innenausbau – Teil 1/2 (Y 60–75)
+### Schritt 2.67 – Reihenhaus an Via dei Palchetti: Innenausbau – Teil 1/2 (Y 60–75)
 
 - **Y-Bereich:** 60 bis 75
 - **Blöcke:** 789
@@ -2246,7 +2292,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.67 – Reihenhaus an Via dei Palchetti: Innenausbau – Teil 2/2 (Y 76–84)
+### Schritt 2.68 – Reihenhaus an Via dei Palchetti: Innenausbau – Teil 2/2 (Y 76–84)
 
 - **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.450
@@ -2288,7 +2334,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.68 – Reihenhaus an Via della Vigna Nuova – Teil 1/4 (Y 61–67)
+### Schritt 2.69 – Reihenhaus an Via della Vigna Nuova – Teil 1/4 (Y 61–67)
 
 - **Y-Bereich:** 61 bis 67
 - **Blöcke:** 1.580
@@ -2320,7 +2366,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.69 – Reihenhaus an Via della Vigna Nuova – Teil 2/4 (Y 68–77)
+### Schritt 2.70 – Reihenhaus an Via della Vigna Nuova – Teil 2/4 (Y 68–77)
 
 - **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.684
@@ -2352,7 +2398,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.70 – Reihenhaus an Via della Vigna Nuova – Teil 3/4 (Y 78–87)
+### Schritt 2.71 – Reihenhaus an Via della Vigna Nuova – Teil 3/4 (Y 78–87)
 
 - **Y-Bereich:** 78 bis 87
 - **Blöcke:** 1.686
@@ -2383,7 +2429,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.71 – Reihenhaus an Via della Vigna Nuova – Teil 4/4 (Y 88–97)
+### Schritt 2.72 – Reihenhaus an Via della Vigna Nuova – Teil 4/4 (Y 88–97)
 
 - **Y-Bereich:** 88 bis 97
 - **Blöcke:** 1.589
@@ -2416,7 +2462,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.72 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.73 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.460
@@ -2458,7 +2504,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.73 – Reihenhaus an Via della Spada – Teil 1/3 (Y 61–70)
+### Schritt 2.74 – Reihenhaus an Via della Spada – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.694
@@ -2489,7 +2535,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.74 – Reihenhaus an Via della Spada – Teil 2/3 (Y 71–83)
+### Schritt 2.75 – Reihenhaus an Via della Spada – Teil 2/3 (Y 71–83)
 
 - **Y-Bereich:** 71 bis 83
 - **Blöcke:** 1.791
@@ -2519,7 +2565,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.75 – Reihenhaus an Via della Spada – Teil 3/3 (Y 84–96)
+### Schritt 2.76 – Reihenhaus an Via della Spada – Teil 3/3 (Y 84–96)
 
 - **Y-Bereich:** 84 bis 96
 - **Blöcke:** 1.789
@@ -2551,7 +2597,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.76 – Reihenhaus an Via della Spada: Innenausbau
+### Schritt 2.77 – Reihenhaus an Via della Spada: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.161
@@ -2591,7 +2637,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.77 – Reihenhaus an Via della Vigna Nuova – Teil 1/4 (Y 60–66)
+### Schritt 2.78 – Reihenhaus an Via della Vigna Nuova – Teil 1/4 (Y 60–66)
 
 - **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.846
@@ -2622,7 +2668,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.78 – Reihenhaus an Via della Vigna Nuova – Teil 2/4 (Y 67–76)
+### Schritt 2.79 – Reihenhaus an Via della Vigna Nuova – Teil 2/4 (Y 67–76)
 
 - **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.893
@@ -2652,7 +2698,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.79 – Reihenhaus an Via della Vigna Nuova – Teil 3/4 (Y 77–86)
+### Schritt 2.80 – Reihenhaus an Via della Vigna Nuova – Teil 3/4 (Y 77–86)
 
 - **Y-Bereich:** 77 bis 86
 - **Blöcke:** 1.875
@@ -2682,7 +2728,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.80 – Reihenhaus an Via della Vigna Nuova – Teil 4/4 (Y 87–95)
+### Schritt 2.81 – Reihenhaus an Via della Vigna Nuova – Teil 4/4 (Y 87–95)
 
 - **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.750
@@ -2714,7 +2760,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.81 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.82 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.801
@@ -2756,7 +2802,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.82 – Reihenhaus an Via della Vigna Nuova – Teil 1/4 (Y 61–68)
+### Schritt 2.83 – Reihenhaus an Via della Vigna Nuova – Teil 1/4 (Y 61–68)
 
 - **Y-Bereich:** 61 bis 68
 - **Blöcke:** 1.585
@@ -2789,7 +2835,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.83 – Reihenhaus an Via della Vigna Nuova – Teil 2/4 (Y 69–77)
+### Schritt 2.84 – Reihenhaus an Via della Vigna Nuova – Teil 2/4 (Y 69–77)
 
 - **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.536
@@ -2819,7 +2865,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.84 – Reihenhaus an Via della Vigna Nuova – Teil 3/4 (Y 78–86)
+### Schritt 2.85 – Reihenhaus an Via della Vigna Nuova – Teil 3/4 (Y 78–86)
 
 - **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.526
@@ -2849,7 +2895,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.85 – Reihenhaus an Via della Vigna Nuova – Teil 4/4 (Y 87–96)
+### Schritt 2.86 – Reihenhaus an Via della Vigna Nuova – Teil 4/4 (Y 87–96)
 
 - **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.513
@@ -2881,7 +2927,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.86 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.87 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 949
@@ -2921,7 +2967,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.87 – Reihenhaus an Via della Spada – Teil 1/5 (Y 61–64)
+### Schritt 2.88 – Reihenhaus an Via della Spada – Teil 1/5 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.719
@@ -2953,7 +2999,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.88 – Reihenhaus an Via della Spada – Teil 2/5 (Y 65–73)
+### Schritt 2.89 – Reihenhaus an Via della Spada – Teil 2/5 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
 - **Blöcke:** 1.769
@@ -2985,7 +3031,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.89 – Reihenhaus an Via della Spada – Teil 3/5 (Y 74–81)
+### Schritt 2.90 – Reihenhaus an Via della Spada – Teil 3/5 (Y 74–81)
 
 - **Y-Bereich:** 74 bis 81
 - **Blöcke:** 1.580
@@ -3016,7 +3062,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.90 – Reihenhaus an Via della Spada – Teil 4/5 (Y 82–90)
+### Schritt 2.91 – Reihenhaus an Via della Spada – Teil 4/5 (Y 82–90)
 
 - **Y-Bereich:** 82 bis 90
 - **Blöcke:** 1.800
@@ -3047,7 +3093,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.91 – Reihenhaus an Via della Spada – Teil 5/5 (Y 91–99)
+### Schritt 2.92 – Reihenhaus an Via della Spada – Teil 5/5 (Y 91–99)
 
 - **Y-Bereich:** 91 bis 99
 - **Blöcke:** 1.677
@@ -3077,7 +3123,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.92 – Reihenhaus an Via della Spada: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 2.93 – Reihenhaus an Via della Spada: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 997
@@ -3119,7 +3165,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.93 – Reihenhaus an Via della Spada: Innenausbau – Teil 2/2 (Y 77–85)
+### Schritt 2.94 – Reihenhaus an Via della Spada: Innenausbau – Teil 2/2 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.870
@@ -3159,7 +3205,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.94 – Reihenhaus an Via della Vigna Nuova – Teil 1/3 (Y 60–70)
+### Schritt 2.95 – Reihenhaus an Via della Vigna Nuova – Teil 1/3 (Y 60–70)
 
 - **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.662
@@ -3191,7 +3237,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.95 – Reihenhaus an Via della Vigna Nuova – Teil 2/3 (Y 71–84)
+### Schritt 2.96 – Reihenhaus an Via della Vigna Nuova – Teil 2/3 (Y 71–84)
 
 - **Y-Bereich:** 71 bis 84
 - **Blöcke:** 1.600
@@ -3222,7 +3268,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.96 – Reihenhaus an Via della Vigna Nuova – Teil 3/3 (Y 85–95)
+### Schritt 2.97 – Reihenhaus an Via della Vigna Nuova – Teil 3/3 (Y 85–95)
 
 - **Y-Bereich:** 85 bis 95
 - **Blöcke:** 1.545
@@ -3256,7 +3302,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.97 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.98 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.476
@@ -3298,7 +3344,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.98 – Reihenhaus an Via della Spada – Teil 1/2 (Y 61–77)
+### Schritt 2.99 – Reihenhaus an Via della Spada – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.387
@@ -3329,7 +3375,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.99 – Reihenhaus an Via della Spada – Teil 2/2 (Y 78–95)
+### Schritt 2.100 – Reihenhaus an Via della Spada – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.386
@@ -3362,7 +3408,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.100 – Reihenhaus an Via della Spada: Innenausbau
+### Schritt 2.101 – Reihenhaus an Via della Spada: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 390
@@ -3402,7 +3448,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.101 – Reihenhaus an Via della Vigna Nuova – Teil 1/3 (Y 60–69)
+### Schritt 2.102 – Reihenhaus an Via della Vigna Nuova – Teil 1/3 (Y 60–69)
 
 - **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.412
@@ -3434,7 +3480,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.102 – Reihenhaus an Via della Vigna Nuova – Teil 2/3 (Y 70–84)
+### Schritt 2.103 – Reihenhaus an Via della Vigna Nuova – Teil 2/3 (Y 70–84)
 
 - **Y-Bereich:** 70 bis 84
 - **Blöcke:** 1.491
@@ -3464,7 +3510,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.103 – Reihenhaus an Via della Vigna Nuova – Teil 3/3 (Y 85–95)
+### Schritt 2.104 – Reihenhaus an Via della Vigna Nuova – Teil 3/3 (Y 85–95)
 
 - **Y-Bereich:** 85 bis 95
 - **Blöcke:** 1.432
@@ -3497,7 +3543,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.104 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.105 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.521
@@ -3539,7 +3585,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.105 – Haus w463879852 – Teil 1/2 (Y 61–77)
+### Schritt 2.106 – Haus w463879852 – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.642
@@ -3570,7 +3616,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.106 – Haus w463879852 – Teil 2/2 (Y 78–95)
+### Schritt 2.107 – Haus w463879852 – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.600
@@ -3602,7 +3648,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.107 – Haus w463879852: Innenausbau
+### Schritt 2.108 – Haus w463879852: Innenausbau
 
 - **Y-Bereich:** 61 bis 84
 - **Blöcke:** 646
@@ -3640,7 +3686,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.108 – Reihenhaus an Via della Spada – Teil 1/2 (Y 61–77)
+### Schritt 2.109 – Reihenhaus an Via della Spada – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.077
@@ -3672,7 +3718,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.109 – Reihenhaus an Via della Spada – Teil 2/2 (Y 78–96)
+### Schritt 2.110 – Reihenhaus an Via della Spada – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 1.092
@@ -3704,7 +3750,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.110 – Reihenhaus an Via della Spada: Innenausbau
+### Schritt 2.111 – Reihenhaus an Via della Spada: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.232
@@ -3744,7 +3790,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.111 – Reihenhaus an Via della Vigna Nuova – Teil 1/3 (Y 60–69)
+### Schritt 2.112 – Reihenhaus an Via della Vigna Nuova – Teil 1/3 (Y 60–69)
 
 - **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.437
@@ -3776,7 +3822,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.112 – Reihenhaus an Via della Vigna Nuova – Teil 2/3 (Y 70–83)
+### Schritt 2.113 – Reihenhaus an Via della Vigna Nuova – Teil 2/3 (Y 70–83)
 
 - **Y-Bereich:** 70 bis 83
 - **Blöcke:** 1.588
@@ -3806,7 +3852,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.113 – Reihenhaus an Via della Vigna Nuova – Teil 3/3 (Y 84–96)
+### Schritt 2.114 – Reihenhaus an Via della Vigna Nuova – Teil 3/3 (Y 84–96)
 
 - **Y-Bereich:** 84 bis 96
 - **Blöcke:** 1.444
@@ -3838,7 +3884,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.114 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.115 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.139
@@ -3880,7 +3926,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.115 – Reihenhaus an Via della Spada – Teil 1/2 (Y 60–78)
+### Schritt 2.116 – Reihenhaus an Via della Spada – Teil 1/2 (Y 60–78)
 
 - **Y-Bereich:** 60 bis 78
 - **Blöcke:** 2.042
@@ -3914,7 +3960,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.116 – Reihenhaus an Via della Spada – Teil 2/2 (Y 79–95)
+### Schritt 2.117 – Reihenhaus an Via della Spada – Teil 2/2 (Y 79–95)
 
 - **Y-Bereich:** 79 bis 95
 - **Blöcke:** 1.979
@@ -3947,7 +3993,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.117 – Reihenhaus an Via della Spada: Innenausbau
+### Schritt 2.118 – Reihenhaus an Via della Spada: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.589
@@ -3987,7 +4033,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.118 – Reihenhaus an Via della Vigna Nuova – Teil 1/3 (Y 60–69)
+### Schritt 2.119 – Reihenhaus an Via della Vigna Nuova – Teil 1/3 (Y 60–69)
 
 - **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.402
@@ -4020,7 +4066,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.119 – Reihenhaus an Via della Vigna Nuova – Teil 2/3 (Y 70–84)
+### Schritt 2.120 – Reihenhaus an Via della Vigna Nuova – Teil 2/3 (Y 70–84)
 
 - **Y-Bereich:** 70 bis 84
 - **Blöcke:** 1.515
@@ -4051,7 +4097,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.120 – Reihenhaus an Via della Vigna Nuova – Teil 3/3 (Y 85–95)
+### Schritt 2.121 – Reihenhaus an Via della Vigna Nuova – Teil 3/3 (Y 85–95)
 
 - **Y-Bereich:** 85 bis 95
 - **Blöcke:** 1.393
@@ -4084,7 +4130,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.121 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.122 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.442
@@ -4126,7 +4172,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.122 – Reihenhaus an Via della Vigna Nuova
+### Schritt 2.123 – Reihenhaus an Via della Vigna Nuova
 
 - **Y-Bereich:** 60 bis 94
 - **Blöcke:** 1.989
@@ -4160,7 +4206,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.123 – Reihenhaus an Via della Vigna Nuova: Innenausbau & Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 61–77)
+### Schritt 2.124 – Reihenhaus an Via della Vigna Nuova: Innenausbau & Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 60 bis 77
 - **Blöcke:** 1.479
@@ -4193,7 +4239,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.124 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 78–96)
+### Schritt 2.125 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 1.412
@@ -4225,7 +4271,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.125 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.126 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.159
@@ -4265,7 +4311,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.126 – Haus w463879873 – Teil 1/2 (Y 60–75)
+### Schritt 2.127 – Haus w463879873 – Teil 1/2 (Y 60–75)
 
 - **Y-Bereich:** 60 bis 75
 - **Blöcke:** 1.908
@@ -4297,7 +4343,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.127 – Haus w463879873 – Teil 2/2 (Y 76–95)
+### Schritt 2.128 – Haus w463879873 – Teil 2/2 (Y 76–95)
 
 - **Y-Bereich:** 76 bis 95
 - **Blöcke:** 1.997
@@ -4330,7 +4376,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.128 – Haus w463879873: Innenausbau
+### Schritt 2.129 – Haus w463879873: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 559
@@ -4372,7 +4418,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.129 – Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 60–76)
+### Schritt 2.130 – Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 60–76)
 
 - **Y-Bereich:** 60 bis 76
 - **Blöcke:** 1.643
@@ -4405,7 +4451,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.130 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 77–95)
+### Schritt 2.131 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 77–95)
 
 - **Y-Bereich:** 77 bis 95
 - **Blöcke:** 1.675
@@ -4438,7 +4484,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.131 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.132 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.186
@@ -4480,7 +4526,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.132 – Reihenhaus an Via della Spada – Teil 1/4 (Y 59–67)
+### Schritt 2.133 – Reihenhaus an Via della Spada – Teil 1/4 (Y 59–67)
 
 - **Y-Bereich:** 59 bis 67
 - **Blöcke:** 1.671
@@ -4514,7 +4560,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.133 – Reihenhaus an Via della Spada – Teil 2/4 (Y 68–77)
+### Schritt 2.134 – Reihenhaus an Via della Spada – Teil 2/4 (Y 68–77)
 
 - **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.582
@@ -4546,7 +4592,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.134 – Reihenhaus an Via della Spada – Teil 3/4 (Y 78–87)
+### Schritt 2.135 – Reihenhaus an Via della Spada – Teil 3/4 (Y 78–87)
 
 - **Y-Bereich:** 78 bis 87
 - **Blöcke:** 1.568
@@ -4577,7 +4623,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.135 – Reihenhaus an Via della Spada – Teil 4/4 (Y 88–97)
+### Schritt 2.136 – Reihenhaus an Via della Spada – Teil 4/4 (Y 88–97)
 
 - **Y-Bereich:** 88 bis 97
 - **Blöcke:** 1.628
@@ -4611,7 +4657,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.136 – Reihenhaus an Via della Spada: Innenausbau
+### Schritt 2.137 – Reihenhaus an Via della Spada: Innenausbau
 
 - **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.595
@@ -4651,7 +4697,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.137 – Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 60–77)
+### Schritt 2.138 – Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 60–77)
 
 - **Y-Bereich:** 60 bis 77
 - **Blöcke:** 1.424
@@ -4682,7 +4728,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.138 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 78–96)
+### Schritt 2.139 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 1.417
@@ -4714,7 +4760,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.139 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.140 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.541
@@ -4754,7 +4800,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.140 – Haus w463879917
+### Schritt 2.141 – Haus w463879917
 
 - **Y-Bereich:** 62 bis 96
 - **Blöcke:** 1.484
@@ -4790,7 +4836,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.141 – Haus w463879917: Innenausbau & Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 59–76)
+### Schritt 2.142 – Haus w463879917: Innenausbau & Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 59–76)
 
 - **Y-Bereich:** 59 bis 76
 - **Blöcke:** 1.376
@@ -4824,7 +4870,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.142 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 77–94)
+### Schritt 2.143 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 77–94)
 
 - **Y-Bereich:** 77 bis 94
 - **Blöcke:** 1.393
@@ -4857,7 +4903,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.143 – Reihenhaus an Via della Vigna Nuova: Innenausbau
+### Schritt 2.144 – Reihenhaus an Via della Vigna Nuova: Innenausbau
 
 - **Y-Bereich:** 59 bis 83
 - **Blöcke:** 1.292
@@ -4899,7 +4945,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.144 – Haus w463879921
+### Schritt 2.145 – Haus w463879921
 
 - **Y-Bereich:** 60 bis 95
 - **Blöcke:** 1.915
@@ -4934,7 +4980,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.145 – Haus w463879921: Innenausbau
+### Schritt 2.146 – Haus w463879921: Innenausbau
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 817
@@ -4976,7 +5022,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.146 – Reihenhaus an Via della Spada – Teil 1/2 (Y 58–73)
+### Schritt 2.147 – Reihenhaus an Via della Spada – Teil 1/2 (Y 58–73)
 
 - **Y-Bereich:** 58 bis 73
 - **Blöcke:** 1.124
@@ -5009,7 +5055,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.147 – Reihenhaus an Via della Spada – Teil 2/2 (Y 74–94)
+### Schritt 2.148 – Reihenhaus an Via della Spada – Teil 2/2 (Y 74–94)
 
 - **Y-Bereich:** 74 bis 94
 - **Blöcke:** 1.159
@@ -5041,7 +5087,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.148 – Reihenhaus an Via della Spada: Innenausbau
+### Schritt 2.149 – Reihenhaus an Via della Spada: Innenausbau
 
 - **Y-Bereich:** 59 bis 83
 - **Blöcke:** 1.169
@@ -5081,7 +5127,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.149 – Haus w673491039
+### Schritt 2.150 – Haus w673491039
 
 - **Y-Bereich:** 61 bis 95
 - **Blöcke:** 1.188
@@ -5115,7 +5161,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.150 – Haus w673491039: Innenausbau & Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 60–77)
+### Schritt 2.151 – Haus w673491039: Innenausbau & Reihenhaus an Via della Vigna Nuova – Teil 1/2 (Y 60–77)
 
 - **Y-Bereich:** 60 bis 77
 - **Blöcke:** 1.090
@@ -5148,7 +5194,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.151 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 78–96)
+### Schritt 2.152 – Reihenhaus an Via della Vigna Nuova – Teil 2/2 (Y 78–96)
 
 - **Y-Bereich:** 78 bis 96
 - **Blöcke:** 1.059
@@ -5180,7 +5226,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.152 – Reihenhaus an Via della Vigna Nuova: Innenausbau & Straßenschilder
+### Schritt 2.153 – Reihenhaus an Via della Vigna Nuova: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.212

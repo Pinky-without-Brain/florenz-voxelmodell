@@ -1,7 +1,7 @@
 {
   "id": "w306222215",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Neugotik, um 1850–52 (Ignazio Villa, Bildhauer und Bauherr)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,46 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "portalBreiteBl": 6,
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 3
+      "art": "putzgesims",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "drei_spitzbogenportale",
+      "archetti_unter_traufe",
+      "nischen_fialen_pinakel_karyatiden",
+      "panoramaterrasse_wendeltreppe"
+    ]
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
-    "altana": false
+    "form": "flach",
+    "material": "terrasse",
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_di_Ignazio_Villa",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: neugotisch, um 1850–52 vom Bildhauer Ignazio Villa erbaut (Bauherr, Atelier im Haus), drei Geschosse, drei Spitzbogenportale im Erdgeschoss, Spitzbogenfenster, Bogenreihe (Archetti) unter der Traufe, neugotische Dekoration an allen drei Fassaden, Panoramaterrasse mit Wendeltreppe, Putz 2010–12 erneuert (ursprünglich rot, später weiß). Annahme: Spitzbögen als Rundbögen abgebildet, Terrakotta als Annäherung an die ursprüngliche rote Farbe.",
   "name": "Casa di Ignazio Villa"
 }

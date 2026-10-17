@@ -1,7 +1,7 @@
 {
   "id": "w307544542",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "13. Jh. (Turm), vor 1427 zum Stadtpalast umgebaut",
   "geschosse": [
     {
       "art": "eg",
@@ -26,28 +26,33 @@
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 5,
-      "fenster": "rechteck"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "keiner",
-      "tiefeBl": 0
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "balkon_schmiedeeisen_giebelportal_17jh",
+      "altana_zwei_monofore",
+      "pietraforte_quader_erdgeschoss",
+      "putz_20jh_entfernt"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Ghiberti",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Turm des 13. Jh., vor 1427 zu einem Stadtpalast umgebaut, im 20. Jh. überarbeitet (Putz entfernt), Erdgeschoss aus großen regelmäßigen Pietraforte-Quadern, obere Geschosse Filaretto, großes späteres Rundbogenportal mit Balkon und Giebelportal (frühestens 17. Jh.), rechteckige Fenster in den Obergeschossen, Altana mit Satteldach und zwei Monoforen, vorspringende Traufe. Annahme: Mauerwerk einheitlich als Bruchstein, Achsen, Geschosszahl.",
   "name": "Torre dei Ghiberti"
 }

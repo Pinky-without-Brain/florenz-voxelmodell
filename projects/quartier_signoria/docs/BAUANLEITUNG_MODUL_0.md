@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 60.929 |
+| Blöcke | 60.828 |
 | Bauschritte | 35 |
 | Y-Bereich | 62 bis 115 |
 | X-Ausdehnung | -572 bis -494 (79 Blöcke) |
 | Z-Ausdehnung | 926 bis 1039 (114 Blöcke) |
 | Kleinster Schritt | 905 Blöcke (Schritt 0.13) |
-| Mittlerer Schritt | 1.741 Blöcke |
+| Mittlerer Schritt | 1.738 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 0.19) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 19.072 | 31,3 % |
-| Tuffstein | `tuff` | 10.412 | 17,1 % |
+| Terrakotta | `terracotta` | 19.040 | 31,3 % |
+| Tuffstein | `tuff` | 10.343 | 17,0 % |
 | Endsteinziegel | `end_stone_bricks` | 7.404 | 12,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 6.853 | 11,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 6.853 | 11,3 % |
+| Polierter Andesit | `polished_andesite` | 4.309 | 7,1 % |
 | Polierter Tuffstein | `polished_tuff` | 4.277 | 7,0 % |
-| Polierter Andesit | `polished_andesite` | 3.996 | 6,6 % |
-| Glatter Stein | `smooth_stone` | 3.540 | 5,8 % |
+| Glatter Stein | `smooth_stone` | 3.266 | 5,4 % |
 | Graues Buntglas | `gray_stained_glass` | 1.895 | 3,1 % |
 | Weißer Beton | `white_concrete` | 1.577 | 2,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 559 | 0,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 566 | 0,9 % |
 | Ziegelsteine | `bricks` | 267 | 0,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 267 | 0,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 221 | 0,4 % |
 | Grüner Beton | `green_concrete` | 194 | 0,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 177 | 0,3 % |
 | Seelaterne | `sea_lantern` | 95 | 0,2 % |
@@ -64,11 +64,11 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w115117245` | Palazzo des Cinquecento an Lungarno degli Acciaioli | 12.797 | 0.1–0.7 |
 | 2 | `w115117245_innen` | Palazzo des Cinquecento an Lungarno degli Acciaioli: Innenausbau | 3.184 | 0.8–0.9 |
-| 3 | `w306692130` | Torre degli Amidei | 4.654 | 0.10–0.12 |
+| 3 | `w306692130` | Torre degli Amidei | 4.542 | 0.10–0.12 |
 | 4 | `w306692130_innen` | Torre degli Amidei: Innenausbau | 905 | 0.13 |
 | 5 | `w485935636` | Renaissance-Palazzo an Borgo Santi Apostoli | 15.379 | 0.14–0.21 |
 | 6 | `w485935636_innen` | Renaissance-Palazzo an Borgo Santi Apostoli: Innenausbau | 2.860 | 0.22–0.23 |
-| 7 | `w485935637` | Reihenhaus an Vicolo dell'Oro | 13.899 | 0.24–0.31 |
+| 7 | `w485935637` | Reihenhaus an Vicolo dell'Oro | 13.910 | 0.24–0.31 |
 | 8 | `w485935637_innen` | Reihenhaus an Vicolo dell'Oro: Innenausbau | 7.243 | 0.32–0.35 |
 | 9 | `strassenschilder` | Straßenschilder | 8 | 0.35 |
 
@@ -388,22 +388,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.10 – Torre degli Amidei – Teil 1/3 (Y 63–75)
 
 - **Y-Bereich:** 63 bis 75
-- **Blöcke:** 1.556
+- **Blöcke:** 1.533
 - **Bauteile:** `w306692130`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.160 |
+| Tuffstein | `tuff` | 1.091 |
 | Polierter Tuffstein | `polished_tuff` | 303 |
-| Tuffsteinziegel | `tuff_bricks` | 40 |
-| Glatter Stein | `smooth_stone` | 37 |
+| Polierter Andesit | `polished_andesite` | 76 |
+| Tuffsteinziegel | `tuff_bricks` | 47 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (frühes 13. Jh., Wiederaufbau nach 1944 (Morozzi)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_degli_Amidei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -415,26 +415,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.11 – Torre degli Amidei – Teil 2/3 (Y 76–90)
+### Schritt 0.11 – Torre degli Amidei – Teil 2/3 (Y 76–89)
 
-- **Y-Bereich:** 76 bis 90
-- **Blöcke:** 1.576
+- **Y-Bereich:** 76 bis 89
+- **Blöcke:** 1.474
 - **Bauteile:** `w306692130`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.325 |
-| Glatter Stein | `smooth_stone` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
-| Tuffsteinziegel | `tuff_bricks` | 33 |
+| Tuffstein | `tuff` | 1.240 |
+| Polierter Andesit | `polished_andesite` | 142 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Tuffsteinziegel | `tuff_bricks` | 32 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (frühes 13. Jh., Wiederaufbau nach 1944 (Morozzi)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_degli_Amidei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -446,29 +446,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 0.12 – Torre degli Amidei – Teil 3/3 (Y 91–105)
+### Schritt 0.12 – Torre degli Amidei – Teil 3/3 (Y 90–105)
 
-- **Y-Bereich:** 91 bis 105
-- **Blöcke:** 1.522
+- **Y-Bereich:** 90 bis 105
+- **Blöcke:** 1.535
 - **Bauteile:** `w306692130`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 922 |
-| Terrakotta | `terracotta` | 396 |
-| Glatter Stein | `smooth_stone` | 87 |
-| Fichtenholz-Bretter | `spruce_planks` | 49 |
-| Graues Buntglas | `gray_stained_glass` | 30 |
-| Tuffsteinziegel | `tuff_bricks` | 22 |
+| Tuffstein | `tuff` | 1.007 |
+| Terrakotta | `terracotta` | 356 |
+| Polierter Andesit | `polished_andesite` | 95 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Tuffsteinziegel | `tuff_bricks` | 23 |
 | Ziegelsteine | `bricks` | 16 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 5 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (frühes 13. Jh., Wiederaufbau nach 1944 (Morozzi)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_degli_Amidei, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -480,7 +479,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.13 – Torre degli Amidei: Innenausbau
 
@@ -1056,16 +1055,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.30 – Reihenhaus an Vicolo dell'Oro – Teil 7/8 (Y 98–100)
 
 - **Y-Bereich:** 98 bis 100
-- **Blöcke:** 1.902
+- **Blöcke:** 1.913
 - **Bauteile:** `w485935637`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.196 |
+| Terrakotta | `terracotta` | 1.204 |
 | Gelbe Keramik | `yellow_terracotta` | 426 |
-| Fichtenholz-Bretter | `spruce_planks` | 218 |
+| Fichtenholz-Bretter | `spruce_planks` | 221 |
 | Glatter Stein | `smooth_stone` | 62 |
 
 **Beschreibung**

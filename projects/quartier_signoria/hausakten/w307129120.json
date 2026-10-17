@@ -1,49 +1,53 @@
 {
   "id": "w307129120",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "1359 erbaut (Trecento), restauriert 1905",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 9,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
+      "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "redentore_stein",
+      "wappen_arti_maggiori_minori",
+      "inschrift_omnis_sapientia"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: erbaut 1359, restauriert 1905, über dem Eingang ein steinerner Redentore, darüber die Wappen der Arti maggiori und minori, Inschrift \"Omnis sapientia a Domino Deo est\", früher ein Portikus vor der Fassade (nicht mehr vorhanden). Annahme: Material, Fensterform, Geschosse, Achsen, Gesims.",
   "name": "Ex Tribunale della Mercanzia"
 }

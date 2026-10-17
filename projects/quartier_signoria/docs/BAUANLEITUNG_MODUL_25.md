@@ -8,45 +8,45 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 96.463 |
+| Blöcke | 96.652 |
 | Bauschritte | 62 |
 | Y-Bereich | 64 bis 110 |
 | X-Ausdehnung | -38 bis 89 (128 Blöcke) |
 | Z-Ausdehnung | 654 bis 794 (141 Blöcke) |
 | Kleinster Schritt | 423 Blöcke (Schritt 25.25) |
-| Mittlerer Schritt | 1.556 Blöcke |
-| Größter Schritt | 2.097 Blöcke (Schritt 25.2) |
+| Mittlerer Schritt | 1.559 Blöcke |
+| Größter Schritt | 2.096 Blöcke (Schritt 25.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 33.439 | 34,7 % |
+| Terrakotta | `terracotta` | 33.437 | 34,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 11.128 | 11,5 % |
-| Weißer Beton | `white_concrete` | 10.226 | 10,6 % |
 | Endsteinziegel | `end_stone_bricks` | 9.777 | 10,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 9.501 | 9,8 % |
-| Polierter Tuffstein | `polished_tuff` | 9.143 | 9,5 % |
+| Polierter Tuffstein | `polished_tuff` | 9.142 | 9,5 % |
+| Weißer Beton | `white_concrete` | 8.773 | 9,1 % |
+| Tuffstein | `tuff` | 6.871 | 7,1 % |
+| Polierter Andesit | `polished_andesite` | 3.776 | 3,9 % |
 | Orange Keramik | `orange_terracotta` | 2.317 | 2,4 % |
-| Graues Buntglas | `gray_stained_glass` | 2.208 | 2,3 % |
+| Graues Buntglas | `gray_stained_glass` | 2.216 | 2,3 % |
+| Glatter Stein | `smooth_stone` | 1.908 | 2,0 % |
 | Rosa Keramik | `pink_terracotta` | 1.902 | 2,0 % |
-| Glatter Stein | `smooth_stone` | 1.561 | 1,6 % |
-| Tuffstein | `tuff` | 1.084 | 1,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 1.581 | 1,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 736 | 0,8 % |
 | Ziegelsteine | `bricks` | 591 | 0,6 % |
-| Grüner Beton | `green_concrete` | 584 | 0,6 % |
-| Polierter Andesit | `polished_andesite` | 570 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 567 | 0,6 % |
-| Seelaterne | `sea_lantern` | 204 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 531 | 0,5 % |
+| Grüner Beton | `green_concrete` | 298 | 0,3 % |
+| Seelaterne | `sea_lantern` | 207 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 202 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 184 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 97 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 90 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 90 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 89 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 44 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 35 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8 | 0,0 % |
@@ -60,15 +60,15 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 572 |
-| Steintreppe | `stone_stairs` | 120 |
+| Steintreppe | `stone_stairs` | 124 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307129120` | Ex Tribunale della Mercanzia | 16.429 | 25.1–25.10 |
-| 2 | `w307129120_innen` | Ex Tribunale della Mercanzia: Innenausbau | 3.587 | 25.11–25.12 |
+| 1 | `w307129120` | Ex Tribunale della Mercanzia | 16.609 | 25.1–25.10 |
+| 2 | `w307129120_innen` | Ex Tribunale della Mercanzia: Innenausbau | 3.596 | 25.11–25.12 |
 | 3 | `w482842285` | Nebengebäude an Vicolo dei Gondi | 2.080 | 25.13 |
 | 4 | `w482842285_innen` | Nebengebäude an Vicolo dei Gondi: Innenausbau | 248 | 25.14 |
 | 5 | `w495062037` | Reihenhaus an Piazza San Firenze | 10.623 | 25.14–25.19 |
@@ -109,7 +109,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -121,23 +121,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.2 – Ex Tribunale della Mercanzia – Teil 2/10 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 2.097
+- **Blöcke:** 2.096
 - **Bauteile:** `w307129120`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.097 |
+| Polierter Tuffstein | `polished_tuff` | 2.096 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -149,29 +149,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.3 – Ex Tribunale della Mercanzia – Teil 3/10 (Y 68–72)
+### Schritt 25.3 – Ex Tribunale della Mercanzia – Teil 3/10 (Y 68–73)
 
-- **Y-Bereich:** 68 bis 72
-- **Blöcke:** 1.809
+- **Y-Bereich:** 68 bis 73
+- **Blöcke:** 2.096
 - **Bauteile:** `w307129120`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.388 |
-| Weißer Beton | `white_concrete` | 264 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
-| Grüner Beton | `green_concrete` | 38 |
-| Polierter Andesit | `polished_andesite` | 25 |
-| Glatter Stein | `smooth_stone` | 10 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Tuffstein | `tuff` | 1.149 |
+| Polierter Andesit | `polished_andesite` | 541 |
+| Tuffsteinziegel | `tuff_bricks` | 304 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
+| Glatter Stein | `smooth_stone` | 18 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -183,29 +181,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.4 – Ex Tribunale della Mercanzia – Teil 4/10 (Y 73–77)
+### Schritt 25.4 – Ex Tribunale della Mercanzia – Teil 4/10 (Y 74–78)
 
-- **Y-Bereich:** 73 bis 77
-- **Blöcke:** 1.763
+- **Y-Bereich:** 74 bis 78
+- **Blöcke:** 1.872
 - **Bauteile:** `w307129120`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.296 |
-| Glatter Stein | `smooth_stone` | 170 |
-| Weißer Beton | `white_concrete` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
-| Grüner Beton | `green_concrete` | 38 |
-| Polierter Andesit | `polished_andesite` | 20 |
-| Tuffsteinziegel | `tuff_bricks` | 11 |
+| Tuffstein | `tuff` | 985 |
+| Polierter Andesit | `polished_andesite` | 332 |
+| Glatter Stein | `smooth_stone` | 270 |
+| Tuffsteinziegel | `tuff_bricks` | 209 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -217,27 +213,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.5 – Ex Tribunale della Mercanzia – Teil 5/10 (Y 78–83)
+### Schritt 25.5 – Ex Tribunale della Mercanzia – Teil 5/10 (Y 79–83)
 
-- **Y-Bereich:** 78 bis 83
-- **Blöcke:** 2.078
+- **Y-Bereich:** 79 bis 83
+- **Blöcke:** 1.761
 - **Bauteile:** `w307129120`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.571 |
-| Weißer Beton | `white_concrete` | 241 |
-| Graues Buntglas | `gray_stained_glass` | 164 |
-| Grüner Beton | `green_concrete` | 84 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Tuffstein | `tuff` | 940 |
+| Polierter Andesit | `polished_andesite` | 669 |
+| Graues Buntglas | `gray_stained_glass` | 138 |
+| Glatter Stein | `smooth_stone` | 14 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -249,28 +244,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.6 – Ex Tribunale della Mercanzia – Teil 6/10 (Y 84–88)
 
 - **Y-Bereich:** 84 bis 88
-- **Blöcke:** 1.804
+- **Blöcke:** 1.744
 - **Bauteile:** `w307129120`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.332 |
-| Weißer Beton | `white_concrete` | 319 |
-| Glatter Stein | `smooth_stone` | 77 |
-| Graues Buntglas | `gray_stained_glass` | 41 |
-| Grüner Beton | `green_concrete` | 21 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Tuffstein | `tuff` | 956 |
+| Polierter Andesit | `polished_andesite` | 657 |
+| Graues Buntglas | `gray_stained_glass` | 115 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -282,27 +275,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.7 – Ex Tribunale della Mercanzia – Teil 7/10 (Y 89–92)
 
 - **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.375
+- **Blöcke:** 1.566
 - **Bauteile:** `w307129120`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 976 |
-| Weißer Beton | `white_concrete` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 123 |
-| Grüner Beton | `green_concrete` | 63 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Tuffstein | `tuff` | 801 |
+| Polierter Andesit | `polished_andesite` | 451 |
+| Glatter Stein | `smooth_stone` | 268 |
+| Graues Buntglas | `gray_stained_glass` | 46 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -314,28 +306,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.8 – Ex Tribunale della Mercanzia – Teil 8/10 (Y 93–96)
 
 - **Y-Bereich:** 93 bis 96
-- **Blöcke:** 1.508
+- **Blöcke:** 1.479
 - **Bauteile:** `w307129120`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 992 |
-| Weißer Beton | `white_concrete` | 278 |
-| Glatter Stein | `smooth_stone` | 102 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
-| Grüner Beton | `green_concrete` | 42 |
-| Polierter Andesit | `polished_andesite` | 12 |
+| Tuffstein | `tuff` | 747 |
+| Polierter Andesit | `polished_andesite` | 503 |
+| Graues Buntglas | `gray_stained_glass` | 115 |
+| Glatter Stein | `smooth_stone` | 114 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -347,7 +337,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.9 – Ex Tribunale della Mercanzia – Teil 9/10 (Y 97–99)
 
@@ -360,13 +350,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.413 |
-| Hellgrauer Beton | `light_gray_concrete` | 365 |
-| Glatter Stein | `smooth_stone` | 226 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Glatter Stein | `smooth_stone` | 228 |
+| Tuffstein | `tuff` | 209 |
+| Polierter Andesit | `polished_andesite` | 156 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -378,7 +368,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 25.10 – Ex Tribunale della Mercanzia – Teil 10/10 (Y 100–105)
 
@@ -395,7 +385,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1359 erbaut (Trecento), restauriert 1905), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Tribunale_della_Mercanzia, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -407,22 +397,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 25.11 – Ex Tribunale della Mercanzia: Innenausbau – Teil 1/2 (Y 67–77)
+### Schritt 25.11 – Ex Tribunale della Mercanzia: Innenausbau – Teil 1/2 (Y 67–78)
 
-- **Y-Bereich:** 67 bis 77
-- **Blöcke:** 1.791
+- **Y-Bereich:** 67 bis 78
+- **Blöcke:** 1.796
 - **Bauteile:** `w307129120_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.722 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 20 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Terrakotta | `terracotta` | 1.721 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Seelaterne | `sea_lantern` | 22 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
@@ -432,7 +422,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -451,20 +441,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.12 – Ex Tribunale della Mercanzia: Innenausbau – Teil 2/2 (Y 78–88)
+### Schritt 25.12 – Ex Tribunale della Mercanzia: Innenausbau – Teil 2/2 (Y 79–90)
 
-- **Y-Bereich:** 78 bis 88
-- **Blöcke:** 1.796
+- **Y-Bereich:** 79 bis 90
+- **Blöcke:** 1.800
 - **Bauteile:** `w307129120_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.722 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Terrakotta | `terracotta` | 1.721 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Seelaterne | `sea_lantern` | 11 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
@@ -476,7 +466,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**

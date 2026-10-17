@@ -1,11 +1,11 @@
 {
   "id": "w307153245",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "Anfang 14. Jh. (Formen 13. Jh.), Arnolfo di Cambio nur zugeschrieben",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
@@ -13,7 +13,11 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
@@ -22,28 +26,34 @@
     "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rundbogen",
       "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "rustika_erdgeschoss",
+      "bogenfenster_mit_mittelpfosten",
+      "bezzoli_wappen_zwei_ecke",
+      "mozart_gedenktafel_2006"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bezzoli",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia (Palazzo Bezzoli, auch Palazzo Del Bembo): Anfang 14. Jh., Originalformen 13. Jh., Arnolfo di Cambio nur traditionell zugeschrieben, vier Geschosse, vollständig aus Pietra forte, Erdgeschoss mit Rustika-Quadern und großen Bögen auf Pfeilern (Fondaci/Läden), Rundbogenfenster mit Mittelpfosten in kräftigen Gesimsbändern, zwei Bezzoli-Wappen im zweiten Geschoss an der Ecke, Gedenktafel für Mozart (2006). Annahme: Achsenzahl, Traufe. Zuordnung des Artikels zur OSM-Bezeichnung Palazzo Del Bembo über die Wikipedia-Weiterleitung.",
   "name": "Palazzo Del Bembo"
 }

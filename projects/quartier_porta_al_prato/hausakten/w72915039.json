@@ -1,7 +1,7 @@
 {
   "id": "w72915039",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "zweckbau",
+  "epoche": "1284/85 (sechster Mauerring, Arnolfo di Cambio vermutet), 1529 abgesenkt, heutige Form frühe 1930er",
   "geschosse": [
     {
       "art": "eg",
@@ -23,12 +23,12 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 3,
-    "material": "putz",
-    "putzfarbe": "sand",
+    "material": "bruchstein",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 5,
-      "fenster": "rechteck_vergittert"
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 8,
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rechteck",
@@ -36,18 +36,23 @@
       "laeden": "holz"
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "schiessscharten_artillerie",
+      "loggetta_mit_satteldach_wetterfahne",
+      "marmortafel_1311",
+      "fresko_lunette_innen"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Porta_al_Prato",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Errichtung 1284/85 mit dem sechsten Mauerring (Entwurf Arnolfo di Cambio nur vermutet), 1529 abgesenkt und der Artillerie angepasst, Schießscharten für schwere Artillerie, Satteldach mit Wetterfahne über der Loggetta (heutige Form aus den frühen 1930er Jahren), Marmortafel mit Maßen von Mauer, Turm und Graben (Dekret 1311). Annahme: Mauerwerk als Bruchstein, Torform, Geschosse.",
   "name": "Porta al Prato"
 }

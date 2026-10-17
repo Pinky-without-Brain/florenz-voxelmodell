@@ -1,45 +1,56 @@
 {
   "id": "r1593628",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Umbau 1466–69 (Michelozzo vermutet), Fassaden 1736 (Ruggieri) und nach 1864 (Buonaiuti)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 10,
+    "achsen": 12,
     "material": "bugnato_abgestuft",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
-      "tiefeBl": 3
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "loggia_1608_triglyphenfries",
+      "terrasse_balustrade_auf_konsolen",
+      "bueste_bardo_corsi",
+      "wappenschilde_tornaquinci_tornabuoni",
+      "ladenfronten_19jh"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Tornabuoni",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Umbau 1466–69 unter Giovanni Tornabuoni (Michelozzo nach Vasari vermutet), Fassade Via degli Strozzi 1736 (Ferdinando Ruggieri), neue Fassaden nach 1864 (Telemaco Buonaiuti), heute zwölf Achsen zur Via de' Tornabuoni, ursprünglich zwei gleichwertige Obergeschosse, Ladenfronten des 19. Jh., kleines Portal unter der Loggia mit gebrochenem Giebel, steinerne Loggia von 1608 mit Triglyphenfries, Wappenschilden und balustrierter Terrasse auf Konsolen, Büste des Bardo Corsi. Annahme: Fensterform, Gesims, Dach; Loggia als Altana abgebildet.",
   "name": "Palazzo Tornabuoni"
 }

@@ -1,49 +1,56 @@
 {
   "id": "r1583912",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "Spedale di San Matteo: Bau ab 1385, Loggia 1391–92, Abschluss 1410; Umbauten 18./19. Jh., Restaurierung 1934–35",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 9,
     "material": "putz",
-    "putzfarbe": "sand",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "loggia_offen",
+      "portalBreiteBl": 8,
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "putz",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
+      "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "portikus_achteckige_pfeiler",
+      "robbia_lunetten_um_1490",
+      "arkaden_1934_35_wieder_geoeffnet",
+      "wappenschilde_arte_del_cambio",
+      "zahnschnittgesims_reste"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Accademia_di_belle_arti_di_Firenze",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia (Artikel zur Accademia, Abschnitt zum ehemaligen Spedale di San Matteo an der Via Ricasoli): Bau ab 1385, Loggia 1391–92, Abschluss 1410, Umbauten im 18./19. Jh. (Paoletti, Del Rosso), Restaurierung 1934–35, Portikus mit achteckigen Pfeilern und Wasserblatt-Kapitellen, drei Lunetten von Andrea della Robbia (um 1490), Arkaden zugemauert und 1934–35 wieder geöffnet, Obergeschoss mit einfachen Fenstern auf dem Marcadavanzale, Marcapiano und Zahnschnittgesims, Putz 1996 erneuert. Annahme: nur die Via-Ricasoli-Front als Akte abgebildet, Putzfarbe, Achsen, Geschosse.",
   "name": "Accademia delle Belle Arti"
 }

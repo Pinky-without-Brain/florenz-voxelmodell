@@ -1,49 +1,60 @@
 {
   "id": "r4101350",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Teilumbau 1624 (Mazzeranghi), Portal Cigoli zugeschrieben",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
+    "achsen": 7,
     "material": "putz",
     "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "glatte_eckrustika_bis_traufe",
+      "ladenoeffnungen_vier",
+      "pasquali_wappen_hirsch_stern_1626",
+      "gewoelbter_durchgang_schmiedeeisentor"
+    ],
+    "marcapiano": "flach",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pasquali",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Gestaltung unter Cosimo I., Teilumbau 1624 mit Aufstockung des Acciaiuoli-Hauses (Tommaso Mazzeranghi), Portal traditionell Cigoli zugeschrieben, Erdgeschoss mit Rundbogenportal und vier Ladenöffnungen, Piano nobile mit sieben Fenstern und abwechselnd dreieckigen und geschwungenen Giebeln, zwei einfachere Obergeschosse, glatte Eckrustika bis unter die Traufe, Pasquali-Wappen (Hirsch mit Stern, Novelli 1626). Annahme: Putzfarbe, Gesims, Dachform.",
   "name": "Palazzo Pasquali"
 }

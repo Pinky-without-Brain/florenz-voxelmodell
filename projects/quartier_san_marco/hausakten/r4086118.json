@@ -1,19 +1,19 @@
 {
   "id": "r4086118",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Barock, Bau ab 1628–30 (Silvani oder Parigi), Gesims 1834 (Martelli)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -22,28 +22,36 @@
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
+      "art": "portal_mittig",
+      "portalBreiteBl": 8,
       "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "putz",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
-      "tiefeBl": 2
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "kniefenster_dreiecksgiebel",
+      "gitter_bronzeschildkroeten",
+      "terrazzino_satyrkonsolen",
+      "fenzi_wappen_mittelfenster",
+      "medaillon_greifen_lokomotive",
+      "durchfahrtsbogen_linker_fluegel"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Fenzi",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Baubeginn 1628–30 für die Castelli (Silvani laut Literatur, Ruggieri nennt Parigi), drei Geschosse, sieben Achsen, großes zentrales Rundbogenportal, Kniefenster mit Dreiecksgiebeln im Erdgeschoss, geschwungene Giebel im ersten Stock, oben fast quadratische Fenster mit geradem Sturz, korinthisches Gesims von 1834 (Giuseppe Martelli), Balkon auf Satyrkonsolen (Raffaello Curradi), Fenzi-Wappen, Durchfahrtsbogen links. Annahme: Putzfarbe, Rahmenstein, Dachform.",
   "name": "Palazzo Fenzi - Marucelli"
 }

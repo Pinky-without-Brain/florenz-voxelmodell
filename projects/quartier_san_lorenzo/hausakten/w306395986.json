@@ -1,45 +1,56 @@
 {
   "id": "w306395986",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh., Umgestaltung 1692–94 (Antonio Maria Ferri)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 7,
     "material": "putz",
-    "putzfarbe": "ocker",
+    "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "putz",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "bossenrahmung_portal",
+      "drei_kniefenster_geschwungene_giebel",
+      "del_chiaro_wappen_halbmonde",
+      "portal_17jh_genagelt",
+      "buchetta_del_vino"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Tolomei_Biffi",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: 16. Jh., Umbau 1692–94 durch Antonio Maria Ferri, drei Geschosse, sieben Achsen (zuvor fünf), Steinelemente auf hellem Putz, Hauptportal mit Bossenrahmung zwischen zwei großen Kniefenstern (insgesamt drei Kniefenster mit geschwungenen Giebeln), Obergeschosse mit bossierten Bogenfenstern, großes Wappen der Del Chiaro, genageltes Portal des 17. Jh., Weinklappe. Annahme: Putzfarbe, Gesims, Dach.",
   "name": "Palazzo Tolomei Biffi"
 }

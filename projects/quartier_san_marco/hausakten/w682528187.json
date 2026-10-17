@@ -1,7 +1,7 @@
 {
   "id": "w682528187",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Manierismus, 1563–74 (Giuliano di Baccio d'Agnolo, dann Ammannati)",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,50 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "terrakotta",
     "erdgeschoss": {
       "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "bifora",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "sichtziegel_rautenmuster",
+      "serliana_1og_piazza",
+      "rundbogenportal_strahlenkranz_servi",
+      "medici_symbole_steinbock_schildkroete",
+      "greifen_auf_gesimshoehe",
+      "marcapiano_triglyphen_metopen_bukranien"
+    ],
+    "marcapiano": "flach",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Budini_Gattai",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: Manierismus, 1563–74 (Giuliano di Baccio d'Agnolo, ab 1563 Bartolomeo Ammannati; Buontalenti nach einigen Autoren), drei Geschosse (drittes im 17./18. Jh.), Sichtziegel mit Rautenmustern und Kreis- und Rechteckfeldern, Bugnato-Eckquader, Rundbogenportal mit Strahlenkranz und Medici-Symbolen an der Via dei Servi, Kniefenster statt Portal an der Piazza, Dreiecksgiebel und Flachbogen, Serliana im ersten Obergeschoss, reiches Konsolgesims mit Greifen, Marcapiano mit Triglyphen, Metopen, Bukranien. Annahme: Ziegel als Terrakotta-Putzfarbe abgebildet, Achsen, Rahmenstein.",
   "name": "Palazzo Budini Gattai"
 }

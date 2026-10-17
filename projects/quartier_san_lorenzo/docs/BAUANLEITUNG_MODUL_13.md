@@ -8,47 +8,47 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 228.942 |
+| Blöcke | 229.259 |
 | Bauschritte | 146 |
 | Y-Bereich | 63 bis 115 |
-| X-Ausdehnung | -394 bis -229 (166 Blöcke) |
+| X-Ausdehnung | -395 bis -229 (167 Blöcke) |
 | Z-Ausdehnung | -765 bis -425 (341 Blöcke) |
 | Kleinster Schritt | 480 Blöcke (Schritt 13.76) |
-| Mittlerer Schritt | 1.568 Blöcke |
-| Größter Schritt | 2.089 Blöcke (Schritt 13.105) |
+| Mittlerer Schritt | 1.570 Blöcke |
+| Größter Schritt | 2.095 Blöcke (Schritt 13.80) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 78.491 | 34,3 % |
+| Terrakotta | `terracotta` | 78.679 | 34,3 % |
 | Polierter Tuffstein | `polished_tuff` | 25.401 | 11,1 % |
-| Endsteinziegel | `end_stone_bricks` | 22.470 | 9,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 19.495 | 8,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 19.312 | 8,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 19.273 | 8,4 % |
-| Weißer Beton | `white_concrete` | 12.963 | 5,7 % |
+| Endsteinziegel | `end_stone_bricks` | 19.062 | 8,3 % |
+| Weißer Beton | `white_concrete` | 12.328 | 5,4 % |
 | Orange Keramik | `orange_terracotta` | 12.059 | 5,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 7.646 | 3,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 7.645 | 3,3 % |
+| Glatter Stein | `smooth_stone` | 7.606 | 3,3 % |
 | Rosa Keramik | `pink_terracotta` | 6.392 | 2,8 % |
-| Glatter Stein | `smooth_stone` | 6.099 | 2,7 % |
-| Polierter Andesit | `polished_andesite` | 5.662 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 5.466 | 2,4 % |
+| Graues Buntglas | `gray_stained_glass` | 5.398 | 2,4 % |
+| Polierter Andesit | `polished_andesite` | 4.941 | 2,2 % |
+| Tuffstein | `tuff` | 4.019 | 1,8 % |
 | Ziegelsteine | `bricks` | 1.564 | 0,7 % |
-| Grüner Beton | `green_concrete` | 1.516 | 0,7 % |
-| Tuffstein | `tuff` | 1.271 | 0,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 939 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 658 | 0,3 % |
+| Grüner Beton | `green_concrete` | 1.521 | 0,7 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.211 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 659 | 0,3 % |
 | Seelaterne | `sea_lantern` | 456 | 0,2 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 152 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 151 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 143 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 325 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 156 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 152 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 144 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 142 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 134 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 134 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 128 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 122 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 114 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 36 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 36 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
@@ -59,8 +59,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 530 |
-| Steintreppe | `stone_stairs` | 366 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 532 |
+| Steintreppe | `stone_stairs` | 374 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -78,12 +78,12 @@
 | 10 | `w306395964_innen` | Palazzo Taddei: Innenausbau | 4.852 | 13.58–13.61 |
 | 11 | `w306395982` | Palazzo Ginori | 8.633 | 13.62–13.66 |
 | 12 | `w306395982_innen` | Palazzo Ginori: Innenausbau | 1.561 | 13.67 |
-| 13 | `w306395983` | Palazzo Barbolani di Montauto | 10.825 | 13.68–13.76 |
+| 13 | `w306395983` | Palazzo Barbolani di Montauto | 10.911 | 13.68–13.76 |
 | 14 | `w306395983_innen` | Palazzo Barbolani di Montauto: Innenausbau | 3.278 | 13.77–13.78 |
-| 15 | `w306395990` | Palazzo Neroni | 6.072 | 13.79–13.81 |
-| 16 | `w306395990_innen` | Palazzo Neroni: Innenausbau | 1.584 | 13.82 |
-| 17 | `w307153252` | Palazzo Della Stufa | 5.166 | 13.83–13.85 |
-| 18 | `w307153252_innen` | Palazzo Della Stufa: Innenausbau | 1.367 | 13.86 |
+| 15 | `w306395990` | Palazzo Neroni | 6.112 | 13.79–13.81 |
+| 16 | `w306395990_innen` | Palazzo Neroni: Innenausbau | 1.595 | 13.82 |
+| 17 | `w307153252` | Palazzo Della Stufa | 5.342 | 13.83–13.85 |
+| 18 | `w307153252_innen` | Palazzo Della Stufa: Innenausbau | 1.375 | 13.86 |
 | 19 | `w485180649` | Reihenhaus an Via della Stufa | 14.094 | 13.87–13.95 |
 | 20 | `w485180649_innen` | Reihenhaus an Via della Stufa: Innenausbau | 5.135 | 13.96–13.98 |
 | 21 | `w485180650` | Reihenhaus an Via dei Ginori | 4.745 | 13.99–13.101 |
@@ -92,9 +92,9 @@
 | 24 | `w485180657_innen` | Reihenhaus an Via dei Ginori: Innenausbau | 1.707 | 13.106 |
 | 25 | `w485180673` | Reihenhaus an Via dei Ginori | 13.436 | 13.107–13.114 |
 | 26 | `w485180673_innen` | Reihenhaus an Via dei Ginori: Innenausbau | 4.594 | 13.115–13.118 |
-| 27 | `w485180675` | Reihenhaus an Via dei Ginori | 2.964 | 13.119–13.120 |
+| 27 | `w485180675` | Reihenhaus an Via dei Ginori | 2.962 | 13.119–13.120 |
 | 28 | `w485180675_innen` | Reihenhaus an Via dei Ginori: Innenausbau | 1.505 | 13.121 |
-| 29 | `w485180677` | Reihenhaus an Via della Stufa | 12.419 | 13.122–13.128 |
+| 29 | `w485180677` | Reihenhaus an Via della Stufa | 12.417 | 13.122–13.128 |
 | 30 | `w485180677_innen` | Reihenhaus an Via della Stufa: Innenausbau | 5.193 | 13.129–13.131 |
 | 31 | `w485180684` | Reihenhaus an Via della Stufa | 3.067 | 13.132–13.133 |
 | 32 | `w485180684_innen` | Reihenhaus an Via della Stufa: Innenausbau | 2.004 | 13.134 |
@@ -2352,7 +2352,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2364,27 +2364,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.69 – Palazzo Barbolani di Montauto – Teil 2/9 (Y 66–68)
 
 - **Y-Bereich:** 66 bis 68
-- **Blöcke:** 681
+- **Blöcke:** 733
 - **Bauteile:** `w306395983`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 626 |
-| Weißer Beton | `white_concrete` | 43 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Endsteinziegel | `end_stone_bricks` | 606 |
+| Glatter Stein | `smooth_stone` | 121 |
 | Polierter Andesit | `polished_andesite` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2396,28 +2395,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.70 – Palazzo Barbolani di Montauto – Teil 3/9 (Y 69–73)
 
 - **Y-Bereich:** 69 bis 73
-- **Blöcke:** 1.043
+- **Blöcke:** 1.041
 - **Bauteile:** `w306395983`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 807 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
-| Weißer Beton | `white_concrete` | 101 |
-| Glatter Stein | `smooth_stone` | 11 |
+| Endsteinziegel | `end_stone_bricks` | 800 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Glatter Stein | `smooth_stone` | 111 |
 | Polierter Andesit | `polished_andesite` | 5 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2429,27 +2427,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.71 – Palazzo Barbolani di Montauto – Teil 4/9 (Y 74–78)
 
 - **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.193
+- **Blöcke:** 1.211
 - **Bauteile:** `w306395983`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.001 |
-| Weißer Beton | `white_concrete` | 91 |
-| Glatter Stein | `smooth_stone` | 85 |
+| Endsteinziegel | `end_stone_bricks` | 999 |
+| Glatter Stein | `smooth_stone` | 196 |
 | Tuffsteinziegel | `tuff_bricks` | 9 |
 | Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2461,25 +2458,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.72 – Palazzo Barbolani di Montauto – Teil 5/9 (Y 79–84)
 
 - **Y-Bereich:** 79 bis 84
-- **Blöcke:** 1.335
+- **Blöcke:** 1.314
 - **Bauteile:** `w306395983`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.030 |
-| Weißer Beton | `white_concrete` | 175 |
-| Graues Buntglas | `gray_stained_glass` | 130 |
+| Endsteinziegel | `end_stone_bricks` | 1.008 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
+| Glatter Stein | `smooth_stone` | 150 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2491,26 +2488,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.73 – Palazzo Barbolani di Montauto – Teil 6/9 (Y 85–89)
 
 - **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.158
+- **Blöcke:** 1.218
 - **Bauteile:** `w306395983`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 924 |
-| Weißer Beton | `white_concrete` | 100 |
-| Glatter Stein | `smooth_stone` | 82 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
+| Endsteinziegel | `end_stone_bricks` | 1.018 |
+| Glatter Stein | `smooth_stone` | 200 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2522,26 +2517,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.74 – Palazzo Barbolani di Montauto – Teil 7/9 (Y 90–94)
 
 - **Y-Bereich:** 90 bis 94
-- **Blöcke:** 1.220
+- **Blöcke:** 1.199
 - **Bauteile:** `w306395983`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 962 |
-| Weißer Beton | `white_concrete` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
-| Glatter Stein | `smooth_stone` | 55 |
+| Endsteinziegel | `end_stone_bricks` | 890 |
+| Glatter Stein | `smooth_stone` | 205 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2553,7 +2547,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.75 – Palazzo Barbolani di Montauto – Teil 8/9 (Y 95–95)
 
@@ -2571,7 +2565,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2583,7 +2577,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.76 – Palazzo Barbolani di Montauto – Teil 9/9 (Y 96–97)
 
@@ -2599,7 +2593,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (1444–46 (Michelozzo laut Überlieferung), 1680 erweitert), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Barbolani_di_Montauto, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -2611,7 +2605,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.77 – Palazzo Barbolani di Montauto: Innenausbau – Teil 1/2 (Y 65–80)
 
@@ -2704,22 +2698,23 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 13.79 – Palazzo Neroni – Teil 1/3 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
-- **Blöcke:** 2.062
+- **Blöcke:** 1.984
 - **Bauteile:** `w306395990`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.022 |
+| Tuffstein | `tuff` | 900 |
 | Polierter Tuffstein | `polished_tuff` | 874 |
-| Polierter Andesit | `polished_andesite` | 121 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Tuffsteinziegel | `tuff_bricks` | 9 |
+| Glatter Stein | `smooth_stone` | 99 |
+| Tuffsteinziegel | `tuff_bricks` | 61 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento, 1461–66/69 (Michelozzo nicht gesichert), Fassade 1922 restauriert), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Neroni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2731,26 +2726,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.80 – Palazzo Neroni – Teil 2/3 (Y 74–88)
+### Schritt 13.80 – Palazzo Neroni – Teil 2/3 (Y 74–89)
 
-- **Y-Bereich:** 74 bis 88
-- **Blöcke:** 1.963
+- **Y-Bereich:** 74 bis 89
+- **Blöcke:** 2.095
 - **Bauteile:** `w306395990`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.614 |
-| Polierter Andesit | `polished_andesite` | 167 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Glatter Stein | `smooth_stone` | 86 |
+| Tuffstein | `tuff` | 1.418 |
+| Glatter Stein | `smooth_stone` | 245 |
+| Polierter Andesit | `polished_andesite` | 203 |
+| Tuffsteinziegel | `tuff_bricks` | 144 |
+| Graues Buntglas | `gray_stained_glass` | 85 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento, 1461–66/69 (Michelozzo nicht gesichert), Fassade 1922 restauriert), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Neroni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2762,27 +2758,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.81 – Palazzo Neroni – Teil 3/3 (Y 89–102)
+### Schritt 13.81 – Palazzo Neroni – Teil 3/3 (Y 90–102)
 
-- **Y-Bereich:** 89 bis 102
-- **Blöcke:** 2.047
+- **Y-Bereich:** 90 bis 102
+- **Blöcke:** 2.033
 - **Bauteile:** `w306395990`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.141 |
-| Endsteinziegel | `end_stone_bricks` | 743 |
+| Terrakotta | `terracotta` | 1.208 |
+| Tuffstein | `tuff` | 430 |
+| Polierter Andesit | `polished_andesite` | 128 |
+| Fichtenholz-Bretter | `spruce_planks` | 108 |
 | Ziegelsteine | `bricks` | 71 |
-| Polierter Andesit | `polished_andesite` | 56 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
+| Glatter Stein | `smooth_stone` | 55 |
+| Graues Buntglas | `gray_stained_glass` | 33 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (Quattrocento, 1461–66/69 (Michelozzo nicht gesichert), Fassade 1922 restauriert), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Neroni, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2794,12 +2792,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.82 – Palazzo Neroni: Innenausbau
 
-- **Y-Bereich:** 64 bis 85
-- **Blöcke:** 1.584
+- **Y-Bereich:** 64 bis 87
+- **Blöcke:** 1.595
 - **Bauteile:** `w306395990_innen`
 
 **Teileliste**
@@ -2807,22 +2805,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.462 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
 | Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Steintreppe | `stone_stairs` | 44 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
@@ -2840,10 +2838,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.83 – Palazzo Della Stufa – Teil 1/3 (Y 63–72)
+### Schritt 13.83 – Palazzo Della Stufa – Teil 1/3 (Y 63–73)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.696
+- **Y-Bereich:** 63 bis 73
+- **Blöcke:** 1.807
 - **Bauteile:** `w307153252`
 
 **Teileliste**
@@ -2851,15 +2849,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 748 |
-| Hellgrauer Beton | `light_gray_concrete` | 620 |
-| Polierter Andesit | `polished_andesite` | 216 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
-| Grüner Beton | `green_concrete` | 20 |
-| Tuffsteinziegel | `tuff_bricks` | 12 |
+| Hellgrauer Beton | `light_gray_concrete` | 741 |
+| Glatter Stein | `smooth_stone` | 167 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Polierter Andesit | `polished_andesite` | 49 |
+| Grüner Beton | `green_concrete` | 25 |
+| Tuffsteinziegel | `tuff_bricks` | 13 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh., im 16. Jh. umgebaut, Erweiterung 1665–66 (G. und P. F. Silvani)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Della_Stufa, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2871,27 +2870,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.84 – Palazzo Della Stufa – Teil 2/3 (Y 73–88)
+### Schritt 13.84 – Palazzo Della Stufa – Teil 2/3 (Y 74–89)
 
-- **Y-Bereich:** 73 bis 88
-- **Blöcke:** 1.770
+- **Y-Bereich:** 74 bis 89
+- **Blöcke:** 1.774
 - **Bauteile:** `w307153252`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.016 |
-| Polierter Andesit | `polished_andesite` | 436 |
-| Graues Buntglas | `gray_stained_glass` | 184 |
-| Glatter Stein | `smooth_stone` | 94 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.152 |
+| Glatter Stein | `smooth_stone` | 410 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
 | Grüner Beton | `green_concrete` | 40 |
+| Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh., im 16. Jh. umgebaut, Erweiterung 1665–66 (G. und P. F. Silvani)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Della_Stufa, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2903,29 +2902,30 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 13.85 – Palazzo Della Stufa – Teil 3/3 (Y 89–98)
+### Schritt 13.85 – Palazzo Della Stufa – Teil 3/3 (Y 90–103)
 
-- **Y-Bereich:** 89 bis 98
-- **Blöcke:** 1.700
+- **Y-Bereich:** 90 bis 103
+- **Blöcke:** 1.761
 - **Bauteile:** `w307153252`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 979 |
-| Hellgrauer Beton | `light_gray_concrete` | 347 |
-| Polierter Andesit | `polished_andesite` | 149 |
-| Glatter Stein | `smooth_stone` | 129 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
+| Terrakotta | `terracotta` | 1.103 |
+| Hellgrauer Beton | `light_gray_concrete` | 312 |
+| Fichtenholz-Bretter | `spruce_planks` | 164 |
+| Glatter Stein | `smooth_stone` | 88 |
 | Ziegelsteine | `bricks` | 40 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
 | Grüner Beton | `green_concrete` | 10 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh., im 16. Jh. umgebaut, Erweiterung 1665–66 (G. und P. F. Silvani)), 3 Geschosse, Putzfarbe Grau. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Della_Stufa, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -2937,12 +2937,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 13.86 – Palazzo Della Stufa: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 1.367
+- **Y-Bereich:** 63 bis 86
+- **Blöcke:** 1.375
 - **Bauteile:** `w307153252_innen`
 
 **Teileliste**
@@ -2950,8 +2950,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.248 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 6 |
@@ -2961,7 +2961,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 44 |
 
 **Beschreibung**
 
@@ -4075,15 +4075,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 13.120 – Reihenhaus an Via dei Ginori – Teil 2/2 (Y 86–100)
 
 - **Y-Bereich:** 86 bis 100
-- **Blöcke:** 1.488
+- **Blöcke:** 1.486
 - **Bauteile:** `w485180675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 779 |
-| Terrakotta | `terracotta` | 617 |
+| Glatter Sandstein | `smooth_sandstone` | 778 |
+| Terrakotta | `terracotta` | 616 |
 | Weißer Beton | `white_concrete` | 62 |
 | Ziegelsteine | `bricks` | 15 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
@@ -4301,14 +4301,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 13.127 – Reihenhaus an Via della Stufa – Teil 6/7 (Y 92–94)
 
 - **Y-Bereich:** 92 bis 94
-- **Blöcke:** 1.666
+- **Blöcke:** 1.664
 - **Bauteile:** `w485180677`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 982 |
+| Terrakotta | `terracotta` | 980 |
 | Glatter Sandstein | `smooth_sandstone` | 629 |
 | Glatter Stein | `smooth_stone` | 55 |
 

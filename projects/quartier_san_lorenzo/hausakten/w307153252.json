@@ -1,49 +1,55 @@
 {
   "id": "w307153252",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "14. Jh., im 16. Jh. umgebaut, Erweiterung 1665–66 (G. und P. F. Silvani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 5,
     "material": "putz",
     "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_forte",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 2
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "bossenquader_untergeschoss",
+      "altana_sechs_saeulen_weites_vordach",
+      "della_stufa_wappen_zwei_loewen",
+      "tabernakel_17jh_gipsrelief"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Della_Stufa",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: 14. Jh. mit erhaltenen Trecento- und Quattrocento-Teilen, im 16. Jh. umgebaut, 1665–66 Erweiterung zur Via de' Ginori (Gherardo und Pier Francesco Silvani), Hauptfassade mit drei Geschossen und fünf Achsen, Untergeschoss in Bossenquadern, darüber verputzt und steinfarben gestrichen, Gesimsband trennt Quader und Putz, Rahmungen im Bossenstil, offene Altana mit sechs Säulen unter weitem Vordach, großes Wappen mit zwei Löwen, Tabernakel des 17. Jh. Annahme: Gesimsart, Portallage.",
   "name": "Palazzo Della Stufa"
 }

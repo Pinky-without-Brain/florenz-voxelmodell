@@ -1,7 +1,7 @@
 {
   "id": "r4103610",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "13. Jh. (Ruggerini), Umbau 17. Jh. (Silvani), 1853 aufgestockt",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -34,15 +34,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "steinbank_pancone_dei_ragusei",
+      "aufstockung_1853"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzi_Gianfigliazzi",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia (Artikel zu beiden Lungarno-Corsini-Palazzi): Nr. 2 im 13. Jh. für die Ruggerini erbaut, im 17. Jh. von Gherardo Silvani umgebaut, 1853 um ein Geschoss erhöht und die Fensteranordnung verändert, Steinbank \"Pancone dei Ragusei\" an der Fassade. Annahme: Zuordnung dieser OSM-Fläche zu Nr. 2 (nicht eindeutig), alle Fassadenmerkmale aus der Typologie.",
   "name": "Palazzi Gianfigliazzi"
 }

@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.895 |
+| Blöcke | 10.712 |
 | Bauschritte | 6 |
 | Y-Bereich | 56 bis 94 |
-| X-Ausdehnung | -2777 bis -2734 (44 Blöcke) |
-| Z-Ausdehnung | -1023 bis -983 (41 Blöcke) |
-| Kleinster Schritt | 1.735 Blöcke (Schritt 10.1) |
-| Mittlerer Schritt | 1.816 Blöcke |
-| Größter Schritt | 1.862 Blöcke (Schritt 10.2) |
+| X-Ausdehnung | -2776 bis -2735 (42 Blöcke) |
+| Z-Ausdehnung | -1022 bis -984 (39 Blöcke) |
+| Kleinster Schritt | 1.622 Blöcke (Schritt 10.3) |
+| Mittlerer Schritt | 1.785 Blöcke |
+| Größter Schritt | 1.882 Blöcke (Schritt 10.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 6.641 | 61,0 % |
-| Terrakotta | `terracotta` | 2.801 | 25,7 % |
-| Polierter Tuffstein | `polished_tuff` | 821 | 7,5 % |
-| Graues Buntglas | `gray_stained_glass` | 320 | 2,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 90 | 0,8 % |
+| Tuffstein | `tuff` | 5.979 | 55,8 % |
+| Terrakotta | `terracotta` | 2.730 | 25,5 % |
+| Polierter Tuffstein | `polished_tuff` | 821 | 7,7 % |
+| Tuffsteinziegel | `tuff_bricks` | 697 | 6,5 % |
+| Graues Buntglas | `gray_stained_glass` | 276 | 2,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,6 % |
 | Ziegelsteine | `bricks` | 55 | 0,5 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,2 % |
-| Polierter Andesit | `polished_andesite` | 22 | 0,2 % |
 | Glatter Stein | `smooth_stone` | 19 | 0,2 % |
 | Seelaterne | `sea_lantern` | 16 | 0,1 % |
+| Polierter Andesit | `polished_andesite` | 9 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -44,7 +44,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w72915039` | Porta al Prato | 9.044 | 10.1–10.5 |
+| 1 | `w72915039` | Porta al Prato | 8.861 | 10.1–10.5 |
 | 2 | `w72915039_innen` | Porta al Prato: Innenausbau | 1.851 | 10.6 |
 
 ## Bauschritte
@@ -52,22 +52,22 @@
 ### Schritt 10.1 – Porta al Prato – Teil 1/5 (Y 56–60)
 
 - **Y-Bereich:** 56 bis 60
-- **Blöcke:** 1.735
+- **Blöcke:** 1.745
 - **Bauteile:** `w72915039`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 874 |
 | Polierter Tuffstein | `polished_tuff` | 821 |
-| Graues Buntglas | `gray_stained_glass` | 22 |
+| Tuffstein | `tuff` | 795 |
+| Tuffsteinziegel | `tuff_bricks` | 113 |
 | Glatter Stein | `smooth_stone` | 12 |
-| Fichtenholz-Bretter | `spruce_planks` | 6 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (1284/85 (sechster Mauerring, Arnolfo di Cambio vermutet), 1529 abgesenkt, heutige Form frühe 1930er), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Porta_al_Prato, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -79,27 +79,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.2 – Porta al Prato – Teil 2/5 (Y 61–68)
 
 - **Y-Bereich:** 61 bis 68
-- **Blöcke:** 1.862
+- **Blöcke:** 1.882
 - **Bauteile:** `w72915039`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.741 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
-| Fichtenholz-Bretter | `spruce_planks` | 24 |
-| Polierter Andesit | `polished_andesite` | 22 |
+| Tuffstein | `tuff` | 1.636 |
+| Tuffsteinziegel | `tuff_bricks` | 188 |
+| Graues Buntglas | `gray_stained_glass` | 46 |
 | Glatter Stein | `smooth_stone` | 7 |
+| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (1284/85 (sechster Mauerring, Arnolfo di Cambio vermutet), 1529 abgesenkt, heutige Form frühe 1930er), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Porta_al_Prato, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -111,11 +111,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 10.3 – Porta al Prato – Teil 3/5 (Y 69–76)
+### Schritt 10.3 – Porta al Prato – Teil 3/5 (Y 69–75)
 
-- **Y-Bereich:** 69 bis 76
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.622
+- **Bauteile:** `w72915039`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.372 |
+| Tuffsteinziegel | `tuff_bricks` | 158 |
+| Graues Buntglas | `gray_stained_glass` | 92 |
+
+**Beschreibung**
+
+Nebengebäude (1284/85 (sechster Mauerring, Arnolfo di Cambio vermutet), 1529 abgesenkt, heutige Form frühe 1930er), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Porta_al_Prato, Angaben belegt (Sicherheit 0,6).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 10.4 – Porta al Prato – Teil 4/5 (Y 76–83)
+
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.849
 - **Bauteile:** `w72915039`
 
@@ -123,13 +153,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.704 |
+| Tuffstein | `tuff` | 1.569 |
+| Tuffsteinziegel | `tuff_bricks` | 165 |
 | Graues Buntglas | `gray_stained_glass` | 115 |
-| Fichtenholz-Bretter | `spruce_planks` | 30 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (1284/85 (sechster Mauerring, Arnolfo di Cambio vermutet), 1529 abgesenkt, heutige Form frühe 1930er), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Porta_al_Prato, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -141,55 +171,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 10.4 – Porta al Prato – Teil 4/5 (Y 77–84)
+### Schritt 10.5 – Porta al Prato – Teil 5/5 (Y 84–94)
 
-- **Y-Bereich:** 77 bis 84
-- **Blöcke:** 1.849
+- **Y-Bereich:** 84 bis 94
+- **Blöcke:** 1.763
 - **Bauteile:** `w72915039`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.704 |
-| Graues Buntglas | `gray_stained_glass` | 115 |
-| Fichtenholz-Bretter | `spruce_planks` | 30 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.5 – Porta al Prato – Teil 5/5 (Y 85–94)
-
-- **Y-Bereich:** 85 bis 94
-- **Blöcke:** 1.749
-- **Bauteile:** `w72915039`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.076 |
-| Endsteinziegel | `end_stone_bricks` | 618 |
+| Terrakotta | `terracotta` | 1.005 |
+| Tuffstein | `tuff` | 607 |
+| Tuffsteinziegel | `tuff_bricks` | 73 |
 | Ziegelsteine | `bricks` | 55 |
+| Graues Buntglas | `gray_stained_glass` | 23 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (1284/85 (sechster Mauerring, Arnolfo di Cambio vermutet), 1529 abgesenkt, heutige Form frühe 1930er), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Porta_al_Prato, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -201,7 +203,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 10.6 – Porta al Prato: Innenausbau
 

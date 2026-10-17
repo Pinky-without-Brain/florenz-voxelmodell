@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 137.312 |
+| Blöcke | 137.237 |
 | Bauschritte | 88 |
 | Y-Bereich | 63 bis 105 |
 | X-Ausdehnung | -3 bis 157 (161 Blöcke) |
@@ -21,22 +21,22 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 50.218 | 36,6 % |
+| Terrakotta | `terracotta` | 50.185 | 36,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 28.133 | 20,5 % |
 | Polierter Tuffstein | `polished_tuff` | 18.402 | 13,4 % |
 | Endsteinziegel | `end_stone_bricks` | 13.619 | 9,9 % |
 | Weißer Beton | `white_concrete` | 9.330 | 6,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 7.219 | 5,3 % |
-| Graues Buntglas | `gray_stained_glass` | 3.088 | 2,2 % |
+| Graues Buntglas | `gray_stained_glass` | 3.076 | 2,2 % |
 | Glatter Stein | `smooth_stone` | 1.970 | 1,4 % |
 | Grüner Beton | `green_concrete` | 1.100 | 0,8 % |
 | Ziegelsteine | `bricks` | 1.028 | 0,7 % |
-| Tuffstein | `tuff` | 981 | 0,7 % |
-| Polierter Andesit | `polished_andesite` | 613 | 0,4 % |
+| Tuffstein | `tuff` | 1.016 | 0,7 % |
+| Polierter Andesit | `polished_andesite` | 580 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 346 | 0,3 % |
 | Seelaterne | `sea_lantern` | 287 | 0,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 228 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 102 | 0,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 187 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 111 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 92 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 88 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 81 | 0,1 % |
@@ -68,7 +68,7 @@
 | 4 | `r7752941_innen` | Reihenhaus an Via della Condotta: Innenausbau | 4.108 | 27.14–27.16 |
 | 5 | `r7752942` | Palazzo des Cinquecento an Via dei Magazzini | 43.487 | 27.17–27.46 |
 | 6 | `r7752942_innen` | Palazzo des Cinquecento an Via dei Magazzini: Innenausbau | 12.641 | 27.46–27.54 |
-| 7 | `w307545803` | Torre della Castagna | 1.593 | 27.54 |
+| 7 | `w307545803` | Torre della Castagna | 1.518 | 27.54 |
 | 8 | `w307545803_innen` | Torre della Castagna: Innenausbau | 438 | 27.55 |
 | 9 | `w542316319` | Reihenhaus an Via della Condotta | 5.078 | 27.56–27.58 |
 | 10 | `w542316319_innen` | Reihenhaus an Via della Condotta: Innenausbau | 3.837 | 27.59–27.61 |
@@ -1750,20 +1750,19 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 27.54 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 9/9 (Y 87–87) & Torre della Castagna
 
 - **Y-Bereich:** 66 bis 101
-- **Blöcke:** 1.602
+- **Blöcke:** 1.527
 - **Bauteile:** `r7752942_innen`, `w307545803`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 807 |
-| Polierter Andesit | `polished_andesite` | 225 |
-| Terrakotta | `terracotta` | 213 |
+| Tuffstein | `tuff` | 842 |
+| Polierter Andesit | `polished_andesite` | 192 |
+| Terrakotta | `terracotta` | 180 |
 | Polierter Tuffstein | `polished_tuff` | 153 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-| Tuffsteinziegel | `tuff_bricks` | 63 |
-| Fichtenholz-Bretter | `spruce_planks` | 41 |
+| Graues Buntglas | `gray_stained_glass` | 72 |
+| Tuffsteinziegel | `tuff_bricks` | 72 |
 | Ziegelsteine | `bricks` | 7 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -1779,7 +1778,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Wohnturm (11. Jh. (1038 erwähnt), restauriert 1921), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_della_Castagna, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1791,7 +1790,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 27.55 – Torre della Castagna: Innenausbau
 

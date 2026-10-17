@@ -1,49 +1,59 @@
 {
   "id": "w306252421",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "um 1740 (Ferdinando Ruggieri), Fassade 19. Jh. (Giuseppe Poggi)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
-    "material": "putz",
-    "putzfarbe": "sand",
+    "achsen": 12,
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
+      "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "putz",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "zwoelf_arkaden",
+      "mittelterrasse_ueber_vier_arkaden",
+      "dreiecksgiebelfenster_1og",
+      "fahnenbalkon_mitte"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bastogi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Bau um 1740 (Ferdinando Ruggieri), Fassade im 19. Jh. durch Giuseppe Poggi neu gestaltet, vier Geschosse, Erdgeschoss mit Bugnato und zwölf Arkaden (vier unter dem mittleren Terrassenbereich), zwölf Fenster im ersten Obergeschoss mit Dreiecksgiebeln, Marcapiano-Gesims auf Brüstungshöhe des zweiten Obergeschosses, einfachere Rahmungen im Dachgeschoss. Annahme: Material über dem Erdgeschoss, Gesimsstärke.",
   "name": "Palazzo Bastogi"
 }

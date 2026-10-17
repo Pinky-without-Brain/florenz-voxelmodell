@@ -1,11 +1,15 @@
 {
   "id": "w307174626",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "15. Jh. (zwei Trecento-Häuser, im 16. Jh. aufgestockt)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
@@ -13,37 +17,42 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "weiss",
+    "achsen": 4,
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "laternen_schmiedeeisen_beidseitig",
+      "holztabernakel_madonna",
+      "loggetta_oben"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
-    "form": "flach",
+    "form": "walm",
     "material": "terrasse",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Medici_Tornaquinci",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: vorwiegend Quattrocento-Fassade aus zwei Trecento-Häusern, im 16. Jh. unter den Cambi del Nero zusammengefasst und aufgestockt, vier Geschosse plus Mezzanin, vier Achsen mit vier großen Läden-Portalen im Erdgeschoss, Pietraforte-Quader unten und Filaretto oben, vier quadratische Mezzaninfenster, vier Monoforen im ersten Stock, Rundbogenfenster oben, Marcadavanzale-Gesims, spätcinquecentesche Loggetta, zwei schmiedeeiserne Laternen. Annahme: fünf Geschosse auf vier verdichtet (Mezzanin als eigenes Geschoss), Gesimsform.",
   "name": "Palazzo Medici Tornaquinci"
 }

@@ -8,42 +8,40 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 77.220 |
-| Bauschritte | 49 |
+| Blöcke | 73.556 |
+| Bauschritte | 46 |
 | Y-Bereich | 67 bis 119 |
 | X-Ausdehnung | -123 bis -2 (122 Blöcke) |
 | Z-Ausdehnung | 573 bis 647 (75 Blöcke) |
-| Kleinster Schritt | 603 Blöcke (Schritt 22.49) |
-| Mittlerer Schritt | 1.576 Blöcke |
-| Größter Schritt | 2.060 Blöcke (Schritt 22.39) |
+| Kleinster Schritt | 603 Blöcke (Schritt 22.46) |
+| Mittlerer Schritt | 1.599 Blöcke |
+| Größter Schritt | 2.060 Blöcke (Schritt 22.36) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 26.964 | 34,9 % |
-| Tuffstein | `tuff` | 14.367 | 18,6 % |
-| Polierter Tuffstein | `polished_tuff` | 6.919 | 9,0 % |
-| Polierter Andesit | `polished_andesite` | 4.674 | 6,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 4.626 | 6,0 % |
-| Glatter Stein | `smooth_stone` | 4.527 | 5,9 % |
-| Weißer Beton | `white_concrete` | 4.282 | 5,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 3.220 | 4,2 % |
-| Endsteinziegel | `end_stone_bricks` | 2.221 | 2,9 % |
-| Graues Buntglas | `gray_stained_glass` | 2.157 | 2,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 800 | 1,0 % |
-| Fichtenholz-Bretter | `spruce_planks` | 602 | 0,8 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 519 | 0,7 % |
-| Ziegelsteine | `bricks` | 435 | 0,6 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 200 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 190 | 0,2 % |
-| Seelaterne | `sea_lantern` | 164 | 0,2 % |
-| Rote Keramik | `red_terracotta` | 78 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 78 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 52 | 0,1 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 44 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 30 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 26 | 0,0 % |
+| Terrakotta | `terracotta` | 23.878 | 32,5 % |
+| Tuffstein | `tuff` | 14.278 | 19,4 % |
+| Polierter Tuffstein | `polished_tuff` | 6.919 | 9,4 % |
+| Polierter Andesit | `polished_andesite` | 4.981 | 6,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 4.626 | 6,3 % |
+| Weißer Beton | `white_concrete` | 4.282 | 5,8 % |
+| Glatter Stein | `smooth_stone` | 3.922 | 5,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 3.220 | 4,4 % |
+| Graues Buntglas | `gray_stained_glass` | 2.327 | 3,2 % |
+| Endsteinziegel | `end_stone_bricks` | 1.937 | 2,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 821 | 1,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 599 | 0,8 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 522 | 0,7 % |
+| Ziegelsteine | `bricks` | 434 | 0,6 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 197 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 187 | 0,3 % |
+| Seelaterne | `sea_lantern` | 143 | 0,2 % |
+| Rote Keramik | `red_terracotta` | 69 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 69 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 54 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 46 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 15 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 15 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 6 | 0,0 % |
@@ -55,39 +53,39 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 420 |
-| Steintreppe | `stone_stairs` | 152 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 414 |
+| Steintreppe | `stone_stairs` | 100 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307545800` | Palazzo Giugni | 10.569 | 22.1–22.6 |
-| 2 | `w307545800_innen` | Palazzo Giugni: Innenausbau | 3.293 | 22.7–22.9 |
-| 3 | `w307545801` | Renaissance-Palazzo an Via dei Cimatori | 10.980 | 22.10–22.15 |
-| 4 | `w307545801_innen` | Renaissance-Palazzo an Via dei Cimatori: Innenausbau | 3.064 | 22.16–22.17 |
-| 5 | `w307545805` | Palazzo Rinuccini | 8.835 | 22.18–22.22 |
-| 6 | `w307545805_innen` | Palazzo Rinuccini: Innenausbau | 1.569 | 22.23 |
-| 7 | `w307545809` | Reihenhaus an Via dei Magazzini | 6.566 | 22.24–22.27 |
-| 8 | `w307545809_innen` | Reihenhaus an Via dei Magazzini: Innenausbau | 2.404 | 22.28–22.29 |
-| 9 | `w495062041` | Wohnturm an Via della Condotta | 3.092 | 22.30–22.31 |
-| 10 | `w495062041_innen` | Wohnturm an Via della Condotta: Innenausbau | 657 | 22.32 |
-| 11 | `w495062042` | Reihenhaus an Via della Condotta | 8.152 | 22.33–22.37 |
-| 12 | `w495062042_innen` | Reihenhaus an Via della Condotta: Innenausbau | 3.158 | 22.38–22.39 |
-| 13 | `w495062045` | Reihenhaus an Via della Condotta | 5.923 | 22.40–22.42 |
-| 14 | `w495062045_innen` | Reihenhaus an Via della Condotta: Innenausbau | 2.315 | 22.43–22.44 |
-| 15 | `w495062047` | Reihenhaus an Via della Condotta | 3.442 | 22.45–22.46 |
-| 16 | `w495062047_innen` | Reihenhaus an Via della Condotta: Innenausbau | 1.924 | 22.47 |
-| 17 | `w495062055` | Wohnturm an Piazza dei Cerchi | 674 | 22.48 |
-| 18 | `w495062055_innen` | Wohnturm an Piazza dei Cerchi: Innenausbau | 588 | 22.49 |
-| 19 | `strassenschilder` | Straßenschilder | 15 | 22.49 |
+| 1 | `w307545800` | Palazzo Giugni | 10.265 | 22.1–22.6 |
+| 2 | `w307545800_innen` | Palazzo Giugni: Innenausbau | 13 | 22.7 |
+| 3 | `w307545801` | Renaissance-Palazzo an Via dei Cimatori | 10.979 | 22.7–22.12 |
+| 4 | `w307545801_innen` | Renaissance-Palazzo an Via dei Cimatori: Innenausbau | 3.064 | 22.13–22.14 |
+| 5 | `w307545805` | Palazzo Rinuccini | 8.748 | 22.15–22.19 |
+| 6 | `w307545805_innen` | Palazzo Rinuccini: Innenausbau | 1.580 | 22.20 |
+| 7 | `w307545809` | Reihenhaus an Via dei Magazzini | 6.565 | 22.21–22.24 |
+| 8 | `w307545809_innen` | Reihenhaus an Via dei Magazzini: Innenausbau | 2.404 | 22.25–22.26 |
+| 9 | `w495062041` | Wohnturm an Via della Condotta | 3.092 | 22.27–22.28 |
+| 10 | `w495062041_innen` | Wohnturm an Via della Condotta: Innenausbau | 657 | 22.29 |
+| 11 | `w495062042` | Reihenhaus an Via della Condotta | 8.150 | 22.30–22.34 |
+| 12 | `w495062042_innen` | Reihenhaus an Via della Condotta: Innenausbau | 3.158 | 22.35–22.36 |
+| 13 | `w495062045` | Reihenhaus an Via della Condotta | 5.923 | 22.37–22.39 |
+| 14 | `w495062045_innen` | Reihenhaus an Via della Condotta: Innenausbau | 2.315 | 22.40–22.41 |
+| 15 | `w495062047` | Reihenhaus an Via della Condotta | 3.442 | 22.42–22.43 |
+| 16 | `w495062047_innen` | Reihenhaus an Via della Condotta: Innenausbau | 1.924 | 22.44 |
+| 17 | `w495062055` | Wohnturm an Piazza dei Cerchi | 674 | 22.45 |
+| 18 | `w495062055_innen` | Wohnturm an Piazza dei Cerchi: Innenausbau | 588 | 22.46 |
+| 19 | `strassenschilder` | Straßenschilder | 15 | 22.46 |
 
 ## Bauschritte
 
 ### Schritt 22.1 – Palazzo Giugni – Teil 1/6 (Y 68–71)
 
 - **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.862
+- **Blöcke:** 1.720
 - **Bauteile:** `w307545800`
 
 **Teileliste**
@@ -95,14 +93,15 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.250 |
-| Tuffstein | `tuff` | 405 |
-| Polierter Andesit | `polished_andesite` | 135 |
-| Tuffsteinziegel | `tuff_bricks` | 67 |
-| Glatter Stein | `smooth_stone` | 5 |
+| Tuffstein | `tuff` | 373 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
+| Polierter Andesit | `polished_andesite` | 24 |
+| Tuffsteinziegel | `tuff_bricks` | 24 |
+| Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Trecento-Kern, Übergang Wohnturm zum Palazzo)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni_(via_della_Condotta), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -114,27 +113,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 22.2 – Palazzo Giugni – Teil 2/6 (Y 72–80)
 
 - **Y-Bereich:** 72 bis 80
-- **Blöcke:** 1.750
+- **Blöcke:** 1.641
 - **Bauteile:** `w307545800`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.120 |
-| Polierter Andesit | `polished_andesite` | 321 |
-| Graues Buntglas | `gray_stained_glass` | 117 |
-| Glatter Stein | `smooth_stone` | 112 |
-| Tuffsteinziegel | `tuff_bricks` | 80 |
+| Tuffstein | `tuff` | 1.221 |
+| Polierter Andesit | `polished_andesite` | 174 |
+| Graues Buntglas | `gray_stained_glass` | 92 |
+| Glatter Stein | `smooth_stone` | 81 |
+| Tuffsteinziegel | `tuff_bricks` | 73 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Trecento-Kern, Übergang Wohnturm zum Palazzo)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni_(via_della_Condotta), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -146,26 +145,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.3 – Palazzo Giugni – Teil 3/6 (Y 81–88)
+### Schritt 22.3 – Palazzo Giugni – Teil 3/6 (Y 81–89)
 
-- **Y-Bereich:** 81 bis 88
-- **Blöcke:** 1.632
+- **Y-Bereich:** 81 bis 89
+- **Blöcke:** 1.755
 - **Bauteile:** `w307545800`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.046 |
-| Polierter Andesit | `polished_andesite` | 451 |
-| Glatter Stein | `smooth_stone` | 69 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
+| Tuffstein | `tuff` | 1.131 |
+| Polierter Andesit | `polished_andesite` | 378 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Glatter Stein | `smooth_stone` | 84 |
+| Tuffsteinziegel | `tuff_bricks` | 42 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Trecento-Kern, Übergang Wohnturm zum Palazzo)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni_(via_della_Condotta), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -177,26 +177,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.4 – Palazzo Giugni – Teil 4/6 (Y 89–97)
+### Schritt 22.4 – Palazzo Giugni – Teil 4/6 (Y 90–98)
 
-- **Y-Bereich:** 89 bis 97
-- **Blöcke:** 1.817
+- **Y-Bereich:** 90 bis 98
+- **Blöcke:** 1.779
 - **Bauteile:** `w307545800`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.163 |
-| Polierter Andesit | `polished_andesite` | 448 |
-| Glatter Stein | `smooth_stone` | 118 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
+| Tuffstein | `tuff` | 1.155 |
+| Polierter Andesit | `polished_andesite` | 379 |
+| Glatter Stein | `smooth_stone` | 149 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Trecento-Kern, Übergang Wohnturm zum Palazzo)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni_(via_della_Condotta), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -208,27 +208,56 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.5 – Palazzo Giugni – Teil 5/6 (Y 98–105)
+### Schritt 22.5 – Palazzo Giugni – Teil 5/6 (Y 99–105)
 
-- **Y-Bereich:** 98 bis 105
-- **Blöcke:** 1.734
+- **Y-Bereich:** 99 bis 105
+- **Blöcke:** 1.561
 - **Bauteile:** `w307545800`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.046 |
-| Polierter Andesit | `polished_andesite` | 472 |
-| Endsteinziegel | `end_stone_bricks` | 134 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
+| Tuffstein | `tuff` | 901 |
+| Polierter Andesit | `polished_andesite` | 401 |
+| Glatter Stein | `smooth_stone` | 187 |
+| Graues Buntglas | `gray_stained_glass` | 72 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (14. Jh. (Trecento-Kern, Übergang Wohnturm zum Palazzo)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni_(via_della_Condotta), Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 22.6 – Palazzo Giugni – Teil 6/6 (Y 106–118)
+
+- **Y-Bereich:** 106 bis 118
+- **Blöcke:** 1.809
+- **Bauteile:** `w307545800`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.734 |
+| Ziegelsteine | `bricks` | 59 |
 | Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (14. Jh. (Trecento-Kern, Übergang Wohnturm zum Palazzo)), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Giugni_(via_della_Condotta), Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -240,174 +269,13 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.6 – Palazzo Giugni – Teil 6/6 (Y 106–113)
-
-- **Y-Bereich:** 106 bis 113
-- **Blöcke:** 1.774
-- **Bauteile:** `w307545800`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.714 |
-| Ziegelsteine | `bricks` | 60 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 22.7 – Palazzo Giugni: Innenausbau – Teil 1/3 (Y 68–79)
-
-- **Y-Bereich:** 68 bis 79
-- **Blöcke:** 1.102
-- **Bauteile:** `w307545800_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.035 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 14 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 22.8 – Palazzo Giugni: Innenausbau – Teil 2/3 (Y 80–87)
-
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.089
-- **Bauteile:** `w307545800_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.035 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 22.9 – Palazzo Giugni: Innenausbau – Teil 3/3 (Y 88–97)
-
-- **Y-Bereich:** 88 bis 97
-- **Blöcke:** 1.102
-- **Bauteile:** `w307545800_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.035 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 22.10 – Renaissance-Palazzo an Via dei Cimatori – Teil 1/6 (Y 67–70)
+### Schritt 22.7 – Palazzo Giugni: Innenausbau & Renaissance-Palazzo an Via dei Cimatori – Teil 1/6 (Y 67–70)
 
 - **Y-Bereich:** 67 bis 70
-- **Blöcke:** 1.813
-- **Bauteile:** `w307545801`
+- **Blöcke:** 1.826
+- **Bauteile:** `w307545800_innen`, `w307545801`
 
 **Teileliste**
 
@@ -418,24 +286,34 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Polierter Andesit | `polished_andesite` | 102 |
 | Tuffsteinziegel | `tuff_bricks` | 101 |
 | Glatter Stein | `smooth_stone` | 99 |
+| Seelaterne | `sea_lantern` | 7 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.11 – Renaissance-Palazzo an Via dei Cimatori – Teil 2/6 (Y 71–79)
+### Schritt 22.8 – Renaissance-Palazzo an Via dei Cimatori – Teil 2/6 (Y 71–79)
 
 - **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.745
@@ -467,7 +345,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.12 – Renaissance-Palazzo an Via dei Cimatori – Teil 3/6 (Y 80–88)
+### Schritt 22.9 – Renaissance-Palazzo an Via dei Cimatori – Teil 3/6 (Y 80–88)
 
 - **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.877
@@ -498,7 +376,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.13 – Renaissance-Palazzo an Via dei Cimatori – Teil 4/6 (Y 89–97)
+### Schritt 22.10 – Renaissance-Palazzo an Via dei Cimatori – Teil 4/6 (Y 89–97)
 
 - **Y-Bereich:** 89 bis 97
 - **Blöcke:** 1.793
@@ -529,7 +407,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.14 – Renaissance-Palazzo an Via dei Cimatori – Teil 5/6 (Y 98–104)
+### Schritt 22.11 – Renaissance-Palazzo an Via dei Cimatori – Teil 5/6 (Y 98–104)
 
 - **Y-Bereich:** 98 bis 104
 - **Blöcke:** 1.934
@@ -560,17 +438,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.15 – Renaissance-Palazzo an Via dei Cimatori – Teil 6/6 (Y 105–111)
+### Schritt 22.12 – Renaissance-Palazzo an Via dei Cimatori – Teil 6/6 (Y 105–111)
 
 - **Y-Bereich:** 105 bis 111
-- **Blöcke:** 1.818
+- **Blöcke:** 1.817
 - **Bauteile:** `w307545801`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.729 |
+| Terrakotta | `terracotta` | 1.728 |
 | Ziegelsteine | `bricks` | 89 |
 
 **Beschreibung**
@@ -589,7 +467,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.16 – Renaissance-Palazzo an Via dei Cimatori: Innenausbau – Teil 1/2 (Y 67–85)
+### Schritt 22.13 – Renaissance-Palazzo an Via dei Cimatori: Innenausbau – Teil 1/2 (Y 67–85)
 
 - **Y-Bereich:** 67 bis 85
 - **Blöcke:** 1.070
@@ -633,7 +511,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.17 – Renaissance-Palazzo an Via dei Cimatori: Innenausbau – Teil 2/2 (Y 86–96)
+### Schritt 22.14 – Renaissance-Palazzo an Via dei Cimatori: Innenausbau – Teil 2/2 (Y 86–96)
 
 - **Y-Bereich:** 86 bis 96
 - **Blöcke:** 1.994
@@ -677,10 +555,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.18 – Palazzo Rinuccini – Teil 1/5 (Y 67–71)
+### Schritt 22.15 – Palazzo Rinuccini – Teil 1/5 (Y 67–71)
 
 - **Y-Bereich:** 67 bis 71
-- **Blöcke:** 1.703
+- **Blöcke:** 1.666
 - **Bauteile:** `w307545805`
 
 **Teileliste**
@@ -688,15 +566,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 955 |
-| Tuffstein | `tuff` | 516 |
-| Glatter Stein | `smooth_stone` | 125 |
-| Tuffsteinziegel | `tuff_bricks` | 85 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Tuffstein | `tuff` | 456 |
+| Polierter Andesit | `polished_andesite` | 99 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
+| Tuffsteinziegel | `tuff_bricks` | 64 |
+| Glatter Stein | `smooth_stone` | 24 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (florentinische Renaissance-Zivilarchitektur (genaue Datierung nicht belegt)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rinuccini_(via_de'_Cimatori), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -708,27 +586,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.19 – Palazzo Rinuccini – Teil 2/5 (Y 72–80)
+### Schritt 22.16 – Palazzo Rinuccini – Teil 2/5 (Y 72–80)
 
 - **Y-Bereich:** 72 bis 80
-- **Blöcke:** 1.916
+- **Blöcke:** 1.862
 - **Bauteile:** `w307545805`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.144 |
-| Glatter Stein | `smooth_stone` | 452 |
-| Tuffsteinziegel | `tuff_bricks` | 135 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Polierter Andesit | `polished_andesite` | 81 |
+| Tuffstein | `tuff` | 1.118 |
+| Polierter Andesit | `polished_andesite` | 335 |
+| Glatter Stein | `smooth_stone` | 145 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Tuffsteinziegel | `tuff_bricks` | 129 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (florentinische Renaissance-Zivilarchitektur (genaue Datierung nicht belegt)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rinuccini_(via_de'_Cimatori), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -740,27 +618,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.20 – Palazzo Rinuccini – Teil 3/5 (Y 81–88)
+### Schritt 22.17 – Palazzo Rinuccini – Teil 3/5 (Y 81–88)
 
 - **Y-Bereich:** 81 bis 88
-- **Blöcke:** 1.755
+- **Blöcke:** 1.664
 - **Bauteile:** `w307545805`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 892 |
-| Glatter Stein | `smooth_stone` | 414 |
-| Polierter Andesit | `polished_andesite` | 218 |
-| Graues Buntglas | `gray_stained_glass` | 137 |
-| Tuffsteinziegel | `tuff_bricks` | 94 |
+| Tuffstein | `tuff` | 864 |
+| Polierter Andesit | `polished_andesite` | 436 |
+| Graues Buntglas | `gray_stained_glass` | 166 |
+| Tuffsteinziegel | `tuff_bricks` | 150 |
+| Glatter Stein | `smooth_stone` | 48 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (florentinische Renaissance-Zivilarchitektur (genaue Datierung nicht belegt)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rinuccini_(via_de'_Cimatori), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -772,27 +650,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.21 – Palazzo Rinuccini – Teil 4/5 (Y 89–96)
+### Schritt 22.18 – Palazzo Rinuccini – Teil 4/5 (Y 89–96)
 
 - **Y-Bereich:** 89 bis 96
-- **Blöcke:** 1.788
+- **Blöcke:** 1.810
 - **Bauteile:** `w307545805`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 892 |
-| Polierter Andesit | `polished_andesite` | 351 |
-| Glatter Stein | `smooth_stone` | 333 |
-| Graues Buntglas | `gray_stained_glass` | 137 |
-| Endsteinziegel | `end_stone_bricks` | 75 |
+| Tuffstein | `tuff` | 916 |
+| Polierter Andesit | `polished_andesite` | 562 |
+| Glatter Stein | `smooth_stone` | 220 |
+| Graues Buntglas | `gray_stained_glass` | 112 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (florentinische Renaissance-Zivilarchitektur (genaue Datierung nicht belegt)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rinuccini_(via_de'_Cimatori), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -804,12 +681,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.22 – Palazzo Rinuccini – Teil 5/5 (Y 97–104)
+### Schritt 22.19 – Palazzo Rinuccini – Teil 5/5 (Y 97–104)
 
 - **Y-Bereich:** 97 bis 104
-- **Blöcke:** 1.673
+- **Blöcke:** 1.746
 - **Bauteile:** `w307545805`
 
 **Teileliste**
@@ -817,15 +694,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.306 |
+| Glatter Stein | `smooth_stone` | 151 |
 | Tuffstein | `tuff` | 128 |
 | Polierter Andesit | `polished_andesite` | 97 |
-| Endsteinziegel | `end_stone_bricks` | 75 |
 | Ziegelsteine | `bricks` | 64 |
-| Glatter Stein | `smooth_stone` | 3 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (florentinische Renaissance-Zivilarchitektur (genaue Datierung nicht belegt)), 3 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Rinuccini_(via_de'_Cimatori), Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -837,12 +713,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 22.23 – Palazzo Rinuccini: Innenausbau
+### Schritt 22.20 – Palazzo Rinuccini: Innenausbau
 
-- **Y-Bereich:** 67 bis 88
-- **Blöcke:** 1.569
+- **Y-Bereich:** 67 bis 90
+- **Blöcke:** 1.580
 - **Bauteile:** `w307545805_innen`
 
 **Teileliste**
@@ -850,26 +726,28 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.438 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
+| Glatter Stein | `smooth_stone` | 56 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 24 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 44 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -883,7 +761,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.24 – Reihenhaus an Via dei Magazzini – Teil 1/4 (Y 67–72)
+### Schritt 22.21 – Reihenhaus an Via dei Magazzini – Teil 1/4 (Y 67–72)
 
 - **Y-Bereich:** 67 bis 72
 - **Blöcke:** 1.591
@@ -915,7 +793,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.25 – Reihenhaus an Via dei Magazzini – Teil 2/4 (Y 73–84)
+### Schritt 22.22 – Reihenhaus an Via dei Magazzini – Teil 2/4 (Y 73–84)
 
 - **Y-Bereich:** 73 bis 84
 - **Blöcke:** 1.711
@@ -946,7 +824,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.26 – Reihenhaus an Via dei Magazzini – Teil 3/4 (Y 85–96)
+### Schritt 22.23 – Reihenhaus an Via dei Magazzini – Teil 3/4 (Y 85–96)
 
 - **Y-Bereich:** 85 bis 96
 - **Blöcke:** 1.671
@@ -977,10 +855,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.27 – Reihenhaus an Via dei Magazzini – Teil 4/4 (Y 97–104)
+### Schritt 22.24 – Reihenhaus an Via dei Magazzini – Teil 4/4 (Y 97–104)
 
 - **Y-Bereich:** 97 bis 104
-- **Blöcke:** 1.593
+- **Blöcke:** 1.592
 - **Bauteile:** `w307545809`
 
 **Teileliste**
@@ -989,7 +867,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.273 |
 | Glatter Sandstein | `smooth_sandstone` | 148 |
-| Fichtenholz-Bretter | `spruce_planks` | 105 |
+| Fichtenholz-Bretter | `spruce_planks` | 104 |
 | Ziegelsteine | `bricks` | 67 |
 
 **Beschreibung**
@@ -1008,7 +886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.28 – Reihenhaus an Via dei Magazzini: Innenausbau – Teil 1/2 (Y 67–82)
+### Schritt 22.25 – Reihenhaus an Via dei Magazzini: Innenausbau – Teil 1/2 (Y 67–82)
 
 - **Y-Bereich:** 67 bis 82
 - **Blöcke:** 844
@@ -1048,7 +926,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.29 – Reihenhaus an Via dei Magazzini: Innenausbau – Teil 2/2 (Y 83–91)
+### Schritt 22.26 – Reihenhaus an Via dei Magazzini: Innenausbau – Teil 2/2 (Y 83–91)
 
 - **Y-Bereich:** 83 bis 91
 - **Blöcke:** 1.560
@@ -1090,7 +968,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.30 – Wohnturm an Via della Condotta – Teil 1/2 (Y 68–87)
+### Schritt 22.27 – Wohnturm an Via della Condotta – Teil 1/2 (Y 68–87)
 
 - **Y-Bereich:** 68 bis 87
 - **Blöcke:** 1.520
@@ -1122,7 +1000,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.31 – Wohnturm an Via della Condotta – Teil 2/2 (Y 88–107)
+### Schritt 22.28 – Wohnturm an Via della Condotta – Teil 2/2 (Y 88–107)
 
 - **Y-Bereich:** 88 bis 107
 - **Blöcke:** 1.572
@@ -1155,7 +1033,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.32 – Wohnturm an Via della Condotta: Innenausbau
+### Schritt 22.29 – Wohnturm an Via della Condotta: Innenausbau
 
 - **Y-Bereich:** 68 bis 99
 - **Blöcke:** 657
@@ -1195,7 +1073,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.33 – Reihenhaus an Via della Condotta – Teil 1/5 (Y 67–70)
+### Schritt 22.30 – Reihenhaus an Via della Condotta – Teil 1/5 (Y 67–70)
 
 - **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.643
@@ -1227,7 +1105,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.34 – Reihenhaus an Via della Condotta – Teil 2/5 (Y 71–80)
+### Schritt 22.31 – Reihenhaus an Via della Condotta – Teil 2/5 (Y 71–80)
 
 - **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.607
@@ -1259,7 +1137,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.35 – Reihenhaus an Via della Condotta – Teil 3/5 (Y 81–90)
+### Schritt 22.32 – Reihenhaus an Via della Condotta – Teil 3/5 (Y 81–90)
 
 - **Y-Bereich:** 81 bis 90
 - **Blöcke:** 1.728
@@ -1290,10 +1168,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.36 – Reihenhaus an Via della Condotta – Teil 4/5 (Y 91–97)
+### Schritt 22.33 – Reihenhaus an Via della Condotta – Teil 4/5 (Y 91–97)
 
 - **Y-Bereich:** 91 bis 97
-- **Blöcke:** 1.386
+- **Blöcke:** 1.384
 - **Bauteile:** `w495062042`
 
 **Teileliste**
@@ -1301,7 +1179,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 872 |
-| Fichtenholz-Bretter | `spruce_planks` | 222 |
+| Fichtenholz-Bretter | `spruce_planks` | 220 |
 | Hellgrauer Beton | `light_gray_concrete` | 217 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 
@@ -1321,7 +1199,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.37 – Reihenhaus an Via della Condotta – Teil 5/5 (Y 98–106)
+### Schritt 22.34 – Reihenhaus an Via della Condotta – Teil 5/5 (Y 98–106)
 
 - **Y-Bereich:** 98 bis 106
 - **Blöcke:** 1.788
@@ -1350,7 +1228,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.38 – Reihenhaus an Via della Condotta: Innenausbau – Teil 1/2 (Y 67–82)
+### Schritt 22.35 – Reihenhaus an Via della Condotta: Innenausbau – Teil 1/2 (Y 67–82)
 
 - **Y-Bereich:** 67 bis 82
 - **Blöcke:** 1.098
@@ -1392,7 +1270,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.39 – Reihenhaus an Via della Condotta: Innenausbau – Teil 2/2 (Y 83–91)
+### Schritt 22.36 – Reihenhaus an Via della Condotta: Innenausbau – Teil 2/2 (Y 83–91)
 
 - **Y-Bereich:** 83 bis 91
 - **Blöcke:** 2.060
@@ -1434,7 +1312,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.40 – Reihenhaus an Via della Condotta – Teil 1/3 (Y 68–82)
+### Schritt 22.37 – Reihenhaus an Via della Condotta – Teil 1/3 (Y 68–82)
 
 - **Y-Bereich:** 68 bis 82
 - **Blöcke:** 1.933
@@ -1466,7 +1344,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.41 – Reihenhaus an Via della Condotta – Teil 2/3 (Y 83–103)
+### Schritt 22.38 – Reihenhaus an Via della Condotta – Teil 2/3 (Y 83–103)
 
 - **Y-Bereich:** 83 bis 103
 - **Blöcke:** 2.004
@@ -1496,7 +1374,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.42 – Reihenhaus an Via della Condotta – Teil 3/3 (Y 104–119)
+### Schritt 22.39 – Reihenhaus an Via della Condotta – Teil 3/3 (Y 104–119)
 
 - **Y-Bereich:** 104 bis 119
 - **Blöcke:** 1.986
@@ -1528,7 +1406,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.43 – Reihenhaus an Via della Condotta: Innenausbau – Teil 1/2 (Y 68–86)
+### Schritt 22.40 – Reihenhaus an Via della Condotta: Innenausbau – Teil 1/2 (Y 68–86)
 
 - **Y-Bereich:** 68 bis 86
 - **Blöcke:** 1.163
@@ -1570,7 +1448,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.44 – Reihenhaus an Via della Condotta: Innenausbau – Teil 2/2 (Y 87–104)
+### Schritt 22.41 – Reihenhaus an Via della Condotta: Innenausbau – Teil 2/2 (Y 87–104)
 
 - **Y-Bereich:** 87 bis 104
 - **Blöcke:** 1.152
@@ -1612,7 +1490,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.45 – Reihenhaus an Via della Condotta – Teil 1/2 (Y 68–88)
+### Schritt 22.42 – Reihenhaus an Via della Condotta – Teil 1/2 (Y 68–88)
 
 - **Y-Bereich:** 68 bis 88
 - **Blöcke:** 1.699
@@ -1643,7 +1521,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.46 – Reihenhaus an Via della Condotta – Teil 2/2 (Y 89–111)
+### Schritt 22.43 – Reihenhaus an Via della Condotta – Teil 2/2 (Y 89–111)
 
 - **Y-Bereich:** 89 bis 111
 - **Blöcke:** 1.743
@@ -1675,7 +1553,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.47 – Reihenhaus an Via della Condotta: Innenausbau
+### Schritt 22.44 – Reihenhaus an Via della Condotta: Innenausbau
 
 - **Y-Bereich:** 68 bis 99
 - **Blöcke:** 1.924
@@ -1717,7 +1595,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.48 – Wohnturm an Piazza dei Cerchi
+### Schritt 22.45 – Wohnturm an Piazza dei Cerchi
 
 - **Y-Bereich:** 68 bis 109
 - **Blöcke:** 674
@@ -1751,7 +1629,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.49 – Wohnturm an Piazza dei Cerchi: Innenausbau & Straßenschilder
+### Schritt 22.46 – Wohnturm an Piazza dei Cerchi: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 68 bis 99
 - **Blöcke:** 603

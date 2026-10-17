@@ -1,30 +1,30 @@
 {
   "id": "w116673459",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "Trecento-Kern, Fassade nach 1808 neoklassizistisch (Cacialli)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 14
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 8
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 3,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "material": "stein_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -35,15 +35,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "zwei_saeulen_mit_loewen",
+      "fries_neoklassizistisch",
+      "gotisches_portal_entfernt"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Pancrazio_(Firenze)",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: nach der napoleonischen Aufhebung 1808 Fassade von Giuseppe Cacialli im neoklassizistischen Geschmack umgestaltet, gotisches Trecento-Portal entfernt, in der Fassadenmitte zwei Säulen mit je einem Löwen und ein Fries (Anastilose). Annahme: Material, Portalbreite, Dach.",
   "name": "ex Chiesa di San Pancrazio"
 }

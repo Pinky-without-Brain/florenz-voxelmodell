@@ -1,49 +1,57 @@
 {
   "id": "r4101359",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1905–1917 (neoquattrocentesker Eklektizismus)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
-    "material": "putz",
-    "putzfarbe": "terrakotta",
+    "achsen": 11,
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_forte",
+      "typ": "bifora",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "sgraffito_filaretto",
+      "keramikmedaillons_stadtwappen"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
-    "altana": false
+    "form": "flach",
+    "material": "terrasse",
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_delle_Poste_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Projekt 1905, Mauerwerk bis 1914, Einweihung 1917 (Tognetti, Sabatini), neoquattrocentesker Eklektizismus; hoher Sockel mit falschem Bugnato, darüber Putz mit Sgraffito und falschem Filaretto; Portikus mit elf Arkaden an der Via Pellicceria, Rundbogenfenster im 1. Stock, Biforen im 2. Stock, Altana über beiden Fronten, Keramikmedaillons zwischen den Arkaden. Annahme: Bugnato_glatt als nächste Materialstufe (Putzobergeschosse in Stein ausgeführt), Gesimsstärke, Dachform.",
   "name": "Palazzo delle Poste"
 }

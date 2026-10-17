@@ -1,49 +1,51 @@
 {
   "id": "w306252415",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "Neoklassizismus, 1775–78 (Bernardo Fallani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 15
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
-    },
-    {
-      "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 15
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 7,
+    "achsen": 3,
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "putz",
-      "laeden": "gruen"
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
+      "art": "putzgesims",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "bugnato_rahmung_portal",
+      "balkon_finestrone_mittig",
+      "zwei_medaillons_anker_delfin_fuellhorn",
+      "timpanonfenster_og"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzina_della_Livia",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia: neoklassizistisch, 1775–78 (Bernardo Fallani; Buontalenti-Zuschreibung gilt als falsch), Erdgeschoss und erstes Obergeschoss, dreiachsige symmetrische Hauptfassade, großes Rundbogenportal mit Bugnato-Rahmung zwischen zwei Kniefenstern, im ersten Stock Balkon mit großem Fenster und seitlichen Fenstern mit Timpanon, doppelte Gesimse und Gurtgesims, zwei runde Medaillons. Annahme: Putzfarbe, Dachform, Geschosshöhen.",
   "name": "Palazzina della Livia"
 }

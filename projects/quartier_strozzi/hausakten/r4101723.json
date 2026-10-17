@@ -1,11 +1,11 @@
 {
   "id": "r4101723",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh. (ab 1559, Vasari, dann Ammannati)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
@@ -13,21 +13,25 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "portal_mittig",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "bifora",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -35,15 +39,21 @@
       "art": "cornicione_stein",
       "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "terrasse_ueber_portal",
+      "bueste_francesco_i_giambologna_1577",
+      "fassadenfresken_teilweise",
+      "spiegelrahmen_fenster"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_del_Circolo_dell'Unione",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Bau ab 1559 (Vasari, danach Ammannati), vier Geschosse, Fensterrahmungen aus Pietra serena in Spiegel- oder Bilderrahmen-Form, ab Ende des 16. Jh. reiche Freskendekoration der Fassade, Portal mit darüber liegender Terrasse (frühes Beispiel in Florenz), Büste Francescos I. von Giambologna (1577) über dem Portal. Annahme: Putz als Fresken-Träger, Putzfarbe, Achsen, Gesims.",
   "name": "Palazzo del Circolo dell'Unione"
 }

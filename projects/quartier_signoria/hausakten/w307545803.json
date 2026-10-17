@@ -1,7 +1,7 @@
 {
   "id": "w307545803",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "11. Jh. (1038 erwähnt), restauriert 1921",
   "geschosse": [
     {
       "art": "eg",
@@ -22,13 +22,13 @@
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 3,
+    "achsen": 1,
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "portal_mittig",
       "portalBreiteBl": 5,
-      "fenster": "rechteck_vergittert"
+      "fenster": "keine"
     },
     "fenster": {
       "typ": "rundbogen",
@@ -36,18 +36,22 @@
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "doppelbogen_portal_senese",
+      "gedenktafel_dino_compagni",
+      "tafel_priorensitzungen"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_della_Castagna",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Turm des 11. Jh. (1038 erwähnt, Schenkung Konrads II. an die Badia Fiorentina), Sitz der Prioren ab 1282, im 13. Jh. nicht gekappt, quadratischer Grundriss, hoch und schlank, Portal mit Doppelbogen (\"senese\"), Gedenktafeln, Restaurierung 1921. Annahme: Material, Geschosse, Fenster, Dach.",
   "name": "Torre della Castagna"
 }
