@@ -8,48 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 226.353 |
+| Blöcke | 227.005 |
 | Bauschritte | 148 |
 | Y-Bereich | 64 bis 104 |
 | X-Ausdehnung | -378 bis -155 (224 Blöcke) |
 | Z-Ausdehnung | -942 bis -716 (227 Blöcke) |
 | Kleinster Schritt | 570 Blöcke (Schritt 15.66) |
-| Mittlerer Schritt | 1.529 Blöcke |
+| Mittlerer Schritt | 1.534 Blöcke |
 | Größter Schritt | 2.096 Blöcke (Schritt 15.84) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 66.680 | 29,5 % |
-| Weißer Beton | `white_concrete` | 32.327 | 14,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 27.774 | 12,3 % |
-| Polierter Tuffstein | `polished_tuff` | 25.476 | 11,3 % |
+| Terrakotta | `terracotta` | 67.224 | 29,6 % |
+| Weißer Beton | `white_concrete` | 31.820 | 14,0 % |
+| Glatter Sandstein | `smooth_sandstone` | 27.774 | 12,2 % |
+| Polierter Tuffstein | `polished_tuff` | 25.476 | 11,2 % |
 | Rosa Keramik | `pink_terracotta` | 17.412 | 7,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 15.526 | 6,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 11.754 | 5,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 15.526 | 6,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.180 | 4,0 % |
 | Orange Keramik | `orange_terracotta` | 8.159 | 3,6 % |
-| Glatter Stein | `smooth_stone` | 5.533 | 2,4 % |
-| Graues Buntglas | `gray_stained_glass` | 4.214 | 1,9 % |
-| Endsteinziegel | `end_stone_bricks` | 3.900 | 1,7 % |
-| Ziegelsteine | `bricks` | 1.193 | 0,5 % |
-| Grüner Beton | `green_concrete` | 1.148 | 0,5 % |
-| Polierter Andesit | `polished_andesite` | 1.028 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.021 | 0,5 % |
+| Endsteinziegel | `end_stone_bricks` | 6.424 | 2,8 % |
+| Glatter Stein | `smooth_stone` | 6.195 | 2,7 % |
+| Graues Buntglas | `gray_stained_glass` | 4.206 | 1,9 % |
+| Grüner Beton | `green_concrete` | 1.191 | 0,5 % |
+| Ziegelsteine | `bricks` | 1.190 | 0,5 % |
+| Polierter Andesit | `polished_andesite` | 1.037 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 957 | 0,4 % |
 | Tuffstein | `tuff` | 909 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 646 | 0,3 % |
-| Seelaterne | `sea_lantern` | 424 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 213 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 199 | 0,1 % |
+| Seelaterne | `sea_lantern` | 427 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 189 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 177 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 174 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 160 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 78 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 78 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 74 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 66 | 0,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 65 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 52 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 50 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 112 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 102 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 83 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 83 | 0,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 72 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
@@ -61,8 +61,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 746 |
-| Steintreppe | `stone_stairs` | 242 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 700 |
+| Steintreppe | `stone_stairs` | 294 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -73,10 +73,10 @@
 | 2 | `r7139628_innen` | Haus r7139628: Innenausbau | 3.124 | 15.9–15.10 |
 | 3 | `w112652076` | Palazzo des Cinquecento an Via Sant'Orsola | 8.355 | 15.11–15.15 |
 | 4 | `w112652076_innen` | Palazzo des Cinquecento an Via Sant'Orsola: Innenausbau | 1.036 | 15.16 |
-| 5 | `w306395986` | Palazzo Tolomei Biffi | 5.544 | 15.17–15.19 |
-| 6 | `w306395986_innen` | Palazzo Tolomei Biffi: Innenausbau | 905 | 15.20 |
-| 7 | `w306395987` | Palazzetto dei Serragli | 4.634 | 15.21–15.23 |
-| 8 | `w306395987_innen` | Palazzetto dei Serragli: Innenausbau | 1.069 | 15.24 |
+| 5 | `w306395986` | Palazzo Tolomei Biffi | 5.603 | 15.17–15.19 |
+| 6 | `w306395986_innen` | Palazzo Tolomei Biffi: Innenausbau | 1.789 | 15.20 |
+| 7 | `w306395987` | Palazzetto dei Serragli | 4.676 | 15.21–15.23 |
+| 8 | `w306395987_innen` | Palazzetto dei Serragli: Innenausbau | 736 | 15.24 |
 | 9 | `w485180641` | Palazzo des Ottocento an Via Sant'Orsola | 18.593 | 15.25–15.37 |
 | 10 | `w485180641_innen` | Palazzo des Ottocento an Via Sant'Orsola: Innenausbau | 4.856 | 15.38–15.41 |
 | 11 | `w485180642` | Reihenhaus an Via dei Ginori | 8.208 | 15.42–15.45 |
@@ -650,10 +650,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.17 – Palazzo Tolomei Biffi – Teil 1/3 (Y 66–73)
+### Schritt 15.17 – Palazzo Tolomei Biffi – Teil 1/3 (Y 66–72)
 
-- **Y-Bereich:** 66 bis 73
-- **Blöcke:** 1.904
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 1.810
 - **Bauteile:** `w306395986`
 
 **Teileliste**
@@ -661,16 +661,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 994 |
-| Gelbe Keramik | `yellow_terracotta` | 768 |
-| Weißer Beton | `white_concrete` | 65 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
-| Glatter Stein | `smooth_stone` | 16 |
-| Tuffsteinziegel | `tuff_bricks` | 11 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Endsteinziegel | `end_stone_bricks` | 665 |
+| Glatter Stein | `smooth_stone` | 113 |
+| Graues Buntglas | `gray_stained_glass` | 20 |
+| Polierter Andesit | `polished_andesite` | 9 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Umgestaltung 1692–94 (Antonio Maria Ferri)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tolomei_Biffi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -682,28 +681,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 15.18 – Palazzo Tolomei Biffi – Teil 2/3 (Y 74–86)
+### Schritt 15.18 – Palazzo Tolomei Biffi – Teil 2/3 (Y 73–86)
 
-- **Y-Bereich:** 74 bis 86
-- **Blöcke:** 1.785
+- **Y-Bereich:** 73 bis 86
+- **Blöcke:** 1.948
 - **Bauteile:** `w306395986`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.454 |
-| Weißer Beton | `white_concrete` | 160 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Glatter Stein | `smooth_stone` | 54 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Endsteinziegel | `end_stone_bricks` | 1.502 |
+| Glatter Stein | `smooth_stone` | 324 |
+| Graues Buntglas | `gray_stained_glass` | 109 |
+| Polierter Andesit | `polished_andesite` | 7 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Umgestaltung 1692–94 (Antonio Maria Ferri)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tolomei_Biffi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -715,12 +713,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.19 – Palazzo Tolomei Biffi – Teil 3/3 (Y 87–98)
 
 - **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.855
+- **Blöcke:** 1.845
 - **Bauteile:** `w306395986`
 
 **Teileliste**
@@ -728,14 +726,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.276 |
-| Gelbe Keramik | `yellow_terracotta` | 352 |
-| Glatter Stein | `smooth_stone` | 91 |
-| Weißer Beton | `white_concrete` | 77 |
+| Endsteinziegel | `end_stone_bricks` | 357 |
+| Glatter Stein | `smooth_stone` | 140 |
 | Ziegelsteine | `bricks` | 59 |
+| Graues Buntglas | `gray_stained_glass` | 13 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Umgestaltung 1692–94 (Antonio Maria Ferri)), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Tolomei_Biffi, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -747,31 +745,31 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.20 – Palazzo Tolomei Biffi: Innenausbau
 
-- **Y-Bereich:** 66 bis 78
-- **Blöcke:** 905
+- **Y-Bereich:** 66 bis 83
+- **Blöcke:** 1.789
 - **Bauteile:** `w306395986_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 843 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Seelaterne | `sea_lantern` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Terrakotta | `terracotta` | 1.686 |
+| Glatter Stein | `smooth_stone` | 44 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 16 |
+| Seelaterne | `sea_lantern` | 15 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
+| Steintreppe | `stone_stairs` | 32 |
 
 **Beschreibung**
 
@@ -792,22 +790,24 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 15.21 – Palazzetto dei Serragli – Teil 1/3 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
-- **Blöcke:** 1.512
+- **Blöcke:** 1.510
 - **Bauteile:** `w306395987`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.030 |
+| Weißer Beton | `white_concrete` | 972 |
 | Polierter Tuffstein | `polished_tuff` | 447 |
-| Glatter Stein | `smooth_stone` | 20 |
-| Graues Buntglas | `gray_stained_glass` | 9 |
-| Grüner Beton | `green_concrete` | 6 |
+| Glatter Stein | `smooth_stone` | 42 |
+| Graues Buntglas | `gray_stained_glass` | 15 |
+| Grüner Beton | `green_concrete` | 15 |
+| Tuffsteinziegel | `tuff_bricks` | 10 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Wappen am alten Portal 1542)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_dei_Serragli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -819,25 +819,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.22 – Palazzetto dei Serragli – Teil 2/3 (Y 74–86)
 
 - **Y-Bereich:** 74 bis 86
-- **Blöcke:** 1.556
+- **Blöcke:** 1.570
 - **Bauteile:** `w306395987`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.484 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
-| Grüner Beton | `green_concrete` | 24 |
+| Weißer Beton | `white_concrete` | 1.411 |
+| Glatter Stein | `smooth_stone` | 94 |
+| Grüner Beton | `green_concrete` | 35 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Wappen am alten Portal 1542)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_dei_Serragli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -849,27 +850,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 15.23 – Palazzetto dei Serragli – Teil 3/3 (Y 87–99)
+### Schritt 15.23 – Palazzetto dei Serragli – Teil 3/3 (Y 87–104)
 
-- **Y-Bereich:** 87 bis 99
-- **Blöcke:** 1.566
+- **Y-Bereich:** 87 bis 104
+- **Blöcke:** 1.596
 - **Bauteile:** `w306395987`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 951 |
-| Terrakotta | `terracotta` | 549 |
-| Ziegelsteine | `bricks` | 30 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Grüner Beton | `green_concrete` | 12 |
+| Weißer Beton | `white_concrete` | 877 |
+| Terrakotta | `terracotta` | 567 |
+| Glatter Stein | `smooth_stone` | 60 |
+| Grüner Beton | `green_concrete` | 35 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
+| Ziegelsteine | `bricks` | 27 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Wappen am alten Portal 1542)), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_dei_Serragli, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -881,33 +883,33 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.24 – Palazzetto dei Serragli: Innenausbau
 
-- **Y-Bereich:** 64 bis 87
-- **Blöcke:** 1.069
+- **Y-Bereich:** 64 bis 85
+- **Blöcke:** 736
 - **Bauteile:** `w306395987_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 951 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 634 |
+| Glatter Stein | `smooth_stone` | 54 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
+| Seelaterne | `sea_lantern` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Steintreppe | `stone_stairs` | 42 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

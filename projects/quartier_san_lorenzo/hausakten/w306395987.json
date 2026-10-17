@@ -1,23 +1,19 @@
 {
   "id": "w306395987",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16. Jh. (Wappen am alten Portal 1542)",
   "geschosse": [
     {
       "art": "eg",
+      "hoeheBl": 12
+    },
+    {
+      "art": "og",
       "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -31,23 +27,28 @@
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "keiner",
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "loggia_2og_schlanke_saeulchen",
+      "wappen_1542",
+      "kniefenster_pietra_serena",
+      "asymmetrisch_aus_zwei_haeusern"
+    ]
   },
   "dach": {
-    "form": "sattel",
+    "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzetto_dei_Serragli",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: drei Geschosse, Wappen am alten Portal mit Jahreszahl 1542, Kniefenster aus Pietra serena, Loggia auf schlanken Säulchen im zweiten Obergeschoss, asymmetrische Form durch zwei ursprünglich getrennte Gebäude, Vorbau über Via Rosina und Piazza del Mercato Centrale; erstmals sicher 1887 erwähnt. Annahme: Loggia als Altana abgebildet, Putzfarbe, Achsen, Gesims.",
   "name": "Palazzetto dei Serragli"
 }
